@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "question": "Quel adjectif décrit correctement une personne de grande taille et mince ?",
+    "options": ["A. Petit et corpulent", "B. Grand et élancé", "C. Court et large", "D. Gros et trapu"],
+    "answer": "B",
+    "topic": "Décrire des traits Physiques",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "Complétez : 'Mon ami est très ________, il aide toujours les autres.'",
+    "options": ["A. timide", "B. gentil", "C. malhonnête", "D. paresseux"],
+    "answer": "B",
+    "topic": "Parler des caractéristiques personnelles",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "Quelle expression exprime une attitude négative envers quelqu'un ?",
+    "options": ["A. Il est charmant", "B. Je le déteste", "C. C'est amusant", "D. J'adore son sourire"],
+    "answer": "B",
+    "topic": "Exprimer les attitudes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Parmi ces métiers, lequel soigne les malades à l'hôpital ?",
+    "options": ["A. Le pilote", "B. L'ingénieur", "C. L'infirmière", "D. Le journaliste"],
+    "answer": "C",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Quelle qualité admire-t-on chez une personne honnête et sympathique ?",
+    "options": ["A. Rusé et méchant", "B. Chaleureux et adorable", "C. Timide et paresseux", "D. Malhonnête et froid"],
+    "answer": "B",
+    "topic": "Décrire les qualités admirables",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Que dit-on quand il fait très chaud en saison sèche ?",
+    "options": ["A. Il fait froid", "B. Il fait beau temps", "C. Il fait chaud", "D. C'est l'harmattan frais"],
+    "answer": "C",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Quelle caractéristique est typique de la vie rurale ?",
+    "options": ["A. Beaucoup d'électricité", "B. Peu de jeunes et pas d'électricité", "C. Grandes routes modernes", "D. Hôpitaux partout"],
+    "answer": "B",
+    "topic": "Dégager les caractéristiques de la vie rurale",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Dans la vie urbaine, on remarque surtout :",
+    "options": ["A. Les routes de sable", "B. Les voitures et l'électricité", "C. La chasse au gibier", "D. Beaucoup de moustiques"],
+    "answer": "B",
+    "topic": "Dégager les caractéristiques de la vie urbaine",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "Quelle expression montre une différence entre ville et campagne ?",
+    "options": ["A. Les maisons sont identiques", "B. À la différence de la ville", "C. Tout est pareil", "D. Pas de ressemblance"],
+    "answer": "B",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Lors des grandes fêtes de la communauté, on observe :",
+    "options": ["A. Peu d'animation", "B. Une grande animation et beaucoup à manger", "C. Silence total", "D. Absence de spectacles"],
+    "answer": "B",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Quelle chose nouvelle dans la communauté facilite la communication ?",
+    "options": ["A. La brousse", "B. Le téléphone et la télévision", "C. Les routes de sable", "D. L'absence d'électricité"],
+    "answer": "B",
+    "topic": "Identifier les choses nouvelles dans la communauté",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Comment appelle-t-on quelqu'un qui n'est pas de la famille ou du village ?",
+    "options": ["A. Un ami proche", "B. Un étranger", "C. Un parent", "D. Un voisin familier"],
+    "answer": "B",
+    "topic": "Identifier les étrangers",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Quelle maladie est causée par les moustiques ?",
+    "options": ["A. La grippe", "B. Le paludisme", "C. Le choléra", "D. La dysenterie"],
+    "answer": "B",
+    "topic": "Nommer les maladies",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "Quelle est une cause principale du choléra ?",
+    "options": ["A. Le froid", "B. L'eau sale", "C. Trop de sport", "D. La fatigue seule"],
+    "answer": "B",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Qui est souvent plus affecté par les maladies dans les zones rurales ?",
+    "options": ["A. Les riches en ville", "B. Les enfants et les pauvres", "C. Seulement les adultes", "D. Personne"],
+    "answer": "B",
+    "topic": "Parler des populations affectées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "Pourquoi l'hygiène est-elle importante ?",
+    "options": ["A. Pour tomber malade souvent", "B. Pour éviter les maladies et avoir une longue vie", "C. Pour polluer plus", "D. Pour dépenser plus d'argent"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "Que fait-on pendant les moments de récréation ?",
+    "options": ["A. On travaille dur", "B. On chante, on danse et on joue", "C. On dort uniquement", "D. On étudie en silence"],
+    "answer": "B",
+    "topic": "Parler de ce que l'on fait pour se récréer",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Quel moyen de transport est lent en cas d'embouteillage ?",
+    "options": ["A. L'avion", "B. La voiture", "C. Le cheval", "D. La bicyclette uniquement"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "Quel est un avantage principal du sport ?",
+    "options": ["A. La maladie", "B. La santé et la discipline", "C. La paresse", "D. L'isolement"],
+    "answer": "B",
+    "topic": "Expliquer l'importance du sport",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "Quel sport se pratique avec un ballon rond sur un terrain ?",
+    "options": ["A. Le tennis", "B. Le football", "C. La natation", "D. Le judo"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Comment demande-t-on poliment quelque chose ?",
+    "options": ["A. Donne-moi ça !", "B. S'il vous plaît, je peux avoir... ?", "C. Maintenant !", "D. Je veux sans demander"],
+    "answer": "B",
+    "topic": "Demander poliment",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Quelle expression exprime la peur ?",
+    "options": ["A. J'adore ça", "B. J'ai peur qu'il soit malade", "C. C'est amusant", "D. Je suis content"],
+    "answer": "B",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Que fait-on tous les matins selon la routine quotidienne ?",
+    "options": ["A. On dort tard", "B. On se réveille, se lave et s'habille", "C. On joue toute la nuit", "D. On ignore tout"],
+    "answer": "B",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Utilisez le passé composé : Hier, je ________ au marché.",
+    "options": ["A. vais", "B. suis allé", "C. irai", "D. aller"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Dans une lettre d'amitié informelle, comment commence-t-on souvent ?",
+    "options": ["A. Monsieur le Directeur,", "B. Cher ami, salut ! Ça va ?", "C. À qui de droit,", "D. Formalités officielles"],
+    "answer": "B",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Que dit-on au téléphone pour répondre ?",
+    "options": ["A. Faux numéro", "B. Allô ! Oui, bonjour !", "C. Raccroche tout de suite", "D. Je ne parle pas"],
+    "answer": "B",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "Quel adjectif féminin s'accorde avec 'une fille grande' ?",
+    "options": ["A. grand", "B. grande", "C. grands", "D. grandes"],
+    "answer": "B",
+    "topic": "Grammaire - Accords",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "Choisissez la bonne profession : 'Il répare les voitures.'",
+    "options": ["A. Le médecin", "B. Le mécanicien", "C. L'avocat", "D. L'enseignant"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Dans la campagne, on trouve beaucoup de :",
+    "options": ["A. Embouteillages", "B. Produits agricoles", "C. Banques modernes", "D. Usines bruyantes"],
+    "answer": "B",
+    "topic": "Décrire la vie rurale",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Quelle expression de temps indique le passé récent ?",
+    "options": ["A. Demain", "B. Hier", "C. Aujourd'hui matin", "D. L'année prochaine"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Comment dit-on 'grand' au féminin pour décrire une fille ?",
+    "options": ["A. Grand", "B. Grande", "C. Grands", "D. Grandes"],
+    "answer": "B",
+    "topic": "Décrire des traits Physiques",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "Quel mot décrit une personne qui rit souvent ?",
+    "options": ["A. Timide", "B. Souriant", "C. Malhonnête", "D. Paresseux"],
+    "answer": "B",
+    "topic": "Parler des caractéristiques personnelles",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "Que signifie 'Je n'aime pas' ?",
+    "options": ["A. J'adore", "B. Je déteste", "C. C'est beau", "D. Il est gentil"],
+    "answer": "B",
+    "topic": "Exprimer les attitudes",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Qui est responsable de soigner les patients ?",
+    "options": ["A. Le pilote", "B. Le médecin", "C. Le chauffeur", "D. L'avocat"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Quelle qualité est positive : charmant ou méchant ?",
+    "options": ["A. Méchant", "B. Charmant", "C. Rusé", "D. Malhonnête"],
+    "answer": "B",
+    "topic": "Décrire les qualités admirables",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "Comment dit-on 'It is hot' en français pour le temps ?",
+    "options": ["A. Il fait froid", "B. Il fait chaud", "C. Il pleut", "D. Il neige"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "Dans la vie rurale, on trouve souvent :",
+    "options": ["A. Des embouteillages", "B. Des champs agricoles", "C. Des usines", "D. Des gratte-ciels"],
+    "answer": "B",
+    "topic": "Décrire la vie rurale",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Quelle est une caractéristique de la vie urbaine ?",
+    "options": ["A. Routes en sable", "B. Électricité et voitures", "C. Beaucoup de moustiques", "D. Chasse au gibier"],
+    "answer": "B",
+    "topic": "Dégager les caractéristiques de la vie urbaine",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Quelle expression montre une différence ?",
+    "options": ["A. C'est pareil", "B. À la différence de", "C. Tout est identique", "D. Pas de changement"],
+    "answer": "B",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Pendant les grandes fêtes communautaires, il y a :",
+    "options": ["A. Du silence", "B. Une grande animation", "C. Personne", "D. Pas de nourriture"],
+    "answer": "B",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Quel objet nouveau améliore la communication ?",
+    "options": ["A. La brousse", "B. Le téléphone", "C. Les moustiques", "D. Les routes de sable"],
+    "answer": "B",
+    "topic": "Identifier les choses nouvelles dans la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Un étranger est quelqu'un qui :",
+    "options": ["A. Est de la famille", "B. N'est pas connu dans le village", "C. Est un voisin proche", "D. Vit dans la même maison"],
+    "answer": "B",
+    "topic": "Identifier les étrangers",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "Quelle maladie est transmise par les moustiques ?",
+    "options": ["A. Choléra", "B. Paludisme", "C. Grippe", "D. Fatigue"],
+    "answer": "B",
+    "topic": "Nommer les maladies",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Le choléra est souvent causé par :",
+    "options": ["A. Le froid", "B. L'eau sale", "C. Le sport", "D. La lecture"],
+    "answer": "B",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Qui est le plus vulnérable aux maladies ?",
+    "options": ["A. Les riches", "B. Les enfants et les pauvres", "C. Les touristes", "D. Les animaux"],
+    "answer": "B",
+    "topic": "Parler des populations affectées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "L'hygiène permet de :",
+    "options": ["A. Tomber malade", "B. Éviter les maladies", "C. Polluer l'environnement", "D. Perdre du temps"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "Pendant la récréation, les élèves :",
+    "options": ["A. Étudient", "B. Jouent et s'amusent", "C. Dorment", "D. Travaillent"],
+    "answer": "B",
+    "topic": "Parler de ce que l'on fait pour se récréer",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "Un moyen de voyage rapide est :",
+    "options": ["A. À pied", "B. Par avion", "C. À cheval", "D. En bicyclette"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Le sport favorise surtout :",
+    "options": ["A. La maladie", "B. La santé", "C. La paresse", "D. L'isolement"],
+    "answer": "B",
+    "topic": "Expliquer l'importance du sport",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Quel sport utilise un ballon et un terrain ?",
+    "options": ["A. Natation", "B. Football", "C. Judo", "D. Tennis"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Pour demander poliment, on dit :",
+    "options": ["A. Donne !", "B. S'il vous plaît", "C. Maintenant", "D. Je veux"],
+    "answer": "B",
+    "topic": "Demander poliment",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "'J'ai peur que' exprime :",
+    "options": ["A. La joie", "B. La peur", "C. L'amour", "D. La colère"],
+    "answer": "B",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Tous les jours, on se réveille et :",
+    "options": ["A. On dort", "B. On se lave", "C. On ignore tout", "D. On joue seulement"],
+    "answer": "B",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "Hier, je ________ au marché. (passé composé)",
+    "options": ["A. vais", "B. suis allé", "C. irai", "D. aller"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "Dans une lettre informelle, on commence par :",
+    "options": ["A. Monsieur,", "B. Cher ami,", "C. À qui de droit,", "D. Madame le Directeur,"],
+    "answer": "B",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Au téléphone, on dit d'abord :",
+    "options": ["A. Au revoir", "B. Allô !", "C. Faux numéro", "D. Raccroche"],
+    "answer": "B",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Choisissez le bon accord : Une fille ________ (petit).",
+    "options": ["A. petit", "B. petite", "C. petits", "D. petites"],
+    "answer": "B",
+    "topic": "Grammaire - Accords",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Le verbe 'être' à 'nous' est :",
+    "options": ["A. suis", "B. sommes", "C. êtes", "D. est"],
+    "answer": "B",
+    "topic": "Grammaire - Conjugaison",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Comment dit-on 'How are you?' en français ?",
+    "options": ["A. Où es-tu ?", "B. Comment ça va ?", "C. Quel âge as-tu ?", "D. Que fais-tu ?"],
+    "answer": "B",
+    "topic": "Expressions courantes",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "Un plombier répare :",
+    "options": ["A. Les voitures", "B. Les tuyaux", "C. Les malades", "D. Les avions"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Quelle saison est mentionnée avec l'harmattan ?",
+    "options": ["A. Saison des pluies", "B. Saison sèche", "C. Hiver", "D. Printemps"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Les ressemblances entre ville et campagne incluent :",
+    "options": ["A. Églises et mosquées", "B. Embouteillages seulement", "C. Pas d'électricité", "D. Chasse au gibier"],
+    "answer": "A",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "Une chose nouvelle dans la communauté est :",
+    "options": ["A. La chasse", "B. L'électricité", "C. La brousse", "D. Les moustiques"],
+    "answer": "B",
+    "topic": "Identifier les choses nouvelles dans la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "La dysenterie est souvent causée par :",
+    "options": ["A. Le froid", "B. Nourriture gâtée", "C. Le sport", "D. La télévision"],
+    "answer": "B",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Que fait-on pour se récréer ?",
+    "options": ["A. On travaille", "B. On danse et chante", "C. On dort", "D. On lit seulement"],
+    "answer": "B",
+    "topic": "Parler de ce que l'on fait pour se récréer",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "En voyage, un embouteillage cause :",
+    "options": ["A. De la vitesse", "B. Du retard", "C. Du plaisir", "D. De la natation"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Le football est un sport :",
+    "options": ["A. Individuel", "B. Collectif", "C. Aquatique", "D. De combat"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "J'ai horreur de :",
+    "options": ["A. Prendre des médicaments (exemple de peur)", "B. Manger du chocolat", "C. Jouer au foot", "D. Regarder la télé"],
+    "answer": "A",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "Routine quotidienne : On ________ les mains avant de manger.",
+    "options": ["A. lave", "B. salit", "C. ignore", "D. cache"],
+    "answer": "A",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Dans le passé composé, 'aller' devient :",
+    "options": ["A. allé", "B. suis allé", "C. irai", "D. va"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Dans la conclusion d'une lettre d'amitié, on écrit souvent :",
+    "options": ["A. Je t'embrasse", "B. Votre obéissant serviteur", "C. Cordialement", "D. Respectueusement"],
+    "answer": "A",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Au téléphone : 'La ligne est ________.'",
+    "options": ["A. bloquée", "B. ouverte", "C. propre", "D. silencieuse"],
+    "answer": "A",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Un ingénieur travaille avec :",
+    "options": ["A. Les malades", "B. Les machines", "C. Les tribunaux", "D. Les journaux"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Il fait mauvais temps signifie :",
+    "options": ["A. Beau soleil", "B. Mauvais temps", "C. Chaud", "D. Froid sec"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Les routes en tôles sont typiques de :",
+    "options": ["A. La ville seulement", "B. La campagne et la ville", "C. La brousse", "D. L'hôpital"],
+    "answer": "B",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Les ancêtres sont importants pendant :",
+    "options": ["A. Les fêtes communautaires", "B. Les voyages", "C. Le sport", "D. Les appels téléphoniques"],
+    "answer": "A",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Le paludisme affecte surtout :",
+    "options": ["A. Les riches", "B. Les ruraux et enfants", "C. Les pilotes", "D. Les journalistes"],
+    "answer": "B",
+    "topic": "Parler des populations affectées",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Laver les aliments aide à :",
+    "options": ["A. Causer des maladies", "B. Protéger la santé", "C. Polluer", "D. Perdre du temps"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Un avantage du sport est :",
+    "options": ["A. La discipline", "B. La fatigue extrême", "C. L'accident", "D. L'embouteillage"],
+    "answer": "A",
+    "topic": "Expliquer l'importance du sport",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "La natation se pratique :",
+    "options": ["A. Sur terre", "B. Dans l'eau", "C. Avec un ballon", "D. Sur un ring"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Je voudrais... est une façon :",
+    "options": ["A. Impolie", "B. Polie", "C. Ordinaire", "D. Silencieuse"],
+    "answer": "B",
+    "topic": "Demander poliment",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Conjuguez 'regarder' au présent pour 'je' :",
+    "options": ["A. regardes", "B. regarde", "C. regardons", "D. regardent"],
+    "answer": "B",
+    "topic": "Grammaire - Conjugaison",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Dans la vie rurale, il y a peu de :",
+    "options": ["A. Champs", "B. Jeunes", "C. Nourriture", "D. Air frais"],
+    "answer": "B",
+    "topic": "Dégager les caractéristiques de la vie rurale",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "Une fête d'anniversaire est souvent mentionnée dans :",
+    "options": ["A. Une lettre d'amitié", "B. Un appel téléphonique", "C. Un voyage", "D. Un match de sport"],
+    "answer": "A",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Faux numéro au téléphone signifie :",
+    "options": ["A. Bonne connexion", "B. Mauvais numéro", "C. Bonne conversation", "D. Appel réussi"],
+    "answer": "B",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "Un journaliste travaille avec :",
+    "options": ["A. Les outils", "B. Les informations", "C. Les patients", "D. Les voitures"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "C'est l'harmattan signifie :",
+    "options": ["A. Saison des pluies", "B. Saison sèche", "C. Temps chaud", "D. Temps froid"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Les supertitions sont mentionnées dans :",
+    "options": ["A. Les fêtes communautaires", "B. Les voyages", "C. Le sport", "D. L'hygiène"],
+    "answer": "A",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "Balayer la cour est une action de :",
+    "options": ["A. Routine quotidienne", "B. Voyage", "C. Sport", "D. Fête"],
+    "answer": "A",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "D'abord, puis, ensuite sont utilisés pour :",
+    "options": ["A. Décrire le futur", "B. Raconter une histoire au passé", "C. Demander poliment", "D. Parler du temps"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Un terroriste est un exemple de :",
+    "options": ["A. Ami proche", "B. Étranger dangereux", "C. Profession", "D. Qualité admirable"],
+    "answer": "B",
+    "topic": "Identifier les étrangers",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "La grippe est causée par :",
+    "options": ["A. L'eau sale", "B. Le froid", "C. Les moustiques", "D. La nourriture"],
+    "answer": "B",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "Le karaté est un sport de :",
+    "options": ["A. Ballon", "B. Combat", "C. Eau", "D. Course"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Je crains que ce soit grave exprime :",
+    "options": ["A. Joie", "B. Peur", "C. Amour", "D. Faim"],
+    "answer": "B",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Présent de 'avoir' pour 'ils' :",
+    "options": ["A. a", "B. ont", "C. avons", "D. as"],
+    "answer": "B",
+    "topic": "Grammaire - Conjugaison",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Une bonne route facilite :",
+    "options": ["A. Les accidents", "B. Les voyages", "C. La maladie", "D. Le silence"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Le roi du village est important pendant :",
+    "options": ["A. Les fêtes", "B. Les examens", "C. Les appels", "D. Les routines"],
+    "answer": "A",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "Laver les mains avant de manger est :",
+    "options": ["A. Inutile", "B. Important pour l'hygiène", "C. Dangereux", "D. Amusant"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "Le ping-pong est aussi appelé :",
+    "options": ["A. Football", "B. Tennis de table", "C. Natation", "D. Athlétisme"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Dans une lettre : 'A bientôt' signifie :",
+    "options": ["A. Adieu permanent", "B. On se revoit bientôt", "C. Merci beaucoup", "D. Je suis fâché"],
+    "answer": "B",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Comment dit-on 'petit' au masculin pluriel ?",
+    "options": ["A. Petite", "B. Petits", "C. Petites", "D. Petit"],
+    "answer": "B",
+    "topic": "Décrire des traits Physiques",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Une personne honnête est souvent décrite comme :",
+    "options": ["A. Rusé", "B. Honnête", "C. Méchant", "D. Timide"],
+    "answer": "B",
+    "topic": "Parler des caractères des gens",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "'C'est beau' exprime :",
+    "options": ["A. Une attitude négative", "B. Une appréciation positive", "C. De la peur", "D. De la haine"],
+    "answer": "B",
+    "topic": "Exprimer les attitudes",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "L'enseignant travaille dans :",
+    "options": ["A. Un hôpital", "B. Une école", "C. Un garage", "D. Un tribunal"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "Une qualité admirable est :",
+    "options": ["A. Malhonnête", "B. Sympathique", "C. Paresseux", "D. Rusé"],
+    "answer": "B",
+    "topic": "Décrire les qualités admirables",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Il fait froid pendant :",
+    "options": ["A. La saison des pluies", "B. L'harmattan", "C. La grande chaleur", "D. Les vacances chaudes"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Dans la vie rurale, on trouve souvent :",
+    "options": ["A. Des gratte-ciel", "B. Des champs et de l'air frais", "C. Des embouteillages constants", "D. Des banques partout"],
+    "answer": "B",
+    "topic": "Décrire la vie rurale",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "Une caractéristique de la vie urbaine est :",
+    "options": ["A. Peu d'électricité", "B. Les choses coûtent chères", "C. La chasse au gibier", "D. Beaucoup de moustiques"],
+    "answer": "B",
+    "topic": "Dégager les caractéristiques de la vie urbaine",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Pour comparer ville et campagne, on utilise souvent :",
+    "options": ["A. C'est exactement pareil", "B. Mais à la différence de", "C. Tout est identique", "D. Aucune différence"],
+    "answer": "B",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Pendant les grandes fêtes, il y a beaucoup :",
+    "options": ["A. De silence", "B. À manger et à boire", "C. D'ennui", "D. De travail"],
+    "answer": "B",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Le pont et la télévision sont des exemples de :",
+    "options": ["A. Choses anciennes", "B. Choses nouvelles dans la communauté", "C. Vie rurale traditionnelle", "D. Problèmes de santé"],
+    "answer": "B",
+    "topic": "Identifier les choses nouvelles dans la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Un kidnappeur est considéré comme :",
+    "options": ["A. Un ami", "B. Un étranger dangereux", "C. Un parent", "D. Un voisin"],
+    "answer": "B",
+    "topic": "Identifier les étrangers",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "La fièvre jaune est une maladie :",
+    "options": ["A. Rarement mentionnée", "B. Courante", "C. Causée seulement par le froid", "D. Sans cause"],
+    "answer": "B",
+    "topic": "Nommer les maladies",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Une cause de fatigue est souvent :",
+    "options": ["A. Trop de repos", "B. Absence de travail", "C. Le travail excessif", "D. La bonne nourriture"],
+    "answer": "C",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Les populations affectées par les maladies incluent :",
+    "options": ["A. Seulement les riches", "B. Les enfants, les femmes et les ruraux", "C. Uniquement les hommes", "D. Personne"],
+    "answer": "B",
+    "topic": "Parler des populations affectées",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Faire cuire la nourriture aide à :",
+    "options": ["A. Causer des maladies", "B. Protéger la famille", "C. Augmenter la pollution", "D. Perdre de l'argent"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "On s'amuse pendant :",
+    "options": ["A. Les heures de classe", "B. Les moments de récréation", "C. Les examens", "D. Le sommeil"],
+    "answer": "B",
+    "topic": "Parler de ce que l'on fait pour se récréer",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "En voyage, 'en retard' signifie :",
+    "options": ["A. Arrivée à l'heure", "B. Arrivée tardive", "C. Départ immédiat", "D. Voyage agréable"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Le sport encourage :",
+    "options": ["A. La paresse", "B. La discipline et l'amitié", "C. La maladie", "D. L'isolement"],
+    "answer": "B",
+    "topic": "Expliquer l'importance du sport",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "La lutte est un sport :",
+    "options": ["A. Aquatique", "B. Traditionnel africain", "C. Avec ballon", "D. De lecture"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Je peux vous demander s'il vous plaît ? est une phrase :",
+    "options": ["A. Impolie", "B. Polie", "C. Neutre", "D. Négative"],
+    "answer": "B",
+    "topic": "Demander poliment",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "'J'ai honte de' exprime un sentiment de :",
+    "options": ["A. Joie", "B. Honte", "C. Amour", "D. Faim"],
+    "answer": "B",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Tous les jours, on ________ la cour.",
+    "options": ["A. salit", "B. balaie", "C. ignore", "D. détruit"],
+    "answer": "B",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Au début, puis, enfin servent à :",
+    "options": ["A. Décrire le futur", "B. Organiser une narration au passé", "C. Demander l'heure", "D. Parler du temps"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Dans une lettre d'amitié, 'Bien à toi' est utilisé pour :",
+    "options": ["A. Commencer", "B. Conclure", "C. Saluer formellement", "D. Poser une question"],
+    "answer": "B",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Quand la ligne est brouillée au téléphone, on :",
+    "options": ["A. Parle normalement", "B. A des interférences", "C. Raccroche immédiatement", "D. Change de numéro"],
+    "answer": "B",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Conjuguez 'aller' au présent pour 'vous' :",
+    "options": ["A. vais", "B. allez", "C. va", "D. allons"],
+    "answer": "B",
+    "topic": "Grammaire - Conjugaison",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Une infirmière travaille avec :",
+    "options": ["A. Les avions", "B. Les patients", "C. Les voitures", "D. Les journaux"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "La saison des pluies est caractérisée par :",
+    "options": ["A. L'harmattan", "B. Beaucoup de pluie", "C. Temps très sec", "D. Froid extrême"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Les maisons en tôles sont une ressemblance entre :",
+    "options": ["A. Ville et campagne", "B. Seulement la ville", "C. Seulement la brousse", "D. Hôpital et école"],
+    "answer": "A",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Les spectacles et l'animation sont typiques des :",
+    "options": ["A. Jours ordinaires", "B. Grandes fêtes de la communauté", "C. Voyages seuls", "D. Routines quotidiennes"],
+    "answer": "B",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Le commerce et les usines sont des nouveautés dans :",
+    "options": ["A. La vie rurale traditionnelle", "B. La communauté moderne", "C. La chasse", "D. Les maladies"],
+    "answer": "B",
+    "topic": "Identifier les choses nouvelles dans la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Un voleur à main armée est :",
+    "options": ["A. Un ami", "B. Un étranger dangereux", "C. Un professionnel honnête", "D. Un parent"],
+    "answer": "B",
+    "topic": "Identifier les étrangers",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Le choléra est causé principalement par :",
+    "options": ["A. Le froid intense", "B. L'eau sale", "C. Trop de sport", "D. La lecture"],
+    "answer": "B",
+    "topic": "Discuter les causes",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "On joue, on chante et on danse pendant :",
+    "options": ["A. Les examens", "B. Les loisirs et récréation", "C. Le sommeil", "D. Le travail forcé"],
+    "answer": "B",
+    "topic": "Parler de ce que l'on fait pour se récréer",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "Avoir un accident en voyage est :",
+    "options": ["A. Toujours agréable", "B. Un risque possible", "C. Impossible", "D. Souhaité"],
+    "answer": "B",
+    "topic": "Parler des voyages",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Le judo et le karaté sont des sports de :",
+    "options": ["A. Ballon", "B. Combat", "C. Natation", "D. Course à pied"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Ma mère a peur que je me sente seul exprime :",
+    "options": ["A. Confiance", "B. Inquiétude", "C. Joie", "D. Colère"],
+    "answer": "B",
+    "topic": "Employer les expressions de sentiments",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Dans la routine, on écoute souvent :",
+    "options": ["A. Rien", "B. La radio", "C. Seulement le silence", "D. Les examens"],
+    "answer": "B",
+    "topic": "Décrire ce qu'on fait tous les jours",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Le passé composé de 'manger' pour 'je' est :",
+    "options": ["A. mange", "B. ai mangé", "C. mangerai", "D. mangeais"],
+    "answer": "B",
+    "topic": "Raconter ce qui s'est passé",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "Inviter quelqu'un pour le weekend se fait dans :",
+    "options": ["A. Une facture", "B. Une lettre d'amitié", "C. Un contrat", "D. Un avis officiel"],
+    "answer": "B",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Recomposer le numéro est utile quand :",
+    "options": ["A. La ligne est bonne", "B. Il y a un faux numéro", "C. La conversation est terminée", "D. On parle bien"],
+    "answer": "B",
+    "topic": "Téléphoner",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Le mécanicien répare :",
+    "options": ["A. Les patients", "B. Les véhicules", "C. Les leçons", "D. Les nouvelles"],
+    "answer": "B",
+    "topic": "Parler des professions variées",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Il fait beau temps est le contraire de :",
+    "options": ["A. Il fait chaud", "B. Il fait mauvais temps", "C. Il pleut légèrement", "D. Il fait sec"],
+    "answer": "B",
+    "topic": "Parler du temps",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Les moyens de communication comme la radio sont :",
+    "options": ["A. Une différence", "B. Une ressemblance entre ville et campagne", "C. Absents en ville", "D. Inutiles"],
+    "answer": "B",
+    "topic": "Parler des ressemblances et différences",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "Les ancêtres et les superstitions font partie des :",
+    "options": ["A. Fêtes communautaires", "B. Routines quotidiennes", "C. Voyages en avion", "D. Sports modernes"],
+    "answer": "A",
+    "topic": "Décrire les grandes Etes de la communauté",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Les pauvres et les ruraux sont souvent :",
+    "options": ["A. Moins affectés", "B. Plus affectés par les maladies", "C. Immunisés", "D. Protégés naturellement"],
+    "answer": "B",
+    "topic": "Parler des populations affectées",
+    "subject": "French",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "Balayer et laver les mains sont des actions pour :",
+    "options": ["A. Augmenter les maladies", "B. Maintenir la bonne santé", "C. Créer de la pollution", "D. Perdre du temps"],
+    "answer": "B",
+    "topic": "Dire l'importance de l'hygiène",
+    "subject": "French",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "L'athlétisme inclut des épreuves de :",
+    "options": ["A. Natation", "B. Course et saut", "C. Boxe", "D. Tennis"],
+    "answer": "B",
+    "topic": "Nommer les principaux sports",
+    "subject": "French",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "Dans une lettre informelle, on peut parler de :",
+    "options": ["A. Ses loisirs et inviter un ami", "B. Des plaintes officielles", "C. Des demandes d'emploi", "D. Des rapports financiers"],
+    "answer": "A",
+    "topic": "Ecrire une lettre d'amitié",
+    "subject": "French",
+    "difficulty": "Medium"
+  }
+]

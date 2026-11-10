@@ -1,0 +1,3708 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of values in civic education?",
+    "options": ["A. Material possessions", "B. Likes and dislikes", "C. Physical strength", "D. Political opinions"],
+    "answer": "B",
+    "topic": "Civic Education - National Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Which level of value manifestation relates to an individual's personal beliefs?",
+    "options": ["A. Family level", "B. Society level", "C. Individual level", "D. National level"],
+    "answer": "C",
+    "topic": "Civic Education - Values",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "One importance of values in society is the promotion of?",
+    "options": ["A. Conflict", "B. Division", "C. Unity", "D. Isolation"],
+    "answer": "C",
+    "topic": "Civic Education - Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Which factor promotes a value system through steadfast adherence to principles?",
+    "options": ["A. Inconsistency", "B. Dishonesty", "C. Consistency", "D. Bias"],
+    "answer": "C",
+    "topic": "Civic Education - Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Honesty as a value means being?",
+    "options": ["A. Deceitful", "B. Truthful and upright", "C. Manipulative", "D. Secretive"],
+    "answer": "B",
+    "topic": "Civic Education - Honesty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Which of these is an attribute of honesty?",
+    "options": ["A. Lying", "B. Cheating", "C. Integrity", "D. Stealing"],
+    "answer": "C",
+    "topic": "Civic Education - Honesty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "A major consequence of dishonesty in schools is?",
+    "options": ["A. Higher grades", "B. Examination malpractice", "C. Better reputation", "D. Teacher appreciation"],
+    "answer": "B",
+    "topic": "Civic Education - Honesty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Cooperation involves working together for a?",
+    "options": ["A. Common goal", "B. Private gain", "C. Hidden agenda", "D. Selfish purpose"],
+    "answer": "A",
+    "topic": "Civic Education - Cooperation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Which of these is an attribute of cooperation?",
+    "options": ["A. Hoarding", "B. Greed", "C. Sharing", "D. Fighting"],
+    "answer": "C",
+    "topic": "Civic Education - Cooperation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "A benefit of cooperation in a community is?",
+    "options": ["A. Chaos", "B. Progress", "C. Backwardness", "D. Disunity"],
+    "answer": "B",
+    "topic": "Civic Education - Cooperation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "Self-reliance means depending on?",
+    "options": ["A. Others always", "B. One's own efforts", "C. Government handouts", "D. Foreign aid"],
+    "answer": "B",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "An attribute of a self-reliant person is?",
+    "options": ["A. Laziness", "B. Initiative", "C. Procrastination", "D. Dependency"],
+    "answer": "B",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "One benefit of self-reliance to society is?",
+    "options": ["A. Increased poverty", "B. Higher unemployment", "C. Economic growth", "D. Foreign domination"],
+    "answer": "C",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "The wealth of a nation is contained in its natural and?",
+    "options": ["A. Financial reserves", "B. Military power", "C. Human resources", "D. Foreign debts"],
+    "answer": "C",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "What is the meaning of integrity?",
+    "options": ["A. Lack of morals", "B. Wholesome character", "C. Deception", "D. Inconsistency"],
+    "answer": "B",
+    "topic": "Civic Education - Integrity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "Which of these is an attribute of integrity?",
+    "options": ["A. Probity", "B. Corruption", "C. Greed", "D. Envy"],
+    "answer": "A",
+    "topic": "Civic Education - Integrity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "Why does society need people of integrity?",
+    "options": ["A. To increase crime", "B. To ensure justice", "C. To spread rumours", "D. To encourage fraud"],
+    "answer": "B",
+    "topic": "Civic Education - Integrity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "Contentment means being satisfied with what one?",
+    "options": ["A. Desires", "B. Dreams of", "C. Has", "D. Borrows"],
+    "answer": "C",
+    "topic": "Civic Education - Contentment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Lack of contentment can lead to?",
+    "options": ["A. Happiness", "B. Peace", "C. Corruption", "D. Contentment"],
+    "answer": "C",
+    "topic": "Civic Education - Contentment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "One effect of lack of contentment in society is?",
+    "options": ["A. Robbery", "B. Cooperation", "C. Honesty", "D. Charity"],
+    "answer": "A",
+    "topic": "Civic Education - Contentment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Discipline involves self-control and respect for?",
+    "options": ["A. Laws", "B. Only friends", "C. Only oneself", "D. Only money"],
+    "answer": "A",
+    "topic": "Civic Education - Discipline",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "An attribute of discipline is?",
+    "options": ["A. Self-control", "B. Lawlessness", "C. Recklessness", "D. Impulsiveness"],
+    "answer": "A",
+    "topic": "Civic Education - Discipline",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Courage is the ability to face danger or difficulty without?",
+    "options": ["A. Fear", "B. Strength", "C. Planning", "D. Help"],
+    "answer": "A",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Standing up for what is right even when unpopular is called?",
+    "options": ["A. Physical courage", "B. Moral courage", "C. Spiritual courage", "D. Reckless courage"],
+    "answer": "B",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "An attribute of a courageous person is?",
+    "options": ["A. Cowardice", "B. Determination", "C. Indecision", "D. Apathy"],
+    "answer": "B",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "Right attitude to work includes being?",
+    "options": ["A. Lazy", "B. Punctual", "C. Irregular", "D. Careless"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "One reward of having the right attitude to work is?",
+    "options": ["A. Termination", "B. Higher productivity", "C. Demotion", "D. Sanctions"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "A consequence of not having the right attitude to work is?",
+    "options": ["A. National progress", "B. Declining productivity", "C. Increased rewards", "D. Job satisfaction"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "Citizenship by birth means a person is a citizen because?",
+    "options": ["A. They bought a passport", "B. They married a citizen", "C. They were born in the country", "D. They lived there for 10 years"],
+    "answer": "C",
+    "topic": "Civic Education - Citizenship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "A person can become a citizen by registration through?",
+    "options": ["A. Military service", "B. Marriage or adoption", "C. Buying land", "D. Changing name"],
+    "answer": "B",
+    "topic": "Civic Education - Citizenship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Naturalization is the process by which a foreigner becomes a citizen after?",
+    "options": ["A. One year", "B. Meeting legal requirements", "C. Paying a fee", "D. Changing religion"],
+    "answer": "B",
+    "topic": "Civic Education - Citizenship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "Rights are entitlements citizens enjoy, while duties are?",
+    "options": ["A. Optional activities", "B. Obligations to perform", "C. Illegal actions", "D. Personal wishes"],
+    "answer": "B",
+    "topic": "Civic Education - Rights and Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "One importance of citizens' rights and duties is?",
+    "options": ["A. Social chaos", "B. Anarchy", "C. Social control", "D. Lawlessness"],
+    "answer": "C",
+    "topic": "Civic Education - Rights and Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "The supremacy of the constitution means that the constitution is?",
+    "options": ["A. Equal to other laws", "B. Above all other laws", "C. Below the president", "D. Optional to obey"],
+    "answer": "B",
+    "topic": "Civic Education - Supremacy of Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "The Clifford Constitution of 1922 was introduced during?",
+    "options": ["A. Pre-colonial era", "B. Colonial era", "C. Post-independence", "D. Military rule"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "The Richards Constitution was enacted in?",
+    "options": ["A. 1922", "B. 1946", "C. 1951", "D. 1954"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "Which constitution introduced regional assemblies in Nigeria?",
+    "options": ["A. Clifford", "B. Richards", "C. Macpherson", "D. Lyttleton"],
+    "answer": "C",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "The Lyttleton Constitution of 1954 established?",
+    "options": ["A. Unitary system", "B. Federal system", "C. Confederal system", "D. Military rule"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Nigeria's Independence Constitution came into effect in?",
+    "options": ["A. 1954", "B. 1960", "C. 1963", "D. 1979"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "The 1963 Constitution made Nigeria a?",
+    "options": ["A. Colony", "B. Republic", "C. Monarchy", "D. Protectorate"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "The 1979 Constitution introduced which system of government?",
+    "options": ["A. Parliamentary", "B. Presidential", "C. Military", "D. Traditional"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "Which national symbol consists of a black shield and two horses?",
+    "options": ["A. National flag", "B. Coat of arms", "C. National anthem", "D. National currency"],
+    "answer": "B",
+    "topic": "Civic Education - National Consciousness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "The green colour on the Nigerian flag represents?",
+    "options": ["A. Peace", "B. Agriculture", "C. Mineral wealth", "D. Unity"],
+    "answer": "B",
+    "topic": "Civic Education - National Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "The white colour on the Nigerian flag represents?",
+    "options": ["A. Forests", "B. Oil", "C. Peace", "D. Strength"],
+    "answer": "C",
+    "topic": "Civic Education - National Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The National Youth Service Corps (NYSC) was established to?",
+    "options": ["A. Create jobs", "B. Promote national unity", "C. Train soldiers", "D. Collect taxes"],
+    "answer": "B",
+    "topic": "Civic Education - National Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "One way to promote national unity is through?",
+    "options": ["A. Discrimination", "B. Intolerance", "C. Inter-ethnic marriage", "D. Segregation"],
+    "answer": "C",
+    "topic": "Civic Education - National Unity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "A federation is a system where power is shared between central and?",
+    "options": ["A. Local governments only", "B. State governments", "C. International bodies", "D. Traditional rulers"],
+    "answer": "B",
+    "topic": "Civic Education - Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "One need for a federal system in Nigeria is to ensure?",
+    "options": ["A. Centralization", "B. National integration", "C. Dictatorship", "D. Secession"],
+    "answer": "B",
+    "topic": "Civic Education - Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "Which tier of government has the power to legislate on exclusive items?",
+    "options": ["A. Local government", "B. State government", "C. Federal government", "D. Traditional council"],
+    "answer": "C",
+    "topic": "Civic Education - Governance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "The rule of law means that no one is above the?",
+    "options": ["A. President", "B. Law", "C. Military", "D. Parliament"],
+    "answer": "B",
+    "topic": "Civic Education - Rule of Law",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "One benefit of the rule of law is?",
+    "options": ["A. Arbitrary arrests", "B. Equality before the law", "C. Secret trials", "D. Unlimited power"],
+    "answer": "B",
+    "topic": "Civic Education - Rule of Law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "A person who breaks the law may face?",
+    "options": ["A. Reward", "B. Punishment", "C. Promotion", "D. Praise"],
+    "answer": "B",
+    "topic": "Civic Education - Rule of Law",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "One way to protect human rights is through?",
+    "options": ["A. Ignoring violations", "B. Media coverage", "C. Accepting abuse", "D. Silencing victims"],
+    "answer": "B",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "Which group assists in protecting human rights in Nigeria?",
+    "options": ["A. Civil society organizations", "B. Criminal gangs", "C. Vigilante groups", "D. Secret societies"],
+    "answer": "A",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "The Legal Aid Council provides free legal services to?",
+    "options": ["A. Rich citizens", "B. Government officials", "C. Indigent persons", "D. Foreigners only"],
+    "answer": "C",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "One universal consumer right is the right to?",
+    "options": ["A. Deception", "B. Safety", "C. Hidden information", "D. Dangerous products"],
+    "answer": "B",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "A consumer responsibility is to?",
+    "options": ["A. Ignore receipts", "B. Keep proofs of transactions", "C. Accept any product", "D. Never complain"],
+    "answer": "B",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Democracy means government of the people, by the people and for the?",
+    "options": ["A. Few", "B. Elite", "C. People", "D. Military"],
+    "answer": "C",
+    "topic": "Civic Education - Democracy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "One feature of democracy is?",
+    "options": ["A. Dictatorship", "B. Regular free elections", "C. One-party rule", "D. Military junta"],
+    "answer": "B",
+    "topic": "Civic Education - Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "INEC is responsible for conducting elections in?",
+    "options": ["A. Nigeria", "B. Ghana", "C. Cameroon", "D. Benin Republic"],
+    "answer": "A",
+    "topic": "Civic Education - Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Pressure groups influence government policies without?",
+    "options": ["A. Contesting elections", "B. Having members", "C. Having money", "D. Having leaders"],
+    "answer": "A",
+    "topic": "Civic Education - Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "One importance of democracy is that it ensures?",
+    "options": ["A. Tyranny", "B. Accountability", "C. Corruption", "D. Suppression"],
+    "answer": "B",
+    "topic": "Civic Education - Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "The pillars of democracy include the people, rule of law, and?",
+    "options": ["A. Military rule", "B. Democratic institutions", "C. One-party system", "D. Absolute monarchy"],
+    "answer": "B",
+    "topic": "Civic Education - Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Majority rule must be balanced with protection of?",
+    "options": ["A. Minority rights", "B. Dictatorial powers", "C. Foreign interests", "D. Colonial laws"],
+    "answer": "A",
+    "topic": "Civic Education - Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "An election is the process of choosing leaders by?",
+    "options": ["A. Appointment", "B. Inheritance", "C. Voting", "D. Force"],
+    "answer": "C",
+    "topic": "Civic Education - Election",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "A responsible voter should?",
+    "options": ["A. Sell their vote", "B. Vote based on conscience", "C. Fight at polling booths", "D. Vote multiple times"],
+    "answer": "B",
+    "topic": "Civic Education - Voter Responsibilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Electoral malpractice includes?",
+    "options": ["A. Peaceful voting", "B. Vote buying", "C. Voter education", "D. Transparent counting"],
+    "answer": "B",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "One form of electoral malpractice is?",
+    "options": ["A. Secret ballot", "B. Underage voting", "C. Voter registration", "D. Campaigning"],
+    "answer": "B",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "SIEC conducts elections at the?",
+    "options": ["A. Federal level", "B. State level", "C. Local government level", "D. Ward level"],
+    "answer": "B",
+    "topic": "Civic Education - Electoral Bodies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "Theft as a crime is punishable by?",
+    "options": ["A. Fine only", "B. Imprisonment", "C. Community service", "D. Warning"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Rape is a serious crime that can lead to?",
+    "options": ["A. Imprisonment", "B. Small fine", "C. Apology", "D. Compensation only"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Advance fee fraud is commonly known as?",
+    "options": ["A. 419", "B. 911", "C. 404", "D. 200"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Drug trafficking in Nigeria can attract up to how many years imprisonment?",
+    "options": ["A. 5 years", "B. 10 years", "C. 15 years", "D. 20 years"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "Human trafficking can lead to imprisonment of?",
+    "options": ["A. 1-2 years", "B. 5-10 years", "C. 15-20 years", "D. Life without parole"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Murder is punishable by?",
+    "options": ["A. Life imprisonment", "B. Death penalty", "C. Heavy fine", "D. Exile"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "One way to prevent crime is through cooperation with?",
+    "options": ["A. Criminals", "B. Security agents", "C. Foreigners", "D. Strangers"],
+    "answer": "B",
+    "topic": "Security Education - Crime Prevention",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Observing and reporting crimes helps to?",
+    "options": ["A. Encourage criminals", "B. Promote justice", "C. Increase crime", "D. Delay investigation"],
+    "answer": "B",
+    "topic": "Security Education - Reporting Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Emergency management involves preparing for and responding to?",
+    "options": ["A. Scheduled events", "B. Disasters and emergencies", "C. Elections", "D. Festivals"],
+    "answer": "B",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "Which of these is a type of emergency?",
+    "options": ["A. Birthday party", "B. Fire outbreak", "C. Wedding ceremony", "D. School graduation"],
+    "answer": "B",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "Pipeline vandalization is a crime that affects?",
+    "options": ["A. National security", "B. Only local traffic", "C. Entertainment industry", "D. Agricultural sector"],
+    "answer": "A",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Illegal bunkering involves the theft of?",
+    "options": ["A. Gold", "B. Crude oil", "C. Natural gas", "D. Diamonds"],
+    "answer": "B",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "Terrorism threatens the?",
+    "options": ["A. Economic growth only", "B. Safety of citizens", "C. Educational system", "D. Agricultural output"],
+    "answer": "B",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Social studies as a subject aims to develop?",
+    "options": ["A. Physical strength", "B. National consciousness", "C. Artistic skills", "D. Musical talent"],
+    "answer": "B",
+    "topic": "Social Studies - Objectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "One general objective of social studies is to help students?",
+    "options": ["A. Become good citizens", "B. Ignore society", "C. Focus on self only", "D. Disrespect laws"],
+    "answer": "A",
+    "topic": "Social Studies - Objectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "The family is considered a primary social group because?",
+    "options": ["A. It is large", "B. Members have close relationships", "C. It has no rules", "D. It is temporary"],
+    "answer": "B",
+    "topic": "Social Studies - Family",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "A large family size typically has many children and may lead to?",
+    "options": ["A. Reduced resources per child", "B. Increased wealth per child", "C. Better education", "D. More leisure time"],
+    "answer": "A",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "A small family size allows for better?",
+    "options": ["A. Access to quality life", "B. Poverty", "C. Malnutrition", "D. Neglect of children"],
+    "answer": "A",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "One purpose of marriage is?",
+    "options": ["A. Isolation", "B. Procreation", "C. Separation", "D. Conflict"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "Sexual satisfaction is one of the purposes of marriage because it provides?",
+    "options": ["A. Legal framework for intimacy", "B. Reason for divorce", "C. Cause of disease", "D. Temporary pleasure"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "Physical fitness is a condition for?",
+    "options": ["A. Marriage readiness", "B. Job promotion", "C. School admission", "D. Voting"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Lack of readiness for marriage can lead to?",
+    "options": ["A. Stronger union", "B. Divorce", "C. Happiness", "D. Prosperity"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "A broken home is often a consequence of?",
+    "options": ["A. Financial readiness", "B. Lack of readiness", "C. Mutual love", "D. Good communication"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "Communal labour is a form of?",
+    "options": ["A. Positive group behaviour", "B. Negative group behaviour", "C. Anti-social behaviour", "D. Criminal behaviour"],
+    "answer": "A",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "Joining a protest march can be a positive group behaviour if done?",
+    "options": ["A. Violently", "B. Peacefully", "C. Secretly", "D. Randomly"],
+    "answer": "B",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "One benefit of positive group behaviour is?",
+    "options": ["A. Isolation", "B. Companionship", "C. Loneliness", "D. Conflict"],
+    "answer": "B",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Human trafficking means illegal movement of people for?",
+    "options": ["A. Education", "B. Exploitation", "C. Tourism", "D. Family reunion"],
+    "answer": "B",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "A factor responsible for child trafficking is?",
+    "options": ["A. Wealth", "B. Poverty", "C. Education", "D. Good governance"],
+    "answer": "B",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "One consequence of human trafficking is?",
+    "options": ["A. Loss of human resources", "B. Economic growth", "C. National unity", "D. Cultural exchange"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "A preventive measure against human trafficking is?",
+    "options": ["A. Awareness campaign", "B. Ignoring the problem", "C. Encouraging migration", "D. Legalizing it"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "Female circumcision is an example of?",
+    "options": ["A. Beneficial practice", "B. Harmful traditional practice", "C. Modern health practice", "D. Religious requirement"],
+    "answer": "B",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Early marriage can lead to?",
+    "options": ["A. Educational advancement", "B. Health complications", "C. Economic prosperity", "D. Social recognition"],
+    "answer": "B",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "One way to prevent harmful traditional practices is through?",
+    "options": ["A. Legislation", "B. Silence", "C. Acceptance", "D. Encouragement"],
+    "answer": "A",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "Positive peace means the absence of violence and presence of?",
+    "options": ["A. Fear", "B. Justice", "C. Oppression", "D. Hostility"],
+    "answer": "B",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "Negative peace refers to a situation where there is no active war but?",
+    "options": ["A. Great harmony", "B. Underlying tension", "C. Complete trust", "D. Full cooperation"],
+    "answer": "B",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "One importance of peace in society is?",
+    "options": ["A. Progress", "B. Destruction", "C. Fear", "D. Conflict"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "Tolerance is a way of promoting peace through?",
+    "options": ["A. Accepting differences", "B. Imposing beliefs", "C. Rejecting others", "D. Discrimination"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "Socialization is the process by which individuals learn the?",
+    "options": ["A. Norms of society", "B. Skills of isolation", "C. Art of fighting", "D. Methods of cheating"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Which of these is an agent of socialization?",
+    "options": ["A. Family", "B. Prison", "C. Desert", "D. Forest"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The peer group is an important agent of socialization because it?",
+    "options": ["A. Ignores young people", "B. Influences behaviour", "C. Replaces family", "D. Discourages friendship"],
+    "answer": "B",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "The Road Safety Club in schools helps to socialize youths into?",
+    "options": ["A. Speeding culture", "B. Safe road use", "C. Reckless driving", "D. Ignoring traffic rules"],
+    "answer": "B",
+    "topic": "Social Studies - Road Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "A contemporary social problem in Nigeria is?",
+    "options": ["A. Full employment", "B. Corruption", "C. Low crime rate", "D. High literacy"],
+    "answer": "B",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "One cause of social problems in Nigeria is?",
+    "options": ["A. Good governance", "B. Poverty", "C. Quality education", "D. Strong institutions"],
+    "answer": "B",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "A solution to social problems is?",
+    "options": ["A. Ignoring them", "B. Law enforcement", "C. Blaming others", "D. Accepting them"],
+    "answer": "B",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "Safety measures in the home include?",
+    "options": ["A. Leaving doors open", "B. Storing chemicals safely", "C. Playing with fire", "D. Ignoring alarms"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "A safety guideline for pedestrians is?",
+    "options": ["A. Walking on highways", "B. Using zebra crossings", "C. Crossing red lights", "D. Ignoring traffic"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Motorcyclists should always wear?",
+    "options": ["A. Headphones", "B. Helmets", "C. Sunglasses", "D. Sandals"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "Drug trafficking is the illegal trade of?",
+    "options": ["A. Food items", "B. Narcotic substances", "C. Medical equipment", "D. Educational books"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "One reason people engage in drug trafficking is?",
+    "options": ["A. Altruism", "B. Greed", "C. Charity", "D. Patriotism"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "A consequence of drug trafficking is?",
+    "options": ["A. National honour", "B. Imprisonment", "C. Economic boom", "D. Social respect"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "Drug abuse means using drugs without?",
+    "options": ["A. Medical prescription", "B. Water", "C. Food", "D. Exercise"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "One consequence of drug abuse on the individual is?",
+    "options": ["A. Improved health", "B. Addiction", "C. Wealth", "D. Long life"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "A way to prevent drug trafficking is through?",
+    "options": ["A. Legalization", "B. Education", "C. Encouragement", "D. Ignorance"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "The NDLEA is the agency responsible for?",
+    "options": ["A. Food regulation", "B. Drug law enforcement", "C. Environmental protection", "D. Education standards"],
+    "answer": "B",
+    "topic": "Civic Education - Agencies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "NAFDAC ensures that food and drugs are?",
+    "options": ["A. Expensive", "B. Safe for consumption", "C. Imported only", "D. Locally made only"],
+    "answer": "B",
+    "topic": "Civic Education - Agencies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "One factor that promotes value system is?",
+    "options": ["A. Trust", "B. Distrust", "C. Deceit", "D. Betrayal"],
+    "answer": "A",
+    "topic": "Civic Education - Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "Tolerance as a value helps to?",
+    "options": ["A. Increase conflict", "B. Promote understanding", "C. Encourage hatred", "D. Foster division"],
+    "answer": "B",
+    "topic": "Civic Education - Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Fairness as a value ensures that people are treated?",
+    "options": ["A. Unequally", "B. Justly", "C. Partially", "D. Harshly"],
+    "answer": "B",
+    "topic": "Civic Education - Values",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Commitment to a value means being?",
+    "options": ["A. Indifferent", "B. Dedicated", "C. Unreliable", "D. Careless"],
+    "answer": "B",
+    "topic": "Civic Education - Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "A person with contentment does not?",
+    "options": ["A. Work hard", "B. Envy others", "C. Help the poor", "D. Pray"],
+    "answer": "B",
+    "topic": "Civic Education - Contentment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "Moderation is an attribute of?",
+    "options": ["A. Greed", "B. Discipline", "C. Arrogance", "D. Laziness"],
+    "answer": "B",
+    "topic": "Civic Education - Discipline",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "A disciplined person shows respect for?",
+    "options": ["A. Chaos", "B. Rules and regulations", "C. Anarchy", "D. Disorder"],
+    "answer": "B",
+    "topic": "Civic Education - Discipline",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "Spiritual courage involves standing firm in one's?",
+    "options": ["A. Physical strength", "B. Faith", "C. Wealth", "D. Popularity"],
+    "answer": "B",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "A courageous person is often described as?",
+    "options": ["A. Timid", "B. Bold", "C. Shy", "D. Indecisive"],
+    "answer": "B",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Regularity at work means attending work?",
+    "options": ["A. Occasionally", "B. Every working day", "C. Only when convenient", "D. Once a week"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "Diligence at work leads to?",
+    "options": ["A. Poor results", "B. High efficiency", "C. Frequent mistakes", "D. Wastage"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Recognition at work is a reward for?",
+    "options": ["A. Laziness", "B. Hard work", "C. Absenteeism", "D. Dishonesty"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Lack of motivation at work can result from?",
+    "options": ["A. Right attitude", "B. Wrong attitude", "C. Good leadership", "D. Fair pay"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "National disasters can be caused by?",
+    "options": ["A. Good attitude to work", "B. Indiscipline at work", "C. Punctuality", "D. Diligence"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Citizenship by registration is available to?",
+    "options": ["A. All foreigners", "B. Certain qualified foreigners", "C. Only children", "D. Only the elderly"],
+    "answer": "B",
+    "topic": "Civic Education - Citizenship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "A duty of a citizen is to?",
+    "options": ["A. Break laws", "B. Pay taxes", "C. Ignore elections", "D. Spread rumours"],
+    "answer": "B",
+    "topic": "Civic Education - Rights and Duties",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Due process is an importance of citizens' rights because it ensures?",
+    "options": ["A. Arbitrary action", "B. Fair treatment", "C. Injustice", "D. Delay"],
+    "answer": "B",
+    "topic": "Civic Education - Rights and Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "A constitution is a set of?",
+    "options": ["A. Suggestions", "B. Fundamental rules", "C. Temporary guidelines", "D. Optional principles"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "The Macpherson Constitution was introduced in?",
+    "options": ["A. 1946", "B. 1951", "C. 1954", "D. 1960"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "A feature of colonial constitutions in Nigeria was?",
+    "options": ["A. Universal suffrage", "B. Limited franchise", "C. Full independence", "D. Indigenous leadership"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "The 1989 Constitution was introduced under which regime?",
+    "options": ["A. Civilian", "B. Military", "C. Colonial", "D. Traditional"],
+    "answer": "B",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "The Federal Character principle aims to ensure?",
+    "options": ["A. Dominance of one region", "B. Equitable representation", "C. Ethnic superiority", "D. Regional rivalry"],
+    "answer": "B",
+    "topic": "Civic Education - National Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "Unity schools were established to?",
+    "options": ["A. Segregate students", "B. Promote national integration", "C. Train military officers", "D. Teach only local languages"],
+    "answer": "B",
+    "topic": "Civic Education - National Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "Non-discrimination is a way of promoting?",
+    "options": ["A. Segregation", "B. National unity", "C. Ethnic rivalry", "D. Religious conflict"],
+    "answer": "B",
+    "topic": "Civic Education - National Unity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "In a federation, the central government controls?",
+    "options": ["A. Only local matters", "B. National matters", "C. State matters only", "D. No matters"],
+    "answer": "B",
+    "topic": "Civic Education - Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Concurrent powers are those exercised by?",
+    "options": ["A. Only federal government", "B. Both federal and state governments", "C. Only state governments", "D. Only local governments"],
+    "answer": "B",
+    "topic": "Civic Education - Governance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "Exclusive powers belong to the?",
+    "options": ["A. Federal government", "B. State government", "C. Local government", "D. Traditional rulers"],
+    "answer": "A",
+    "topic": "Civic Education - Governance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "The rule of law prevents?",
+    "options": ["A. Democracy", "B. Arbitrary rule", "C. Justice", "D. Equality"],
+    "answer": "B",
+    "topic": "Civic Education - Rule of Law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "A hunger strike is a way of drawing attention to?",
+    "options": ["A. Human rights violations", "B. Sporting events", "C. Cultural festivals", "D. Educational achievements"],
+    "answer": "A",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "Trade unions help protect the rights of?",
+    "options": ["A. Employers", "B. Workers", "C. Students", "D. Foreigners"],
+    "answer": "B",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "The right to a healthy environment is a?",
+    "options": ["A. Consumer right", "B. Political right", "C. Economic right", "D. Social right"],
+    "answer": "A",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "A consumer who speaks out about a bad product is exercising the right to?",
+    "options": ["A. Redress", "B. Representation", "C. Safety", "D. Information"],
+    "answer": "B",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "Independent thinking is a responsibility of the?",
+    "options": ["A. Government", "B. Consumer", "C. Manufacturer", "D. Retailer"],
+    "answer": "B",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "A democratic institution in Nigeria is?",
+    "options": ["A. The Army", "B. INEC", "C. The SSS", "D. The Police"],
+    "answer": "B",
+    "topic": "Civic Education - Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "Political parties are essential in democracy because they?",
+    "options": ["A. Limit choices", "B. Provide options for voters", "C. Suppress opposition", "D. Control media"],
+    "answer": "B",
+    "topic": "Civic Education - Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "A transparent electoral process is a pillar of?",
+    "options": ["A. Dictatorship", "B. Democracy", "C. Monarchy", "D. Oligarchy"],
+    "answer": "B",
+    "topic": "Civic Education - Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "Voter registration is important to?",
+    "options": ["A. Prevent voting", "B. Identify eligible voters", "C. Increase fraud", "D. Limit participation"],
+    "answer": "B",
+    "topic": "Civic Education - Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "The process of voting usually involves?",
+    "options": ["A. Acclamation", "B. Secret ballot", "C. Open show of hands", "D. Lottery"],
+    "answer": "B",
+    "topic": "Civic Education - Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "Fake ballot papers are a form of?",
+    "options": ["A. Electoral malpractice", "B. Voter education", "C. Democratic practice", "D. Electoral transparency"],
+    "answer": "A",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "Thuggery during elections undermines?",
+    "options": ["A. Democracy", "B. Voter apathy", "C. Election results", "D. Campaign funding"],
+    "answer": "A",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "A free and fair election requires?",
+    "options": ["A. Intimidation", "B. Transparency", "C. Manipulation", "D. Violence"],
+    "answer": "B",
+    "topic": "Civic Education - Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "Falsehood as a crime includes?",
+    "options": ["A. Telling the truth", "B. Spreading lies", "C. Helping others", "D. Being honest"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Sale of contaminated food is a crime because it harms?",
+    "options": ["A. The seller", "B. The consumer", "C. The government", "D. The environment"],
+    "answer": "B",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Dealing in fake drugs can lead to?",
+    "options": ["A. Public health disaster", "B. Economic growth", "C. Improved health", "D. Lower prices"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "Crime prevention requires cooperation between citizens and?",
+    "options": ["A. Criminals", "B. Security agencies", "C. Foreigners", "D. Media only"],
+    "answer": "B",
+    "topic": "Security Education - Crime Prevention",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "One way to report a crime is to?",
+    "options": ["A. Ignore it", "B. Call the police", "C. Join the criminals", "D. Keep silent"],
+    "answer": "B",
+    "topic": "Security Education - Reporting Crimes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "Building collapse is an emergency that requires?",
+    "options": ["A. Celebration", "B. Rescue operations", "C. Ignorance", "D. Blame game"],
+    "answer": "B",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "Food poisoning is a type of emergency that can result from?",
+    "options": ["A. Fresh food", "B. Contaminated food", "C. Clean water", "D. Proper hygiene"],
+    "answer": "B",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "Arson is the crime of setting fire to property and affects?",
+    "options": ["A. Only the arsonist", "B. National security", "C. Only animals", "D. Only forests"],
+    "answer": "B",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "Importation of expired drugs threatens?",
+    "options": ["A. Economic growth", "B. Public health", "C. Agricultural sector", "D. Education system"],
+    "answer": "B",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Social studies contents include cognitive, affective and?",
+    "options": ["A. Physical content", "B. Psychomotor content", "C. Financial content", "D. Political content"],
+    "answer": "B",
+    "topic": "Social Studies - Contents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Facts conceptualization is part of social studies?",
+    "options": ["A. Content", "B. History", "C. Evaluation", "D. Assessment"],
+    "answer": "A",
+    "topic": "Social Studies - Contents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "What makes the family a primary group is the presence of?",
+    "options": ["A. Many members", "B. Close emotional ties", "C. Large wealth", "D. Formal rules"],
+    "answer": "B",
+    "topic": "Social Studies - Family",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "A large family size may strain the?",
+    "options": ["A. National economy", "B. Family resources", "C. School system", "D. Religious institutions"],
+    "answer": "B",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "A small family size is often associated with?",
+    "options": ["A. Higher quality of life", "B. Increased poverty", "C. More child labour", "D. Lower education"],
+    "answer": "A",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Growth in mutual love is a purpose of?",
+    "options": ["A. Education", "B. Marriage", "C. Employment", "D. Politics"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "Social stability is a condition for?",
+    "options": ["A. Divorce", "B. Marriage readiness", "C. Single life", "D. Parental neglect"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Constant fights in marriage can result from?",
+    "options": ["A. Readiness", "B. Lack of readiness", "C. Mutual respect", "D. Financial security"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Mass action is a type of group behaviour where many people?",
+    "options": ["A. Act together", "B. Act alone", "C. Stay passive", "D. Ignore issues"],
+    "answer": "A",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Acting patriotically is a positive group behaviour that shows?",
+    "options": ["A. Selfishness", "B. Love for country", "C. Hatred", "D. Indifference"],
+    "answer": "B",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Destructive group behaviour leads to?",
+    "options": ["A. Progress", "B. Damage", "C. Unity", "D. Harmony"],
+    "answer": "B",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "Human trafficking weakens family love and?",
+    "options": ["A. Strengthens bonds", "B. Influence", "C. Economic growth", "D. Social cohesion"],
+    "answer": "B",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "Education is a preventive measure against?",
+    "options": ["A. Human trafficking", "B. Literacy", "C. Employment", "D. Skill acquisition"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "Child labour is a harmful traditional practice that deprives children of?",
+    "options": ["A. Food", "B. Schooling", "C. Shelter", "D. Water"],
+    "answer": "B",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "Exploitation of children is a consequence of?",
+    "options": ["A. Good parenting", "B. Harmful practices", "C. Quality education", "D. Proper healthcare"],
+    "answer": "B",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Cordial living among different groups means?",
+    "options": ["A. Conflict", "B. Friendly relations", "C. Indifference", "D. Hostility"],
+    "answer": "B",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Social justice is a way of promoting peace by ensuring?",
+    "options": ["A. Fair treatment", "B. Bias", "C. Favouritism", "D. Inequality"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Human rights promotion contributes to?",
+    "options": ["A. Conflict", "B. Peace", "C. War", "D. Violence"],
+    "answer": "B",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Socialization helps individuals to adapt to?",
+    "options": ["A. Isolation", "B. Society", "C. Wilderness", "D. Solitude"],
+    "answer": "B",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Religious organizations are agents of socialization because they teach?",
+    "options": ["A. Violence", "B. Moral values", "C. Greed", "D. Hatred"],
+    "answer": "B",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "The press as an agent of socialization influences public?",
+    "options": ["A. Silence", "B. Opinion", "C. Ignorance", "D. Isolation"],
+    "answer": "B",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Age grade is a traditional agent of socialization in many?",
+    "options": ["A. Urban areas", "B. Rural communities", "C. Foreign countries", "D. Military institutions"],
+    "answer": "B",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "The Road Safety Club teaches students about?",
+    "options": ["A. Racing", "B. Traffic rules", "C. Speeding", "D. Overtaking dangerously"],
+    "answer": "B",
+    "topic": "Social Studies - Road Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "One contemporary social problem in Nigeria is?",
+    "options": ["A. Low population", "B. Unemployment", "C. Full employment", "D. High savings"],
+    "answer": "B",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "Poverty is a major cause of many?",
+    "options": ["A. Social problems", "B. Economic booms", "C. Educational advancements", "D. Health improvements"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "Solving social problems requires collective?",
+    "options": ["A. Effort", "B. Indifference", "C. Blame", "D. Avoidance"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Safety measures in the workplace include?",
+    "options": ["A. Ignoring hazards", "B. Using protective gear", "C. Skipping training", "D. Leaving tools scattered"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "A safety guideline for motorists is to?",
+    "options": ["A. Speed", "B. Obey traffic lights", "C. Drive drunk", "D. Use phone while driving"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "Drug abuse can lead to?",
+    "options": ["A. Improved health", "B. Mental disorder", "C. Financial gain", "D. Social respect"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "One form of drug abuse is?",
+    "options": ["A. Using prescribed medicine", "B. Taking illegal substances", "C. Drinking clean water", "D. Eating healthy food"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "The international community can help prevent drug trafficking through?",
+    "options": ["A. Cooperation", "B. Ignorance", "C. Isolation", "D. Encouragement"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Forfeiture of assets is a consequence of?",
+    "options": ["A. Hard work", "B. Drug trafficking", "C. Charity", "D. Education"],
+    "answer": "B",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Legislation is an important tool in preventing?",
+    "options": ["A. Drug trafficking", "B. Economic growth", "C. Educational development", "D. Cultural exchange"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "A person who is self-reliant contributes to?",
+    "options": ["A. Dependency", "B. National development", "C. Poverty", "D. Unemployment"],
+    "answer": "B",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "Undiscovered talents can lead to?",
+    "options": ["A. Personal fulfilment", "B. Wasted potential", "C. Economic growth", "D. National pride"],
+    "answer": "B",
+    "topic": "Civic Education - Self-Reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "A person of integrity is often seen as?",
+    "options": ["A. Unreliable", "B. Trustworthy", "C. Deceitful", "D. Corrupt"],
+    "answer": "B",
+    "topic": "Civic Education - Integrity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "Humiliation is an effect of lack of?",
+    "options": ["A. Contentment", "B. Wealth", "C. Education", "D. Power"],
+    "answer": "A",
+    "topic": "Civic Education - Contentment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Perseverance is an attribute of?",
+    "options": ["A. Laziness", "B. Discipline", "C. Greed", "D. Envy"],
+    "answer": "B",
+    "topic": "Civic Education - Discipline",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "A person with physical courage may risk their life to?",
+    "options": ["A. Save others", "B. Harm others", "C. Run away", "D. Hide"],
+    "answer": "A",
+    "topic": "Civic Education - Courage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "Transparency at work means being?",
+    "options": ["A. Secretive", "B. Open and honest", "C. Corrupt", "D. Dishonest"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Consistency at work builds?",
+    "options": ["A. Trust", "B. Suspicion", "C. Doubt", "D. Confusion"],
+    "answer": "A",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "Improved national image is a reward of?",
+    "options": ["A. Laziness", "B. Right attitude to work", "C. Corruption", "D. Negligence"],
+    "answer": "B",
+    "topic": "Civic Education - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "Citizenship by naturalization requires a person to?",
+    "options": ["A. Be born in the country", "B. Meet residency and other conditions", "C. Marry a citizen", "D. Buy a passport"],
+    "answer": "B",
+    "topic": "Civic Education - Citizenship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "A right is something a citizen is entitled to, while a duty is something a citizen is expected to?",
+    "options": ["A. Ignore or Perform", "B. Perform", "C. Avoid", "D. Sell"],
+    "answer": "B",
+    "topic": "Civic Education - Rights and Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The 1963 Constitution made Nigeria a republic within the?",
+    "options": ["A. Commonwealth", "B. United Nations", "C. African Union", "D. ECOWAS"],
+    "answer": "A",
+    "topic": "Civic Education - Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "The national anthem was adopted to promote?",
+    "options": ["A. Division", "B. Patriotism", "C. Corruption", "D. Indifference"],
+    "answer": "B",
+    "topic": "Civic Education - National Consciousness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "The national pledge is recited to show?",
+    "options": ["A. Loyalty to Nigeria", "B. Disrespect", "C. Indifference", "D. Hate"],
+    "answer": "A",
+    "topic": "Civic Education - National Consciousness",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "Hospitality is a way of promoting?",
+    "options": ["A. National unity", "B. Segregation", "C. Isolation", "D. Conflict"],
+    "answer": "A",
+    "topic": "Civic Education - National Unity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "In a federation, states have constitutionally defined control over their?",
+    "options": ["A. Military", "B. Own affairs", "C. Foreign policy", "D. Currency"],
+    "answer": "B",
+    "topic": "Civic Education - Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "The legislative power of a state is exercised by the?",
+    "options": ["A. House of Assembly", "B. National Assembly", "C. Local council", "D. Traditional council"],
+    "answer": "A",
+    "topic": "Civic Education - Governance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "Equality before the law means that all citizens are treated?",
+    "options": ["A. According to wealth", "B. Equally", "C. According to status", "D. Differently"],
+    "answer": "B",
+    "topic": "Civic Education - Rule of Law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Protest marches can be used to draw attention to?",
+    "options": ["A. Human rights abuses", "B. Sporting events", "C. Cultural festivals", "D. Educational programmes"],
+    "answer": "A",
+    "topic": "Civic Education - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "A consumer's right to information means the right to know?",
+    "options": ["A. Product details", "B. Manufacturer's secrets", "C. Competitor prices", "D. Tax information"],
+    "answer": "A",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "Respecting the environment is a consumer's?",
+    "options": ["A. Right", "B. Responsibility", "C. Privilege", "D. Option"],
+    "answer": "B",
+    "topic": "Civic Education - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "A democratic government derives its power from the?",
+    "options": ["A. Military", "B. People", "C. Constitution", "D. Judiciary"],
+    "answer": "B",
+    "topic": "Civic Education - Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "Pressure groups influence policy through?",
+    "options": ["A. Violence", "B. Lobbying", "C. Corruption", "D. Threats"],
+    "answer": "B",
+    "topic": "Civic Education - Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "Majority rule in democracy must be balanced with?",
+    "options": ["A. Minority rights", "B. Dictatorship", "C. One-party rule", "D. Military intervention"],
+    "answer": "A",
+    "topic": "Civic Education - Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "A candidate for election must meet basic qualifications such as?",
+    "options": ["A. Age and education", "B. Wealth only", "C. Family connection", "D. Foreign citizenship"],
+    "answer": "A",
+    "topic": "Civic Education - Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Multiple voting is a form of?",
+    "options": ["A. Electoral participation", "B. Electoral malpractice", "C. Voter education", "D. Democratic practice"],
+    "answer": "B",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "Artificial scarcity of electoral materials undermines?",
+    "options": ["A. Election credibility", "B. Voter turnout", "C. Campaign financing", "D. Media coverage"],
+    "answer": "A",
+    "topic": "Civic Education - Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "A free and fair election is the cornerstone of?",
+    "options": ["A. Dictatorship", "B. Democracy", "C. Monarchy", "D. Oligarchy"],
+    "answer": "B",
+    "topic": "Civic Education - Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "Dealing in fake drugs is a crime that endangers?",
+    "options": ["A. Public health", "B. Economic growth", "C. Educational system", "D. Cultural heritage"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Crime prevention requires the cooperation of schools and?",
+    "options": ["A. Neighbourhood authorities", "B. Criminals", "C. Foreign governments", "D. Media only"],
+    "answer": "A",
+    "topic": "Security Education - Crime Prevention",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "Drowning is an emergency that requires?",
+    "options": ["A. Water rescue skills", "B. Fire extinguisher", "C. Building inspection", "D. Food safety measures"],
+    "answer": "A",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "Fake products can cause emergencies such as?",
+    "options": ["A. Food poisoning", "B. Traffic jam", "C. Power outage", "D. Flooding"],
+    "answer": "A",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "Demonstration of awareness is important in combating crimes that affect?",
+    "options": ["A. National security", "B. Entertainment", "C. Sports", "D. Tourism"],
+    "answer": "A",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Social studies helps students to develop the ability to adapt to?",
+    "options": ["A. Changing environment", "B. Isolation", "C. Static conditions", "D. Foreign cultures"],
+    "answer": "A",
+    "topic": "Social Studies - Objectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "The affective content of social studies deals with?",
+    "options": ["A. Skills", "B. Attitudes and values", "C. Knowledge", "D. Physical abilities"],
+    "answer": "B",
+    "topic": "Social Studies - Contents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "In a family, roles and responsibilities are shared among?",
+    "options": ["A. Members", "B. Outsiders", "C. Government", "D. Neighbours"],
+    "answer": "A",
+    "topic": "Social Studies - Family",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "A large family size may put pressure on the?",
+    "options": ["A. National economy", "B. Family budget", "C. School system", "D. Religious institutions"],
+    "answer": "B",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "A small family size allows more investment per child in?",
+    "options": ["A. Education", "B. Labour", "C. Household chores", "D. Outdoor play"],
+    "answer": "A",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "Marriage serves the purpose of economic and social?",
+    "options": ["A. Isolation", "B. Satisfaction", "C. Conflict", "D. Neglect"],
+    "answer": "B",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Financial readiness is a condition for successful?",
+    "options": ["A. Marriage", "B. Education", "C. Employment", "D. Retirement"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "Broken homes can result from lack of?",
+    "options": ["A. Marriage readiness", "B. Children", "C. Relatives", "D. Pets"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "A group behaviour that is constructive benefits?",
+    "options": ["A. The society", "B. Criminals", "C. Foreigners", "D. Animals"],
+    "answer": "A",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Power and control are benefits of positive group behaviour for?",
+    "options": ["A. Individuals", "B. The group", "C. The government", "D. Foreign nations"],
+    "answer": "B",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "Human trafficking can lead to a life of crime and?",
+    "options": ["A. Addiction", "B. Prosperity", "C. Education", "D. Health"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "Advocacy is a preventive measure against?",
+    "options": ["A. Human trafficking", "B. Malaria", "C. Illiteracy", "D. Poverty"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Deprivation of schooling is a consequence of?",
+    "options": ["A. Harmful traditional practices", "B. Quality education", "C. Good parenting", "D. Modern medicine"],
+    "answer": "A",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "Problem at childbirth can result from?",
+    "options": ["A. Female circumcision", "B. Balanced diet", "C. Antenatal care", "D. Vaccination"],
+    "answer": "A",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "Lack of violence or conflict is a sign of?",
+    "options": ["A. Peace", "B. War", "C. Chaos", "D. Anarchy"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Happiness and less stress are benefits of?",
+    "options": ["A. Peace", "B. Conflict", "C. Violence", "D. War"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "Social justice is essential for promoting?",
+    "options": ["A. Peace", "B. Conflict", "C. Inequality", "D. Discrimination"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "The school is an agent of socialization that teaches?",
+    "options": ["A. Formal knowledge", "B. Antisocial behaviour", "C. Criminal skills", "D. Violence"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "Clubs and societies help in socializing youths through?",
+    "options": ["A. Shared interests", "B. Isolation", "C. Secrecy", "D. Competition"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "The Road Safety Club promotes safe behaviour among?",
+    "options": ["A. Youths", "B. Adults only", "C. Elderly", "D. Foreigners"],
+    "answer": "A",
+    "topic": "Social Studies - Road Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "One contemporary social problem in Nigeria is?",
+    "options": ["A. Overpopulation", "B. Low birth rate", "C. High literacy", "D. Full employment"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "Corruption is a social problem that hinders?",
+    "options": ["A. Development", "B. Entertainment", "C. Sports", "D. Tourism"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "Solving social problems requires the involvement of?",
+    "options": ["A. All stakeholders", "B. Only government", "C. Only youths", "D. Only foreigners"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Safety measures in the community include?",
+    "options": ["A. Street lighting", "B. Leaving doors open", "C. Ignoring alarms", "D. Playing with fire"],
+    "answer": "A",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "A safety guideline for cyclists is to?",
+    "options": ["A. Ride against traffic", "B. Wear reflective clothing", "C. Ignore traffic signs", "D. Ride on highways"],
+    "answer": "B",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "Drug abuse affects the user's?",
+    "options": ["A. Physical and mental health", "B. Wealth only", "C. Social status only", "D. Education only"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "One way to discourage drug abuse is by forming?",
+    "options": ["A. Drug free clubs", "B. Secret societies", "C. Criminal gangs", "D. Illegal groups"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "Acquiring coping skills such as assertiveness helps prevent?",
+    "options": ["A. Drug abuse", "B. Education", "C. Employment", "D. Marriage"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Constructive use of time, like sports, prevents?",
+    "options": ["A. Drug abuse", "B. Productivity", "C. Health", "D. Education"],
+    "answer": "A",
+    "topic": "Social Studies - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "The death penalty is a punishment for?",
+    "options": ["A. Murder", "B. Theft", "C. Rape", "D. Drug use"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "Drug contamination is a crime that affects?",
+    "options": ["A. Public health", "B. Economic growth", "C. Educational system", "D. Cultural heritage"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Food contamination can be a form of?",
+    "options": ["A. Crime", "B. Accident", "C. Routine practice", "D. Cultural tradition"],
+    "answer": "A",
+    "topic": "Security Education - Common Crimes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "An appropriate response to a building collapse emergency is?",
+    "options": ["A. Rescue operations", "B. Celebration", "C. Ignorance", "D. Blaming"],
+    "answer": "A",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "The appropriate response to fire is to?",
+    "options": ["A. Call the fire service", "B. Ignore it", "C. Throw water on oil fire", "D. Run aimlessly"],
+    "answer": "A",
+    "topic": "Security Education - Emergency Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "Illegal bunkering affects the?",
+    "options": ["A. Economy", "B. Education", "C. Health sector", "D. Sports industry"],
+    "answer": "A",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "Importation of expired drugs is a crime that endangers?",
+    "options": ["A. Lives", "B. Economy", "C. Education", "D. Culture"],
+    "answer": "A",
+    "topic": "Security Education - National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "Social studies helps to inculcate national consciousness and?",
+    "options": ["A. Unity", "B. Division", "C. Conflict", "D. Indifference"],
+    "answer": "A",
+    "topic": "Social Studies - Objectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "The cognitive content of social studies deals with?",
+    "options": ["A. Facts and knowledge", "B. Skills", "C. Attitudes", "D. Values"],
+    "answer": "A",
+    "topic": "Social Studies - Contents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "A family is a primary group because it is characterized by?",
+    "options": ["A. Close face-to-face interaction", "B. Large membership", "C. Formal rules", "D. Temporary relationships"],
+    "answer": "A",
+    "topic": "Social Studies - Family",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "The national economy can be affected by?",
+    "options": ["A. Family size", "B. Family size only if large", "C. Family size only if small", "D. Family size never"],
+    "answer": "A",
+    "topic": "Social Studies - Family Size",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "Procreation is a primary purpose of?",
+    "options": ["A. Marriage", "B. Education", "C. Employment", "D. Worship"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Psychological fitness is a condition for?",
+    "options": ["A. Marriage readiness", "B. Job promotion", "C. School admission", "D. Voting"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "Divorce is often a result of?",
+    "options": ["A. Lack of marriage readiness", "B. Financial stability", "C. Emotional maturity", "D. Good communication"],
+    "answer": "A",
+    "topic": "Social Studies - Marriage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "Participating in a fight is an example of?",
+    "options": ["A. Destructive group behaviour", "B. Constructive group behaviour", "C. Positive group behaviour", "D. Neutral group behaviour"],
+    "answer": "A",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "Achievement is a benefit of positive group behaviour for?",
+    "options": ["A. The group", "B. Individuals only", "C. Foreigners only", "D. Animals"],
+    "answer": "A",
+    "topic": "Social Studies - Group Behaviours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "Weakness of family love and influence is a consequence of?",
+    "options": ["A. Human trafficking", "B. Good parenting", "C. Strong marriages", "D. Extended family"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "Awareness campaigns can help in preventing?",
+    "options": ["A. Human trafficking", "B. Education", "C. Employment", "D. Health"],
+    "answer": "A",
+    "topic": "Social Studies - Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Exploitation of children is a consequence of?",
+    "options": ["A. Harmful traditional practices", "B. Child education", "C. Child healthcare", "D. Child recreation"],
+    "answer": "A",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "Female circumcision can cause long-term?",
+    "options": ["A. Health problems", "B. Educational benefits", "C. Economic growth", "D. Social harmony"],
+    "answer": "A",
+    "topic": "Social Studies - Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "Cordial living among different groups fosters?",
+    "options": ["A. Peace", "B. Conflict", "C. Violence", "D. Hatred"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "Negative peace may exist in a society that is?",
+    "options": ["A. Not at war but tense", "B. Fully harmonious", "C. Completely stable", "D. Without any conflict"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "Tolerance is essential for promoting peace because it encourages?",
+    "options": ["A. Acceptance of differences", "B. Uniformity", "C. Intolerance", "D. Segregation"],
+    "answer": "A",
+    "topic": "Social Studies - Peace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "Socialization is the process of learning to live in?",
+    "options": ["A. Society", "B. Isolation", "C. Solitude", "D. Seclusion"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "The family is the first agent of socialization because it is where a child first learns?",
+    "options": ["A. Language and norms", "B. Professional skills", "C. Financial management", "D. Political science"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "The press as an agent of socialization includes?",
+    "options": ["A. Newspapers and television", "B. Only radio", "C. Only social media", "D. Only books"],
+    "answer": "A",
+    "topic": "Social Studies - Socialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "The Road Safety Club helps to reduce?",
+    "options": ["A. Road accidents", "B. Sports injuries", "C. School dropouts", "D. Drug abuse"],
+    "answer": "A",
+    "topic": "Social Studies - Road Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "One cause of social problems in Nigeria is?",
+    "options": ["A. Unemployment", "B. Low population density", "C. High literacy rate", "D. Strong institutions"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Solving social problems requires political will and?",
+    "options": ["A. Citizen participation", "B. Foreign intervention", "C. Military rule", "D. Traditional leaders only"],
+    "answer": "A",
+    "topic": "Social Studies - Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Safety in the workplace includes using?",
+    "options": ["A. Protective equipment", "B. Unsafe tools", "C. Ignoring hazards", "D. Skipping training"],
+    "answer": "A",
+    "topic": "Social Studies - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "Which of the following is NOT an attribute of self-reliance?",
+    "options": [
+      "A. Diligence",
+      "B. Laziness",
+      "C. Perseverance",
+      "D. Resourcefulness"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Self-reliance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "One of these promotes conflict in the society.",
+    "options": [
+      "A. Commitment",
+      "B. Crimes",
+      "C. Honesty",
+      "D. Tolerance"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Values",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "Inter-ethnic marriage is a marriage between _____",
+    "options": [
+      "A. man and woman from same parents",
+      "B. man and woman from same village",
+      "C. man and woman from the same ethnic group",
+      "D. man and woman from different ethnic groups"
+    ],
+    "answer": "D",
+    "topic": "Social Studies – Marriage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "A person who is self-reliant is expected to be:",
+    "options": [
+      "A. Dependent on others temporarily",
+      "B. Lazy and unproductive",
+      "C. Hardworking and productive",
+      "D. Wasteful and careless"
+    ],
+    "answer": "C",
+    "topic": "Civic Education – Self-reliance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "The ability to do something without depending on others is called:",
+    "options": [
+      "A. Self-reliance",
+      "B. Co-dependence",
+      "C. Selfishness",
+      "D. Independence"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Self-reliance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 305,
+    "question": "Which of the following is NOT a factor that promotes a value system?",
+    "options": [
+      "A. Consistency",
+      "B. Trust",
+      "C. Competition",
+      "D. Integrity"
+    ],
+    "answer": "C",
+    "topic": "Civic Education – National Values",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "question": "The importance of values in society includes unity, cooperation, and:",
+    "options": [
+      "A. Conflict",
+      "B. Harmony",
+      "C. Isolation",
+      "D. Segregation"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Values",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "Which of the following is a benefit of self-reliance to a nation?",
+    "options": [
+      "A. Increased dependence on foreign aid",
+      "B. Economic growth and reduced poverty",
+      "C. Higher unemployment rates",
+      "D. Lower agricultural output"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Self-reliance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 308,
+    "question": "A citizen who refuses to vote in elections is failing in which duty?",
+    "options": [
+      "A. Right to free speech and the right to vote",
+      "B. Civic responsibility",
+      "C. Payment of taxes",
+      "D. Military service"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Voter Responsibilities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The rule of law requires that no one is above the law. Which of the following is a direct corollary?",
+    "options": [
+      "A. Leaders have absolute immunity",
+      "B. Law applies to both rulers and citizens",
+      "C. Courts can be bypassed by the executive",
+      "D. Laws can be arbitrary"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Rule of Law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "Which of the following is a democratic institution that ensures free and fair elections?",
+    "options": [
+      "A. The military",
+      "B. INEC",
+      "C. Traditional council",
+      "D. Ministry of Finance"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Democratic Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "question": "The separation of powers among the executive, legislature, and judiciary ensures:",
+    "options": [
+      "A. Concentration of power in one arm",
+      "B. Checks and balances to prevent abuse",
+      "C. Elimination of the judiciary",
+      "D. Absolute rule by the president or any leader"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Governance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 312,
+    "question": "A free and fair election requires that:",
+    "options": [
+      "A. Only one candidate runs or can vote",
+      "B. Eligible voters can vote without intimidation",
+      "C. The military supervises the process",
+      "D. Results are announced without counting ballots"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Need for Free and Fair Elections",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Fake ballot papers are a form of electoral malpractice that can be prevented by:",
+    "options": [
+      "A. Using security-feature ballot papers",
+      "B. Allowing anyone to print ballots",
+      "C. Reusing old ballots",
+      "D. Counting ballots at night in secret places"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Preventing Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 314,
+    "question": "Inducement of voters with money or gifts is a form of electoral malpractice known as:",
+    "options": [
+      "A. Vote buying",
+      "B. Underage voting",
+      "C. Thuggery",
+      "D. Fake manifesto"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Electoral Malpractices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "A citizen who reports a crime he witnessed to the police is performing which role?",
+    "options": [
+      "A. Being a vigilante in the community",
+      "B. Cooperating with security agents",
+      "C. Obstructing justice",
+      "D. Violating the law"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crime Prevention",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Neighbourhood watch authorities help prevent crime by:",
+    "options": [
+      "A. Ignoring suspicious activities",
+      "B. Reporting unusual events to the police",
+      "C. Lynching suspects without trial",
+      "D. Protecting criminals from the law or Police"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crime Prevention",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "Food contamination can occur through:",
+    "options": [
+      "A. Proper refrigeration and storage",
+      "B. Poor hygiene",
+      "C. Clean utensils",
+      "D. Washing hands before cooking"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crimes (Food contamination)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Drug adulteration is the addition of harmful substances to drugs. This practice is dangerous because it:",
+    "options": [
+      "A. Increases drug potency",
+      "B. It cause patient harm or death",
+      "C. Reduces side effects",
+      "D. Makes drugs cheaper for the public to buy"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Drug Contamination/Adulteration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "question": "When a building collapses, which of the following should NOT be done?",
+    "options": [
+      "A. Call emergency services or relevant authorities",
+      "B. Attempt rescue only if safe",
+      "C. Stay in the building to save property",
+      "D. Evacuate the area as quickly as possible"
+    ],
+    "answer": "C",
+    "topic": "Security Education – Emergency Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "Importation of expired foods and drugs is a crime because it:",
+    "options": [
+      "A. Creates jobs",
+      "B. Endangers public health",
+      "C. Lowers prices",
+      "D. Increases competition in markets"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crimes and National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "question": "Social Studies helps learners to become good citizens. One way it does this is by:",
+    "options": [
+      "A. Teaching only theoretical concepts",
+      "B. Inculcating the right types of values and attitudes",
+      "C. Encouraging anti-social behavior and corrupt practices",
+      "D. Promoting ignorance of national issues and development"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – General Objectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "A primary group is characterized by intimate, face-to-face contact. The family is primary because it provides:",
+    "options": [
+      "A. Formal education",
+      "B. Basic socialization",
+      "C. Political training",
+      "D. Economic independence"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Family as a Primary Group",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "In a small family size, parents can give more attention to each child. This often results in:",
+    "options": [
+      "A. Higher child mortality",
+      "B. Better educational outcomes and health",
+      "C. More poverty",
+      "D. Increased crime or insecurity in service delivery"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Consequences of Family Sizes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 324,
+    "question": "Marriage provides a stable environment for the raising of children. This fulfills which purpose?",
+    "options": [
+      "A. Economic satisfaction",
+      "B. Procreation & child rearing",
+      "C. Sexual satisfaction and companionship",
+      "D. Social status"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Purpose of Marriage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "One of the factors that makes children and women vulnerable to human trafficking is:",
+    "options": [
+      "A. Strong community protection",
+      "B. Lack of education",
+      "C. Strict immigration laws",
+      "D. High surveillance"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Human Trafficking Factors",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 326,
+    "question": "Human trafficking weakens family love and influence because victims are separated from their families and often:",
+    "options": [
+      "A. End up in forced labor or prostitution",
+      "B. Return home wealthy or rich",
+      "C. Continue their education or Schooling",
+      "D. Become community leaders and mentors"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Consequences of Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 327,
+    "question": "Awareness campaigns are a preventive measure against human trafficking. They are effective because they:",
+    "options": [
+      "A. Teach potential victims how to avoid traffickers",
+      "B. Encourage victims to cooperate with traffickers",
+      "C. Hide information",
+      "D. Reduce community vigilance"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Preventing Human Trafficking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "Child begging, especially when forced by adults, is harmful because it:",
+    "options": [
+      "A. Teaches independence and hard work",
+      "B. Exposes children to abuse",
+      "C. Generates income for the family",
+      "D. Denies children education and care"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Harmful Traditional Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 329,
+    "question": "Preventing harmful traditional practices requires community dialogue, legislation, and what other action?",
+    "options": [
+      "A. Forced compliance with no education",
+      "B. Empowerment of women and girls through education",
+      "C. Sealing of all traditional institutions and organizations",
+      "D. Arresting all elders and community leaders"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Preventing Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "The importance of peace includes progress, development, and happiness. Without peace, a society experiences:",
+    "options": [
+      "A. Economic growth",
+      "B. Conflict and destruction",
+      "C. Improved social services",
+      "D. High investment"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Importance of Peace",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "Tolerance as a way of promoting peace, it involves?",
+    "options": [
+      "A. Accepting the beliefs and practices of others",
+      "B. Forcing others to follow one's religion, culture and tradition",
+      "C. Violence against minorities",
+      "D. Imposing sanctions and restrictions"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Ways of Promoting Peace",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "Religious organizations serve as agents of socialization by teaching moral values and:",
+    "options": [
+      "A. Political ideology and activities",
+      "B. Providing a sense of community",
+      "C. Military training",
+      "D. Economic doctrines and behaviors"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Agents of Socialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The Road Safety Club in schools is structured with executive positions like president, secretary, etc. Its main role is to:",
+    "options": [
+      "A. Train students to become traffic wardens only",
+      "B. Sensitize students on road safety",
+      "C. Organize street racing events",
+      "D. Repair vehicles"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Road Safety Club",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "A contemporary social problem in Nigeria is unemployment. Another example is:",
+    "options": [
+      "A. High literacy",
+      "B. Poverty",
+      "C. Excellent healthcare",
+      "D. Low crime"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Common Social Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "question": "To solve social problems like corruption, one approach is:",
+    "options": [
+      "A. Ignoring it",
+      "B. Strengthening anti-corruption agencies and law enforcement",
+      "C. Encouraging secret deals, dishonesty and lack of transparency",
+      "D. Reducing transparency, cooperation and fair judgement"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Ways of Solving Social Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 336,
+    "question": "Safety guidelines for motorists include obeying traffic signals, wearing seat belts, and:",
+    "options": [
+      "A. Driving under the influence of alcohol and narcotics",
+      "B. Avoiding use of mobile phones while driving",
+      "C. Overloading vehicles",
+      "D. Speeding in school zones and carrying heavy loads"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Safety Measures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "Drug abuse can lead to mental illness, family breakdown, and which other consequence?",
+    "options": [
+      "A. Economic boom",
+      "B. Crime and violence",
+      "C. Academic excellence",
+      "D. Improved health"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Consequences of Drug Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "One of the ways to discourage drug abuse is to acquire coping skills such as refusal skills, problem solving, communication, and what other skill?",
+    "options": [
+      "A. Aggression",
+      "B. Decision making",
+      "C. Submission and dependency",
+      "D. Dependency, selfishness and lack of cooperation"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Discouraging Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 339,
+    "question": "The international community can help prevent drug trafficking through:",
+    "options": [
+      "A. Ignoring drug routes",
+      "B. Cooperation among law enforcement agencies",
+      "C. Legalizing all drugs",
+      "D. Reducing border controls and funding drug cartels"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Preventing Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 340,
+    "question": "The coat of arms of Nigeria features an eagle, a horse, and a white shield. The black shield represents the:",
+    "options": [
+      "A. Love for the country",
+      "B. Strength of the nation",
+      "C. Unity of the country",
+      "D. Fertile soil of Nigeria"
+    ],
+    "answer": "D",
+    "topic": "Civic Education – National Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 341,
+    "question": "The national flag of Nigeria consists of two green stripes and one white stripe. The green color represents:",
+    "options": [
+      "A. Peace patience and discipline",
+      "B. Agriculture and natural wealth",
+      "C. Unity",
+      "D. Freedom, peace or progress"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "The national motto of Nigeria is 'Unity and Faith, Peace and Progress'. This motto encourages:",
+    "options": [
+      "A. Ethnic rivalry",
+      "B. National development",
+      "C. Religious conflict",
+      "D. Secession, ethnicity or religion"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Which of the following is a way to promote hospitality as a means of national unity?",
+    "options": [
+      "A. Welcoming visitors from other cultures",
+      "B. Discriminating against non-indigenes, ethnicity, or religion",
+      "C. Isolating communities",
+      "D. Promoting xenophobia"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Ways of Promoting National Unity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "The need for federation in Nigeria was largely due to:",
+    "options": [
+      "A. Geographic and ethnic diversity",
+      "B. Desire for a unitary system",
+      "C. Colonial preference for a strong center",
+      "D. Lack of resources"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Need for Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "question": "In a federal system, the central government can control the states through which power?",
+    "options": [
+      "A. Exclusive rights over national security",
+      "B. Direct rule over local governments authority",
+      "C. Appointment of all state governors",
+      "D. Suspension of state assemblies"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Characteristics of a Federation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "The 1979 Constitution introduced a presidential system of government in Nigeria. Which other post-1960 constitution retained this system?",
+    "options": [
+      "A. 1963 Constitution",
+      "B. 1989 Constitution",
+      "C. 1999 Constitution",
+      "D. Both 1989 and 1999"
+    ],
+    "answer": "D",
+    "topic": "Civic Education – Post-1960 Constitutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 347,
+    "question": "One of the benefits of the rule of law is protection against arbitrary rule. Which of the following is an example of arbitrary rule?",
+    "options": [
+      "A. Imprisoning someone without trial",
+      "B. Holding fair trials",
+      "C. Following constitutional procedures",
+      "D. Enforcing known laws"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Rule of Law",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "The African Charter on Human and Peoples' Rights is one of the international frameworks that protect human rights. Which Nigerian agency ensures compliance?",
+    "options": [
+      "A. Nigerian Security and Civil Defence Corps",
+      "B. Federal Road Safety Corps",
+      "C. National Human Rights Commission",
+      "D. Code of Conduct Bureau"
+    ],
+    "answer": "C",
+    "topic": "Civic Education – Protection of Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "question": "A consumer who keeps all receipts and warranties is practicing which responsibility?",
+    "options": [
+      "A. Being aware",
+      "B. Keeping proofs of transactions",
+      "C. Thinking independently",
+      "D. Respecting the environment and integrity"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Consumer Responsibilities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "Right to redress allows a consumer to seek compensation for faulty goods. Which of the following is a form of redress?",
+    "options": [
+      "A. Keeping the faulty product",
+      "B. Getting a refund or replacement",
+      "C. Paying extra money to the seller",
+      "D. Ignoring the fault"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Consumer Rights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "INEC's function includes delimiting constituencies and registering voters. Another key function is:",
+    "options": [
+      "A. Making laws",
+      "B. Conducting elections and announcing results",
+      "C. Judging electoral offenses",
+      "D. Appointing the president and undermining rule of law"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Democratic Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "One of the roles of political parties in a democracy is to:",
+    "options": [
+      "A. Eliminate opposition",
+      "B. Nominate candidates for elections",
+      "C. Control the judiciary and undermine rule of law",
+      "D. Run the military and undermine democracy"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Democracy (Political parties)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 353,
+    "question": "The importance of democracy includes the protection of individual liberties and what other benefit?",
+    "options": [
+      "A. Tyranny of the majority & oppression",
+      "B. Accountable & responsive government",
+      "C. One-party rule & suppression",
+      "D. Military intervention & coups"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Importance of Democracy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "A transparent electoral process is essential for democracy to be credible. One way to achieve transparency is:",
+    "options": [
+      "A. Secret counting of ballots",
+      "B. Allowing party agents to monitor polls",
+      "C. Using unverified voters' lists or card readers",
+      "D. Disenfranchising of minorities"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "Basic qualifications for election into an elective office in Nigeria include being a citizen, minimum age, and:",
+    "options": [
+      "A. Owning property of 100,000 naira",
+      "B. Having paid tax as at when due",
+      "C. Membership of a political party",
+      "D. Educational qualification of Grade 12"
+    ],
+    "answer": "C",
+    "topic": "Civic Education – Election Qualifications",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "question": "Voter education involves informing citizens about their voting rights and procedures. What is one outcome of good voter education?",
+    "options": [
+      "A. Low voter turnout and apathy",
+      "B. Informed and confident voters",
+      "C. Increased electoral fraud and manipulation",
+      "D. Disregard for elections"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Voter Responsibilities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "Electoral malpractice such as multiple voting undermines the principle of 'one man, one vote.' How can it be prevented?",
+    "options": [
+      "A. Using indelible ink and biometric verification",
+      "B. Allowing election officials to manipulate results",
+      "C. Closing polling booths early",
+      "D. Disenfranchising certain groups"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Preventing Electoral Malpractices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 358,
+    "question": "The punishment for murder in Nigeria is death. Which other crime also carries severe punishment?",
+    "options": [
+      "A. Littering and improper waste disposal",
+      "B. Drug trafficking",
+      "C. Jaywalking and loitering",
+      "D. Negligence of duty and truancy"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Common Crimes and Punishments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "Food contamination can occur during production, processing, or distribution. A major cause is:",
+    "options": [
+      "A. Proper refrigeration",
+      "B. Poor hygiene practices",
+      "C. Use of clean water and proper packaging",
+      "D. Regular inspection and testing"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crimes (Food contamination)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "Drug adulteration is the addition of harmful substances to drugs. This practice can lead to:",
+    "options": [
+      "A. Cure of diseases",
+      "B. Patient harm or death",
+      "C. Lower cost",
+      "D. Increased efficacy and profit"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Drug Contamination/Adulteration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 361,
+    "question": "In an emergency such as a fire, the first step is to:",
+    "options": [
+      "A. Panic and run away",
+      "B. Raise alarm, evacuate & call emergency services",
+      "C. Collect all belongings and report later",
+      "D. Fight fire without equipment or help"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Emergency Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "Importation of expired foods and drugs is a crime because it:",
+    "options": [
+      "A. Increases trade & economic growth",
+      "B. Endangers public health & safety",
+      "C. Lowers prices & increases competition",
+      "D. Creates jobs & improve the economy"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Crimes and National Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 363,
+    "question": "Social Studies helps learners to become good citizens. One way it does this is by:",
+    "options": [
+      "A. Teaching theoretical concepts and ideas",
+      "B. Inculcating right values and attitudes",
+      "C. Encouraging anti-social behavior and bad character",
+      "D. Promoting ignorance of national issues and events"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – General Objectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The psychomotor content of Social Studies involves skills such as map reading, group work, and:",
+    "options": [
+      "A. Memorizing dates",
+      "B. Physical manipulation",
+      "C. Passive listening",
+      "D. Theoretical analysis only"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Contents of Social Studies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 365,
+    "question": "A primary group is characterized by intimate, face-to-face contact. The family is primary because it provides:",
+    "options": [
+      "A. Formal education",
+      "B. Basic socialization",
+      "C. Political training",
+      "D. Economic independence"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Family as a Primary Group",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "In a small family size, parents can give more attention to each child. This often results in:",
+    "options": [
+      "A. Higher child mortality",
+      "B. Better educational outcomes",
+      "C. More poverty",
+      "D. Increased crime and violence"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Consequences of Family Sizes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "question": "Marriage provides a stable environment for the raising of children. This fulfills which purpose?",
+    "options": [
+      "A. Economic satisfaction",
+      "B. Procreation & child rearing",
+      "C. Sexual satisfaction",
+      "D. Social status & other benefits"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Purpose of Marriage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "One of the factors that makes children and women vulnerable to human trafficking is:",
+    "options": [
+      "A. Strong community protection",
+      "B. Lack of education",
+      "C. Strict immigration laws",
+      "D. High surveillance"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Human Trafficking Factors",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 369,
+    "question": "Human trafficking weakens family love and influence because victims are separated from their families and often:",
+    "options": [
+      "A. End up in forced labor or prostitution",
+      "B. Return home wealthy",
+      "C. Continue their education when they're back",
+      "D. Become community leaders"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Consequences of Human Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "question": "Awareness campaigns are a preventive measure against human trafficking. They are effective because they:",
+    "options": [
+      "A. Teach potential victims how to avoid traffickers",
+      "B. Encourage victims to cooperate with traffickers",
+      "C. Hide information",
+      "D. Reduce community vigilance"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Preventing Human Trafficking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "Child begging, especially when forced by adults, is harmful because it:",
+    "options": [
+      "A. Teaches independence",
+      "B. Exposes children to abuse and denies education",
+      "C. Generates income for the family and rapid benefit",
+      "D. Is a cultural heritage"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Harmful Traditional Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "Preventing harmful traditional practices requires community dialogue, legislation, and what other action?",
+    "options": [
+      "A. Forced compliance with no education",
+      "B. Empowerment of women & girls via education",
+      "C. Sealing of all traditional institutions and their works",
+      "D. Arresting all elders"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Preventing Harmful Practices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 373,
+    "question": "The importance of peace includes progress, development, and happiness. Without peace, a society experiences:",
+    "options": [
+      "A. Economic growth",
+      "B. Conflict and destruction",
+      "C. Improved social services",
+      "D. High investment"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Importance of Peace",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "Tolerance as a way of promoting peace involves:",
+    "options": [
+      "A. Accepting the beliefs",
+      "B. Forcing others to follow one's religion",
+      "C. Violence against minorities",
+      "D. Imposing sanctions"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Ways of Promoting Peace",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "question": "Religious organizations serve as agents of socialization by teaching moral values and:",
+    "options": [
+      "A. Political ideology",
+      "B. Sense of community & ethical guidance",
+      "C. Military training & other things needed for spiritual growth",
+      "D. Economic & Spiritual Doctrines"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Agents of Socialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "The structure of the Road Safety Club in schools includes a patron, president, secretary, treasurer, and what other role?",
+    "options": [
+      "A. Chaplain",
+      "B. Public Relations Officer",
+      "C. Sergeant at arms",
+      "D. All of the above (depending on club structure)"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Road Safety Club",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 377,
+    "question": "One of the roles of the Road Safety Club in youth socialization is to:",
+    "options": [
+      "A. Train road repair workers",
+      "B. Inculcate safe road usage habits from a young age",
+      "C. Provide driving licenses to citizens or punish them",
+      "D. Enforce traffic laws"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Road Safety Club",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "A social problem such as corruption can be solved by strengthening institutions, enforcing laws, and:",
+    "options": [
+      "A. Ignoring whistleblowers",
+      "B. Promoting ethical values",
+      "C. Reducing accountability and responsibility",
+      "D. Allowing secret trials"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Ways of Solving Social Problem",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 379,
+    "question": "Safety guidelines for cyclists include wearing a helmet, using lights at night, and:",
+    "options": [
+      "A. Riding against traffic",
+      "B. Obeying traffic rules and signals",
+      "C. Riding on the sidewalk",
+      "D. Carrying passengers on the handlebars"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Safety Measures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "The consequences of drug abuse on the community include increased crime rates, family breakdown, and:",
+    "options": [
+      "A. Lower healthcare costs",
+      "B. Social disorder",
+      "C. Educational excellence",
+      "D. Community harmony"
+    ],
+    "answer": "B",
+    "topic": "Social Studies – Consequences of Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "Forming drug-free clubs in schools is a way to discourage drug abuse. These clubs provide:",
+    "options": [
+      "A. Peer support for healthy choices",
+      "B. Access to drugs",
+      "C. Training in drug production and adversity",
+      "D. Isolation from non-users"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Discouraging Drug Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "The death penalty in some countries for drug trafficking is a deterrent. In Nigeria, drug trafficking carries:",
+    "options": [
+      "A. 10 years imprisonment",
+      "B. Life imprisonment",
+      "C. Death penalty (for certain quantities)",
+      "D. A fine only"
+    ],
+    "answer": "A",
+    "topic": "Social Studies – Consequences of Drug Trafficking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 383,
+    "question": "The Old Nigerian national anthem has two stanzas. The first stanza ends with: 'To serve our fatherland with love, and strength and faith.' This expresses:",
+    "options": [
+      "A. Love for other nations and one's personality",
+      "B. Commitment to national service",
+      "C. Desire for military rule ",
+      "D. Individualism for the nation"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Anthem",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "The Nigerian currency features national symbols such as the coat of arms and images of prominent leaders. This promotes:",
+    "options": [
+      "A. Regionalism",
+      "B. National identity",
+      "C. Tribal affiliation",
+      "D. Foreign culture"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "question": "Federal Character Commission was established to enforce the principle of equitable representation. This helps to:",
+    "options": [
+      "A. Create regional imbalance",
+      "B. Reduce feelings of marginalization",
+      "C. Promote tribalism or ethnicity",
+      "D. Abolish the civil service of human right"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – National Consciousness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "The Macpherson Constitution of 1951 introduced regional legislatures and a central House of Representatives. What was a key feature?",
+    "options": [
+      "A. Full independence",
+      "B. Ministers drawn from regional legislatures",
+      "C. Abolition of the north on immigration pressure",
+      "D. Single-party system"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Colonial Constitutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "question": "The Independence Constitution of 1960 gave Nigeria self-governance but retained the Queen as head of state. This changed with the:",
+    "options": [
+      "A. 1963 Constitution",
+      "B. 1979 Constitution",
+      "C. 1989 Constitution",
+      "D. 1999 Constitution"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Independence Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "The 1999 Constitution (current) provides for a presidential system. Under this system, the president is the head of state and government. The legislature is called:",
+    "options": [
+      "A. National Assembly",
+      "B. Parliament",
+      "C. Federal Council Organization",
+      "D. Supreme Soviet"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Post-1960 Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 389,
+    "question": "One of the ways a citizen can contribute to national unity is by learning and speaking a language other than their own. This is known as:",
+    "options": [
+      "A. Linguistic imperialism",
+      "B. Multilingualism",
+      "C. Language extinction",
+      "D. Cultural assimilation by force"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Ways of Promoting National Unity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 390,
+    "question": "The rule of law requires that laws are publicly made and equally enforced. Which of the following violates this principle?",
+    "options": [
+      "A. Uneven enforcement against political opponents",
+      "B. Publishing laws always or most of the time in public",
+      "C. Impartial courts always or most of the time",
+      "D. Due process always or most of the time"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Rule of Law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "A hunger strike can be used as a non-violent protest to draw attention to human rights violations. This method falls under:",
+    "options": [
+      "A. Armed rebellion",
+      "B. Civil resistance",
+      "C. Judicial action",
+      "D. Legislative lobbying"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Protection of Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "Trade unions as groups that assist in protecting human rights by:",
+    "options": [
+      "A. Ignoring workers' rights always or most of the time",
+      "B. Ensuring fair wages and working conditions",
+      "C. Breaking agreements always or most of the time",
+      "D. Avoiding collective bargaining always or most of the time"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Protection of Human Rights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "question": "The right to information allows consumers to know the exact ingredients and manufacturing date of products. This right is often violated by:",
+    "options": [
+      "A. Stamping expiry dates",
+      "B. Clear labeling",
+      "C. Falsifying labels or hiding information",
+      "D. Providing user manuals always on request"
+    ],
+    "answer": "C",
+    "topic": "Civic Education – Consumer Rights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "An informed consumer who thinks independently will likely:",
+    "options": [
+      "A. Buy based on advertisement only",
+      "B. Compare products before purchasing",
+      "C. Ignore product quality",
+      "D. Follow the crowd on frequent sales"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Consumer Responsibilities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "The three arms of government in a democracy are the executive, legislature, and judiciary. This separation ensures:",
+    "options": [
+      "A. Concentration of power",
+      "B. Checks and balances",
+      "C. Absolute rule",
+      "D. Elimination of elections"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Democratic Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 396,
+    "question": "One of the importance of democracy is that it allows for periodic change of government through peaceful means. This reduces the likelihood of:",
+    "options": [
+      "A. Military coups",
+      "B. Free press",
+      "C. Civil society",
+      "D. Human rights"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Importance of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "Majority rule is a fundamental principle of democracy, but it must be balanced with the protection of minority rights to prevent:",
+    "options": [
+      "A. Democracy",
+      "B. Tyranny of majority",
+      "C. Electoral success",
+      "D. Voter participation"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Pillars of Democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 398,
+    "question": "An electoral body that is independent and impartial is crucial for free and fair elections. In Nigeria, the body responsible for state and local government elections (not federal) is:",
+    "options": [
+      "A. INEC",
+      "B. SIEC",
+      "C. NECO",
+      "D. ICPC"
+    ],
+    "answer": "B",
+    "topic": "Civic Education – Elections and Electoral Bodies in Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "Thuggery and intimidation at polling stations are electoral malpractices. What is an effective countermeasure?",
+    "options": [
+      "A. Use security to protect polling units",
+      "B. Allowing thugs to operate",
+      "C. Closing polling stations permanently",
+      "D. Disqualifying all candidates"
+    ],
+    "answer": "A",
+    "topic": "Civic Education – Preventing Electoral Malpractices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The punishment for human trafficking in Nigeria, as per the syllabus, is 5–10 years imprisonment. This is meant to:",
+    "options": [
+      "A. Encourage trafficking",
+      "B. Serve as a deterrent",
+      "C. Reward culprits",
+      "D. Provide legal loopholes"
+    ],
+    "answer": "B",
+    "topic": "Security Education – Common Crimes and Punishments",
+    "difficulty": "Easy"
+  }
+]
+

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a primary cause of water pollution?",
+    "options": ["A. Oil spillage", "B. Burning of bushes", "C. Deforestation", "D. Overgrazing"],
+    "answer": "A",
+    "topic": "Basic Science - Environmental Pollution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "What is the major consequence of air pollution on human health?",
+    "options": ["A. Bone diseases", "B. Respiratory infections", "C. Skin rashes", "D. Liver damage"],
+    "answer": "B",
+    "topic": "Basic Science - Environmental Pollution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a characteristic of living things?",
+    "options": ["A. Growth", "B. Reproduction", "C. Movement", "D. Indestructibility"],
+    "answer": "D",
+    "topic": "Basic Science - Living and Non-Living Things",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "The three states of matter are solid, liquid and:",
+    "options": ["A. Gas", "B. Plasma", "C. Vapour", "D. Fluid"],
+    "answer": "A",
+    "topic": "Basic Science - Living and Non-Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of a non-metal?",
+    "options": ["A. Iron", "B. Copper", "C. Carbon", "D. Aluminium"],
+    "answer": "C",
+    "topic": "Basic Science - Living and Non-Living Things",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "What unique ability distinguishes humans from other animals?",
+    "options": ["A. Movement", "B. Growth", "C. Reasoning", "D. Reproduction"],
+    "answer": "C",
+    "topic": "Basic Science - Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "A chemical that is highly hazardous and toxic should be handled with:",
+    "options": ["A. Bare hands", "B. Maximum precautions", "C. No special care", "D. Open air only"],
+    "answer": "B",
+    "topic": "Basic Science - Chemicals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a family trait?",
+    "options": ["A. Language spoken", "B. Skin colour", "C. Religion", "D. Nationality"],
+    "answer": "B",
+    "topic": "Basic Science - Family Traits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "A recessive trait is one that is:",
+    "options": ["A. Always expressed", "B. Hidden by dominant trait", "C. Never inherited", "D. Only in males"],
+    "answer": "B",
+    "topic": "Basic Science - Family Traits",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "What is the process of removing topsoil by wind or water?",
+    "options": ["A. Deforestation", "B. Desertification", "C. Soil erosion", "D. Flooding"],
+    "answer": "C",
+    "topic": "Basic Science - Soil Erosion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following helps to control soil erosion?",
+    "options": ["A. Overgrazing", "B. Bush burning", "C. Contour ploughing", "D. Deforestation"],
+    "answer": "C",
+    "topic": "Basic Science - Soil Erosion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "The practice of setting fire to bushes for hunting is called:",
+    "options": ["A. Deforestation", "B. Flooding", "C. Bush burning", "D. Desertification"],
+    "answer": "C",
+    "topic": "Basic Science - Bush Burning",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "One economic consequence of bush burning is:",
+    "options": ["A. Increased fertility", "B. Destruction of crops", "C. More rainfall", "D. Pest reduction"],
+    "answer": "B",
+    "topic": "Basic Science - Bush Burning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "Ozone layer depletion is primarily caused by:",
+    "options": ["A. Carbon dioxide", "B. CFCs", "C. Methane", "D. Nitrogen oxide"],
+    "answer": "B",
+    "topic": "Basic Science - Ozone Layer Depletion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Exposure to ultraviolet rays due to ozone depletion increases the risk of:",
+    "options": ["A. Malaria", "B. Skin cancer", "C. Typhoid", "D. Cholera"],
+    "answer": "B",
+    "topic": "Basic Science - Ozone Layer Depletion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "NAFDAC is responsible for:",
+    "options": ["A. Human trafficking", "B. Counterfeit products", "C. Corruption", "D. Terrorism"],
+    "answer": "B",
+    "topic": "Basic Science - Drug and Substance Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a method to prevent drug abuse?",
+    "options": ["A. Peer pressure", "B. Healthy lifestyle", "C. Easy drug access", "D. Parental neglect"],
+    "answer": "B",
+    "topic": "Basic Science - Drug and Substance Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "An example of a plant resource is:",
+    "options": ["A. Hides", "B. Cash crops", "C. Dairy products", "D. Crude oil"],
+    "answer": "B",
+    "topic": "Basic Science - Resources from Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a solid mineral found in Nigeria?",
+    "options": ["A. Coal", "B. Petroleum", "C. Natural gas", "D. Water"],
+    "answer": "A",
+    "topic": "Basic Science - Resources from Non-Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "Solar energy is classified as:",
+    "options": ["A. Non-renewable", "B. Renewable", "C. Fossil fuel", "D. Chemical energy"],
+    "answer": "B",
+    "topic": "Basic Science - Renewable and Non-Renewable Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Refining crude oil produces all of these EXCEPT:",
+    "options": ["A. Petrol", "B. Kerosene", "C. Coal", "D. Diesel"],
+    "answer": "C",
+    "topic": "Basic Science - Crude Oil and Petrochemicals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Skill acquisition is important because it:",
+    "options": ["A. Increases unemployment", "B. Provides survival skills", "C. Wastes time", "D. Discourages learning"],
+    "answer": "B",
+    "topic": "Basic Science - Skill Acquisition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a skill that can be acquired?",
+    "options": ["A. Sleeping", "B. Eating", "C. Computer literacy", "D. Daydreaming"],
+    "answer": "C",
+    "topic": "Basic Science - Skill Acquisition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "What is the greenhouse effect primarily caused by?",
+    "options": ["A. Oxygen", "B. Carbon dioxide", "C. Nitrogen", "D. Hydrogen"],
+    "answer": "B",
+    "topic": "Basic Science - Ozone Layer Depletion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a non-biodegradable waste?",
+    "options": ["A. Paper", "B. Banana peel", "C. Plastic", "D. Wood"],
+    "answer": "C",
+    "topic": "Basic Science - Environmental Pollution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "The process by which plants make their own food is called:",
+    "options": ["A. Respiration", "B. Photosynthesis", "C. Transpiration", "D. Fermentation"],
+    "answer": "B",
+    "topic": "Basic Science - Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "What type of energy is stored in a battery?",
+    "options": ["A. Kinetic", "B. Chemical", "C. Thermal", "D. Nuclear"],
+    "answer": "B",
+    "topic": "Basic Science - Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a ferrous metal?",
+    "options": ["A. Aluminium", "B. Copper", "C. Iron", "D. Brass"],
+    "answer": "C",
+    "topic": "Basic Technology - Properties of Materials",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "Ceramics are known for being:",
+    "options": ["A. Flexible", "B. Brittle and heat resistant", "C. Magnetic", "D. Good conductors"],
+    "answer": "B",
+    "topic": "Basic Technology - Properties of Materials",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a common building material?",
+    "options": ["A. Plastic", "B. Glass", "C. Sand", "D. All of the above"],
+    "answer": "D",
+    "topic": "Basic Technology - Building Materials",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The removal of moisture from timber to increase strength is called:",
+    "options": ["A. Felling", "B. Conversion", "C. Seasoning", "D. Planing"],
+    "answer": "C",
+    "topic": "Basic Technology - Processing of Timber",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "A timber defect where the wood curves along its length is known as:",
+    "options": ["A. Twist", "B. Bowing", "C. Cupping", "D. Splitting"],
+    "answer": "B",
+    "topic": "Basic Technology - Processing of Timber",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "The extraction of metal from its ore by heating is called:",
+    "options": ["A. Smelting", "B. Casting", "C. Forging", "D. Rolling"],
+    "answer": "A",
+    "topic": "Basic Technology - Processing of Metals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "An alloy is a mixture of two or more:",
+    "options": ["A. Non-metals", "B. Metals", "C. Ceramics", "D. Plastics"],
+    "answer": "B",
+    "topic": "Basic Technology - Processing of Metals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Which instrument is used to draw horizontal lines on a drawing board?",
+    "options": ["A. Set square", "B. Compass", "C. T-square", "D. Protractor"],
+    "answer": "C",
+    "topic": "Basic Technology - Drawing Instruments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Freehand sketching involves drawing without the use of:",
+    "options": ["A. Paper", "B. Pencil", "C. Instruments", "D. Eraser"],
+    "answer": "C",
+    "topic": "Basic Technology - Freehand Sketching",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The line that divides a circle into two equal parts is called the:",
+    "options": ["A. Radius", "B. Diameter", "C. Chord", "D. Sector"],
+    "answer": "B",
+    "topic": "Basic Technology - Circle Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "A triangle with all sides equal is called:",
+    "options": ["A. Isosceles", "B. Scalene", "C. Equilateral", "D. Right-angled"],
+    "answer": "C",
+    "topic": "Basic Technology - Triangles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "A polygon with six sides is a:",
+    "options": ["A. Pentagon", "B. Hexagon", "C. Heptagon", "D. Octagon"],
+    "answer": "B",
+    "topic": "Basic Technology - Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "In isometric drawing, the axes are drawn at what angle to the horizontal?",
+    "options": ["A. 30 degrees", "B. 45 degrees", "C. 60 degrees", "D. 90 degrees"],
+    "answer": "A",
+    "topic": "Basic Technology - Isometric Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "Oblique drawing is a type of:",
+    "options": ["A. Pictorial drawing", "B. Orthographic projection", "C. Isometric projection", "D. Perspective drawing"],
+    "answer": "A",
+    "topic": "Basic Technology - Oblique Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "Orthographic projection usually shows how many principal views?",
+    "options": ["A. One", "B. Two", "C. Three", "D. Four"],
+    "answer": "C",
+    "topic": "Basic Technology - Orthographic Projection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "A scale of 1:5 means the drawing is:",
+    "options": ["A. Five times larger", "B. One-fifth the size", "C. Same size", "D. Ten times larger"],
+    "answer": "B",
+    "topic": "Basic Technology - Scales and Scale Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "A blue-print is a:",
+    "options": ["A. Blue painting", "B. Reprographic copy", "C. Photograph", "D. Hand sketch"],
+    "answer": "B",
+    "topic": "Basic Technology - Drawing of Plans and Blue-Prints",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Which tool is used for driving nails into wood?",
+    "options": ["A. Screwdriver", "B. Mallet", "C. Hammer", "D. Pliers"],
+    "answer": "C",
+    "topic": "Basic Technology - Woodwork Hand Tools",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "A metalwork tool used for marking lines is a:",
+    "options": ["A. Scriber", "B. File", "C. Spanner", "D. Punch"],
+    "answer": "A",
+    "topic": "Basic Technology - Metalwork Hand Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Maintenance carried out before a breakdown occurs is called:",
+    "options": ["A. Corrective", "B. Predictive", "C. Preventive", "D. Emergency"],
+    "answer": "C",
+    "topic": "Basic Technology - Maintenance of Tools and Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "A circular saw is a type of:",
+    "options": ["A. Hand tool", "B. Woodwork machine", "C. Metalwork machine", "D. Drawing tool"],
+    "answer": "B",
+    "topic": "Basic Technology - Woodwork Machines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "An example of linear motion is:",
+    "options": ["A. Wheel rotation", "B. Pendulum swing", "C. Slide moving straight", "D. Gear turning"],
+    "answer": "C",
+    "topic": "Basic Technology - Machine Motions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "A rack and pinion converts:",
+    "options": ["A. Linear to rotary", "B. Rotary to linear", "C. Rotary to rotary", "D. Linear to linear"],
+    "answer": "B",
+    "topic": "Basic Technology - Rotary Motion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "Physical fitness is the ability to:",
+    "options": ["A. Lift heavy objects", "B. Run fast", "C. Perform daily tasks without fatigue", "D. Eat a lot"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Physical Fitness",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a health-related fitness component?",
+    "options": ["A. Agility", "B. Speed", "C. Cardiovascular endurance", "D. Coordination"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Physical Fitness",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Recreational activities are done for:",
+    "options": ["A. Work", "B. Profit", "C. Enjoyment", "D. Compulsion"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Recreation and Dance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "Which traditional dance is associated with the Igbo people?",
+    "options": ["A. Bata", "B. Atilogwu", "C. Sharo", "D. Langa"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Recreation and Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "The sideways curvature of the spine is called:",
+    "options": ["A. Kyphosis", "B. Lordosis", "C. Scoliosis", "D. Flat feet"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Posture and Defects",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "A cause of postural defects is:",
+    "options": ["A. Regular exercise", "B. Good nutrition", "C. Poor sitting habits", "D. Proper walking"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Posture and Defects",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Human trafficking is a:",
+    "options": ["A. Health benefit", "B. Crime against humanity", "C. Recreational activity", "D. Type of sport"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Issues and Challenges",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "In athletics, shot put is a:",
+    "options": ["A. Track event", "B. Field event", "C. Combined event", "D. Relay event"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Athletics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "The correct sequence for discus throw is:",
+    "options": ["A. Stance, grip, throw, follow", "B. Grip, stance, throw, follow", "C. Throw, grip, stance, follow", "D. Follow, stance, grip, throw"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Athletics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "The decathlon consists of how many events?",
+    "options": ["A. 5", "B. 7", "C. 10", "D. 12"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Athletics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "In soccer, a player is offside when they are:",
+    "options": ["A. Behind the ball", "B. Closer to goal line than ball and second-last opponent", "C. In their own half", "D. Standing still"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Ball Games (Soccer)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "The referee in volleyball is responsible for:",
+    "options": ["A. Keeping score only", "B. Enforcing rules", "C. Coaching players", "D. Providing equipment"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Ball Games (Volleyball)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "The skill of stopping the ball with the stick in hockey is called:",
+    "options": ["A. Hit", "B. Stop", "C. Push", "D. Flick"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Hockey",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is a contact sport?",
+    "options": ["A. Swimming", "B. Gymnastics", "C. Wrestling", "D. Tennis"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Contact and Non-contact Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "Taekwondo originated from:",
+    "options": ["A. China", "B. Japan", "C. Korea", "D. Brazil"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Contact Games (Taekwondo)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "The swimming stroke performed on the back is called:",
+    "options": ["A. Crawl", "B. Breaststroke", "C. Backstroke", "D. Butterfly"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Non-contact Sports (Swimming)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "In table tennis, a serve that touches the net and lands in the opponent's court is a:",
+    "options": ["A. Fault", "B. Let", "C. Ace", "D. Smash"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Striking Games",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Heredity is a determinant of health because it:",
+    "options": ["A. Can be controlled", "B. Affects genetic makeup", "C. Changes with lifestyle", "D. Is avoidable"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Refuse disposal involves:",
+    "options": ["A. Treating water", "B. Removing solid waste", "C. Cleaning air", "D. Managing sewage"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "School feeding services are a component of:",
+    "options": ["A. Sports programme", "B. School health programme", "C. Extra-curricular activities", "D. Academic curriculum"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Puberty in boys is marked by:",
+    "options": ["A. Menstruation", "B. Voice deepening", "C. Hip widening", "D. Breast growth"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Life Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "A consequence of teenage pregnancy is:",
+    "options": ["A. Better education", "B. Health risks", "C. Financial stability", "D. Career growth"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Life Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "NDLEA is the agency responsible for:",
+    "options": ["A. Food regulation", "B. Drug law enforcement", "C. Disease control", "D. Environmental protection"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Drug Use",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Carbohydrates are the body's main source of:",
+    "options": ["A. Energy", "B. Protein", "C. Vitamins", "D. Minerals"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Deficiency of vitamin C causes:",
+    "options": ["A. Rickets", "B. Scurvy", "C. Beriberi", "D. Anaemia"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is a pathogen?",
+    "options": ["A. Air", "B. Water", "C. Virus", "D. Food"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Pathogens and Diseases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Immunization is a method of:",
+    "options": ["A. Disease treatment", "B. Disease prevention", "C. Disease diagnosis", "D. Disease transmission"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Pathogens and Diseases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Kwashiorkor is caused by deficiency of:",
+    "options": ["A. Carbohydrates", "B. Protein", "C. Fats", "D. Vitamins"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Non-Communicable Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "Sickle cell anaemia is a:",
+    "options": ["A. Communicable disease", "B. Non-communicable disease", "C. Infectious disease", "D. Viral disease"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Non-Communicable Diseases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "A vector is an organism that:",
+    "options": ["A. Cures diseases", "B. Transmits diseases", "C. Prevents diseases", "D. Kills pathogens"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Health (Disease Vectors)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The life cycle of a mosquito includes:",
+    "options": ["A. Egg, nymph, adult", "B. Egg, larva, pupa, adult", "C. Larva, pupa only", "D. Egg, caterpillar, adult"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Health (Disease Vectors)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "HIV is primarily transmitted through:",
+    "options": ["A. Handshake", "B. Sexual contact", "C. Coughing", "D. Sharing clothes"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Health (STIs, HIV/AIDS)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "The first step in first aid for a bleeding wound is to:",
+    "options": ["A. Apply tourniquet", "B. Apply direct pressure", "C. Clean with alcohol", "D. Raise the limb"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid and Safety Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "A Nigerian boxing hero known internationally is:",
+    "options": ["A. Dick Tiger", "B. Kanu Nwankwo", "C. Chioma Ajunwa", "D. Stephen Keshi"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Nigerian Sports Heroes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "An example of an early counting device is:",
+    "options": ["A. Abacus", "B. Slide rule", "C. Fingers", "D. All of the above"],
+    "answer": "D",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "The first mechanical calculator was the:",
+    "options": ["A. Abacus", "B. Slide rule", "C. Pascaline", "D. Analytical engine"],
+    "answer": "C",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "Charles Babbage is known for designing the:",
+    "options": ["A. Difference Engine", "B. Analytical Engine", "C. Both A and B", "D. ENIAC"],
+    "answer": "C",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Transistors were introduced in which generation of computers?",
+    "options": ["A. First", "B. Second", "C. Third", "D. Fourth"],
+    "answer": "B",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "The stage where data is entered into the computer is called:",
+    "options": ["A. Data gathering", "B. Input stage", "C. Processing stage", "D. Output stage"],
+    "answer": "B",
+    "topic": "Computer Studies - Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "A benefit of using a computer for data processing is:",
+    "options": ["A. It gets tired", "B. It is slow", "C. High accuracy", "D. Many errors"],
+    "answer": "C",
+    "topic": "Computer Studies - Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "A good computer room practice is to:",
+    "options": ["A. Eat inside", "B. Maintain dust-free environment", "C. Spill liquids", "D. Block ventilation"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Ethics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is system software?",
+    "options": ["A. Word", "B. Operating system", "C. Excel", "D. CorelDraw"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "An example of an operating system is:",
+    "options": ["A. Windows", "B. Paint", "C. Word", "D. Chrome"],
+    "answer": "A",
+    "topic": "Computer Studies - Operating System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The smallest unit of storage is a:",
+    "options": ["A. Byte", "B. Bit", "C. Nibble", "D. Kilobyte"],
+    "answer": "B",
+    "topic": "Computer Studies - Units of Storage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "One kilobyte equals:",
+    "options": ["A. 1000 bytes", "B. 1024 bytes", "C. 1000 bits", "D. 1024 bits"],
+    "answer": "B",
+    "topic": "Computer Studies - Units of Storage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "BASIC stands for:",
+    "options": ["A. Basic All-purpose Code", "B. Beginner's All-purpose Symbolic Instruction Code", "C. Binary Assembly Code", "D. Byte Arithmetic Code"],
+    "answer": "B",
+    "topic": "Computer Studies - BASIC Programming",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "A safety measure when using a computer is to:",
+    "options": ["A. Place liquids nearby", "B. Use anti-glare protector", "C. Sit too close", "D. Keep room dark"],
+    "answer": "B",
+    "topic": "Computer Studies - Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "A virus that attaches to executable files is called:",
+    "options": ["A. Boot sector virus", "B. Executable file virus", "C. Macro virus", "D. Trojan horse"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Viruses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "A sign of computer virus infection is:",
+    "options": ["A. Faster speed", "B. Strange characters", "C. More storage", "D. Longer battery life"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Viruses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "An example of anti-virus software is:",
+    "options": ["A. Word", "B. Norton", "C. Excel", "D. Paint"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Viruses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "A programmer is responsible for:",
+    "options": ["A. Operating computers", "B. Writing software", "C. Repairing hardware", "D. Managing networks"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Professionals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "The professional body for computer scientists in Nigeria is:",
+    "options": ["A. NITDA", "B. NCS", "C. NCC", "D. NIMC"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Professionals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "IT stands for:",
+    "options": ["A. Internet Technology", "B. Information Technology", "C. Integrated Technology", "D. Interactive Technology"],
+    "answer": "B",
+    "topic": "Computer Studies - Application of IT",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is a modern method of transmitting information?",
+    "options": ["A. Town crying", "B. Beating drums", "C. GSM", "D. Fire lighting"],
+    "answer": "C",
+    "topic": "Computer Studies - Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "ICT stands for:",
+    "options": ["A. International Communication Technology", "B. Information and Communication Technology", "C. Internet and Computer Technology", "D. Integrated Circuit Technology"],
+    "answer": "B",
+    "topic": "Computer Studies - IT as a Transformational Tool",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "A fax machine is used to:",
+    "options": ["A. Send voice messages", "B. Send scanned documents", "C. Browse the internet", "D. Play games"],
+    "answer": "B",
+    "topic": "Computer Studies - IT Gadgets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The largest computer network in the world is the:",
+    "options": ["A. LAN", "B. WAN", "C. Internet", "D. Intranet"],
+    "answer": "C",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "E-commerce is a benefit of the internet because it:",
+    "options": ["A. Reduces communication", "B. Enables online buying", "C. Slows trade", "D. Increases costs"],
+    "answer": "B",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "An example of a search engine is:",
+    "options": ["A. Windows", "B. Google", "C. Excel", "D. Paint"],
+    "answer": "B",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "A digital device processes data using:",
+    "options": ["A. Analog signals", "B. Binary numbers", "C. Mechanical gears", "D. Continuous waves"],
+    "answer": "B",
+    "topic": "Computer Studies - Digital Device",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "A feature of the new economy is that it is:",
+    "options": ["A. Labour-based", "B. Technology-driven", "C. Time-consuming", "D. Constrained by distance"],
+    "answer": "B",
+    "topic": "Computer Studies - Digital Device",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "Microsoft Word is an example of a:",
+    "options": ["A. Spreadsheet", "B. Word processor", "C. Graphic package", "D. Database"],
+    "answer": "B",
+    "topic": "Computer Studies - Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "A feature of a graphic package is the:",
+    "options": ["A. Formula bar", "B. Colour palette", "C. Cell reference", "D. Slide pane"],
+    "answer": "B",
+    "topic": "Computer Studies - Graphic Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is NOT a cause of soil erosion?",
+    "options": ["A. Wind", "B. Running water", "C. Afforestation", "D. Overgrazing"],
+    "answer": "C",
+    "topic": "Basic Science - Soil Erosion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "The process of converting logs into planks is called:",
+    "options": ["A. Felling", "B. Conversion", "C. Seasoning", "D. Gouth"],
+    "answer": "B",
+    "topic": "Basic Technology - Processing of Timber",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Which of the following is a non-ferrous metal?",
+    "options": ["A. Steel", "B. Copper", "C. Cast iron", "D. Wrought iron"],
+    "answer": "B",
+    "topic": "Basic Technology - Properties of Materials",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The part of a circle bounded by two radii is a:",
+    "options": ["A. Segment", "B. Sector", "C. Chord", "D. Tangent"],
+    "answer": "B",
+    "topic": "Basic Technology - Circle Geometry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "The recovery position in first aid is used for:",
+    "options": ["A. Conscious person", "B. Unconscious but breathing person", "C. Broken bone", "D. Bleeding person"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "A function of an operating system is:",
+    "options": ["A. Creating documents", "B. Resource allocation", "C. Playing games", "D. Drawing graphics"],
+    "answer": "B",
+    "topic": "Computer Studies - Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "The ozone layer is found in the:",
+    "options": ["A. Troposphere", "B. Stratosphere", "C. Mesosphere", "D. Thermosphere"],
+    "answer": "B",
+    "topic": "Basic Science - Ozone Layer Depletion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "Energy of motion is called:",
+    "options": ["A. Potential energy", "B. Kinetic energy", "C. Chemical energy", "D. Nuclear energy"],
+    "answer": "B",
+    "topic": "Basic Science - Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "A safety measure for chemical storage is to:",
+    "options": ["A. Remove labels", "B. Keep in original containers", "C. Store near food", "D. Leave containers open"],
+    "answer": "B",
+    "topic": "Basic Science - Chemicals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "The ability to do work is defined as:",
+    "options": ["A. Power", "B. Energy", "C. Force", "D. Pressure"],
+    "answer": "B",
+    "topic": "Basic Science - Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "A T-square is used to draw:",
+    "options": ["A. Vertical lines", "B. Horizontal lines", "C. Circles", "D. Curves"],
+    "answer": "B",
+    "topic": "Basic Technology - Drawing Instruments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "A chisel is used in woodwork for:",
+    "options": ["A. Driving nails", "B. Removing chips", "C. Measuring", "D. Holding work"],
+    "answer": "B",
+    "topic": "Basic Technology - Woodwork Hand Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is a non-communicable disease?",
+    "options": ["A. Malaria", "B. Tuberculosis", "C. Diabetes", "D. Cholera"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Non-Communicable Diseases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "Flat feet affect the:",
+    "options": ["A. Spine", "B. Arch of the foot", "C. Neck", "D. Shoulders"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Posture and Defects",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "A lead screw converts:",
+    "options": ["A. Rotary to linear motion", "B. Linear to rotary motion", "C. Rotary to rotary", "D. Linear to linear"],
+    "answer": "A",
+    "topic": "Basic Technology - Machine Motions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "Agility is a performance-related component of:",
+    "options": ["A. Health", "B. Physical fitness", "C. Nutrition", "D. Hygiene"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Physical Fitness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The Fulani traditional dance called Sharo involves:",
+    "options": ["A. Acrobatics", "B. Flogging", "C. Masks", "D. Fire eating"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Recreation and Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "In volleyball, a player can hit the ball consecutively at most:",
+    "options": ["A. Once", "B. Twice", "C. Three times", "D. Four times"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Ball Games (Volleyball)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "Bronze is an alloy of:",
+    "options": ["A. Copper and zinc", "B. Copper and tin", "C. Iron and carbon", "D. Aluminium and copper"],
+    "answer": "B",
+    "topic": "Basic Technology - Processing of Metals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "Seasoning of timber can be done by:",
+    "options": ["A. Air drying", "B. Kiln drying", "C. Both A and B", "D. Chemical treatment only"],
+    "answer": "C",
+    "topic": "Basic Technology - Processing of Timber",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "A Trojan horse is a type of:",
+    "options": ["A. Virus", "B. Worm", "C. Malware", "D. Antivirus"],
+    "answer": "C",
+    "topic": "Computer Studies - Computer Viruses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "An ancient method of information transmission is:",
+    "options": ["A. Email", "B. Town crying", "C. GSM", "D. Television"],
+    "answer": "B",
+    "topic": "Computer Studies - Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "The first electronic general-purpose computer was:",
+    "options": ["A. ENIAC", "B. UNIVAC", "C. EDVAC", "D. ABC"],
+    "answer": "A",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is a non-contact sport?",
+    "options": ["A. Boxing", "B. Wrestling", "C. Gymnastics", "D. Judo"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Non-contact Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "The grip used in javelin throw is called:",
+    "options": ["A. Hammer grip", "B. Fork grip", "C. American grip", "D. Pencil grip"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Athletics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Malaria is transmitted by:",
+    "options": ["A. Housefly", "B. Mosquito", "C. Tsetse fly", "D. Tick"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Disease Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "Perspective drawing shows an object as:",
+    "options": ["A. Seen from above", "B. Seen from the side", "C. Appears to the eye", "D. In flat projection"],
+    "answer": "C",
+    "topic": "Basic Technology - Perspective Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "A file in metalwork is used for:",
+    "options": ["A. Marking", "B. Cutting and shaping", "C. Measuring", "D. Holding"],
+    "answer": "B",
+    "topic": "Basic Technology - Metalwork Hand Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "The ALU in a computer performs:",
+    "options": ["A. Arithmetic and logic", "B. Memory storage", "C. Input/output", "D. Power supply"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Architecture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "One way to prevent drug abuse is to:",
+    "options": ["A. Give in to peer pressure", "B. Develop coping skills", "C. Have easy drug access", "D. Lack family support"],
+    "answer": "B",
+    "topic": "Basic Science - Drug and Substance Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Sewage disposal refers to the removal of:",
+    "options": ["A. Solid waste", "B. Human excreta", "C. Industrial waste", "D. Agricultural waste"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "A healthy person is characterized by:",
+    "options": ["A. Constant fatigue", "B. Ability to perform daily tasks", "C. Frequent illness", "D. Poor appetite"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "Set squares are used to draw:",
+    "options": ["A. Only horizontal lines", "B. Vertical and inclined lines", "C. Circles", "D. Curves"],
+    "answer": "B",
+    "topic": "Basic Technology - Drawing Instruments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "A cause of flooding is:",
+    "options": ["A. Afforestation", "B. Proper drainage", "C. Heavy rainfall", "D. Reduced runoff"],
+    "answer": "C",
+    "topic": "Basic Science - Flooding",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "Desertification is accelerated by:",
+    "options": ["A. Tree planting", "B. Overgrazing", "C. Controlled burning", "D. Irrigation"],
+    "answer": "B",
+    "topic": "Basic Science - Desertification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "A preventive measure against pollution is:",
+    "options": ["A. Burning waste openly", "B. Proper disposal of industrial waste", "C. Using excess fertilizers", "D. Releasing untreated sewage"],
+    "answer": "B",
+    "topic": "Basic Science - Environmental Pollution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "A nuclear family consists of:",
+    "options": ["A. Parents and children", "B. Extended relatives", "C. Single parent only", "D. Grandparents only"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Family Life Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "A duty of children in the family is to:",
+    "options": ["A. Provide financial support", "B. Obey parents", "C. Make all decisions", "D. Work full-time"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Family Life Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "A scale of 2:1 means the drawing is:",
+    "options": ["A. Half size", "B. Twice the size", "C. Same size", "D. Ten times smaller"],
+    "answer": "B",
+    "topic": "Basic Technology - Scales and Scale Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "One way to prevent drug abuse is positive:",
+    "options": ["A. Peer pressure", "B. Social interactions", "C. Easy drug access", "D. Family neglect"],
+    "answer": "B",
+    "topic": "Basic Science - Drug and Substance Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Integrated circuits were used in which generation?",
+    "options": ["A. Second", "B. Third", "C. Fourth", "D. Fifth"],
+    "answer": "B",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "A benefit of physical fitness is:",
+    "options": ["A. Increased disease risk", "B. Reduced stress", "C. Poor posture", "D. Weight gain"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Physical Fitness",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "A triangle with two equal sides is called:",
+    "options": ["A. Equilateral", "B. Isosceles", "C. Scalene", "D. Right"],
+    "answer": "B",
+    "topic": "Basic Technology - Triangles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Removing unwanted files from a computer is called:",
+    "options": ["A. Defragmentation", "B. File deletion", "C. Formatting", "D. Backup"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "CorelDraw is an example of:",
+    "options": ["A. Word processor", "B. Spreadsheet", "C. Graphic package", "D. Database"],
+    "answer": "C",
+    "topic": "Computer Studies - Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "The RICE method is used for treating:",
+    "options": ["A. Fractures", "B. Sprains", "C. Burns", "D. Bleeding"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "A non-biodegradable pollutant is:",
+    "options": ["A. Paper", "B. Plastic", "C. Banana peel", "D. Wood"],
+    "answer": "B",
+    "topic": "Basic Science - Environmental Pollution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The process of photosynthesis produces:",
+    "options": ["A. Oxygen", "B. Carbon dioxide", "C. Water", "D. Nitrogen"],
+    "answer": "A",
+    "topic": "Basic Science - Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 162,
+    "question": "A battery stores:",
+    "options": ["A. Electrical energy", "B. Chemical energy", "C. Heat energy", "D. Light energy"],
+    "answer": "B",
+    "topic": "Basic Science - Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "A career in physical education is:",
+    "options": ["A. Accountant", "B. Sports coach", "C. Lawyer", "D. Doctor"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Career Guidance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "Softwood comes from:",
+    "options": ["A. Deciduous trees", "B. Coniferous trees", "C. Fruit trees", "D. Shrubs"],
+    "answer": "B",
+    "topic": "Basic Technology - Properties of Materials (Wood)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "A polygon with eight sides is an:",
+    "options": ["A. Heptagon", "B. Octagon", "C. Nonagon", "D. Decagon"],
+    "answer": "B",
+    "topic": "Basic Technology - Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "A safety rule in the computer lab is to:",
+    "options": ["A. Eat and drink", "B. Keep liquids away", "C. Touch wires", "D. Block vents"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Ethics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "question": "Email is a method of:",
+    "options": ["A. Telecommunication", "B. Data communication", "C. Electronic messaging", "D. Video conferencing"],
+    "answer": "C",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 168,
+    "question": "A disease caused by bacteria that affects the lungs is:",
+    "options": ["A. Asthma", "B. Tuberculosis", "C. Pneumonia", "D. Bronchitis"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Pathogens and Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "A non-renewable energy source is:",
+    "options": ["A. Solar", "B. Wind", "C. Coal", "D. Hydro"],
+    "answer": "C",
+    "topic": "Basic Science - Renewable and Non-Renewable Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "The title block on a drawing contains:",
+    "options": ["A. Border lines", "B. Title, scale, date", "C. Dimension lines", "D. Section lines"],
+    "answer": "B",
+    "topic": "Basic Technology - Board Practice",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "A method of controlling disease vectors is:",
+    "options": ["A. Water drainage", "B. Using insecticides", "C. Oil spraying", "D. All of the above"],
+    "answer": "D",
+    "topic": "Physical and Health Education - Family Health (Disease Vectors)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "A system administrator ensures:",
+    "options": ["A. Software design", "B. System security", "C. Web design", "D. Database only"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Professionals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "A benefit of recreation is:",
+    "options": ["A. Increased stress", "B. Mental alertness", "C. Physical fatigue", "D. Social isolation"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Recreation and Dance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "Oblique drawing uses a receding angle of:",
+    "options": ["A. 30 degrees", "B. 45 degrees", "C. 60 degrees", "D. 90 degrees"],
+    "answer": "B",
+    "topic": "Basic Technology - Oblique Drawing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "A cause of deforestation is:",
+    "options": ["A. Afforestation", "B. Reforestation", "C. Commercial logging", "D. Wildlife conservation"],
+    "answer": "C",
+    "topic": "Basic Science - Deforestation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Proteins help to:",
+    "options": ["A. Provide energy", "B. Build tissues", "C. Store vitamins", "D. Regulate temperature"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "A logic bomb is a virus that:",
+    "options": ["A. Spreads by email", "B. Activates on condition", "C. Infects boot sector", "D. Displays messages"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Viruses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "A symptom of drug abuse is:",
+    "options": ["A. Clear skin", "B. Good memory", "C. Stomach upset", "D. Increased appetite"],
+    "answer": "C",
+    "topic": "Basic Science - Drug and Substance Abuse",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "Immunization is the process of:",
+    "options": ["A. Treating diseases", "B. Preventing diseases", "C. Diagnosing diseases", "D. Transmitting diseases"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Pathogens and Diseases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 180,
+    "question": "A regular hexagon has how many sides?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "B",
+    "topic": "Basic Technology - Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "A domestic accident example is:",
+    "options": ["A. Car crash", "B. Fall from ladder", "C. Football injury", "D. Drowning in pool"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid and Safety",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "A device that converts chemical to electrical energy is a:",
+    "options": ["A. Generator", "B. Battery", "C. Dynamo", "D. Solar panel"],
+    "answer": "B",
+    "topic": "Basic Science - Energy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "A spreadsheet is used for:",
+    "options": ["A. Writing letters", "B. Calculations", "C. Drawing graphics", "D. Browsing internet"],
+    "answer": "B",
+    "topic": "Computer Studies - Application Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "A quality of a good computer professional is:",
+    "options": ["A. Dishonesty", "B. Problem-solving", "C. Laziness", "D. Secrecy"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Professionals",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "Refraction is the bending of:",
+    "options": ["A. Light", "B. Sound", "C. Heat", "D. Magnetism"],
+    "answer": "A",
+    "topic": "Basic Science - Light Energy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Landfill is a method of:",
+    "options": ["A. Water treatment", "B. Refuse disposal", "C. Air purification", "D. Sewage treatment"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "The diameter of a circle is twice its:",
+    "options": ["A. Chord", "B. Radius", "C. Arc", "D. Sector"],
+    "answer": "B",
+    "topic": "Basic Technology - Circle Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "Sources of water supply include:",
+    "options": ["A. Rain", "B. River", "C. Well", "D. All of the above"],
+    "answer": "D",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "Repair after breakdown is called:",
+    "options": ["A. Preventive", "B. Corrective", "C. Predictive", "D. Routine"],
+    "answer": "B",
+    "topic": "Basic Technology - Maintenance of Tools and Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "A surge protector protects computers from:",
+    "options": ["A. Viruses", "B. Power spikes", "C. Data loss", "D. Overheating"],
+    "answer": "B",
+    "topic": "Computer Studies - Safety Measures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Characteristics of living things include:",
+    "options": ["A. Growth", "B. Reproduction", "C. Respiration", "D. All of the above"],
+    "answer": "D",
+    "topic": "Basic Science - Living and Non-Living Things",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "Sublimation is the change from solid to:",
+    "options": ["A. Liquid", "B. Gas", "C. Plasma", "D. Liquid and gas"],
+    "answer": "B",
+    "topic": "Basic Science - States of Matter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "A value of playing soccer is:",
+    "options": ["A. Individualism", "B. Teamwork", "C. Aggression", "D. Inactivity"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Ball Games (Soccer)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "question": "An electronic counting device invented by Herman Hollerith was:",
+    "options": ["A. Pascaline", "B. Punch card tabulator", "C. Analytical engine", "D. Slide rule"],
+    "answer": "B",
+    "topic": "Computer Studies - Historical Development of Computers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "The purpose of first aid is to:",
+    "options": ["A. Cure diseases", "B. Preserve life", "C. Replace doctors", "D. Cause harm"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid and Safety Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "A device that stores data permanently in a computer is:",
+    "options": ["A. RAM", "B. ROM", "C. Cache", "D. Register"],
+    "answer": "B",
+    "topic": "Computer Studies - Units of Storage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "A deficiency of vitamin D causes:",
+    "options": ["A. Scurvy", "B. Rickets", "C. Beriberi", "D. Pellagra"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "In second angle projection, the object is placed in the:",
+    "options": ["A. First quadrant", "B. Second quadrant", "C. Third quadrant", "D. Fourth quadrant"],
+    "answer": "B",
+    "topic": "Basic Technology - Orthographic Projection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "A microphone is an example of:",
+    "options": ["A. Output device", "B. Input device", "C. Storage device", "D. Processing device"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The ability to maintain equilibrium while stationary or moving is:",
+    "options": ["A. Agility", "B. Balance", "C. Coordination", "D. Flexibility"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Physical Fitness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "A universal serial bus port is used to connect:",
+    "options": ["A. Monitors", "B. Peripherals", "C. Power cables", "D. Network cables"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "The normal body temperature in Celsius is approximately:",
+    "options": ["A. 36°C", "B. 37°C", "C. 38°C", "D. 39°C"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Personal Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "A hexagon has how many diagonals?",
+    "options": ["A. 6", "B. 9", "C. 12", "D. 15"],
+    "answer": "B",
+    "topic": "Basic Technology - Polygons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "The white blood cells in the body fight:",
+    "options": ["A. Infections", "B. Blood clotting", "C. Oxygen transport", "D. Nutrient absorption"],
+    "answer": "A",
+    "topic": "Basic Science - Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "A hard disk is classified as:",
+    "options": ["A. Primary storage", "B. Secondary storage", "C. Cache memory", "D. Register memory"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Storage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "The joint that allows rotation of the head is the:",
+    "options": ["A. Hinge joint", "B. Pivot joint", "C. Ball and socket", "D. Gliding joint"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Joint Mechanics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "The base of a hexadecimal number system is:",
+    "options": ["A. 2", "B. 8", "C. 10", "D. 16"],
+    "answer": "D",
+    "topic": "Computer Studies - Number Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "A machine used to measure angles in technical drawing is the:",
+    "options": ["A. Compass", "B. Protractor", "C. Divider", "D. Ruler"],
+    "answer": "B",
+    "topic": "Basic Technology - Drawing Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 209,
+    "question": "The instrument used to measure blood pressure is called:",
+    "options": ["A. Thermometer", "B. Sphygmomanometer", "C. Stethoscope", "D. Glucometer"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Health Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "The part of the computer that performs calculations is the:",
+    "options": ["A. ALU", "B. CU", "C. MU", "D. CPU"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Architecture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The type of forest found in swampy areas is:",
+    "options": ["A. Rainforest", "B. Mangrove", "C. Savanna", "D. Derived"],
+    "answer": "B",
+    "topic": "Basic Science - Forest and Forest Uses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "A benefit of using a computer is:",
+    "options": ["A. It never makes errors", "B. It stores large amounts", "C. It requires no electricity", "D. It is always cheap"],
+    "answer": "B",
+    "topic": "Computer Studies - Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The number of bones in an adult human is approximately:",
+    "options": ["A. 200", "B. 206", "C. 210", "D. 220"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Skeletal System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "The process of arranging chairs and tables orderly in a computer lab is part of:",
+    "options": ["A. Data processing", "B. Computer ethics", "C. Software installation", "D. Hardware repair"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "The nutrient needed for the formation of hemoglobin is:",
+    "options": ["A. Calcium", "B. Iron", "C. Iodine", "D. Potassium"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "A set of instructions that directs a computer is called:",
+    "options": ["A. Hardware", "B. Software", "C. Firmware", "D. Liveware"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "The type of teeth used for tearing food are:",
+    "options": ["A. Incisors", "B. Canines", "C. Premolars", "D. Molars"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Digestive System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "A symbol on a blueprint that represents a door is usually:",
+    "options": ["A. A circle", "B. An arc with line", "C. A square", "D. A triangle"],
+    "answer": "B",
+    "topic": "Basic Technology - Drawing of Plans and Blue-Prints",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The process of starting a computer is called:",
+    "options": ["A. Booting", "B. Loading", "C. Running", "D. Executing"],
+    "answer": "A",
+    "topic": "Computer Studies - Basic Computer Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "question": "The device that converts analog to digital signals is a:",
+    "options": ["A. Modem", "B. Router", "C. Switch", "D. Hub"],
+    "answer": "A",
+    "topic": "Computer Studies - Data Transmission",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "The primary source of energy for the body is:",
+    "options": ["A. Fats", "B. Carbohydrates", "C. Proteins", "D. Vitamins"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "The tool used to remove metal burrs in a workshop is a:",
+    "options": ["A. File", "B. Chisel", "C. Hammer", "D. Scriber"],
+    "answer": "A",
+    "topic": "Basic Technology - Metalwork Hand Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The number of bits in a nibble is:",
+    "options": ["A. 2", "B. 4", "C. 8", "D. 16"],
+    "answer": "B",
+    "topic": "Computer Studies - Units of Storage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "A fracture in which the bone pierces the skin is called:",
+    "options": ["A. Greenstick", "B. Compound", "C. Simple", "D. Hairline"],
+    "answer": "B",
+    "topic": "Physical and Health Education - First Aid",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "The enzyme in saliva that breaks down starch is:",
+    "options": ["A. Pepsin", "B. Amylase", "C. Lipase", "D. Trypsin"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Digestive System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "The key used to cancel a command in many programs is:",
+    "options": ["A. Enter", "B. Escape", "C. Spacebar", "D. Tab"],
+    "answer": "B",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The largest bone in the human body is the:",
+    "options": ["A. Tibia", "B. Femur", "C. Humerus", "D. Pelvis"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Skeletal System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "A device that protects a network from unauthorized access is a:",
+    "options": ["A. Firewall", "B. Router", "C. Gateway", "D. Bridge"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Security",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "The vitamin that helps in blood clotting is:",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin D", "D. Vitamin K"],
+    "answer": "D",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "A drawing that shows an object from three directions is called:",
+    "options": ["A. Isometric", "B. Oblique", "C. Orthographic", "D. Perspective"],
+    "answer": "C",
+    "topic": "Basic Technology - Orthographic Projection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "The heart is located in the:",
+    "options": ["A. Thoracic cavity", "B. Abdominal cavity", "C. Pelvic cavity", "D. Cranial cavity"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Circulatory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "The part of the computer that displays output is the:",
+    "options": ["A. CPU", "B. Monitor", "C. Keyboard", "D. Mouse"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "The smallest blood vessels in the body are:",
+    "options": ["A. Arteries", "B. Veins", "C. Capillaries", "D. Venules"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Circulatory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "The function of the control unit in a CPU is to:",
+    "options": ["A. Perform arithmetic", "B. Store data", "C. Direct operations", "D. Provide power"],
+    "answer": "C",
+    "topic": "Computer Studies - Computer Architecture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "The muscle that pumps blood is the:",
+    "options": ["A. Lung", "B. Heart", "C. Liver", "D. Kidney"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Circulatory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "A website address is also known as:",
+    "options": ["A. IP", "B. URL", "C. DNS", "D. HTML"],
+    "answer": "B",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "The process of removing waste products from the body is called:",
+    "options": ["A. Digestion", "B. Excretion", "C. Respiration", "D. Circulation"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "The type of software that manages hardware resources is:",
+    "options": ["A. Application software", "B. System software", "C. Utility software", "D. Programming software"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "The organ responsible for filtering blood in the excretory system is the:",
+    "options": ["A. Kidney", "B. Liver", "C. Heart", "D. Lungs"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "The keyboard shortcut for copying selected text is:",
+    "options": ["A. Ctrl + C", "B. Ctrl + X", "C. Ctrl + V", "D. Ctrl + Z"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "The part of the tooth below the gum line is the:",
+    "options": ["A. Crown", "B. Root", "C. Enamel", "D. Dentine"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Digestive System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "The device that converts digital signals to analog for telephone lines is a:",
+    "options": ["A. Modem", "B. Router", "C. Switch", "D. Hub"],
+    "answer": "A",
+    "topic": "Computer Studies - Data Transmission",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "The fluid that carries blood cells is called:",
+    "options": ["A. Plasma", "B. Serum", "C. Lymph", "D. Water"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Circulatory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The part of a URL that indicates the protocol is:",
+    "options": ["A. .com", "B. http://", "C. www", "D. /index"],
+    "answer": "B",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "The number of chromosomes in a human somatic cell is:",
+    "options": ["A. 23", "B. 46", "C. 48", "D. 24"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Genetics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "The function of an antivirus program is to:",
+    "options": ["A. Speed up computer", "B. Detect and remove malware", "C. Clean hardware", "D. Organize files"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Security",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "The part of the eye that controls the amount of light entering is the:",
+    "options": ["A. Cornea", "B. Iris", "C. Lens", "D. Retina"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Sensory Organs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "The shortcut for saving a document is:",
+    "options": ["A. Ctrl + S", "B. Ctrl + P", "C. Ctrl + N", "D. Ctrl + O"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "The bone that protects the brain is the:",
+    "options": ["A. Cranium", "B. Mandible", "C. Sternum", "D. Pelvis"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Skeletal System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "A collection of related web pages is called a:",
+    "options": ["A. Website", "B. Webpage", "C. Web server", "D. Web browser"],
+    "answer": "A",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "The largest organ in the human body is the:",
+    "options": ["A. Heart", "B. Liver", "C. Skin", "D. Lungs"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "The type of memory that is non-volatile is:",
+    "options": ["A. RAM", "B. Cache", "C. ROM", "D. Register"],
+    "answer": "C",
+    "topic": "Computer Studies - Computer Memory",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "The tube that carries air to the lungs is the:",
+    "options": ["A. Oesophagus", "B. Trachea", "C. Pharynx", "D. Bronchus"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "The device used to point and select items on a screen is the:",
+    "options": ["A. Keyboard", "B. Mouse", "C. Monitor", "D. Printer"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "The hormone that regulates blood sugar is:",
+    "options": ["A. Insulin", "B. Adrenaline", "C. Estrogen", "D. Testosterone"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Endocrine System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "The bar at the top of a window showing the program name is the:",
+    "options": ["A. Menu bar", "B. Title bar", "C. Tool bar", "D. Status bar"],
+    "answer": "B",
+    "topic": "Computer Studies - Graphical User Interface",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "The muscle that helps in breathing is the:",
+    "options": ["A. Bicep", "B. Tricep", "C. Diaphragm", "D. Quadricep"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Respiratory System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "The part of the computer that holds temporary data is:",
+    "options": ["A. RAM", "B. ROM", "C. Hard disk", "D. SSD"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Memory",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The substance that gives skin its color is:",
+    "options": ["A. Melanin", "B. Keratin", "C. Collagen", "D. Elastin"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Personal Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "The key that produces uppercase letters when held down is:",
+    "options": ["A. Ctrl", "B. Alt", "C. Shift", "D. Caps Lock"],
+    "answer": "C",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "The process of producing an exact copy of a file is called:",
+    "options": ["A. Copying", "B. Moving", "C. Deleting", "D. Renaming"],
+    "answer": "A",
+    "topic": "Computer Studies - File Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "The part of the flower that becomes fruit is the:",
+    "options": ["A. Petal", "B. Sepal", "C. Ovary", "D. Stamen"],
+    "answer": "C",
+    "topic": "Basic Science - Plant Reproduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "The key used to move the cursor to the beginning of a line is:",
+    "options": ["A. Home", "B. End", "C. Page Up", "D. Page Down"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "The type of fruit that develops from a single flower is called:",
+    "options": ["A. Simple fruit", "B. Aggregate fruit", "C. Multiple fruit", "D. Accessory fruit"],
+    "answer": "A",
+    "topic": "Basic Science - Plant Reproduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "The process of transferring data from a computer to a web server is:",
+    "options": ["A. Download", "B. Upload", "C. Browse", "D. Surf"],
+    "answer": "B",
+    "topic": "Computer Studies - The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "The male reproductive cell is called:",
+    "options": ["A. Ovum", "B. Sperm", "C. Zygote", "D. Embryo"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Reproductive System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "The computer's brain is the:",
+    "options": ["A. CPU", "B. RAM", "C. Motherboard", "D. Hard drive"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "The female reproductive cell is called:",
+    "options": ["A. Sperm", "B. Ovum", "C. Testes", "D. Ovaries"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Reproductive System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The part of the computer that stores the operating system is usually the:",
+    "options": ["A. RAM", "B. Hard disk", "C. Cache", "D. Register"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Storage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "The process by which a fertilized egg develops into a fetus is called:",
+    "options": ["A. Gestation", "B. Parturition", "C. Ovulation", "D. Fertilization"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Reproductive System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "The key used to delete characters to the left of the cursor is:",
+    "options": ["A. Delete", "B. Backspace", "C. Insert", "D. Enter"],
+    "answer": "B",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "The tube that connects the ovary to the uterus is the:",
+    "options": ["A. Cervix", "B. Fallopian tube", "C. Vagina", "D. Endometrium"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Reproductive System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "The function of a printer is to:",
+    "options": ["A. Display output", "B. Produce hard copy", "C. Store data", "D. Process data"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "The male organ that produces sperm is the:",
+    "options": ["A. Penis", "B. Scrotum", "C. Testis", "D. Prostate"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Reproductive System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "The key combination for pasting copied content is:",
+    "options": ["A. Ctrl + X", "B. Ctrl + C", "C. Ctrl + V", "D. Ctrl + Z"],
+    "answer": "C",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "The stage of development from birth to one year is called:",
+    "options": ["A. Infancy", "B. Childhood", "C. Adolescence", "D. Adulthood"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Human Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 277,
+    "question": "The part of the computer that reads CDs is the:",
+    "options": ["A. Hard drive", "B. Optical drive", "C. Floppy drive", "D. USB drive"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "The period of rapid growth and sexual maturation is:",
+    "options": ["A. Infancy", "B. Childhood", "C. Adolescence", "D. Adulthood"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Human Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "The device that converts electrical signals into sound is a:",
+    "options": ["A. Microphone", "B. Speaker", "C. Headphone", "D. Amplifier"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "The type of immunity acquired through vaccination is:",
+    "options": ["A. Natural passive", "B. Artificial active", "C. Natural active", "D. Artificial passive"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Immunology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "The shortcut for opening a new document is:",
+    "options": ["A. Ctrl + N", "B. Ctrl + O", "C. Ctrl + S", "D. Ctrl + P"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "The protein that helps in blood clotting is:",
+    "options": ["A. Hemoglobin", "B. Fibrin", "C. Albumin", "D. Globulin"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Circulatory System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "The type of bus that carries data between CPU and memory is the:",
+    "options": ["A. Address bus", "B. Data bus", "C. Control bus", "D. Power bus"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Architecture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "The layer of skin that contains blood vessels and nerves is the:",
+    "options": ["A. Epidermis", "B. Dermis", "C. Hypodermis", "D. Stratum corneum"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Personal Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "The key that toggles insert mode on and off is:",
+    "options": ["A. Insert", "B. Delete", "C. Home", "D. End"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "The mineral that is important for strong bones and teeth is:",
+    "options": ["A. Iron", "B. Calcium", "C. Sodium", "D. Potassium"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The part of a computer that provides power to components is the:",
+    "options": ["A. Power supply unit", "B. Motherboard", "C. CPU", "D. RAM"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The condition caused by lack of iodine is:",
+    "options": ["A. Goiter", "B. Rickets", "C. Scurvy", "D. Anaemia"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "The key used to capture the entire screen is:",
+    "options": ["A. Print Screen", "B. Scroll Lock", "C. Pause", "D. Break"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "The vitamin that is produced by the skin when exposed to sunlight is:",
+    "options": ["A. Vitamin A", "B. Vitamin C", "C. Vitamin D", "D. Vitamin E"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "The device that allows a computer to connect to a network is a:",
+    "options": ["A. NIC", "B. Modem", "C. Router", "D. Switch"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "The disease caused by deficiency of vitamin B1 is:",
+    "options": ["A. Pellagra", "B. Beriberi", "C. Scurvy", "D. Rickets"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The key that cancels an operation in many programs is:",
+    "options": ["A. Esc", "B. Tab", "C. Alt", "D. Shift"],
+    "answer": "A",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "question": "The sugar found in milk is:",
+    "options": ["A. Glucose", "B. Fructose", "C. Lactose", "D. Sucrose"],
+    "answer": "C",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "The part of a computer that displays images on the screen is the:",
+    "options": ["A. Graphics card", "B. Sound card", "C. Network card", "D. Motherboard"],
+    "answer": "A",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "The type of carbohydrate that cannot be digested by humans is:",
+    "options": ["A. Starch", "B. Cellulose", "C. Glycogen", "D. Sucrose"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The key used to refresh the current window is:",
+    "options": ["A. F1", "B. F5", "C. F10", "D. F12"],
+    "answer": "B",
+    "topic": "Computer Studies - Keyboard Shortcuts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "The element that is essential for the formation of thyroid hormones is:",
+    "options": ["A. Iron", "B. Iodine", "C. Zinc", "D. Copper"],
+    "answer": "B",
+    "topic": "Physical and Health Education - Nutrition and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "The part of the computer that connects all components is the:",
+    "options": ["A. CPU", "B. Motherboard", "C. RAM", "D. Power supply"],
+    "answer": "B",
+    "topic": "Computer Studies - Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "The condition where the body cannot produce enough insulin is called:",
+    "options": ["A. Diabetes", "B. Hypertension", "C. Arthritis", "D. Asthma"],
+    "answer": "A",
+    "topic": "Physical and Health Education - Non-Communicable Diseases",
+    "difficulty": "Medium"
+  }
+]

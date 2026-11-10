@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "What is the earliest known form of art created by early man?",
+    "options": ["A. Cave painting", "B. Bronze casting", "C. Mosaic tiles", "D. Oil painting"],
+    "answer": "A",
+    "topic": "Introduction to Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "The Nok culture is famous for its terracotta works found in which modern state?",
+    "options": ["A. Kaduna", "B. Anambra", "C. Osun", "D. Edo"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "Which of these is a category of visual arts?",
+    "options": ["A. Sculpture", "B. Opera", "C. Ballet", "D. Oratory"],
+    "answer": "A",
+    "topic": "Introduction to Arts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The element of design that describes the surface quality of an object is?",
+    "options": ["A. Line", "B. Shape", "C. Texture", "D. Value"],
+    "answer": "C",
+    "topic": "Elements of Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Balance, proportion, and rhythm are examples of?",
+    "options": ["A. Elements of art", "B. Principles of design", "C. Types of colours", "D. Drawing techniques"],
+    "answer": "B",
+    "topic": "Principles of Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Red, blue, and yellow are known as?",
+    "options": ["A. Secondary colours", "B. Tertiary colours", "C. Primary colours", "D. Neutral colours"],
+    "answer": "C",
+    "topic": "The study of Colours",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Mixing equal parts of yellow and blue produces?",
+    "options": ["A. Orange", "B. Violet", "C. Green", "D. Brown"],
+    "answer": "C",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Which Nigerian traditional art is associated with Igbo-Ukwu?",
+    "options": ["A. Bronze vessels", "B. Wooden masks", "C. Clay pots", "D. Ivory carvings"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "The famous Benin bronze plaques originated from which kingdom?",
+    "options": ["A. Oyo", "B. Ife", "C. Benin", "D. Nri"],
+    "answer": "C",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Who among these is a pioneering Nigerian contemporary artist?",
+    "options": ["A. Wole Soyinka", "B. Chinua Achebe", "C. Ben Enwonwu", "D. Fela Kuti"],
+    "answer": "C",
+    "topic": "Nigerian Contemporary Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "The sculptural decoration at the National Theatre, Lagos was done by?",
+    "options": ["A. Ben Enwonwu", "B. Demas Nwoko", "C. Bruce Onabrakpeya", "D. Lamidi Fakeye"],
+    "answer": "B",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Aina Onabolu is known for introducing what style to Nigerian art?",
+    "options": ["A. Cubism", "B. Realistic drawing", "C. Abstract sculpture", "D. Tie and dye"],
+    "answer": "B",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Which craft involves using paper pulp to create objects?",
+    "options": ["A. Batik", "B. Paper maché", "C. Weaving", "D. Blacksmithing"],
+    "answer": "B",
+    "topic": "Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "The process of tying and dyeing fabric to create patterns is called?",
+    "options": ["A. Batik", "B. Screen printing", "C. Tie and dye", "D. Embroidery"],
+    "answer": "C",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Which chemical is commonly used in tie and dye to fix the dye?",
+    "options": ["A. Bleach", "B. Caustic soda", "C. Vinegar", "D. Salt"],
+    "answer": "D",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "A method of folding paper into squares or triangles is called?",
+    "options": ["A. Origami", "B. Collage", "C. Mosaic", "D. Papier-mâché"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Collage is an art form that involves?",
+    "options": ["A. Cutting and pasting materials", "B. Carving wood", "C. Weaving threads", "D. Melting glass"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "A simple repeat pattern that repeats one motif regularly is called?",
+    "options": ["A. Half drop", "B. Mirror", "C. Diamond", "D. Block repeat"],
+    "answer": "D",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "A motif that is derived from plants is known as?",
+    "options": ["A. Animal motif", "B. Floral motif", "C. Geometric motif", "D. Abstract motif"],
+    "answer": "B",
+    "topic": "Motifs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which quality is essential for good lettering?",
+    "options": ["A. Complexity", "B. Legibility", "C. Ornamentation", "D. Speed"],
+    "answer": "B",
+    "topic": "Lettering",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Herringbone and stem are examples of what craft technique?",
+    "options": ["A. Knitting", "B. Embroidery stitches", "C. Crocheting", "D. Weaving"],
+    "answer": "B",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "The basic knitting stitch that creates a smooth 'V' pattern is called?",
+    "options": ["A. Purl", "B. Knit", "C. Cable", "D. Yarn over"],
+    "answer": "B",
+    "topic": "Knitting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Crocheting uses a single hooked needle to create loops from?",
+    "options": ["A. Leather", "B. Yarn", "C. Wire", "D. Paper"],
+    "answer": "B",
+    "topic": "Crocheting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "Batik is a resist-dyeing technique that uses what substance to block dye?",
+    "options": ["A. Glue", "B. Wax", "C. Starch", "D. Oil"],
+    "answer": "B",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "The main function of packaging design is?",
+    "options": ["A. To hide the product", "B. To protect and promote", "C. To increase weight", "D. To reduce cost"],
+    "answer": "B",
+    "topic": "Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "A place where art works can be exhibited is a?",
+    "options": ["A. Studio", "B. Gallery", "C. Warehouse", "D. Classroom"],
+    "answer": "B",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Which of these is an outlet for marketing art works?",
+    "options": ["A. Art auction house", "B. Police station", "C. Hospital", "D. School library"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "The element of music that refers to the highness or lowness of sound is?",
+    "options": ["A. Rhythm", "B. Pitch", "C. Timbre", "D. Dynamics"],
+    "answer": "B",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "The musical staff consists of how many lines?",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "C",
+    "topic": "Rudiments of Music",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "The treble clef is also known as?",
+    "options": ["A. F clef", "B. G clef", "C. C clef", "D. Bass clef"],
+    "answer": "B",
+    "topic": "Rudiments of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "A quarter note receives how many beats in 4/4 time?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "A",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "The major scale of C natural has how many sharps?",
+    "options": ["A. 0", "B. 1", "C. 2", "D. 3"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Which type of recorder is most common in Nigerian schools?",
+    "options": ["A. Soprano", "B. Alto", "C. Tenor", "D. Bass"],
+    "answer": "A",
+    "topic": "Playing an Instrument",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Music used for religious ceremonies is primarily for?",
+    "options": ["A. Entertainment", "B. Ritual purpose", "C. Education", "D. Sports"],
+    "answer": "B",
+    "topic": "Uses of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "Fela Kuti is associated with which music genre?",
+    "options": ["A. Highlife", "B. Juju", "C. Afrobeat", "D. Fuji"],
+    "answer": "C",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "A person who writes a play is called a?",
+    "options": ["A. Director", "B. Playwright", "C. Actor", "D. Stage manager"],
+    "answer": "B",
+    "topic": "Drama and Theatre",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The person responsible for the overall artistic vision of a play is the?",
+    "options": ["A. Actor", "B. Playwright", "C. Director", "D. Audience"],
+    "answer": "C",
+    "topic": "The Director",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "The sequence of events in a drama is known as the?",
+    "options": ["A. Plot", "B. Theme", "C. Diction", "D. Setting"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "A drama that ends in disaster and suffering for the main character is a?",
+    "options": ["A. Comedy", "B. Tragedy", "C. Tragicomedy", "D. Farce"],
+    "answer": "B",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "The imitation of real-life actions for entertainment is called?",
+    "options": ["A. Ritual", "B. Storytelling", "C. Mimesis", "D. Festival"],
+    "answer": "C",
+    "topic": "Origin of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "Costume in drama refers to?",
+    "options": ["A. Stage lighting", "B. Props used", "C. Clothing worn by actors", "D. Sound effects"],
+    "answer": "C",
+    "topic": "Costume and Make-up",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Make-up used to create exaggerated features for stage is called?",
+    "options": ["A. Beauty make-up", "B. Theatrical make-up", "C. Natural make-up", "D. Day make-up"],
+    "answer": "B",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "The area of theatre design that includes scenery and backdrops is?",
+    "options": ["A. Costume design", "B. Lighting design", "C. Set design", "D. Sound design"],
+    "answer": "C",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "The final rehearsal with full costumes and technical elements is called?",
+    "options": ["A. Read-through", "B. Blocking rehearsal", "C. Dress rehearsal", "D. Cue-to-cue"],
+    "answer": "C",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Dance as a performing art involves movement of the body in a?",
+    "options": ["A. Random manner", "B. Rhythmic and expressive way", "C. Still position", "D. Silent manner"],
+    "answer": "B",
+    "topic": "Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "The art of creating and arranging dance movements is called?",
+    "options": ["A. Choreography", "B. Miming", "C. Improvisation", "D. Conducting"],
+    "answer": "A",
+    "topic": "Introduction to Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Order, beauty, and variety are principles of?",
+    "options": ["A. Music", "B. Drama", "C. Choreography", "D. Painting"],
+    "answer": "C",
+    "topic": "Principles of Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "A dance that tells a story through movement is called?",
+    "options": ["A. Pure dance", "B. Dance drama", "C. Abstract dance", "D. Comic dance"],
+    "answer": "B",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "The Koroso dance is a traditional dance of which Nigerian ethnic group?",
+    "options": ["A. Igbo", "B. Yoruba", "C. Hausa", "D. Efik"],
+    "answer": "C",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "The Bata dance originates from the?",
+    "options": ["A. Hausa people", "B. Yoruba people", "C. Igbo people", "D. Fulani people"],
+    "answer": "B",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "Contemporary dance combines elements of ballet and?",
+    "options": ["A. Hip hop", "B. Modern dance", "C. Ballroom", "D. Traditional"],
+    "answer": "B",
+    "topic": "Contemporary Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "The element of music that refers to the speed of the beat is?",
+    "options": ["A. Tempo", "B. Dynamics", "C. Rhythm", "D. Melody"],
+    "answer": "A",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "The bass clef is used to notate low pitches and is also called?",
+    "options": ["A. G clef", "B. F clef", "C. C clef", "D. Tenor clef"],
+    "answer": "B",
+    "topic": "Rudiments of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "How many eighth notes equal one half note?",
+    "options": ["A. 2", "B. 4", "C. 6", "D. 8"],
+    "answer": "B",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "The G major scale has how many sharps?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "Which Nigerian music genre originated from the Ijaw people?",
+    "options": ["A. Fuji", "B. Juju", "C. Highlife", "D. Afrobeat"],
+    "answer": "C",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The person who controls the technical aspects of a play on stage is the?",
+    "options": ["A. Director", "B. Stage manager", "C. Playwright", "D. Business manager"],
+    "answer": "B",
+    "topic": "Drama and Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "The central idea or message of a play is its?",
+    "options": ["A. Plot", "B. Theme", "C. Setting", "D. Dialogue"],
+    "answer": "B",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "A play that blends both tragic and comic elements is called?",
+    "options": ["A. Melodrama", "B. Tragicomedy", "C. Farce", "D. Absurdist"],
+    "answer": "B",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "The use of makeup to change an actor's age or appearance is called?",
+    "options": ["A. Straight makeup", "B. Character makeup", "C. Fantasy makeup", "D. Corrective makeup"],
+    "answer": "B",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Props in theatre are objects used by actors on stage except?",
+    "options": ["A. Furniture", "B. Costumes", "C. Handheld items", "D. Set pieces"],
+    "answer": "B",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "The first stage of rehearsal where actors read the script aloud is called?",
+    "options": ["A. Table read", "B. Blocking", "C. Dress rehearsal", "D. Technical rehearsal"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "Ohafia dance is a traditional war dance of which Igbo subgroup?",
+    "options": ["A. Ohafia people", "B. Nri people", "C. Awka people", "D. Onitsha people"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Dance as a career can include professional opportunities in?",
+    "options": ["A. Ballet companies", "B. Only schools", "C. Only churches", "D. Only festivals"],
+    "answer": "A",
+    "topic": "Dance as a Career",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "The study of dance in Nigerian institutions has prospects in?",
+    "options": ["A. Choreography and performance", "B. Only teaching", "C. Only therapy", "D. Only recreation"],
+    "answer": "A",
+    "topic": "Prospects of Studying Dance in Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "The element of art that is a moving point in space is?",
+    "options": ["A. Colour", "B. Line", "C. Shape", "D. Form"],
+    "answer": "B",
+    "topic": "Elements of Design",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "Which principle of design creates a focal point?",
+    "options": ["A. Dominance", "B. Harmony", "C. Variety", "D. Balance"],
+    "answer": "A",
+    "topic": "Principles of Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Orange, green, and purple are?",
+    "options": ["A. Primary colours", "B. Secondary colours", "C. Tertiary colours", "D. Complementary colours"],
+    "answer": "B",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "The Nok terracotta heads are known for their distinctive?",
+    "options": ["A. Triangular eyes", "B. Cylindrical shape", "C. Large ears", "D. Wide nostrils"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "The Ife bronze heads are believed to represent?",
+    "options": ["A. Gods", "B. Kings and queens", "C. Warriors", "D. Animals"],
+    "answer": "B",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Akinola Lasekan was known for his work as a?",
+    "options": ["A. Sculptor", "B. Painter and illustrator", "C. Textile designer", "D. Potter"],
+    "answer": "B",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Ladi Kwali was a renowned Nigerian?",
+    "options": ["A. Painter", "B. Potter", "C. Sculptor", "D. Weaver"],
+    "answer": "B",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Bruce Onabrakpeya is famous for his innovative work in?",
+    "options": ["A. Oil painting", "B. Etching", "C. Bronze casting", "D. Mosaic"],
+    "answer": "B",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "Lamidi Fakeye was a master of which art form?",
+    "options": ["A. Wood carving", "B. Metal sculpture", "C. Watercolour", "D. Ceramics"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Fabric craft includes techniques such as tie and dye and?",
+    "options": ["A. Batik", "B. Paper folding", "C. Leather work", "D. Beadwork"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Carving craft can be done on wood, calabash, or?",
+    "options": ["A. Stone", "B. Paper", "C. Fabric", "D. Metal"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "The method of folding fabric to create patterns in tie and dye is called?",
+    "options": ["A. Pleating", "B. Stitching", "C. Tying", "D. Dipping"],
+    "answer": "C",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Hydrochloride is a chemical used in some tie and dye processes as a?",
+    "options": ["A. Fixative", "B. Bleach", "C. Resist", "D. Dye solvent"],
+    "answer": "D",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The square fold in paper craft is also known as?",
+    "options": ["A. Base fold", "B. Diagonal fold", "C. Book fold", "D. Blintz base"],
+    "answer": "C",
+    "topic": "Paper Craft",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Collage materials can include paper, fabric, and?",
+    "options": ["A. Photographs", "B. Metal bars", "C. Clay", "D. Glass shards"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "A pattern that repeats one motif in a staggered arrangement is called?",
+    "options": ["A. Half drop", "B. Full drop", "C. Mirror", "D. Diamond"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "Animal motifs are commonly used in?",
+    "options": ["A. Textile design", "B. Only painting", "C. Only sculpture", "D. Only architecture"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Proper spacing between letters in lettering is called?",
+    "options": ["A. Kerning", "B. Leading", "C. Tracking", "D. Alignment"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The embroidery stitch that resembles a row of 'V' shapes is?",
+    "options": ["A. Herringbone", "B. Stem stitch", "C. Chain stitch", "D. Feather stitch"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "The purl stitch in knitting creates a bumpy texture often used for?",
+    "options": ["A. Ribbing", "B. Cables", "C. Lace", "D. Fair isle"],
+    "answer": "A",
+    "topic": "Knitting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "The single crochet stitch is the shortest and most?",
+    "options": ["A. Dense", "B. Loose", "C. Elastic", "D. Ornate"],
+    "answer": "A",
+    "topic": "Crocheting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "In batik, the wax is removed after dyeing by?",
+    "options": ["A. Boiling water", "B. Cold water", "C. Scratching", "D. Ironing"],
+    "answer": "A",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "An effective package design should be?",
+    "options": ["A. Eye-catching", "B. Heavy", "C. Complex", "D. Expensive"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "A solo exhibition features works by?",
+    "options": ["A. One artist", "B. Two artists", "C. Several artists", "D. A school"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "Crowdfunding is a source of funding for marketing art works that relies on?",
+    "options": ["A. Government grants", "B. Bank loans", "C. Public contributions", "D. Personal savings"],
+    "answer": "C",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "The musical term for loud volume is?",
+    "options": ["A. Piano", "B. Forte", "C. Mezzo", "D. Crescendo"],
+    "answer": "B",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "A whole note receives how many beats in 4/4 time?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "D",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "The D major scale has how many sharps?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "B",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "Juju music was popularized by?",
+    "options": ["A. Fela Kuti", "B. King Sunny Ade", "C. Ebenezer Obey", "D. Victor Olaiya"],
+    "answer": "B",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Fuji music originated from the traditional were music of the?",
+    "options": ["A. Yoruba", "B. Igbo", "C. Hausa", "D. Efik"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "The Udje dance-song tradition belongs to which Nigerian group?",
+    "options": ["A. Urhobo", "B. Tiv", "C. Igede", "D. Nupe"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "The person who designs the lighting for a play is the?",
+    "options": ["A. Lighting designer", "B. Sound designer", "C. Set designer", "D. Costume designer"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "The audience in a theatre refers to the?",
+    "options": ["A. Actors", "B. Stage crew", "C. Spectators", "D. Directors"],
+    "answer": "C",
+    "topic": "Drama and Theatre",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "The conversation between characters in a play is called?",
+    "options": ["A. Monologue", "B. Dialogue", "C. Soliloquy", "D. Aside"],
+    "answer": "B",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "A comedy is a drama that aims to?",
+    "options": ["A. Make the audience laugh", "B. Make the audience cry", "C. Teach a moral lesson", "D. Create suspense"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Theatre design that involves sound effects and music is called?",
+    "options": ["A. Lighting design", "B. Sound design", "C. Set design", "D. Costume design"],
+    "answer": "B",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "A rehearsal focusing on movement and positions on stage is called?",
+    "options": ["A. Blocking", "B. Read-through", "C. Dress", "D. Technical"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "Dance that is performed purely for its aesthetic value without story is?",
+    "options": ["A. Pure dance", "B. Dance drama", "C. Abstract dance", "D. Comic dance"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "A choreographer is responsible for?",
+    "options": ["A. Writing the script", "B. Creating dance movements", "C. Designing costumes", "D. Managing the stage"],
+    "answer": "B",
+    "topic": "Introduction to Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "The principle of variety in choreography prevents?",
+    "options": ["A. Boredom", "B. Complexity", "C. Speed", "D. Repetition"],
+    "answer": "A",
+    "topic": "Principles of Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "A dance that uses exaggerated movements for humor is called?",
+    "options": ["A. Comic dance", "B. Abstract dance", "C. Study dance", "D. Pure dance"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "Which of these is a traditional Nigerian dance of the Efik people?",
+    "options": ["A. Ekombi", "B. Koroso", "C. Bata", "D. Atilogwu"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "The process of mixing pigments with a binder to create paint is called?",
+    "options": ["A. Grinding", "B. Dispersion", "C. Emulsification", "D. Milling"],
+    "answer": "B",
+    "topic": "Crafts - Materials",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "A colour wheel shows the relationship between?",
+    "options": ["A. Primary and secondary colours", "B. Warm and cool colours", "C. Light and dark values", "D. Tints and shades"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Complementary colours are opposite each other on the colour wheel, like red and?",
+    "options": ["A. Yellow", "B. Blue", "C. Green", "D. Purple"],
+    "answer": "C",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "The Igbo-Ukwu archaeological site is located in present-day?",
+    "options": ["A. Anambra State", "B. Imo State", "C. Enugu State", "D. Abia State"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The Ife terracotta heads are known for their naturalism and?",
+    "options": ["A. Scarification marks", "B. Large eyes", "C. Elongated necks", "D. Beaded crowns"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "Ben Enwonwu's famous sculpture 'Sango' is located at?",
+    "options": ["A. National Theatre Lagos", "B. PHCN Lagos", "C. University of Ife", "D. National Museum Lagos"],
+    "answer": "B",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "The etching 'Agbanafor' by Bruce Onabrakpeya is located in?",
+    "options": ["A. Lagos State", "B. Delta State", "C. Ogun State", "D. Rivers State"],
+    "answer": "B",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Woven craft includes basketry and?",
+    "options": ["A. Mat weaving", "B. Pottery", "C. Blacksmithing", "D. Leather work"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Calabash carving is an example of?",
+    "options": ["A. Moulded craft", "B. Carving craft", "C. Woven craft", "D. Fabric craft"],
+    "answer": "B",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The tying method in tie and dye that involves wrapping with raffia is called?",
+    "options": ["A. Knotting", "B. Folding", "C. Stitching", "D. Clamping"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "The dye bath should be heated to a specific temperature to ensure?",
+    "options": ["A. Colour fastness", "B. Faster drying", "C. Less fading", "D. More fabric"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "Paper craft includes making greeting cards and?",
+    "options": ["A. Origami animals", "B. Clay pots", "C. Bead necklaces", "D. Leather bags"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Collage can be enhanced by applying a layer of?",
+    "options": ["A. Varnish", "B. Glue", "C. Paint", "D. Thread"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "A diamond repeat pattern is created by repeating a motif at?",
+    "options": ["A. 45-degree angles", "B. 90-degree angles", "C. 60-degree angles", "D. 30-degree angles"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Traditional motifs often have symbolic meanings related to?",
+    "options": ["A. Culture and beliefs", "B. Modern trends", "C. Abstract ideas", "D. Random designs"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "The quality of a lettering that makes it easy to read is?",
+    "options": ["A. Legibility", "B. Complexity", "C. Ornamentation", "D. Size"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Stem stitch is commonly used in embroidery for?",
+    "options": ["A. Outlining", "B. Filling", "C. Shading", "D. Knotting"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Knitting uses two needles while crocheting uses?",
+    "options": ["A. One hook", "B. Two hooks", "C. Three needles", "D. No tool"],
+    "answer": "A",
+    "topic": "Crocheting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "In batik, the tjanting tool is used to apply?",
+    "options": ["A. Dye", "B. Wax", "C. Bleach", "D. Glue"],
+    "answer": "B",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "A package must display the product name and?",
+    "options": ["A. Manufacturer details", "B. Price only", "C. Weight only", "D. Colour only"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "An outdoor exhibition of art works is sometimes called?",
+    "options": ["A. Plein air", "B. Studio show", "C. Gallery walk", "D. Salon"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "A commission is a way of marketing art where the artist is paid to?",
+    "options": ["A. Create a specific work", "B. Sell existing works", "C. Teach art", "D. Frame art"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The musical alphabet consists of the letters?",
+    "options": ["A. A to G", "B. A to H", "C. A to Z", "D. C to B"],
+    "answer": "A",
+    "topic": "Rudiments of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "A dotted half note lasts for how many beats?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "C",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "The F major scale has how many flats?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "Music used for healing purposes is often based on?",
+    "options": ["A. Rhythmic drumming", "B. Loud volume", "C. Fast tempo", "D. Complex chords"],
+    "answer": "A",
+    "topic": "Uses of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "Highlife music originated from?",
+    "options": ["A. Ghana and Nigeria", "B. Senegal and Mali", "C. South Africa", "D. Congo"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "Makosa is a modern dance music style from?",
+    "options": ["A. Cameroon", "B. Nigeria", "C. Ivory Coast", "D. Kenya"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "A play that is improvised has no?",
+    "options": ["A. Written script", "B. Director", "C. Audience", "D. Stage"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "The setting of a drama includes time and?",
+    "options": ["A. Place", "B. Characters", "C. Plot", "D. Theme"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A tragic hero is a character who suffers due to a?",
+    "options": ["A. Tragic flaw", "B. Evil plan", "C. Bad luck", "D. Villain"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "The ritual origin of drama involved religious ceremonies with?",
+    "options": ["A. Dance and music", "B. Only speech", "C. Only masks", "D. Only fire"],
+    "answer": "A",
+    "topic": "Origin of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "Costume can indicate a character's social status and?",
+    "options": ["A. Personality", "B. Height", "C. Age only", "D. Hair colour"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "Greasepaint is a type of makeup used in?",
+    "options": ["A. Theatrical performances", "B. Everyday wear", "C. Photography", "D. Film only"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "Props that are used by actors to enhance performance are called?",
+    "options": ["A. Hand props", "B. Set props", "C. Trim props", "D. Personal props"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "A technical rehearsal focuses on integrating?",
+    "options": ["A. Lights and sound", "B. Acting only", "C. Costumes only", "D. Makeup only"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "Atilogwu is a traditional dance of the?",
+    "options": ["A. Igbo people", "B. Yoruba people", "C. Hausa people", "D. Efik people"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "Contemporary dance often incorporates elements from?",
+    "options": ["A. Ballet and modern dance", "B. Only traditional", "C. Only hip hop", "D. Only ballroom"],
+    "answer": "A",
+    "topic": "Contemporary Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "The Atilogwu dance is known for its energetic?",
+    "options": ["A. Acrobatic movements", "B. Slow steps", "C. Minimal movement", "D. Static poses"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "Dance as a profession can lead to careers in?",
+    "options": ["A. Choreography and teaching", "B. Only performing", "C. Only administration", "D. Only therapy"],
+    "answer": "A",
+    "topic": "Dance as a Career",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "The study of dance in Nigerian universities can lead to degrees in?",
+    "options": ["A. Performing arts", "B. Medicine", "C. Engineering", "D. Law"],
+    "answer": "A",
+    "topic": "Prospects of Studying Dance in Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "A colour scheme using different shades of one colour is called?",
+    "options": ["A. Monochromatic", "B. Complementary", "C. Analogous", "D. Triadic"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Warm colours include red, orange, and?",
+    "options": ["A. Yellow", "B. Blue", "C. Green", "D. Purple"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "Cool colours include blue, green, and?",
+    "options": ["A. Violet", "B. Yellow", "C. Orange", "D. Red"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "The earliest Nigerian art that is known internationally is the?",
+    "options": ["A. Nok terracotta", "B. Benin bronze", "C. Ife brass", "D. Igbo Ukwu silver"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "The Benin kingdom is particularly famous for its?",
+    "options": ["A. Bronze and ivory works", "B. Terracotta figures", "C. Wooden masks", "D. Rock paintings"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "Aina Onabolu studied art abroad and returned to teach?",
+    "options": ["A. Realistic drawing", "B. Abstract art", "C. Sculpture", "D. Printmaking"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "Ladi Kwali's pottery designs are inspired by?",
+    "options": ["A. Traditional Gwari patterns", "B. Benin motifs", "C. Ife art", "D. Nok designs"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "Which art form involves the use of a loom?",
+    "options": ["A. Weaving", "B. Carving", "C. Moulding", "D. Batik"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Blacksmithing is the craft of working with?",
+    "options": ["A. Metal", "B. Wood", "C. Clay", "D. Fabric"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "In tie and dye, the folding method creates patterns such as?",
+    "options": ["A. Stripes and checks", "B. Circles only", "C. Spiral only", "D. Animal shapes"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "Caustic soda is used in tie and dye to?",
+    "options": ["A. Dissolve dye pigments", "B. Fix the colour", "C. Bleach the fabric", "D. Resist the dye"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "Paper craft can be used to create decorative items such as?",
+    "options": ["A. Gift boxes", "B. Metal sculptures", "C. Leather bags", "D. Wooden frames"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The method of attaching materials to a surface in collage is usually with?",
+    "options": ["A. Adhesive", "B. Thread", "C. Nails", "D. Clay"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "A mirror repeat pattern creates a symmetrical effect by reflecting the motif?",
+    "options": ["A. Horizontally or vertically", "B. Diagonally only", "C. Randomly", "D. In a circle"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "Geometric motifs are based on shapes like circles and?",
+    "options": ["A. Triangles", "B. Leaves", "C. Flowers", "D. Animals"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "The distance between lines of text in lettering is called?",
+    "options": ["A. Leading", "B. Kerning", "C. Tracking", "D. Point size"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "The loop stitch in embroidery is also known as?",
+    "options": ["A. Chain stitch", "B. Stem stitch", "C. Herringbone", "D. Feather stitch"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "Knitting can be done by hand or by?",
+    "options": ["A. Machine", "B. Computer", "C. Loom", "D. Hook"],
+    "answer": "A",
+    "topic": "Knitting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Crocheting is often used to make garments such as?",
+    "options": ["A. Sweaters and shawls", "B. Wooden chairs", "C. Metal pots", "D. Clay pots"],
+    "answer": "A",
+    "topic": "Crocheting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Batik designs can be applied to fabric using a stamp called?",
+    "options": ["A. Cap", "B. Tjanting", "C. Brush", "D. Roller"],
+    "answer": "A",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "A good package design must be functional and?",
+    "options": ["A. Aesthetic", "B. Heavy", "C. Expensive", "D. Complicated"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "A group exhibition features works by?",
+    "options": ["A. Multiple artists", "B. One artist", "C. Only students", "D. Only teachers"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "Marketing of art works can be done through online platforms called?",
+    "options": ["A. Art marketplaces", "B. Grocery stores", "C. Hardware shops", "D. Pharmacies"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "The musical term for soft volume is?",
+    "options": ["A. Piano", "B. Forte", "C. Mezzo forte", "D. Crescendo"],
+    "answer": "A",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "A half note is equal to how many quarter notes?",
+    "options": ["A. 2", "B. 3", "C. 4", "D. 1"],
+    "answer": "A",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "The B flat major scale has how many flats?",
+    "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Music used in sports events is often played to?",
+    "options": ["A. Motivate athletes", "B. Calm the crowd", "C. Signal time", "D. Announce results"],
+    "answer": "A",
+    "topic": "Uses of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Fela Kuti's music often addressed political issues and was called?",
+    "options": ["A. Afrobeat", "B. Highlife", "C. Juju", "D. Fuji"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "The director of a play interprets the script and guides the?",
+    "options": ["A. Actors", "B. Audience", "C. Playwright", "D. Critics"],
+    "answer": "A",
+    "topic": "The Director",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "The protagonist is the main character, often opposed by the?",
+    "options": ["A. Antagonist", "B. Narrator", "C. Sidekick", "D. Chorus"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "Melodrama is a form of drama that emphasizes?",
+    "options": ["A. Exaggerated emotions", "B. Realism", "C. Minimalist dialogue", "D. Absurdity"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Storytelling as an origin of drama involves oral narration and?",
+    "options": ["A. Audience participation", "B. Written scripts", "C. Musical scores", "D. Dance only"],
+    "answer": "A",
+    "topic": "Origin of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "Costume can be historically accurate or?",
+    "options": ["A. Contemporary", "B. Futuristic only", "C. Abstract only", "D. Monochromatic only"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Liquid latex is a material used in makeup for creating?",
+    "options": ["A. Prosthetics and wounds", "B. Lipstick", "C. Foundation", "D. Mascara"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Scenic design creates the physical environment of a play, including?",
+    "options": ["A. Backdrops and furniture", "B. Actors' costumes", "C. Lighting cues", "D. Sound effects"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Cue-to-cue rehearsal focuses on transitions between?",
+    "options": ["A. Technical elements", "B. Acting scenes", "C. Costume changes", "D. Audience seating"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Sharo is a traditional dance of the?",
+    "options": ["A. Fulani people", "B. Yoruba people", "C. Igbo people", "D. Hausa people"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "Dance can be used for therapy, recreation, and?",
+    "options": ["A. Worship", "B. Farming", "C. Cooking", "D. Building"],
+    "answer": "A",
+    "topic": "Uses of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "An abstract dance focuses on movement without a clear?",
+    "options": ["A. Narrative", "B. Rhythm", "C. Music", "D. Costume"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "The principles of choreography include order, beauty, and?",
+    "options": ["A. Variety", "B. Speed", "C. Complexity", "D. Loudness"],
+    "answer": "A",
+    "topic": "Principles of Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "A study dance is often created for educational or?",
+    "options": ["A. Analytical purposes", "B. Commercial purposes", "C. Entertainment only", "D. Ritual only"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Egungun dance is part of the Yoruba masquerade tradition associated with?",
+    "options": ["A. Ancestors", "B. Harvest", "C. Weddings", "D. War"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "The element of art that refers to the area around, between, or within objects is?",
+    "options": ["A. Space", "B. Line", "C. Value", "D. Texture"],
+    "answer": "A",
+    "topic": "Elements of Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Which principle of design creates a sense of movement through repetition?",
+    "options": ["A. Rhythm", "B. Balance", "C. Proportion", "D. Unity"],
+    "answer": "A",
+    "topic": "Principles of Design",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Tertiary colours are made by mixing a primary with a?",
+    "options": ["A. Secondary colour", "B. Neutral colour", "C. Complementary colour", "D. Primary colour"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "The bronze works of Ife are known for their idealized?",
+    "options": ["A. Human portraiture", "B. Animal figures", "C. Abstract patterns", "D. Geometric shapes"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "The Igbo-Ukwu culture is known for advanced metalworking with?",
+    "options": ["A. Copper and lead", "B. Iron and steel", "C. Tin and zinc", "D. Aluminum"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Etsu Ngbodaga was a pioneer in Nigerian?",
+    "options": ["A. Modernist painting", "B. Traditional weaving", "C. Pottery", "D. Beadwork"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "Demas Nwoko is known for his work in architecture and?",
+    "options": ["A. Sculptural decoration", "B. Printmaking", "C. Textile design", "D. Ceramics"],
+    "answer": "A",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Leather craft involves working with animal hides to make?",
+    "options": ["A. Bags and shoes", "B. Pots and vases", "C. Baskets and mats", "D. Beads and jewelry"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "Moulded craft includes working with clay, plastercine, and?",
+    "options": ["A. Paper pulp", "B. Metal sheets", "C. Wood blocks", "D. Glass rods"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "The preparation of dye bath requires mixing dye with water and sometimes?",
+    "options": ["A. Salt or acid", "B. Oil", "C. Wax", "D. Glue"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "In paper craft, scoring is used to create?",
+    "options": ["A. Fold lines", "B. Cut lines", "C. Decorative patterns", "D. Textured surfaces"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "A collage can be made from found objects such as?",
+    "options": ["A. Buttons and fabric scraps", "B. Metal bars", "C. Clay blocks", "D. Glass panes"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "A simple repeat pattern is the most basic and uses a single?",
+    "options": ["A. Motif repeated evenly", "B. Colour only", "C. Shape only", "D. Line only"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "Animal motifs are often used in African art to symbolize?",
+    "options": ["A. Power or totem", "B. Modernity", "C. Foreign influence", "D. Random decoration"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "Serif and sans serif are classifications of?",
+    "options": ["A. Typefaces", "B. Colours", "C. Textures", "D. Shapes"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Feather stitch is an embroidery stitch that resembles?",
+    "options": ["A. A row of leaves", "B. A chain", "C. A zigzag", "D. A straight line"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Knitting patterns can be created using different combinations of knit and?",
+    "options": ["A. Purl stitches", "B. Crochet stitches", "C. Weaving stitches", "D. Embroidery stitches"],
+    "answer": "A",
+    "topic": "Knitting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "Double crochet is a taller stitch than single crochet and is often used for?",
+    "options": ["A. Lace-like fabrics", "B. Dense fabrics", "C. Stiff fabrics", "D. Waterproof fabrics"],
+    "answer": "A",
+    "topic": "Crocheting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "A batik project typically involves drawing with wax before the first?",
+    "options": ["A. Dye bath", "B. Rinse", "C. Ironing", "D. Sewing"],
+    "answer": "A",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "The functions of package design include containment, protection, and?",
+    "options": ["A. Communication", "B. Storage only", "C. Disposal only", "D. Manufacturing"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "A virtual exhibition displays artworks?",
+    "options": ["A. Online", "B. In a gallery", "C. In a museum", "D. In a school hall"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Art works can be marketed through social media platforms like?",
+    "options": ["A. Instagram", "B. LinkedIn", "C. ResearchGate", "D. GitHub"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The element of music that describes the character of sound is?",
+    "options": ["A. Timbre", "B. Pitch", "C. Duration", "D. Loudness"],
+    "answer": "A",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "A minim is another name for a?",
+    "options": ["A. Half note", "B. Whole note", "C. Quarter note", "D. Eighth note"],
+    "answer": "A",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "The B major scale has how many sharps?",
+    "options": ["A. 5", "B. 4", "C. 3", "D. 2"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "Music used for communication, like talking drums, transmits?",
+    "options": ["A. Messages", "B. Entertainment", "C. Religion", "D. Education"],
+    "answer": "A",
+    "topic": "Uses of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "R&B music stands for?",
+    "options": ["A. Rhythm and blues", "B. Rock and ballad", "C. Rap and bass", "D. Reggae and blues"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "The playwright writes the dialogue and stage directions for a?",
+    "options": ["A. Play", "B. Song", "C. Dance", "D. Film"],
+    "answer": "A",
+    "topic": "Playwriting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The climax of a play is the point of highest?",
+    "options": ["A. Tension", "B. Comedy", "C. Song", "D. Dance"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "A farce is a comedy that uses exaggerated and improbable?",
+    "options": ["A. Situations", "B. Dialogues", "C. Characters", "D. Settings"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "The Greek philosopher Aristotle discussed the origins of drama in his work?",
+    "options": ["A. Poetics", "B. Ethics", "C. Politics", "D. Metaphysics"],
+    "answer": "A",
+    "topic": "Origin of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "A costume designer researches and creates clothing appropriate to the?",
+    "options": ["A. Period and character", "B. Budget only", "C. Director's taste", "D. Actor's preference"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "Powder is used in stage makeup to?",
+    "options": ["A. Set the makeup", "B. Add colour", "C. Remove makeup", "D. Create texture"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "Theatre sound design includes ambient sounds and?",
+    "options": ["A. Musical underscores", "B. Only dialogue", "C. Only silence", "D. Only noise"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "A dress rehearsal is usually performed with?",
+    "options": ["A. Full costumes and makeup", "B. Minimal props", "C. No lights", "D. No sound"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "The Kakilambe dance is a traditional ritual dance from?",
+    "options": ["A. Guinea", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "Dance can be performed solo, in pairs, or in?",
+    "options": ["A. Groups", "B. Circles", "C. Lines", "D. Squares"],
+    "answer": "A",
+    "topic": "Dance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "A study dance is often created as an exercise for?",
+    "options": ["A. Choreographic exploration", "B. Commercial gain", "C. Religious ritual", "D. Political protest"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "Choreographic processes include improvisation, selection, and?",
+    "options": ["A. Structuring", "B. Painting", "C. Sewing", "D. Singing"],
+    "answer": "A",
+    "topic": "Process of Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "The Swange dance is a contemporary style from the?",
+    "options": ["A. Tiv people", "B. Yoruba people", "C. Igbo people", "D. Hausa people"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "Monochromatic colour schemes are often used to create a sense of?",
+    "options": ["A. Harmony", "B. Contrast", "C. Excitement", "D. Chaos"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "The Nok culture flourished in what region of Nigeria?",
+    "options": ["A. North-Central", "B. South-East", "C. South-West", "D. North-East"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Ife art is known for its naturalistic representations of?",
+    "options": ["A. Rulers", "B. Animals", "C. Spirits", "D. Plants"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "Bruce Onabrakpeya is celebrated for his innovative printmaking technique called?",
+    "options": ["A. Metal foil etching", "B. Woodcut", "C. Screen printing", "D. Lithography"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "Lamidi Fakeye was a prominent carver from the?",
+    "options": ["A. Yoruba tradition", "B. Igbo tradition", "C. Hausa tradition", "D. Benin tradition"],
+    "answer": "A",
+    "topic": "Pioneering Nigerian Artists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "Basketry is a woven craft that uses materials like?",
+    "options": ["A. Rattan and palm fronds", "B. Leather and metal", "C. Clay and wax", "D. Paper and glue"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Tie and dye designs can be created by folding, pleating, or?",
+    "options": ["A. Binding", "B. Painting", "C. Printing", "D. Stamping"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "The resist in tie and dye prevents dye from reaching certain areas of the?",
+    "options": ["A. Fabric", "B. Water", "C. Dye bath", "D. Gloves"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "Papier-mâché involves shredding paper and mixing it with?",
+    "options": ["A. Adhesive paste", "B. Water only", "C. Oil", "D. Wax"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "The word 'collage' comes from the French word meaning?",
+    "options": ["A. To glue", "B. To cut", "C. To paste", "D. To arrange"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Half drop repeat pattern is often used in?",
+    "options": ["A. Wallpaper design", "B. Portrait painting", "C. Still life", "D. Sculpture"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "Motifs can be used to decorate borders, greeting cards, and?",
+    "options": ["A. Textiles", "B. Buildings", "C. Vehicles", "D. Food"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The construction of letters A to Z in both upper and lower cases is part of?",
+    "options": ["A. Lettering design", "B. Calligraphy only", "C. Typography only", "D. Handwriting only"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "Embroidery can be done by hand or using a?",
+    "options": ["A. Machine", "B. Loom", "C. Knitting needle", "D. Crochet hook"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "Knitting and crocheting are both methods of creating fabric from?",
+    "options": ["A. Yarn", "B. Leather", "C. Metal", "D. Plastic"],
+    "answer": "A",
+    "topic": "Knitting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "A batik maker uses a canting or cap to apply?",
+    "options": ["A. Molten wax", "B. Dye", "C. Bleach", "D. Starch"],
+    "answer": "A",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "The primary function of packaging is to protect the product during?",
+    "options": ["A. Transport and storage", "B. Only display", "C. Only sale", "D. Only disposal"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "A biennial exhibition takes place every?",
+    "options": ["A. Two years", "B. One year", "C. Three years", "D. Five years"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "Art works can be marketed through galleries, auctions, and?",
+    "options": ["A. Art fairs", "B. Supermarkets", "C. Pharmacies", "D. Barber shops"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The musical term for gradually getting louder is?",
+    "options": ["A. Crescendo", "B. Diminuendo", "C. Staccato", "D. Legato"],
+    "answer": "A",
+    "topic": "Elements of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "A breve is a musical note that lasts twice as long as a?",
+    "options": ["A. Whole note", "B. Half note", "C. Quarter note", "D. Eighth note"],
+    "answer": "A",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "The E flat major scale has how many flats?",
+    "options": ["A. 3", "B. 2", "C. 4", "D. 5"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Gospel music is used primarily for?",
+    "options": ["A. Worship", "B. Entertainment only", "C. Politics", "D. Sports"],
+    "answer": "A",
+    "topic": "Uses of Music",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Rock music typically features electric guitars, drums, and?",
+    "options": ["A. Strong vocals", "B. Orchestral strings", "C. Jazz brass", "D. Classical piano"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "The person who manages the business aspects of a theatre production is the?",
+    "options": ["A. Business manager", "B. Director", "C. Stage manager", "D. Playwright"],
+    "answer": "A",
+    "topic": "Drama and Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "The denouement is the part of a play where the plot is?",
+    "options": ["A. Resolved", "B. Introduced", "C. Complicated", "D. Suspended"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "Tragicomedy blends elements of tragedy and comedy to reflect?",
+    "options": ["A. Real life", "B. Fantasy only", "C. Myth only", "D. History only"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "Festivals often include dramatic elements like storytelling, music, and?",
+    "options": ["A. Masquerades", "B. Only speeches", "C. Only prayers", "D. Only feasting"],
+    "answer": "A",
+    "topic": "Origin of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "Make-up can be used to correct features or to create?",
+    "options": ["A. Illusions", "B. Reality only", "C. Simplicity", "D. Blandness"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "A make-up artist applies cosmetics to enhance or alter?",
+    "options": ["A. Appearance", "B. Voice", "C. Movement", "D. Lighting"],
+    "answer": "A",
+    "topic": "Costume and Make-up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "Theatre design includes set, costume, lighting, sound, and?",
+    "options": ["A. Properties", "B. Acting", "C. Directing", "D. Playwriting"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "Rehearsal activities include reading, blocking, and?",
+    "options": ["A. Voice production", "B. Costume construction", "C. Set building", "D. Lighting design"],
+    "answer": "A",
+    "topic": "Rehearsal",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "The Gelede dance is a traditional Yoruba dance performed to honor?",
+    "options": ["A. Mothers", "B. Warriors", "C. Chiefs", "D. Farmers"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Dance can be a form of storytelling, expressing emotions without?",
+    "options": ["A. Words", "B. Music", "C. Costumes", "D. Lighting"],
+    "answer": "A",
+    "topic": "Dance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Dance drama integrates narrative and movement to convey a?",
+    "options": ["A. Story", "B. Song", "C. Speech", "D. Image"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "A choreographer often works with dancers to create sequences that fit the?",
+    "options": ["A. Music", "B. Lighting", "C. Costume", "D. Set"],
+    "answer": "A",
+    "topic": "Introduction to Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "The process of choreography may involve improvisation to generate?",
+    "options": ["A. Movement material", "B. Scripts", "C. Scores", "D. Lighting cues"],
+    "answer": "A",
+    "topic": "Process of Choreography",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "The Efik people of Cross River State perform the?",
+    "options": ["A. Ekombi dance", "B. Koroso dance", "C. Bata dance", "D. Atilogwu dance"],
+    "answer": "A",
+    "topic": "Nigerian Traditional Dances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Complementary colours create high contrast and are often used to create?",
+    "options": ["A. Visual excitement", "B. Calmness", "C. Sadness", "D. Boredom"],
+    "answer": "A",
+    "topic": "The study of Colours",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "The Benin plaques depict scenes of court life and?",
+    "options": ["A. Historical events", "B. Mythological stories", "C. Abstract patterns", "D. Foreign visitors"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "Ife art influenced the artistic traditions of?",
+    "options": ["A. Benin and other Yoruba kingdoms", "B. Northern Nigeria only", "C. Eastern Nigeria only", "D. Western Africa only"],
+    "answer": "A",
+    "topic": "Types and Features of Nigerian Traditional Arts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Ben Enwonwu's painting 'Tutu' set a record for African art at?",
+    "options": ["A. Auction", "B. Museum", "C. Gallery", "D. School"],
+    "answer": "A",
+    "topic": "Prominent Art Works and their Locations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "Ceramics as a craft involves shaping and firing?",
+    "options": ["A. Clay", "B. Metal", "C. Wood", "D. Glass"],
+    "answer": "A",
+    "topic": "Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "The stitched method in tie and dye involves sewing patterns with?",
+    "options": ["A. Thread", "B. Wax", "C. Glue", "D. Tape"],
+    "answer": "A",
+    "topic": "Tie and Dye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "Origami is the Japanese art of paper folding that produces?",
+    "options": ["A. Sculptural forms", "B. Paintings", "C. Textiles", "D. Pottery"],
+    "answer": "A",
+    "topic": "Paper Craft",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "Collage can be combined with painting to create mixed media?",
+    "options": ["A. Artworks", "B. Sculptures", "C. Installations", "D. Performances"],
+    "answer": "A",
+    "topic": "Collage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "Mirror repeat pattern is often used in textile design for?",
+    "options": ["A. Symmetrical fabrics", "B. Asymmetrical fabrics", "C. Random prints", "D. Abstract designs"],
+    "answer": "A",
+    "topic": "Production of Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "Motifs can be combined to form larger decorative?",
+    "options": ["A. Patterns", "B. Paintings", "C. Sculptures", "D. Buildings"],
+    "answer": "A",
+    "topic": "Motifs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "A good lettering design should be simple and?",
+    "options": ["A. Legible", "B. Ornate", "C. Colourful", "D. Large"],
+    "answer": "A",
+    "topic": "Lettering",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "The loop stitch in embroidery is also known as?",
+    "options": ["A. Chain stitch", "B. Satin stitch", "C. Cross stitch", "D. Running stitch"],
+    "answer": "A",
+    "topic": "Embroidery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "Crocheting is different from knitting because it uses a single hook rather than?",
+    "options": ["A. Two needles", "B. A loom", "C. A machine", "D. Hands"],
+    "answer": "A",
+    "topic": "Crocheting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "In batik, multiple wax applications and dye baths can create complex?",
+    "options": ["A. Multi-coloured designs", "B. Single colours", "C. Textured surfaces", "D. Embossed patterns"],
+    "answer": "A",
+    "topic": "Batik",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "A package's caption may include the product name, brand, and?",
+    "options": ["A. Instructions", "B. Price only", "C. Colour only", "D. Weight only"],
+    "answer": "A",
+    "topic": "Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "An art gallery is a space dedicated to the exhibition and sale of?",
+    "options": ["A. Artworks", "B. Furniture", "C. Books", "D. Clothes"],
+    "answer": "A",
+    "topic": "Exhibition and Display Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Art marketing can involve networking, portfolio presentation, and?",
+    "options": ["A. Pricing strategies", "B. Legal battles", "C. Political campaigns", "D. Cooking shows"],
+    "answer": "A",
+    "topic": "Marketing of Art Works",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "The musical symbol for a rest that lasts as long as a quarter note is called?",
+    "options": ["A. Quarter rest", "B. Half rest", "C. Whole rest", "D. Eighth rest"],
+    "answer": "A",
+    "topic": "Rudiments of Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "A crotchet is another name for a?",
+    "options": ["A. Quarter note", "B. Half note", "C. Whole note", "D. Eighth note"],
+    "answer": "A",
+    "topic": "Musical notes and their relative value",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "The scale of A major has how many sharps?",
+    "options": ["A. 3", "B. 2", "C. 4", "D. 5"],
+    "answer": "A",
+    "topic": "Major Scale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "Pop music is characterized by catchy melodies and?",
+    "options": ["A. Broad appeal", "B. Complex rhythms", "C. Long durations", "D. Classical instruments"],
+    "answer": "A",
+    "topic": "Popular Music",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "The chorus in a play is a group of actors who comment on the?",
+    "options": ["A. Action", "B. Lighting", "C. Costumes", "D. Set"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "A soliloquy is a speech delivered by a character alone on stage to reveal?",
+    "options": ["A. Inner thoughts", "B. Plot twists", "C. Background story", "D. Future events"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "An aside is a brief remark by a character that is heard by the audience but not by?",
+    "options": ["A. Other characters", "B. The director", "C. The playwright", "D. The stage crew"],
+    "answer": "A",
+    "topic": "Elements of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "Melodrama often uses background music to enhance?",
+    "options": ["A. Emotional moments", "B. Dialogue", "C. Comedy", "D. Silence"],
+    "answer": "A",
+    "topic": "Forms of Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "The festival of the Osun-Osogbo includes dramatic reenactments of?",
+    "options": ["A. Mythical events", "B. Historical wars", "C. Royal ceremonies", "D. Farming rituals"],
+    "answer": "A",
+    "topic": "Dramatic Elements of Festivals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "Contemporary dramatists include playwrights like Wole Soyinka and?",
+    "options": ["A. Femi Osofisan", "B. Chinua Achebe", "C. Ben Okri", "D. Chimamanda Adichie"],
+    "answer": "A",
+    "topic": "Playwriting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Stage properties (props) are items that are movable and used by?",
+    "options": ["A. Actors", "B. The audience", "C. The director", "D. The stage crew"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "Lighting design can create mood, focus attention, and indicate?",
+    "options": ["A. Time of day", "B. Character names", "C. Dialogue", "D. Music"],
+    "answer": "A",
+    "topic": "Design in the Theatre",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "The Maasai jumping dance is a traditional dance from?",
+    "options": ["A. East Africa", "B. West Africa", "C. North Africa", "D. Southern Africa"],
+    "answer": "A",
+    "topic": "Types of Dance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Dance as a career can lead to opportunities in film, television, and?",
+    "options": ["A. Stage productions", "B. Only weddings", "C. Only churches", "D. Only festivals"],
+    "answer": "A",
+    "topic": "Dance as a Career",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "The study of dance in Nigerian institutions includes practical training in?",
+    "options": ["A. Technique and choreography", "B. Only theory", "C. Only history", "D. Only music"],
+    "answer": "A",
+    "topic": "Prospects of Studying Dance in Nigeria",
+    "difficulty": "Hard"
+  }
+]

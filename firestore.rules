@@ -1,0 +1,131 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper function to check if the user is the admin
+    function isAdmin() {
+      return request.auth != null && request.auth.token.email == 'precykelly345@gmail.com';
+    }
+
+    // Helper function to check if the user is authenticated
+    function isAuth() {
+      return request.auth != null;
+    }
+    
+    // 1. Users & Stats (Zero Data Loss / Non-Decreasing Stats Policy)
+    match /users/{userId} {
+      allow read: if isAuth();
+      
+      // Only allow creation when the document genuinely does not exist on the server yet
+      allow create: if isAuth() && request.auth.uid == userId;
+      
+      // Never allow user documents to be deleted
+      allow delete: if false;
+      
+      allow update: if isAuth() && (
+        // a) Admin access (e.g. banning/unbanning/school approval)
+        isAdmin()
+        || (
+          // b) Owner updating their own document — core cumulative/streak stats must NEVER decrease
+          request.auth.uid == userId
+          && request.resource.data.get('totalQuestions', 0) >= resource.data.get('totalQuestions', 0)
+          && request.resource.data.get('totalCorrect', 0) >= resource.data.get('totalCorrect', 0)
+          && request.resource.data.get('quizzesTaken', 0) >= resource.data.get('quizzesTaken', 0)
+          && request.resource.data.get('currentStreak', 0) >= resource.data.get('currentStreak', 0)
+          && request.resource.data.get('longestStreak', 0) >= resource.data.get('longestStreak', 0)
+          && request.resource.data.get('achievements', []).size() >= resource.data.get('achievements', []).size()
+        )
+        || (
+          // c) Allow players to increment each other's score/accuracy/question stats during game challenge results
+          request.resource.data.diff(resource.data).affectedKeys().hasOnly(['totalCorrect', 'totalQuestions', 'accuracy', 'updatedAt'])
+          && request.resource.data.get('totalQuestions', 0) >= resource.data.get('totalQuestions', 0)
+          && request.resource.data.get('totalCorrect', 0) >= resource.data.get('totalCorrect', 0)
+        )
+      );
+      
+      // Quiz results are strictly append-only history and must never be overwritten or deleted
+      match /quizResults/{resultId} {
+        allow read, create: if isAuth() && request.auth.uid == userId;
+        allow update, delete: if false;
+      }
+    }
+
+    // 2. Game Lobbies (New Challenge Mode)
+    match /gameLobbies/{lobbyId} {
+      allow read, write: if isAuth();
+    }
+
+    // 3. Global Chat
+    match /globalChat/{messageId} {
+      allow read: if isAuth();
+      allow create: if isAuth() 
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.text.size() <= 500;
+      allow delete: if isAuth() 
+        && (resource.data.uid == request.auth.uid 
+            || isAdmin());
+      
+      // Allow updates only for admins or message owners updating their own text
+      allow update: if isAuth() 
+        && (
+          // Admin can perform updates (e.g. pinning, deleting)
+          isAdmin()
+          || (
+            // Owner can edit their own message text without changing other fields
+            resource.data.uid == request.auth.uid
+            && request.resource.data.uid == request.auth.uid
+            && request.resource.data.text.size() <= 500
+            && request.resource.data.displayName == resource.data.displayName
+            && request.resource.data.replyTo == resource.data.replyTo
+            && request.resource.data.createdAt == resource.data.createdAt
+          )
+        );
+    }
+
+    // 4. Chat State (Pinned Messages)
+    match /chatState/{docId} {
+      allow read: if isAuth();
+      allow write: if isAuth();
+    }
+    
+    // 5. School Selection
+    match /schools/{schoolId} { 
+      allow read: if true;
+      allow create: if isAuth()
+                  && (request.resource.data.approved == false 
+                      || isAdmin());
+      allow update, delete: if isAdmin();
+    }
+
+    // 6. Direct Messages Chat Sessions (DMs)
+    match /directChats/{chatId} {
+      // Allow read/update if the user is one of the two participants, or if the user is the admin
+      allow read: if isAuth() && (resource == null || request.auth.uid in resource.data.users || isAdmin());
+      allow create: if isAuth() && request.auth.uid in request.resource.data.users;
+      allow update: if isAuth() && (request.auth.uid in request.resource.data.users || isAdmin());
+      allow delete: if isAdmin();
+
+      // Direct Messages messages sub-collection rules
+      match /messages/{messageId} {
+        // Allow read/create if user is part of the parent chat session
+        allow read: if isAuth() && (request.auth.uid in get(/databases/$(database)/documents/directChats/$(chatId)).data.users || isAdmin());
+        allow create: if isAuth() && 
+          request.auth.uid in get(/databases/$(database)/documents/directChats/$(chatId)).data.users &&
+          request.resource.data.uid == request.auth.uid;
+        
+        // Allow edit/delete if owner of message or admin
+        allow update, delete: if isAuth() && (resource.data.uid == request.auth.uid || isAdmin());
+      }
+    }
+
+    // 7. Safety Reports (Block reporting)
+    match /safetyReports/{reportId} {
+      // Only admin can read reports
+      allow read: if isAdmin();
+      // Any authenticated user can submit a report
+      allow create: if isAuth();
+      // Only admin can dismiss/delete reports
+      allow update, delete: if isAdmin();
+    }
+  }
+}

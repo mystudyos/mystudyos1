@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of history as an academic discipline?",
+    "options": ["A. A collection of myths and legends", "B. The study of past events and human affairs", "C. A fictional story about heroes", "D. A prediction of future events"],
+    "answer": "B",
+    "topic": "Meaning of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best differentiates history from storytelling?",
+    "options": ["A. History is based on facts and time, storytelling is not", "B. Storytelling is always longer than history", "C. History only covers recent events", "D. Storytelling requires written records"],
+    "answer": "A",
+    "topic": "Meaning of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "Which of these is a primary source of history?",
+    "options": ["A. A textbook written in 2020", "B. An artifact from an ancient civilization", "C. A biography of a king", "D. A journal article about colonialism"],
+    "answer": "B",
+    "topic": "Sources of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Oral traditions are considered important sources because they?",
+    "options": ["A. Are always perfectly accurate", "B. Preserve historical information passed by word of mouth", "C. Replace all written records", "D. Are the only sources for African history"],
+    "answer": "B",
+    "topic": "Sources of History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Archival materials fall under which category of historical sources?",
+    "options": ["A. Tertiary sources", "B. Secondary sources", "C. Primary sources", "D. Fictional sources"],
+    "answer": "C",
+    "topic": "Sources of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of a secondary source of history?",
+    "options": ["A. A diary from 1900", "B. A government gazette from 1950", "C. A textbook on Nigerian history", "D. An oral interview with a war veteran"],
+    "answer": "C",
+    "topic": "Sources of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Tertiary sources of history include materials such as?",
+    "options": ["A. Original letters and manuscripts", "B. Student projects and bulletins", "C. Artefacts from archaeological digs", "D. First‑hand accounts of events"],
+    "answer": "B",
+    "topic": "Sources of History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "One way to access historical sources is through?",
+    "options": ["A. Watching fictional movies", "B. Visiting museums and historical sites", "C. Reading only modern novels", "D. Listening to pop music"],
+    "answer": "B",
+    "topic": "Sources of History",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "The Nok culture is located in which part of modern Nigeria?",
+    "options": ["A. South‑South region", "B. South‑East region", "C. North‑Central region (around Kaduna)", "D. South‑West region"],
+    "answer": "C",
+    "topic": "Geography and Environment - Nok",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "The Nok culture is famous for its distinctive?",
+    "options": ["A. Bronze plaques", "B. Terracotta sculptures", "C. Ivory carvings", "D. Wooden masks"],
+    "answer": "B",
+    "topic": "Nok Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "What was the primary occupation of the Nok people?",
+    "options": ["A. Farming and ironworking", "B. Long‑distance trading", "C. Deep‑sea fishing", "D. Gold mining"],
+    "answer": "A",
+    "topic": "Nok Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "The significance of the Nok culture in Nigerian history lies in its?",
+    "options": ["A. Development of the first writing system", "B. Early evidence of iron smelting and terracotta art", "C. Construction of large stone walls", "D. Invention of the wheel"],
+    "answer": "B",
+    "topic": "Nok Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Ile‑Ife is located in which present‑day Nigerian state?",
+    "options": ["A. Oyo State", "B. Osun State", "C. Ondo State", "D. Ekiti State"],
+    "answer": "B",
+    "topic": "Ile‑Ife Culture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "In Yoruba tradition, Ile‑Ife is regarded as the?",
+    "options": ["A. Centre of the slave trade", "B. Place of origin of the Yoruba people", "C. Capital of the Oyo Empire", "D. Major European trading post"],
+    "answer": "B",
+    "topic": "Ile‑Ife Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "The Ife culture is renowned for its naturalistic?",
+    "options": ["A. Bronze and terracotta heads", "B. Wooden statues of animals", "C. Iron tools and weapons", "D. Clay pottery"],
+    "answer": "A",
+    "topic": "Ile‑Ife Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "One major occupation of the people of Ile‑Ife was?",
+    "options": ["A. Trans‑Saharan camel trading", "B. Farming and artistic craftsmanship", "C. Deep‑water fishing", "D. Salt mining"],
+    "answer": "B",
+    "topic": "Ile‑Ife Culture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "The Benin Kingdom is located in present‑day?",
+    "options": ["A. Delta State", "B. Edo State", "C. Ondo State", "D. Rivers State"],
+    "answer": "B",
+    "topic": "Benin Culture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "The Benin culture is famous for its?",
+    "options": ["A. Terracotta army", "B. Bronze and ivory plaques", "C. Mud architecture", "D. Stone carvings"],
+    "answer": "B",
+    "topic": "Benin Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "The Oba of Benin is considered a descendant of?",
+    "options": ["A. The Songhai emperor", "B. The king of Nok", "C. Oduduwa or Oranmiyan", "D. The Kanem‑Borno ruler"],
+    "answer": "C",
+    "topic": "Benin Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "The people of Benin were known for their expertise in?",
+    "options": ["A. Brass casting and ivory carving", "B. Weaving and dyeing", "C. Leather tanning", "D. Salt production"],
+    "answer": "A",
+    "topic": "Benin Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "The Igbo‑Ukwu archaeological site is located in?",
+    "options": ["A. Imo State", "B. Enugu State", "C. Anambra State", "D. Abia State"],
+    "answer": "C",
+    "topic": "Igbo‑Ukwu Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Igbo‑Ukwu is famous for its highly developed?",
+    "options": ["A. Iron smelting technology", "B. Bronze and copper alloy art", "C. Stone construction", "D. Papyrus manuscripts"],
+    "answer": "B",
+    "topic": "Igbo‑Ukwu Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "The discovery of Igbo‑Ukwu artifacts dates back to around?",
+    "options": ["A. 500 BC", "B. 9th century AD", "C. 15th century AD", "D. 18th century AD"],
+    "answer": "B",
+    "topic": "Igbo‑Ukwu Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a characteristic of a centralized state in pre‑colonial Nigeria?",
+    "options": ["A. No single ruler", "B. A highly organized political system with a king or emperor", "C. Decision making by village councils", "D. Absence of a standing army"],
+    "answer": "B",
+    "topic": "Political Developments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Which of these was a major centralized state in pre‑colonial Nigeria?",
+    "options": ["A. Tiv", "B. Idoma", "C. Oyo Empire", "D. Igbo village groups"],
+    "answer": "C",
+    "topic": "Centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "The Hausa states are an example of?",
+    "options": ["A. Non‑centralized states", "B. Centralized states", "C. A single united empire", "D. A British colony"],
+    "answer": "B",
+    "topic": "Centralized States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "The Kanem‑Borno Empire was located mainly in the?",
+    "options": ["A. Niger Delta region", "B. Lake Chad area", "C. Yoruba forest zone", "D. Jos Plateau"],
+    "answer": "B",
+    "topic": "Centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a characteristic of a non‑centralized state?",
+    "options": ["A. A powerful monarch", "B. A complex bureaucracy", "C. Decision making by councils of elders", "D. A large standing army"],
+    "answer": "C",
+    "topic": "Non‑centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "The Igbo political system before colonialism was mainly?",
+    "options": ["A. Centralized with a king", "B. Non‑centralized based on village democracy", "C. Ruled by a theocracy", "D. Controlled by a merchant class"],
+    "answer": "B",
+    "topic": "Non‑centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Which of these groups practiced a non‑centralized system?",
+    "options": ["A. Hausa states", "B. Nupe Kingdom", "C. Tiv", "D. Benin Empire"],
+    "answer": "C",
+    "topic": "Non‑centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "The Ijaw (Ijo) political organization was largely?",
+    "options": ["A. Centralized with a powerful king", "B. Based on city‑states and clan councils", "C. A single empire covering the delta", "D. Ruled by foreign invaders"],
+    "answer": "B",
+    "topic": "Non‑centralized States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "The relationship between Ife and Benin is historically significant because?",
+    "options": ["A. Ife conquered Benin", "B. Benin adopted Ife artistic and dynastic traditions", "C. They never interacted", "D. Ife was a colony of Benin"],
+    "answer": "B",
+    "topic": "Interrelationships",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "A major area of interaction among pre‑colonial Nigerian peoples was?",
+    "options": ["A. Space exploration", "B. Trade and commerce", "C. Industrial revolution", "D. Written constitutions"],
+    "answer": "B",
+    "topic": "Interrelationships",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "The Kanuri and Hausa states interacted through?",
+    "options": ["A. Religious wars only", "B. Trade, marriage and political alliances", "C. Complete isolation", "D. Sea travel"],
+    "answer": "B",
+    "topic": "Interrelationships",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "Differences between pre‑colonial centres of civilization included variations in?",
+    "options": ["A. Language only", "B. Political structure, culture and religious beliefs", "C. The colour of their flags", "D. Their farming tools"],
+    "answer": "B",
+    "topic": "Interrelationships",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "The Ghana Empire was located in the region of present‑day?",
+    "options": ["A. Nigeria and Cameroon", "B. Senegal, Mauritania and Mali", "C. Ghana and Ivory Coast", "D. Niger and Chad"],
+    "answer": "B",
+    "topic": "Ghana Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "The rise of the Ghana Empire was largely due to its control over?",
+    "options": ["A. Gold and salt trade", "B. Iron smelting", "C. Cocoa production", "D. Timber export"],
+    "answer": "A",
+    "topic": "Ghana Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "One major factor that led to the fall of the Ghana Empire was?",
+    "options": ["A. Climate change and invasion by the Almoravids", "B. A volcanic eruption", "C. European colonization", "D. The rise of the Songhai navy"],
+    "answer": "A",
+    "topic": "Ghana Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "The Mali Empire rose to prominence under which famous ruler?",
+    "options": ["A. Askia the Great", "B. Mansa Musa", "C. Sunni Ali", "D. Osei Tutu"],
+    "answer": "B",
+    "topic": "Mali Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Mansa Musa is remembered for his?",
+    "options": ["A. Conquest of Europe", "B. Pilgrimage to Mecca and distribution of gold", "C. Invention of the printing press", "D. Building of the Great Wall"],
+    "answer": "B",
+    "topic": "Mali Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "The capital city of the Mali Empire was?",
+    "options": ["A. Gao", "B. Timbuktu", "C. Kumbi Saleh", "D. Niani"],
+    "answer": "D",
+    "topic": "Mali Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "The Songhai Empire replaced the Mali Empire after conquering its capital at?",
+    "options": ["A. Niani", "B. Timbuktu", "C. Djenne", "D. Gao"],
+    "answer": "B",
+    "topic": "Songhai Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "The Moroccan invasion using firearms led to the fall of the?",
+    "options": ["A. Ghana Empire", "B. Mali Empire", "C. Songhai Empire", "D. Benin Empire"],
+    "answer": "C",
+    "topic": "Songhai Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "The battle that ended the Songhai Empire in 1591 was the Battle of?",
+    "options": ["A. Kirina", "B. Tondibi", "C. Omdurman", "D. Adwa"],
+    "answer": "B",
+    "topic": "Songhai Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "The Trans‑Saharan trade primarily connected?",
+    "options": ["A. West Africa and Southern Africa", "B. West Africa and North Africa", "C. East Africa and Asia", "D. Nigeria and Brazil"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Which commodity was most sought after from West Africa in the Trans‑Saharan trade?",
+    "options": ["A. Salt", "B. Gold", "C. Horses", "D. Silk"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Salt was a major commodity in the Trans‑Saharan trade because it?",
+    "options": ["A. Was used as currency only", "B. Was essential for human and animal survival in the tropics", "C. Had no real value", "D. Was used to build houses"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "One major effect of the Trans‑Saharan trade was?",
+    "options": ["A. The introduction of Christianity", "B. The introduction of Islam and Arabic", "C. The spread of European languages", "D. The establishment of the United Nations"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "The use of camels as a means of transportation became widespread due to?",
+    "options": ["A. The Trans‑Atlantic slave trade", "B. The Trans‑Saharan trade", "C. European exploration", "D. The Berlin Conference"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "One of the trade routes of the Trans‑Saharan trade was the?",
+    "options": ["A. Bonny‑Calabar route", "B. Kanem‑Tripoli route", "C. Lagos‑Ibadan route", "D. Port Harcourt‑Enugu route"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "Early European contact with Nigeria began with the arrival of?",
+    "options": ["A. British colonial administrators", "B. Portuguese explorers in the 15th century", "C. French missionaries", "D. Dutch traders in the 17th century"],
+    "answer": "B",
+    "topic": "European Contacts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "The first European nation to trade with Nigeria was?",
+    "options": ["A. England", "B. France", "C. Portugal", "D. Spain"],
+    "answer": "C",
+    "topic": "European Contacts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "The Trans‑Atlantic slave trade involved the forced transportation of Africans to?",
+    "options": ["A. Asia", "B. The Americas", "C. Europe", "D. Australia"],
+    "answer": "B",
+    "topic": "Trans‑Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The abolition of the Trans‑Atlantic slave trade was largely driven by?",
+    "options": ["A. African kings", "B. British anti‑slavery movements and legislation", "C. French revolutionaries", "D. American plantation owners"],
+    "answer": "B",
+    "topic": "Trans‑Atlantic Slave Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "After the abolition of the slave trade, European merchants engaged in?",
+    "options": ["A. Legitimate trade, especially in palm oil", "B. Colonization of Mars", "C. The spice trade from India", "D. Silk manufacturing"],
+    "answer": "A",
+    "topic": "Legitimate Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "The missionary factor in Nigeria was part of?",
+    "options": ["A. The Trans‑Saharan trade", "B. Early European contacts for spreading Christianity", "C. The slave trade routes", "D. The construction of the railway"],
+    "answer": "B",
+    "topic": "European Contacts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The British explorer who followed the Niger River to its delta was?",
+    "options": ["A. Mungo Park", "B. Richard Lander", "C. John Hanning Speke", "D. David Livingstone"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "The Royal Niger Company was granted a charter to administer Nigerian territories in?",
+    "options": ["A. 1861", "B. 1886", "C. 1900", "D. 1914"],
+    "answer": "B",
+    "topic": "Royal Niger Company",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "The Berlin Conference of 1884‑85 was organized by?",
+    "options": ["A. African leaders", "B. European powers to partition Africa", "C. The United Nations", "D. The League of Nations"],
+    "answer": "B",
+    "topic": "Berlin Treaty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "A major outcome of the Berlin Conference was the?",
+    "options": ["A. Independence of Nigeria", "B. Principle of effective occupation", "C. Establishment of the OAU", "D. Abolition of colonialism"],
+    "answer": "B",
+    "topic": "Berlin Treaty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "The British conquest of Nigerian territories involved?",
+    "options": ["A. Peaceful negotiations only", "B. Signing of treaties and waging of wars", "C. Referendums and elections", "D. Economic sanctions"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "The system of colonial administration where the British ruled through traditional rulers was called?",
+    "options": ["A. Direct rule", "B. Indirect rule", "C. Assimilation", "D. Apartheid"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "Indirect rule was most famously practiced by the British under?",
+    "options": ["A. Sir George Goldie", "B. Lord Lugard", "C. Sir John Glover", "D. Sir Hugh Clifford"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Direct rule was used by the British in?",
+    "options": ["A. The Hausa states", "B. The Benin Empire", "C. Lagos Colony", "D. The Sokoto Caliphate"],
+    "answer": "C",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The amalgamation of the Northern and Southern Protectorates of Nigeria took place in?",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1922"],
+    "answer": "C",
+    "topic": "Amalgamation of Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "The amalgamation of Nigeria was carried out by?",
+    "options": ["A. Taubman Goldie", "B. Lord Lugard", "C. Herbert Macaulay", "D. Nnamdi Azikiwe"],
+    "answer": "B",
+    "topic": "Amalgamation of Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "One reason for the amalgamation of Nigeria was?",
+    "options": ["A. To create a single administrative unit for economic and strategic reasons", "B. To grant Nigeria immediate independence", "C. To divide the country into smaller states", "D. To encourage the slave trade"],
+    "answer": "A",
+    "topic": "Amalgamation of Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Taubman Goldie played a major role in the establishment of the?",
+    "options": ["A. University of Ibadan", "B. Royal Niger Company", "C. Nigerian Railway Corporation", "D. Legislative Council"],
+    "answer": "B",
+    "topic": "Amalgamation of Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "The Nigerian traditional rulers who collaborated with the British were often used as?",
+    "options": ["A. Slaves", "B. Local administrators under indirect rule", "C. Prison wardens", "D. Factory workers"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Nationalism in Nigeria refers to the?",
+    "options": ["A. Movement for European unification", "B. Struggle for political independence from Britain", "C. Campaign for the slave trade", "D. Support for colonial rule"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "One factor that contributed to the rise of nationalism in Nigeria was?",
+    "options": ["A. The spread of traditional religion", "B. Western education and exposure to democratic ideas", "C. The construction of railways", "D. The introduction of the pound sterling"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "The newspaper used by Herbert Macaulay to oppose colonial policies was?",
+    "options": ["A. The West African Pilot", "B. The Lagos Daily News", "C. The Nigerian Tribune", "D. The Comet"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "The Nigerian Youth Movement (NYM) was founded in?",
+    "options": ["A. 1922", "B. 1934", "C. 1944", "D. 1951"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "The National Council of Nigeria and the Cameroons (NCNC) was led by?",
+    "options": ["A. Obafemi Awolowo", "B. Nnamdi Azikiwe and Herbert Macaulay", "C. Ahmadu Bello", "D. Tafawa Balewa"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The Action Group was a political party formed by?",
+    "options": ["A. Nnamdi Azikiwe", "B. Obafemi Awolowo", "C. Ahmadu Bello", "D. Michael Okpara"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "The Northern People's Congress (NPC) was led by?",
+    "options": ["A. Tafawa Balewa", "B. Ahmadu Bello", "C. Aminu Kano", "D. Joseph Tarka"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "The Richards Constitution of 1946 introduced?",
+    "options": ["A. Independence for Nigeria", "B. Regional assemblies and a central legislature", "C. Military rule", "D. The abolition of the monarchy"],
+    "answer": "B",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "The Macpherson Constitution was adopted in?",
+    "options": ["A. 1946", "B. 1951", "C. 1954", "D. 1960"],
+    "answer": "B",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The Lyttleton Constitution of 1954 established?",
+    "options": ["A. A unitary system", "B. A federal system with three regions", "C. A military junta", "D. A confederation"],
+    "answer": "B",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Nigeria gained independence from Britain on?",
+    "options": ["A. October 1, 1960", "B. October 1, 1963", "C. May 29, 1999", "D. January 15, 1966"],
+    "answer": "A",
+    "topic": "Independence",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The first Governor‑General of independent Nigeria was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Abubakar Tafawa Balewa", "C. James Robertson", "D. Obafemi Awolowo"],
+    "answer": "A",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The first Prime Minister of independent Nigeria was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Ahmadu Bello", "C. Abubakar Tafawa Balewa", "D. Obafemi Awolowo"],
+    "answer": "C",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Nigeria became a republic in?",
+    "options": ["A. 1960", "B. 1963", "C. 1979", "D. 1999"],
+    "answer": "B",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The Nok terracotta figures were discovered in which village?",
+    "options": ["A. Igbo‑Ukwu", "B. Ife", "C. Nok", "D. Benin"],
+    "answer": "C",
+    "topic": "Nok Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is an artifact associated with the Ife culture?",
+    "options": ["A. The bronze head of Queen Idia", "B. The terracotta figure of a seated man", "C. The brass plaque of a warrior", "D. The ivory mask of the Oba"],
+    "answer": "B",
+    "topic": "Ile‑Ife Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "The Queen Idia mask is an artifact from the?",
+    "options": ["A. Nok culture", "B. Ife culture", "C. Benin culture", "D. Igbo‑Ukwu culture"],
+    "answer": "C",
+    "topic": "Benin Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "The bronze vessels and ornaments found at Igbo‑Ukwu date back to approximately?",
+    "options": ["A. 300 BC", "B. 500 AD", "C. 9th century AD", "D. 15th century AD"],
+    "answer": "C",
+    "topic": "Igbo‑Ukwu Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "The Hausa states included cities such as?",
+    "options": ["A. Kano, Katsina and Zazzau", "B. Lagos, Ibadan and Abeokuta", "C. Calabar, Bonny and Brass", "D. Benin, Ife and Oyo"],
+    "answer": "A",
+    "topic": "Hausa States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "The capital of the Kanem‑Borno Empire at its peak was?",
+    "options": ["A. Kano", "B. Ngazargamu", "C. Maiduguri", "D. Daura"],
+    "answer": "B",
+    "topic": "Kanem‑Borno",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "The Oyo Empire was known for its powerful cavalry and a council called?",
+    "options": ["A. Ogboni", "B. Oyomesi", "C. Afin", "D. Iyalode"],
+    "answer": "B",
+    "topic": "Oyo Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "The Nupe Kingdom was located in present‑day?",
+    "options": ["A. Kogi and Niger States", "B. Kaduna State", "C. Zamfara State", "D. Taraba State"],
+    "answer": "A",
+    "topic": "Nupe Kingdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "The Igala Kingdom had its capital at?",
+    "options": ["A. Lokoja", "B. Idah", "C. Anyigba", "D. Dekina"],
+    "answer": "B",
+    "topic": "Igala Kingdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The Niger Delta city‑states included?",
+    "options": ["A. Bonny, Brass and Calabar", "B. Warri, Sapele and Ughelli", "C. Port Harcourt and Yenagoa", "D. Lagos and Badagry"],
+    "answer": "A",
+    "topic": "Niger Delta States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "The Efik people were dominant in the city‑state of?",
+    "options": ["A. Bonny", "B. Calabar", "C. Brass", "D. Opobo"],
+    "answer": "B",
+    "topic": "Calabar Kingdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "The Tiv people traditionally had a political system based on?",
+    "options": ["A. A powerful king", "B. Age grades and lineage councils", "C. An elected parliament", "D. A theocratic ruler"],
+    "answer": "B",
+    "topic": "Tiv",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "The Idoma society was organized into?",
+    "options": ["A. A centralized monarchy", "B. Chiefdoms and clan heads", "C. A single empire", "D. Military dictatorships"],
+    "answer": "B",
+    "topic": "Idoma",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "The Ebira people are predominantly found in present‑day?",
+    "options": ["A. Nasarawa State", "B. Benue State", "C. Kogi State", "D. Plateau State"],
+    "answer": "C",
+    "topic": "Ebira",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "The Urhobo people are part of the ethnic groups in?",
+    "options": ["A. Edo State", "B. Delta State", "C. Rivers State", "D. Bayelsa State"],
+    "answer": "B",
+    "topic": "Urhobo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "The Ibibio and Anang people are found mainly in?",
+    "options": ["A. Akwa Ibom State", "B. Cross River State", "C. Abia State", "D. Imo State"],
+    "answer": "A",
+    "topic": "Ibibio",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "The Oro (Oron) people are located in?",
+    "options": ["A. Rivers State", "B. Cross River State", "C. Akwa Ibom State", "D. Bayelsa State"],
+    "answer": "C",
+    "topic": "Oron",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Ife and Benin shared cultural similarities in?",
+    "options": ["A. Language only", "B. Artistic traditions and dynastic origins", "C. Military tactics", "D. Agricultural practices"],
+    "answer": "B",
+    "topic": "Interrelationships",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "The legend of Oduduwa is central to the history of?",
+    "options": ["A. The Hausa states", "B. The Yoruba people", "C. The Igbo", "D. The Edo"],
+    "answer": "B",
+    "topic": "Ife History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "The Ghana Empire was also known as?",
+    "options": ["A. Wagadou", "B. Malel", "C. Gao", "D. Kumbi"],
+    "answer": "A",
+    "topic": "Ghana Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "The capital of the Ghana Empire was?",
+    "options": ["A. Timbuktu", "B. Niani", "C. Kumbi Saleh", "D. Gao"],
+    "answer": "C",
+    "topic": "Ghana Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "The leader of the Mali Empire who transformed Timbuktu into a learning centre was?",
+    "options": ["A. Sundiata Keita", "B. Mansa Musa", "C. Askia the Great", "D. Sonni Ali"],
+    "answer": "B",
+    "topic": "Mali Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "The Epic of Sundiata describes the founding of the?",
+    "options": ["A. Ghana Empire", "B. Mali Empire", "C. Songhai Empire", "D. Kanem‑Borno Empire"],
+    "answer": "B",
+    "topic": "Mali Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "The Songhai Empire reached its peak under the rule of?",
+    "options": ["A. Sonni Ali", "B. Askia Muhammad I", "C. Mansa Musa", "D. Sundiata Keita"],
+    "answer": "B",
+    "topic": "Songhai Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "The Moroccan army that defeated the Songhai was equipped with?",
+    "options": ["A. Cavalry and bows", "B. Firearms and arquebuses", "C. War elephants", "D. Naval ships"],
+    "answer": "B",
+    "topic": "Songhai Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "One positive effect of the Trans‑Saharan trade was the?",
+    "options": ["A. Decline of West African empires", "B. Introduction of Islamic scholarship and literacy", "C. Increase in tribal wars", "D. Spread of European diseases"],
+    "answer": "B",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "The Trans‑Saharan trade declined partly due to?",
+    "options": ["A. The rise of European sea trade", "B. The abolition of slavery", "C. The invention of the steam engine", "D. The Berlin Conference"],
+    "answer": "A",
+    "topic": "Trans‑Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "The Portuguese explorer who reached the Benin kingdom in the 15th century was?",
+    "options": ["A. Vasco da Gama", "B. John Cabot", "C. Alfonso de Albuquerque", "D. Ruy de Sequeira"],
+    "answer": "D",
+    "topic": "European Contacts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The trans‑Atlantic slave trade is often called the 'Middle Passage' because it was the?",
+    "options": ["A. Second leg of the triangular trade", "B. First leg of the journey", "C. Final leg to Europe", "D. Route across the Sahara"],
+    "answer": "A",
+    "topic": "Trans‑Atlantic Slave Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "The British parliament passed the Act abolishing the slave trade in?",
+    "options": ["A. 1776", "B. 1807", "C. 1833", "D. 1865"],
+    "answer": "B",
+    "topic": "Trans‑Atlantic Slave Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "Legitimate trade after the slave trade included the export of?",
+    "options": ["A. Gold and ivory", "B. Palm oil and groundnuts", "C. Timber and rubber", "D. Cocoa and coffee"],
+    "answer": "B",
+    "topic": "Legitimate Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "The missionary who established a mission in Badagry was?",
+    "options": ["A. Thomas Birch Freeman", "B. Samuel Ajayi Crowther", "C. Mary Slessor", "D. Henry Townsend"],
+    "answer": "B",
+    "topic": "Christian Missions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "The first British consular in the Bight of Biafra was?",
+    "options": ["A. John Beecroft", "B. Richard Lander", "C. George Goldie", "D. Frederick Lugard"],
+    "answer": "A",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The Lagos Colony was formally annexed by Britain in?",
+    "options": ["A. 1851", "B. 1861", "C. 1886", "D. 1900"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "The Royal Niger Company's charter was revoked in?",
+    "options": ["A. 1899", "B. 1900", "C. 1914", "D. 1922"],
+    "answer": "B",
+    "topic": "Royal Niger Company",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "The principle of 'effective occupation' was established by the?",
+    "options": ["A. Treaty of Versailles", "B. Berlin Conference", "C. Paris Peace Accord", "D. Congress of Vienna"],
+    "answer": "B",
+    "topic": "Berlin Treaty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "The British used direct rule in Lagos because?",
+    "options": ["A. There were no traditional rulers", "B. The British wanted to experiment", "C. The local chiefs were hostile", "D. The population was too large"],
+    "answer": "A",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "The first Governor of the amalgamated Nigeria was?",
+    "options": ["A. Lord Lugard", "B. Sir Hugh Clifford", "C. Sir Arthur Richards", "D. Sir John Macpherson"],
+    "answer": "A",
+    "topic": "Amalgamation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "The Clifford Constitution of 1922 introduced?",
+    "options": ["A. Universal adult suffrage", "B. The first legislative council with elected African members", "C. Independence", "D. The regional government"],
+    "answer": "B",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Herbert Macaulay is often referred to as the?",
+    "options": ["A. Father of Nigerian nationalism", "B. First president of Nigeria", "C. Founder of the Action Group", "D. Leader of the Northern NPC"],
+    "answer": "A",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "The Zikist movement was named after?",
+    "options": ["A. Ahmadu Bello", "B. Nnamdi Azikiwe", "C. Obafemi Awolowo", "D. Tafawa Balewa"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "The women's protest of 1929 in Eastern Nigeria is known as the?",
+    "options": ["A. Aba Women's Riot", "B. Abeokuta Women's Revolt", "C. Enugu Colliery Strike", "D. Lagos Market Women's Protest"],
+    "answer": "A",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "The Enugu Colliery strike of 1949 was led by?",
+    "options": ["A. Michael Imoudu", "B. Funmilayo Ransome‑Kuti", "C. Ernest Ikoli", "D. Samuel Akintola"],
+    "answer": "A",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "The Lyttleton Constitution introduced the post of?",
+    "options": ["A. Prime Minister", "B. Governor‑General", "C. President", "D. Chief Justice"],
+    "answer": "A",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "The first military coup in Nigeria took place in?",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1975"],
+    "answer": "C",
+    "topic": "Post‑Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "The Nigerian Civil War (1967‑1970) was fought between the federal government and?",
+    "options": ["A. Biafra", "B. the Niger Delta Republic", "C. the Oyo Empire", "D. the Northern Region"],
+    "answer": "A",
+    "topic": "Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The slogan 'No victor, no vanquished' was used after the?",
+    "options": ["A. Amalgamation", "B. Independence", "C. Civil War", "D. First Republic"],
+    "answer": "C",
+    "topic": "Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "The Nok culture's iron smelting technology dates back to about?",
+    "options": ["A. 500 BC", "B. 500 AD", "C. 1000 AD", "D. 1500 AD"],
+    "answer": "A",
+    "topic": "Nok Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "The Ife bronze heads are believed to represent?",
+    "options": ["A. Gods", "B. Kings (Obas)", "C. Commoners", "D. Animals"],
+    "answer": "B",
+    "topic": "Ife Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "The Benin Empire was famous for its?",
+    "options": ["A. Soapstone carvings", "B. Brass and ivory works", "C. Terracotta army", "D. Gold weights"],
+    "answer": "B",
+    "topic": "Benin Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "The Igbo‑Ukwu culture is known for its advanced?",
+    "options": ["A. Metallurgy of lead and copper", "B. Stone architecture", "C. Glass making", "D. Paper manufacturing"],
+    "answer": "A",
+    "topic": "Igbo‑Ukwu Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "The Hausa states trace their origin to a legendary figure named?",
+    "options": ["A. Bayajidda", "B. Oduduwa", "C. Eri", "D. Igbo"],
+    "answer": "A",
+    "topic": "Hausa States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "The Kano Chronicle is an important source for the history of?",
+    "options": ["A. The Oyo Empire", "B. The Benin Kingdom", "C. The Hausa states", "D. The Igala Kingdom"],
+    "answer": "C",
+    "topic": "Hausa States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "The Queen of Sheba legend is sometimes linked to the origins of?",
+    "options": ["A. The Kanem‑Borno dynasty", "B. The Ethiopian Solomonic line, not Nigerian", "C. The Igbo lineage", "D. The Yoruba chieftaincy"],
+    "answer": "B",
+    "topic": "General History",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "The first European to reach the interior of Hausaland was?",
+    "options": ["A. Hugh Clapperton", "B. Mungo Park", "C. Heinrich Barth", "D. Richard Lander"],
+    "answer": "C",
+    "topic": "European Exploration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "The Treaty of Cession of Lagos was signed between the British and Oba Dosunmu in?",
+    "options": ["A. 1851", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "B",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "The Northern Protectorate was proclaimed in?",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1920"],
+    "answer": "A",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "The Southern Protectorate was proclaimed in?",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1918"],
+    "answer": "A",
+    "topic": "British Colonization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "The protectorates of Northern and Southern Nigeria were merged in?",
+    "options": ["A. 1906", "B. 1912", "C. 1914", "D. 1922"],
+    "answer": "C",
+    "topic": "Amalgamation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "The name 'Nigeria' was suggested by?",
+    "options": ["A. Flora Shaw", "B. Lord Lugard", "C. George Goldie", "D. Mary Kingsley"],
+    "answer": "A",
+    "topic": "Origin of Name",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "The Clifford Constitution of 1922 provided for?",
+    "options": ["A. Three regional governments", "B. A legislative council with four elected African members", "C. Full internal self‑government", "D. Independence"],
+    "answer": "B",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "The Arthur Richards Constitution (1946) created a?",
+    "options": ["A. Unitary legislature", "B. Federal system with three regions", "C. Bicameral central legislature", "D. Military council"],
+    "answer": "C",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "The Macpherson Constitution introduced?",
+    "options": ["A. Regional houses of assembly", "B. The office of Prime Minister", "C. The abolition of the monarchy", "D. Universal adult suffrage"],
+    "answer": "A",
+    "topic": "Constitutional Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "The first federal election in Nigeria was held in?",
+    "options": ["A. 1951", "B. 1954", "C. 1957", "D. 1959"],
+    "answer": "D",
+    "topic": "Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "The first Prime Minister of Nigeria was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Abubakar Tafawa Balewa", "C. Obafemi Awolowo", "D. Ahmadu Bello"],
+    "answer": "B",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "The Governor‑General of Nigeria at independence was?",
+    "options": ["A. James Robertson", "B. Nnamdi Azikiwe", "C. Abubakar Tafawa Balewa", "D. John Macpherson"],
+    "answer": "B",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Nigeria became a republic within the Commonwealth on?",
+    "options": ["A. October 1, 1960", "B. October 1, 1963", "C. May 29, 1999", "D. January 15, 1966"],
+    "answer": "B",
+    "topic": "Republic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "The first military Head of State of Nigeria was?",
+    "options": ["A. Yakubu Gowon", "B. Johnson Aguiyi‑Ironsi", "C. Murtala Mohammed", "D. Olusegun Obasanjo"],
+    "answer": "B",
+    "topic": "Military Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "The counter‑coup of July 1966 brought to power?",
+    "options": ["A. Johnson Aguiyi‑Ironsi", "B. Yakubu Gowon", "C. Murtala Mohammed", "D. Olusegun Obasanjo"],
+    "answer": "B",
+    "topic": "Military Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "The second military coup that overthrew Gowon occurred in?",
+    "options": ["A. 1975", "B. 1976", "C. 1979", "D. 1983"],
+    "answer": "A",
+    "topic": "Military Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "The 1979 Constitution of Nigeria was modeled after the?",
+    "options": ["A. British Westminster system", "B. American presidential system", "C. French semi‑presidential system", "D. Soviet communist system"],
+    "answer": "B",
+    "topic": "Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "The Second Republic of Nigeria was between?",
+    "options": ["A. 1960‑1966", "B. 1979‑1983", "C. 1993‑1998", "D. 1999‑2007"],
+    "answer": "B",
+    "topic": "Republics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "The Third Republic was cut short by the annulment of the June 12, 1993 election won by?",
+    "options": ["A. Moshood Abiola", "B. Olusegun Obasanjo", "C. Bashir Tofa", "D. Muhammadu Buhari"],
+    "answer": "A",
+    "topic": "Third Republic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "The Fourth Republic began on?",
+    "options": ["A. May 29, 1999", "B. October 1, 1999", "C. May 29, 2000", "D. January 1, 2000"],
+    "answer": "A",
+    "topic": "Fourth Republic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "The first Executive President of Nigeria was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Shehu Shagari", "C. Olusegun Obasanjo", "D. Goodluck Jonathan"],
+    "answer": "B",
+    "topic": "Presidency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "The Ogboni society played a political role in the?",
+    "options": ["A. Benin Empire", "B. Oyo Empire", "C. Igbo political system", "D. Hausa states"],
+    "answer": "B",
+    "topic": "Oyo Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "The title 'Alafin' refers to the king of?",
+    "options": ["A. Benin", "B. Ife", "C. Oyo", "D. Ijebu"],
+    "answer": "C",
+    "topic": "Oyo Empire",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "The title 'Oba' is commonly used by kings of?",
+    "options": ["A. Hausa states", "B. Edo and Yoruba kingdoms", "C. Igbo communities", "D. Ijaw city‑states"],
+    "answer": "B",
+    "topic": "Kingship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "The Eze or Igwe is a traditional ruler among the?",
+    "options": ["A. Yoruba", "B. Igbo", "C. Hausa", "D. Fulani"],
+    "answer": "B",
+    "topic": "Igbo Leadership",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "The Emir is the traditional title of a ruler in?",
+    "options": ["A. Yoruba land", "B. Hausa/Fulani emirates", "C. Benin kingdom", "D. Niger Delta"],
+    "answer": "B",
+    "topic": "Hausa States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "The Attah of Igala is the traditional ruler of the?",
+    "options": ["A. Idoma people", "B. Igala people", "C. Ebira people", "D. Tiv people"],
+    "answer": "B",
+    "topic": "Igala Kingdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "The Obi of Onitsha is a prominent traditional ruler among the?",
+    "options": ["A. Igbo", "B. Ijaw", "C. Efik", "D. Ibibio"],
+    "answer": "A",
+    "topic": "Igbo Leadership",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "The Tor Tiv is the supreme traditional ruler of the?",
+    "options": ["A. Idoma", "B. Tiv", "C. Ebira", "D. Igala"],
+    "answer": "B",
+    "topic": "Tiv",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "The Orodje of Warri is a traditional title among the?",
+    "options": ["A. Urhobo", "B. Itsekiri", "C. Ijaw", "D. Isoko"],
+    "answer": "B",
+    "topic": "Itsekiri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "The Amanyanabo is a title used by traditional rulers in?",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Niger Delta city‑states", "D. Hausa states"],
+    "answer": "C",
+    "topic": "Niger Delta States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The King Jaja of Opobo was a famous 19th century?",
+    "options": ["A. Slave trader turned legitimate merchant", "B. British colonial officer", "C. Yoruba warrior", "D. Hausa scholar"],
+    "answer": "A",
+    "topic": "Niger Delta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Nana Olomu was a prominent Itsekiri chief involved in?",
+    "options": ["A. The Trans‑Saharan trade", "B. The palm oil trade and British conflicts", "C. The Sokoto jihad", "D. The Ife‑Benin wars"],
+    "answer": "B",
+    "topic": "Niger Delta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "The Benin Expedition of 1897 led to?",
+    "options": ["A. The sack of Benin City and the exile of the Oba", "B. The signing of a trade treaty", "C. The establishment of a British protectorate", "D. The abolition of the Oba title"],
+    "answer": "A",
+    "topic": "Benin",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "The British punitive expedition against Benin was in response to?",
+    "options": ["A. The killing of British officials", "B. Benin's refusal to trade", "C. The Benin slave trade", "D. Benin's alliance with France"],
+    "answer": "A",
+    "topic": "Benin",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "The first capital of the Northern Protectorate was?",
+    "options": ["A. Lokoja", "B. Zungeru", "C. Kaduna", "D. Sokoto"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "The capital of the Southern Protectorate was?",
+    "options": ["A. Lagos", "B. Calabar", "C. Enugu", "D. Port Harcourt"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "The capital of the amalgamated Nigeria was moved to Lagos in?",
+    "options": ["A. 1914", "B. 1918", "C. 1922", "D. 1926"],
+    "answer": "A",
+    "topic": "Amalgamation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "The British policy of indirect rule was most successful in?",
+    "options": ["A. The Igbo area", "B. The Niger Delta", "C. The Hausa‑Fulani emirates", "D. Lagos Colony"],
+    "answer": "C",
+    "topic": "Indirect Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "The warrant chiefs system was an attempt to apply indirect rule in?",
+    "options": ["A. Eastern Nigeria", "B. Western Nigeria", "C. Northern Nigeria", "D. Lagos"],
+    "answer": "A",
+    "topic": "Indirect Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "The Aba Women's Riot of 1929 was a protest against?",
+    "options": ["A. Heavy taxation and warrant chiefs", "B. British education", "C. The palm oil trade", "D. Christian missions"],
+    "answer": "A",
+    "topic": "Nationalism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "The Nigerian flag was designed by?",
+    "options": ["A. Michael Taiwo Akinkunmi", "B. Nnamdi Azikiwe", "C. Tafawa Balewa", "D. Obafemi Awolowo"],
+    "answer": "A",
+    "topic": "Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "The green colour on the Nigerian flag represents?",
+    "options": ["A. Agriculture and forests", "B. Peace", "C. Mineral wealth", "D. Unity"],
+    "answer": "A",
+    "topic": "National Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "The white colour on the Nigerian flag represents?",
+    "options": ["A. Purity and peace", "B. Wealth", "C. Strength", "D. Faith"],
+    "answer": "A",
+    "topic": "National Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The coat of arms of Nigeria features a black shield representing?",
+    "options": ["A. The fertile soil", "B. The mineral wealth", "C. The diverse people", "D. The colonial past"],
+    "answer": "A",
+    "topic": "National Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "The two horses on the Nigerian coat of arms symbolize?",
+    "options": ["A. Dignity and pride", "B. Speed and agility", "C. Trade and commerce", "D. Agriculture"],
+    "answer": "A",
+    "topic": "National Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "The national motto of Nigeria is?",
+    "options": ["A. Unity and Faith, Peace and Progress", "B. Freedom and Justice", "C. One Nation, One Destiny", "D. Service to God and Humanity"],
+    "answer": "A",
+    "topic": "National Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "The Nigerian national anthem was adopted in?",
+    "options": ["A. 1960", "B. 1963", "C. 1978", "D. 1999"],
+    "answer": "C",
+    "topic": "National Anthem",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "The first stanza of the Nigerian national anthem begins with?",
+    "options": ["A. Arise, O compatriots", "B. Nigeria, we hail thee", "C. God bless our nation", "D. Great Nigeria"],
+    "answer": "A",
+    "topic": "National Anthem",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "The Nigerian pledge was introduced in?",
+    "options": ["A. 1976", "B. 1978", "C. 1980", "D. 1990"],
+    "answer": "A",
+    "topic": "National Pledge",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "The Nigerian pledge begins with 'I pledge to Nigeria my country, to be faithful, loyal and?",
+    "options": ["A. honest", "B. hardworking", "C. patriotic", "D. obedient"],
+    "answer": "A",
+    "topic": "National Pledge",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "The National Youth Service Corps (NYSC) was established in?",
+    "options": ["A. 1960", "B. 1973", "C. 1980", "D. 1992"],
+    "answer": "B",
+    "topic": "Post‑Independence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "The aim of the NYSC is to?",
+    "options": ["A. Promote national unity", "B. Provide jobs", "C. Train teachers", "D. Enforce military discipline"],
+    "answer": "A",
+    "topic": "NYSC",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The Economic Community of West African States (ECOWAS) was founded in?",
+    "options": ["A. 1963", "B. 1975", "C. 1985", "D. 1995"],
+    "answer": "B",
+    "topic": "ECOWAS",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "The headquarters of ECOWAS is in?",
+    "options": ["A. Lagos", "B. Abuja", "C. Accra", "D. Lome"],
+    "answer": "B",
+    "topic": "ECOWAS",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "The Organisation of African Unity (OAU) was established in?",
+    "options": ["A. 1960", "B. 1963", "C. 1975", "D. 1980"],
+    "answer": "B",
+    "topic": "OAU",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "The OAU was transformed into the African Union (AU) in?",
+    "options": ["A. 1999", "B. 2002", "C. 2005", "D. 2010"],
+    "answer": "B",
+    "topic": "AU",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "The United Nations (UN) was founded in?",
+    "options": ["A. 1919", "B. 1945", "C. 1950", "D. 1960"],
+    "answer": "B",
+    "topic": "UN",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Nigeria became a member of the United Nations in?",
+    "options": ["A. 1960", "B. 1961", "C. 1963", "D. 1964"],
+    "answer": "A",
+    "topic": "UN",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "The Commonwealth of Nations consists mainly of?",
+    "options": ["A. Former British colonies", "B. African countries", "C. European nations", "D. Asian nations"],
+    "answer": "A",
+    "topic": "Commonwealth",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Nigeria hosted the Festival of Arts and Culture (FESTAC) in?",
+    "options": ["A. 1975", "B. 1977", "C. 1980", "D. 1985"],
+    "answer": "B",
+    "topic": "Festac",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "The first African to win a Nobel Prize in Literature was?",
+    "options": ["A. Chinua Achebe", "B. Wole Soyinka", "C. Ngugi wa Thiong'o", "D. Leopold Senghor"],
+    "answer": "B",
+    "topic": "Nobel Prize",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "Wole Soyinka won the Nobel Prize in Literature in?",
+    "options": ["A. 1975", "B. 1986", "C. 1990", "D. 1995"],
+    "answer": "B",
+    "topic": "Nobel Prize",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "The 'June 12' crisis refers to the annulment of the presidential election held in?",
+    "options": ["A. 1991", "B. 1992", "C. 1993", "D. 1994"],
+    "answer": "C",
+    "topic": "June 12",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "General Sani Abacha became Head of State after overthrowing the Interim National Government in?",
+    "options": ["A. 1993", "B. 1994", "C. 1995", "D. 1996"],
+    "answer": "A",
+    "topic": "Abacha Regime",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "The transition to civilian rule in 1999 was led by General?",
+    "options": ["A. Ibrahim Babangida", "B. Sani Abacha", "C. Abdulsalami Abubakar", "D. Olusegun Obasanjo"],
+    "answer": "C",
+    "topic": "Transition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "The National Democratic Coalition (NADECO) was a pro‑democracy group formed to oppose?",
+    "options": ["A. The Abacha military regime", "B. The First Republic", "C. The Second Republic", "D. The Fourth Republic"],
+    "answer": "A",
+    "topic": "Pro‑democracy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "The Movement for the Survival of the Ogoni People (MOSOP) was led by?",
+    "options": ["A. Ken Saro‑Wiwa", "B. Oronto Douglas", "C. Asari Dokubo", "D. Goodluck Jonathan"],
+    "answer": "A",
+    "topic": "Niger Delta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Ken Saro‑Wiwa was executed in?",
+    "options": ["A. 1994", "B. 1995", "C. 1996", "D. 1997"],
+    "answer": "B",
+    "topic": "Ogoni Crisis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "The Niger Delta conflict is mainly about?",
+    "options": ["A. Oil resources and environmental degradation", "B. Land ownership", "C. Religious differences", "D. Fishing rights"],
+    "answer": "A",
+    "topic": "Niger Delta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "The Boko Haram insurgency began in?",
+    "options": ["A. 2002", "B. 2009", "C. 2011", "D. 2014"],
+    "answer": "B",
+    "topic": "Boko Haram",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "The Chibok girls were abducted in?",
+    "options": ["A. 2010", "B. 2012", "C. 2014", "D. 2016"],
+    "answer": "C",
+    "topic": "Chibok",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "The first democratic election after military rule in 1999 was won by?",
+    "options": ["A. Olusegun Obasanjo", "B. Muhammadu Buhari", "C. Atiku Abubakar", "D. Goodluck Jonathan"],
+    "answer": "A",
+    "topic": "Fourth Republic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Goodluck Jonathan became President after the death of?",
+    "options": ["A. Umaru Yar'Adua", "B. Shehu Yar'Adua", "C. Olusegun Obasanjo", "D. Ernest Shonekan"],
+    "answer": "A",
+    "topic": "Presidency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "The 2015 general election was notable for?",
+    "options": ["A. The first defeat of an incumbent president", "B. The cancellation of results", "C. Military takeover", "D. A one‑party state"],
+    "answer": "A",
+    "topic": "Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Muhammadu Buhari defeated Goodluck Jonathan in the presidential election of?",
+    "options": ["A. 2011", "B. 2015", "C. 2019", "D. 2023"],
+    "answer": "B",
+    "topic": "Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "The All Progressives Congress (APC) was formed in?",
+    "options": ["A. 2012", "B. 2013", "C. 2014", "D. 2015"],
+    "answer": "B",
+    "topic": "Political Parties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "The People's Democratic Party (PDP) was founded in?",
+    "options": ["A. 1998", "B. 1999", "C. 2000", "D. 2001"],
+    "answer": "A",
+    "topic": "Political Parties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "The 1999 Constitution of Nigeria provides for a?",
+    "options": ["A. Parliamentary system", "B. Presidential system", "C. Constitutional monarchy", "D. Military junta"],
+    "answer": "B",
+    "topic": "Constitution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "The Nigerian legislature is called the?",
+    "options": ["A. National Assembly", "B. Parliament", "C. Congress", "D. Federal Council"],
+    "answer": "A",
+    "topic": "Legislature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "The National Assembly consists of the Senate and the?",
+    "options": ["A. House of Representatives", "B. House of Chiefs", "C. House of Assembly", "D. Federal Executive Council"],
+    "answer": "A",
+    "topic": "Legislature",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The highest court in Nigeria is the?",
+    "options": ["A. Court of Appeal", "B. Supreme Court", "C. Federal High Court", "D. Sharia Court of Appeal"],
+    "answer": "B",
+    "topic": "Judiciary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The local government system in Nigeria is designed to bring governance closer to the?",
+    "options": ["A. People", "B. Federal government", "C. State government", "D. Traditional rulers"],
+    "answer": "A",
+    "topic": "Local Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "The 36 states of Nigeria plus the Federal Capital Territory (Abuja) were created by?",
+    "options": ["A. Military decrees", "B. Acts of the National Assembly", "C. Presidential proclamation", "D. Colonial charter"],
+    "answer": "A",
+    "topic": "State Creation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "The first set of 12 states was created in Nigeria in?",
+    "options": ["A. 1963", "B. 1967", "C. 1976", "D. 1987"],
+    "answer": "B",
+    "topic": "State Creation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "The Federal Capital Territory was moved from Lagos to Abuja in?",
+    "options": ["A. 1976", "B. 1982", "C. 1991", "D. 1999"],
+    "answer": "C",
+    "topic": "Abuja",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "The idea of moving the capital to Abuja was proposed by the administration of?",
+    "options": ["A. Murtala Mohammed", "B. Olusegun Obasanjo", "C. Shehu Shagari", "D. Ibrahim Babangida"],
+    "answer": "A",
+    "topic": "Abuja",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "The Nigerian Civil War was also known as the?",
+    "options": ["A. Biafran War", "B. Niger Delta War", "C. Ogoni War", "D. Hausa‑Fulani War"],
+    "answer": "A",
+    "topic": "Civil War",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "The leader of the Biafran secessionist state was?",
+    "options": ["A. Odumegwu Ojukwu", "B. Philip Effiong", "C. Anthony Enahoro", "D. Michael Okpara"],
+    "answer": "A",
+    "topic": "Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "The Nigerian side during the Civil War was led by?",
+    "options": ["A. Yakubu Gowon", "B. Olusegun Obasanjo", "C. Murtala Mohammed", "D. Johnson Aguiyi‑Ironsi"],
+    "answer": "A",
+    "topic": "Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "The Civil War ended with the surrender of Biafran forces in?",
+    "options": ["A. 1968", "B. 1969", "C. 1970", "D. 1971"],
+    "answer": "C",
+    "topic": "Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "The principle of 'reconciliation, reconstruction and rehabilitation' was adopted after the?",
+    "options": ["A. First Republic", "B. Civil War", "C. June 12 crisis", "D. Boko Haram insurgency"],
+    "answer": "B",
+    "topic": "Post‑Civil War",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "The Indigeneship versus settler conflicts have been common in?",
+    "options": ["A. Northern and Middle Belt states", "B. Only Lagos", "C. Only the Niger Delta", "D. Only the South‑East"],
+    "answer": "A",
+    "topic": "Ethnic Conflicts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "The Zangon Kataf crisis of 1992 was a conflict between?",
+    "options": ["A. Hausa and Atyap", "B. Igbo and Yoruba", "C. Tiv and Jukun", "D. Fulani and Gwari"],
+    "answer": "A",
+    "topic": "Ethnic Conflicts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "The Ife‑Modakeke crisis occurred in present‑day?",
+    "options": ["A. Osun State", "B. Oyo State", "C. Ondo State", "D. Ekiti State"],
+    "answer": "A",
+    "topic": "Ethnic Conflicts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "The Tiv‑Jukun conflict is centred in?",
+    "options": ["A. Taraba State", "B. Benue State", "C. Nasarawa State", "D. Plateau State"],
+    "answer": "B",
+    "topic": "Ethnic Conflicts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "The concept of 'Manifest Destiny' in Nigerian history is associated with?",
+    "options": ["A. The Hausa‑Fulani jihad", "B. The Yoruba wars", "C. The Igbo migration", "D. The British conquest"],
+    "answer": "A",
+    "topic": "Jihad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "Usman dan Fodio led the Sokoto jihad in?",
+    "options": ["A. 1750", "B. 1804", "C. 1850", "D. 1900"],
+    "answer": "B",
+    "topic": "Sokoto Jihad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "The Fulani jihad resulted in the establishment of the?",
+    "options": ["A. Sokoto Caliphate", "B. Borno Empire", "C. Oyo Empire", "D. Nupe Kingdom"],
+    "answer": "A",
+    "topic": "Sokoto Caliphate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "The capital of the Sokoto Caliphate was?",
+    "options": ["A. Kano", "B. Sokoto", "C. Katsina", "D. Zaria"],
+    "answer": "B",
+    "topic": "Sokoto Caliphate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "The Yoruba wars of the 19th century were partly caused by the collapse of the?",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Ife Kingdom", "D. Ijebu Kingdom"],
+    "answer": "A",
+    "topic": "Yoruba Wars",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "The Kiriji War was a major conflict among?",
+    "options": ["A. Yoruba factions", "B. Igbo groups", "C. Hausa city‑states", "D. Niger Delta city‑states"],
+    "answer": "A",
+    "topic": "Yoruba Wars",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "The Egba people had a treaty with the British in 1893 that led to the establishment of?",
+    "options": ["A. Abeokuta as a British protectorate", "B. Lagos Colony", "C. The Niger Coast Protectorate", "D. The Royal Niger Company"],
+    "answer": "A",
+    "topic": "Colonial Treaties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "The Ijebu people resisted British invasion in 1892 and were defeated at?",
+    "options": ["A. Ota", "B. Ijebu Ode", "C. Sagamu", "D. Epe"],
+    "answer": "B",
+    "topic": "British Conquest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "The Aro Confederacy was a powerful trading network in the?",
+    "options": ["A. Cross River region", "B. Niger Delta", "C. Benin area", "D. Northern Nigeria"],
+    "answer": "A",
+    "topic": "Aro Confederacy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "The British launched the Aro Expedition in?",
+    "options": ["A. 1899", "B. 1901", "C. 1902", "D. 1905"],
+    "answer": "B",
+    "topic": "Aro Expedition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "The Aro Expedition led to the destruction of the?",
+    "options": ["A. Arochukwu oracle", "B. Benin palace", "C. Oyo council", "D. Kano wall"],
+    "answer": "A",
+    "topic": "Aro Expedition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "The Lokoja area was an important centre for?",
+    "options": ["A. The early British administration and trade", "B. The slave trade", "C. The gold mining industry", "D. The rubber plantations"],
+    "answer": "A",
+    "topic": "Lokoja",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "The British consulate was established in Calabar in?",
+    "options": ["A. 1849", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "A",
+    "topic": "Consulate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "The Oil Rivers Protectorate was established in?",
+    "options": ["A. 1861", "B. 1885", "C. 1893", "D. 1900"],
+    "answer": "C",
+    "topic": "Oil Rivers Protectorate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "The Oil Rivers Protectorate later became the?",
+    "options": ["A. Niger Coast Protectorate", "B. Lagos Colony", "C. Northern Protectorate", "D. Royal Niger Company"],
+    "answer": "A",
+    "topic": "Niger Coast Protectorate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "The Royal Niger Company's territory became the?",
+    "options": ["A. Northern and Southern Protectorates", "B. Lagos Colony", "C. Oil Rivers Protectorate", "D. Colony of Nigeria"],
+    "answer": "A",
+    "topic": "Royal Niger Company",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The British used 'gunboat diplomacy' to?",
+    "options": ["A. Force treaties and trade agreements", "B. Promote cultural exchange", "C. Provide humanitarian aid", "D. Build schools"],
+    "answer": "A",
+    "topic": "Colonial Methods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "The Treaty of Protection with the Fante and other states was an example of?",
+    "options": ["A. British colonial strategy in West Africa", "B. French assimilation", "C. German colonial policy", "D. Portuguese trade agreement"],
+    "answer": "A",
+    "topic": "Treaties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "The abolition of the slave trade in Britain was influenced by the?",
+    "options": ["A. Industrial Revolution", "B. American Revolution", "C. French Revolution", "D. Haitian Revolution"],
+    "answer": "A",
+    "topic": "Abolition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "William Wilberforce was a key figure in the?",
+    "options": ["A. Abolition of the slave trade in Britain", "B. Colonisation of Nigeria", "C. Exploration of the Niger", "D. Establishment of missionary schools"],
+    "answer": "A",
+    "topic": "Abolition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "The first Christian mission in Nigeria was established at?",
+    "options": ["A. Badagry", "B. Calabar", "C. Lagos", "D. Abeokuta"],
+    "answer": "A",
+    "topic": "Missions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "The CMS (Church Missionary Society) was prominent in?",
+    "options": ["A. Yorubaland", "B. Hausaland", "C. Igboland", "D. Niger Delta"],
+    "answer": "A",
+    "topic": "Missions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "Samuel Ajayi Crowther was the first African?",
+    "options": ["A. Bishop of the Anglican Church", "B. Governor of Lagos", "C. Chief Justice of Nigeria", "D. President of the OAU"],
+    "answer": "A",
+    "topic": "Missionaries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "The Roman Catholic mission established a presence in Nigeria from the?",
+    "options": ["A. 16th century (Portuguese influence)", "B. 18th century", "C. 19th century", "D. 20th century"],
+    "answer": "A",
+    "topic": "Missions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "The establishment of missionary schools led to?",
+    "options": ["A. The growth of Western education and nationalism", "B. The decline of traditional religions only", "C. Immediate independence", "D. Mass conversion to Islam"],
+    "answer": "A",
+    "topic": "Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "The first newspaper in Nigeria, 'Iwe Irohin', was published by?",
+    "options": ["A. Henry Townsend", "B. Herbert Macaulay", "C. Nnamdi Azikiwe", "D. Obafemi Awolowo"],
+    "answer": "A",
+    "topic": "Press",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "'Iwe Irohin' was published in 1859 in?",
+    "options": ["A. Lagos", "B. Abeokuta", "C. Calabar", "D. Badagry"],
+    "answer": "B",
+    "topic": "Press",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "The Nigerian railway system was constructed primarily to?",
+    "options": ["A. Facilitate the export of cash crops and minerals", "B. Provide passenger travel only", "C. Connect all villages", "D. Transport slaves"],
+    "answer": "A",
+    "topic": "Infrastructure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "The railway line from Lagos to Kano was completed in?",
+    "options": ["A. 1901", "B. 1912", "C. 1926", "D. 1930"],
+    "answer": "B",
+    "topic": "Infrastructure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "The port of Lagos was developed by the British to?",
+    "options": ["A. Facilitate colonial trade and administration", "B. Compete with Calabar", "C. Serve only military purposes", "D. Export slaves"],
+    "answer": "A",
+    "topic": "Infrastructure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "The tin mining industry in Nigeria was centred around?",
+    "options": ["A. Jos Plateau", "B. Enugu", "C. Benin", "D. Ibadan"],
+    "answer": "A",
+    "topic": "Mining",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "The coal mining industry was located in?",
+    "options": ["A. Enugu", "B. Ogbomosho", "C. Kano", "D. Port Harcourt"],
+    "answer": "A",
+    "topic": "Mining",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "The groundnut pyramid was a famous feature of the marketing of groundnuts in?",
+    "options": ["A. Kano", "B. Ibadan", "C. Enugu", "D. Lagos"],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "The cocoa industry was dominant in which region of Nigeria?",
+    "options": ["A. Western Region", "B. Eastern Region", "C. Northern Region", "D. Mid‑Western Region"],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "The palm oil trade was concentrated in the?",
+    "options": ["A. Eastern and Niger Delta regions", "B. Northern region", "C. Western region", "D. Lagos area"],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "The British colonial economy was structured to?",
+    "options": ["A. Serve British industrial needs", "B. Develop Nigerian industries", "C. Promote fair trade", "D. Equalise wealth"],
+    "answer": "A",
+    "topic": "Colonial Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "The policy of 'Cash Crops for Export' led to?",
+    "options": ["A. Neglect of food crop production", "B. Increased food security", "C. Industrial revolution", "D. Reduced taxation"],
+    "answer": "A",
+    "topic": "Colonial Economy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "The Native Authority system was a key part of?",
+    "options": ["A. Indirect rule", "B. Direct rule", "C. The slave trade", "D. The court system"],
+    "answer": "A",
+    "topic": "Indirect Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Native Authority courts were used to?",
+    "options": ["A. Enforce colonial laws through traditional chiefs", "B. Try British officials", "C. Handle international disputes", "D. Settle inter‑colonial conflicts"],
+    "answer": "A",
+    "topic": "Indirect Rule",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "The colonial legal system in Nigeria was based on?",
+    "options": ["A. English common law and native law", "B. Islamic law only", "C. Roman law", "D. French civil law"],
+    "answer": "A",
+    "topic": "Legal System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "The West African Court of Appeal (WACA) was established by the British for?",
+    "options": ["A. The British colonies in West Africa", "B. Independent African states", "C. Only Nigeria", "D. French colonies"],
+    "answer": "A",
+    "topic": "Legal System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "The British colonial currency introduced in Nigeria was the?",
+    "options": ["A. British West African pound", "B. Naira", "C. Dollar", "D. Shilling"],
+    "answer": "A",
+    "topic": "Currency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "The West African Currency Board was responsible for issuing currency in?",
+    "options": ["A. British West African colonies", "B. French West Africa", "C. Portuguese colonies", "D. Belgian colonies"],
+    "answer": "A",
+    "topic": "Currency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "The Nigerian currency was changed to the Naira and Kobo in?",
+    "options": ["A. 1960", "B. 1963", "C. 1973", "D. 1980"],
+    "answer": "C",
+    "topic": "Currency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "The first indigenous bank in Nigeria was?",
+    "options": ["A. National Bank of Nigeria", "B. Union Bank", "C. First Bank", "D. United Bank for Africa"],
+    "answer": "A",
+    "topic": "Banking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "The Nigerian Stock Exchange was established in?",
+    "options": ["A. 1960", "B. 1961", "C. 1962", "D. 1963"],
+    "answer": "B",
+    "topic": "Finance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "The Central Bank of Nigeria was established in?",
+    "options": ["A. 1958", "B. 1959", "C. 1960", "D. 1962"],
+    "answer": "B",
+    "topic": "Central Bank",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "The first university in Nigeria was the?",
+    "options": ["A. University of Ibadan", "B. University of Nigeria, Nsukka", "C. Ahmadu Bello University", "D. Obafemi Awolowo University"],
+    "answer": "A",
+    "topic": "Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "The University of Ibadan was established as a college of the University of London in?",
+    "options": ["A. 1948", "B. 1952", "C. 1960", "D. 1962"],
+    "answer": "A",
+    "topic": "Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "The first Nigerian to earn a PhD was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Kenneth Dike", "C. Obaro Ikime", "D. Saburi Biobaku"],
+    "answer": "B",
+    "topic": "Education",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "The National Archives of Nigeria was established in?",
+    "options": ["A. 1954", "B. 1960", "C. 1962", "D. 1970"],
+    "answer": "A",
+    "topic": "Archives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "The National Museum in Lagos was established in?",
+    "options": ["A. 1957", "B. 1960", "C. 1965", "D. 1970"],
+    "answer": "A",
+    "topic": "Museums",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "The Benin Bronzes were looted by the British in 1897 and are now mostly in?",
+    "options": ["A. European museums", "B. Nigerian museums", "C. American museums", "D. Private collections in Africa"],
+    "answer": "A",
+    "topic": "Benin Bronzes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "The Nok, Ife, Benin, and Igbo‑Ukwu cultures are all examples of?",
+    "options": ["A. Ancient Nigerian civilizations", "B. Modern Nigerian art movements", "C. Colonial architectural styles", "D. British colonial forts"],
+    "answer": "A",
+    "topic": "Ancient Civilizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "The common feature of the Nok, Ife, and Benin cultures was their advanced?",
+    "options": ["A. Art and metalworking", "B. Writing systems", "C. Maritime technology", "D. Agricultural irrigation"],
+    "answer": "A",
+    "topic": "Art and Culture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "The concept of 'African Traditional Religion' before colonialism included?",
+    "options": ["A. Belief in a supreme God and ancestral spirits", "B. Only ancestor worship", "C. Atheism", "D. Monotheism only"],
+    "answer": "A",
+    "topic": "Religion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "Islam spread to Nigeria mainly through?",
+    "options": ["A. Trans‑Saharan trade and the Fulani jihad", "B. European missionaries", "C. Egyptian conquest", "D. Moroccan invasion"],
+    "answer": "A",
+    "topic": "Islam",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "Christianity spread rapidly in southern Nigeria during the 19th century because of?",
+    "options": ["A. Missionary activities and the abolition of slave trade", "B. Colonial military force", "C. Islamic influence", "D. Economic treaties"],
+    "answer": "A",
+    "topic": "Christianity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "The 1959 election was significant because it?",
+    "options": ["A. Led to the independence constitution", "B. Introduced military rule", "C. Created the republic", "D. United all political parties"],
+    "answer": "A",
+    "topic": "Elections",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The constitutional conference held in London in 1957 and 1958 paved the way for?",
+    "options": ["A. Nigeria's independence", "B. The amalgamation", "C. The creation of regions", "D. The adoption of a new flag"],
+    "answer": "A",
+    "topic": "Constitutional Conferences",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "The first indigenous Governor‑General of Nigeria was?",
+    "options": ["A. Nnamdi Azikiwe", "B. Abubakar Tafawa Balewa", "C. James Robertson", "D. John Macpherson"],
+    "answer": "A",
+    "topic": "Governor‑General",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "The first Nigerian to become the Secretary‑General of the Commonwealth was?",
+    "options": ["A. Emeka Anyaoku", "B. Nnamdi Azikiwe", "C. Ibrahim Gambari", "D. Kofi Annan"],
+    "answer": "A",
+    "topic": "Commonwealth",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "The Nigerian currency, the Naira, replaced the pound in?",
+    "options": ["A. 1972", "B. 1973", "C. 1974", "D. 1975"],
+    "answer": "B",
+    "topic": "Currency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The decimalization of Nigerian currency was introduced in?",
+    "options": ["A. 1970", "B. 1971", "C. 1972", "D. 1973"],
+    "answer": "D",
+    "topic": "Currency",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "The Petroleum Industry in Nigeria became dominant after the?",
+    "options": ["A. 1970s oil boom", "B. 1960 independence", "C. 1956 first oil discovery", "D. 1990s deregulation"],
+    "answer": "A",
+    "topic": "Oil Industry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "The first commercial oil discovery in Nigeria was at?",
+    "options": ["A. Oloibiri (Bayelsa State)", "B. Port Harcourt", "C. Warri", "D. Ughelli"],
+    "answer": "A",
+    "topic": "Oil",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "The year of the first oil discovery in Nigeria was?",
+    "options": ["A. 1951", "B. 1956", "C. 1960", "D. 1965"],
+    "answer": "B",
+    "topic": "Oil",
+    "difficulty": "Hard"
+  }
+]

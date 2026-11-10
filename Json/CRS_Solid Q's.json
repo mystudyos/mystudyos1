@@ -1,0 +1,3702 @@
+[
+  {
+    "id": 1,
+    "question": "According to Genesis 1, what did God create on the fourth day?",
+    "options": ["A. Sun and moon", "B. Fish and birds", "C. Land and plants", "D. Man and woman"],
+    "answer": "A",
+    "topic": "God's Creation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Which attribute of God means He is all-knowing?",
+    "options": ["A. Omnipresent", "B. Omnipotent", "C. Omniscient", "D. Sovereign"],
+    "answer": "C",
+    "topic": "Who is God?",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "In Genesis 2, God created man from the dust of the ground and breathed into his nostrils the breath of?",
+    "options": ["A. Wind", "B. Life", "C. Fire", "D. Spirit"],
+    "answer": "B",
+    "topic": "God's Creation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The first marriage in the Bible took place between Adam and?",
+    "options": ["A. Sarah", "B. Rebekah", "C. Eve", "D. Rachel"],
+    "answer": "C",
+    "topic": "Human beings share in God's creative activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "According to Ephesians 5, the husband is the head of the wife just as Christ is the head of the?",
+    "options": ["A. Family", "B. Church", "C. World", "D. Angels"],
+    "answer": "B",
+    "topic": "Relationship in the Family",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "The main purpose of marriage according to Genesis 1:28 includes procreation and?",
+    "options": ["A. Wealth", "B. Companionship", "C. Travel", "D. Education"],
+    "answer": "B",
+    "topic": "God's creative activities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an invention by man mentioned in the syllabus?",
+    "options": ["A. Sun", "B. Moon", "C. Aeroplane", "D. Stars"],
+    "answer": "C",
+    "topic": "Sharing God's creative activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "The serpent deceived Eve by questioning God's command concerning which tree?",
+    "options": ["A. Tree of life", "B. Tree of knowledge", "C. Tree of wisdom", "D. Tree of beauty"],
+    "answer": "B",
+    "topic": "Disobedience",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "After Adam and Eve disobeyed, God cursed the serpent to crawl on its?",
+    "options": ["A. Tail", "B. Belly", "C. Side", "D. Head"],
+    "answer": "B",
+    "topic": "Consequences of disobedience",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "One consequence of disobedience mentioned in Genesis 3 is that man would now eat bread by the sweat of his?",
+    "options": ["A. Hands", "B. Face", "C. Brow", "D. Neck"],
+    "answer": "B",
+    "topic": "Consequences of disobedience",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "A nuclear family consists of father, mother and?",
+    "options": ["A. Grandparents", "B. Uncles", "C. Children", "D. Cousins"],
+    "answer": "C",
+    "topic": "Types of Family",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "According to Colossians 3, children are to obey their parents in all things for this pleases the?",
+    "options": ["A. Teacher", "B. Elder", "C. Lord", "D. Pastor"],
+    "answer": "C",
+    "topic": "Relationship in the Family",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Proverbs 22:1 says a good name is rather to be chosen than great?",
+    "options": ["A. Wealth", "B. Power", "C. Fame", "D. Strength"],
+    "answer": "A",
+    "topic": "Concept of good family name",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "The friendship between David and Jonathan is found in which book?",
+    "options": ["A. 1 Kings", "B. 2 Kings", "C. 1 Samuel", "D. 2 Samuel"],
+    "answer": "C",
+    "topic": "Examples of good friends",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Proverbs 1:10 warns against being enticed by?",
+    "options": ["A. Rich food", "B. Sinners", "C. Hard work", "D. Wise men"],
+    "answer": "B",
+    "topic": "Effects of bad friendship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "According to Galatians 6:2, believers should bear one another's?",
+    "options": ["A. Gifts", "B. Burdens", "C. Sins", "D. Joys"],
+    "answer": "B",
+    "topic": "Relationship in the community",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "In Romans 13, Christians are instructed to be subject to governing?",
+    "options": ["A. Authorities", "B. Enemies", "C. Angels", "D. Prophets"],
+    "answer": "A",
+    "topic": "Relationship in the community",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "The Bible says in Hebrews 10:25 that believers should not forsake the assembling of themselves together as is the habit of?",
+    "options": ["A. Some", "B. Many", "C. Few", "D. All"],
+    "answer": "A",
+    "topic": "Relationship in the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "According to Acts 16:25, Paul and Silas prayed and sang praises to God while in?",
+    "options": ["A. Prison", "B. Temple", "C. Synagogue", "D. Desert"],
+    "answer": "A",
+    "topic": "Relationship with God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "One way God speaks to us today is through the reading of the?",
+    "options": ["A. Newspaper", "B. Bible", "C. History book", "D. Novel"],
+    "answer": "B",
+    "topic": "Ways God talks to us",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Maintaining a good relationship with God includes living a?",
+    "options": ["A. Wealthy life", "B. Holy life", "C. Famous life", "D. Powerful life"],
+    "answer": "B",
+    "topic": "Maintaining good relationship with God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Abraham obeyed God's call to leave his country and go to a land that God would?",
+    "options": ["A. Buy", "B. Show him", "C. Give him", "D. Sell him"],
+    "answer": "B",
+    "topic": "Abraham obeys God's call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "The blessing God promised Abraham in Genesis 12 was that he would become a great?",
+    "options": ["A. King", "B. Prophet", "C. Nation", "D. Warrior"],
+    "answer": "C",
+    "topic": "Blessings from obeying God's call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "God asked Abraham to sacrifice his son Isaac on Mount?",
+    "options": ["A. Sinai", "B. Zion", "C. Moriah", "D. Carmel"],
+    "answer": "C",
+    "topic": "Abraham's obedience",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "The call of Moses to deliver Israel came from a burning?",
+    "options": ["A. Tree", "B. Bush", "C. Mountain", "D. Cloud"],
+    "answer": "B",
+    "topic": "Call of Moses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Deborah and Barak led Israel to freedom from the oppression of King?",
+    "options": ["A. Jabin", "B. Sihon", "C. Og", "D. Balak"],
+    "answer": "A",
+    "topic": "Deborah and Barak",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "The angel announced the birth of Jesus first to?",
+    "options": ["A. Wise men", "B. Shepherds", "C. Priests", "D. Pharisees"],
+    "answer": "B",
+    "topic": "Early life of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "Jesus was presented in the temple as a baby where Simeon and Anna gave?",
+    "options": ["A. Gifts", "B. Money", "C. Thanks", "D. Prophecy"],
+    "answer": "C",
+    "topic": "Presentation in the temple",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "At age twelve, Jesus stayed behind in Jerusalem to discuss with the?",
+    "options": ["A. Romans", "B. Pharisees", "C. Teachers", "D. Sadducees"],
+    "answer": "C",
+    "topic": "Boy Jesus in the temple",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "John the Baptist baptized Jesus in the River?",
+    "options": ["A. Jordan", "B. Nile", "C. Tigris", "D. Euphrates"],
+    "answer": "A",
+    "topic": "Baptism of Jesus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "At Jesus' baptism, the heavens opened and the Spirit descended like a?",
+    "options": ["A. Eagle", "B. Dove", "C. Fire", "D. Cloud"],
+    "answer": "B",
+    "topic": "Baptism of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "The voice from heaven at Jesus' baptism said, \"This is my beloved Son, with whom I am well?\"",
+    "options": ["A. Pleased", "B. Angry", "C. Sad", "D. Happy"],
+    "answer": "A",
+    "topic": "Baptism of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "After His baptism, Jesus was led into the wilderness to be tempted by the?",
+    "options": ["A. Angels", "B. Pharisees", "C. Devil", "D. Romans"],
+    "answer": "C",
+    "topic": "Temptation of Jesus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Jesus fasted for how many days and nights during His temptation?",
+    "options": ["A. 20", "B. 30", "C. 40", "D. 50"],
+    "answer": "C",
+    "topic": "Temptation of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "The first temptation of Jesus was to turn stones into?",
+    "options": ["A. Gold", "B. Bread", "C. Water", "D. Wine"],
+    "answer": "B",
+    "topic": "Temptation of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Jesus answered Satan, \"Man shall not live by bread alone but by every word that proceeds from the mouth of?\"",
+    "options": ["A. Men", "B. Prophets", "C. God", "D. Angels"],
+    "answer": "C",
+    "topic": "Temptation of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "The first four disciples called by Jesus were Peter, Andrew, James and?",
+    "options": ["A. Matthew", "B. Thomas", "C. John", "D. Philip"],
+    "answer": "C",
+    "topic": "Call of the disciples",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "Jesus gave the twelve apostles power to heal the sick and cast out?",
+    "options": ["A. Sins", "B. Devils", "C. Doubts", "D. Fears"],
+    "answer": "B",
+    "topic": "Mission of the disciples",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Jesus sent out the seventy disciples two by two ahead of Him to every?",
+    "options": ["A. Village", "B. Mountain", "C. River", "D. Desert"],
+    "answer": "A",
+    "topic": "Mission of the disciples",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "The Beatitudes are found in the Gospel of Matthew chapter?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "A",
+    "topic": "Sermon on the Mount",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "\"Blessed are the poor in spirit, for theirs is the kingdom of?\"",
+    "options": ["A. Earth", "B. Heaven", "C. God", "D. Glory"],
+    "answer": "B",
+    "topic": "Beatitudes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "Jesus taught that believers are the salt of the earth and the light of the?",
+    "options": ["A. City", "B. World", "C. Home", "D. Church"],
+    "answer": "B",
+    "topic": "Sermon on the Mount",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "According to Matthew 6, when you fast, do not look gloomy like the?",
+    "options": ["A. Pharisees", "B. Hypocrites", "C. Sadducees", "D. Romans"],
+    "answer": "B",
+    "topic": "Fasting and Prayer",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "Jesus said where your treasure is, there your heart will be?",
+    "options": ["A. Also", "B. Always", "C. Only", "D. Never"],
+    "answer": "A",
+    "topic": "Love of money",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "A parable is an earthly story with a heavenly?",
+    "options": ["A. Ending", "B. Beginning", "C. Meaning", "D. Hero"],
+    "answer": "C",
+    "topic": "Meaning of parable",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Jesus taught in parables to fulfill the prophecy that \"I will open my mouth in?\"",
+    "options": ["A. Songs", "B. Parables", "C. Prayers", "D. Anger"],
+    "answer": "B",
+    "topic": "Why Jesus used parables",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "In the parable of the sower, the seed that fell on the path was eaten by?",
+    "options": ["A. Birds", "B. Insects", "C. Animals", "D. Men"],
+    "answer": "A",
+    "topic": "Parable of the sower",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "The seed that fell on good ground produced fruit a hundredfold, sixtyfold or?",
+    "options": ["A. Tenfold", "B. Twentyfold", "C. Thirtyfold", "D. Fortyfold"],
+    "answer": "C",
+    "topic": "Parable of the sower",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "In the parable of the wheat and tares, the enemy who sowed the tares was the?",
+    "options": ["A. Devil", "B. Farmer", "C. Servant", "D. Reaper"],
+    "answer": "A",
+    "topic": "Parable of wheat and tares",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "The prodigal son wasted his inheritance on?",
+    "options": ["A. Business", "B. Wild living", "C. Education", "D. Farming"],
+    "answer": "B",
+    "topic": "Parable of the prodigal son",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "When the prodigal son returned, his father killed the fatted?",
+    "options": ["A. Goat", "B. Sheep", "C. Calf", "D. Lamb"],
+    "answer": "C",
+    "topic": "Parable of the prodigal son",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "The parable of the lost sheep shows that God rejoices over one sinner who?",
+    "options": ["A. Prays", "B. Gives", "C. Repents", "D. Fasts"],
+    "answer": "C",
+    "topic": "Parables of God's love",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "The rich fool in Luke 12 planned to build bigger barns to store his?",
+    "options": ["A. Gold", "B. Grain", "C. Cattle", "D. Wine"],
+    "answer": "B",
+    "topic": "Parable of the rich fool",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "God called the rich fool a fool because that very night his soul would be?",
+    "options": ["A. Rich", "B. Poor", "C. Required", "D. Happy"],
+    "answer": "C",
+    "topic": "Parable of the rich fool",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "In the parable of the ten virgins, five were foolish and five were?",
+    "options": ["A. Wise", "B. Rich", "C. Poor", "D. Lazy"],
+    "answer": "A",
+    "topic": "Parable of ten virgins",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "The foolish virgins took no oil with their?",
+    "options": ["A. Lamps", "B. Bags", "C. Robes", "D. Shoes"],
+    "answer": "A",
+    "topic": "Parable of ten virgins",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The master praised the servant who had gained five talents as good and?",
+    "options": ["A. Rich", "B. Faithful", "C. Wise", "D. Strong"],
+    "answer": "B",
+    "topic": "Parable of the talents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "The servant who buried his one talent was cast into outer?",
+    "options": ["A. Darkness", "B. Light", "C. Fire", "D. Water"],
+    "answer": "A",
+    "topic": "Parable of the talents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "In the parable of the unforgiving servant, the master forgave a debt of ten thousand?",
+    "options": ["A. Dollars", "B. Talents", "C. Coins", "D. Denarii"],
+    "answer": "B",
+    "topic": "Unforgiving steward",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Jesus' first miracle was turning water into wine at a wedding in?",
+    "options": ["A. Nazareth", "B. Bethlehem", "C. Cana", "D. Capernaum"],
+    "answer": "C",
+    "topic": "Miracles of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Jesus calmed the storm by rebuking the wind and saying to the sea, \"Peace, be?\"",
+    "options": ["A. Still", "B. Quiet", "C. Calm", "D. Silent"],
+    "answer": "A",
+    "topic": "Nature miracles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Jesus fed five thousand people with five loaves and two?",
+    "options": ["A. Apples", "B. Fish", "C. Figs", "D. Dates"],
+    "answer": "B",
+    "topic": "Feeding of five thousand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "After feeding the five thousand, the leftover fragments filled how many baskets?",
+    "options": ["A. Seven", "B. Ten", "C. Twelve", "D. Fifteen"],
+    "answer": "C",
+    "topic": "Feeding of five thousand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Jesus walked on the water of the Sea of?",
+    "options": ["A. Galilee", "B. Tiberias", "C. Nazareth", "D. Samaria"],
+    "answer": "A",
+    "topic": "Walking on water",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Peter began to sink when he saw the wind and was?",
+    "options": ["A. Brave", "B. Strong", "C. Afraid", "D. Tired"],
+    "answer": "C",
+    "topic": "Walking on water",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The centurion's servant was healed because of the centurion's great?",
+    "options": ["A. Wealth", "B. Faith", "C. Power", "D. Prayer"],
+    "answer": "B",
+    "topic": "Healing miracles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Jesus healed a paralytic who was let down through the roof by his?",
+    "options": ["A. Friends", "B. Family", "C. Servants", "D. Disciples"],
+    "answer": "A",
+    "topic": "Healing of the paralytic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Jesus first said to the paralytic, \"Your sins are?\"",
+    "options": ["A. Forgiven", "B. Many", "C. Few", "D. Great"],
+    "answer": "A",
+    "topic": "Healing of the paralytic",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "The Gerasene demoniac was possessed by a legion of?",
+    "options": ["A. Angels", "B. Demons", "C. Spirits", "D. Winds"],
+    "answer": "B",
+    "topic": "Healing of demoniac",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "Jesus raised the widow's son at Nain from the?",
+    "options": ["A. Sickbed", "B. Dead", "C. Tomb", "D. Cross"],
+    "answer": "B",
+    "topic": "Power over death",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Lazarus was from the town of Bethany and was the brother of Mary and?",
+    "options": ["A. Martha", "B. Joanna", "C. Salome", "D. Elizabeth"],
+    "answer": "A",
+    "topic": "Raising of Lazarus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "When Jesus arrived, Lazarus had been dead for how many days?",
+    "options": ["A. One", "B. Two", "C. Three", "D. Four"],
+    "answer": "D",
+    "topic": "Raising of Lazarus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Jesus said, \"I am the resurrection and the?\"",
+    "options": ["A. Life", "B. Way", "C. Truth", "D. Light"],
+    "answer": "A",
+    "topic": "Raising of Lazarus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Jesus taught that the greatest commandment is to love God with all your heart, soul, and?",
+    "options": ["A. Strength", "B. Mind", "C. Body", "D. Spirit"],
+    "answer": "B",
+    "topic": "Love as supreme law",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The second greatest commandment is to love your neighbor as?",
+    "options": ["A. Yourself", "B. God", "C. Family", "D. Friends"],
+    "answer": "A",
+    "topic": "Love as supreme law",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Jesus paid temple tax using a coin found in the mouth of a?",
+    "options": ["A. Sheep", "B. Fish", "C. Dove", "D. Camel"],
+    "answer": "B",
+    "topic": "Jesus paid tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "Jesus entered Jerusalem riding on a?",
+    "options": ["A. Horse", "B. Donkey", "C. Camel", "D. Mule"],
+    "answer": "B",
+    "topic": "Triumphant entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The people spread their cloaks and branches on the road shouting \"Hosanna to the Son of?\"",
+    "options": ["A. God", "B. Man", "C. David", "D. Abraham"],
+    "answer": "C",
+    "topic": "Triumphant entry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "At the Last Supper, Jesus took bread, broke it and said \"This is my?\"",
+    "options": ["A. Body", "B. Blood", "C. Spirit", "D. Soul"],
+    "answer": "A",
+    "topic": "Last Supper",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Jesus took the cup and said \"This is my blood of the covenant which is poured out for?\"",
+    "options": ["A. Many", "B. Few", "C. All", "D. Us"],
+    "answer": "A",
+    "topic": "Last Supper",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Judas Iscariot betrayed Jesus with a?",
+    "options": ["A. Sword", "B. Kiss", "C. Handshake", "D. Sign"],
+    "answer": "B",
+    "topic": "Betrayal and arrest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Jesus was arrested in the garden of?",
+    "options": ["A. Eden", "B. Gethsemane", "C. Olives", "D. Golgotha"],
+    "answer": "B",
+    "topic": "Arrest of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Peter denied Jesus three times before the cock?",
+    "options": ["A. Sang", "B. Crowed", "C. Cried", "D. Flew"],
+    "answer": "B",
+    "topic": "Peter's denial",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "Jesus was tried before Pontius Pilate who was the Roman?",
+    "options": ["A. King", "B. Governor", "C. Priest", "D. Soldier"],
+    "answer": "B",
+    "topic": "Trial of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "Pilate released Barabbas instead of Jesus because the crowd?",
+    "options": ["A. Cried out", "B. Was silent", "C. Ran away", "D. Paid money"],
+    "answer": "A",
+    "topic": "Trial of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Jesus was crucified at Golgotha which means the place of the?",
+    "options": ["A. Skull", "B. Cross", "C. Death", "D. Tomb"],
+    "answer": "A",
+    "topic": "Crucifixion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "One of Jesus' words on the cross was \"Father, forgive them for they know not what they?\"",
+    "options": ["A. Do", "B. Say", "C. Think", "D. Want"],
+    "answer": "A",
+    "topic": "Words on the cross",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "At the moment Jesus died, the curtain of the temple was torn in two from top to?",
+    "options": ["A. Bottom", "B. Side", "C. Middle", "D. Corner"],
+    "answer": "A",
+    "topic": "Death of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "The body of Jesus was buried in a new tomb belonging to?",
+    "options": ["A. Nicodemus", "B. Joseph of Arimathea", "C. Simon of Cyrene", "D. Mary Magdalene"],
+    "answer": "B",
+    "topic": "Burial of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "On the third day, the tomb was found empty because Jesus had?",
+    "options": ["A. Escaped", "B. Risen", "C. Hidden", "D. Fainted"],
+    "answer": "B",
+    "topic": "Resurrection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "The first person to see the risen Jesus was?",
+    "options": ["A. Peter", "B. John", "C. Mary Magdalene", "D. James"],
+    "answer": "C",
+    "topic": "Resurrection appearances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "Jesus appeared to two disciples on the road to?",
+    "options": ["A. Jerusalem", "B. Emmaus", "C. Jericho", "D. Galilee"],
+    "answer": "B",
+    "topic": "Resurrection appearances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The Great Commission given by Jesus was to go and make disciples of all?",
+    "options": ["A. Nations", "B. Cities", "C. Churches", "D. Families"],
+    "answer": "A",
+    "topic": "Great Commission",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "Jesus ascended into heaven from the Mount of?",
+    "options": ["A. Zion", "B. Olives", "C. Sinai", "D. Tabor"],
+    "answer": "B",
+    "topic": "Ascension",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Before His ascension, Jesus promised to send the Holy Spirit who is the?",
+    "options": ["A. Comforter", "B. Teacher", "C. Judge", "D. King"],
+    "answer": "A",
+    "topic": "Promise of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "The Holy Spirit came upon the disciples on the day of?",
+    "options": ["A. Passover", "B. Pentecost", "C. Tabernacles", "D. Atonement"],
+    "answer": "B",
+    "topic": "Coming of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "The coming of the Holy Spirit was accompanied by a sound like a mighty rushing?",
+    "options": ["A. Wind", "B. Fire", "C. Water", "D. Thunder"],
+    "answer": "A",
+    "topic": "Coming of the Holy Spirit",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "The disciples began to speak in other tongues as the Spirit gave them?",
+    "options": ["A. Power", "B. Utterance", "C. Wisdom", "D. Knowledge"],
+    "answer": "B",
+    "topic": "Coming of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Peter's first sermon on the day of Pentecost led to about how many being baptized?",
+    "options": ["A. 1000", "B. 2000", "C. 3000", "D. 5000"],
+    "answer": "C",
+    "topic": "Peter's speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "The early church devoted themselves to the apostles' teaching and fellowship, to the breaking of bread and to?",
+    "options": ["A. Singing", "B. Prayer", "C. Fasting", "D. Giving"],
+    "answer": "B",
+    "topic": "Fellowship in the early church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Ananias and Sapphira died because they lied to the Holy Spirit about the sale of their?",
+    "options": ["A. Land", "B. House", "C. Donkey", "D. Boat"],
+    "answer": "A",
+    "topic": "Fellowship in the early church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "The Hellenists murmured against the Hebrews because their widows were neglected in the daily?",
+    "options": ["A. Prayer", "B. Distribution", "C. Teaching", "D. Worship"],
+    "answer": "B",
+    "topic": "Murmuring in the early church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "The first deacons were chosen to serve?",
+    "options": ["A. Tables", "B. Preaching", "C. Prayer", "D. Music"],
+    "answer": "A",
+    "topic": "Selection of deacons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "Stephen was stoned to death after being accused of blasphemy against Moses and?",
+    "options": ["A. The law", "B. God", "C. The temple", "D. The priests"],
+    "answer": "B",
+    "topic": "Martyrdom of Stephen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "Saul (later Paul) was present at the stoning of Stephen and approved of his?",
+    "options": ["A. Teaching", "B. Death", "C. Prayer", "D. Faith"],
+    "answer": "B",
+    "topic": "Persecution by Saul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "Herod Agrippa killed James the brother of John with the?",
+    "options": ["A. Sword", "B. Stone", "C. Cross", "D. Fire"],
+    "answer": "A",
+    "topic": "Martyrdom of James",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "Peter healed Aeneas who had been bedridden for eight years with?",
+    "options": ["A. Fever", "B. Paralysis", "C. Blindness", "D. Leprosy"],
+    "answer": "B",
+    "topic": "Healing miracles of Peter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Dorcas (Tabitha) was raised from the dead by?",
+    "options": ["A. Paul", "B. Peter", "C. John", "D. James"],
+    "answer": "B",
+    "topic": "Raising of Dorcas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "Cornelius was a centurion who feared God and gave alms to the people and prayed to God?",
+    "options": ["A. Occasionally", "B. Continually", "C. Secretly", "D. Loudly"],
+    "answer": "B",
+    "topic": "Conversion of Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Peter had a vision of a sheet with unclean animals before going to the house of?",
+    "options": ["A. Cornelius", "B. Simon", "C. Philip", "D. Ananias"],
+    "answer": "A",
+    "topic": "Conversion of Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "Peter was miraculously released from prison by an angel while sleeping between two?",
+    "options": ["A. Guards", "B. Soldiers", "C. Chains", "D. Walls"],
+    "answer": "B",
+    "topic": "Peter's release from prison",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "Herod Agrippa was eaten by worms and died because he did not give glory to?",
+    "options": ["A. Peter", "B. God", "C. The people", "D. The angels"],
+    "answer": "B",
+    "topic": "Death of Herod",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "Paul taught that if anyone would not work, neither should he?",
+    "options": ["A. Pray", "B. Eat", "C. Sleep", "D. Speak"],
+    "answer": "B",
+    "topic": "Dignity of labour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Paul instructed slaves to obey their earthly masters with fear and trembling, in sincerity of heart as to?",
+    "options": ["A. Christ", "B. Themselves", "C. The church", "D. The law"],
+    "answer": "A",
+    "topic": "Obedience to authority",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "According to 1 Corinthians 13, love is patient and kind, it does not envy or?",
+    "options": ["A. Boast", "B. Fail", "C. Sleep", "D. Tire"],
+    "answer": "A",
+    "topic": "Paul's teaching on love",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Paul said love never ends, but prophecies will pass away and tongues will?",
+    "options": ["A. Continue", "B. Cease", "C. Grow", "D. Multiply"],
+    "answer": "B",
+    "topic": "Paul's teaching on love",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The fruit of the Spirit includes love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and?",
+    "options": ["A. Wisdom", "B. Self-control", "C. Humility", "D. Generosity"],
+    "answer": "B",
+    "topic": "Teachings of Paul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "Paul reminded the Thessalonians that they should work with their own hands so as to be dependent on?",
+    "options": ["A. No one", "B. The church", "C. Their family", "D. The government"],
+    "answer": "A",
+    "topic": "Dignity of labour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "Paul wrote that there is no authority except from God, and those that exist have been instituted by?",
+    "options": ["A. Men", "B. God", "C. Angels", "D. The law"],
+    "answer": "B",
+    "topic": "Obedience to authority",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "According to 1 Peter, Christians living among non-believers should keep their conduct honorable so that they may see good deeds and glorify God on the day of?",
+    "options": ["A. Judgment", "B. Visitation", "C. Wrath", "D. Mercy"],
+    "answer": "B",
+    "topic": "Christian living among non-Christians",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "James says that blessed is the man who perseveres under trial because he will receive the crown of?",
+    "options": ["A. Gold", "B. Life", "C. Glory", "D. Peace"],
+    "answer": "B",
+    "topic": "Attitude to persecution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Esau and Jacob reconciled after many years when Jacob returned to the land of?",
+    "options": ["A. Egypt", "B. Canaan", "C. Edom", "D. Haran"],
+    "answer": "B",
+    "topic": "Peaceful co-existence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Paul pleaded with Philemon to forgive his runaway slave Onesimus and receive him as a?",
+    "options": ["A. Servant", "B. Brother", "C. Friend", "D. Visitor"],
+    "answer": "B",
+    "topic": "Peaceful co-existence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "Isaac and Abimelech made a covenant of peace at Beersheba after disputing over?",
+    "options": ["A. Land", "B. Wells", "C. Flocks", "D. Servants"],
+    "answer": "B",
+    "topic": "Peaceful co-existence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Abraham is the father of both Isaac (through Sarah) and Ishmael (through?",
+    "options": ["A. Hagar", "B. Keturah", "C. Rebekah", "D. Leah"],
+    "answer": "A",
+    "topic": "Origin of Christianity and Islam",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "The name \"Jesus\" means?\"",
+    "options": ["A. God with us", "B. The Lord saves", "C. Anointed one", "D. Son of God"],
+    "answer": "B",
+    "topic": "Early life of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Jesus was born in Bethlehem of Judea in the days of Herod the?",
+    "options": ["A. King", "B. Tetrarch", "C. Governor", "D. Priest"],
+    "answer": "A",
+    "topic": "Birth of Jesus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The wise men from the East presented gifts of gold, frankincense and?",
+    "options": ["A. Silver", "B. Myrrh", "C. Spices", "D. Oil"],
+    "answer": "B",
+    "topic": "Visit of the wise men",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "To escape Herod's murder, Joseph took Mary and Jesus to?",
+    "options": ["A. Nazareth", "B. Egypt", "C. Galilee", "D. Samaria"],
+    "answer": "B",
+    "topic": "Flight to Egypt",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "John the Baptist proclaimed Jesus as the Lamb of God who takes away the sin of the?",
+    "options": ["A. World", "B. Israel", "C. Church", "D. People"],
+    "answer": "A",
+    "topic": "Testimony of John",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Jesus called Matthew (Levi) who was a?",
+    "options": ["A. Fisherman", "B. Tax collector", "C. Carpenter", "D. Shepherd"],
+    "answer": "B",
+    "topic": "Call of disciples",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "The twelve apostles included Simon called Peter, Andrew, James, John, Philip, Bartholomew, Thomas, Matthew, James son of Alphaeus, Thaddaeus, Simon the Zealot and?",
+    "options": ["A. Matthias", "B. Judas Iscariot", "C. Barnabas", "D. Mark"],
+    "answer": "B",
+    "topic": "The twelve disciples",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "Jesus said to Peter, \"You are Peter, and on this rock I will build my?\"",
+    "options": ["A. Kingdom", "B. Church", "C. Temple", "D. House"],
+    "answer": "B",
+    "topic": "Peter's confession",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "The transfiguration of Jesus took place on a mountain where Moses and Elijah appeared with?",
+    "options": ["A. Angels", "B. Him", "C. Peter", "D. Disciples"],
+    "answer": "B",
+    "topic": "Transfiguration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "A voice from the cloud at the transfiguration said, \"This is my beloved Son; listen to?\"",
+    "options": ["A. Him", "B. Moses", "C. Elijah", "D. Them"],
+    "answer": "A",
+    "topic": "Transfiguration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Jesus taught that the greatest in the kingdom of heaven is the one who humbles himself like a?",
+    "options": ["A. Child", "B. Servant", "C. Poor", "D. Widow"],
+    "answer": "A",
+    "topic": "Teaching on humility",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "In the parable of the Good Samaritan, the man who helped the wounded traveler was a?",
+    "options": ["A. Priest", "B. Levite", "C. Samaritan", "D. Jew"],
+    "answer": "C",
+    "topic": "Parable of Good Samaritan",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "The rich young ruler was told by Jesus to sell all he had, give to the poor, and follow Him, but he went away?",
+    "options": ["A. Joyful", "B. Sad", "C. Angry", "D. Confused"],
+    "answer": "B",
+    "topic": "Rich young ruler",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Jesus said it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of?",
+    "options": ["A. Heaven", "B. God", "C. Glory", "D. Peace"],
+    "answer": "B",
+    "topic": "Teaching on wealth",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "Zacchaeus the tax collector climbed a sycamore tree to see?",
+    "options": ["A. Peter", "B. Jesus", "C. John", "D. Paul"],
+    "answer": "B",
+    "topic": "Zacchaeus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "After meeting Jesus, Zacchaeus said he would give half of his goods to the poor and restore fourfold anyone he had?",
+    "options": ["A. Cheated", "B. Stolen", "C. Hurt", "D. Lied"],
+    "answer": "A",
+    "topic": "Zacchaeus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "Mary anointed Jesus with expensive ointment at Bethany, and Jesus said she did it for His?",
+    "options": ["A. Burial", "B. Feet", "C. Head", "D. Hands"],
+    "answer": "A",
+    "topic": "Anointing at Bethany",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "Jesus wept over Jerusalem because the city did not know the things that make for?",
+    "options": ["A. Peace", "B. Joy", "C. Salvation", "D. Righteousness"],
+    "answer": "A",
+    "topic": "Jesus weeps over Jerusalem",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "Jesus cleared the temple of money changers, saying \"My house shall be called a house of prayer but you have made it a den of?\"",
+    "options": ["A. Thieves", "B. Robbers", "C. Merchants", "D. Hypocrites"],
+    "answer": "A",
+    "topic": "Cleansing the temple",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "The religious leaders asked Jesus by what authority He did these things, and He responded with a question about John's?",
+    "options": ["A. Baptism", "B. Teaching", "C. Birth", "D. Death"],
+    "answer": "A",
+    "topic": "Question of authority",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "In the parable of the wicked tenants, the son was killed by the tenants and thrown out of the?",
+    "options": ["A. Vineyard", "B. City", "C. House", "D. Field"],
+    "answer": "A",
+    "topic": "Parable of wicked tenants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "The Pharisees tried to trap Jesus with a question about paying taxes to?",
+    "options": ["A. God", "B. Caesar", "C. Temple", "D. Priests"],
+    "answer": "B",
+    "topic": "Taxes to Caesar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "Jesus answered, \"Render to Caesar the things that are Caesar's, and to God the things that are?\"",
+    "options": ["A. God's", "B. Holy", "C. Heavenly", "D. Righteous"],
+    "answer": "A",
+    "topic": "Taxes to Caesar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "The Sadducees asked Jesus about the resurrection because they did not believe in?",
+    "options": ["A. Angels", "B. Resurrection", "C. Prophets", "D. Miracles"],
+    "answer": "B",
+    "topic": "Question about resurrection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Jesus said the greatest commandment is to love God with all your heart, soul, and mind, and the second is to love your neighbor as?",
+    "options": ["A. Yourself", "B. God", "C. Family", "D. Friends"],
+    "answer": "A",
+    "topic": "Greatest commandment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "Jesus warned His disciples to beware of the leaven of the Pharisees and the leaven of?",
+    "options": ["A. Sadducees", "B. Herod", "C. Romans", "D. Scribes"],
+    "answer": "B",
+    "topic": "Warning about leaven",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "Jesus foretold His death and resurrection on three occasions, but the disciples did not?",
+    "options": ["A. Believe", "B. Understand", "C. Listen", "D. Care"],
+    "answer": "B",
+    "topic": "Prediction of death",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "James and John asked Jesus to sit at His right and left in His glory, but Jesus said that is not His to give but for whom it has been?",
+    "options": ["A. Prepared", "B. Chosen", "C. Given", "D. Reserved"],
+    "answer": "A",
+    "topic": "Request of James and John",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "Jesus healed Bartimaeus, a blind beggar, near the city of?",
+    "options": ["A. Jericho", "B. Jerusalem", "C. Bethany", "D. Nazareth"],
+    "answer": "A",
+    "topic": "Healing of Bartimaeus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "Jesus cursed a fig tree that had leaves but no fruit, and it withered from the?",
+    "options": ["A. Leaves", "B. Roots", "C. Trunk", "D. Branches"],
+    "answer": "B",
+    "topic": "Cursing the fig tree",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "Jesus taught that if you have faith and do not doubt, you can say to this mountain, \"Be taken up and thrown into the?\"",
+    "options": ["A. Sea", "B. Valley", "C. River", "D. Fire"],
+    "answer": "A",
+    "topic": "Teaching on faith",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "In the parable of the wedding feast, the king invited many, but those who refused to come were?",
+    "options": ["A. Forgiven", "B. Destroyed", "C. Ignored", "D. Welcomed"],
+    "answer": "B",
+    "topic": "Parable of wedding feast",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "The man who came to the wedding feast without a wedding garment was cast into outer?",
+    "options": ["A. Darkness", "B. Fire", "C. Cold", "D. Sorrow"],
+    "answer": "A",
+    "topic": "Parable of wedding feast",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "Jesus said the sheep will be separated from the goats, with sheep on His right and goats on His?",
+    "options": ["A. Left", "B. Right", "C. Front", "D. Back"],
+    "answer": "A",
+    "topic": "Judgment parable",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "The righteous will inherit the kingdom prepared for them since the foundation of the?",
+    "options": ["A. Earth", "B. World", "C. Time", "D. Creation"],
+    "answer": "B",
+    "topic": "Judgment parable",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "Jesus instituted the Lord's Supper during the Passover meal, using bread to represent His body and wine to represent His?",
+    "options": ["A. Blood", "B. Spirit", "C. Life", "D. Sacrifice"],
+    "answer": "A",
+    "topic": "Last Supper",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Jesus prayed in Gethsemane, \"Father, if you are willing, remove this cup from me; nevertheless, not my will but yours be?\"",
+    "options": ["A. Done", "B. Known", "C. Praised", "D. Honored"],
+    "answer": "A",
+    "topic": "Prayer in Gethsemane",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "The soldiers mocked Jesus by putting a purple robe on Him and a crown of?",
+    "options": ["A. Gold", "B. Thorns", "C. Leaves", "D. Flowers"],
+    "answer": "B",
+    "topic": "Mocking of Jesus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Jesus was crucified between two?",
+    "options": ["A. Thieves", "B. Soldiers", "C. Priests", "D. Angels"],
+    "answer": "A",
+    "topic": "Crucifixion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "One of the criminals on the cross asked Jesus to remember him when He came into His?",
+    "options": ["A. Kingdom", "B. Glory", "C. Home", "D. Throne"],
+    "answer": "A",
+    "topic": "Words on the cross",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "Jesus promised the repentant criminal, \"Today you will be with me in?\"",
+    "options": ["A. Heaven", "B. Paradise", "C. Glory", "D. Peace"],
+    "answer": "B",
+    "topic": "Words on the cross",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "At the ninth hour, Jesus cried out, \"My God, my God, why have you forsaken?\"",
+    "options": ["A. Me", "B. Us", "C. Him", "D. Them"],
+    "answer": "A",
+    "topic": "Words on the cross",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "When Jesus died, the earth shook, rocks split, and tombs were?",
+    "options": ["A. Opened", "B. Closed", "C. Broken", "D. Sealed"],
+    "answer": "A",
+    "topic": "Death of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The centurion at the cross said, \"Truly this was the Son of?\"",
+    "options": ["A. God", "B. Man", "C. David", "D. Abraham"],
+    "answer": "A",
+    "topic": "Confession of centurion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Joseph of Arimathea asked Pilate for the body of Jesus and laid it in his own new?",
+    "options": ["A. Tomb", "B. Garden", "C. House", "D. Field"],
+    "answer": "A",
+    "topic": "Burial of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "The chief priests and Pharisees asked Pilate to secure the tomb until the third day to prevent the disciples from stealing the body and claiming?",
+    "options": ["A. Resurrection", "B. Ascension", "C. Miracle", "D. Glory"],
+    "answer": "A",
+    "topic": "Sealing the tomb",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "On the first day of the week, Mary Magdalene went to the tomb while it was still?",
+    "options": ["A. Dark", "B. Light", "C. Dawn", "D. Night"],
+    "answer": "A",
+    "topic": "Resurrection morning",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "The stone was rolled away from the tomb, and an angel told the women that Jesus had?",
+    "options": ["A. Risen", "B. Fled", "C. Hidden", "D. Ascended"],
+    "answer": "A",
+    "topic": "Resurrection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Jesus appeared to Thomas, who had doubted, and said, \"Put your finger here, and see my hands; do not be unbelieving, but?\"",
+    "options": ["A. Believing", "B. Faithful", "C. Hopeful", "D. Loving"],
+    "answer": "A",
+    "topic": "Appearance to Thomas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Thomas responded, \"My Lord and my?\"",
+    "options": ["A. God", "B. Savior", "C. King", "D. Master"],
+    "answer": "A",
+    "topic": "Confession of Thomas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Jesus appeared to seven disciples by the Sea of Tiberias and helped them catch a large number of?",
+    "options": ["A. Fish", "B. Nets", "C. Boats", "D. Coins"],
+    "answer": "A",
+    "topic": "Appearance by the sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "After His resurrection, Jesus told Peter to feed His?",
+    "options": ["A. Lambs", "B. Sheep", "C. Disciples", "D. Church"],
+    "answer": "B",
+    "topic": "Charge to Peter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "The Great Commission includes baptizing believers in the name of the Father, Son, and Holy?",
+    "options": ["A. Spirit", "B. Ghost", "C. Power", "D. Glory"],
+    "answer": "A",
+    "topic": "Great Commission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "Jesus promised to be with His disciples always, to the end of the?",
+    "options": ["A. Age", "B. World", "C. Time", "D. Days"],
+    "answer": "A",
+    "topic": "Great Commission",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "After His resurrection, Jesus appeared to more than five hundred brothers at one time, according to?",
+    "options": ["A. Paul", "B. Peter", "C. John", "D. James"],
+    "answer": "A",
+    "topic": "Resurrection appearances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "The ascension of Jesus took place forty days after His?",
+    "options": ["A. Birth", "B. Resurrection", "C. Baptism", "D. Transfiguration"],
+    "answer": "B",
+    "topic": "Ascension",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "While Jesus was ascending, two angels told the disciples that He would come back in the same way as they saw Him go into?",
+    "options": ["A. Heaven", "B. Glory", "C. Cloud", "D. Light"],
+    "answer": "A",
+    "topic": "Ascension",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Before the ascension, Jesus told the disciples to wait in Jerusalem for the promise of the?",
+    "options": ["A. Father", "B. Spirit", "C. Power", "D. Kingdom"],
+    "answer": "A",
+    "topic": "Promise of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "The Holy Spirit descended on the disciples as divided tongues of?",
+    "options": ["A. Fire", "B. Light", "C. Wind", "D. Clouds"],
+    "answer": "A",
+    "topic": "Coming of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "On the day of Pentecost, devout Jews from every nation under heaven were staying in?",
+    "options": ["A. Jerusalem", "B. Rome", "C. Antioch", "D. Damascus"],
+    "answer": "A",
+    "topic": "Day of Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "The crowd at Pentecost was amazed because each heard the disciples speaking in his own?",
+    "options": ["A. Language", "B. Dialect", "C. Tongue", "D. Voice"],
+    "answer": "A",
+    "topic": "Day of Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "Peter quoted the prophet Joel, saying that in the last days God would pour out His Spirit on all?",
+    "options": ["A. Flesh", "B. People", "C. Nations", "D. Believers"],
+    "answer": "A",
+    "topic": "Peter's speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "The early church sold their possessions and distributed the proceeds to anyone who had?",
+    "options": ["A. Need", "B. Faith", "C. Family", "D. Land"],
+    "answer": "A",
+    "topic": "Fellowship in early church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "Barnabas sold a field and laid the money at the apostles' feet, and he was called \"Son of?\"",
+    "options": ["A. Encouragement", "B. Comfort", "C. Peace", "D. Joy"],
+    "answer": "A",
+    "topic": "Barnabas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Simon the magician offered money to the apostles to buy the power of laying hands to give the Holy?",
+    "options": ["A. Spirit", "B. Ghost", "C. Power", "D. Gift"],
+    "answer": "A",
+    "topic": "Simon the magician",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Peter rebuked Simon, saying \"Your silver perish with you, because you thought you could obtain the gift of God with?\"",
+    "options": ["A. Money", "B. Pride", "C. Power", "D. Magic"],
+    "answer": "A",
+    "topic": "Simon the magician",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Philip the evangelist preached in Samaria and many believed, including Simon the?",
+    "options": ["A. Magician", "B. Tanner", "C. Fisherman", "D. Tax collector"],
+    "answer": "A",
+    "topic": "Philip in Samaria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Peter and John were arrested and brought before the council, where Peter declared that salvation is found in no one else but?",
+    "options": ["A. Jesus", "B. Moses", "C. God", "D. Angels"],
+    "answer": "A",
+    "topic": "Arrest of Peter and John",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "The council warned the apostles not to speak in the name of Jesus, but Peter said, \"We must obey God rather than?\"",
+    "options": ["A. Men", "B. Rulers", "C. Priests", "D. Laws"],
+    "answer": "A",
+    "topic": "Obedience to God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "Gamaliel, a Pharisee, advised the council to leave the apostles alone, saying if their plan is of God, you will not be able to overthrow them, lest you be found opposing?",
+    "options": ["A. God", "B. Truth", "C. Justice", "D. Righteousness"],
+    "answer": "A",
+    "topic": "Gamaliel's advice",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Stephen was described as a man full of faith and the Holy Spirit, and he did great wonders and?",
+    "options": ["A. Signs", "B. Miracles", "C. Healings", "D. Teachings"],
+    "answer": "A",
+    "topic": "Stephen's ministry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "Stephen's speech before the Sanhedrin reviewed the history of Israel from Abraham to?",
+    "options": ["A. Moses", "B. David", "C. Solomon", "D. Jesus"],
+    "answer": "D",
+    "topic": "Stephen's speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "After Stephen's death, a great persecution broke out against the church in Jerusalem, and believers were scattered throughout the regions of Judea and?",
+    "options": ["A. Samaria", "B. Galilee", "C. Damascus", "D. Antioch"],
+    "answer": "A",
+    "topic": "Persecution scatters the church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "Saul was on his way to Damascus to arrest Christians when a light from heaven flashed around him and he heard a voice saying, \"Saul, Saul, why do you persecute?\"",
+    "options": ["A. Me", "B. Them", "C. My church", "D. My people"],
+    "answer": "A",
+    "topic": "Conversion of Saul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "After his conversion, Saul was blinded for three days and was healed by Ananias, who laid hands on him and said, \"Brother Saul, the Lord Jesus who appeared to you on the road has sent me so that you may regain your sight and be filled with the Holy?\"",
+    "options": ["A. Spirit", "B. Ghost", "C. Power", "D. Joy"],
+    "answer": "A",
+    "topic": "Conversion of Saul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "Saul began to preach that Jesus is the Son of God in the synagogues of?",
+    "options": ["A. Damascus", "B. Jerusalem", "C. Tarsus", "D. Antioch"],
+    "answer": "A",
+    "topic": "Saul preaches",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "The church in Antioch sent Barnabas and Saul on the first missionary journey after they had fasted and?",
+    "options": ["A. Prayed", "B. Laid hands", "C. Worshipped", "D. Offered sacrifice"],
+    "answer": "A",
+    "topic": "First missionary journey",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "On the island of Cyprus, Sergius Paulus, the proconsul, believed after Paul struck Elymas the magician with?",
+    "options": ["A. Blindness", "B. Deafness", "C. Silence", "D. Weakness"],
+    "answer": "A",
+    "topic": "Elymas struck blind",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "In Lystra, Paul healed a man crippled from birth, and the crowds thought Paul and Barnabas were gods, calling Barnabas Zeus and Paul?",
+    "options": ["A. Hermes", "B. Apollo", "C. Jupiter", "D. Mars"],
+    "answer": "A",
+    "topic": "Healing in Lystra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "Paul was stoned and left for dead in Lystra, but he got up and went back into the?",
+    "options": ["A. City", "B. Synagogue", "C. House", "D. Field"],
+    "answer": "A",
+    "topic": "Paul stoned",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "The Council of Jerusalem decided that Gentile believers did not need to be circumcised but should abstain from idolatry, sexual immorality, and from blood and?",
+    "options": ["A. Strangled things", "B. Idols", "C. Unclean meat", "D. Leaven"],
+    "answer": "A",
+    "topic": "Council of Jerusalem",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Paul and Silas were imprisoned in Philippi after casting out a spirit from a slave girl who was a fortune?",
+    "options": ["A. Teller", "B. Healer", "C. Singer", "D. Dancer"],
+    "answer": "A",
+    "topic": "Paul and Silas in prison",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "At midnight, Paul and Silas prayed and sang hymns, and suddenly there was a great earthquake that opened the prison?",
+    "options": ["A. Doors", "B. Windows", "C. Gates", "D. Walls"],
+    "answer": "A",
+    "topic": "Earthquake in prison",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "The Philippian jailer asked Paul and Silas, \"What must I do to be saved?\" They answered, \"Believe in the Lord Jesus, and you will be saved, you and your?\"",
+    "options": ["A. Household", "B. Family", "C. Friends", "D. Servants"],
+    "answer": "A",
+    "topic": "Conversion of jailer",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "In Athens, Paul spoke at the Areopagus, quoting the poets, \"In him we live and move and have our?\"",
+    "options": ["A. Being", "B. Life", "C. Hope", "D. Joy"],
+    "answer": "A",
+    "topic": "Paul at Areopagus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Paul wrote the letter to the Romans while staying in?",
+    "options": ["A. Corinth", "B. Ephesus", "C. Philippi", "D. Rome"],
+    "answer": "A",
+    "topic": "Paul's letters",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Paul taught that all have sinned and fall short of the glory of?",
+    "options": ["A. God", "B. Christ", "C. Heaven", "D. Righteousness"],
+    "answer": "A",
+    "topic": "Sin and grace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "According to Paul, the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our?",
+    "options": ["A. Lord", "B. Savior", "C. Master", "D. King"],
+    "answer": "A",
+    "topic": "Sin and grace",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Paul wrote that nothing can separate us from the love of God in Christ Jesus, neither death, nor life, nor angels, nor rulers, nor things present, nor things to come, nor?",
+    "options": ["A. Powers", "B. Sins", "C. Fears", "D. Doubts"],
+    "answer": "A",
+    "topic": "Love of God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Paul used the metaphor of the body to describe the church, with Christ as the head and believers as?",
+    "options": ["A. Members", "B. Hands", "C. Feet", "D. Eyes"],
+    "answer": "A",
+    "topic": "Body of Christ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "Paul instructed the Corinthians that in worship, all things should be done decently and in?",
+    "options": ["A. Order", "B. Love", "C. Faith", "D. Peace"],
+    "answer": "A",
+    "topic": "Order in worship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "Paul listed the works of the flesh, including sexual immorality, idolatry, jealousy, outbursts of anger, selfish ambition, dissension, and?",
+    "options": ["A. Envy", "B. Pride", "C. Greed", "D. Hatred"],
+    "answer": "A",
+    "topic": "Works of the flesh",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "Paul wrote that those who belong to Christ Jesus have crucified the flesh with its passions and?",
+    "options": ["A. Desires", "B. Sins", "C. Lusts", "D. Temptations"],
+    "answer": "A",
+    "topic": "Crucify the flesh",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "In Ephesians, Paul describes the armor of God including the belt of truth, breastplate of righteousness, shoes of the gospel of peace, shield of faith, helmet of salvation, and the sword of the?",
+    "options": ["A. Spirit", "B. Word", "C. Truth", "D. God"],
+    "answer": "A",
+    "topic": "Armor of God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "Paul taught that we wrestle not against flesh and blood, but against the spiritual forces of evil in the heavenly?",
+    "options": ["A. Places", "B. Realms", "C. Spheres", "D. Worlds"],
+    "answer": "A",
+    "topic": "Spiritual warfare",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Paul wrote to the Philippians, \"For me to live is Christ and to die is?\"",
+    "options": ["A. Gain", "B. Loss", "C. Glory", "D. Peace"],
+    "answer": "A",
+    "topic": "Philippians",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "Paul encouraged believers to rejoice in the Lord always, and again he said?",
+    "options": ["A. Rejoice", "B. Pray", "C. Give thanks", "D. Sing"],
+    "answer": "A",
+    "topic": "Rejoice in the Lord",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Paul told Timothy that the love of money is a root of all kinds of?",
+    "options": ["A. Evil", "B. Sin", "C. Trouble", "D. Greed"],
+    "answer": "A",
+    "topic": "Love of money",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "Paul wrote that there is one God and one mediator between God and men, the man Christ?",
+    "options": ["A. Jesus", "B. Messiah", "C. Lord", "D. Savior"],
+    "answer": "A",
+    "topic": "One mediator",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "According to Titus, a bishop must be blameless, the husband of one wife, and have believing children not accused of?",
+    "options": ["A. Dissipation", "B. Rebellion", "C. Disobedience", "D. Wickedness"],
+    "answer": "A",
+    "topic": "Qualifications of elders",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "The book of Hebrews says that faith is the assurance of things hoped for and the conviction of things not?",
+    "options": ["A. Seen", "B. Heard", "C. Known", "D. Revealed"],
+    "answer": "A",
+    "topic": "Definition of faith",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "James teaches that faith without works is?",
+    "options": ["A. Dead", "B. Useless", "C. Empty", "D. Weak"],
+    "answer": "A",
+    "topic": "Faith and works",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "James says that the tongue is a fire, a world of unrighteousness, and cannot be tamed by?",
+    "options": ["A. Man", "B. God", "C. Angels", "D. Nature"],
+    "answer": "A",
+    "topic": "The tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "Peter wrote that you are a chosen race, a royal priesthood, a holy nation, a people for God's own possession, to proclaim the excellencies of Him who called you out of darkness into His marvelous?",
+    "options": ["A. Light", "B. Glory", "C. Love", "D. Grace"],
+    "answer": "A",
+    "topic": "Royal priesthood",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "Peter said that God opposes the proud but gives grace to the?",
+    "options": ["A. Humble", "B. Meek", "C. Poor", "D. Weak"],
+    "answer": "A",
+    "topic": "Humility",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "John wrote that if we confess our sins, God is faithful and just to forgive us our sins and cleanse us from all?",
+    "options": ["A. Unrighteousness", "B. Iniquity", "C. Transgression", "D. Wickedness"],
+    "answer": "A",
+    "topic": "Confession of sins",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "John wrote, \"God is love,\" and whoever abides in love abides in God, and God abides in?\"",
+    "options": ["A. Him", "B. Us", "C. Them", "D. All"],
+    "answer": "A",
+    "topic": "God is love",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "The book of Revelation says that Jesus is the Alpha and the Omega, the beginning and the?",
+    "options": ["A. End", "B. Last", "C. Final", "D. Completion"],
+    "answer": "A",
+    "topic": "Revelation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "The new Jerusalem comes down out of heaven from God, prepared as a bride adorned for her?",
+    "options": ["A. Husband", "B. King", "C. Lord", "D. Father"],
+    "answer": "A",
+    "topic": "New Jerusalem",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "The tree of life in the new Jerusalem bears twelve kinds of fruit and yields its fruit each?",
+    "options": ["A. Month", "B. Week", "C. Day", "D. Season"],
+    "answer": "A",
+    "topic": "Tree of life",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "The Lord God will be their light, and they will reign forever and?",
+    "options": ["A. Ever", "B. Always", "C. Eternally", "D. Unendingly"],
+    "answer": "A",
+    "topic": "New heavens and earth",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "The first miracle of Jesus recorded in John's Gospel is turning water into?",
+    "options": ["A. Wine", "B. Juice", "C. Oil", "D. Milk"],
+    "answer": "A",
+    "topic": "First miracle",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Jesus said, \"I am the bread of life; whoever comes to me shall never hunger, and whoever believes in me shall never?\"",
+    "options": ["A. Thirst", "B. Die", "C. Sin", "D. Fear"],
+    "answer": "A",
+    "topic": "Bread of life",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "Jesus said, \"I am the light of the world; whoever follows me will not walk in darkness but will have the light of?\"",
+    "options": ["A. Life", "B. Truth", "C. Heaven", "D. Glory"],
+    "answer": "A",
+    "topic": "Light of the world",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "Jesus said, \"I am the door; if anyone enters by me, he will be saved and will go in and out and find?\"",
+    "options": ["A. Pasture", "B. Rest", "C. Peace", "D. Joy"],
+    "answer": "A",
+    "topic": "The door",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Jesus said, \"I am the good shepherd. The good shepherd lays down his life for the?\"",
+    "options": ["A. Sheep", "B. Flock", "C. People", "D. World"],
+    "answer": "A",
+    "topic": "Good shepherd",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "Jesus said, \"I am the resurrection and the life; whoever believes in me, though he die, yet shall he?\"",
+    "options": ["A. Live", "B. Rise", "C. Awake", "D. Stand"],
+    "answer": "A",
+    "topic": "Resurrection and life",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "Jesus said, \"I am the way, the truth, and the life; no one comes to the Father except through?\"",
+    "options": ["A. Me", "B. Faith", "C. Baptism", "D. Grace"],
+    "answer": "A",
+    "topic": "The way",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Jesus said, \"I am the true vine, and my Father is the vine?\"",
+    "options": ["A. Dresser", "B. Owner", "C. Gardener", "D. Planter"],
+    "answer": "A",
+    "topic": "True vine",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "Jesus said, \"Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you unless you abide in?\"",
+    "options": ["A. Me", "B. God", "C. Love", "D. Faith"],
+    "answer": "A",
+    "topic": "Abiding in Christ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "The Holy Spirit is called the Comforter who will teach the disciples all things and bring to remembrance all that Jesus said to?",
+    "options": ["A. Them", "B. Us", "C. The world", "D. The church"],
+    "answer": "A",
+    "topic": "Role of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Paul wrote that the fruit of the Spirit includes love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control; against such things there is no?",
+    "options": ["A. Law", "B. Sin", "C. Judgment", "D. Condemnation"],
+    "answer": "A",
+    "topic": "Fruit of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "The gifts of the Spirit include wisdom, knowledge, faith, healing, miracles, prophecy, distinguishing of spirits, speaking in tongues, and interpretation of?",
+    "options": ["A. Tongues", "B. Dreams", "C. Visions", "D. Signs"],
+    "answer": "A",
+    "topic": "Gifts of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "Paul said that if I speak in the tongues of men and of angels but have not love, I am a noisy gong or a clanging?",
+    "options": ["A. Cymbal", "B. Bell", "C. Drum", "D. Horn"],
+    "answer": "A",
+    "topic": "Love chapter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all, as Paul wrote in his second letter to the?",
+    "options": ["A. Corinthians", "B. Romans", "C. Ephesians", "D. Philippians"],
+    "answer": "A",
+    "topic": "Paul's benediction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "In the beginning was the Word, and the Word was with God, and the Word was?",
+    "options": ["A. God", "B. Christ", "C. Light", "D. Life"],
+    "answer": "A",
+    "topic": "Prologue of John",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "The Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and?",
+    "options": ["A. Truth", "B. Love", "C. Power", "D. Glory"],
+    "answer": "A",
+    "topic": "Incarnation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Jesus told Nicodemus that unless one is born again, he cannot see the kingdom of?",
+    "options": ["A. God", "B. Heaven", "C. Glory", "D. Peace"],
+    "answer": "A",
+    "topic": "Born again",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "God so loved the world that He gave His only Son, that whoever believes in Him should not perish but have eternal?",
+    "options": ["A. Life", "B. Hope", "C. Joy", "D. Peace"],
+    "answer": "A",
+    "topic": "John 3:16",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "Jesus met the Samaritan woman at Jacob's well and offered her living?",
+    "options": ["A. Water", "B. Bread", "C. Wine", "D. Milk"],
+    "answer": "A",
+    "topic": "Samaritan woman",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "Jesus said to the Samaritan woman, \"God is spirit, and those who worship Him must worship in spirit and?\"",
+    "options": ["A. Truth", "B. Love", "C. Faith", "D. Holiness"],
+    "answer": "A",
+    "topic": "True worship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "Jesus healed the official's son at Capernaum by speaking the word, and the son was healed at that very?",
+    "options": ["A. Hour", "B. Day", "C. Moment", "D. Time"],
+    "answer": "A",
+    "topic": "Healing of official's son",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "At the pool of Bethesda, Jesus healed a man who had been an invalid for thirty-eight?",
+    "options": ["A. Years", "B. Months", "C. Weeks", "D. Days"],
+    "answer": "A",
+    "topic": "Healing at Bethesda",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "Jesus said, \"My Father is working until now, and I am?\"",
+    "options": ["A. Working", "B. Resting", "C. Praying", "D. Waiting"],
+    "answer": "A",
+    "topic": "Jesus' work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "Jesus declared that the Son can do nothing of His own accord, but only what He sees the Father doing; for whatever the Father does, the Son does?",
+    "options": ["A. Likewise", "B. Similarly", "C. Also", "D. As well"],
+    "answer": "A",
+    "topic": "Son and Father",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "Jesus fed the four thousand with seven loaves and a few small fish, and the leftover fragments filled seven?",
+    "options": ["A. Baskets", "B. Bags", "C. Sacks", "D. Boxes"],
+    "answer": "A",
+    "topic": "Feeding of four thousand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "Jesus healed a man born blind by making mud with saliva and putting it on the man's eyes, then telling him to wash in the pool of?",
+    "options": ["A. Siloam", "B. Bethesda", "C. Galilee", "D. Jordan"],
+    "answer": "A",
+    "topic": "Healing of blind man",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "After raising Lazarus, the chief priests planned to put Lazarus to death as well because many Jews were believing in Jesus on account of?",
+    "options": ["A. Him", "B. The miracle", "C. His teaching", "D. His power"],
+    "answer": "A",
+    "topic": "Plot against Lazarus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Jesus washed the disciples' feet at the Last Supper to teach them?",
+    "options": ["A. Humility", "B. Love", "C. Service", "D. Obedience"],
+    "answer": "A",
+    "topic": "Washing of feet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "Jesus said, \"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one?\"",
+    "options": ["A. Another", "B. Each other", "C. Others", "D. All"],
+    "answer": "A",
+    "topic": "New commandment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "Jesus predicted Peter's denial, saying that before the cock crows, Peter will deny Him three?",
+    "options": ["A. Times", "B. Ways", "C. Days", "D. Hours"],
+    "answer": "A",
+    "topic": "Prediction of denial",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "Jesus said, \"I am the way, and the truth, and the life. No one comes to the Father except through?\"",
+    "options": ["A. Me", "B. Faith", "C. Baptism", "D. Works"],
+    "answer": "A",
+    "topic": "Exclusive claim",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "Jesus promised to send the Holy Spirit, whom the world cannot receive because it neither sees Him nor knows Him, but you know Him for He dwells with you and will be in?",
+    "options": ["A. You", "B. Us", "C. Them", "D. All"],
+    "answer": "A",
+    "topic": "Promise of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Jesus prayed for His disciples, \"Sanctify them in the truth; your word is?\"",
+    "options": ["A. Truth", "B. Life", "C. Light", "D. Love"],
+    "answer": "A",
+    "topic": "Jesus' high priestly prayer",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "Jesus prayed that all believers may be one, just as He and the Father are one, so that the world may believe that the Father sent?",
+    "options": ["A. Him", "B. Them", "C. Us", "D. Christ"],
+    "answer": "A",
+    "topic": "Unity of believers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "The soldiers cast lots for Jesus' garment, fulfilling the prophecy, \"They divided my garments among them, and for my clothing they cast?\"",
+    "options": ["A. Lots", "B. Dice", "C. Stones", "D. Arrows"],
+    "answer": "A",
+    "topic": "Fulfillment of prophecy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "After His resurrection, Jesus breathed on the disciples and said, \"Receive the Holy?\"",
+    "options": ["A. Spirit", "B. Ghost", "C. Power", "D. Fire"],
+    "answer": "A",
+    "topic": "Giving of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "Jesus said to Thomas, \"Have you believed because you have seen me? Blessed are those who have not seen and yet have?\"",
+    "options": ["A. Believed", "B. Trusted", "C. Hoped", "D. Loved"],
+    "answer": "A",
+    "topic": "Blessing on those who believe without seeing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "Jesus told Peter, \"Feed my lambs,\" \"Tend my sheep,\" \"Feed my sheep\" as a restoration after Peter's?",
+    "options": ["A. Denial", "B. Doubt", "C. Fear", "D. Weakness"],
+    "answer": "A",
+    "topic": "Restoration of Peter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "The book of Acts is the second volume written by?",
+    "options": ["A. Luke", "B. Mark", "C. Matthew", "D. John"],
+    "answer": "A",
+    "topic": "Author of Acts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "The Ethiopian eunuch was reading from the prophet Isaiah when Philip explained the gospel to him, and he was?",
+    "options": ["A. Baptized", "B. Healed", "C. Saved", "D. Called"],
+    "answer": "A",
+    "topic": "Ethiopian eunuch",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "The Holy Spirit told Philip to join the chariot of the Ethiopian, and Philip heard him reading?",
+    "options": ["A. Isaiah", "B. Jeremiah", "C. Psalms", "D. Genesis"],
+    "answer": "A",
+    "topic": "Philip and eunuch",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "After his conversion, Paul spent several days with the disciples in?",
+    "options": ["A. Damascus", "B. Jerusalem", "C. Tarsus", "D. Antioch"],
+    "answer": "A",
+    "topic": "Paul after conversion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "Barnabas brought Paul to the apostles in Jerusalem and told them how Paul had seen the Lord on the road and spoken boldly in the name of?",
+    "options": ["A. Jesus", "B. God", "C. Christ", "D. The Lord"],
+    "answer": "A",
+    "topic": "Barnabas introduces Paul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "The church in Antioch was where believers were first called?",
+    "options": ["A. Christians", "B. Disciples", "C. Saints", "D. Followers"],
+    "answer": "A",
+    "topic": "Origin of name Christians",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "Peter was released from prison by an angel, and he went to the house of Mary, the mother of John Mark, where many were gathered in?",
+    "options": ["A. Prayer", "B. Worship", "C. Fasting", "D. Singing"],
+    "answer": "A",
+    "topic": "Prayer meeting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "Herod's death occurred after he gave a speech and the people shouted, \"The voice of a god, not of a man,\" and an angel of the Lord struck him down because he did not give glory to?\"",
+    "options": ["A. God", "B. Christ", "C. Heaven", "D. The Lord"],
+    "answer": "A",
+    "topic": "Death of Herod",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "Paul and Barnabas were set apart by the Holy Spirit for the work to which He had called them, and after fasting and prayer, the church laid hands on them and sent them?",
+    "options": ["A. Off", "B. Out", "C. Away", "D. Forth"],
+    "answer": "A",
+    "topic": "Commissioning of missionaries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "On the first missionary journey, Paul and Barnabas went to Seleucia, then sailed to?",
+    "options": ["A. Cyprus", "B. Crete", "C. Malta", "D. Rhodes"],
+    "answer": "A",
+    "topic": "First journey",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "In Iconium, Paul and Barnabas spoke boldly in the Lord, who bore witness to the word of His grace, granting signs and wonders to be done by their?",
+    "options": ["A. Hands", "B. Words", "C. Faith", "D. Power"],
+    "answer": "A",
+    "topic": "Signs and wonders",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "The crowd in Lystra called Barnabas Zeus and Paul Hermes, and the priest of Zeus brought oxen and garlands to offer?",
+    "options": ["A. Sacrifice", "B. Worship", "C. Praise", "D. Gifts"],
+    "answer": "A",
+    "topic": "Misguided worship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "Paul tore his clothes and rushed into the crowd, shouting that they were mortal men, and urging them to turn from vain things to the living God who made heaven and earth and the sea and all that is in?",
+    "options": ["A. Them", "B. It", "C. All", "D. Us"],
+    "answer": "A",
+    "topic": "Paul's speech in Lystra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Paul and Barnabas appointed elders in every church, and with prayer and fasting, they committed them to the Lord in whom they had?",
+    "options": ["A. Believed", "B. Trusted", "C. Hoped", "D. Faith"],
+    "answer": "A",
+    "topic": "Appointment of elders",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "The Council of Jerusalem resolved that Gentile believers should abstain from things offered to idols, from blood, from things strangled, and from sexual?",
+    "options": ["A. Immorality", "B. Sins", "C. Uncleanness", "D. Evil"],
+    "answer": "A",
+    "topic": "Council decree",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "Paul and Silas were beaten with rods and thrown into prison after Paul cast a spirit of divination out of a slave girl who brought her owners much gain by?",
+    "options": ["A. Fortune-telling", "B. Magic", "C. Sorcery", "D. Witchcraft"],
+    "answer": "A",
+    "topic": "Spirit of divination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "The Philippian jailer washed the wounds of Paul and Silas and was baptized immediately after believing in?",
+    "options": ["A. God", "B. Jesus", "C. Christ", "D. The Lord"],
+    "answer": "A",
+    "topic": "Jailer's baptism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "In Thessalonica, some Jews became jealous and formed a mob, setting the city in an uproar, and attacked the house of Jason, seeking to bring Paul and Silas out to the?",
+    "options": ["A. Crowd", "B. Council", "C. Court", "D. Rulers"],
+    "answer": "A",
+    "topic": "Riot in Thessalonica",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The Bereans were more noble than the Thessalonians because they received the word with all eagerness, examining the Scriptures daily to see if these things were?",
+    "options": ["A. So", "B. True", "C. Right", "D. Good"],
+    "answer": "A",
+    "topic": "Bereans",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "Paul preached at the Areopagus in Athens, saying that God does not dwell in temples made by human hands, nor is He served by human hands, as though He needed anything, since He gives to all life and breath and?",
+    "options": ["A. Everything", "B. All things", "C. Blessings", "D. Good things"],
+    "answer": "A",
+    "topic": "Areopagus speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "Paul stayed in Corinth for eighteen months, teaching the word of God among them, and the Lord told him in a vision, \"Do not be afraid, keep on speaking, for I have many people in this?\"",
+    "options": ["A. City", "B. Place", "C. Land", "D. Region"],
+    "answer": "A",
+    "topic": "Paul in Corinth",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "In Ephesus, Paul encountered disciples who had not even heard that there is a Holy Spirit, and he baptized them in the name of the Lord Jesus, and the Holy Spirit came on them, and they spoke in tongues and?",
+    "options": ["A. Prophesied", "B. Preached", "C. Worshipped", "D. Prayed"],
+    "answer": "A",
+    "topic": "Disciples of John",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The silversmiths in Ephesus, led by Demetrius, started a riot because Paul's preaching threatened their business of making silver shrines of?",
+    "options": ["A. Artemis", "B. Diana", "C. Apollo", "D. Zeus"],
+    "answer": "A",
+    "topic": "Riot in Ephesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Eutychus fell asleep during Paul's long speech in Troas and fell from a third-story window, but Paul raised him from the?",
+    "options": ["A. Dead", "B. Floor", "C. Ground", "D. Sleep"],
+    "answer": "A",
+    "topic": "Eutychus raised",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Paul said farewell to the Ephesian elders, commending them to God and to the word of His grace, which is able to build them up and give them an inheritance among all who are?",
+    "options": ["A. Sanctified", "B. Saved", "C. Believing", "D. Faithful"],
+    "answer": "A",
+    "topic": "Paul's farewell to Ephesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "Paul was shipwrecked on the island of Malta, where a viper fastened on his hand, but he shook it off into the fire and suffered no?",
+    "options": ["A. Harm", "B. Pain", "C. Swelling", "D. Death"],
+    "answer": "A",
+    "topic": "Paul on Malta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "question": "Our God is also a God of _____________ and _____________",
+    "options": [
+      "A. Love, Mercy and Grace",
+      "B. Justice, Truth, Vengeance",
+      "C. Destruction, Truth, Power",
+      "D. Justice and Righteousness"
+    ],
+    "answer": "A",
+    "topic": "CRS – Nature of God",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 302,
+    "question": "While the law of Moses is written on stone, that of Jesus is in the _____________",
+    "options": [
+      "A. Tablet",
+      "B. Spirit",
+      "C. Heart",
+      "D. Scroll"
+    ],
+    "answer": "C",
+    "topic": "CRS – Law and Grace",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 303,
+    "question": "During Stephen’s trials, the people became angry when he said _____________",
+    "options": [
+      "A. He saw Heavens opened and the Son of Man standing at the right hand of God",
+      "B. They killed Jesus Christ and they hanged him on the cross of calvary",
+      "C. They were evil men",
+      "D. He was not guilty in their eyes"
+    ],
+    "answer": "A",
+    "topic": "CRS – Martyrdom of Stephen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "question": "The allegation that provoked Peter after receiving the Holy Spirit was that the Apostles _____________",
+    "options": [
+      "A. Preached resurrection",
+      "B. Were drunk",
+      "C. Worshiped other gods",
+      "D. Disobeyed the law"
+    ],
+    "answer": "B",
+    "topic": "CRS – Day of Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "The magician who offered money for God’s power was _____________",
+    "options": [
+      "A. Simon",
+      "B. Ananias",
+      "C. Matthias",
+      "D. Elymas"
+    ],
+    "answer": "A",
+    "topic": "CRS – Simon the Magician",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "question": "The Jews were _____________ when Herod the king killed James, the brother of John.",
+    "options": [
+      "A. Pleased",
+      "B. Angry",
+      "C. Disturbed",
+      "D. Indifferent"
+    ],
+    "answer": "A",
+    "topic": "CRS – Persecution of the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 307,
+    "question": "The lame man at the Beautiful Gate expected to receive _____________ from Peter and John.",
+    "options": [
+      "A. Holy Spirit",
+      "B. Alms",
+      "C. Healing",
+      "D. Gold"
+    ],
+    "answer": "B",
+    "topic": "CRS – Healing of the Lame Man",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 308,
+    "question": "The disciples who laid the foundation of the Church were _____________",
+    "options": [
+      "A. Twelve",
+      "B. Eleven, one betrayed Him",
+      "C. Twelve with Matthias as the leader",
+      "D. Seventy"
+    ],
+    "answer": "A",
+    "topic": "CRS – The Apostles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The significance of the arrest of Peter and John is for us to _____________",
+    "options": [
+      "A. Expect persecutions",
+      "B. Refrain from healing ministries",
+      "C. Submit to authority",
+      "D. Deny Christ"
+    ],
+    "answer": "A",
+    "topic": "CRS – Persecution and Witness",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "The spread of the gospel to Samaria was championed by _____________",
+    "options": [
+      "A. Stephen",
+      "B. Philip",
+      "C. Paul",
+      "D. Peter"
+    ],
+    "answer": "B",
+    "topic": "CRS – Philip in Samaria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 311,
+    "question": "Cornelius was asked by an Angel of the Lord to send for Peter at Joppa because _____________",
+    "options": [
+      "A. He had accepted Jesus as his personal Lord and Saviour",
+      "B. His prayers and alms had gone up to God as memorial",
+      "C. He was a chosen vessel",
+      "D. He was a Roman soldier"
+    ],
+    "answer": "B",
+    "topic": "CRS – Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 312,
+    "question": "The first Christian Martyr among the disciples was _____________",
+    "options": [
+      "A. James",
+      "B. Peter",
+      "C. Stephen",
+      "D. John"
+    ],
+    "answer": "C",
+    "topic": "CRS – Martyrdom of Stephen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "Peter’s mission to Joppa witnessed the miracle of _____________",
+    "options": [
+      "A. Healing of a paralysed man",
+      "B. Raising Dorcas from the dead",
+      "C. Raising of Eutychus",
+      "D. Casting out demons"
+    ],
+    "answer": "B",
+    "topic": "CRS – Raising of Dorcas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 314,
+    "question": "Cornelius, the Gentile’s conversion signifies to us that _____________",
+    "options": [
+      "A. God welcomes all people",
+      "B. No animal or bird is forbidden",
+      "C. Only soldiers see God",
+      "D. Only Jews are saved"
+    ],
+    "answer": "A",
+    "topic": "CRS – Gentiles in the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 315,
+    "question": "The victory of Jesus over death gave us hope for _____________ life.",
+    "options": [
+      "A. Long",
+      "B. Faithful",
+      "C. Eternal",
+      "D. Earthly"
+    ],
+    "answer": "C",
+    "topic": "CRS – Resurrection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The prophet that confronted David with his sin was _____________",
+    "options": [
+      "A. Elijah",
+      "B. Elisha",
+      "C. Nathan",
+      "D. Samuel"
+    ],
+    "answer": "C",
+    "topic": "CRS – David's Sin",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 317,
+    "question": "One of the social problems facing the church today is _____________",
+    "options": [
+      "A. Sharing the good news to others",
+      "B. Love of money and materialism",
+      "C. Assisting the old and less privileged",
+      "D. Worshiping in truth"
+    ],
+    "answer": "B",
+    "topic": "CRS – Challenges of the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 318,
+    "question": "Cornelius was a centurion who was known to be in control of _____________ soldiers.",
+    "options": [
+      "A. 100",
+      "B. 200",
+      "C. 600",
+      "D. 1000"
+    ],
+    "answer": "A",
+    "topic": "CRS – Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "question": "Peter’s first speech was recorded in _____________",
+    "options": [
+      "A. 1 Corinthians 3:16",
+      "B. Acts 2:4-41",
+      "C. Acts 3:4-12",
+      "D. Acts 5"
+    ],
+    "answer": "B",
+    "topic": "CRS – Peter's Speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 320,
+    "question": "When Peter spoke to the crowd on Pentecost day they _____________",
+    "options": [
+      "A. Were happy",
+      "B. Felt sorrow in their hearts",
+      "C. Attacked the apostles with stones",
+      "D. Rejoiced greatly"
+    ],
+    "answer": "B",
+    "topic": "CRS – Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "question": "What was the outcome of Peter’s first speech?",
+    "options": [
+      "A. 3000",
+      "B. 5000",
+      "C. 6000",
+      "D. 7000"
+    ],
+    "answer": "A",
+    "topic": "CRS – Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 322,
+    "question": "Healing of the lame man and arrest of the apostles was recorded in _____________",
+    "options": [
+      "A. Acts 4:1-31",
+      "B. Acts 5",
+      "C. Acts 6:1-7",
+      "D. Acts 7:1-60"
+    ],
+    "answer": "A",
+    "topic": "CRS – Acts of the Apostles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "question": "The deacons include all except _____________",
+    "options": [
+      "A. Philip",
+      "B. Barnabas",
+      "C. Prochorus",
+      "D. Stephen"
+    ],
+    "answer": "B",
+    "topic": "CRS – Appointment of Deacons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 324,
+    "question": "One of these is not the problem of the church socially?",
+    "options": [
+      "A. Dishonesty",
+      "B. Partiality",
+      "C. Love",
+      "D. Division"
+    ],
+    "answer": "C",
+    "topic": "CRS – Social Issues in the Church",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "One of these is not the gift of the Holy Spirit on the apostles?",
+    "options": [
+      "A. Wisdom",
+      "B. Fear",
+      "C. Boldness",
+      "D. Prophecy"
+    ],
+    "answer": "B",
+    "topic": "CRS – Gifts of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 326,
+    "question": "The sheet from Heaven in Peter’s dream means _____________",
+    "options": [
+      "A. All are equal before God",
+      "B. The Jews and Gentiles have nothing in common",
+      "C. You don’t eat all meats",
+      "D. All creatures are clean"
+    ],
+    "answer": "A",
+    "topic": "CRS – Peter's Vision",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 327,
+    "question": "_____________ was the person who sought for the power of the Holy Spirit with money.",
+    "options": [
+      "A. Simon",
+      "B. Andrew",
+      "C. Philip",
+      "D. Elymas"
+    ],
+    "answer": "A",
+    "topic": "CRS – Simon the Magician",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "God granted Peter divine release from prison and evil plot of death of _____________",
+    "options": [
+      "A. Annas",
+      "B. Herod",
+      "C. Caesar",
+      "D. Pilate"
+    ],
+    "answer": "B",
+    "topic": "CRS – Peter's Release",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 329,
+    "question": "The Holy Spirit descended on the apostles on Pentecost like _____________",
+    "options": [
+      "A. Tongues of fire",
+      "B. Tongues as of fire",
+      "C. Flames of fire",
+      "D. Rushing wind"
+    ],
+    "answer": "B",
+    "topic": "CRS – Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "In their defence, Peter and John stood boldly before _____________ and _____________",
+    "options": [
+      "A. Annas/Caiaphas",
+      "B. Caesar/Caiaphas",
+      "C. Herod/Caiaphas",
+      "D. Felix/Festus"
+    ],
+    "answer": "A",
+    "topic": "CRS – Peter and John before the Council",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 331,
+    "question": "The martyrdom recorded in Acts 12:1-3 was on _____________",
+    "options": [
+      "A. Stephen",
+      "B. James",
+      "C. John",
+      "D. Peter"
+    ],
+    "answer": "B",
+    "topic": "CRS – Martyrdom of James",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 332,
+    "question": "Peter’s miraculous release from prison was recorded in _____________",
+    "options": [
+      "A. Acts 10:1-5",
+      "B. Acts 12:13-14",
+      "C. Acts 11",
+      "D. Acts 12:6-11"
+    ],
+    "answer": "D",
+    "topic": "CRS – Peter's Release",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 333,
+    "question": "After the second speech of Peter, the number of converts came up to _____________",
+    "options": [
+      "A. 120",
+      "B. 3000",
+      "C. 5000",
+      "D. 4000"
+    ],
+    "answer": "C",
+    "topic": "CRS – Growth of the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 334,
+    "question": "At _____________ Peter healed _____________ as seen in Acts 9:32-35",
+    "options": [
+      "A. Joppa/Aeneas",
+      "B. Lydda/Aeneas",
+      "C. Joppa/Dorcas",
+      "D. Lydda/Dorcas"
+    ],
+    "answer": "B",
+    "topic": "CRS – Healing of Aeneas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 335,
+    "question": "The Greek-speaking Jews were called the _____________",
+    "options": [
+      "A. Hellenists",
+      "B. Proselytes",
+      "C. Aramaic",
+      "D. Hebrews"
+    ],
+    "answer": "A",
+    "topic": "CRS – The Hellenists",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 336,
+    "question": "The woman who was raised from death at Joppa was _____________",
+    "options": [
+      "A. Martha",
+      "B. Dorcas",
+      "C. Rhoda",
+      "D. Mary Magdalene"
+    ],
+    "answer": "B",
+    "topic": "CRS – Raising of Dorcas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 337,
+    "question": "Christianity spread to Judea and Samaria because of the death of _____________",
+    "options": [
+      "A. James",
+      "B. Stephen",
+      "C. Jesus",
+      "D. Peter"
+    ],
+    "answer": "B",
+    "topic": "CRS – Scattering of the Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "Most of the Epistles were written by Apostle _____________",
+    "options": [
+      "A. Peter",
+      "B. Paul",
+      "C. Timothy",
+      "D. John"
+    ],
+    "answer": "B",
+    "topic": "CRS – Paul's Writings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The promise of the Holy Spirit was made by Jesus to His disciples _____________",
+    "options": [
+      "A. Before He died",
+      "B. After His resurrection",
+      "C. Before His ascension",
+      "D. During His baptism"
+    ],
+    "answer": "C",
+    "topic": "CRS – Promise of the Holy Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 340,
+    "question": "Stephen’s arrest and accusation was recorded in _____________",
+    "options": [
+      "A. Acts 6:8-15",
+      "B. Acts 5:17-42",
+      "C. Acts 8:8-15",
+      "D. Acts 7:1-5"
+    ],
+    "answer": "A",
+    "topic": "CRS – Stephen's Arrest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 341,
+    "question": "The day of Pentecost was originally a Jewish feast of _____________",
+    "options": [
+      "A. Passover",
+      "B. Weeks",
+      "C. Tabernacles",
+      "D. Atonement"
+    ],
+    "answer": "B",
+    "topic": "CRS – Pentecost",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "The man who was chosen to replace Judas Iscariot was _____________",
+    "options": [
+      "A. Barsabbas",
+      "B. Matthias",
+      "C. Barnabas",
+      "D. Silas"
+    ],
+    "answer": "B",
+    "topic": "CRS – Matthias Chosen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 343,
+    "question": "The punishment of Ananias and Sapphira teaches us that God hates _____________",
+    "options": [
+      "A. Laziness",
+      "B. Lying",
+      "C. Hypocrisy",
+      "D. Betrayal"
+    ],
+    "answer": "B",
+    "topic": "CRS – Ananias and Sapphira",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "Saul was converted on his way to _____________",
+    "options": [
+      "A. Galilee",
+      "B. Damascus",
+      "C. Joppa",
+      "D. Jerusalem"
+    ],
+    "answer": "B",
+    "topic": "CRS – Conversion of Saul",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "When Peter denied Jesus, the cock crowed _____________ times.",
+    "options": [
+      "A. Once",
+      "B. Twice",
+      "C. Thrice",
+      "D. Four times"
+    ],
+    "answer": "C",
+    "topic": "CRS – Peter's Denial",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "Jesus ascended to Heaven from _____________",
+    "options": [
+      "A. Mount Sinai",
+      "B. Mount Olives",
+      "C. Mount Zion",
+      "D. Mount Carmel"
+    ],
+    "answer": "B",
+    "topic": "CRS – Ascension",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 347,
+    "question": "The disciples were first called Christians at _____________",
+    "options": [
+      "A. Jerusalem",
+      "B. Antioch",
+      "C. Samaria",
+      "D. Corinth"
+    ],
+    "answer": "B",
+    "topic": "CRS – Name Christians",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 348,
+    "question": "The first Gentile convert recorded in Acts was _____________",
+    "options": [
+      "A. Cornelius",
+      "B. Simon",
+      "C. Elymas",
+      "D. Lydia"
+    ],
+    "answer": "A",
+    "topic": "CRS – Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "question": "Paul and Silas prayed and sang in prison at _____________",
+    "options": [
+      "A. Corinth",
+      "B. Philippi",
+      "C. Antioch",
+      "D. Rome"
+    ],
+    "answer": "B",
+    "topic": "CRS – Paul and Silas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 350,
+    "question": "The fruit of the Holy Spirit includes all except _____________",
+    "options": [
+      "A. Love",
+      "B. Joy",
+      "C. Hatred",
+      "D. Peace"
+    ],
+    "answer": "C",
+    "topic": "CRS – Fruit of the Spirit",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "Saul was led into Damascus by _____________",
+    "options": [
+      "A. Soldiers",
+      "B. His servants",
+      "C. His friends",
+      "D. The Jews"
+    ],
+    "answer": "B",
+    "topic": "CRS – Conversion of Saul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "Paul’s first missionary journey began from _____________",
+    "options": [
+      "A. Antioch",
+      "B. Jerusalem",
+      "C. Galilee",
+      "D. Rome"
+    ],
+    "answer": "A",
+    "topic": "CRS – Paul's First Journey",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 353,
+    "question": "The first miracle of Peter after Pentecost was _____________",
+    "options": [
+      "A. Healing the lame man",
+      "B. Raising Dorcas",
+      "C. Delivering Paul",
+      "D. Casting out demons"
+    ],
+    "answer": "A",
+    "topic": "CRS – Miracle of Peter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 354,
+    "question": "The Holy Spirit is also called the _____________",
+    "options": [
+      "A. Teacher",
+      "B. Comforter",
+      "C. Master",
+      "D. Judge"
+    ],
+    "answer": "B",
+    "topic": "CRS – The Comforter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "Paul was converted in the _____________ century A.D.",
+    "options": [
+      "A. First",
+      "B. Second",
+      "C. Third",
+      "D. Fourth"
+    ],
+    "answer": "A",
+    "topic": "CRS – Conversion of Paul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "question": "The name 'Emmanuel' means _____________",
+    "options": [
+      "A. Prince of Peace",
+      "B. God with us",
+      "C. The Saviour",
+      "D. King of Kings"
+    ],
+    "answer": "B",
+    "topic": "CRS – Meaning of Emmanuel",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 357,
+    "question": "Jesus was crucified at _____________",
+    "options": [
+      "A. Mount Sinai",
+      "B. Mount Olives",
+      "C. Golgotha",
+      "D. Nazareth"
+    ],
+    "answer": "C",
+    "topic": "CRS – Crucifixion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The first miracle of Jesus was turning water into _____________",
+    "options": [
+      "A. Blood",
+      "B. Wine",
+      "C. Oil",
+      "D. Honey"
+    ],
+    "answer": "B",
+    "topic": "CRS – First Miracle",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "The first sermon of Jesus was delivered on the _____________",
+    "options": [
+      "A. Sea of Galilee",
+      "B. Mount of Olives",
+      "C. Mount of Beatitudes",
+      "D. Temple"
+    ],
+    "answer": "C",
+    "topic": "CRS – Sermon on the Mount",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "The person who buried Jesus in his own tomb was _____________",
+    "options": [
+      "A. Nicodemus",
+      "B. Joseph of Arimathea",
+      "C. Simon of Cyrene",
+      "D. John the Disciple of Jesus"
+    ],
+    "answer": "B",
+    "topic": "CRS – Burial of Jesus",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 361,
+    "question": "The disciples were first called Christians in _____________",
+    "options": [
+      "A. Jerusalem",
+      "B. Antioch",
+      "C. Samaria",
+      "D. Rome"
+    ],
+    "answer": "B",
+    "topic": "CRS – Name Christians",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 362,
+    "question": "Cornelius' conversion was recorded in _____________",
+    "options": [
+      "A. Acts 8",
+      "B. Acts 9",
+      "C. Acts 10",
+      "D. Acts 12"
+    ],
+    "answer": "C",
+    "topic": "CRS – Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 363,
+    "question": "Aeneas was _____________ for _____________ years before he received his healing.",
+    "options": [
+      "A. Blind / 8",
+      "B. Paralyzed / 8",
+      "C. Sick / 12",
+      "D. Lame / 10"
+    ],
+    "answer": "B",
+    "topic": "CRS – Healing of Aeneas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 364,
+    "question": "The promise of the Holy Spirit was recorded in _____________",
+    "options": [
+      "A. Acts 1:8",
+      "B. Acts 2:1-4",
+      "C. Acts 3:1-10",
+      "D. Acts 4:12"
+    ],
+    "answer": "A",
+    "topic": "CRS – Promise of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 365,
+    "question": "Herod known as King _____________ was responsible for the death of James, John's brother.",
+    "options": [
+      "A. Herod the Great",
+      "B. Herod Antipas",
+      "C. Herod Agrippa I",
+      "D. Herod Agrippa II"
+    ],
+    "answer": "C",
+    "topic": "CRS – Persecution by Herod",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 366,
+    "question": "Herod's opposition to the Gospel was recorded in Acts _____________",
+    "options": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 13"
+    ],
+    "answer": "C",
+    "topic": "CRS – Herod's Opposition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "question": "\"May your money perish with you\" was said by _____________ to _____________.",
+    "options": [
+      "A. Paul / Elymas",
+      "B. Peter / Simon",
+      "C. Philip / Simon",
+      "D. John / Matthias"
+    ],
+    "answer": "B",
+    "topic": "CRS – Peter and Simon",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 368,
+    "question": "In Peter's vision, the sheet from Heaven means _____________",
+    "options": [
+      "A. God accepts both Jews and Gentiles",
+      "B. Jews are superior",
+      "C. Animals should not be eaten",
+      "D. Gentiles are unclean"
+    ],
+    "answer": "A",
+    "topic": "CRS – Peter's Vision",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 369,
+    "question": "Peter's movement was from Jerusalem to ___________, then ___________, then ___________, and finally ___________.",
+    "options": [
+      "A. Samaria / Lydda / Joppa / Caesarea",
+      "B. Antioch / Damascus / Joppa / Rome",
+      "C. Lydda / Samaria / Antioch / Caesarea",
+      "D. Joppa / Lydda / Jerusalem / Caesarea"
+    ],
+    "answer": "A",
+    "topic": "CRS – Peter's Journeys",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "question": "The city where Cornelius lived was _____________",
+    "options": [
+      "A. Joppa",
+      "B. Jerusalem",
+      "C. Caesarea",
+      "D. Damascus"
+    ],
+    "answer": "C",
+    "topic": "CRS – Cornelius",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 371,
+    "question": "Dorcas was also known as _____________",
+    "options": [
+      "A. Lydia",
+      "B. Tabitha",
+      "C. Martha",
+      "D. Eunice"
+    ],
+    "answer": "B",
+    "topic": "CRS – Dorcas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "The apostles received the Holy Spirit on the day of _____________",
+    "options": [
+      "A. Passover",
+      "B. Pentecost",
+      "C. Atonement",
+      "D. Tabernacles"
+    ],
+    "answer": "B",
+    "topic": "CRS – Pentecost",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "The believers devoted themselves to the apostles' teaching, fellowship, breaking of bread and _____________",
+    "options": [
+      "A. Singing",
+      "B. Prayer",
+      "C. Fasting",
+      "D. Sacrifice"
+    ],
+    "answer": "B",
+    "topic": "CRS – Early Church",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 374,
+    "question": "The Ethiopian Eunuch was baptized by _____________",
+    "options": [
+      "A. Peter",
+      "B. Philip",
+      "C. Paul",
+      "D. Stephen"
+    ],
+    "answer": "B",
+    "topic": "CRS – Ethiopian Eunuch",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "Saul regained his sight through the ministry of _____________",
+    "options": [
+      "A. Barnabas",
+      "B. Ananias",
+      "C. Silas",
+      "D. Timothy"
+    ],
+    "answer": "B",
+    "topic": "CRS – Conversion of Saul",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 376,
+    "question": "The first Christian martyr was stoned to death at _____________",
+    "options": [
+      "A. Antioch",
+      "B. Jerusalem",
+      "C. Damascus",
+      "D. Caesarea"
+    ],
+    "answer": "B",
+    "topic": "CRS – Martyrdom of Stephen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 377,
+    "question": "The replacement for Judas Iscariot was chosen by _____________",
+    "options": [
+      "A. Election",
+      "B. Appointment",
+      "C. Casting of Lots",
+      "D. Prophecy"
+    ],
+    "answer": "C",
+    "topic": "CRS – Matthias Chosen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "The apostles were instructed by Jesus to wait in Jerusalem for the _____________",
+    "options": [
+      "A. Kingdom",
+      "B. Promise of the Father",
+      "C. Temple Feast",
+      "D. Passover"
+    ],
+    "answer": "B",
+    "topic": "CRS – Promise of the Spirit",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 379,
+    "question": "The church appointed seven men to serve because of complaints about the daily distribution to _____________",
+    "options": [
+      "A. Priests",
+      "B. Widows",
+      "C. Children",
+      "D. Strangers"
+    ],
+    "answer": "B",
+    "topic": "CRS – Appointment of Deacons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 380,
+    "question": "Stephen was described as a man full of faith and _____________",
+    "options": [
+      "A. Wisdom",
+      "B. Wealth",
+      "C. Courage",
+      "D. Strength"
+    ],
+    "answer": "A",
+    "topic": "CRS – Stephen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "God created the world out of _____________",
+    "options": [
+      "A. Heaven",
+      "B. Ocean",
+      "C. Sand",
+      "D. Nothing"
+    ],
+    "answer": "D",
+    "topic": "CRS – Creation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "The instrument God used in creation was _____________",
+    "options": [
+      "A. Omniscience",
+      "B. Omnipotent",
+      "C. Command",
+      "D. Breath"
+    ],
+    "answer": "C",
+    "topic": "CRS – Creation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 383,
+    "question": "In the creation account, the job of giving names to all living creatures was done by _____________",
+    "options": [
+      "A. Heavenly beings",
+      "B. Eve",
+      "C. Adam and Eve",
+      "D. Man"
+    ],
+    "answer": "D",
+    "topic": "CRS – Creation of Man",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 384,
+    "question": "The greatest reason why Joseph’s brothers decided to do away with him was because _____________",
+    "options": [
+      "A. His father made him robes with long sleeves",
+      "B. Of his pride",
+      "C. Of the meaning of his dreams",
+      "D. He was very handsome"
+    ],
+    "answer": "C",
+    "topic": "CRS – Joseph and His Brothers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "question": "Aaron accompanied Moses to Pharaoh because _____________",
+    "options": [
+      "A. Aaron was a Levite",
+      "B. Aaron was bolder than Moses",
+      "C. Aaron was appointed by the people",
+      "D. Moses was deficient in speech"
+    ],
+    "answer": "D",
+    "topic": "CRS – Moses and Aaron",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "Moses was keeping the flock of his father-in-law on mount _____________",
+    "options": [
+      "A. Gilboa",
+      "B. Horeb",
+      "C. Nebo",
+      "D. Carmel"
+    ],
+    "answer": "B",
+    "topic": "CRS – Call of Moses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "question": "The Hebrew midwives refused to kill the Hebrew children because _____________",
+    "options": [
+      "A. The Hebrew women prevented them from doing so",
+      "B. They feared God",
+      "C. They were of the same blood with Hebrew women",
+      "D. They were bribed by Hebrew men"
+    ],
+    "answer": "B",
+    "topic": "CRS – Hebrew Midwives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "At the time Deborah became a judge in Israel, she was a _____________",
+    "options": [
+      "A. Seer",
+      "B. Prophetess",
+      "C. Priestess",
+      "D. Medium"
+    ],
+    "answer": "B",
+    "topic": "CRS – Deborah",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 389,
+    "question": "Joshua and Caleb were from the tribe of _____________",
+    "options": [
+      "A. Judah and Reuben",
+      "B. Reuben and Dan",
+      "C. Reuben and Ephraim",
+      "D. Judah and Ephraim"
+    ],
+    "answer": "D",
+    "topic": "CRS – Joshua and Caleb",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 390,
+    "question": "The Lord will sell Sisera into the hand of a woman. This statement was made by Deborah to _____________",
+    "options": [
+      "A. Lappidoth",
+      "B. Jael",
+      "C. Barak",
+      "D. Jabin"
+    ],
+    "answer": "C",
+    "topic": "CRS – Deborah and Barak",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "God provided water for the Israelites by asking Moses to strike the rock at the wilderness of _____________",
+    "options": [
+      "A. Paran",
+      "B. Massah",
+      "C. Zin",
+      "D. Rephidim"
+    ],
+    "answer": "D",
+    "topic": "CRS – Water from the Rock",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "The army of Israel led by Barak defeated the Canaanite troops led by _____________",
+    "options": [
+      "A. Deborah",
+      "B. Lappidoth",
+      "C. Heber",
+      "D. Sisera"
+    ],
+    "answer": "D",
+    "topic": "CRS – Deborah and Barak",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 393,
+    "question": "The government system in Israel during the period of Judges was _____________",
+    "options": [
+      "A. An oligarchy",
+      "B. A monarch",
+      "C. A loose tribal confederacy",
+      "D. A theocracy"
+    ],
+    "answer": "D",
+    "topic": "CRS – Period of Judges",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 394,
+    "question": "Eli’s lack of parental responsibility led to all of the following except the _____________",
+    "options": [
+      "A. Institution of the monarchy in Israel",
+      "B. Collapse of Eli’s priestly lineage",
+      "C. Decisive defeat of Israel by the Philistines",
+      "D. Death of Hophni and Phinehas"
+    ],
+    "answer": "A",
+    "topic": "CRS – Eli and His Sons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "The great enemy of Israel who destroyed the sanctuary at Shiloh and captured the ark of covenant was _____________",
+    "options": [
+      "A. Ammon",
+      "B. Midian",
+      "C. Philistine",
+      "D. Edom"
+    ],
+    "answer": "C",
+    "topic": "CRS – Ark of the Covenant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 396,
+    "question": "When God said to Solomon, ‘Ask what I shall give you,’ he requested for _____________",
+    "options": [
+      "A. The art of governance",
+      "B. The art of worship",
+      "C. Fame and honour",
+      "D. Long life and prosperity"
+    ],
+    "answer": "A",
+    "topic": "CRS – Solomon's Wisdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "God allowed Rehoboam to retain only one tribe in Israel because _____________",
+    "options": [
+      "A. His father, Solomon, had shared the tribes among his other brothers",
+      "B. He had married many foreign wives",
+      "C. The northern tribes had successfully revolted against him",
+      "D. Of David, who had been faithful to the Lord"
+    ],
+    "answer": "D",
+    "topic": "CRS – Division of the Kingdom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 398,
+    "question": "Which of the following decisions did Solomon take contrary to the will of God?",
+    "options": [
+      "A. Building a temple for God",
+      "B. Marrying foreign wives who came with their gods to Israel",
+      "C. Inviting foreign labour for his building projects",
+      "D. Making Jeroboam take leadership position"
+    ],
+    "answer": "B",
+    "topic": "CRS – Solomon's Downfall",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "King Josiah was inspired to reform the worship of God in Judah by _____________",
+    "options": [
+      "A. Hilkiah the priest",
+      "B. Shaphan the king’s secretary",
+      "C. The workers repairing the temple",
+      "D. The contents of the book of law"
+    ],
+    "answer": "D",
+    "topic": "CRS – Josiah's Reforms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 400,
+    "question": "Naaman the commander of the Syrian army had his leprosy cured by _____________",
+    "options": [
+      "A. Elijah",
+      "B. Obadiah",
+      "C. Ezekiel",
+      "D. Elisha"
+    ],
+    "answer": "D",
+    "topic": "CRS – Naaman Healed",
+    "difficulty": "Hard"
+  }
+]

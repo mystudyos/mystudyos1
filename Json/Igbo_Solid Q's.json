@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "Kedu nke a bụ ụdaume Igbo?",
+    "options": ["A. b, d, f, g", "B. a, e, i, o, u", "C. kp, gw, kw", "D. ch, sh, ny"],
+    "answer": "B",
+    "topic": "Ụdaasụsụ Igbo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Mgbochiume 'kp' bụ ụdị ụdaasụsụ dị aṅaa?",
+    "options": ["A. Mgbọchiume ọnụ", "B. Mgbọchiume imi", "C. Mgbọchiume ọnụ na imi", "D. Mgbọchiume egbugbere ọnụ"],
+    "answer": "C",
+    "topic": "Mgbochiume",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "question": "Kedu otu a na-akpọ ụdaume ndị a: 'ị, ọ, ụ'?",
+    "options": ["A. Ụdaume ọnụ atọ", "B. Ụdaume anọ", "C. Ụdaume ọnụ ise", "D. Ụdaume iri"],
+    "answer": "A",
+    "topic": "Ụdaume",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "Kedu mkpụrụedemede Igbo a na-akpọ 'myiri ụdaume'?",
+    "options": ["A. m, n, ny", "B. kp, gw, kw", "C. a, e, i", "D. ị, ọ, ụ"],
+    "answer": "A",
+    "topic": "Myiri ụdaume",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Kedu ihe akara udaolu na-egosi n'asụsụ Igbo?",
+    "options": ["A. Mkpụrụ okwu", "B. Ụdà olu", "C. Mkpụrụedemede", "D. Akara edemede"],
+    "answer": "B",
+    "topic": "Akara udaolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Kedu mkpụrụ okwu nwere udaolu dị elu (´) n'elu ụdaume ya?",
+    "options": ["A. Ákụ", "B. Àkụ", "C. Akụ", "D. Ákù"],
+    "answer": "A",
+    "topic": "Udaolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Kedu n'ime ndị a bụ mgbochiume ndị a na-akpọ 'ọnụ na imi'?",
+    "options": ["A. b, d, g", "B. kp, gw, kw", "C. m, n, ny", "D. f, s, h"],
+    "answer": "B",
+    "topic": "Mgbochiume ọnụ na imi",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Olee otu mkpụrụedemede a na-akpọ 'akara edemede'?",
+    "options": ["A. a, e, i, o, u", "B. , . ; : ? !", "C. b, d, f, g", "D. 1,2,3,4"],
+    "answer": "B",
+    "topic": "Akara edemede",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Kedu ihe 'mkpụrụokwu' pụtara?",
+    "options": ["A. Mkpụrụedemede nwere udaume", "B. Ụdà olu n'elu ụdaume", "C. Ihe mejupụtara nkeji okwu", "D. Akara edemede"],
+    "answer": "C",
+    "topic": "Mkpụrụokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Kedu ụdị nkebiokwu a bụ 'n'ụlọ'?",
+    "options": ["A. Nkebiokwu nkọwaaha", "B. Nkebiokwu nkebụvzo", "C. Nkebiokwu nkebụaha", "D. Nkebiokwu nkebụnnọchiaha"],
+    "answer": "B",
+    "topic": "Nkebiokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "N'ahịrịokwu 'Nwoke ahụ bịara', kedu nkebiokwu bụ isi?",
+    "options": ["A. Nwoke ahụ", "B. Bịara", "C. Ahụ bịara", "D. Nwoke bịara"],
+    "answer": "A",
+    "topic": "Nkebiokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Kedu nkebiahiri a bụ 'ọ bịara'?",
+    "options": ["A. Nkebiahiri nkeji", "B. Nkebiahiri nkwuwa", "C. Nkebiahiri ntụkwa", "D. Nkebiahiri ngwaa"],
+    "answer": "B",
+    "topic": "Nkebiahiri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Nkebiahiri 'ọ bịara' bụ ụdị nnọchiaha + ngwaa, a na-akpọ ya?",
+    "options": ["A. Nkebiahiri nkeji", "B. Nkebiahiri nnọchiaha", "C. Nkebiahiri nkwuwa", "D. Nkebiahiri ngwaa"],
+    "answer": "C",
+    "topic": "Nkebiahiri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "Kedu akara edemede a na-eji ngwụcha ajụjụ?",
+    "options": ["A. Dot (.)", "B. Koma (,)", "C. Akara ajụjụ (?)", "D. Akara mkpu (!)"],
+    "answer": "C",
+    "topic": "Akara edemede",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Kedu n'ime ndị a bụ nnochiaha onye nke mbụ?",
+    "options": ["A. M, anyị", "B. Gị, unu", "C. Ya, ha", "D. Onwe, onwe anyị"],
+    "answer": "A",
+    "topic": "Nnọchiaha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "Kedu n'ime ndị a bụ ngwaa?",
+    "options": ["A. Ọsọ", "B. Ọma", "C. Ịgba ọsọ", "D. Ọsọsọ"],
+    "answer": "C",
+    "topic": "Ngwaa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Kedu n'ime ndị a bụ nkọwaaha?",
+    "options": ["A. Ọma", "B. Ịma", "C. Mma", "D. Ezi"],
+    "answer": "A",
+    "topic": "Nkọwaaha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "Kedu njiko a na-ejikọ ahịrịokwu abụọ?",
+    "options": ["A. N'ihi na", "B. Ebe", "C. Ma", "D. Mụ na"],
+    "answer": "C",
+    "topic": "Njiko",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "Kedu mbuụzọ a pụtara 'n'okpuru'?",
+    "options": ["A. N'elu", "B. N'okpuru", "C. N'akụkụ", "D. N'azụ"],
+    "answer": "B",
+    "topic": "Mbuụzọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Kedu nkuụwa a na-egosi otu e si eme ihe?",
+    "options": ["A. Ngwa ngwa", "B. Nwayọọ", "C. Uzuzu", "D. Ụra"],
+    "answer": "B",
+    "topic": "Nkuụwa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Kedu ihe 'na' na-arụ n'ahịrịokwu 'Ọ na-abịa'?",
+    "options": ["A. Mbuụzọ", "B. Njiko", "C. Nnyemaka ngwaa", "D. Nkọwaaha"],
+    "answer": "C",
+    "topic": "Oru 'Na'",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "N'ahịrịokwu 'Nwoke ahụ nọ n'ụlọ', kedu ihe 'na' bụ?",
+    "options": ["A. Nnyemaka ngwaa", "B. Mbuụzọ", "C. Njiko", "D. Nkọwaaha"],
+    "answer": "B",
+    "topic": "Mbuụzọ 'na'",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Tụgharịa 'I am coming' gaa n'Igbo.",
+    "options": ["A. M na-abịa", "B. Ana m abịa", "C. M bịara", "D. M na-aga"],
+    "answer": "A",
+    "topic": "Ntụgharị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Tụgharịa 'Akwụkwọ ahụ dị na tebụl' gaa n'asụsụ Bekee.",
+    "options": ["A. The book is on the table", "B. The table is on the book", "C. The book and the table", "D. The book has a table"],
+    "answer": "A",
+    "topic": "Ntụgharị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Kedu ihe bụ 'isiokwu' n'edemede?",
+    "options": ["A. Nkebi edemede", "B. Okpurukpu okwu", "C. Ahịrịokwu mbụ", "D. Akara edemede"],
+    "answer": "B",
+    "topic": "Edemede",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "Kedu ụdị leta a na-edegara enyi?",
+    "options": ["A. LETA gọọmenti", "B. LETA ụlọ ọrụ", "C. LETA nzuzo", "D. LETA akwụkwọ akụkọ"],
+    "answer": "C",
+    "topic": "Edemede leta",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "N'akwụkwọ ozi nzuzo, kedu ihe a na-ede n'elu aka nri?",
+    "options": ["A. Aha onye natara ya", "B. Adreesị onye ziri ya", "C. Adreesị onye natara ya", "D. Isiokwu"],
+    "answer": "B",
+    "topic": "Edemede leta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "Kedu ọrụ nne n'ezinaụlọ Igbo?",
+    "options": ["A. Ịzụ ụmụ", "B. Ịchụ nta", "C. Ịkụziri ụmụ ihe", "D. Ịrụ ọrụ ugbo"],
+    "answer": "A",
+    "topic": "Ezinaụlọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Kedu ihe bụ 'nrube isi'?",
+    "options": ["A. Inye ntụziaka", "B. Ige ntị n'iwu", "C. Inye aka", "D. Ịgba ụka"],
+    "answer": "B",
+    "topic": "Ekuumekwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Kedu otu a na-akpọ akụkọ ifo ndị Igbo?",
+    "options": ["A. Akụkọ ọdịnala", "B. Akụkọ ihe mere eme", "C. Akụkọ agha", "D. Akụkọ ụmụ anụmanụ"],
+    "answer": "A",
+    "topic": "Akụkọ ọdịnala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Kedu ihe bụ 'ejije'?",
+    "options": ["A. Akụkọ dị mkpirikpi", "B. Ihe nkiri a na-eme n'ọgbọ", "C. Abụ ọdịnala", "D. Ilu Igbo"],
+    "answer": "B",
+    "topic": "Ejije",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "Kedu ihe a na-akpọ abụ ndị Igbo na-ekwu maka ịhụnanya?",
+    "options": ["A. Abụ ọchị", "B. Abụ ịhụnanya", "C. Abụ ụmụaka", "D. Abụ akụkọ"],
+    "answer": "B",
+    "topic": "Abụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Kedu ihe bụ 'ilu' n'asụsụ Igbo?",
+    "options": ["A. Akụkọ dị mkpirikpi", "B. Okwu amamihe", "C. Abụ ụmụaka", "D. Akụkọ ifo"],
+    "answer": "B",
+    "topic": "Atụmatụokwu - Ilu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Kedu ihe a na-akpọ 'akpaalaokwu'?",
+    "options": ["A. Ilu", "B. Abụ", "C. Okwu ochie", "D. Akụkọ"],
+    "answer": "C",
+    "topic": "Atụmatụokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "Kedu ihe a na-akpọ 'agwụgwa'?",
+    "options": ["A. Ilu", "B. Agụmagụ ọdịnala", "C. Egwuregwu ụmụaka", "D. Akụkọ ifo"],
+    "answer": "B",
+    "topic": "Agwụgwa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Kedu onye na-ahụ maka ịkọ akụkọ ọdịnala n'ezinaụlọ Igbo?",
+    "options": ["A. Nna", "B. Nne", "C. Nne nne", "D. Nwanne nwoke"],
+    "answer": "C",
+    "topic": "Omenaala",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Kedu ebe ndị Igbo si kwere na ha sitere?",
+    "options": ["A. Ife", "B. Nri", "C. Benin", "D. Igala"],
+    "answer": "B",
+    "topic": "Ọdịnala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "Kedu ihe a na-akpọ 'ọrụ ọnụ' n'omenala Igbo?",
+    "options": ["A. Igba ụka", "B. Ịkọ akụkọ", "C. Ịkụ izu", "D. Ịgba egwu"],
+    "answer": "B",
+    "topic": "Omenaala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Kedu ụdị mmemme a na-enwe mgbe a na-alụ nwanyị n'Igbo?",
+    "options": ["A. Iri ji", "B. Igba nkwụ", "C. Ịzụ nwa", "D. Ịgba ọgwụ"],
+    "answer": "B",
+    "topic": "Ilu nwaanyị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Kedu onye bụ eze n'ọdịnala Igbo?",
+    "options": ["A. Onye isi obodo", "B. Onye ụkọchukwu", "C. Onye okenye", "D. Onye na-agba egwu"],
+    "answer": "A",
+    "topic": "Ọdịnala",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Kedu ihe bụ 'iri ji' n'omenala Igbo?",
+    "options": ["A. Ememe ọnwụ", "B. Ememe oriri ji ọhụrụ", "C. Ememe ọmụmụ nwa", "D. Ememe agbamakwụkwọ"],
+    "answer": "B",
+    "topic": "Omenaala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "Kedu ihe bụ 'ile omugwo'?",
+    "options": ["A. Ịga leta nwa ọhụrụ", "B. Ịga ebe a na-akụ nkwụ", "C. Ịga ekpere", "D. Ịga emume"],
+    "answer": "A",
+    "topic": "Omenaala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "Kedu ụzọ nzisaazi ozi nke oge ochie n'Igbo?",
+    "options": ["A. Ekwentị", "B. Igwe", "C. Okwu ọnụ", "D. Tiivii"],
+    "answer": "C",
+    "topic": "Nzisaazi",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Kedu ụzọ nzisaazi ozi nke oge a?",
+    "options": ["A. Ịkụ ekwe", "B. Igbà ogele", "C. Redio", "D. Ịhịa mkpu"],
+    "answer": "C",
+    "topic": "Nzisaazi",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Kedu otu a na-akpọ ugbo ala na-asụ asụsụ Igbo?",
+    "options": ["A. Ọtụtụ Igbo", "B. Ala Igbo", "C. Obodo Igbo", "D. Ndị Igbo"],
+    "answer": "B",
+    "topic": "Ala Igbo",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Kedu aha a na-akpọ nri a tụrụ n'efere Igbo?",
+    "options": ["A. Ji", "B. Abacha", "C. Ọka", "D. Edikang ikong"],
+    "answer": "B",
+    "topic": "Nri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Kedu ihe a na-akpọ akpụkpọ ụkwụ ndị Igbo?",
+    "options": ["A. Ụkpụkpọ ụkwụ", "B. Akpụkpọ ụkwụ", "C. Ụkwụ", "D. Akpụkpọ"],
+    "answer": "B",
+    "topic": "Uwe",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "Kedu ihe a na-akpọ 'nkiti' n'asụsụ Igbo?",
+    "options": ["A. Ịgba egwu", "B. Izu ike", "C. Ịkụ ọkpọ", "D. Ịgba ọsọ"],
+    "answer": "B",
+    "topic": "Nkiti",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "Kedu ihe a na-akpọ 'ọrụ ugbo' n'Igbo?",
+    "options": ["A. Ịkụ ihe", "B. Ịkọ ugbo", "C. Ịzụ anụ", "D. Ịchụ nta"],
+    "answer": "B",
+    "topic": "Akaọrụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Kedu ihe a na-akpọ 'ịzụ ahịa' n'Igbo?",
+    "options": ["A. Ịre ahịa", "B. Ịzụ ahịa", "C. Ịgba ahịa", "D. Ịchụ ahịa"],
+    "answer": "B",
+    "topic": "Ahịa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Kedu ihe a na-akpọ 'ọgwụ' n'asụsụ Igbo?",
+    "options": ["A. Ọgwụ", "B. Ọgwu", "C. Ọgwụgwu", "D. Ọgwa"],
+    "answer": "A",
+    "topic": "Ahụike",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Kedu ihe a na-akpọ 'ụlọ akwụkwọ' n'Igbo?",
+    "options": ["A. Ụlọ ihe", "B. Ụlọ akwụkwọ", "C. Ụlọ ọrụ", "D. Ụlọ uka"],
+    "answer": "B",
+    "topic": "Ụlọ akwụkwọ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Kedu ihe bụ 'nkebiokwu' n'asụsụ Igbo?",
+    "options": ["A. Mkpokọta mkpụrụokwu nwere ihe ọ pụtara", "B. Mkpụrụokwu nwere ụdaolu", "C. Akara edemede", "D. Nkebiahiri"],
+    "answer": "A",
+    "topic": "Nkebiokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "Kedu nke a bụ ụdaume iri atọ na abụọ n'asụsụ Igbo?",
+    "options": ["A. a, e, i, o, u, ị, ọ, ụ", "B. a, b, c, d", "C. a, e, i, o, u", "D. ch, gb, gw, kw"],
+    "answer": "A",
+    "topic": "Ụdaume",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "Kedu ọnụọgụ Igbo nke pụtara 'iri abụọ'?",
+    "options": ["A. Iri atọ", "B. Iri abụọ", "C. Iri na abụọ", "D. Iri anọ"],
+    "answer": "B",
+    "topic": "Ọnụọgụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Kedu ọnụọgụ Igbo nke pụtara 'ịrị anọ'?",
+    "options": ["A. Iri anọ", "B. Iri asatọ", "C. Iri ise", "D. Iri itoolu"],
+    "answer": "A",
+    "topic": "Ọnụọgụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Kedu aha a na-akpọ 'akwụkwọ e ji ede ihe' n'Igbo?",
+    "options": ["A. Akwụkwọ edemede", "B. Akwụkwọ ndekọ", "C. Akwụkwọ ihe", "D. Akwụkwọ agụmagụ"],
+    "answer": "B",
+    "topic": "Akwụkwọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Kedu aha a na-akpọ 'bọọlụ' n'Igbo?",
+    "options": ["A. Bọọlụ", "B. Egwuregwu", "C. Ịgba bọọlụ", "D. Bọọlụ ụkwụ"],
+    "answer": "A",
+    "topic": "Egwuregwu",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Kedu ihe bụ 'ọdịnala' n'asụsụ Igbo?",
+    "options": ["A. Ụzọ ndụ", "B. Omenala", "C. Akụkọ ihe mere eme", "D. Iwu"],
+    "answer": "B",
+    "topic": "Ọdịnala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Kedu ihe bụ 'agụmagụ'?",
+    "options": ["A. Akụkọ ifo", "B. Ihe e dere ede", "C. Abụ", "D. Ihe nkiri"],
+    "answer": "B",
+    "topic": "Agụmagụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Kedu ihe bụ 'tragedi' n'asụsụ Igbo?",
+    "options": ["A. Ejije ọchị", "B. Ejije mwute", "C. Ejije ihe nkiri", "D. Ejije akụkọ"],
+    "answer": "B",
+    "topic": "Ejije",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Kedu aha a na-akpọ 'onye na-eme ihe nkiri' n'Igbo?",
+    "options": ["A. Onye na-eme ihe nkiri", "B. Onye nkiri", "C. Onye egwu", "D. Onye ọbụ abụ"],
+    "answer": "A",
+    "topic": "Ejije",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Kedu ihe bụ 'mbụrụ' n'asụsụ Igbo?",
+    "options": ["A. Okwu ochie", "B. Ilu", "C. Akụkọ ifo", "D. Ụda ụmụ anụmanụ"],
+    "answer": "B",
+    "topic": "Atụmatụokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Kedu ihe bụ 'mkpụrụokwu' a 'chịrị' pụtara?",
+    "options": ["A. Ịchị ọchị", "B. Ịchị isi", "C. Ịchị nchịkọta", "D. Ịchị ụwa"],
+    "answer": "A",
+    "topic": "Mkpụrụokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Kedu ihe bụ 'onye isi ala' n'Igbo?",
+    "options": ["A. Onye isi obodo", "B. Onye isi ala", "C. Onye Ọchịchị", "D. Onye ọka ikpe"],
+    "answer": "B",
+    "topic": "Ọchịchị",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Kedu ihe bụ 'umunna' n'omenala Igbo?",
+    "options": ["A. Ndị ikwu n'otu agbụrụ", "B. Ndị ụmụ nwoke", "C. Ndị ụmụ nwanyị", "D. Ndị na-abụghị ikwu"],
+    "answer": "A",
+    "topic": "Umunna",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Kedu ihe a na-akpọ 'ncheta ọmụmụ' n'Igbo?",
+    "options": ["A. Ụbọchị ọmụmụ", "B. Ncheta ọmụmụ", "C. Emume ọmụmụ", "D. Ịcheta ọmụmụ"],
+    "answer": "B",
+    "topic": "Ihe ndị na-eme n'ezinaụlọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Kedu aha a na-akpọ 'akpa ego' n'Igbo?",
+    "options": ["A. Akpa ego", "B. Akpa", "C. Ego", "D. Ọkpụ ego"],
+    "answer": "A",
+    "topic": "Ego",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "Kedu ihe bụ 'ọbịa' n'asụsụ Igbo?",
+    "options": ["A. Onye ọhụrụ", "B. Onye na-abịa", "C. Onye ọbịa", "D. Onye nwe ụlọ"],
+    "answer": "C",
+    "topic": "Ọbịa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Kedu ihe a na-akpọ 'ụmụ anụmanụ nke ọhịa' n'Igbo?",
+    "options": ["A. Anụ ọhịa", "B. Anụ ụlọ", "C. Ụmụ anụmanụ", "D. Anụ mmiri"],
+    "answer": "A",
+    "topic": "Anụmanụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Kedu ihe bụ 'nkwado' n'asụsụ Igbo?",
+    "options": ["A. Ịkwado", "B. Enyemaka", "C. Nkwado", "D. Ịzụlite"],
+    "answer": "C",
+    "topic": "Nkwado",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Kedu ihe bụ 'ọkụ' n'asụsụ Igbo?",
+    "options": ["A. Ọkụ", "B. Ọkụ ọkụ", "C. Ire ọkụ", "D. Ọkụ mmụọ"],
+    "answer": "A",
+    "topic": "Ọkụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Kedu ihe bụ 'mmiri ozuzo' n'Igbo?",
+    "options": ["A. Mmiri ozuzo", "B. Mmiri eze", "C. Mmiri oyi", "D. Mmiri ukwu"],
+    "answer": "A",
+    "topic": "Mmiri",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "Kedu ihe a na-akpọ 'okwu a na-ekwu n'ezinụlọ'?",
+    "options": ["A. Okwu ezinụlọ", "B. Okwu ọnụ", "C. Okwu nzuzo", "D. Okwu ọha"],
+    "answer": "A",
+    "topic": "Okwu ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Kedu ihe bụ 'ịgba akwụkwọ' n'asụsụ Igbo?",
+    "options": ["A. Ịgba akwụkwọ", "B. Ịgba ụka", "C. Ịgba ọsọ", "D. Ịgba egwu"],
+    "answer": "A",
+    "topic": "Agụmakwụkwọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Kedu ihe a na-akpọ 'ụlọ akwụkwọ sekọndrị' n'Igbo?",
+    "options": ["A. Ụlọ akwụkwọ sekọndrị", "B. Ụlọ akwụkwọ praịmarị", "C. Ụlọ akwụkwọ kọleji", "D. Ụlọ akwụkwọ ọzụzụ"],
+    "answer": "A",
+    "topic": "Ụlọ akwụkwọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Kedu ihe bụ 'ọkammụta' n'asụsụ Igbo?",
+    "options": ["A. Onye nkuzi", "B. Onye ọkà mmụta", "C. Onye prọfesọ", "D. Onye nchọpụta"],
+    "answer": "B",
+    "topic": "Ọkammụta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Kedu ihe a na-akpọ 'ọrụ ugbo' n'Igbo?",
+    "options": ["A. Ọrụ ugbo", "B. Ọrụ ubi", "C. Ọrụ ịkọ ihe", "D. Ọrụ ịzụ anụ"],
+    "answer": "A",
+    "topic": "Akaọrụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Kedu ihe bụ 'ọnwụ' n'asụsụ Igbo?",
+    "options": ["A. Ọnwụ", "B. Ọrịa", "C. Ọgwụ", "D. Ọchị"],
+    "answer": "A",
+    "topic": "Ọnwụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Kedu ihe a na-akpọ 'nzukọ' n'Igbo?",
+    "options": ["A. Nzukọ", "B. Ọgbakọ", "C. Ọmụmụ", "D. Nkịtị"],
+    "answer": "A",
+    "topic": "Nzukọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Kedu ihe a na-akpọ 'ọkwa' n'asụsụ Igbo?",
+    "options": ["A. Ọkwa", "B. Ọkwá", "C. Ọkwọ", "D. Ọkpa"],
+    "answer": "A",
+    "topic": "Ọkwa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "Kedu ihe a na-akpọ 'ụmụ nwaanyị' n'Igbo?",
+    "options": ["A. Ụmụ nwanyị", "B. Ụmụ nwoke", "C. Ụmụaka", "D. Ụmụ nne"],
+    "answer": "A",
+    "topic": "Ụmụ nwanyị",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "Kedu ihe a na-akpọ 'ụmụ nwoke' n'Igbo?",
+    "options": ["A. Ụmụ nwoke", "B. Ụmụ nwanyị", "C. Ụmụaka", "D. Ụmụ nna"],
+    "answer": "A",
+    "topic": "Ụmụ nwoke",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "Kedu ihe a na-akpọ 'nwanne nna' n'Igbo?",
+    "options": ["A. Nwanne nna", "B. Nwanne nne", "C. Nna nna", "D. Nne nna"],
+    "answer": "A",
+    "topic": "Ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "Kedu ihe a na-akpọ 'nwanne nne' n'Igbo?",
+    "options": ["A. Nwanne nne", "B. Nwanne nna", "C. Nna nne", "D. Nne nne"],
+    "answer": "A",
+    "topic": "Ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Kedu ihe bụ 'ụda olu' n'asụsụ Igbo?",
+    "options": ["A. Ụda olu", "B. Ụdaume", "C. Mkpọpụta okwu", "D. Mkpụrụedemede"],
+    "answer": "A",
+    "topic": "Ụda olu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "Kedu ihe bụ 'nkebi okwu'?",
+    "options": ["A. Otu okwu", "B. Otú okwu nwere isiokwu", "C. Okwu abụọ jikọtara", "D. Akara edemede"],
+    "answer": "B",
+    "topic": "Nkebi okwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Kedu ihe bụ 'nkebi ahịrịokwu'?",
+    "options": ["A. Otu mkpụrụokwu", "B. Akụkụ ahịrịokwu nwere ngwaa", "C. Mkpụrụedemede", "D. Ụdaume"],
+    "answer": "B",
+    "topic": "Nkebi ahịrịokwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "Kedu ihe bụ 'asụsụ' n'ozuzu?",
+    "options": ["A. Ụzọ e si ekwurịta okwu", "B. Ụzọ e si ede ihe", "C. Ụzọ e si agụ ihe", "D. Ụzọ e si agụ egwu"],
+    "answer": "A",
+    "topic": "Asụsụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "Kedu aha a na-akpọ 'ụdaume ndị a na-akpọ 'elekere''?",
+    "options": ["A. Ụdaume ọnụ", "B. Ụdaume imi", "C. Ụdaume mgbaka", "D. Ụdaume olu"],
+    "answer": "B",
+    "topic": "Ụdaume imi",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Kedu aha a na-akpọ 'ọnụọgụ anọ' n'Igbo?",
+    "options": ["A. Anọ", "B. Atọ", "C. Asatọ", "D. Itoolu"],
+    "answer": "A",
+    "topic": "Ọnụọgụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Kedu ihe a na-akpọ 'ọkpara' n'ezinụlọ Igbo?",
+    "options": ["A. Nwa mbụ nwoke", "B. Nwa mbụ nwanyị", "C. Nwa nke abụọ", "D. Nwa ikpeazụ"],
+    "answer": "A",
+    "topic": "Ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "Kedu ihe a na-akpọ 'ọpụtara'?",
+    "options": ["A. Ọpụpụ", "B. Nwa ikpeazụ", "C. Nwa mbụ", "D. Nwa nwanyị"],
+    "answer": "B",
+    "topic": "Ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "Kedu ihe a na-akpọ 'egwuregwu ụmụaka' n'Igbo?",
+    "options": ["A. Egwuregwu ụmụaka", "B. Egwuregwu ndị okenye", "C. Egwuregwu bọọlụ", "D. Egwuregwu ịgba ọsọ"],
+    "answer": "A",
+    "topic": "Egwuregwu",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Kedu ihe a na-akpọ 'ọkụkọ' n'Igbo?",
+    "options": ["A. Ọkụkọ", "B. Ọkụ", "C. Ọkụkụ", "D. Ọkụ ọkụkọ"],
+    "answer": "A",
+    "topic": "Anụmanụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "Kedu ihe a na-akpọ 'nkịta' n'Igbo?",
+    "options": ["A. Nkịta", "B. Nkụta", "C. Nkịtị", "D. Nkịrị"],
+    "answer": "A",
+    "topic": "Anụmanụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "Kedu ihe a na-akpọ 'ụlọ akwụkwọ elementrị' n'Igbo?",
+    "options": ["A. Ụlọ akwụkwọ praịmarị", "B. Ụlọ akwụkwọ sekọndrị", "C. Ụlọ akwụkwọ elementrị", "D. Ụlọ akwụkwọ ụmụaka"],
+    "answer": "A",
+    "topic": "Ụlọ akwụkwọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "Kedu ihe bụ 'ngwaa' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-egosi ihe e mere", "B. Okwu na-akọwa aha", "C. Okwu eji anọchi anya aha", "D. Okwu na-ejikọta okwu"],
+    "answer": "A",
+    "topic": "Ngwaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Kedu ihe bụ 'nkọwaaha' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-akọwa aha", "B. Okwu na-egosi ihe e mere", "C. Okwu eji anọchi anya aha", "D. Okwu na-ejikọta okwu"],
+    "answer": "A",
+    "topic": "Nkọwaaha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "Kedu ihe bụ 'nnọchiaha' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-anọchi anya aha", "B. Okwu na-akọwa aha", "C. Okwu na-egosi ihe e mere", "D. Okwu na-ejikọta okwu"],
+    "answer": "A",
+    "topic": "Nnọchiaha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Kedu ihe bụ 'njiko' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-ejikọta okwu ma ọ bụ ahịrịokwu", "B. Okwu na-egosi ihe e mere", "C. Okwu na-akọwa aha", "D. Okwu eji anọchi anya aha"],
+    "answer": "A",
+    "topic": "Njiko",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "Kedu ihe bụ 'mbuụzọ' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-egosi ebe ihe dị", "B. Okwu na-ejikọta okwu", "C. Okwu na-egosi ihe e mere", "D. Okwu na-akọwa aha"],
+    "answer": "A",
+    "topic": "Mbuụzọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "Kedu ihe bụ 'nkuụwa' n'asụsụ Igbo?",
+    "options": ["A. Okwu na-akọwa otu e si eme ihe", "B. Okwu na-egosi ebe", "C. Okwu na-egosi oge", "D. Okwu na-egosi ihe mere"],
+    "answer": "A",
+    "topic": "Nkuụwa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "Kedu ihe bụ 'ọnụọgụ' n'asụsụ Igbo?",
+    "options": ["A. Okwu eji agụta ihe", "B. Okwu eji akọwa ihe", "C. Okwu eji egosi ihe", "D. Okwu eji ako ihe"],
+    "answer": "A",
+    "topic": "Ọnụọgụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "Kedu ihe a na-akpọ 'edemede' n'asụsụ Igbo?",
+    "options": ["A. Ihe e dere ede", "B. Ihe a na-agụ", "C. Ihe a na-ekwu", "D. Ihe a na-eche"],
+    "answer": "A",
+    "topic": "Edemede",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "Kedu ihe bụ 'akụkọ ifo' n'asụsụ Igbo?",
+    "options": ["A. Akụkọ e chepụtara echepụta", "B. Akụkọ mere eme", "C. Akụkọ ihe mere", "D. Akụkọ ọnwụ"],
+    "answer": "A",
+    "topic": "Agụmagụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "Kedu ihe bụ 'ihe nkiri' n'asụsụ Igbo?",
+    "options": ["A. Ihe e ji anọchi anya eziokwu", "B. Ihe e dere ede", "C. Ihe a na-agụ", "D. Ihe a na-ekwu"],
+    "answer": "A",
+    "topic": "Ejije",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Kedu ihe bụ 'ụkpụrụ omume' n'asụsụ Igbo?",
+    "options": ["A. Ụkpụrụ e si akpa àgwà", "B. Ụkpụrụ e si ekpe ikpe", "C. Ụkpụrụ e si eme ihe", "D. Ụkpụrụ e si ekwu okwu"],
+    "answer": "A",
+    "topic": "Ụkpụrụ omume",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "Kedu ihe bụ 'nkwanye ùgwù' n'asụsụ Igbo?",
+    "options": ["A. Nkwanye ùgwù", "B. Ịkwanyere mmadụ ùgwù", "C. Ịsọpụrụ mmadụ", "D. Ịkọwa mmadụ"],
+    "answer": "A",
+    "topic": "Nkwanye ùgwù",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Kedu ihe bụ 'n'usoro' n'asụsụ Igbo?",
+    "options": ["A. N'ụzọ", "B. N'ahịrị", "C. N'otu", "D. N'ụkpụrụ"],
+    "answer": "A",
+    "topic": "N'usoro",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Kedu ihe a na-akpọ 'nrụkọ ọrụ' n'asụsụ Igbo?",
+    "options": ["A. Nrụkọ ọrụ", "B. Ịrụkọ ọrụ ọnụ", "C. Ịrụ ọrụ", "D. Ịrụ ọrụ nke ọma"],
+    "answer": "A",
+    "topic": "Nrụkọ ọrụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "Kedu ihe a na-akpọ 'ịzụ ahịa' n'asụsụ Igbo?",
+    "options": ["A. Ịzụ ahịa", "B. Ịre ahịa", "C. Ịgba ahịa", "D. Ịchụ ahịa"],
+    "answer": "A",
+    "topic": "Azụmahịa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Kedu ihe a na-akpọ 'ụlọ ọrụ' n'asụsụ Igbo?",
+    "options": ["A. Ụlọ ọrụ", "B. Ụlọ akụ", "C. Ụlọ ahịa", "D. Ụlọ nzukọ"],
+    "answer": "A",
+    "topic": "Ụlọ ọrụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Kedu ihe a na-akpọ 'ọrụaka' n'asụsụ Igbo?",
+    "options": ["A. Ọrụaka", "B. Ọrụ ụkwụ", "C. Ọrụ isi", "D. Ọrụ afọ"],
+    "answer": "A",
+    "topic": "Ọrụaka",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Kedu ihe a na-akpọ 'ọkwa ọha' n'asụsụ Igbo?",
+    "options": ["A. Ọkwa ọha", "B. Ọkwa gọọmenti", "C. Ọkwa eze", "D. Ọkwa obodo"],
+    "answer": "A",
+    "topic": "Ọkwa ọha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị", "B. Ọchịcha", "C. Ọchị", "D. Ọchịchọ"],
+    "answer": "A",
+    "topic": "Ọchịchị",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "Kedu ihe a na-akpọ 'iwu' n'asụsụ Igbo?",
+    "options": ["A. Iwu", "B. Iwe", "C. Iwu iwu", "D. Iwụ"],
+    "answer": "A",
+    "topic": "Iwu",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "Kedu ihe a na-akpọ 'ụlọ ikpe' n'asụsụ Igbo?",
+    "options": ["A. Ụlọ ikpe", "B. Ụlọ ọchịchị", "C. Ụlọ iwu", "D. Ụlọ mkpọrọ"],
+    "answer": "A",
+    "topic": "Ụlọ ikpe",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "Kedu ihe a na-akpọ 'ndị uwe ojii' n'asụsụ Igbo?",
+    "options": ["A. Ndị uwe ojii", "B. Ndị agha", "C. Ndị omebe iwu", "D. Ndị ọka ikpe"],
+    "answer": "A",
+    "topic": "Ndị uwe ojii",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Kedu ihe a na-akpọ 'ọgbakọ omebe iwu' n'asụsụ Igbo?",
+    "options": ["A. Ọgbakọ omebe iwu", "B. Ọgbakọ ndị isi", "C. Ọgbakọ ndị ntorobịa", "D. Ọgbakọ ndị okenye"],
+    "answer": "A",
+    "topic": "Ọgbakọ omebe iwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "Kedu ihe a na-akpọ 'ntuli aka' n'asụsụ Igbo?",
+    "options": ["A. Ntuli aka", "B. Nhoputa aka", "C. Ntụle aka", "D. Ntụnye aka"],
+    "answer": "B",
+    "topic": "Ntuli aka",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Kedu ihe a na-akpọ 'onye isi ala' n'asụsụ Igbo?",
+    "options": ["A. Onye isi ala", "B. Onye isi obodo", "C. Onye isi ọchịchị", "D. Onye isi ndị agha"],
+    "answer": "A",
+    "topic": "Onye isi ala",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị onye kwuo uche ya' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị onye kwuo uche ya", "B. Ọchịchị aka ike", "C. Ọchịchị ndị isi", "D. Ọchịchị eze"],
+    "answer": "A",
+    "topic": "Ọchịchị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "Kedu ihe a na-akpọ 'ikike mmadụ' n'asụsụ Igbo?",
+    "options": ["A. Ikike mmadụ", "B. Ikike nwoke", "C. Ikike nwanyị", "D. Ikike ụmụaka"],
+    "answer": "A",
+    "topic": "Ikike mmadụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Kedu ihe a na-akpọ 'ụlọ ọgwụ' n'asụsụ Igbo?",
+    "options": ["A. Ụlọ ọgwụ", "B. Ụlọ agwụ", "C. Ụlọ ọrịa", "D. Ụlọ ahụike"],
+    "answer": "A",
+    "topic": "Ụlọ ọgwụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Kedu ihe a na-akpọ 'dọkịta' n'asụsụ Igbo?",
+    "options": ["A. Dọkịta", "B. Dibịa", "C. Dọkịta bekee", "D. Onye na-agwọ ọrịa"],
+    "answer": "A",
+    "topic": "Dọkịta",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "Kedu ihe a na-akpọ 'ọrịa' n'asụsụ Igbo?",
+    "options": ["A. Ọrịa", "B. Ọria", "C. Ọrịọ", "D. Ọrịaụ"],
+    "answer": "A",
+    "topic": "Ọrịa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "Kedu ihe a na-akpọ 'ọgwụ' n'asụsụ Igbo?",
+    "options": ["A. Ọgwụ", "B. Ọgwụgwu", "C. Ọgwu", "D. Ọgwụ ọjọọ"],
+    "answer": "A",
+    "topic": "Ọgwụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "Kedu ihe a na-akpọ 'ahụike' n'asụsụ Igbo?",
+    "options": ["A. Ahụike", "B. Ahụ ọma", "C. Ahụ siri ike", "D. Ahụ dị ọcha"],
+    "answer": "A",
+    "topic": "Ahụike",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Kedu ihe a na-akpọ 'nri' n'asụsụ Igbo?",
+    "options": ["A. Nri", "B. Nri anụ", "C. Nri ọkụ", "D. Nri osisi"],
+    "answer": "A",
+    "topic": "Nri",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "question": "Kedu ihe a na-akpọ 'mmiri' n'asụsụ Igbo?",
+    "options": ["A. Mmiri", "B. Miri", "C. Mmiri ọṅụ", "D. Mmiri oyi"],
+    "answer": "A",
+    "topic": "Mmiri",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "Kedu ihe a na-akpọ 'ụlọ' n'asụsụ Igbo?",
+    "options": ["A. Ụlọ", "B. Ụlo", "C. Ụlọ obibi", "D. Ụlọ ebe obibi"],
+    "answer": "A",
+    "topic": "Ụlọ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "Kedu ihe a na-akpọ 'ala' n'asụsụ Igbo?",
+    "options": ["A. Ala", "B. Àlà", "C. Ála", "D. Ọla"],
+    "answer": "A",
+    "topic": "Ala",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "Kedu ihe a na-akpọ 'elu' n'asụsụ Igbo?",
+    "options": ["A. Elu", "B. Élú", "C. Èlù", "D. Eluigwe"],
+    "answer": "A",
+    "topic": "Elu",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Kedu ihe a na-akpọ 'ọkụ' n'asụsụ Igbo?",
+    "options": ["A. Ọkụ", "B. Ọkụọ", "C. Ọkụkụ", "D. Ọkụ azụ"],
+    "answer": "A",
+    "topic": "Ọkụ",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "Kedu ihe a na-akpọ 'ikuku' n'asụsụ Igbo?",
+    "options": ["A. Ikuku", "B. Ikuku mmiri", "C. Ikuku ọkụ", "D. Ikuku oyi"],
+    "answer": "A",
+    "topic": "Ikuku",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "Kedu ihe a na-akpọ 'ọchị' n'asụsụ Igbo?",
+    "options": ["A. Ọchị", "B. Ọchị ọchị", "C. Ọchị mmụọ", "D. Ọchị egbugbere ọnụ"],
+    "answer": "A",
+    "topic": "Ọchị",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "Kedu ihe a na-akpọ 'akwa ákwá' n'asụsụ Igbo?",
+    "options": ["A. Akwa ákwá", "B. Ịkwa ákwá", "C. Ákwá", "D. Awa ákwá"],
+    "answer": "B",
+    "topic": "Ịkwa ákwá",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Kedu ihe a na-akpọ 'ọṅụ' n'asụsụ Igbo?",
+    "options": ["A. Ọṅụ", "B. Ọṅụrị", "C. Ọṅụọ", "D. Ọṅụta"],
+    "answer": "A",
+    "topic": "Ọṅụ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Kedu ihe a na-akpọ 'ụjọ' n'asụsụ Igbo?",
+    "options": ["A. Ụjọ", "B. Ụjọ mmụọ", "C. Ụjọ anụ", "D. Ụjọ onwe"],
+    "answer": "A",
+    "topic": "Ụjọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Kedu ihe a na-akpọ 'ike' n'asụsụ Igbo?",
+    "options": ["A. Ike", "B. Iké", "C. Ìkè", "D. Ịke"],
+    "answer": "A",
+    "topic": "Ike",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Kedu ihe a na-akpọ 'ọdịmma' n'asụsụ Igbo?",
+    "options": ["A. Ọdịmma", "B. Ọma", "C. Ihe ọma", "D. Ọdị mma"],
+    "answer": "A",
+    "topic": "Ọdịmma",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "Kedu ihe a na-akpọ 'ọjọọ' n'asụsụ Igbo?",
+    "options": ["A. Ọjọọ", "B. Ọjọ", "C. Ọjọọ ihe", "D. Ọjọọ omume"],
+    "answer": "A",
+    "topic": "Ọjọọ",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Kedu ihe a na-akpọ 'ịhụnanya' n'asụsụ Igbo?",
+    "options": ["A. Ịhụnanya", "B. Ịhụ anya", "C. Ịhụ mmadụ n'anya", "D. Ịhụ ihe n'anya"],
+    "answer": "A",
+    "topic": "Ịhụnanya",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "Kedu ihe a na-akpọ 'ịkpọasị' n'asụsụ Igbo?",
+    "options": ["A. Ịkpọasị", "B. Ịkpọ ihe asị", "C. Ịkpọ mmadụ asị", "D. Ịkpọ anụ asị"],
+    "answer": "A",
+    "topic": "Ịkpọasị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "Kedu ihe a na-akpọ 'mmekọrịta' n'asụsụ Igbo?",
+    "options": ["A. Mmekọrịta", "B. Mmekọrịta mmadụ na ibe ya", "C. Mmekọrịta ụlọ", "D. Mmekọrịta ọrụ"],
+    "answer": "A",
+    "topic": "Mmekọrịta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "Kedu ihe a na-akpọ 'udo' n'asụsụ Igbo?",
+    "options": ["A. Udo", "B. Udo obi", "C. Udo mmụọ", "D. Udo ala"],
+    "answer": "A",
+    "topic": "Udo",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Kedu ihe a na-akpọ 'ọgba aghara' n'asụsụ Igbo?",
+    "options": ["A. Ọgba aghara", "B. Ọgba", "C. Aghara", "D. Ọgba ọgba"],
+    "answer": "A",
+    "topic": "Ọgba aghara",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "Kedu ihe a na-akpọ 'ọdachi' n'asụsụ Igbo?",
+    "options": ["A. Ọdachi", "B. Ọda chi", "C. Ọdachị", "D. Ọdakwa"],
+    "answer": "A",
+    "topic": "Ọdachi",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Kedu ihe a na-akpọ 'ihe ịtụnanya' n'asụsụ Igbo?",
+    "options": ["A. Ihe ịtụnanya", "B. Ihe ọhụrụ", "C. Ihe ịtụ", "D. Ihe ịtụ egwu"],
+    "answer": "A",
+    "topic": "Ihe ịtụnanya",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "Kedu ihe a na-akpọ 'ọzụzụ' n'asụsụ Igbo?",
+    "options": ["A. Ọzụzụ", "B. Ọzụzụ anụ", "C. Ọzụzụ mmadụ", "D. Ọzụzụ ọrụ"],
+    "answer": "A",
+    "topic": "Ọzụzụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "Kedu ihe a na-akpọ 'ọrụ ntà' n'asụsụ Igbo?",
+    "options": ["A. Ọrụ ntà", "B. Ọrụ ụmụaka", "C. Ọrụ ụlọ", "D. Ọrụ bekee"],
+    "answer": "A",
+    "topic": "Ọrụ ntà",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "Kedu ihe a na-akpọ 'ọrụ aka' n'asụsụ Igbo?",
+    "options": ["A. Ọrụ aka", "B. Ọrụ ụkwụ", "C. Ọrụ isi", "D. Ọrụ afọ"],
+    "answer": "A",
+    "topic": "Ọrụ aka",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Kedu ihe a na-akpọ 'ọzụzụ aka ọrụ' n'asụsụ Igbo?",
+    "options": ["A. Ọzụzụ aka ọrụ", "B. Ọzụzụ ọrụ", "C. Ọzụzụ aka", "D. Ọzụzụ ụzọ"],
+    "answer": "A",
+    "topic": "Ọzụzụ aka ọrụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "Kedu ihe a na-akpọ 'ọzụzụ ndị agha' n'asụsụ Igbo?",
+    "options": ["A. Ọzụzụ ndị agha", "B. Ọzụzụ agha", "C. Ọzụzụ ndị isi", "D. Ọzụzụ ụzọ agha"],
+    "answer": "A",
+    "topic": "Ọzụzụ ndị agha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị aka ike' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị aka ike", "B. Ọchịchị ụka", "C. Ọchịchị ndị agha", "D. Ọchịchị ndị isi"],
+    "answer": "A",
+    "topic": "Ọchịchị aka ike",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị onye isi ala' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị onye isi ala", "B. Ọchịchị onye isi", "C. Ọchịchị gọọmenti", "D. Ọchịchị obodo"],
+    "answer": "A",
+    "topic": "Ọchịchị onye isi ala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị isi' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị isi", "B. Ọchịchị ndị okenye", "C. Ọchịchị ndị ụkọchukwu", "D. Ọchịchị ndị ọka ikpe"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị isi",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị agha' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị agha", "B. Ọchịchị mma agha", "C. Ọchịchị egbe", "D. Ọchịchị ụgbọ agha"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị agha",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị onye kwuo uche ya' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị onye kwuo uche ya", "B. Ọchịchị ndị mmadụ", "C. Ọchịchị ọtụtụ mmadụ", "D. Ọchịchị onye ọ bụla"],
+    "answer": "A",
+    "topic": "Ọchịchị onye kwuo uche ya",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị otu onye' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị otu onye", "B. Ọchịchị eze", "C. Ọchịchị onye ọchịchị", "D. Ọchịchị aka ike"],
+    "answer": "A",
+    "topic": "Ọchịchị otu onye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ọka ikpe' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ọka ikpe", "B. Ọchịchị ụlọ ikpe", "C. Ọchịchị iwu", "D. Ọchịchị onye ọka ikpe"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ọka ikpe",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ụkọchukwu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ụkọchukwu", "B. Ọchịchị ụka", "C. Ọchịchị chọọchị", "D. Ọchịchị ndị isi ụka"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ụkọchukwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị otu", "B. Ọchịchị otu", "C. Ọchịchị òtù", "D. Ọchịchị ndị otu ndọrọ ndọrọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ntorobịa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ntorobịa", "B. Ọchịchị ndị na-eto eto", "C. Ọchịchị ndị na-akpa ike", "D. Ọchịchị ndị na-agba egwu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ntorobịa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị inyom' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị inyom", "B. Ọchịchị ndị nwanyị", "C. Ọchịchị ndị nne", "D. Ọchịchị ndị nwunye"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị inyom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ọrụ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ọrụ", "B. Ọchịchị ndị ọrụ ụlọ ọrụ", "C. Ọchịchị ndị ọrụ aka", "D. Ọchịchị ndị na-arụ ọrụ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ọrụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ọrụ ugbo' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ọrụ ugbo", "B. Ọchịchị ndị ọkụ ugbo", "C. Ọchịchị ndị ọzụ ugbo", "D. Ọchịchị ndị ọka ugbo"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ọrụ ugbo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ọchụnta ego' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ọchụnta ego", "B. Ọchịchị ndị ahịa", "C. Ọchịchị ndị azụmahịa", "D. Ọchịchị ndị na-azụ ahịa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ọchụnta ego",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị ọkà mmụta' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị ọkà mmụta", "B. Ọchịchị ndị ọkà", "C. Ọchịchị ndị mmụta", "D. Ọchịchị ndị nkuzi"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị ọkà mmụta",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị nkuzi' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị nkuzi", "B. Ọchịchị ndị ọkụzi", "C. Ọchịchị ndị ozizi", "D. Ọchịchị ndị na-akụzi"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị nkuzi",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-eme ihe nkiri' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-eme ihe nkiri", "B. Ọchịchị ndị ihe nkiri", "C. Ọchịchị ndị na-eme egwuregwu", "D. Ọchịchị ndị na-eme ihe ọchị"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-eme ihe nkiri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị egwu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị egwu", "B. Ọchịchị ndị egwuregwu", "C. Ọchịchị ndị na-akụ egwu", "D. Ọchịchị ndị na-agụ egwu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị egwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-agụ egwu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-agụ egwu", "B. Ọchịchị ndị agụ egwu", "C. Ọchịchị ndị egwu agụ", "D. Ọchịchị ndị na-egwu egwu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-agụ egwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-akụ egwu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-akụ egwu", "B. Ọchịchị ndị akụ egwu", "C. Ọchịchị ndị egwu akụ", "D. Ọchịchị ndị na-akụ ụda"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-akụ egwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu", "B. Ọchịchị ndị egwu egwu", "C. Ọchịchị ndị na-egwuri egwu", "D. Ọchịchị ndị na-egwu bọọlụ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu mmiri' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu mmiri", "B. Ọchịchị ndị egwu mmiri", "C. Ọchịchị ndị na-egwu mmiri ara", "D. Ọchịchị ndị na-egwu mmiri oyi"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu mmiri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu ọkpọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu ọkpọ", "B. Ọchịchị ndị egwu ọkpọ", "C. Ọchịchị ndị na-akụ ọkpọ", "D. Ọchịchị ndị na-egwu ihe"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu ọkpọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu bọọlụ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu bọọlụ", "B. Ọchịchị ndị egwu bọọlụ", "C. Ọchịchị ndị na-egwu bọl", "D. Ọchịchị ndị na-egwu egwu bọọlụ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu bọọlụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu omenala' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu omenala", "B. Ọchịchị ndị egwu omenala", "C. Ọchịchị ndị na-egwu ịgba", "D. Ọchịchị ndị na-egwu atụ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu omenala",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ụmụaka' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ụmụaka", "B. Ọchịchị ndị egwu ụmụaka", "C. Ọchịchị ndị na-egwu ihe ụmụaka", "D. Ọchịchị ndị na-egwu ọchị ụmụaka"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ụmụaka",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ndị okenye' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ndị okenye", "B. Ọchịchị ndị egwu ndị okenye", "C. Ọchịchị ndị na-egwu ihe ndị okenye", "D. Ọchịchị ndị na-egwu ọchị ndị okenye"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ndị okenye",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ụmụ nwoke' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ụmụ nwoke", "B. Ọchịchị ndị egwu ụmụ nwoke", "C. Ọchịchị ndị na-egwu ihe ụmụ nwoke", "D. Ọchịchị ndị na-egwu ọchị ụmụ nwoke"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ụmụ nwoke",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ụmụ nwanyị' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ụmụ nwanyị", "B. Ọchịchị ndị egwu ụmụ nwanyị", "C. Ọchịchị ndị na-egwu ihe ụmụ nwanyị", "D. Ọchịchị ndị na-egwu ọchị ụmụ nwanyị"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ụmụ nwanyị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ụmụ nwoke na ụmụ nwanyị' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ụmụ nwoke na ụmụ nwanyị", "B. Ọchịchị ndị egwu ụmụ nwoke na ụmụ nwanyị", "C. Ọchịchị ndị na-egwu ihe ụmụ nwoke na ụmụ nwanyị", "D. Ọchịchị ndị na-egwu ọchị ụmụ nwoke na ụmụ nwanyị"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ụmụ nwoke na ụmụ nwanyị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu ụlọ akwụkwọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu ụlọ akwụkwọ", "B. Ọchịchị ndị egwu ụlọ akwụkwọ", "C. Ọchịchị ndị na-egwu ihe ụlọ akwụkwọ", "D. Ọchịchị ndị na-egwu ọchị ụlọ akwụkwọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu ụlọ akwụkwọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ezinụlọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ezinụlọ", "B. Ọchịchị ndị egwu n'ezinụlọ", "C. Ọchịchị ndị na-egwu ihe n'ezinụlọ", "D. Ọchịchị ndị na-egwu ọchị n'ezinụlọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ezinụlọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'obodo' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'obodo", "B. Ọchịchị ndị egwu n'obodo", "C. Ọchịchị ndị na-egwu ihe n'obodo", "D. Ọchịchị ndị na-egwu ọchị n'obodo"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'obodo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ala Igbo' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ala Igbo", "B. Ọchịchị ndị egwu n'ala Igbo", "C. Ọchịchị ndị na-egwu ihe n'ala Igbo", "D. Ọchịchị ndị na-egwu ọchị n'ala Igbo"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ala Igbo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa", "B. Ọchịchị ndị egwu n'ụwa", "C. Ọchịchị ndị na-egwu ihe n'ụwa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa niile' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa niile", "B. Ọchịchị ndị egwu n'ụwa niile", "C. Ọchịchị ndị na-egwu ihe n'ụwa niile", "D. Ọchịchị ndị na-egwu ọchị n'ụwa niile"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa niile",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'Africa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'Africa", "B. Ọchịchị ndị egwu n'Africa", "C. Ọchịchị ndị na-egwu ihe n'Africa", "D. Ọchịchị ndị na-egwu ọchị n'Africa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'America' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'America", "B. Ọchịchị ndị egwu n'America", "C. Ọchịchị ndị na-egwu ihe n'America", "D. Ọchịchị ndị na-egwu ọchị n'America"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'America",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'Europe' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'Europe", "B. Ọchịchị ndị egwu n'Europe", "C. Ọchịchị ndị na-egwu ihe n'Europe", "D. Ọchịchị ndị na-egwu ọchị n'Europe"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'Europe",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'Asia' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'Asia", "B. Ọchịchị ndị egwu n'Asia", "C. Ọchịchị ndị na-egwu ihe n'Asia", "D. Ọchịchị ndị na-egwu ọchị n'Asia"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'Asia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'Australia' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'Australia", "B. Ọchịchị ndị egwu n'Australia", "C. Ọchịchị ndị na-egwu ihe n'Australia", "D. Ọchịchị ndị na-egwu ọchị n'Australia"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'Australia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'Antarctica' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'Antarctica", "B. Ọchịchị ndị egwu n'Antarctica", "C. Ọchịchị ndị na-egwu ihe n'Antarctica", "D. Ọchịchị ndị na-egwu ọchị n'Antarctica"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'Antarctica",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke atọ", "B. Ọchịchị ndị egwu n'ụwa nke atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke abụọ", "B. Ọchịchị ndị egwu n'ụwa nke abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke mbụ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke mbụ", "B. Ọchịchị ndị egwu n'ụwa nke mbụ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke mbụ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke mbụ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke mbụ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke anọ", "B. Ọchịchị ndị egwu n'ụwa nke anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke ise", "B. Ọchịchị ndị egwu n'ụwa nke ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke isii", "B. Ọchịchị ndị egwu n'ụwa nke isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke asaa", "B. Ọchịchị ndị egwu n'ụwa nke asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke asatọ", "B. Ọchịchị ndị egwu n'ụwa nke asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke itoolu", "B. Ọchịchị ndị egwu n'ụwa nke itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri", "B. Ọchịchị ndị egwu n'ụwa nke iri", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri abụọ na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri abụọ na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri abụọ na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri abụọ na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri atọ na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri atọ na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri atọ na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri atọ na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri anọ na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri anọ na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri anọ na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri anọ na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise", "B. Ọchịchị ndị egwu n'ụwa nke iri ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri ise na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri ise na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri ise na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri ise na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii", "B. Ọchịchị ndị egwu n'ụwa nke iri isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri isii na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri isii na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri isii na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri isii na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri asaa na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asaa na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asaa na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asaa na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri asatọ na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri asatọ na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri asatọ na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri asatọ na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na otu", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na atọ", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na atọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na anọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na anọ", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na anọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na anọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na anọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na anọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na ise' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na ise", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na ise", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na ise", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na ise"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na ise",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na isii' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na isii", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na isii", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na isii", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na isii"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na isii",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asaa' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asaa", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na asaa", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na asaa", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na asaa"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asaa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asatọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asatọ", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na asatọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na asatọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na asatọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na asatọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na itoolu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na itoolu", "B. Ọchịchị ndị egwu n'ụwa nke iri itoolu na itoolu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke iri itoolu na itoolu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke iri itoolu na itoolu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke iri itoolu na itoolu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke otu narị' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị", "B. Ọchịchị ndị egwu n'ụwa nke otu narị", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke otu narị", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke otu narị"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na otu' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na otu", "B. Ọchịchị ndị egwu n'ụwa nke otu narị na otu", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke otu narị na otu", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke otu narị na otu"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na otu",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na abụọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na abụọ", "B. Ọchịchị ndị egwu n'ụwa nke otu narị na abụọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke otu narị na abụọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke otu narị na abụọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na abụọ",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "Kedu ihe a na-akpọ 'ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na atọ' n'asụsụ Igbo?",
+    "options": ["A. Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na atọ", "B. Ọchịchị ndị egwu n'ụwa nke otu narị na atọ", "C. Ọchịchị ndị na-egwu ihe n'ụwa nke otu narị na atọ", "D. Ọchịchị ndị na-egwu ọchị n'ụwa nke otu narị na atọ"],
+    "answer": "A",
+    "topic": "Ọchịchị ndị na-egwu egwu n'ụwa nke otu narị na atọ",
+    "difficulty": "Hard"
+  }
+]

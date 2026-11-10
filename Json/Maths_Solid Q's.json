@@ -1,0 +1,3988 @@
+[
+  {
+    "id": 1,
+    "question": "Convert the binary number 11011₂ to base 10.",
+    "options": ["A. 25", "B. 27", "C. 29", "D. 31"],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "Simplify (3x + 5y) - (2x - 3y).",
+    "options": ["A. x + 2y", "B. x + 8y", "C. 5x + 2y", "D. 5x + 8y"],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "If the mean of 5, 8, x, and 12 is 9, find the value of x.",
+    "options": ["A. 7", "B. 9", "C. 10", "D. 11"],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Calculate the simple interest on N20,000 for 3 years at 5% per annum.",
+    "options": ["A. N1,000", "B. N2,000", "C. N3,000", "D. N4,000"],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Factorize completely: 4x² - 9y².",
+    "options": ["A. (2x - 3y)(2x - 3y)", "B. (2x + 3y)(2x + 3y)", "C. (2x - 3y)(2x + 3y)", "D. (4x - 3y)(x + 3y)"],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Find the Range of the following data: 12, 15, 8, 20, 10, 18.",
+    "options": ["A. 8", "B. 10", "C. 12", "D. 20"],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Solve the inequality: 3x - 4 < 2x + 1.",
+    "options": ["A. x < 5", "B. x > 5", "C. x < -5", "D. x > -5"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Express 0.00456 in standard form.",
+    "options": ["A. 4.56 × 10⁻²", "B. 4.56 × 10⁻³", "C. 45.6 × 10⁻⁴", "D. 0.456 × 10⁻²"],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "A rectangle has a length of 10cm and a diagonal of 26cm. Find its width.",
+    "options": ["A. 16cm", "B. 20cm", "C. 24cm", "D. 28cm"],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Find the HCF of 12, 18, and 24.",
+    "options": ["A. 2", "B. 3", "C. 6", "D. 12"],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Express 32599 in standard form.",
+    "options": [
+      "A. 3.26 × 10³",
+      "B. 3.26 × 10⁵",
+      "C. 32.599 × 10⁴",
+      "D. 3.26 × 10⁴"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Find the mean of the following numbers: 11, 13, 13, 18, 19.",
+    "options": [
+      "A. 15.8",
+      "B. 17.8",
+      "C. 14.3",
+      "D. 14.8"
+    ],
+    "answer": "D",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Determine the median of this data set: 10, 5, 13, 14, 1, 13.",
+    "options": [
+      "A. 11.5",
+      "B. 13",
+      "C. 10",
+      "D. 12.5"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "Find the area of a trapezium whose parallel sides are 7cm and 12cm, and the perpendicular height is 4cm.",
+    "options": [
+      "A. 76cm²",
+      "B. 48cm²",
+      "C. 38cm²",
+      "D. 33cm²"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Find the area of a trapezium whose parallel sides are 10cm and 18cm, and the perpendicular height is 8cm.",
+    "options": [
+      "A. 224cm²",
+      "B. 107cm²",
+      "C. 122cm²",
+      "D. 112cm²"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "A bag contains 4 red, 3 blue, and 2 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "A. 4/9",
+      "B. 3/8",
+      "C. 2/9",
+      "D. 3/9"
+    ],
+    "answer": "D",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "Find the area of a trapezium whose parallel sides are 5cm and 17cm, and the perpendicular height is 6cm.",
+    "options": [
+      "A. 66cm²",
+      "B. 76cm²",
+      "C. 132cm²",
+      "D. 61cm²"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Calculate the simple interest on N27,000 for 2 years at 7% per annum.",
+    "options": [
+      "A. N7560",
+      "B. N3780",
+      "C. N3280",
+      "D. N4780"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "Evaluate the sum of 1011₂ and 1101₂.",
+    "options": [
+      "A. 11000₂",
+      "B. 10010₂",
+      "C. 11100₂",
+      "D. 10100₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "Convert 35 to a binary number (base 2).",
+    "options": [
+      "A. 100010",
+      "B. 100011",
+      "C. 100100",
+      "D. 100101"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "A man bought a television set for N45,000 and sold it for N54,000. Calculate his percentage profit.",
+    "options": [
+      "A. 18%",
+      "B. 15%",
+      "C. 20%",
+      "D. 25%"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Solve the inequality: 2x - 5 < 3x - 8.",
+    "options": [
+      "A. x > -3",
+      "B. x < 3",
+      "C. x > 3",
+      "D. x < -3"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Calculate the volume of a cube with a side length of 6cm.",
+    "options": [
+      "A. 216cm³",
+      "B. 36cm³",
+      "C. 144cm³",
+      "D. 18cm³"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Find the mean of the following numbers: 12, 18, 17, 11, 10.",
+    "options": [
+      "A. 14.6",
+      "B. 13.1",
+      "C. 16.3",
+      "D. 13.6"
+    ],
+    "answer": "D",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Solve for y: (2y + 4) / 3 = 6.",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 8",
+      "D. 4"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "Find the mean of the following numbers: 20, 11, 20, 18, 14.",
+    "options": [
+      "A. 19.9",
+      "B. 17.6",
+      "C. 16.6",
+      "D. 16.1"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Factorize the expression: x² + 5x + 6.",
+    "options": [
+      "A. (x - 2)(x - 3)",
+      "B. (x + 2)(x + 3)",
+      "C. (x - 1)(x - 6)",
+      "D. (x + 1)(x + 6)"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "A bag contains 4 red, 3 blue, and 3 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "A. 4/10",
+      "B. 3/9",
+      "C. 3/10",
+      "D. 1/3"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Find the mean of the following numbers: 11, 15, 14, 13, 10.",
+    "options": [
+      "A. 15.1",
+      "B. 12.6",
+      "C. 12.1",
+      "D. 13.6"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Convert 49 to a binary number (base 2).",
+    "options": [
+      "A. 110000₂",
+      "B. 110011₂",
+      "C. 110001₂",
+      "D. 110010₂"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "A bag contains 5 red, 3 blue, and 3 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "A. 3/11",
+      "B. 3/10",
+      "C. 5/11",
+      "D. 1/11"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "Subtract 101₂ from 1110₂.",
+    "options": [
+      "A. 1001₂",
+      "B. 1011₂",
+      "C. 1101₂",
+      "D. 1111₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Calculate the volume of a cylinder of radius 4cm and height 8cm. (Take π = 22/7)",
+    "options": [
+      "A. 100.6cm³",
+      "B. 804.6cm³",
+      "C. 412.3cm³",
+      "D. 402.3cm³"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Calculate the simple interest on N31,000 for 3 years at 2% per annum.",
+    "options": [
+      "A. N1860",
+      "B. N2860",
+      "C. N3720",
+      "D. N1360"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "A trader bought 100 oranges for N500 and sold them at N8 each. What is the percentage profit?",
+    "options": [
+      "A. 25%",
+      "B. 50%",
+      "C. 60%",
+      "D. 80%"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Factorize the expression: 2x² - 8.",
+    "options": [
+      "A. 2(x - 2)(x + 2)",
+      "B. 2(x² - 8)",
+      "C. (2x - 4)(x + 2)",
+      "D. 2(x - 4)(x + 4)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "If 3x + 4 = 19, find the value of x.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Express 8150 in standard form.",
+    "options": [
+      "A. 8.15 × 10⁴",
+      "B. 81.5 × 10³",
+      "C. 8.15 × 10³",
+      "D. 8.15 × 10²"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Determine the median of this data set: 3, 5, 8, 4, 14, 15.",
+    "options": [
+      "A. 5",
+      "B. 8",
+      "C. 7.5",
+      "D. 6.5"
+    ],
+    "answer": "D",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Convert 20 to a binary number (base 2).",
+    "options": [
+      "A. 10011₂",
+      "B. 10110₂",
+      "C. 10100₂",
+      "D. 10101₂"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "What is the square root of 144?",
+    "options": [
+      "A. 10",
+      "B. 12",
+      "C. 14",
+      "D. 16"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Expand the algebraic expression: (x - 4)(x + 5).",
+    "options": [
+      "A. x² + x - 20",
+      "B. x² - x - 20",
+      "C. x² + 9x + 20",
+      "D. x² - 9x + 20"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "Calculate the simple interest on N13,000 for 2 years at 6% per annum.",
+    "options": [
+      "A. N2560",
+      "B. N3120",
+      "C. N1560",
+      "D. N1060"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "A bag contains 3 red, 2 blue, and 2 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "A. 2/6",
+      "B. 2/7",
+      "C. 3/7",
+      "D. 1/7"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Find the Lowest Common Multiple (LCM) of 12, 15, and 20.",
+    "options": [
+      "A. 30",
+      "B. 45",
+      "C. 60",
+      "D. 120"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Find the Highest Common Factor (HCF) of 36, 54, and 72.",
+    "options": [
+      "A. 6",
+      "B. 9",
+      "C. 12",
+      "D. 18"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Solve the inequality: 3x - 2 ≥ 4x - 6.",
+    "options": [
+      "A. x ≤ 4",
+      "B. x ≥ 4",
+      "C. x ≤ -4",
+      "D. x ≥ -4"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "Convert 19 to a binary number (base 2).",
+    "options": [
+      "A. 10011₂",
+      "B. 10101₂",
+      "C. 10010₂",
+      "D. 10100₂"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "Calculate the simple interest on N25,000 for 4 years at 4% per annum.",
+    "options": [
+      "A. N4000",
+      "B. N3500",
+      "C. N8000",
+      "D. N5000"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "A bag contains 2 red, 4 blue, and 2 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "A. 1/4",
+      "B. 1/2",
+      "C. 4/7",
+      "D. 3/8"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Find the Lowest Common Multiple (LCM) of 8, 15, and 13.",
+    "options": [
+      "A. 1560",
+      "B. 15",
+      "C. 3120",
+      "D. 1568"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "Evaluate the product of 101₂ and 11₂.",
+    "options": [
+      "A. 1111₂",
+      "B. 1011₂",
+      "C. 1101₂",
+      "D. 1001₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "Express 149000 in standard form.",
+    "options": [
+      "A. 1.49 × 10⁵",
+      "B. 1.49 × 10⁶",
+      "C. 14.9 × 10⁵",
+      "D. 1.49 × 10⁴"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "If 5 is added to three times a number, the result is 26. Find the number.",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Find the Lowest Common Multiple (LCM) of 12, 4, and 9.",
+    "options": [
+      "A. 72",
+      "B. 36",
+      "C. 12",
+      "D. 48"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "Convert 37 to a binary number (base 2).",
+    "options": [
+      "A. 100111₂",
+      "B. 100101₂",
+      "C. 100100₂",
+      "D. 100110₂"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Simplify the fraction: 3/4 + 1/5 - 1/2.",
+    "options": [
+      "A. 1/10",
+      "B. 7/20",
+      "C. 9/20",
+      "D. 11/20"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Calculate the simple interest on N21,000 for 4 years at 7% per annum.",
+    "options": [
+      "A. N6880",
+      "B. N5880",
+      "C. N5380",
+      "D. N11760"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Calculate the volume of a cylinder of radius 3cm and height 11cm. (Take π = 22/7)",
+    "options": [
+      "A. 622.2cm³",
+      "B. 321.1cm³",
+      "C. 103.7cm³",
+      "D. 311.1cm³"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Calculate the area of a circle with a radius of 14cm. (Take π = 22/7)",
+    "options": [
+      "A. 88cm²",
+      "B. 154cm²",
+      "C. 308cm²",
+      "D. 616cm²"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Calculate the simple interest on N35,000 for 4 years at 4% per annum.",
+    "options": [
+      "A. N11200",
+      "B. N5100",
+      "C. N6600",
+      "D. N5600"
+    ],
+    "answer": "D",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "A bag contains 4 red, 2 blue, and 2 green balls. What is the probability of picking a green ball?",
+    "options": [
+      "A. 1/4",
+      "B. 1/2",
+      "C. 3/8",
+      "D. 1/8"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "Solve the simultaneous equations: x + y = 7 and x - y = 3.",
+    "options": [
+      "A. x = 2, y = 5",
+      "B. x = 5, y = 2",
+      "C. x = 4, y = 3",
+      "D. x = 3, y = 4"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Solve the inequality: 5x - 3 > 3x + 5.",
+    "options": [
+      "A. x < 4",
+      "B. x > 4",
+      "C. x < 2",
+      "D. x > 2"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "What is the sum of the interior angles of a polygon with 5 sides?",
+    "options": [
+      "A. 540°",
+      "B. 720°",
+      "C. 900°",
+      "D. 360°"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Express 6580 in standard form.",
+    "options": [
+      "A. 6.58 × 10³",
+      "B. 6.58 × 10²",
+      "C. 6.58 × 10⁴",
+      "D. 65.8 × 10³"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "In a pie chart, if an item represents 30 out of a total of 120, what is the sector angle?",
+    "options": [
+      "A. 60°",
+      "B. 90°",
+      "C. 120°",
+      "D. 150°"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Determine the mode of the following set of data: 4, 7, 2, 8, 4, 5, 4, 7.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 5",
+      "D. 7"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Find the perimeter of a rectangle whose length is 15cm and width is 8cm.",
+    "options": [
+      "A. 23cm",
+      "B. 46cm",
+      "C. 60cm",
+      "D. 120cm"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "The bearing of point A from point B is 045°. What is the bearing of B from A?",
+    "options": [
+      "A. 135°",
+      "B. 225°",
+      "C. 315°",
+      "D. 045°"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Simplify 2(3a - 4b) - 3(a + 2b).",
+    "options": [
+      "A. 3a - 2b",
+      "B. 3a - 14b",
+      "C. 5a - 14b",
+      "D. 3a + 14b"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Express 19200 in standard form.",
+    "options": [
+      "A. 1.92 × 10³",
+      "B. 1.92 × 10⁵",
+      "C. 1.92 × 10⁴",
+      "D. 19.2 × 10⁴"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Calculate the simple interest on N40,000 for 2 years at 6% per annum.",
+    "options": [
+      "A. N4300",
+      "B. N4800",
+      "C. N5800",
+      "D. N9600"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "Factorize completely: am + an + bm + bn.",
+    "options": [
+      "A. (a + b)(m + n)",
+      "B. a(m + n) + b",
+      "C. (a - b)(m - n)",
+      "D. (a + n)(b + m)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Find the Lowest Common Multiple (LCM) of 6, 12, and 11.",
+    "options": [
+      "A. 138",
+      "B. 12",
+      "C. 264",
+      "D. 132"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Convert the decimal fraction 0.625 to a percentage.",
+    "options": [
+      "A. 6.25%",
+      "B. 62.5%",
+      "C. 0.625%",
+      "D. 625%"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Find the mean of the following numbers: 17, 17, 14, 13, 20.",
+    "options": [
+      "A. 16.2",
+      "B. 17.2",
+      "C. 19.4",
+      "D. 15.7"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Calculate the simple interest on N28,000 for 4 years at 3% per annum.",
+    "options": [
+      "A. N6720",
+      "B. N3360",
+      "C. N4360",
+      "D. N2860"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is an example of an irrational number?",
+    "options": [
+      "A. √16",
+      "B. 0.25",
+      "C. √2",
+      "D. 1/3"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Express 5870000 in standard form.",
+    "options": [
+      "A. 58.7 × 10⁶",
+      "B. 5.87 × 10⁵",
+      "C. 5.87 × 10⁷",
+      "D. 5.87 × 10⁶"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "In a right-angled triangle, the sides forming the right angle are 6cm and 8cm. Find the length of the hypotenuse.",
+    "options": [
+      "A. 10cm",
+      "B. 12cm",
+      "C. 14cm",
+      "D. 16cm"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "A scale drawing is done with a scale of 1:50. If a line measures 4cm on the drawing, what is its actual length?",
+    "options": [
+      "A. 1.25m",
+      "B. 2m",
+      "C. 20m",
+      "D. 200m"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Find the value of x if: x/4 + 2 = 5.",
+    "options": [
+      "A. 8",
+      "B. 10",
+      "C. 12",
+      "D. 14"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Round off 45.678 to two significant figures.",
+    "options": [
+      "A. 45",
+      "B. 46",
+      "C. 45.68",
+      "D. 45.7"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Find the Lowest Common Multiple (LCM) of 11, 6, and 4.",
+    "options": [
+      "A. 132",
+      "B. 11",
+      "C. 143",
+      "D. 264"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "A shirt originally priced at N2000 is sold for N1500. Calculate the percentage discount.",
+    "options": [
+      "A. 15%",
+      "B. 20%",
+      "C. 25%",
+      "D. 30%"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "What is the sum of the interior angles of a polygon with 7 sides?",
+    "options": [
+      "A. 720°",
+      "B. 900°",
+      "C. 1080°",
+      "D. 540°"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Convert 16 to a binary number (base 2).",
+    "options": [
+      "A. 10010₂",
+      "B. 1111₂",
+      "C. 10000₂",
+      "D. 10001₂"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "Find the mean of the following numbers: 17, 20, 11, 19, 13.",
+    "options": [
+      "A. 16.0",
+      "B. 17.0",
+      "C. 15.5",
+      "D. 19.2"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "Calculate the volume of a cylinder of radius 3cm and height 7cm. (Take π = 22/7)",
+    "options": [
+      "A. 66.0cm³",
+      "B. 208.0cm³",
+      "C. 198.0cm³",
+      "D. 396.0cm³"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "What is the sum of the interior angles of a polygon with 8 sides (Octagon)?",
+    "options": [
+      "A. 1440°",
+      "B. 1260°",
+      "C. 1080°",
+      "D. 900°"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "Express 85800000 in standard form.",
+    "options": [
+      "A. 8.58 × 10⁶",
+      "B. 8.58 × 10⁸",
+      "C. 85.8 × 10⁷",
+      "D. 8.58 × 10⁷"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "If sin θ = 0.5 and θ is an acute angle, find the value of θ.",
+    "options": [
+      "A. 30°",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "A fair die is thrown once. What is the probability of obtaining a number greater than 4?",
+    "options": [
+      "A. 1/6",
+      "B. 1/3",
+      "C. 1/2",
+      "D. 2/3"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Make 'v' the subject of the formula: K = 1/2 m v².",
+    "options": [
+      "A. v = √(2K/m)",
+      "B. v = 2K/m",
+      "C. v = √(K/2m)",
+      "D. v = K/(2m)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Evaluate: √25 + √144 - √169.",
+    "options": [
+      "A. 0",
+      "B. 4",
+      "C. 5",
+      "D. 12"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "A trader estimates the mass of a bag of rice to be 48kg instead of the true mass of 50kg. Calculate his percentage error.",
+    "options": [
+      "A. 2%",
+      "B. 4%",
+      "C. 5%",
+      "D. 8%"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "What is the sum of the interior angles of a polygon with 6 sides (Hexagon)?",
+    "options": [
+      "A. 900°",
+      "B. 540°",
+      "C. 720°",
+      "D. 1080°"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Given that x = 2 and y = -3, evaluate the expression: 3x² - 2y.",
+    "options": [
+      "A. 6",
+      "B. 12",
+      "C. 18",
+      "D. 24"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "If 12 pens cost N600, how much will 18 pens cost at the same rate?",
+    "options": [
+      "A. N800",
+      "B. N900",
+      "C. N1000",
+      "D. N1200"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "A student scored the following marks in a test: 12, 15, 12, 18, 15, 12, 20. What is the mode of the scores?",
+    "options": [
+      "A. 12",
+      "B. 15",
+      "C. 18",
+      "D. 20"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Calculate the volume of a rectangular block 8cm long, 5cm wide, and 4cm high.",
+    "options": [
+      "A. 17cm³",
+      "B. 32cm³",
+      "C. 160cm³",
+      "D. 320cm³"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "Solve the equation: 5(x - 2) = 3x + 10.",
+    "options": [
+      "A. x = 0",
+      "B. x = 5",
+      "C. x = 10",
+      "D. x = 20"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "Convert the decimal number 25 to binary (base 2).",
+    "options": [
+      "A. 11001₂",
+      "B. 10101₂",
+      "C. 11101₂",
+      "D. 11011₂"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "Find the simple interest on N15,000 for 3 years at 4% per annum.",
+    "options": [
+      "A. N1,800",
+      "B. N2,000",
+      "C. N2,400",
+      "D. N3,600"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "Factorize: 3xy - 6y².",
+    "options": [
+      "A. 3(xy - 2y²)",
+      "B. 3x(y - 2)",
+      "C. 3y(x - 2y)",
+      "D. y(3x - 6y)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "If the sum of angles on a straight line is 180°, find the value of y if the angles are 3y, 2y, and 45°.",
+    "options": [
+      "A. 27°",
+      "B. 35°",
+      "C. 45°",
+      "D. 55°"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "What is the Highest Common Factor (HCF) of 24, 36, and 60?",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 12",
+      "D. 24"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "A dress costs N4,000. It is sold at a discount of 15%. What is the selling price?",
+    "options": [
+      "A. N600",
+      "B. N3,400",
+      "C. N3,600",
+      "D. N4,600"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Simplify the expression: (2a + 3b) - (a - 2b).",
+    "options": [
+      "A. a + b",
+      "B. a + 5b",
+      "C. 3a + b",
+      "D. 3a + 5b"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "A coin is tossed once. What is the probability of getting a head?",
+    "options": [
+      "A. 1/4",
+      "B. 1/3",
+      "C. 1/2",
+      "D. 1"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "Evaluate: 3/4 + 1/3 - 1/2.",
+    "options": [
+      "A. 1/12",
+      "B. 5/12",
+      "C. 7/12",
+      "D. 11/12"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Express 0.000345 in standard form.",
+    "options": [
+      "A. 3.45 × 10⁻⁴",
+      "B. 3.45 × 10⁻³",
+      "C. 3.45 × 10⁴",
+      "D. 34.5 × 10⁻⁵"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "Find the area of a circle whose diameter is 14cm. (Take π = 22/7)",
+    "options": [
+      "A. 44cm²",
+      "B. 154cm²",
+      "C. 308cm²",
+      "D. 616cm²"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Solve the inequality: 4x - 7 < 9.",
+    "options": [
+      "A. x < 2",
+      "B. x > 2",
+      "C. x < 4",
+      "D. x > 4"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Find the Lowest Common Multiple (LCM) of 8, 12, and 16.",
+    "options": [
+      "A. 24",
+      "B. 32",
+      "C. 48",
+      "D. 96"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "In a class of 40 students, 24 are girls. What is the ratio of boys to girls in its simplest form?",
+    "options": [
+      "A. 2:3",
+      "B. 3:2",
+      "C. 3:5",
+      "D. 5:3"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Calculate the perimeter of a rectangle with length 12cm and width 7cm.",
+    "options": [
+      "A. 19cm",
+      "B. 38cm",
+      "C. 84cm",
+      "D. 168cm"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "Factorize completely: m² - 16.",
+    "options": [
+      "A. (m - 4)(m - 4)",
+      "B. (m + 4)(m + 4)",
+      "C. (m - 4)(m + 4)",
+      "D. m(m - 16)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "A die is rolled. Find the probability of obtaining a prime number.",
+    "options": [
+      "A. 1/6",
+      "B. 1/3",
+      "C. 1/2",
+      "D. 2/3"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "Convert the binary number 10111₂ to base 10.",
+    "options": [
+      "A. 21",
+      "B. 23",
+      "C. 25",
+      "D. 27"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "If x = -2 and y = 3, evaluate x² - 2xy + y².",
+    "options": [
+      "A. 1",
+      "B. 5",
+      "C. 25",
+      "D. 35"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Calculate the mean of the first five positive even numbers.",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Find the area of a triangle with base 10cm and height 8cm.",
+    "options": [
+      "A. 18cm²",
+      "B. 40cm²",
+      "C. 80cm²",
+      "D. 160cm²"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "A trader buys a bag of beans for N12,000 and sells it to make a profit of 20%. Find the selling price.",
+    "options": [
+      "A. N2,400",
+      "B. N14,400",
+      "C. N15,000",
+      "D. N24,000"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "Solve the simultaneous equations: x + y = 10, x - y = 4.",
+    "options": [
+      "A. x = 7, y = 3",
+      "B. x = 6, y = 4",
+      "C. x = 8, y = 2",
+      "D. x = 3, y = 7"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "What is the square root of 6¼?",
+    "options": [
+      "A. 2¼",
+      "B. 2½",
+      "C. 3¼",
+      "D. 3½"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Evaluate 1101₂ + 1010₂.",
+    "options": [
+      "A. 10111₂",
+      "B. 11011₂",
+      "C. 10101₂",
+      "D. 11111₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "Find the median of the data set: 14, 11, 16, 15, 12, 13.",
+    "options": [
+      "A. 13",
+      "B. 13.5",
+      "C. 14",
+      "D. 14.5"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "A cone has a base radius of 7cm and a height of 12cm. Calculate its volume. (Take π = 22/7)",
+    "options": [
+      "A. 88cm³",
+      "B. 264cm³",
+      "C. 616cm³",
+      "D. 1848cm³"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Expand and simplify: (2x - 3)(x + 4).",
+    "options": [
+      "A. 2x² - 5x - 12",
+      "B. 2x² + 5x - 12",
+      "C. 2x² - 11x - 12",
+      "D. 2x² + 11x - 12"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "Express 5/8 as a decimal fraction.",
+    "options": [
+      "A. 0.375",
+      "B. 0.580",
+      "C. 0.625",
+      "D. 0.875"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "Find the sum of the interior angles of a regular hexagon.",
+    "options": [
+      "A. 360°",
+      "B. 540°",
+      "C. 720°",
+      "D. 900°"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Solve the inequality: 3(x + 2) ≥ 2(x + 5).",
+    "options": [
+      "A. x ≥ 1",
+      "B. x ≥ 4",
+      "C. x ≤ 4",
+      "D. x ≥ 16"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "A bag contains 6 black balls and 4 white balls. If a ball is picked at random, what is the probability that it is white?",
+    "options": [
+      "A. 2/5",
+      "B. 3/5",
+      "C. 4/5",
+      "D. 1/10"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "Find the simple interest on N20,000 for 2½ years at 6% per annum.",
+    "options": [
+      "A. N1,500",
+      "B. N3,000",
+      "C. N3,600",
+      "D. N4,000"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Evaluate: √2¼.",
+    "options": [
+      "A. 1¼",
+      "B. 1½",
+      "C. 1¾",
+      "D. 2"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A car travels 240km in 3 hours. What is its average speed?",
+    "options": [
+      "A. 60 km/h",
+      "B. 70 km/h",
+      "C. 80 km/h",
+      "D. 90 km/h"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "Factorize: ax - ay + bx - by.",
+    "options": [
+      "A. (a + b)(x - y)",
+      "B. (a - b)(x + y)",
+      "C. (a - x)(b - y)",
+      "D. (a + y)(b - x)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "Express 4.56 × 10³ as an ordinary number.",
+    "options": [
+      "A. 0.00456",
+      "B. 456",
+      "C. 4560",
+      "D. 45600"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "The bearing of X from Y is 120°. What is the bearing of Y from X?",
+    "options": [
+      "A. 060°",
+      "B. 120°",
+      "C. 240°",
+      "D. 300°"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "Calculate the range of the following set of numbers: 8, 3, 14, 5, 20, 11.",
+    "options": [
+      "A. 8",
+      "B. 11",
+      "C. 14",
+      "D. 17"
+    ],
+    "answer": "D",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Solve the equation: x/2 + x/3 = 10.",
+    "options": [
+      "A. 2",
+      "B. 6",
+      "C. 12",
+      "D. 24"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "If a rectangle has an area of 48cm² and a width of 6cm, find its perimeter.",
+    "options": [
+      "A. 8cm",
+      "B. 14cm",
+      "C. 28cm",
+      "D. 32cm"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Subtract 110₂ from 1010₂.",
+    "options": [
+      "A. 100₂",
+      "B. 101₂",
+      "C. 110₂",
+      "D. 111₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "Simplify: 4a²b / 2ab.",
+    "options": [
+      "A. 2a",
+      "B. 2b",
+      "C. 2a²",
+      "D. 2ab"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Find the value of x if the angles of a triangle are x, 2x, and 3x.",
+    "options": [
+      "A. 30°",
+      "B. 45°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "A student spends 1/3 of his allowance on books and 1/4 on food. What fraction of his allowance is left?",
+    "options": [
+      "A. 5/12",
+      "B. 7/12",
+      "C. 1/7",
+      "D. 2/7"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "Calculate the mean of 3.4, 4.2, 5.1, and 3.3.",
+    "options": [
+      "A. 3.5",
+      "B. 4.0",
+      "C. 4.5",
+      "D. 5.0"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "If P = {prime numbers less than 10}, list the elements of P.",
+    "options": [
+      "A. {1, 3, 5, 7}",
+      "B. {2, 3, 5, 7}",
+      "C. {2, 4, 6, 8}",
+      "D. {3, 5, 7, 9}"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Simplify the expression: (3½ - 1¼) × 4/9.",
+    "options": [
+      "A. 1",
+      "B. 1½",
+      "C. 2",
+      "D. 2¼"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "Solve for x in the equation: 2(x - 3) + 3(2x - 1) = 15.",
+    "options": [
+      "A. 1.5",
+      "B. 2",
+      "C. 3",
+      "D. 4.5"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "Calculate the perimeter of a sector of a circle with a radius of 7cm and a sector angle of 90°. (Take π = 22/7)",
+    "options": [
+      "A. 11cm",
+      "B. 18cm",
+      "C. 25cm",
+      "D. 38.5cm"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "A man travels 120km at an average speed of 40km/h and returns the same distance at 60km/h. What is his average speed for the whole journey?",
+    "options": [
+      "A. 48 km/h",
+      "B. 50 km/h",
+      "C. 52 km/h",
+      "D. 100 km/h"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "A man earns N120,000 monthly. He pays 10% as tax and spends 25% of the remainder on food. How much does he have left?",
+    "options": [
+      "A. N27,000",
+      "B. N78,000",
+      "C. N81,000",
+      "D. N108,000"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "If the bearing of town P from town Q is 135°, what is the bearing of Q from P?",
+    "options": [
+      "A. 045°",
+      "B. 225°",
+      "C. 270°",
+      "D. 315°"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "In a right-angled triangle XYZ, angle Y = 90°, XY = 5cm, and YZ = 12cm. Find the length of XZ.",
+    "options": [
+      "A. 13cm",
+      "B. 15cm",
+      "C. 17cm",
+      "D. 169cm"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "Make x the subject of the formula: y = (2x - 1) / (x + 3).",
+    "options": [
+      "A. x = (3y + 1) / (2 - y)",
+      "B. x = (3y - 1) / (2 + y)",
+      "C. x = (2y + 1) / (3 - y)",
+      "D. x = (y + 3) / (2y - 1)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "The mean of five numbers 4, 8, x, 12, and 15 is 10. Find the value of x.",
+    "options": [
+      "A. 9",
+      "B. 10",
+      "C. 11",
+      "D. 13"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "A bag contains 4 red and 6 blue balls. If two balls are picked consecutively without replacement, what is the probability that both are red?",
+    "options": [
+      "A. 2/15",
+      "B. 4/25",
+      "C. 1/6",
+      "D. 2/5"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "Solve the simultaneous equations: 2x + y = 7 and 3x - y = 8.",
+    "options": [
+      "A. x = 2, y = 3",
+      "B. x = 3, y = 1",
+      "C. x = 1, y = 5",
+      "D. x = 3, y = -1"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "Factorize the algebraic expression: 3x² - 12.",
+    "options": [
+      "A. 3(x - 2)²",
+      "B. 3(x - 4)(x + 4)",
+      "C. 3(x - 2)(x + 2)",
+      "D. 3x(x - 4)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "Evaluate the product of 1101₂ and 11₂ in base 2.",
+    "options": [
+      "A. 100111₂",
+      "B. 101011₂",
+      "C. 110111₂",
+      "D. 100011₂"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "A cylinder has a volume of 308cm³ and a base radius of 7cm. Calculate its height. (Take π = 22/7)",
+    "options": [
+      "A. 2cm",
+      "B. 4cm",
+      "C. 7cm",
+      "D. 14cm"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "A brand new car costs N2,000,000. It depreciates in value by 10% each year. What will be its value at the end of 2 years?",
+    "options": [
+      "A. N1,600,000",
+      "B. N1,620,000",
+      "C. N1,800,000",
+      "D. N1,980,000"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "Express 0.005681 to 2 significant figures.",
+    "options": [
+      "A. 0.01",
+      "B. 0.0056",
+      "C. 0.0057",
+      "D. 0.00568"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "What is the Highest Common Factor (HCF) of 18, 36, and 45?",
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 9",
+      "D. 18"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Evaluate (4.5 × 10⁵) ÷ (1.5 × 10²), leaving your answer in standard form.",
+    "options": [
+      "A. 3.0 × 10²",
+      "B. 3.0 × 10³",
+      "C. 3.0 × 10⁷",
+      "D. 3.0 × 10⁸"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "A number is chosen at random from the integers 1 to 20 inclusive. What is the probability that it is a prime number?",
+    "options": [
+      "A. 1/4",
+      "B. 7/20",
+      "C. 2/5",
+      "D. 9/20"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "If sin θ = 3/5 and θ is an acute angle, find the value of cos θ.",
+    "options": [
+      "A. 2/5",
+      "B. 3/4",
+      "C. 4/5",
+      "D. 5/4"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "The sum of two numbers is 15 and their difference is 3. What is the product of the two numbers?",
+    "options": [
+      "A. 36",
+      "B. 45",
+      "C. 54",
+      "D. 60"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "Find the simple interest on N12,000 at 5% per annum for 9 months.",
+    "options": [
+      "A. N450",
+      "B. N540",
+      "C. N600",
+      "D. N5,400"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "Calculate the area of a rhombus whose diagonals are 10cm and 14cm.",
+    "options": [
+      "A. 35cm²",
+      "B. 70cm²",
+      "C. 140cm²",
+      "D. 280cm²"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "Simplify the fractions: (1/2 + 1/4) ÷ (1/3 - 1/6).",
+    "options": [
+      "A. 1/8",
+      "B. 2.5",
+      "C. 4.5",
+      "D. 9"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "The angle of a sector of a circle with a radius of 14cm is 60°. Calculate its area to two decimal places. (Take π = 22/7)",
+    "options": [
+      "A. 14.67 cm²",
+      "B. 51.33 cm²",
+      "C. 102.67 cm²",
+      "D. 308.00 cm²"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Solve for x in the rational equation: 2/x + 3/(2x) = 7/4.",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "Factorize completely: y² - 7y + 12.",
+    "options": [
+      "A. (y - 3)(y - 4)",
+      "B. (y + 3)(y + 4)",
+      "C. (y - 2)(y - 6)",
+      "D. (y - 1)(y - 12)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Expand the brackets: (2x - y)(x + 3y).",
+    "options": [
+      "A. 2x² + 5xy - 3y²",
+      "B. 2x² - 5xy - 3y²",
+      "C. 2x² + 7xy - 3y²",
+      "D. 2x² - 3y²"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "In a pie chart, a sector of 120° represents 40 students. How many students are represented by a sector of 90°?",
+    "options": [
+      "A. 20",
+      "B. 30",
+      "C. 40",
+      "D. 120"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "A ladder 10m long leans against a vertical wall. The foot of the ladder is 6m away from the base of the wall. How high up the wall does the ladder reach?",
+    "options": [
+      "A. 4m",
+      "B. 8m",
+      "C. 12m",
+      "D. 16m"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "If 25% of a certain number is 40, what is 80% of that same number?",
+    "options": [
+      "A. 10",
+      "B. 32",
+      "C. 128",
+      "D. 160"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Evaluate the subtraction in base 2: 10101₂ - 1110₂.",
+    "options": [
+      "A. 111₂",
+      "B. 1001₂",
+      "C. 1011₂",
+      "D. 1101₂"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Find the Lowest Common Multiple (LCM) of 15, 20, and 25.",
+    "options": [
+      "A. 60",
+      "B. 100",
+      "C. 150",
+      "D. 300"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Convert the decimal number 56 to a number in base 8.",
+    "options": [
+      "A. 60₈",
+      "B. 70₈",
+      "C. 76₈",
+      "D. 100₈"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Simplify the surdic expression: √72 + √32 - √50.",
+    "options": [
+      "A. 4√2",
+      "B. 5√2",
+      "C. 6√2",
+      "D. 15√2"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "Calculate the volume of a sphere with a radius of 3cm, leaving your answer in terms of π.",
+    "options": [
+      "A. 12π cm³",
+      "B. 27π cm³",
+      "C. 36π cm³",
+      "D. 108π cm³"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "A trader marks a piece of goods at N500 but allows a 10% discount for cash payment. What is the cash price of the goods?",
+    "options": [
+      "A. N400",
+      "B. N450",
+      "C. N490",
+      "D. N550"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "Solve the linear inequality: 3(2x - 1) < 4(x + 2).",
+    "options": [
+      "A. x < 2.5",
+      "B. x > 2.5",
+      "C. x < 5.5",
+      "D. x > 5.5"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following plane shapes is NOT a quadrilateral?",
+    "options": [
+      "A. Kite",
+      "B. Trapezium",
+      "C. Rhombus",
+      "D. Pentagon"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "A regular polygon has exactly 9 diagonals. How many sides does this polygon have?",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Calculate the sum of the first 5 prime numbers.",
+    "options": [
+      "A. 17",
+      "B. 18",
+      "C. 27",
+      "D. 28"
+    ],
+    "answer": "D",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Find the range of the following decimal values: 1.2, 0.8, 2.5, 0.4, 3.1.",
+    "options": [
+      "A. 2.3",
+      "B. 2.7",
+      "C. 3.1",
+      "D. 3.5"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Make p the subject of the formula: t = √(p / q).",
+    "options": [
+      "A. p = q t²",
+      "B. p = t² / q",
+      "C. p = √(t / q)",
+      "D. p = q² t"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "Evaluate the index expression: (2³ × 3²) / (6²).",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 6"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "Solve the exponential equation for x: 2^x = 32.",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 16"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "The mean of the numbers 3, 7, x, 11, and 15 is 9. Find the median of these five numbers.",
+    "options": [
+      "A. 7",
+      "B. 8",
+      "C. 9",
+      "D. 11"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "If the interior angles of a quadrilateral are x, 2x, 3x, and 4x respectively, find the magnitude of the largest angle.",
+    "options": [
+      "A. 36°",
+      "B. 72°",
+      "C. 108°",
+      "D. 144°"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Evaluate the decimal operation without a calculator: (0.04 × 0.012) / 0.0048.",
+    "options": [
+      "A. 0.01",
+      "B. 0.1",
+      "C. 1",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "Factorize the difference of two squares: 4p² - 25q².",
+    "options": [
+      "A. (2p - 5q)²",
+      "B. (4p - 25q)(p + q)",
+      "C. (2p - 5q)(2p + 5q)",
+      "D. (2p - 5q)(2p - 5q)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "A rectangular water tank is 3m long, 2m wide, and 1.5m deep. How many liters of water can it hold when full? (Hint: 1m³ = 1000 liters)",
+    "options": [
+      "A. 900 liters",
+      "B. 4,500 liters",
+      "C. 6,000 liters",
+      "D. 9,000 liters"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "From the top of a vertical cliff 30m high, the angle of depression of a boat on the sea is 30°. Find the horizontal distance of the boat from the foot of the cliff.",
+    "options": [
+      "A. 15m",
+      "B. 30m",
+      "C. 30√3 m",
+      "D. 60m"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "Convert the number 231 in base 4 to a number in base 6.",
+    "options": [
+      "A. 113₆",
+      "B. 125₆",
+      "C. 211₆",
+      "D. 415₆"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "Solve for x in the quadratic equation: 3x² - 5x - 2 = 0.",
+    "options": [
+      "A. x = 2 or x = -1/3",
+      "B. x = -2 or x = 1/3",
+      "C. x = 3 or x = -2",
+      "D. x = 1 or x = -2/3"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "In a survey of 50 students, 30 like Mathematics, 25 like Science, and 10 like both subjects. How many students like neither of the two subjects?",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 15",
+      "D. 20"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "A cylindrical pipe open at both ends has a radius of 3.5cm and a length of 20cm. Calculate its curved surface area. (Take π = 22/7)",
+    "options": [
+      "A. 220 cm²",
+      "B. 440 cm²",
+      "C. 616 cm²",
+      "D. 770 cm²"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Solve the exponential equation for x: 3^(2x - 1) = 27.",
+    "options": [
+      "A. x = 1",
+      "B. x = 2",
+      "C. x = 3",
+      "D. x = 4"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "If y varies inversely as the square root of x, and y = 4 when x = 9, find the value of y when x = 16.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4.5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "Evaluate the binary multiplication: 1.01₂ × 11₂.",
+    "options": [
+      "A. 11.01₂",
+      "B. 11.11₂",
+      "C. 101.11₂",
+      "D. 111.11₂"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "The scale of a map is 1:20,000. If the distance between two villages on the map is 5cm, what is the actual physical distance in kilometers?",
+    "options": [
+      "A. 0.1 km",
+      "B. 1 km",
+      "C. 10 km",
+      "D. 100 km"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "Factorize completely the algebraic expression: 2x² - 8y².",
+    "options": [
+      "A. 2(x - 2y)(x - 2y)",
+      "B. 2(x - 4y)(x + 4y)",
+      "C. 2(x - 2y)(x + 2y)",
+      "D. (2x - 4y)(x + 2y)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Express the product of 0.004 and 0.025 in standard form.",
+    "options": [
+      "A. 1.0 × 10⁻⁵",
+      "B. 1.0 × 10⁻⁴",
+      "C. 1.0 × 10⁻³",
+      "D. 1.0 × 10⁴"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Calculate the mean deviation of the following set of data values: 2, 4, 6, 8.",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "The area of a sector of a circle is 38.5 cm². If the sector angle at the center is 90°, find the radius of the circle. (Take π = 22/7)",
+    "options": [
+      "A. 3.5cm",
+      "B. 7cm",
+      "C. 10.5cm",
+      "D. 14cm"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "A trader bought a stock of goods for N8,000 and was forced to sell them off at a loss of 12.5%. Find the final selling price.",
+    "options": [
+      "A. N6,800",
+      "B. N7,000",
+      "C. N7,200",
+      "D. N7,880"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Simplify the single algebraic fraction: (x² - 9) / (x² - 2x - 3).",
+    "options": [
+      "A. (x - 3) / (x + 1)",
+      "B. (x + 3) / (x + 1)",
+      "C. (x + 3) / (x - 1)",
+      "D. (x - 3) / (x - 1)"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "A cyclist covers a distance of 20km at an average speed of 10km/h and another 30km at 15km/h. Find his average speed for the entire journey.",
+    "options": [
+      "A. 12 km/h",
+      "B. 12.5 km/h",
+      "C. 13 km/h",
+      "D. 14 km/h"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "If the exterior angle of a regular polygon measures exactly 40°, how many sides does this polygon have?",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 9",
+      "D. 12"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "Solve the algebraic equation for y: (2y + 3)/4 - (y - 1)/3 = 2.",
+    "options": [
+      "A. y = 3.5",
+      "B. y = 4.5",
+      "C. y = 5.5",
+      "D. y = 6.5"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "Two fair six-sided dice are rolled together once. What is the probability of obtaining a total score of 9?",
+    "options": [
+      "A. 1/12",
+      "B. 1/9",
+      "C. 1/6",
+      "D. 2/9"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "Three partners Aliyu, Babajide, and Chinedu share a business profit of N600,000 in the ratio 2:3:5. How much more money did Chinedu receive than Babajide?",
+    "options": [
+      "A. N120,000",
+      "B. N180,000",
+      "C. N240,000",
+      "D. N300,000"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Simplify the expression: ∛(0.027) × (2/3)⁻².",
+    "options": [
+      "A. 9/40",
+      "B. 27/40",
+      "C. 3/4",
+      "D. 9/10"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "In a circle of radius 10cm, a straight chord is drawn at a distance of 6cm from the center. Find the total length of the chord.",
+    "options": [
+      "A. 8cm",
+      "B. 12cm",
+      "C. 14cm",
+      "D. 16cm"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "The interior angles of a pentagon are given as x, 2x, (x + 20°), (2x - 10°), and 110°. Calculate the value of x.",
+    "options": [
+      "A. 50°",
+      "B. 60°",
+      "C. 70°",
+      "D. 80°"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "Solve the linear inequality: -2(x - 5) ≤ 4.",
+    "options": [
+      "A. x ≤ 3",
+      "B. x ≥ 3",
+      "C. x ≤ -3",
+      "D. x ≥ -3"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "A merchant buys 50 oranges for N1,000. She finds that 10 of them are completely rotten. She sells all the remaining good ones at 4 for N150. Calculate her percentage profit.",
+    "options": [
+      "A. 25%",
+      "B. 33.3%",
+      "C. 40%",
+      "D. 50%"
+    ],
+    "answer": "D",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Evaluate the multiplication in base 8: 145₈ × 3₈.",
+    "options": [
+      "A. 437₈",
+      "B. 457₈",
+      "C. 475₈",
+      "D. 515₈"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "Make variable s the subject of the formula: t = 2√(s / r).",
+    "options": [
+      "A. s = r t² / 4",
+      "B. s = r t² / 2",
+      "C. s = 4 r t²",
+      "D. s = t² / (4r)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "Divide N45,000 between Tunde and Seyi such that Tunde gets exactly N5,000 more than Seyi. Find Seyi's share.",
+    "options": [
+      "A. N20,000",
+      "B. N22,500",
+      "C. N25,000",
+      "D. N30,000"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "A school's annual budget pie chart displays a sector of 144° for teachers' salaries. If the total school budget is N5,000,000, how much money is allocated to salaries?",
+    "options": [
+      "A. N1,440,000",
+      "B. N2,000,000",
+      "C. N2,500,000",
+      "D. N2,880,000"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "A right-angled triangle contains an interior angle of 60° and an adjacent side of length 6cm. Find the exact length of its hypotenuse.",
+    "options": [
+      "A. 3cm",
+      "B. 6√3 cm",
+      "C. 12cm",
+      "D. 12√3 cm"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "Solve the fractional equation for x: 4 / (x - 2) = 3 / (x + 1).",
+    "options": [
+      "A. x = -10",
+      "B. x = -2",
+      "C. x = 2",
+      "D. x = 10"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "A rectangular floor measures 6m by 4m. How many square carpet tiles with a side length of 20cm are required to cover the floor completely?",
+    "options": [
+      "A. 120",
+      "B. 600",
+      "C. 1,200",
+      "D. 6,000"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "The statistical probability that a specific student passes an entrance exam is 3/5. If 300 students take the exam, what is the expected number of students who will fail?",
+    "options": [
+      "A. 100",
+      "B. 120",
+      "C. 180",
+      "D. 200"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "If 3x + 2y = 12 and 2x + 3y = 13, without solving for x and y separately, find the value of x + y.",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 25"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "Find the base x if the number equation holds true: 21_x = 13_10.",
+    "options": [
+      "A. Base 5",
+      "B. Base 6",
+      "C. Base 7",
+      "D. Base 8"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "What is the size of each individual interior angle of a regular octagon?",
+    "options": [
+      "A. 45°",
+      "B. 108°",
+      "C. 120°",
+      "D. 135°"
+    ],
+    "answer": "D",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "The explicit ages of 5 children are 7, 9, x, 12, and 15. If the median age of this group is 11, find the value of x.",
+    "options": [
+      "A. 10",
+      "B. 10.5",
+      "C. 11",
+      "D. 11.5"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "Factorize completely the quadratic expression: 6x² - x - 2.",
+    "options": [
+      "A. (3x - 2)(2x + 1)",
+      "B. (3x + 2)(2x - 1)",
+      "C. (6x - 2)(x + 1)",
+      "D. (2x - 1)(3x - 2)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Change the subject of the rational formula to make z stand alone: 1/x + 1/y = 1/z.",
+    "options": [
+      "A. z = x + y",
+      "B. z = xy",
+      "C. z = xy / (x + y)",
+      "D. z = (x + y) / xy"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "Solve the quadratic equation for x: 4x² - 13x + 3 = 0.",
+    "options": [
+      "A. x = 3 or x = 1/4",
+      "B. x = -3 or x = -1/4",
+      "C. x = 3 or x = -1/4",
+      "D. x = -3 or x = 1/4"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "Calculate the total surface area of a solid (cone) with a base radius of 7cm and a slant height of 10cm. (Take π = 22/7)",
+    "options": [
+      "A. 154 cm²",
+      "B. 220 cm²",
+      "C. 374 cm²",
+      "D. 528 cm²"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Evaluate the expression and leave your answer in standard form: (0.0024 × 0.015) ÷ 0.00009.",
+    "options": [
+      "A. 4.0 × 10⁻²",
+      "B. 4.0 × 10⁻¹",
+      "C. 4.0 × 10⁰",
+      "D. 4.0 × 10¹"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "A box contains 5 white and 3 black balls. If two balls are drawn one after the other without replacement, find the probability that both balls are black.",
+    "options": [
+      "A. 3/28",
+      "B. 9/64",
+      "C. 15/56",
+      "D. 3/14"
+    ],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "Perform the binary division operation: 11011₂ ÷ 11₂.",
+    "options": [
+      "A. 11₂",
+      "B. 101₂",
+      "C. 1001₂",
+      "D. 1011₂"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "Calculate the compound interest on N40,000 for 2 years at a compound rate of 10% per annum.",
+    "options": [
+      "A. N4,000",
+      "B. N8,000",
+      "C. N8,400",
+      "D. N48,400"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "Simplify the single algebraic fraction expression: 3/(x - 1) - 2/(x + 1).",
+    "options": [
+      "A. 1 / (x² - 1)",
+      "B. (x + 5) / (x² - 1)",
+      "C. (x + 1) / (x² - 1)",
+      "D. (5x + 1) / (x² - 1)"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "The scores of 10 students in a literature test are: 4, 7, 5, 7, 8, 6, 7, 9, 5, 10. Find the median score.",
+    "options": [
+      "A. 6.0",
+      "B. 6.5",
+      "C. 7.0",
+      "D. 7.5"
+    ],
+    "answer": "C",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Find the positive base value denoted by n: 104_n = 68_10.",
+    "options": [
+      "A. Base 6",
+      "B. Base 7",
+      "C. Base 8",
+      "D. Base 9"
+    ],
+    "answer": "C",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "Solve the fractional linear inequality: (2x - 1)/3 ≥ (x + 2)/2.",
+    "options": [
+      "A. x ≥ 4",
+      "B. x ≤ 4",
+      "C. x ≥ 8",
+      "D. x ≤ 8"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "Expand and simplify the algebraic bracket expression fully: (3x - 2y)².",
+    "options": [
+      "A. 9x² - 4y²",
+      "B. 9x² + 4y²",
+      "C. 9x² - 6xy + 4y²",
+      "D. 9x² - 12xy + 4y²"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Variable P varies directly as Q and inversely as R. If P = 6 when Q = 4 and R = 2, find the value of P when Q = 6 and R = 3.",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 9",
+      "D. 12"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "The circumference of a circular sector with a central angle of 60° is 22cm. Calculate its radius length. (Take π = 22/7)",
+    "options": [
+      "A. 3.5cm",
+      "B. 5.25cm",
+      "C. 7cm",
+      "D. 10.5cm"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Two electronic bells flash at intervals of 12 seconds and 18 seconds respectively. If they flash together at 8:00 AM, at what time will they next flash together?",
+    "options": [
+      "A. 8:00:30 AM",
+      "B. 8:00:36 AM",
+      "C. 8:01:12 AM",
+      "D. 8:02:00 AM"
+    ],
+    "answer": "B",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "A refrigerator is sold on hire purchase terms. A cash deposit of N20,000 is paid followed by 6 monthly installments of N5,000 each. If the total hire purchase cost is 25% higher than the cash price, find the cash price.",
+    "options": [
+      "A. N37,500",
+      "B. N40,000",
+      "C. N50,000",
+      "D. N62,500"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "If values are given as a = 4, b = -3, and c = -1, evaluate the algebraic form: b² - 4ac.",
+    "options": [
+      "A. -7",
+      "B. 7",
+      "C. 16",
+      "D. 25"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "Convert the decimal base-10 decimal value 12.25 to a binary number in base 2.",
+    "options": [
+      "A. 1100.01₂",
+      "B. 1100.11₂",
+      "C. 1010.01₂",
+      "D. 1110.10₂"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "If 5 construction workers can build a security wall structure in 12 days, how many (extra) workers are required to finish the identical wall in just 4 days?",
+    "options": [
+      "A. 10",
+      "B. 15",
+      "C. 20",
+      "D. 25"
+    ],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "Solve the linear equation for x: x/2 + x/3 = 10.",
+    "options": [
+      "A. x = 6",
+      "B. x = 12",
+      "C. x = 15",
+      "D. x = 20"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "The straight diagonal lengths of a rhombus flat shape measure 12cm and 16cm. Calculate the total perimeter of the rhombus.",
+    "options": [
+      "A. 20cm",
+      "B. 40cm",
+      "C. 48cm",
+      "D. 56cm"
+    ],
+    "answer": "B",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "Find the statistical mean value of the algebraic terms: x, x + 2, x + 4, x + 6, and x + 8.",
+    "options": [
+      "A. x + 3",
+      "B. x + 4",
+      "C. x + 5",
+      "D. 5x + 20"
+    ],
+    "answer": "B",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "Two mathematically similar triangles have matching sides in a linear ratio of 3:4. If the surface area of the smaller triangle is 27 cm², find the area of the larger triangle.",
+    "options": [
+      "A. 36 cm²",
+      "B. 48 cm²",
+      "C. 64 cm²",
+      "D. 108 cm²"
+    ],
+    "answer": "C",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "Express the value of fraction 1/800 accurately in standard form index notation.",
+    "options": [
+      "A. 1.25 × 10⁻³",
+      "B. 1.25 × 10⁻²",
+      "C. 1.25 × 10³",
+      "D. 1.25 × 10⁻⁴"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "Factorize completely the expression: x² - x - 20.",
+    "options": [
+      "A. (x - 4)(x + 5)",
+      "B. (x + 4)(x - 5)",
+      "C. (x - 2)(x + 10)",
+      "D. (x - 1)(x + 20)"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "An export merchant exchanges 400 US Dollars for Local Naira currency at a conversion rate of 1 USD = N1,500. If he spends 20% of the proceeds, how much does he have left?",
+    "options": [
+      "A. N120,000",
+      "B. N480,000",
+      "C. N500,000",
+      "D. N600,000"
+    ],
+    "answer": "B",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "Multiply the following base 5 digits: 42_5 × 3_5.",
+    "options": [
+      "A. 131_5",
+      "B. 221_5",
+      "C. 231_5",
+      "D. 1211_5"
+    ],
+    "answer": "C",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Solve the simultaneous system for variables x and y: 3/x + 2/y = 5 and 1/x - 1/y = 0.",
+    "options": [
+      "A. x = 1, y = 1",
+      "B. x = 2, y = 2",
+      "C. x = 0.5, y = 0.5",
+      "D. x = -1, y = -1"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Find the positive integer value for base k: 312_k = 56_10.",
+    "options": [
+      "A. Base 4",
+      "B. Base 5",
+      "C. Base 6",
+      "D. Base 7"
+    ],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "A cylindrical storage tank has a uniform volume of 9m³. Liquid fills it at a constant rate of 150 liters per minute. How many hours will it take to fill completely? (Hint: 1m³ = 1000 liters)",
+    "options": [
+      "A. 1 hour",
+      "B. 1.5 hours",
+      "C. 2 hours",
+      "D. 2.5 hours"
+    ],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "question": "Find the value of \\(\\tan 45^\\circ + \\sin 90^\\circ\\).",
+    "options": ["A. 2", "B. 1", "C. 1.5", "D. 0.5"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "If \\(a = 2, b = 3\\), find the value of \\(\\frac{a^2 + b^2}{ab}\\).",
+    "options": ["A. \\(\\frac{13}{6}\\)", "B. \\(\\frac{12}{6}\\)", "C. \\(\\frac{11}{6}\\)", "D. \\(\\frac{14}{6}\\)"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 303,
+    "question": "The ratio of two numbers is 3:7. If their sum is 100, find the smaller number.",
+    "options": ["A. 30", "B. 40", "C. 35", "D. 25"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "question": "A man saves 15% of his income. If he saves \u20a64,500 per month, find his monthly income.",
+    "options": ["A. \u20a630,000", "B. \u20a635,000", "C. \u20a640,000", "D. \u20a625,000"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "Find the sum of the interior angles of a regular octagon.",
+    "options": ["A. 1080°", "B. 900°", "C. 720°", "D. 1260°"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "question": "If \\(x + \\frac{1}{x} = 3\\), find \\(x^2 + \\frac{1}{x^2}\\).",
+    "options": ["A. 7", "B. 9", "C. 11", "D. 5"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 308,
+    "question": "Simplify \\(\\frac{5}{\\sqrt{5}}\\).",
+    "options": ["A. \\(\\sqrt{5}\\)", "B. \\(5\\sqrt{5}\\)", "C. \\(\\frac{\\sqrt{5}}{5}\\)", "D. \\(\\frac{5}{\\sqrt{5}}\\)"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The volume of a cylinder is 1540 cm³ and its height is 10 cm. Find its radius. (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": ["A. 7 cm", "B. 5 cm", "C. 6 cm", "D. 8 cm"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "If \\(3^{x+1} = 81\\), find \\(x\\).",
+    "options": ["A. 3", "B. 4", "C. 2", "D. 5"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "The mean of 5 numbers is (12). If one number is 20, find the mean of the remaining four.",
+    "options": ["A. 10", "B. 8", "C. 12", "D. 14"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 312,
+    "question": "Find the area of a rectangle with length 2x and width (x+3) if x=5.",
+    "options": ["A. 80", "B. 70", "C. 90", "D. 60"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Solve for \\(x\\): \\(3(x - 2) + 4 = 2(x + 3)\\).",
+    "options": ["A. 8", "B. 7", "C. 6", "D. 5"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "If \\(y\\) varies directly as \\(x^2\\) and \\(y = 18\\) when \\(x = 3\\), find \\(y\\) when \\(x = 6\\).",
+    "options": ["A. 72", "B. 36", "C. 54", "D. 90"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "question": "A bag contains 3 red, 4 blue, and 5 green marbles. What is the probability of drawing a blue or green marble?",
+    "options": ["A. \\(\\frac{3}{4}\\)", "B. \\(\\frac{1}{2}\\)", "C. \\(\\frac{9}{12}\\)", "D. \\(\\frac{5}{12}\\)"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "Find the volume of a cuboid of length 5 cm, width 3 cm, and height 4 cm.",
+    "options": ["A. 60 cm³", "B. 30 cm³", "C. 45 cm³", "D. 75 cm³"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "If \\(\\frac{x}{3} = \\frac{y}{4} = \\frac{z}{5}\\) and \\(x + y + z = 24\\), find \\(x\\).",
+    "options": ["A. 6", "B. 8", "C. 10", "D. 4"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 322,
+    "question": "A man spends 20% of his income on rent, 30% on food, and saves the rest. If he saves \u20a615,000, find his income.",
+    "options": ["A. \u20a630,000", "B. \u20a625,000", "C. \u20a620,000", "D. \u20a635,000"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "The area of a rhombus is 48 cm² and one diagonal is 12 cm. Find the other diagonal.",
+    "options": ["A. 8 cm", "B. 6 cm", "C. 10 cm", "D. 4 cm"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 328,
+    "question": "A train 150 m long crosses a bridge 300 m long in 30 seconds. Find the speed of the train in km/h.",
+    "options": ["A. 54 km/h", "B. 45 km/h", "C. 36 km/h", "D. 72 km/h"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 329,
+    "question": "Find the value of \\(x\\) if \\(\\frac{2x}{3} - \\frac{x}{2} = 2\\).",
+    "options": ["A. 12", "B. 10", "C. 8", "D. 6"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "The number of boys in a class is twice the number of girls. If there are 18 girls, find the total number of students.",
+    "options": ["A. 54", "B. 36", "C. 48", "D. 60"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Find the area of a parallelogram with base 10 cm and height 6 cm.",
+    "options": ["A. 60 cm²", "B. 30 cm²", "C. 80 cm²", "D. 40 cm²"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "question": "A die is thrown once. What is the probability of getting a number greater than 4?",
+    "options": ["A. \\(\\frac{1}{3}\\)", "B. \\(\\frac{1}{2}\\)", "C. \\(\\frac{2}{3}\\)", "D. \\(\\frac{1}{6}\\)"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "question": "Simplify \\(\\frac{2}{3} + \\frac{4}{5} - \\frac{1}{2}\\).",
+    "options": ["A. \\(\\frac{29}{30}\\)", "B. \\(\\frac{31}{30}\\)", "C. \\(\\frac{27}{30}\\)", "D. \\(\\frac{19}{30}\\)"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "If the simple interest on a sum for 3 years at 5% p.a. is \u20a6750, find the principal.",
+    "options": ["A. \u20a65,000", "B. \u20a64,000", "C. \u20a66,000", "D. \u20a65,500"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 339,
+    "question": "The mean of 5 numbers is (18). If three numbers are 15, 20, and 18, find the sum of the remaining two.",
+    "options": ["A. 37", "B. 35", "C. 40", "D. 33"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 340,
+    "question": "Calculate the total surface area of a cube of side 7 cm.",
+    "options": ["A. 294 cm²", "B. 294 cm³", "C. 343 cm²", "D. 343 cm³"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "If \\(2x + y = 10\\) and \\(x - y = 2\\), find \\(x\\).",
+    "options": ["A. 4", "B. 3", "C. 5", "D. 2"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "A bag contains 5 red, 3 blue, and 2 yellow balls. What is the probability of drawing a yellow ball?",
+    "options": ["A. 0.2", "B. 0.4", "C. 0.1", "D. 0.3"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "Find the volume of a right circular cone with height 12 cm and base radius 5 cm. (Take \\(\\pi = 3.14\\))",
+    "options": ["A. 314 cm³", "B. 314.16 cm³", "C. 310 cm³", "D. 300 cm³"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "If \\(\\frac{1}{2}\\) of a number is 25 less than the number itself, find the number.",
+    "options": ["A. 50", "B. 100", "C. 75", "D. 60"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "question": "Simplify \\(\\frac{5}{\\sqrt{5}} + \\sqrt{5}\\).",
+    "options": ["A. \\(2\\sqrt{5}\\)", "B. \\(3\\sqrt{5}\\)", "C. \\(\\sqrt{5}\\)", "D. \\(4\\sqrt{5}\\)"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "A car uses 8 litres of petrol to travel 100 km. How many litres will it use to travel 350 km?",
+    "options": ["A. 28", "B. 24", "C. 30", "D. 35"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "If the median of 5, 7, 9, x, 13 is 10, find x.",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 9"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "Solve for \\(x\\) in the equation \\(\\frac{2x-1}{3} - \\frac{x+2}{2} = 1\\).",
+    "options": ["A. 14", "B. 12", "C. 10", "D. 8"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 353,
+    "question": "A die is rolled twice. What is the probability of getting a sum of 8?",
+    "options": ["A. \\(\\frac{5}{36}\\)", "B. \\(\\frac{1}{6}\\)", "C. \\(\\frac{7}{36}\\)", "D. \\(\\frac{1}{9}\\)"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "If \\(a = -3\\) and \\(b = 4\\), evaluate \\((a - b)^2\\).",
+    "options": ["A. 49", "B. 1", "C. -49", "D. 7"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "The price of a shirt is reduced by 20% to \u20a64,000. Find the original price.",
+    "options": ["A. \u20a65,000", "B. \u20a64,800", "C. \u20a65,200", "D. \u20a64,200"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 357,
+    "question": "Find the least number that is divisible by 4, 6, and 10.",
+    "options": ["A. 60", "B. 120", "C. 30", "D. 90"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The perimeter of a rectangle is 34 cm and its width is 7 cm. Find the length.",
+    "options": ["A. 10 cm", "B. 12 cm", "C. 8 cm", "D. 9 cm"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "If \\(x = 2 + \\sqrt{3}\\), find \\(x^2 - 4x + 1\\).",
+    "options": ["A. 0", "B. 1", "C. 2", "D. -1"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "A survey of 100 students found that 60 like football, 45 like basketball, and 15 like both. How many like exactly one sport?",
+    "options": ["A. 75", "B. 90", "C. 85", "D. 80"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 361,
+    "question": "Simplify \\(\\frac{2}{\\sqrt{3}} + \\frac{3}{\\sqrt{3}}\\).",
+    "options": ["A. \\(\\frac{5\\sqrt{3}}{3}\\)", "B. \\(\\frac{5}{\\sqrt{3}}\\)", "C. \\(5\\sqrt{3}\\)", "D. \\(\\frac{\\sqrt{3}}{5}\\)"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 362,
+    "question": "If \\(\\frac{3}{4}\\) of a number is 18, find \\(\\frac{2}{3}\\) of the number.",
+    "options": ["A. 16", "B. 12", "C. 18", "D. 14"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Find the (sum) of the roots of the quadratic equation \\(x^2 - 7x + 12 = 0\\).",
+    "options": ["A. 7", "B. -7", "C. 12", "D. -12"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 364,
+    "question": "The volume of a cube is 343 cm³. Find its surface area.",
+    "options": ["A. 294 cm²", "B. 343 cm²", "C. 196 cm²", "D. 49 cm²"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 366,
+    "question": "A ladder 13 m long rests against a vertical wall. If the foot is 5 m from the wall, how high up the wall does it reach?",
+    "options": ["A. 12 m", "B. 10 m", "C. 11 m", "D. 14 m"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "question": "Solve the equation \\(3(x - 1) - 2(2x + 1) = 5\\).",
+    "options": ["A. -10", "B. 10", "C. -5", "D. 5"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 368,
+    "question": "A man invests \u20a6100,000 for 2 years at 5% compound interest per annum. What is the amount?",
+    "options": ["A. \u20a6110,250", "B. \u20a6110,000", "C. \u20a6105,000", "D. \u20a6105,250"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 369,
+    "question": "Find the area of a circle whose radius is 3.5 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": ["A. 38.5 cm²", "B. 44 cm²", "C. 22 cm²", "D. 77 cm²"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "The sum of three consecutive odd numbers is 51. Find the largest number.",
+    "options": ["A. 19", "B. 17", "C. 21", "D. 15"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "Find the mode of the data: 2, 5, 3, 5, 4, 3, 5, 2.",
+    "options": ["A. 5", "B. 3", "C. 2", "D. 4"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "A rectangle has length (2x + 3) cm and width (x - 1) cm. If its perimeter is 34 cm, find x.",
+    "options": ["A. 5", "B. 4", "C. 6", "D. 7"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "Find the complement of an angle of 42°.",
+    "options": ["A. 48°", "B. 138°", "C. 58°", "D. 42°"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "Find the total surface area of a cylinder with radius 7 cm and height 10 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": ["A. \\(748 \\text{ cm}^2\\)", "B. \\(528 \\text{ cm}^2\\)", "C. \\(616 \\text{ cm}^2\\)", "D. \\(440 \\text{ cm}^2\\)"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 379,
+    "question": "If \\(10^{x} = 1000\\), find \\(x\\).",
+    "options": ["A. 3", "B. 2", "C. 4", "D. 1"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "Solve the inequality: \\(2x + 5 < 3x - 4\\).",
+    "options": ["A. \\(x > 9\\)", "B. \\(x < 9\\)", "C. \\(x > -9\\)", "D. \\(x < -9\\)"],
+    "answer": "A",
+    "topic": "Algebraic Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "The mean of 10 numbers is (25). If one number is 40, find the mean of the remaining nine.",
+    "options": ["A. 23.33", "B. 24.44", "C. 22.22", "D. 21.11"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "Find the volume of a pyramid with a square base of side 6 cm and height 9 cm.",
+    "options": ["A. 108 cm³", "B. 216 cm³", "C. 54 cm³", "D. 162 cm³"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 384,
+    "question": "A shopkeeper marks a price 25% above cost. If he gives a 10% discount, find his profit percent.",
+    "options": ["A. 12.5%", "B. 15%", "C. 10%", "D. 20%"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "question": "Simplify \\(\\frac{\\sqrt{32}}{\\sqrt{2}}\\).",
+    "options": ["A. 4", "B. 8", "C. 2", "D. 16"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "A bag contains 4 white, 6 black, and 5 yellow balls. What is the probability of drawing a white or yellow ball?",
+    "options": ["A. \\(\\frac{3}{5}\\)", "B. \\(\\frac{1}{3}\\)", "C. \\(\\frac{4}{15}\\)", "D. \\(\\frac{2}{5}\\)"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Find the area of a trapezium with parallel sides 10 cm and 14 cm and height 6 cm.",
+    "options": ["A. 72 cm²", "B. 84 cm²", "C. 48 cm²", "D. 96 cm²"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "Find the median of: 18, 21, 15, 19, 22, 17, 20.",
+    "options": ["A. 19", "B. 20", "C. 18", "D. 21"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "The angle of depression of a boat from the top of a 40 m high cliff is 30°. Find the distance of the boat from the cliff.",
+    "options": ["A. \\(40\\sqrt{3} \\text{ m}\\)", "B. 40 m", "C. \\(20\\sqrt{3} \\text{ m}\\)", "D. 80 m"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 394,
+    "question": "A man leaves a sum of money to his two sons in the ratio 3:5. If the younger gets \u20a618,000, find the total sum.",
+    "options": ["A. \u20a648,000", "B. \u20a636,000", "C. \u20a654,000", "D. \u20a642,000"],
+    "answer": "A",
+    "topic": "Number and Numeration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "Simplify \\(\\frac{3}{4} \\times \\frac{8}{9} \\div \\frac{2}{3}\\).",
+    "options": ["A. 1", "B. \\(\\frac{2}{3}\\)", "C. \\(\\frac{4}{9}\\)", "D. \\(\\frac{16}{27}\\)"],
+    "answer": "A",
+    "topic": "Basic Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "The probability of selecting a girl from a class is \\(\\frac{3}{7}\\). If there are 15 boys, find the total number of students.",
+    "options": ["A. 35", "B. 30", "C. 28", "D. 42"],
+    "answer": "A",
+    "topic": "Everyday Statistics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "Find the radius of a circle whose circumference is 44 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": ["A. 7 cm", "B. 14 cm", "C. 21 cm", "D. 28 cm"],
+    "answer": "A",
+    "topic": "Geometry and Measurement",
+    "difficulty": "Medium"
+  }
+]

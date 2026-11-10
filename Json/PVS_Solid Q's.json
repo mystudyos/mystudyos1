@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "Which type of farming involves the rearing of animals only on pasture?",
+    "options": ["A. Arable farming", "B. Mixed farming", "C. Pastoral farming", "D. Fish farming"],
+    "answer": "C",
+    "topic": "Agriculture - Forms of Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Growing crops and rearing animals on the same farm is referred to as?",
+    "options": ["A. Pastoral farming", "B. Arable farming", "C. Mixed farming", "D. Shifting farming"],
+    "answer": "C",
+    "topic": "Agriculture - Forms of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Bee farming is technically known as?",
+    "options": ["A. Apiculture", "B. Sericulture", "C. Aquaculture", "D. Silviculture"],
+    "answer": "A",
+    "topic": "Agriculture - Forms of Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Snail rearing is referred to as?",
+    "options": ["A. Heliculture", "B. Sericulture", "C. Pisciculture", "D. Apiculture"],
+    "answer": "A",
+    "topic": "Agriculture - Forms of Agriculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Which class of crop plants has seeds with two cotyledons?",
+    "options": ["A. Monocotyledons", "B. Dicotyledons", "C. Polycotyledons", "D. Angiosperms"],
+    "answer": "B",
+    "topic": "Agriculture - Classes of Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "question": "Maize and guinea corn are examples of?",
+    "options": ["A. Dicotyledons", "B. Monocotyledons", "C. Gymnosperms", "D. Bryophytes"],
+    "answer": "B",
+    "topic": "Agriculture - Classes of Crops",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "A crop that completes its life cycle within one year is called?",
+    "options": ["A. Annual", "B. Biennial", "C. Perennial", "D. Ephemeral"],
+    "answer": "A",
+    "topic": "Agriculture - Classes of Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Farm animals used for carrying loads and ploughing are called?",
+    "options": ["A. Dairy animals", "B. Guard animals", "C. Work animals", "D. Poultry"],
+    "answer": "C",
+    "topic": "Agriculture - Classes of Farm Animals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "Animals that provide milk and milk products are known as?",
+    "options": ["A. Work animals", "B. Guard animals", "C. Dairy animals", "D. Aquatic animals"],
+    "answer": "C",
+    "topic": "Agriculture - Classes of Farm Animals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "Which of these is a characteristic of weeds?",
+    "options": ["A. Short dormancy", "B. Easy dispersal", "C. Slow growth rate", "D. High nutritional value"],
+    "answer": "B",
+    "topic": "Agriculture - Weeds and Pests",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "A weed that can be used as food for humans is?",
+    "options": ["A. Water hyacinth", "B. Siam weed", "C. Pigweed", "D. Spear grass"],
+    "answer": "C",
+    "topic": "Agriculture - Weeds and Pests",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "The use of crop rotation to control weeds is a?",
+    "options": ["A. Biological method", "B. Cultural method", "C. Chemical method", "D. Physical method"],
+    "answer": "B",
+    "topic": "Agriculture - Weed Control",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "Insect pests with mouth parts that pierce and suck plant sap include?",
+    "options": ["A. Grasshoppers", "B. Beetles", "C. Aphids", "D. Caterpillars"],
+    "answer": "C",
+    "topic": "Agriculture - Insect Pests",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "Biting and chewing insects cause damage by?",
+    "options": ["A. Injecting toxins", "B. Cutting leaves and stems", "C. Sucking sap", "D. Boring into roots"],
+    "answer": "B",
+    "topic": "Agriculture - Insect Pests",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "The factor of production that includes all natural resources is?",
+    "options": ["A. Land", "B. Labour", "C. Capital", "D. Management"],
+    "answer": "A",
+    "topic": "Agriculture - Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "Money and equipment used in farming are classified under?",
+    "options": ["A. Land", "B. Labour", "C. Capital", "D. Water"],
+    "answer": "C",
+    "topic": "Agriculture - Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "Human effort in agricultural production is referred to as?",
+    "options": ["A. Land", "B. Labour", "C. Capital", "D. Management"],
+    "answer": "B",
+    "topic": "Agriculture - Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "The person who coordinates other factors of production is the?",
+    "options": ["A. Labourer", "B. Capitalist", "C. Manager", "D. Landowner"],
+    "answer": "C",
+    "topic": "Agriculture - Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "A structure used for storing grains on a farm is a?",
+    "options": ["A. Barn", "B. Silo", "C. Pen", "D. Coop"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "The maintenance of farm buildings includes?",
+    "options": ["A. Painting and repairs", "B. Burning and clearing", "C. Tilling and planting", "D. Harvesting and storage"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Propagation of crops by seed is called?",
+    "options": ["A. Vegetative propagation", "B. Sexual propagation", "C. Asexual propagation", "D. Artificial propagation"],
+    "answer": "B",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Which of these is a method of vegetative propagation?",
+    "options": ["A. Sowing seeds", "B. Grafting", "C. Pollination", "D. Fertilization"],
+    "answer": "B",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "An advantage of propagating crops by seed is that it?",
+    "options": ["A. Produces uniform plants", "B. Is faster than vegetative method", "C. Preserves parental traits", "D. Requires less labour"],
+    "answer": "B",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "One disadvantage of using vegetative propagation is?",
+    "options": ["A. Slow growth rate", "B. Transmission of diseases", "C. High seed cost", "D. Low germination rate"],
+    "answer": "B",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "The removal of tree stumps from a farmland is called?",
+    "options": ["A. Clearing", "B. Stumping", "C. Tilling", "D. Plotting"],
+    "answer": "B",
+    "topic": "Agriculture - Pre-planting Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "A nursery is a place where?",
+    "options": ["A. Crops are harvested", "B. Seeds are treated", "C. Young plants are raised", "D. Fertilizers are stored"],
+    "answer": "C",
+    "topic": "Agriculture - Pre-planting Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Seed treatment before planting helps to?",
+    "options": ["A. Increase yield", "B. Prevent pest attack", "C. Enhance germination", "D. Reduce spacing"],
+    "answer": "C",
+    "topic": "Agriculture - Planting Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "The removal of excess seedlings to give space for growth is called?",
+    "options": ["A. Thinning", "B. Supplying", "C. Mulching", "D. Harvesting"],
+    "answer": "A",
+    "topic": "Agriculture - Post-planting Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "The practice of replacing dead seedlings with new ones is known as?",
+    "options": ["A. Thinning", "B. Supplying", "C. Mulching", "D. Weeding"],
+    "answer": "B",
+    "topic": "Agriculture - Post-planting Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Covering the soil with plant materials to retain moisture is called?",
+    "options": ["A. Tillage", "B. Mulching", "C. Manuring", "D. Irrigation"],
+    "answer": "B",
+    "topic": "Agriculture - Post-planting Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Late harvesting of crops can lead to?",
+    "options": ["A. Higher quality produce", "B. Spoilage and loss", "C. Increased yield", "D. Better market prices"],
+    "answer": "B",
+    "topic": "Agriculture - Harvesting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "The process of converting raw farm produce into more usable forms is called?",
+    "options": ["A. Storage", "B. Processing", "C. Packaging", "D. Marketing"],
+    "answer": "B",
+    "topic": "Agriculture - Post-harvest Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Feeds that supply energy to farm animals are classified as?",
+    "options": ["A. Protein feeds", "B. Energy feeds", "C. Mineral feeds", "D. Vitamin feeds"],
+    "answer": "B",
+    "topic": "Agriculture - Animal Feeds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "A feeding tool that holds water for animals is called a?",
+    "options": ["A. Trough", "B. Drinker set", "C. Feeder", "D. Silo"],
+    "answer": "B",
+    "topic": "Agriculture - Feeding Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "The disease caused by bacteria in farm animals is?",
+    "options": ["A. Anthrax", "B. Ringworm", "C. Newcastle", "D. Bloat"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "A viral disease that affects poultry is?",
+    "options": ["A. Anthrax", "B. Tuberculosis", "C. Newcastle disease", "D. Coccidiosis"],
+    "answer": "C",
+    "topic": "Agriculture - Animal Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "The tsetse fly is a vector of which disease in cattle?",
+    "options": ["A. Anthrax", "B. Trypanosomiasis", "C. Foot and mouth", "D. Rinderpest"],
+    "answer": "B",
+    "topic": "Agriculture - Animal Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "One symptom of a sick farm animal is?",
+    "options": ["A. Increased appetite", "B. High productivity", "C. Loss of appetite", "D. Rapid weight gain"],
+    "answer": "C",
+    "topic": "Agriculture - Animal Diseases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Isolation of sick animals is a method of?",
+    "options": ["A. Disease treatment", "B. Disease prevention", "C. Feeding", "D. Breeding"],
+    "answer": "B",
+    "topic": "Agriculture - Disease Control",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Fishery is the practice of?",
+    "options": ["A. Hunting wild animals", "B. Rearing fish and aquatic organisms", "C. Growing crops in water", "D. Processing fish meal"],
+    "answer": "B",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Fish that live in both fresh and salt water are called?",
+    "options": ["A. Freshwater fish", "B. Saltwater fish", "C. Catadromous fish", "D. Anadromous fish"],
+    "answer": "D",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "A fish without a bony skeleton is classified as?",
+    "options": ["A. Bony fish", "B. Cartilaginous fish", "C. Jawless fish", "D. Shellfish"],
+    "answer": "B",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "The use of nets, hooks and traps are methods of?",
+    "options": ["A. Fish preservation", "B. Fish processing", "C. Fish catching", "D. Fish feeding"],
+    "answer": "C",
+    "topic": "Agriculture - Fishing Methods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Polluting water with industrial effluents is a risk factor in?",
+    "options": ["A. Crop farming", "B. Fish farming", "C. Animal rearing", "D. Bee keeping"],
+    "answer": "B",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "A mangrove forest is characterized by?",
+    "options": ["A. Many trees", "B. Few trees", "C. Swampy conditions", "D. Dry conditions"],
+    "answer": "C",
+    "topic": "Agriculture - Forest Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Which of these is a forest resource?",
+    "options": ["A. Herbs", "B. Plastics", "C. Concrete", "D. Metal"],
+    "answer": "A",
+    "topic": "Agriculture - Forest Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Deforestation is a human activity that affects the forest by?",
+    "options": ["A. Increasing wildlife", "B. Removing trees", "C. Improving soil", "D. Adding nutrients"],
+    "answer": "B",
+    "topic": "Agriculture - Human Activities and Forest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "Bush burning can lead to?",
+    "options": ["A. Soil enrichment", "B. Wildlife depletion", "C. Increased rainfall", "D. Better crop yield"],
+    "answer": "B",
+    "topic": "Agriculture - Human Activities and Forest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "When packaging produce for market, the distance to market influences the choice of?",
+    "options": ["A. Colour", "B. Container type", "C. Label size", "D. Price tag"],
+    "answer": "B",
+    "topic": "Agriculture - Packaging Criteria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 50,
+    "question": "Polythene bags are commonly used for packaging?",
+    "options": ["A. Livestock", "B. Grains", "C. Machinery", "D. Water"],
+    "answer": "B",
+    "topic": "Agriculture - Packaging Items",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "The price of a farm product is largely determined by?",
+    "options": ["A. Farmer's choice", "B. Government decree", "C. Demand and supply", "D. Weather condition"],
+    "answer": "C",
+    "topic": "Agriculture - Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "A record that contains a daily account of farm activities is the?",
+    "options": ["A. Farm inventory", "B. Farm diary", "C. Input record", "D. Sales record"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "A list of all assets and liabilities on a farm is called?",
+    "options": ["A. Farm inventory", "B. Production record", "C. Consumption record", "D. Profit and loss account"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "The document that shows the quantity of goods sold to customers is a?",
+    "options": ["A. Purchase invoice", "B. Sales invoice", "C. Return inward", "D. Return outward"],
+    "answer": "B",
+    "topic": "Agriculture - Source Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "The stock exchange encourages investment in agriculture by?",
+    "options": ["A. Providing loans", "B. Offering shares", "C. Buying produce", "D. Training farmers"],
+    "answer": "B",
+    "topic": "Agriculture - Stock Exchange",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "An example of a Nigerian agricultural export produce is?",
+    "options": ["A. Rice", "B. Cocoa", "C. Maize", "D. Cassava"],
+    "answer": "B",
+    "topic": "Agriculture - Export Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Export promotion in agriculture helps to?",
+    "options": ["A. Reduce local prices", "B. Attract foreign exchange", "C. Increase imports", "D. Lower production"],
+    "answer": "B",
+    "topic": "Agriculture - Export Promotion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "The stage of growth between childhood and adulthood is called?",
+    "options": ["A. Puberty", "B. Adolescence", "C. Infancy", "D. Senescence"],
+    "answer": "B",
+    "topic": "Home Economics - Adolescent Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "A common sign of puberty in boys is?",
+    "options": ["A. Menstruation", "B. Voice deepening", "C. Hip widening", "D. Breast enlargement"],
+    "answer": "B",
+    "topic": "Home Economics - Puberty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "STI stands for?",
+    "options": ["A. Standard Testing Index", "B. Sexually Transmitted Infection", "C. Safe Treatment Initiative", "D. Social Training Institute"],
+    "answer": "B",
+    "topic": "Home Economics - STIs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The right to life, liberty and education are examples of?",
+    "options": ["A. Consumer rights", "B. Human rights", "C. Economic rights", "D. Political rights"],
+    "answer": "B",
+    "topic": "Home Economics - Human Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Family needs that are essential for survival are called?",
+    "options": ["A. Wants", "B. Luxuries", "C. Needs", "D. Desires"],
+    "answer": "C",
+    "topic": "Home Economics - Family Needs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "A family goal is a target that a family works towards achieving within a?",
+    "options": ["A. Day", "B. Week", "C. Time frame", "D. Year only"],
+    "answer": "C",
+    "topic": "Home Economics - Family Goals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "The first step in decision making is?",
+    "options": ["A. Evaluating alternatives", "B. Identifying the problem", "C. Implementing the decision", "D. Gathering information"],
+    "answer": "B",
+    "topic": "Home Economics - Decision Making",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "A consumer is a person who?",
+    "options": ["A. Produces goods", "B. Sells services", "C. Uses goods and services", "D. Manufactures products"],
+    "answer": "C",
+    "topic": "Home Economics - Consumer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "One right of a consumer is the right to?",
+    "options": ["A. Free products", "B. Safety", "C. Unlimited returns", "D. Price reduction"],
+    "answer": "B",
+    "topic": "Home Economics - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "A common challenge faced by consumers is?",
+    "options": ["A. High quality goods", "B. Adulterated products", "C. Low prices", "D. Friendly sellers"],
+    "answer": "B",
+    "topic": "Home Economics - Consumer Challenges",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "The procedure for seeking redress as a consumer involves first?",
+    "options": ["A. Going to court", "B. Contacting the seller", "C. Reporting to police", "D. Accepting the loss"],
+    "answer": "B",
+    "topic": "Home Economics - Consumer Redress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "The first stage of child development is?",
+    "options": ["A. Toddler stage", "B. Infancy", "C. Pre-school", "D. School age"],
+    "answer": "B",
+    "topic": "Home Economics - Child Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "A factor that influences child development is?",
+    "options": ["A. Nutrition", "B. Weather", "C. Fashion", "D. Politics"],
+    "answer": "A",
+    "topic": "Home Economics - Child Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "A common childhood ailment is?",
+    "options": ["A. Malaria", "B. Arthritis", "C. Diabetes", "D. Hypertension"],
+    "answer": "A",
+    "topic": "Home Economics - Childhood Ailments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Immunization protects children from?",
+    "options": ["A. All diseases", "B. Preventable diseases", "C. Genetic disorders", "D. Malnutrition"],
+    "answer": "B",
+    "topic": "Home Economics - Immunization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "A simple household article that can be made by hand is a?",
+    "options": ["A. Television", "B. Refrigerator", "C. Table mat", "D. Washing machine"],
+    "answer": "C",
+    "topic": "Home Economics - Household Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "A tool used for cutting fabric is a?",
+    "options": ["A. Ruler", "B. Scissors", "C. Needle", "D. Thread"],
+    "answer": "B",
+    "topic": "Home Economics - Sewing Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "Items like pillow cases and bed sheets are examples of?",
+    "options": ["A. Clothing", "B. Household linen", "C. Cosmetics", "D. Cleaning agents"],
+    "answer": "B",
+    "topic": "Home Economics - Household Linen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "When choosing household linen, the durability of the fabric is an important?",
+    "options": ["A. Colour factor", "B. Cost factor", "C. Quality factor", "D. Design factor"],
+    "answer": "C",
+    "topic": "Home Economics - Selection of Linen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "Darning is a method of?",
+    "options": ["A. Clothing storage", "B. Clothing repair", "C. Fabric dyeing", "D. Pattern drafting"],
+    "answer": "B",
+    "topic": "Home Economics - Clothing Repair",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Hanging clothes in a wardrobe is a way of?",
+    "options": ["A. Washing", "B. Ironing", "C. Storing", "D. Mending"],
+    "answer": "C",
+    "topic": "Home Economics - Clothing Storage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The first step in pattern drafting is?",
+    "options": ["A. Cutting fabric", "B. Taking body measurements", "C. Sewing the pieces", "D. Ironing the garment"],
+    "answer": "B",
+    "topic": "Home Economics - Pattern Drafting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "A tool used for taking body measurements is a?",
+    "options": ["A. Ruler", "B. Tape measure", "C. Yardstick", "D. Seam gauge"],
+    "answer": "B",
+    "topic": "Home Economics - Measuring Tools",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The lengthwise yarns in a woven fabric are called?",
+    "options": ["A. Weft", "B. Warp", "C. Fibers", "D. Yarns"],
+    "answer": "B",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "An example of a natural fiber is?",
+    "options": ["A. Nylon", "B. Polyester", "C. Cotton", "D. Acrylic"],
+    "answer": "C",
+    "topic": "Home Economics - Textile Fibers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "A synthetic fiber is made from?",
+    "options": ["A. Plant sources", "B. Animal sources", "C. Chemical substances", "D. Mineral sources"],
+    "answer": "C",
+    "topic": "Home Economics - Textile Fibers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The process of washing, drying and ironing clothes is called?",
+    "options": ["A. Laundering", "B. Dyeing", "C. Weaving", "D. Knitting"],
+    "answer": "A",
+    "topic": "Home Economics - Laundering",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "A home‑made cleaning agent used for shining furniture is?",
+    "options": ["A. Bleach", "B. Vinegar", "C. Wax polish", "D. Detergent"],
+    "answer": "C",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Vinegar can be used as a?",
+    "options": ["A. Deodorant", "B. Polish", "C. Detergent", "D. Cosmetic base"],
+    "answer": "A",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "A common material used for making home‑made pomade is?",
+    "options": ["A. Water", "B. Petroleum jelly", "C. Salt", "D. Sugar"],
+    "answer": "B",
+    "topic": "Home Economics - Cosmetics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "The agency responsible for regulating cosmetic products in Nigeria is?",
+    "options": ["A. NAFDAC", "B. SON", "C. NITDA", "D. NCC"],
+    "answer": "A",
+    "topic": "Home Economics - Regulatory Bodies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "Healthy feeding practice includes?",
+    "options": ["A. Eating only snacks", "B. Eating adequate diet", "C. Skipping breakfast", "D. Overeating"],
+    "answer": "B",
+    "topic": "Home Economics - Healthy Feeding",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "A healthy eating habit is to?",
+    "options": ["A. Talk while eating", "B. Eat quickly", "C. Wash hands before eating", "D. Skip meals"],
+    "answer": "C",
+    "topic": "Home Economics - Eating Habits",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "An unhealthy feeding practice can lead to?",
+    "options": ["A. Good health", "B. Malnutrition", "C. High energy", "D. Strong immunity"],
+    "answer": "B",
+    "topic": "Home Economics - Effects of Unhealthy Feeding",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "Eating with food in the mouth is an example of?",
+    "options": ["A. Healthy habit", "B. Unhealthy habit", "C. Cultural practice", "D. Religious practice"],
+    "answer": "B",
+    "topic": "Home Economics - Eating Habits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Substances added to food to improve its appearance or taste are called?",
+    "options": ["A. Preservatives", "B. Additives", "C. Contaminants", "D. Nutrients"],
+    "answer": "B",
+    "topic": "Home Economics - Food Additives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "A food contaminant is a substance that?",
+    "options": ["A. Improves food quality", "B. Makes food unsafe", "C. Adds flavour", "D. Preserves food"],
+    "answer": "B",
+    "topic": "Home Economics - Food Contaminants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Drug abuse refers to the?",
+    "options": ["A. Proper use of medicine", "B. Use of drugs without prescription", "C. Use of herbal remedies", "D. Taking vitamins daily"],
+    "answer": "B",
+    "topic": "Home Economics - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "A short‑term effect of drug abuse on the body is?",
+    "options": ["A. Liver damage", "B. Addiction", "C. Drowsiness", "D. Cancer"],
+    "answer": "C",
+    "topic": "Home Economics - Drug Abuse",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "Foods that spoil quickly are called?",
+    "options": ["A. Non‑perishable foods", "B. Perishable foods", "C. Processed foods", "D. Staple foods"],
+    "answer": "B",
+    "topic": "Home Economics - Food Classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "A risk factor in food purchasing is?",
+    "options": ["A. Buying from reputable shops", "B. Checking expiry dates", "C. Buying expired products", "D. Reading labels"],
+    "answer": "C",
+    "topic": "Home Economics - Food Purchasing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "A wise buying practice is to?",
+    "options": ["A. Buy in bulk always", "B. Compare prices before buying", "C. Ignore quality", "D. Buy without planning"],
+    "answer": "B",
+    "topic": "Home Economics - Wise Buying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "One reason for preserving food is to?",
+    "options": ["A. Increase flavour", "B. Extend shelf life", "C. Reduce cost", "D. Improve colour"],
+    "answer": "B",
+    "topic": "Home Economics - Food Preservation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Drying is a method of?",
+    "options": ["A. Food processing", "B. Food preservation", "C. Food packaging", "D. Food marketing"],
+    "answer": "B",
+    "topic": "Home Economics - Preservation Methods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "Canning is a preservation method that uses?",
+    "options": ["A. Heat in sealed containers", "B. Freezing", "C. Salt", "D. Sugar"],
+    "answer": "A",
+    "topic": "Home Economics - Preservation Methods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "Food processing methods include?",
+    "options": ["A. Grinding", "B. Washing only", "C. Boiling only", "D. Steaming only"],
+    "answer": "A",
+    "topic": "Home Economics - Food Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "To keep food safe, one should?",
+    "options": ["A. Store raw and cooked food together", "B. Refrigerate perishable items", "C. Leave food uncovered", "D. Reheat food multiple times"],
+    "answer": "B",
+    "topic": "Home Economics - Food Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "Food hygiene refers to the practice of?",
+    "options": ["A. Cooking food quickly", "B. Keeping food clean and safe", "C. Adding preservatives", "D. Using expired ingredients"],
+    "answer": "B",
+    "topic": "Home Economics - Food Hygiene",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "A reason for healthy food handling is to?",
+    "options": ["A. Increase food cost", "B. Prevent foodborne illness", "C. Improve flavour only", "D. Reduce cooking time"],
+    "answer": "B",
+    "topic": "Home Economics - Food Handling",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "One way to prevent food contamination is to?",
+    "options": ["A. Use the same chopping board for meat and vegetables", "B. Wash hands before handling food", "C. Leave leftovers at room temperature", "D. Taste food with cooking spoon"],
+    "answer": "B",
+    "topic": "Home Economics - Food Contamination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "A sensory sign of food spoilage is?",
+    "options": ["A. Fresh smell", "B. Bright colour", "C. Sour taste", "D. Firm texture"],
+    "answer": "C",
+    "topic": "Home Economics - Food Spoilage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "A snack is different from a main meal because it is?",
+    "options": ["A. Larger in portion", "B. Eaten between meals", "C. More nutritious", "D. Cooked for longer"],
+    "answer": "B",
+    "topic": "Home Economics - Snacks and Meals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "An example of a local snack in Nigeria is?",
+    "options": ["A. Fried rice", "B. Pounded yam", "C. Chin chin", "D. Jollof rice"],
+    "answer": "C",
+    "topic": "Home Economics - Snacks",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "A food seller has the duty to?",
+    "options": ["A. Sell expired goods", "B. Serve hygienic food", "C. Charge unfair prices", "D. Ignore customer complaints"],
+    "answer": "B",
+    "topic": "Home Economics - Food Sellers' Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "Preparing food for packaging involves?",
+    "options": ["A. Overcooking", "B. Using clean containers", "C. Adding excess salt", "D. Removing labels"],
+    "answer": "B",
+    "topic": "Home Economics - Food Packaging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "A principle of food marketing is?",
+    "options": ["A. Ignoring customer needs", "B. Setting fair prices", "C. Selling only in bulk", "D. Avoiding promotions"],
+    "answer": "B",
+    "topic": "Home Economics - Food Marketing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "A food safety manager is responsible for?",
+    "options": ["A. Increasing profits", "B. Ensuring food hygiene", "C. Reducing portion sizes", "D. Limiting menu options"],
+    "answer": "B",
+    "topic": "Home Economics - Food Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "A hygienic food management strategy is?",
+    "options": ["A. Storing raw food above cooked food", "B. Regular cleaning of equipment", "C. Using dirty utensils", "D. Skipping hand washing"],
+    "answer": "B",
+    "topic": "Home Economics - Food Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "Unhygienic food handling can lead to?",
+    "options": ["A. Customer satisfaction", "B. Food poisoning", "C. Lower food cost", "D. Faster service"],
+    "answer": "B",
+    "topic": "Home Economics - Food Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The type of fish that has a skeleton made of cartilage is?",
+    "options": ["A. Tilapia", "B. Shark", "C. Catfish", "D. Mackerel"],
+    "answer": "B",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "A farm building used for housing poultry is a?",
+    "options": ["A. Pen", "B. Coop", "C. Shed", "D. Barn"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "The process of transferring pollen from anther to stigma is called?",
+    "options": ["A. Fertilization", "B. Pollination", "C. Germination", "D. Propagation"],
+    "answer": "B",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "A nitrogen‑fixing bacterium found in root nodules of legumes is?",
+    "options": ["A. Rhizobium", "B. Escherichia", "C. Bacillus", "D. Lactobacillus"],
+    "answer": "A",
+    "topic": "Agriculture - Soil Biology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "A method of irrigation that uses overhead sprinklers is called?",
+    "options": ["A. Drip irrigation", "B. Furrow irrigation", "C. Sprinkler irrigation", "D. Flood irrigation"],
+    "answer": "C",
+    "topic": "Agriculture - Irrigation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "The process of adding organic matter to soil to improve fertility is?",
+    "options": ["A. Tillage", "B. Mulching", "C. Composting", "D. Crop rotation"],
+    "answer": "C",
+    "topic": "Agriculture - Soil Fertility",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "A disease caused by protozoan in farm animals is?",
+    "options": ["A. Coccidiosis", "B. Ringworm", "C. Mastitis", "D. Foot rot"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Diseases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "The instrument used to measure humidity in a poultry house is a?",
+    "options": ["A. Thermometer", "B. Barometer", "C. Hygrometer", "D. Anemometer"],
+    "answer": "C",
+    "topic": "Agriculture - Farm Equipment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "A farm record that shows the quantity of produce sold is a?",
+    "options": ["A. Production record", "B. Sales record", "C. Consumption record", "D. Input record"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "A forest that consists of many tall trees and high rainfall is the?",
+    "options": ["A. Mangrove forest", "B. Rain forest", "C. Derived forest", "D. Savannah woodland"],
+    "answer": "B",
+    "topic": "Agriculture - Forest Types",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "The first milk produced by a mother after giving birth is called?",
+    "options": ["A. Colostrum", "B. Lactose", "C. Whey", "D. Curd"],
+    "answer": "A",
+    "topic": "Home Economics - Child Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "The period of rapid growth and sexual maturation is called?",
+    "options": ["A. Puberty", "B. Menopause", "C. Middle age", "D. Senescence"],
+    "answer": "A",
+    "topic": "Home Economics - Puberty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "HIV/AIDS is a?",
+    "options": ["A. Airborne disease", "B. Sexually transmitted infection", "C. Foodborne illness", "D. Waterborne disease"],
+    "answer": "B",
+    "topic": "Home Economics - STIs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "A family standard is a?",
+    "options": ["A. Level of living considered acceptable", "B. List of household chores", "C. Monthly budget", "D. Food preference"],
+    "answer": "A",
+    "topic": "Home Economics - Family Standards",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Time, money and energy are examples of?",
+    "options": ["A. Family needs", "B. Family resources", "C. Family goals", "D. Family standards"],
+    "answer": "B",
+    "topic": "Home Economics - Family Resources",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "Evaluating alternatives is a step in?",
+    "options": ["A. Decision making", "B. Goal setting", "C. Resource allocation", "D. Problem solving"],
+    "answer": "A",
+    "topic": "Home Economics - Decision Making",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "A consumer's right to redress means the right to?",
+    "options": ["A. Free products", "B. Compensation for faulty goods", "C. Unlimited refunds", "D. Exchange after years"],
+    "answer": "B",
+    "topic": "Home Economics - Consumer Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "The stage of child development from 1 to 3 years is called?",
+    "options": ["A. Infancy", "B. Toddlerhood", "C. Preschool", "D. School age"],
+    "answer": "B",
+    "topic": "Home Economics - Child Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "Immunization given at birth in Nigeria includes?",
+    "options": ["A. Measles vaccine", "B. BCG vaccine", "C. Yellow fever", "D. HPV vaccine"],
+    "answer": "B",
+    "topic": "Home Economics - Immunization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "A simple craft item that can be sold for income is a?",
+    "options": ["A. Television", "B. Beaded necklace", "C. Refrigerator", "D. Car"],
+    "answer": "B",
+    "topic": "Home Economics - Income Yielding Crafts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The process of stitching two pieces of fabric together is called?",
+    "options": ["A. Hemming", "B. Seaming", "C. Darning", "D. Tacking"],
+    "answer": "B",
+    "topic": "Home Economics - Sewing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "Household linen should be stored in a?",
+    "options": ["A. Damp place", "B. Dry and clean area", "C. Sunny spot", "D. Kitchen cabinet"],
+    "answer": "B",
+    "topic": "Home Economics - Linen Storage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "A basic pattern drafting tool is a?",
+    "options": ["A. Iron", "B. Sewing machine", "C. French curve", "D. Thread cutter"],
+    "answer": "C",
+    "topic": "Home Economics - Pattern Drafting Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "The crosswise yarns in a woven fabric are called?",
+    "options": ["A. Warp", "B. Weft", "C. Selvedge", "D. Grain"],
+    "answer": "B",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "A fabric that wrinkles easily is likely made of?",
+    "options": ["A. Polyester", "B. Nylon", "C. Cotton", "D. Spandex"],
+    "answer": "C",
+    "topic": "Home Economics - Fabric Properties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "Baking soda can be used as a?",
+    "options": ["A. Deodorant", "B. Cleaning agent", "C. Cosmetic", "D. Food additive"],
+    "answer": "B",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "NAFDAC ensures that cosmetics sold in Nigeria are?",
+    "options": ["A. Affordable", "B. Safe and of good quality", "C. Imported only", "D. Locally made only"],
+    "answer": "B",
+    "topic": "Home Economics - Regulatory Bodies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "Eating foods that are in season is a?",
+    "options": ["A. Healthy feeding practice", "B. Unhealthy habit", "C. Wasteful practice", "D. Luxury habit"],
+    "answer": "A",
+    "topic": "Home Economics - Healthy Feeding",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "A food substance that should not be consumed is?",
+    "options": ["A. Fresh milk", "B. Rancid oil", "C. Clean water", "D. Whole grains"],
+    "answer": "B",
+    "topic": "Home Economics - Food Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "The process of killing harmful bacteria in milk by heating is called?",
+    "options": ["A. Pasteurization", "B. Sterilization", "C. Fermentation", "D. Homogenization"],
+    "answer": "A",
+    "topic": "Home Economics - Food Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "Food contamination can occur through?",
+    "options": ["A. Dirty hands", "B. Clean utensils", "C. Refrigeration", "D. Proper cooking"],
+    "answer": "A",
+    "topic": "Home Economics - Food Contamination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "A snack is usually easier to prepare than a?",
+    "options": ["A. Beverage", "B. Main meal", "C. Dessert", "D. Appetizer"],
+    "answer": "B",
+    "topic": "Home Economics - Snacks and Meals",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "A food provider must ensure that food is?",
+    "options": ["A. Expensive", "B. Safe for consumption", "C. Highly spiced", "D. Served cold"],
+    "answer": "B",
+    "topic": "Home Economics - Food Sellers' Duties",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "The appearance of mould on bread is a sign of?",
+    "options": ["A. Freshness", "B. Spoilage", "C. Enrichment", "D. Sweetness"],
+    "answer": "B",
+    "topic": "Home Economics - Food Spoilage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "A farm structure used for storing harvested crops is a?",
+    "options": ["A. Silo", "B. Trough", "C. Coop", "D. Hutch"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "The practice of growing only one type of crop on a piece of land is called?",
+    "options": ["A. Mixed cropping", "B. Monocropping", "C. Crop rotation", "D. Intercropping"],
+    "answer": "B",
+    "topic": "Agriculture - Cropping Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "A pesticide that kills weeds is called a?",
+    "options": ["A. Insecticide", "B. Fungicide", "C. Herbicide", "D. Rodenticide"],
+    "answer": "C",
+    "topic": "Agriculture - Pest Control",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "The watery fluid that separates from milk when it sours is?",
+    "options": ["A. Whey", "B. Cream", "C. Butter", "D. Cheese"],
+    "answer": "A",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "A child's need for love and security is a?",
+    "options": ["A. Physical need", "B. Emotional need", "C. Intellectual need", "D. Social need"],
+    "answer": "B",
+    "topic": "Home Economics - Child Needs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "The process of turning cream into butter by churning is called?",
+    "options": ["A. Homogenization", "B. Pasteurization", "C. Butter making", "D. Fermentation"],
+    "answer": "C",
+    "topic": "Home Economics - Food Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "A farm animal that provides both meat and milk is the?",
+    "options": ["A. Goat", "B. Chicken", "C. Pig", "D. Rabbit"],
+    "answer": "A",
+    "topic": "Agriculture - Classes of Farm Animals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "A sign of spoilage in canned foods is?",
+    "options": ["A. Bulging lid", "B. Smooth surface", "C. Clear liquid", "D. Bright colour"],
+    "answer": "A",
+    "topic": "Home Economics - Food Spoilage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "The primary function of a broiler house is to?",
+    "options": ["A. Store grains", "B. Raise young chicks for meat", "C. Keep dairy cows", "D. Store eggs"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "The part of the egg that contains the embryo is the?",
+    "options": ["A. Albumen", "B. Yolk", "C. Shell", "D. Germ spot"],
+    "answer": "D",
+    "topic": "Agriculture - Poultry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "A micro‑organism that causes food spoilage is?",
+    "options": ["A. Yeast", "B. Enzyme", "C. Vitamin", "D. Mineral"],
+    "answer": "A",
+    "topic": "Home Economics - Food Spoilage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "The removal of the outer covering of grains before cooking is called?",
+    "options": ["A. Milling", "B. Husking", "C. Grinding", "D. Sifting"],
+    "answer": "B",
+    "topic": "Home Economics - Food Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "A tool used for sowing seeds in rows is a?",
+    "options": ["A. Hoe", "B. Seed drill", "C. Harrow", "D. Plough"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 164,
+    "question": "A condition caused by lack of vitamin C in children is?",
+    "options": ["A. Rickets", "B. Scurvy", "C. Kwashiorkor", "D. Marasmus"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "The first milk produced after childbirth is rich in?",
+    "options": ["A. Antibodies", "B. Fat", "C. Sugar", "D. Water"],
+    "answer": "A",
+    "topic": "Home Economics - Child Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "A type of soil that is best for crop growth is?",
+    "options": ["A. Clay soil", "B. Sandy soil", "C. Loamy soil", "D. Silty soil"],
+    "answer": "C",
+    "topic": "Agriculture - Soil Types",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The process of adding nutrients to soil through decaying plants is called?",
+    "options": ["A. Humification", "B. Leaching", "C. Erosion", "D. Compaction"],
+    "answer": "A",
+    "topic": "Agriculture - Soil Fertility",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "A farm record that shows the amount of feed given to animals daily is a?",
+    "options": ["A. Feed record", "B. Health record", "C. Breeding record", "D. Production record"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The practice of keeping bees for honey production is called?",
+    "options": ["A. Apiculture", "B. Sericulture", "C. Aquaculture", "D. Horticulture"],
+    "answer": "A",
+    "topic": "Agriculture - Apiculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "A clothing repair technique that involves weaving thread over a hole is called?",
+    "options": ["A. Patching", "B. Darning", "C. Hemming", "D. Tacking"],
+    "answer": "B",
+    "topic": "Home Economics - Clothing Repair",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "The stage of a child's life from birth to 12 months is?",
+    "options": ["A. Infancy", "B. Toddlerhood", "C. Preschool", "D. School age"],
+    "answer": "A",
+    "topic": "Home Economics - Child Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "A food that contains all essential amino acids is called a?",
+    "options": ["A. Incomplete protein", "B. Complete protein", "C. Carbohydrate", "D. Lipid"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "The process of turning raw cocoa beans into cocoa powder is an example of?",
+    "options": ["A. Food preservation", "B. Food processing", "C. Food packaging", "D. Food marketing"],
+    "answer": "B",
+    "topic": "Agriculture - Post-harvest Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "A farm animal that has a four‑chambered stomach is a?",
+    "options": ["A. Pig", "B. Rabbit", "C. Cow", "D. Chicken"],
+    "answer": "C",
+    "topic": "Agriculture - Farm Animals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "A disease caused by lack of iron is?",
+    "options": ["A. Anaemia", "B. Goitre", "C. Scurvy", "D. Pellagra"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "The practice of allowing land to rest after cultivation is called?",
+    "options": ["A. Fallowing", "B. Mulching", "C. Crop rotation", "D. Intercropping"],
+    "answer": "A",
+    "topic": "Agriculture - Soil Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "A garment that is too big can be altered by?",
+    "options": ["A. Taking in seams", "B. Adding patches", "C. Darning holes", "D. Ironing"],
+    "answer": "A",
+    "topic": "Home Economics - Clothing Alteration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "The process of destroying all micro‑organisms by heat is called?",
+    "options": ["A. Pasteurization", "B. Sterilization", "C. Fermentation", "D. Dehydration"],
+    "answer": "B",
+    "topic": "Home Economics - Food Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "A bee colony consists of a queen, drones and?",
+    "options": ["A. Workers", "B. Larvae", "C. Pupae", "D. Eggs"],
+    "answer": "A",
+    "topic": "Agriculture - Apiculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "The measurement around the fullest part of the chest is called?",
+    "options": ["A. Waist", "B. Bust", "C. Hip", "D. Neck"],
+    "answer": "B",
+    "topic": "Home Economics - Body Measurements",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "A crop that is propagated by stem cuttings is?",
+    "options": ["A. Cassava", "B. Maize", "C. Rice", "D. Groundnut"],
+    "answer": "A",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "The instrument used to measure the fat content of milk is a?",
+    "options": ["A. Lactometer", "B. Thermometer", "C. Hydrometer", "D. Barometer"],
+    "answer": "A",
+    "topic": "Agriculture - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "A household linen item used on a dining table is a?",
+    "options": ["A. Tablecloth", "B. Bed sheet", "C. Towel", "D. Napkin"],
+    "answer": "A",
+    "topic": "Home Economics - Household Linen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "A vitamin that helps in blood clotting is?",
+    "options": ["A. Vitamin A", "B. Vitamin D", "C. Vitamin K", "D. Vitamin C"],
+    "answer": "C",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "The removal of excess water from food to prevent spoilage is called?",
+    "options": ["A. Drying", "B. Salting", "C. Smoking", "D. Freezing"],
+    "answer": "A",
+    "topic": "Home Economics - Food Preservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "A mineral that is essential for strong bones and teeth is?",
+    "options": ["A. Iron", "B. Calcium", "C. Sodium", "D. Potassium"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "The practice of planting two or more crops on the same piece of land at the same time is?",
+    "options": ["A. Monocropping", "B. Mixed cropping", "C. Crop rotation", "D. Shifting cultivation"],
+    "answer": "B",
+    "topic": "Agriculture - Cropping Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "A farm animal that is raised for its wool is the?",
+    "options": ["A. Goat", "B. Sheep", "C. Cow", "D. Rabbit"],
+    "answer": "B",
+    "topic": "Agriculture - Classes of Farm Animals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "The process of adding chlorine to water to kill germs is called?",
+    "options": ["A. Filtration", "B. Chlorination", "C. Boiling", "D. Distillation"],
+    "answer": "B",
+    "topic": "Home Economics - Water Treatment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "A person who buys and sells agricultural products is a?",
+    "options": ["A. Farmer", "B. Middleman", "C. Processor", "D. Exporter"],
+    "answer": "B",
+    "topic": "Agriculture - Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The practice of planting trees on degraded land is called?",
+    "options": ["A. Deforestation", "B. Afforestation", "C. Reforestation", "D. Desertification"],
+    "answer": "C",
+    "topic": "Agriculture - Forest Conservation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "A food that provides energy and warmth is rich in?",
+    "options": ["A. Protein", "B. Carbohydrate", "C. Vitamins", "D. Minerals"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "The tool used for cutting grass on a farm is a?",
+    "options": ["A. Scythe", "B. Hoe", "C. Cutlass", "D. Rake"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "A sign that a child is ready for toilet training is?",
+    "options": ["A. Walking steadily", "B. Staying dry for hours", "C. Feeding independently", "D. Speaking clearly"],
+    "answer": "B",
+    "topic": "Home Economics - Child Development",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "The process of turning liquid oil into solid fat by adding hydrogen is called?",
+    "options": ["A. Hydrogenation", "B. Emulsification", "C. Saponification", "D. Oxidation"],
+    "answer": "A",
+    "topic": "Home Economics - Food Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "A fish farming system that uses artificial tanks is called?",
+    "options": ["A. Pond culture", "B. Cage culture", "C. Tank culture", "D. Pen culture"],
+    "answer": "C",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "A household article used for storing food in a refrigerator is a?",
+    "options": ["A. Plastic container", "B. Cardboard box", "C. Paper bag", "D. Metal can"],
+    "answer": "A",
+    "topic": "Home Economics - Household Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "The condition that results from eating contaminated food is?",
+    "options": ["A. Food poisoning", "B. Malnutrition", "C. Anaemia", "D. Diabetes"],
+    "answer": "A",
+    "topic": "Home Economics - Food Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "A method of preserving fish by exposing it to smoke is called?",
+    "options": ["A. Smoking", "B. Salting", "C. Drying", "D. Freezing"],
+    "answer": "A",
+    "topic": "Agriculture - Fish Preservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The stage of pregnancy in farm animals is called?",
+    "options": ["A. Gestation", "B. Lactation", "C. Incubation", "D. Weaning"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Reproduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "A person who buys goods in large quantities from producers is a?",
+    "options": ["A. Retailer", "B. Wholesaler", "C. Consumer", "D. Agent"],
+    "answer": "B",
+    "topic": "Agriculture - Marketing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "The process of separating cream from milk is called?",
+    "options": ["A. Churning", "B. Centrifugation", "C. Pasteurization", "D. Homogenization"],
+    "answer": "B",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "A crop that is mainly grown for its oil content is?",
+    "options": ["A. Groundnut", "B. Maize", "C. Rice", "D. Cassava"],
+    "answer": "A",
+    "topic": "Agriculture - Classes of Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "A common method of preserving vegetables by freezing is?",
+    "options": ["A. Cold storage", "B. Freezing", "C. Blanching", "D. Drying"],
+    "answer": "B",
+    "topic": "Home Economics - Food Preservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "The scientific name for maize is?",
+    "options": ["A. Zea mays", "B. Oryza sativa", "C. Sorghum bicolor", "D. Manihot esculenta"],
+    "answer": "A",
+    "topic": "Agriculture - Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "A fabric made from the hair of angora rabbits is called?",
+    "options": ["A. Cashmere", "B. Mohair", "C. Angora", "D. Alpaca"],
+    "answer": "C",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "The practice of feeding young animals with colostrum is important for?",
+    "options": ["A. Growth", "B. Immunity", "C. Digestion", "D. Reproduction"],
+    "answer": "B",
+    "topic": "Agriculture - Animal Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "A household deodorant can be made from?",
+    "options": ["A. Baking soda", "B. Salt", "C. Sugar", "D. Flour"],
+    "answer": "A",
+    "topic": "Home Economics - Deodorants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "The process of removing the husk from rice is called?",
+    "options": ["A. Milling", "B. Threshing", "C. Winnowing", "D. Shelling"],
+    "answer": "A",
+    "topic": "Agriculture - Post-harvest Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "A vitamin that prevents night blindness is?",
+    "options": ["A. Vitamin A", "B. Vitamin B1", "C. Vitamin C", "D. Vitamin D"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The practice of moving livestock from one pasture to another is called?",
+    "options": ["A. Rotational grazing", "B. Zero grazing", "C. Overgrazing", "D. Set stocking"],
+    "answer": "A",
+    "topic": "Agriculture - Pasture Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "A sewing machine part that holds the fabric down is a?",
+    "options": ["A. Presser foot", "B. Needle", "C. Bobbin", "D. Feed dog"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "A crop that is a source of carbohydrates for humans is?",
+    "options": ["A. Yam", "B. Beans", "C. Groundnut", "D. Palm oil"],
+    "answer": "A",
+    "topic": "Agriculture - Classes of Crops",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "The condition caused by lack of vitamin B1 is?",
+    "options": ["A. Beriberi", "B. Scurvy", "C. Rickets", "D. Pellagra"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "A farm implement used for ploughing land is a?",
+    "options": ["A. Harrow", "B. Plough", "C. Ridger", "D. Planter"],
+    "answer": "B",
+    "topic": "Agriculture - Farm Implements",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "A common way to remove stains from white cotton fabric is to use?",
+    "options": ["A. Bleach", "B. Vinegar", "C. Soap", "D. Salt"],
+    "answer": "A",
+    "topic": "Home Economics - Laundry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "The process of bees making honey involves?",
+    "options": ["A. Collecting nectar", "B. Collecting pollen", "C. Eating leaves", "D. Drinking water"],
+    "answer": "A",
+    "topic": "Agriculture - Apiculture",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "A child's immunization against measles is usually given at?",
+    "options": ["A. Birth", "B. 6 weeks", "C. 9 months", "D. 12 months"],
+    "answer": "C",
+    "topic": "Home Economics - Immunization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "A fabric that is wrinkle‑resistant is likely made of?",
+    "options": ["A. Cotton", "B. Linen", "C. Polyester", "D. Wool"],
+    "answer": "C",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "The practice of keeping a farm diary helps a farmer to?",
+    "options": ["A. Track daily activities", "B. Increase yields", "C. Buy cheap inputs", "D. Sell at higher prices"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "A food that is a good source of vitamin C is?",
+    "options": ["A. Orange", "B. Rice", "C. Meat", "D. Bread"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The process of breaking up soil clods after ploughing is called?",
+    "options": ["A. Harrowing", "B. Ridging", "C. Rolling", "D. Levelling"],
+    "answer": "A",
+    "topic": "Agriculture - Tillage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "A sewing stitch used to join two pieces of fabric temporarily is a?",
+    "options": ["A. Running stitch", "B. Back stitch", "C. Chain stitch", "D. Tacking stitch"],
+    "answer": "D",
+    "topic": "Home Economics - Sewing Stitches",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "The part of a seed that grows into a new plant is the?",
+    "options": ["A. Cotyledon", "B. Plumule", "C. Endosperm", "D. Seed coat"],
+    "answer": "B",
+    "topic": "Agriculture - Seed Science",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "A household cleaning agent used to remove grease is?",
+    "options": ["A. Detergent", "B. Vinegar", "C. Lemon juice", "D. Baking soda"],
+    "answer": "A",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "The act of selling goods directly to consumers without intermediaries is called?",
+    "options": ["A. Wholesaling", "B. Retailing", "C. Direct marketing", "D. Exporting"],
+    "answer": "C",
+    "topic": "Agriculture - Marketing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "A fish that lives in saltwater is called a?",
+    "options": ["A. Freshwater fish", "B. Marine fish", "C. Brackish fish", "D. Ornamental fish"],
+    "answer": "B",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "A mineral that is needed for proper thyroid function is?",
+    "options": ["A. Iron", "B. Iodine", "C. Zinc", "D. Copper"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "The practice of growing crops and rearing animals on the same farm is called?",
+    "options": ["A. Mixed farming", "B. Intensive farming", "C. Extensive farming", "D. Subsistence farming"],
+    "answer": "A",
+    "topic": "Agriculture - Farming Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "A garment that fits well should have?",
+    "options": ["A. Ease allowance", "B. Tightness", "C. Extra length", "D. Many darts"],
+    "answer": "A",
+    "topic": "Home Economics - Garment Fitting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "The process of removing milk from a lactating animal is called?",
+    "options": ["A. Milking", "B. Weaning", "C. Calving", "D. Suckling"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Husbandry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "A food additive that prevents spoilage by bacteria is a?",
+    "options": ["A. Preservative", "B. Colouring", "C. Sweetener", "D. Flavour enhancer"],
+    "answer": "A",
+    "topic": "Home Economics - Food Additives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "The removal of branches from a tree to improve shape is called?",
+    "options": ["A. Pruning", "B. Grafting", "C. Budding", "D. Layering"],
+    "answer": "A",
+    "topic": "Agriculture - Crop Management",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "A natural fiber obtained from the flax plant is?",
+    "options": ["A. Cotton", "B. Linen", "C. Jute", "D. Hemp"],
+    "answer": "B",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "A farm building used for storing hay is a?",
+    "options": ["A. Barn", "B. Silo", "C. Shed", "D. Granary"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "The condition where a person eats too much of a particular nutrient is called?",
+    "options": ["A. Malnutrition", "B. Overnutrition", "C. Undernutrition", "D. Deficiency"],
+    "answer": "B",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "The first step in land preparation for farming is?",
+    "options": ["A. Clearing", "B. Stumping", "C. Plotting", "D. Tilling"],
+    "answer": "A",
+    "topic": "Agriculture - Pre-planting Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "A type of pocket that is sewn on the outside of a garment is a?",
+    "options": ["A. Patch pocket", "B. Inseam pocket", "C. Welt pocket", "D. Slash pocket"],
+    "answer": "A",
+    "topic": "Home Economics - Clothing Construction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "The liquid part of milk after curdling is called?",
+    "options": ["A. Whey", "B. Curd", "C. Cream", "D. Butter"],
+    "answer": "A",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "A crop that is a legume and fixes nitrogen in the soil is?",
+    "options": ["A. Cowpea", "B. Maize", "C. Rice", "D. Sorghum"],
+    "answer": "A",
+    "topic": "Agriculture - Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "The process of turning liquid milk into solid curd using rennet is called?",
+    "options": ["A. Curdling", "B. Churning", "C. Pasteurizing", "D. Homogenizing"],
+    "answer": "A",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "A farm animal that is called the 'ship of the desert' is the?",
+    "options": ["A. Camel", "B. Donkey", "C. Horse", "D. Ox"],
+    "answer": "A",
+    "topic": "Agriculture - Work Animals",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "A stitch used to finish raw edges of fabric to prevent fraying is a?",
+    "options": ["A. Overcast stitch", "B. Running stitch", "C. Back stitch", "D. Chain stitch"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Stitches",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "The process of drying grains in the sun is a method of?",
+    "options": ["A. Preservation", "B. Processing", "C. Packaging", "D. Marketing"],
+    "answer": "A",
+    "topic": "Agriculture - Post-harvest Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "A vitamin that helps the body absorb calcium is?",
+    "options": ["A. Vitamin D", "B. Vitamin A", "C. Vitamin C", "D. Vitamin E"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "The type of fish that has a swim bladder to control buoyancy is?",
+    "options": ["A. Bony fish", "B. Cartilaginous fish", "C. Jawless fish", "D. Shellfish"],
+    "answer": "A",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "A person who sews clothes professionally is called a?",
+    "options": ["A. Tailor", "B. Designer", "C. Seamstress", "D. Stylist"],
+    "answer": "A",
+    "topic": "Home Economics - Tailoring",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The practice of giving animals balanced feed to meet their nutritional needs is called?",
+    "options": ["A. Proper feeding", "B. Overfeeding", "C. Underfeeding", "D. Force feeding"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "A cleaning agent made from ash and water is called?",
+    "options": ["A. Lye", "B. Soap", "C. Detergent", "D. Bleach"],
+    "answer": "A",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The process of converting raw shea nuts into shea butter is an example of?",
+    "options": ["A. Food processing", "B. Food preservation", "C. Food packaging", "D. Food marketing"],
+    "answer": "A",
+    "topic": "Agriculture - Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "A fabric that is breathable and suitable for hot weather is?",
+    "options": ["A. Cotton", "B. Nylon", "C. Polyester", "D. Acrylic"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "The practice of planting trees for timber production is called?",
+    "options": ["A. Silviculture", "B. Arboriculture", "C. Horticulture", "D. Olericulture"],
+    "answer": "A",
+    "topic": "Agriculture - Forestry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "A meal eaten in the morning is called?",
+    "options": ["A. Breakfast", "B. Lunch", "C. Dinner", "D. Supper"],
+    "answer": "A",
+    "topic": "Home Economics - Meals",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "A farm tool used for digging holes for planting is a?",
+    "options": ["A. Shovel", "B. Hoe", "C. Dibber", "D. Trowel"],
+    "answer": "C",
+    "topic": "Agriculture - Farm Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "The condition caused by lack of protein in children is?",
+    "options": ["A. Kwashiorkor", "B. Marasmus", "C. Scurvy", "D. Rickets"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "A method of farming where a piece of land is used for a few years and then abandoned is?",
+    "options": ["A. Shifting cultivation", "B. Intensive farming", "C. Mixed farming", "D. Organic farming"],
+    "answer": "A",
+    "topic": "Agriculture - Farming Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "A sewing machine part that holds the thread spool is the?",
+    "options": ["A. Spool pin", "B. Bobbin winder", "C. Thread guide", "D. Tension disc"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "The scientific name for cowpea is?",
+    "options": ["A. Vigna unguiculata", "B. Glycine max", "C. Phaseolus vulgaris", "D. Cajanus cajan"],
+    "answer": "A",
+    "topic": "Agriculture - Crops",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "A cleaning agent that is abrasive and used for scrubbing is?",
+    "options": ["A. Scouring powder", "B. Detergent", "C. Bleach", "D. Vinegar"],
+    "answer": "A",
+    "topic": "Home Economics - Cleaning Agents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "The process of separating grains from chaff is called?",
+    "options": ["A. Winnowing", "B. Threshing", "C. Milling", "D. Sifting"],
+    "answer": "A",
+    "topic": "Agriculture - Post-harvest Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "A vitamin that is important for healthy skin and eyes is?",
+    "options": ["A. Vitamin A", "B. Vitamin B2", "C. Vitamin C", "D. Vitamin K"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "A farm building used for keeping poultry is a?",
+    "options": ["A. Poultry house", "B. Cattle shed", "C. Pigsty", "D. Rabbit hutch"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "A stitch used to permanently join two pieces of fabric is a?",
+    "options": ["A. Back stitch", "B. Tacking stitch", "C. Basting stitch", "D. Running stitch"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Stitches",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "The practice of raising fish in enclosed ponds is called?",
+    "options": ["A. Aquaculture", "B. Agriculture", "C. Horticulture", "D. Sericulture"],
+    "answer": "A",
+    "topic": "Agriculture - Fishery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "A food that contains high levels of fat is?",
+    "options": ["A. Palm oil", "B. Rice", "C. Beans", "D. Yam"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "A farm implement used for spreading fertilizer is a?",
+    "options": ["A. Fertilizer spreader", "B. Planter", "C. Harrow", "D. Ridger"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Implements",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "A method of cooking that uses dry heat in an oven is called?",
+    "options": ["A. Baking", "B. Boiling", "C. Frying", "D. Steaming"],
+    "answer": "A",
+    "topic": "Home Economics - Cooking Methods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "The process of removing milk from a lactating animal by hand is called?",
+    "options": ["A. Hand milking", "B. Machine milking", "C. Suckling", "D. Weaning"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Husbandry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "A natural fiber obtained from the cocoon of silkworm is?",
+    "options": ["A. Silk", "B. Cotton", "C. Wool", "D. Linen"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "The practice of growing vegetables for home use is called?",
+    "options": ["A. Home gardening", "B. Commercial farming", "C. Plantation farming", "D. Subsistence farming"],
+    "answer": "A",
+    "topic": "Agriculture - Farming Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "A type of yarn that is made from short fibers twisted together is called?",
+    "options": ["A. Spun yarn", "B. Filament yarn", "C. Textured yarn", "D. Blended yarn"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "The process of turning raw cotton into thread is called?",
+    "options": ["A. Spinning", "B. Weaving", "C. Knitting", "D. Crocheting"],
+    "answer": "A",
+    "topic": "Home Economics - Textile Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "A farm animal that is a good source of eggs and meat is?",
+    "options": ["A. Chicken", "B. Duck", "C. Turkey", "D. Goose"],
+    "answer": "A",
+    "topic": "Agriculture - Poultry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "A sewing tool used to remove stitches is a?",
+    "options": ["A. Seam ripper", "B. Scissors", "C. Thread cutter", "D. Needle threader"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "The practice of planting different crops in sequence on the same land is called?",
+    "options": ["A. Crop rotation", "B. Mixed cropping", "C. Monocropping", "D. Intercropping"],
+    "answer": "A",
+    "topic": "Agriculture - Cropping Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "A food that is a complete protein source is?",
+    "options": ["A. Egg", "B. Rice", "C. Beans", "D. Yam"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "A farm structure used for storing root crops like yam is a?",
+    "options": ["A. Yam barn", "B. Silo", "C. Granary", "D. Shed"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "The process of turning cream into butter by shaking is called?",
+    "options": ["A. Churning", "B. Whipping", "C. Beating", "D. Stirring"],
+    "answer": "A",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "A crop that is propagated by suckers is?",
+    "options": ["A. Banana", "B. Cassava", "C. Yam", "D. Cocoa"],
+    "answer": "A",
+    "topic": "Agriculture - Crop Propagation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "A fabric that is shiny and smooth, often made from synthetic fibers is?",
+    "options": ["A. Satin", "B. Denim", "C. Flannel", "D. Corduroy"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 281,
+    "question": "The process of removing wool from sheep is called?",
+    "options": ["A. Shearing", "B. Clipping", "C. Shaving", "D. Plucking"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "A method of cooking food in hot oil is called?",
+    "options": ["A. Frying", "B. Boiling", "C. Steaming", "D. Roasting"],
+    "answer": "A",
+    "topic": "Home Economics - Cooking Methods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "A farm tool used for transplanting seedlings is a?",
+    "options": ["A. Dibber", "B. Trowel", "C. Hoe", "D. Shovel"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "A sewing machine part that controls the tension of the top thread is the?",
+    "options": ["A. Tension disc", "B. Bobbin case", "C. Thread guide", "D. Needle clamp"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "The practice of keeping animals in a confined area for feeding is called?",
+    "options": ["A. Feedlot system", "B. Free range", "C. Intensive system", "D. Extensive system"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Housing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "A food that is a good source of vitamin B12 is?",
+    "options": ["A. Liver", "B. Orange", "C. Carrot", "D. Bread"],
+    "answer": "A",
+    "topic": "Home Economics - Nutrition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "The process of turning raw palm fruits into palm oil is called?",
+    "options": ["A. Processing", "B. Preservation", "C. Packaging", "D. Marketing"],
+    "answer": "A",
+    "topic": "Agriculture - Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "A garment part that is sewn around the neckline is a?",
+    "options": ["A. Collar", "B. Cuff", "C. Hem", "D. Yoke"],
+    "answer": "A",
+    "topic": "Home Economics - Garment Parts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "The practice of providing artificial water to crops during dry periods is called?",
+    "options": ["A. Irrigation", "B. Drainage", "C. Mulching", "D. Tillage"],
+    "answer": "A",
+    "topic": "Agriculture - Irrigation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "A type of soil that holds water well but drains poorly is?",
+    "options": ["A. Clay", "B. Sand", "C. Loam", "D. Silt"],
+    "answer": "A",
+    "topic": "Agriculture - Soil Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "The process of turning a liquid into a solid by cooling is called?",
+    "options": ["A. Freezing", "B. Boiling", "C. Evaporation", "D. Condensation"],
+    "answer": "A",
+    "topic": "Home Economics - Food Preservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "A farm animal that is a ruminant is the?",
+    "options": ["A. Cow", "B. Pig", "C. Horse", "D. Rabbit"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Classification",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "A synthetic fiber known for its high strength and elasticity is?",
+    "options": ["A. Nylon", "B. Polyester", "C. Acrylic", "D. Rayon"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "The process of removing water from food by heating is called?",
+    "options": ["A. Dehydration", "B. Freezing", "C. Fermentation", "D. Pickling"],
+    "answer": "A",
+    "topic": "Home Economics - Food Preservation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "A crop that is a source of vegetable oil in Nigeria is?",
+    "options": ["A. Oil palm", "B. Maize", "C. Sorghum", "D. Millet"],
+    "answer": "A",
+    "topic": "Agriculture - Crops",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "A stitch used to create a decorative edge on fabric is a?",
+    "options": ["A. Blanket stitch", "B. Running stitch", "C. Back stitch", "D. Tacking stitch"],
+    "answer": "A",
+    "topic": "Home Economics - Sewing Stitches",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The process of turning fresh milk into yogurt by bacterial action is called?",
+    "options": ["A. Fermentation", "B. Pasteurization", "C. Homogenization", "D. Sterilization"],
+    "answer": "A",
+    "topic": "Home Economics - Dairy",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "A farm implement used for harvesting grains is a?",
+    "options": ["A. Combine harvester", "B. Thresher", "C. Winnower", "D. Sheller"],
+    "answer": "A",
+    "topic": "Agriculture - Farm Implements",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "A type of yarn that is made from long continuous fibers is called?",
+    "options": ["A. Filament yarn", "B. Spun yarn", "C. Textured yarn", "D. Blended yarn"],
+    "answer": "A",
+    "topic": "Home Economics - Textiles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "The practice of keeping animals in a way that mimics their natural habitat is called?",
+    "options": ["A. Free range system", "B. Intensive system", "C. Battery system", "D. Confinement system"],
+    "answer": "A",
+    "topic": "Agriculture - Animal Husbandry",
+    "difficulty": "Hard"
+  }
+]

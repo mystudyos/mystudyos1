@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "What does the term 'office' refer to in business studies?",
+    "options": ["A. A place for factory workers", "B. A room for storing goods", "C. A place for administrative work", "D. A retail sales point"],
+    "answer": "C",
+    "topic": "Office Practice - The Office",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "question": "Which type of office typically has fewer employees and simpler equipment?",
+    "options": ["A. Large office", "B. Small office", "C. Branch office", "D. Head office"],
+    "answer": "B",
+    "topic": "Office Practice - Types of Office",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "One major function of an office is to?",
+    "options": ["A. Manufacture goods", "B. Process information", "C. Deliver products", "D. Advertise services"],
+    "answer": "B",
+    "topic": "Office Practice - Functions of Office",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "Clerical staff are primarily responsible for?",
+    "options": ["A. Making strategic decisions", "B. Routine administrative tasks", "C. Auditing accounts", "D. Designing products"],
+    "answer": "B",
+    "topic": "Office Practice - Clerical Staff",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "question": "Which quality is most essential for a clerical staff handling confidential files?",
+    "options": ["A. Creativity", "B. Physical strength", "C. Trustworthiness", "D. Public speaking"],
+    "answer": "C",
+    "topic": "Office Practice - Clerical Staff",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Punctuality and regularity at work contribute to?",
+    "options": ["A. Higher employee turnover", "B. Lower productivity", "C. Increased productivity", "D. Reduced morale"],
+    "answer": "C",
+    "topic": "Office Practice - Right Attitude to Work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Devotion to duty means an employee?",
+    "options": ["A. Works only when supervised", "B. Shows commitment to tasks", "C. Arrives late often", "D. Avoids extra responsibilities"],
+    "answer": "B",
+    "topic": "Office Practice - Right Attitude",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "The receptionist is important in an organization because he or she?",
+    "options": ["A. Manages the budget", "B. Creates first impression", "C. Handles legal matters", "D. Designs the logo"],
+    "answer": "B",
+    "topic": "Office Practice - Receptionist",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Which document is commonly handled by a receptionist?",
+    "options": ["A. Audit report", "B. Visitor's register", "C. Payroll sheet", "D. Engineering drawing"],
+    "answer": "B",
+    "topic": "Office Practice - Receptionist",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Office procedure refers to?",
+    "options": ["A. Building design", "B. Standard methods of work", "C. Employee personal rules", "D. Marketing strategies"],
+    "answer": "B",
+    "topic": "Office Practice - Office Procedure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "A document that lists items sold with prices and quantities is a?",
+    "options": ["A. Receipt", "B. Invoice", "C. Bill of lading", "D. Cheque"],
+    "answer": "B",
+    "topic": "Office Practice - Sales Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "A receipt is issued to acknowledge?",
+    "options": ["A. A complaint", "B. An order", "C. A payment", "D. A delivery"],
+    "answer": "C",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Which payment method involves direct transfer of funds from one bank account to another?",
+    "options": ["A. Cash", "B. Bank transfer", "C. Cheque", "D. Bank draft"],
+    "answer": "B",
+    "topic": "Office Practice - Payment Methods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "An imprest system is a method of?",
+    "options": ["A. Stock valuation", "B. Petty cash management", "C. Credit control", "D. Asset depreciation"],
+    "answer": "B",
+    "topic": "Office Practice - Imprest Account",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Restoration of imprest means?",
+    "options": ["A. Increasing the imprest amount", "B. Refunding the spent cash", "C. Closing the account", "D. Auditing the petty cash"],
+    "answer": "B",
+    "topic": "Office Practice - Imprest",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "The store record that shows items received and issued is called?",
+    "options": ["A. Ledger", "B. Stock card", "C. Invoice", "D. Receipt"],
+    "answer": "B",
+    "topic": "Office Practice - Store Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "Stock taking is important for?",
+    "options": ["A. Increasing prices", "B. Determining stock levels", "C. Hiring staff", "D. Designing packaging"],
+    "answer": "B",
+    "topic": "Office Practice - Stock Taking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "A gate pass is used to?",
+    "options": ["A. Advertise products", "B. Authorize removal of goods", "C. Record sales", "D. Pay salaries"],
+    "answer": "B",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "Which department handles employee recruitment and welfare?",
+    "options": ["A. Sales", "B. Personnel", "C. Accounting", "D. Purchasing"],
+    "answer": "B",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "The purchasing department is responsible for?",
+    "options": ["A. Selling products", "B. Buying raw materials", "C. Paying taxes", "D. Auditing accounts"],
+    "answer": "B",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Correspondence records in an office include?",
+    "options": ["A. Incoming and outgoing letters", "B. Employee attendance", "C. Stock lists", "D. Marketing plans"],
+    "answer": "A",
+    "topic": "Office Practice - Correspondence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "The first step in handling incoming mail is?",
+    "options": ["A. Filing", "B. Sorting", "C. Opening", "D. Dispatching"],
+    "answer": "C",
+    "topic": "Office Practice - Mail Handling",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "An example of a sales document is?",
+    "options": ["A. Purchase order", "B. Delivery note", "C. Credit note", "D. Requisition form"],
+    "answer": "C",
+    "topic": "Office Practice - Sales Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "A purchase requisition is prepared by?",
+    "options": ["A. The supplier", "B. The department needing goods", "C. The customer", "D. The bank"],
+    "answer": "B",
+    "topic": "Office Practice - Purchasing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Which office equipment is used to destroy paper documents?",
+    "options": ["A. Photocopier", "B. Shredder", "C. Scanner", "D. Laminator"],
+    "answer": "B",
+    "topic": "Office Practice - Office Equipment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "A computer in an office is primarily used for?",
+    "options": ["A. Making tea", "B. Data processing", "C. Cleaning floors", "D. Answering calls"],
+    "answer": "B",
+    "topic": "Office Practice - Office Equipment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "Commerce is defined as?",
+    "options": ["A. Production of goods", "B. Exchange of goods and services", "C. Banking only", "D. Transportation only"],
+    "answer": "B",
+    "topic": "Commerce - Introduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "The main importance of commerce is to?",
+    "options": ["A. Stop trade", "B. Link producers and consumers", "C. Increase taxes", "D. Reduce employment"],
+    "answer": "B",
+    "topic": "Commerce - Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Which activity is not part of commerce?",
+    "options": ["A. Banking", "B. Insurance", "C. Farming", "D. Advertising"],
+    "answer": "C",
+    "topic": "Commerce - Activities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Trade is divided into home trade and?",
+    "options": ["A. Retail trade", "B. Wholesale trade", "C. Foreign trade", "D. Barter trade"],
+    "answer": "C",
+    "topic": "Commerce - Types of Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Buying goods from another country is called?",
+    "options": ["A. Export", "B. Import", "C. Entrepot", "D. Barter"],
+    "answer": "B",
+    "topic": "Commerce - Foreign Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "Production means?",
+    "options": ["A. Destroying goods", "B. Creating utility", "C. Transporting goods", "D. Storing goods"],
+    "answer": "B",
+    "topic": "Commerce - Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Extractive industry involves?",
+    "options": ["A. Construction", "B. Mining and farming", "C. Manufacturing", "D. Banking"],
+    "answer": "B",
+    "topic": "Commerce - Industry Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Which is an example of a constructive industry?",
+    "options": ["A. Fishing", "B. Road building", "C. Textile weaving", "D. Hair dressing"],
+    "answer": "B",
+    "topic": "Commerce - Industry Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "Aids to trade include all except?",
+    "options": ["A. Banking", "B. Insurance", "C. Advertising", "D. Mining"],
+    "answer": "D",
+    "topic": "Commerce - Aids to Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "The reward for land as a factor of production is?",
+    "options": ["A. Rent", "B. Wages", "C. Interest", "D. Profit"],
+    "answer": "A",
+    "topic": "Commerce - Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Labour refers to?",
+    "options": ["A. Money invested", "B. Human effort", "C. Natural resources", "D. Machinery"],
+    "answer": "B",
+    "topic": "Commerce - Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "Capital in business means?",
+    "options": ["A. The owner's house", "B. Money and assets used", "C. Only cash", "D. Employee skills"],
+    "answer": "B",
+    "topic": "Commerce - Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "An entrepreneur is someone who?",
+    "options": ["A. Works for salary", "B. Takes business risk", "C. Only invests money", "D. Manages a bank"],
+    "answer": "B",
+    "topic": "Commerce - Entrepreneurship",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "The division of occupation into primary, secondary, and tertiary is based on?",
+    "options": ["A. Skill level", "B. Industry type", "C. Income level", "D. Gender"],
+    "answer": "B",
+    "topic": "Commerce - Occupation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "Which occupation is classified as primary?",
+    "options": ["A. Teaching", "B. Banking", "C. Fishing", "D. Car manufacturing"],
+    "answer": "C",
+    "topic": "Commerce - Occupation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Direct services are those that?",
+    "options": ["A. Are provided to businesses only", "B. Are consumed immediately", "C. Require goods", "D. Are exported"],
+    "answer": "B",
+    "topic": "Commerce - Services",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "Truthfulness in business means?",
+    "options": ["A. Hiding defects", "B. Being honest", "C. Exaggerating quality", "D. Avoiding customers"],
+    "answer": "B",
+    "topic": "Commerce - Honesty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Fair play in business implies?",
+    "options": ["A. Playing games", "B. Equal treatment", "C. Charging high prices", "D. Ignoring rules"],
+    "answer": "B",
+    "topic": "Commerce - Fair Play",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "One consequence of not being truthful in business is?",
+    "options": ["A. Increased trust", "B. Loss of customers", "C. Higher profit", "D. More investors"],
+    "answer": "B",
+    "topic": "Commerce - Honesty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "A licensed chemical vendor must?",
+    "options": ["A. Sell any chemical", "B. Follow safety rules", "C. Avoid record keeping", "D. Mix chemicals freely"],
+    "answer": "B",
+    "topic": "Commerce - Chemical Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Proper disposal of chemicals prevents?",
+    "options": ["A. Higher profits", "B. Environmental pollution", "C. Employee bonuses", "D. Faster sales"],
+    "answer": "B",
+    "topic": "Commerce - Chemical Handling",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Trade can be defined as?",
+    "options": ["A. Buying and selling", "B. Manufacturing goods", "C. Farming", "D. Mining"],
+    "answer": "A",
+    "topic": "Commerce - Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "Which is an aid to trade?",
+    "options": ["A. Warehousing", "B. Farming", "C. Fishing", "D. Mining"],
+    "answer": "A",
+    "topic": "Commerce - Aids to Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Customs and excise authorities in foreign trade are responsible for?",
+    "options": ["A. Collecting import duties", "B. Advertising products", "C. Providing loans", "D. Insuring goods"],
+    "answer": "A",
+    "topic": "Commerce - Foreign Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "A market is any arrangement where?",
+    "options": ["A. Only goods are sold", "B. Buyers and sellers meet", "C. Prices are fixed by government", "D. Only services are traded"],
+    "answer": "B",
+    "topic": "Commerce - Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "The capital market deals with?",
+    "options": ["A. Short-term funds", "B. Long-term securities", "C. Daily groceries", "D. Real estate only"],
+    "answer": "B",
+    "topic": "Commerce - Capital Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "A commodity market is where?",
+    "options": ["A. Shares are sold", "B. Raw materials are traded", "C. Services are offered", "D. Currencies are exchanged"],
+    "answer": "B",
+    "topic": "Commerce - Types of Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "A transaction made by cash means?",
+    "options": ["A. Immediate payment", "B. Payment after a month", "C. Payment in installments", "D. Payment by cheque only"],
+    "answer": "A",
+    "topic": "Commerce - Buying and Selling",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Credit sale allows the buyer to?",
+    "options": ["A. Pay later", "B. Return goods free", "C. Get discount always", "D. Avoid paying"],
+    "answer": "A",
+    "topic": "Commerce - Credit",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Mark up is the difference between?",
+    "options": ["A. Cost and selling price", "B. Buying and selling price", "C. Revenue and profit", "D. Asset and liability"],
+    "answer": "B",
+    "topic": "Commerce - Mark Up",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Turnover in business refers to?",
+    "options": ["A. Employee changes", "B. Total sales value", "C. Stock rotation", "D. Asset replacement"],
+    "answer": "B",
+    "topic": "Commerce - Turnover",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "Distribution channels link producers with?",
+    "options": ["A. Wholesalers only", "B. Consumers", "C. Banks", "D. Government"],
+    "answer": "B",
+    "topic": "Commerce - Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "A wholesaler typically buys in?",
+    "options": ["A. Small quantities", "B. Large quantities", "C. Retail packs", "D. Single units"],
+    "answer": "B",
+    "topic": "Commerce - Wholesaler",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "A retailer sells directly to?",
+    "options": ["A. Other businesses", "B. Final consumers", "C. Manufacturers", "D. Exporters"],
+    "answer": "B",
+    "topic": "Commerce - Retailer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "A commercial bank accepts deposits and?",
+    "options": ["A. Prints money", "B. Provides loans", "C. Regulates trade", "D. Manufactures goods"],
+    "answer": "B",
+    "topic": "Commerce - Bank Services",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "Ethical issues in banking include?",
+    "options": ["A. High interest rates", "B. Confidentiality", "C. Long queues", "D. Many branches"],
+    "answer": "B",
+    "topic": "Commerce - Banking Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "Insurance is a contract that provides?",
+    "options": ["A. Investment advice", "B. Risk cover", "C. Loan facility", "D. Savings account"],
+    "answer": "B",
+    "topic": "Commerce - Insurance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "A life assurance policy pays benefit upon?",
+    "options": ["A. Accident only", "B. Death or maturity", "C. Theft", "D. Fire"],
+    "answer": "B",
+    "topic": "Commerce - Insurance Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Marine insurance covers?",
+    "options": ["A. Ships and cargo", "B. Buildings", "C. Vehicles", "D. Health"],
+    "answer": "A",
+    "topic": "Commerce - Insurance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The benefit of insurance to business is?",
+    "options": ["A. Guaranteed profit", "B. Risk transfer", "C. Tax exemption", "D. Free goods"],
+    "answer": "B",
+    "topic": "Commerce - Insurance Benefits",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Transportation is important in commerce because it?",
+    "options": ["A. Creates goods", "B. Moves goods", "C. Prices goods", "D. Insures goods"],
+    "answer": "B",
+    "topic": "Commerce - Transport",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Which mode of transport is fastest for long distances?",
+    "options": ["A. Road", "B. Rail", "C. Air", "D. Water"],
+    "answer": "C",
+    "topic": "Commerce - Transport Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "A disadvantage of road transport is?",
+    "options": ["A. High speed", "B. Traffic congestion", "C. Low cost", "D. Door-to-door service"],
+    "answer": "B",
+    "topic": "Commerce - Transport",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Pipeline transport is mainly used for?",
+    "options": ["A. Solid goods", "B. Liquids and gases", "C. Passengers", "D. Livestock"],
+    "answer": "B",
+    "topic": "Commerce - Pipeline",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "Advertising is a paid form of?",
+    "options": ["A. Sales promotion", "B. Non-personal communication", "C. Personal selling", "D. Public relations"],
+    "answer": "B",
+    "topic": "Commerce - Advertising",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "A function of advertising is to?",
+    "options": ["A. Reduce competition", "B. Inform consumers", "C. Lower prices", "D. Eliminate middlemen"],
+    "answer": "B",
+    "topic": "Commerce - Advertising Function",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Which is a broadcast advertising medium?",
+    "options": ["A. Newspaper", "B. Magazine", "C. Radio", "D. Billboard"],
+    "answer": "C",
+    "topic": "Commerce - Advertising Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "Communication in business means?",
+    "options": ["A. Transporting goods", "B. Exchanging information", "C. Storing products", "D. Financing projects"],
+    "answer": "B",
+    "topic": "Commerce - Communication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "A courier service provides?",
+    "options": ["A. Mass mailing", "B. Fast parcel delivery", "C. Telephone calls", "D. Internet access"],
+    "answer": "B",
+    "topic": "Commerce - Courier",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The World Wide Web is a means of?",
+    "options": ["A. Transport", "B. Communication", "C. Production", "D. Banking"],
+    "answer": "B",
+    "topic": "Commerce - Communication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "Entrepreneurship involves?",
+    "options": ["A. Working for a salary", "B. Starting and running a business", "C. Investing in shares only", "D. Managing a government agency"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Definition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "An enterprise is a?",
+    "options": ["A. Government policy", "B. Business venture", "C. Bank loan", "D. Stock market"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Enterprise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Self-employment means?",
+    "options": ["A. Working for a company", "B. Being your own boss", "C. Volunteering", "D. Being unemployed"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Self-employment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Which is a facility available for self-employment?",
+    "options": ["A. Unemployment benefit", "B. Microcredit loans", "C. Free housing", "D. Government salary"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Facilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "A sole proprietorship is owned by?",
+    "options": ["A. One person", "B. Two partners", "C. Many shareholders", "D. The government"],
+    "answer": "A",
+    "topic": "Entrepreneurship - Business Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "A partnership has a minimum of?",
+    "options": ["A. 1 person", "B. 2 persons", "C. 5 persons", "D. 10 persons"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Partnership",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "Limited liability means shareholders are liable only up to?",
+    "options": ["A. Their personal assets", "B. The value of their shares", "C. Double their shares", "D. Unlimited amount"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Limited Liability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "A co-operative society is formed for?",
+    "options": ["A. Profit maximization", "B. Mutual benefit", "C. Government control", "D. Foreign trade"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Co-operative",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "One disadvantage of a sole proprietorship is?",
+    "options": ["A. Unlimited liability", "B. Easy formation", "C. Quick decisions", "D. Owner keeps all profit"],
+    "answer": "A",
+    "topic": "Entrepreneurship - Sole Proprietorship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "A business opportunity refers to?",
+    "options": ["A. A job vacancy", "B. A favourable chance to start a business", "C. A government grant", "D. A loan approval"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Opportunity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "A local business opportunity exists within?",
+    "options": ["A. The whole world", "B. A specific community", "C. Another country", "D. The internet only"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Types of Opportunities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "SWOT analysis includes strengths, weaknesses, opportunities, and?",
+    "options": ["A. Threats", "B. Trends", "C. Targets", "D. Taxes"],
+    "answer": "A",
+    "topic": "Entrepreneurship - SWOT",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "A business plan is a written document that outlines?",
+    "options": ["A. Personal daily schedule", "B. Business goals and strategies", "C. Employee complaints", "D. Building design"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Business Plan",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "A consumer is anyone who?",
+    "options": ["A. Sells goods", "B. Uses goods or services", "C. Manufactures products", "D. Advertises products"],
+    "answer": "B",
+    "topic": "Consumer Education - Consumer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "Consumer education is important because it?",
+    "options": ["A. Increases prices", "B. Protects consumer rights", "C. Reduces product quality", "D. Limits choices"],
+    "answer": "B",
+    "topic": "Consumer Education - Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 92,
+    "question": "Consumerism is the movement for?",
+    "options": ["A. Higher taxes", "B. Consumer protection", "C. Reduced production", "D. Government monopoly"],
+    "answer": "B",
+    "topic": "Consumer Education - Consumerism",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "One of the eight universal consumer rights is the right to?",
+    "options": ["A. Free products", "B. Safety", "C. Unlimited credit", "D. Own a business"],
+    "answer": "B",
+    "topic": "Consumer Education - Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "The right to choose means consumers can?",
+    "options": ["A. Demand any price", "B. Select from variety", "C. Return all goods", "D. Get free delivery"],
+    "answer": "B",
+    "topic": "Consumer Education - Rights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "A consumer responsibility includes?",
+    "options": ["A. Breaking products", "B. Reading labels", "C. Ignoring receipts", "D. Stealing items"],
+    "answer": "B",
+    "topic": "Consumer Education - Responsibilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Needs are goods or services that are?",
+    "options": ["A. Desired but not essential", "B. Essential for survival", "C. Luxuries", "D. Always expensive"],
+    "answer": "B",
+    "topic": "Consumer Education - Needs vs Wants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "Wants are items that are?",
+    "options": ["A. Basic necessities", "B. Desired but not essential", "C. Always free", "D. Provided by government"],
+    "answer": "B",
+    "topic": "Consumer Education - Needs vs Wants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "Impulse buying occurs when a customer?",
+    "options": ["A. Plans purchases carefully", "B. Buys without planning", "C. Saves money", "D. Compares prices"],
+    "answer": "B",
+    "topic": "Consumer Education - Impulse Buying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "An after-sales service like warranty provides?",
+    "options": ["A. Free repairs for a period", "B. Immediate refund", "C. Lower price later", "D. Extended credit"],
+    "answer": "A",
+    "topic": "Consumer Education - After Sales",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "NAFDAC is a consumer protection agency for?",
+    "options": ["A. Electricity regulation", "B. Food and drugs", "C. Communication", "D. Road safety"],
+    "answer": "B",
+    "topic": "Consumer Education - Agencies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "SON (Standards Organisation of Nigeria) ensures?",
+    "options": ["A. Product quality standards", "B. Low prices", "C. Fast delivery", "D. Employee welfare"],
+    "answer": "A",
+    "topic": "Consumer Education - Agencies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "A justified complaint is one that is?",
+    "options": ["A. Based on false information", "B. Reasonable and valid", "C. Made without evidence", "D. For minor issues only"],
+    "answer": "B",
+    "topic": "Consumer Education - Complaints",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 103,
+    "question": "The first step in lodging a complaint is to?",
+    "options": ["A. Go to court", "B. Contact the seller", "C. Call the police", "D. Destroy the product"],
+    "answer": "B",
+    "topic": "Consumer Education - Complaints",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Seeking redress means?",
+    "options": ["A. Giving a refund", "B. Asking for a remedy", "C. Making a product", "D. Selling a product"],
+    "answer": "B",
+    "topic": "Consumer Education - Redress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "Bookkeeping is the process of?",
+    "options": ["A. Selling books", "B. Recording financial transactions", "C. Auditing accounts", "D. Printing receipts"],
+    "answer": "B",
+    "topic": "Bookkeeping - Introduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "The importance of bookkeeping includes?",
+    "options": ["A. Reducing sales", "B. Tracking income and expenses", "C. Increasing debts", "D. Avoiding taxes"],
+    "answer": "B",
+    "topic": "Bookkeeping - Importance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Transparency in bookkeeping means?",
+    "options": ["A. Hiding errors", "B. Open and clear records", "C. Using glass files", "D. Deleting old data"],
+    "answer": "B",
+    "topic": "Bookkeeping - Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Accountability in financial records requires that?",
+    "options": ["A. Records are secret", "B. One can explain transactions", "C. Only managers see records", "D. Records are destroyed yearly"],
+    "answer": "B",
+    "topic": "Bookkeeping - Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "Probity means?",
+    "options": ["A. Integrity and honesty", "B. High profits", "C. Fast processing", "D. Large capital"],
+    "answer": "A",
+    "topic": "Bookkeeping - Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Due process in bookkeeping involves?",
+    "options": ["A. Following established procedures", "B. Bypassing rules", "C. Making personal decisions", "D. Deleting records"],
+    "answer": "A",
+    "topic": "Bookkeeping - Due Process",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "Personal finance refers to management of?",
+    "options": ["A. Company funds", "B. Individual money", "C. Government budget", "D. Bank reserves"],
+    "answer": "B",
+    "topic": "Bookkeeping - Personal Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "A scale of preference lists wants in order of?",
+    "options": ["A. Alphabetical order", "B. Importance", "C. Cost", "D. Size"],
+    "answer": "B",
+    "topic": "Bookkeeping - Scale of Preference",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "Modesty as a financial virtue means?",
+    "options": ["A. Living beyond means", "B. Living within means", "C. Borrowing heavily", "D. Investing recklessly"],
+    "answer": "B",
+    "topic": "Bookkeeping - Modesty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "One effect of living modestly is?",
+    "options": ["A. High debt", "B. Self-control", "C. Frequent bankruptcy", "D. Wasteful spending"],
+    "answer": "B",
+    "topic": "Bookkeeping - Modesty Effects",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "A petty cash book records?",
+    "options": ["A. Large transactions", "B. Small routine expenses", "C. Bank loans", "D. Fixed assets"],
+    "answer": "B",
+    "topic": "Bookkeeping - Petty Cash",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "The imprest system for petty cash means the float is?",
+    "options": ["A. Increased monthly", "B. Restored to fixed amount", "C. Reduced weekly", "D. Never changed"],
+    "answer": "B",
+    "topic": "Bookkeeping - Imprest System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "A cash book is a journal that records?",
+    "options": ["A. Credit sales only", "B. Cash and bank transactions", "C. Inventory only", "D. Depreciation"],
+    "answer": "B",
+    "topic": "Bookkeeping - Cash Book",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "A three-column cash book has columns for cash, bank, and?",
+    "options": ["A. Discount", "B. Sales", "C. Purchases", "D. Capital"],
+    "answer": "A",
+    "topic": "Bookkeeping - Cash Book Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "A trial balance is prepared to?",
+    "options": ["A. Show profit", "B. Check arithmetic accuracy", "C. Calculate tax", "D. List assets"],
+    "answer": "B",
+    "topic": "Bookkeeping - Trial Balance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "Which balance appears on the debit side of a trial balance?",
+    "options": ["A. Sales", "B. Purchases", "C. Capital", "D. Creditors"],
+    "answer": "B",
+    "topic": "Bookkeeping - Trial Balance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "A trading account shows?",
+    "options": ["A. Net profit", "B. Gross profit", "C. Assets", "D. Liabilities"],
+    "answer": "B",
+    "topic": "Bookkeeping - Trading Account",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Gross profit is calculated as sales minus?",
+    "options": ["A. Expenses", "B. Cost of goods sold", "C. Taxes", "D. Capital"],
+    "answer": "B",
+    "topic": "Bookkeeping - Profit Calculation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Net profit is gross profit minus?",
+    "options": ["A. Purchases", "B. Expenses", "C. Sales returns", "D. Opening stock"],
+    "answer": "B",
+    "topic": "Bookkeeping - Profit and Loss",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "A balance sheet shows the financial position of a business on a?",
+    "options": ["A. Specific date", "B. Whole year", "C. Monthly basis", "D. Daily basis"],
+    "answer": "A",
+    "topic": "Bookkeeping - Balance Sheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Assets are resources owned by a business that have?",
+    "options": ["A. No value", "B. Economic value", "C. Only historical cost", "D. Future liability"],
+    "answer": "B",
+    "topic": "Bookkeeping - Assets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Capital is the amount invested by the?",
+    "options": ["A. Creditors", "B. Owner", "C. Bank", "D. Government"],
+    "answer": "B",
+    "topic": "Bookkeeping - Capital",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Liabilities are amounts owed by the business to?",
+    "options": ["A. Owners", "B. Outsiders", "C. Employees only", "D. Suppliers only"],
+    "answer": "B",
+    "topic": "Bookkeeping - Liabilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Keyboarding is the act of?",
+    "options": ["A. Drawing with keyboard", "B. Using keys to enter data", "C. Cleaning a keyboard", "D. Repairing a typewriter"],
+    "answer": "B",
+    "topic": "Keyboarding - Introduction",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "The correct sitting posture for keyboarding includes?",
+    "options": ["A. Slouching back", "B. Feet flat on floor", "C. Leaning sideways", "D. Wrists resting on keys"],
+    "answer": "B",
+    "topic": "Keyboarding - Posture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "The home row keys on a QWERTY keyboard are?",
+    "options": ["A. QWERTYUIOP", "B. ASDFGHJKL", "C. ASDF JKL;", "D. ZXCVBNM"],
+    "answer": "C",
+    "topic": "Keyboarding - Home Row",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "The upper row on a keyboard consists of keys?",
+    "options": ["A. QWERTYUIOP", "B. ASDFGHJKL", "C. ZXCVBNM", "D. 1234567890"],
+    "answer": "A",
+    "topic": "Keyboarding - Keyboard Rows",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "A proofreader's mark indicates?",
+    "options": ["A. Typing speed", "B. Corrections needed", "C. Page number", "D. Font style"],
+    "answer": "B",
+    "topic": "Keyboarding - Proofreading",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "To improve typing speed, one should practice?",
+    "options": ["A. Random key pressing", "B. Timed drills", "C. Looking at keys", "D. Using one finger"],
+    "answer": "B",
+    "topic": "Keyboarding - Speed Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "The enter key is used to?",
+    "options": ["A. Delete text", "B. Start a new line", "C. Capitalize letters", "D. Save file"],
+    "answer": "B",
+    "topic": "Keyboarding - Enter Key",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "A business letter heading contains?",
+    "options": ["A. Date and address", "B. Only the signature", "C. The recipient's name only", "D. The subject line"],
+    "answer": "A",
+    "topic": "Keyboarding - Business Letters",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "In a block paragraph style, all lines are?",
+    "options": ["A. Indented", "B. Aligned left", "C. Centered", "D. Justified right"],
+    "answer": "B",
+    "topic": "Keyboarding - Paragraphing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "An indented paragraph has the first line?",
+    "options": ["A. Moved inward", "B. Moved outward", "C. Underlined", "D. In bold"],
+    "answer": "A",
+    "topic": "Keyboarding - Paragraphing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A memorandum (memo) is used for?",
+    "options": ["A. External communication", "B. Internal communication", "C. Legal documents", "D. Advertising"],
+    "answer": "B",
+    "topic": "Keyboarding - Memorandum",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Email stands for?",
+    "options": ["A. Emergency mail", "B. Electronic mail", "C. Express mail", "D. External mail"],
+    "answer": "B",
+    "topic": "Keyboarding - Email",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "An email address typically contains the @ symbol and a?",
+    "options": ["A. Password", "B. Domain name", "C. Phone number", "D. Postal code"],
+    "answer": "B",
+    "topic": "Keyboarding - Email",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "Simple tabulation in keyboarding means arranging data in?",
+    "options": ["A. Columns", "B. Rows only", "C. Paragraphs", "D. Lists"],
+    "answer": "A",
+    "topic": "Keyboarding - Tabulation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "A table consists of rows and?",
+    "options": ["A. Cells", "B. Columns", "C. Margins", "D. Headers"],
+    "answer": "B",
+    "topic": "Keyboarding - Tables",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "The space bar is used to insert?",
+    "options": ["A. Letters", "B. Spaces between words", "C. Numbers", "D. Punctuation"],
+    "answer": "B",
+    "topic": "Keyboarding - Basic Keys",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "The shift key is used to type?",
+    "options": ["A. Lowercase letters", "B. Uppercase letters", "C. Numbers only", "D. Symbols only"],
+    "answer": "B",
+    "topic": "Keyboarding - Shift Key",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "To type a comma, you press the key and?",
+    "options": ["A. Use shift", "B. No shift needed", "C. Ctrl", "D. Alt"],
+    "answer": "B",
+    "topic": "Keyboarding - Punctuation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "One spacing after a period is standard in?",
+    "options": ["A. Legal documents", "B. Modern typing", "C. Old typewriters", "D. Handwriting"],
+    "answer": "B",
+    "topic": "Keyboarding - Spacing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "Page setup includes adjusting?",
+    "options": ["A. Margins and orientation", "B. Font color", "C. Keyboard layout", "D. Mouse settings"],
+    "answer": "A",
+    "topic": "Keyboarding - Page Setup",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "A hard copy refers to?",
+    "options": ["A. Digital file", "B. Printed document", "C. Backup copy", "D. Original draft"],
+    "answer": "B",
+    "topic": "Keyboarding - Output",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Which finger is used for the 'F' key on the home row?",
+    "options": ["A. Left index", "B. Left middle", "C. Right index", "D. Right thumb"],
+    "answer": "A",
+    "topic": "Keyboarding - Finger Placement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Soft touch manipulation means?",
+    "options": ["A. Hitting keys hard", "B. Gentle keystrokes", "C. Using palms", "D. Typing with one finger"],
+    "answer": "B",
+    "topic": "Keyboarding - Technique",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "An example of a basic service key is?",
+    "options": ["A. Shift", "B. A", "C. 1", "D. Space"],
+    "answer": "A",
+    "topic": "Keyboarding - Service Keys",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "Alphanumeric keys include?",
+    "options": ["A. Letters and numbers", "B. Only letters", "C. Only numbers", "D. Function keys"],
+    "answer": "A",
+    "topic": "Keyboarding - Alphanumeric",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "A hanging paragraph has the first line?",
+    "options": ["A. Indented more", "B. Hanging left", "C. Aligned right", "D. Centered"],
+    "answer": "A",
+    "topic": "Keyboarding - Paragraphing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "The main difference between a typewriter and a computer keyboard is?",
+    "options": ["A. Shape of keys", "B. Computer keyboard has extra function keys", "C. Typewriter is faster", "D. No difference"],
+    "answer": "B",
+    "topic": "Keyboarding - Comparison",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "Care of the computer keyboard includes?",
+    "options": ["A. Spilling liquids", "B. Dusting regularly", "C. Hitting hard", "D. Eating over it"],
+    "answer": "B",
+    "topic": "Keyboarding - Maintenance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "A one-minute speed burst drill measures?",
+    "options": ["A. Typing accuracy only", "B. Words per minute", "C. Key force", "D. Error types"],
+    "answer": "B",
+    "topic": "Keyboarding - Speed",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "The line space regulator controls?",
+    "options": ["A. Margin size", "B. Line spacing", "C. Font style", "D. Page color"],
+    "answer": "B",
+    "topic": "Keyboarding - Line Spacing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "A business letter closing includes?",
+    "options": ["A. Subject line", "B. Signature and name", "C. Date", "D. Enclosure notation"],
+    "answer": "B",
+    "topic": "Keyboarding - Letter Parts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "CC in a letter means?",
+    "options": ["A. Carbon copy", "B. Closed caption", "C. Computer code", "D. Copy control"],
+    "answer": "A",
+    "topic": "Keyboarding - Letter Notation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "An enclosure notation in a letter indicates?",
+    "options": ["A. A missing page", "B. Additional documents attached", "C. Confidential content", "D. Urgent reply"],
+    "answer": "B",
+    "topic": "Keyboarding - Letter Parts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "The subject line in a business letter states the?",
+    "options": ["A. Recipient's name", "B. Topic of the letter", "C. Date of writing", "D. Sender's address"],
+    "answer": "B",
+    "topic": "Keyboarding - Letter Parts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is not a component of business studies?",
+    "options": ["A. Office practice", "B. Commerce", "C. Literature", "D. Bookkeeping"],
+    "answer": "C",
+    "topic": "Business Studies - Components",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "A career in business studies could be?",
+    "options": ["A. Accountant", "B. Mechanic", "C. Nurse", "D. Pilot"],
+    "answer": "A",
+    "topic": "Business Studies - Careers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "A large office is characterized by?",
+    "options": ["A. Few employees", "B. Many departments", "C. No computers", "D. Simple tasks"],
+    "answer": "B",
+    "topic": "Office Practice - Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "Which of the following is a quality of clerical staff?",
+    "options": ["A. Laziness", "B. Accuracy", "C. Dishonesty", "D. Rudeness"],
+    "answer": "B",
+    "topic": "Office Practice - Clerical Staff",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "Confidentiality of office information means?",
+    "options": ["A. Sharing with friends", "B. Keeping secrets", "C. Discarding records", "D. Posting online"],
+    "answer": "B",
+    "topic": "Office Practice - Confidentiality",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "Lateness to work affects productivity by?",
+    "options": ["A. Increasing output", "B. Reducing efficiency", "C. Improving morale", "D. Enhancing teamwork"],
+    "answer": "B",
+    "topic": "Office Practice - Attitude",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "A visitor's register is used to?",
+    "options": ["A. Sign in visitors", "B. Record sales", "C. Track inventory", "D. Approve leave"],
+    "answer": "A",
+    "topic": "Office Practice - Reception",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The appropriate office dress code is usually?",
+    "options": ["A. Casual wear", "B. Formal or professional", "C. Sportswear", "D. Traditional only"],
+    "answer": "B",
+    "topic": "Office Practice - Dress Code",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "A debit note is issued by a buyer to?",
+    "options": ["A. Request goods", "B. Return damaged goods", "C. Pay cash", "D. Advertise"],
+    "answer": "B",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "Bank draft is a payment method that is?",
+    "options": ["A. Reversible", "B. Guaranteed by bank", "C. Made by phone", "D. In cash only"],
+    "answer": "B",
+    "topic": "Office Practice - Payment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "E-payment means?",
+    "options": ["A. Electronic payment", "B. Emergency payment", "C. Early payment", "D. Extra payment"],
+    "answer": "A",
+    "topic": "Office Practice - Payment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "A delivery note accompanies goods to confirm?",
+    "options": ["A. Order details", "B. Payment terms", "C. Warranty", "D. Advertising"],
+    "answer": "A",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "The sales department is responsible for?",
+    "options": ["A. Buying raw materials", "B. Selling products", "C. Recruiting staff", "D. Paying taxes"],
+    "answer": "B",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "The accounting department keeps records of?",
+    "options": ["A. Production", "B. Financial transactions", "C. Employee attendance", "D. Customer complaints"],
+    "answer": "B",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Outgoing mail is usually recorded in a?",
+    "options": ["A. Dispatch book", "B. Purchase ledger", "C. Cash book", "D. Stock card"],
+    "answer": "A",
+    "topic": "Office Practice - Mail",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "A filing cabinet is an example of?",
+    "options": ["A. Office equipment", "B. Stationery", "C. Furniture", "D. Consumable"],
+    "answer": "A",
+    "topic": "Office Practice - Equipment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "The main purpose of commerce is to?",
+    "options": ["A. Increase production", "B. Facilitate exchange", "C. Reduce competition", "D. Maximize profit"],
+    "answer": "B",
+    "topic": "Commerce - Purpose",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "Wholesalers sell goods to?",
+    "options": ["A. Consumers", "B. Retailers", "C. Manufacturers", "D. Exporters"],
+    "answer": "B",
+    "topic": "Commerce - Wholesaling",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "Export trade involves selling goods?",
+    "options": ["A. Within the country", "B. To another country", "C. At a loss", "D. Only online"],
+    "answer": "B",
+    "topic": "Commerce - Foreign Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "Manufacturing is a type of?",
+    "options": ["A. Extractive industry", "B. Secondary industry", "C. Tertiary industry", "D. Services"],
+    "answer": "B",
+    "topic": "Commerce - Industry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Reward for capital is?",
+    "options": ["A. Rent", "B. Wages", "C. Interest", "D. Profit"],
+    "answer": "C",
+    "topic": "Commerce - Factors",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Entrepreneur combines other factors to?",
+    "options": ["A. Produce goods", "B. Consume goods", "C. Distribute losses", "D. Avoid risk"],
+    "answer": "A",
+    "topic": "Commerce - Entrepreneur",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "An example of a commercial occupation is?",
+    "options": ["A. Mining", "B. Banking", "C. Farming", "D. Fishing"],
+    "answer": "B",
+    "topic": "Commerce - Occupation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Indirect services are those that?",
+    "options": ["A. Are consumed immediately", "B. Support other businesses", "C. Are free", "D. Are exported"],
+    "answer": "B",
+    "topic": "Commerce - Services",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "A reward for truthfulness in business is?",
+    "options": ["A. Legal action", "B. Customer trust", "C. Reduced sales", "D. Bankruptcy"],
+    "answer": "B",
+    "topic": "Commerce - Honesty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Licensed chemical vendors must keep records of?",
+    "options": ["A. Sales only", "B. Sales and distribution", "C. Employee names", "D. Office furniture"],
+    "answer": "B",
+    "topic": "Commerce - Chemical Ethics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "Warehousing is an aid to trade that provides?",
+    "options": ["A. Storage", "B. Transport", "C. Insurance", "D. Advertising"],
+    "answer": "A",
+    "topic": "Commerce - Aids to Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Money market deals with?",
+    "options": ["A. Long-term loans", "B. Short-term funds", "C. Real estate", "D. Commodities"],
+    "answer": "B",
+    "topic": "Commerce - Financial Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Cost of sale is also known as?",
+    "options": ["A. Gross profit", "B. Cost of goods sold", "C. Net profit", "D. Operating expenses"],
+    "answer": "B",
+    "topic": "Commerce - Costs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "A channel of distribution that goes directly from producer to consumer is called?",
+    "options": ["A. Indirect", "B. Direct", "C. Two-level", "D. Three-level"],
+    "answer": "B",
+    "topic": "Commerce - Distribution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Wrong handling of chemicals can cause?",
+    "options": ["A. Higher profit", "B. Environmental damage", "C. Faster sales", "D. Employee bonus"],
+    "answer": "B",
+    "topic": "Commerce - Chemical Safety",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Premium is the amount paid for?",
+    "options": ["A. Loan", "B. Insurance policy", "C. Rent", "D. Salary"],
+    "answer": "B",
+    "topic": "Commerce - Insurance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "A disadvantage of rail transport is?",
+    "options": ["A. High speed", "B. Inflexibility", "C. Low cost", "D. Large capacity"],
+    "answer": "B",
+    "topic": "Commerce - Transport",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "Advertising that aims to create a positive image of a company is?",
+    "options": ["A. Product advertising", "B. Institutional advertising", "C. Direct advertising", "D. Classified advertising"],
+    "answer": "B",
+    "topic": "Commerce - Advertising Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Telephone is a means of?",
+    "options": ["A. Transport", "B. Communication", "C. Production", "D. Storage"],
+    "answer": "B",
+    "topic": "Commerce - Communication",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "A successful entrepreneur must possess?",
+    "options": ["A. Laziness", "B. Risk-taking ability", "C. Indecision", "D. Fear of failure"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Qualities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "One disadvantage of partnership is?",
+    "options": ["A. Shared risk", "B. Unlimited liability", "C. More capital", "D. Combined skills"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Partnership",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "A public limited company can raise capital by?",
+    "options": ["A. Selling shares to public", "B. Borrowing from friends", "C. Government grant", "D. Retained profit only"],
+    "answer": "A",
+    "topic": "Entrepreneurship - Companies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "An international business opportunity exists?",
+    "options": ["A. Only in home country", "B. Across borders", "C. Only in cities", "D. Only online"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Opportunities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "A business goal must be?",
+    "options": ["A. Vague", "B. Measurable", "C. Impossible", "D. Unchanging"],
+    "answer": "B",
+    "topic": "Entrepreneurship - Goal Setting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 202,
+    "question": "One consequence of lack of consumer education is?",
+    "options": ["A. Informed choices", "B. Exploitation", "C. Lower prices", "D. Better quality"],
+    "answer": "B",
+    "topic": "Consumer Education - Importance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 203,
+    "question": "The right to redress allows a consumer to?",
+    "options": ["A. Get a refund for faulty goods", "B. Demand free products", "C. Return any item", "D. Sue for any reason"],
+    "answer": "A",
+    "topic": "Consumer Education - Rights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "A complaint letter should include?",
+    "options": ["A. Only the problem", "B. Facts and evidence", "C. Threats", "D. Personal insults"],
+    "answer": "B",
+    "topic": "Consumer Education - Complaints",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "NERC regulates the electricity industry and protects?",
+    "options": ["A. Workers", "B. Consumers", "C. Shareholders", "D. Government"],
+    "answer": "B",
+    "topic": "Consumer Education - Agencies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "A benefit of providing redress to consumers is?",
+    "options": ["A. Loss of reputation", "B. Customer loyalty", "C. Legal penalties", "D. Higher costs"],
+    "answer": "B",
+    "topic": "Consumer Education - Redress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "Bookkeeping is different from accounting because bookkeeping is mainly?",
+    "options": ["A. Recording", "B. Analyzing", "C. Interpreting", "D. Reporting"],
+    "answer": "A",
+    "topic": "Bookkeeping - Definition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "An essential quality of good bookkeeping is?",
+    "options": ["A. Neatness", "B. Speed", "C. Complexity", "D. Secrecy"],
+    "answer": "A",
+    "topic": "Bookkeeping - Qualities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "A single column cash book records only?",
+    "options": ["A. Bank transactions", "B. Cash transactions", "C. Credit sales", "D. Discounts"],
+    "answer": "B",
+    "topic": "Bookkeeping - Cash Book",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "Discount allowed is recorded on which side of the cash book?",
+    "options": ["A. Debit", "B. Credit", "C. Both", "D. Neither"],
+    "answer": "A",
+    "topic": "Bookkeeping - Cash Book",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "A trial balance ensures that total debits equal total?",
+    "options": ["A. Assets", "B. Credits", "C. Liabilities", "D. Expenses"],
+    "answer": "B",
+    "topic": "Bookkeeping - Trial Balance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "If a trial balance does not agree, the error may be due to?",
+    "options": ["A. Omission", "B. Correct posting", "C. Double entry", "D. Balanced entry"],
+    "answer": "A",
+    "topic": "Bookkeeping - Errors",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Closing stock is recorded in the trading account as a?",
+    "options": ["A. Debit", "B. Credit", "C. Addition to purchases", "D. Deduction from sales"],
+    "answer": "B",
+    "topic": "Bookkeeping - Trading Account",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "Depreciation is an example of?",
+    "options": ["A. Revenue expense", "B. Capital expense", "C. Direct cost", "D. Variable cost"],
+    "answer": "A",
+    "topic": "Bookkeeping - Expenses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "A balance sheet must always balance because assets equal?",
+    "options": ["A. Liabilities minus capital", "B. Capital plus liabilities", "C. Capital minus liabilities", "D. Liabilities only"],
+    "answer": "B",
+    "topic": "Bookkeeping - Balance Sheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "Fixed assets are assets that are?",
+    "options": ["A. Used for long term", "B. Sold quickly", "C. Intangible", "D. Current"],
+    "answer": "A",
+    "topic": "Bookkeeping - Assets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Current liabilities are debts due within?",
+    "options": ["A. One year", "B. Five years", "C. Ten years", "D. No time limit"],
+    "answer": "A",
+    "topic": "Bookkeeping - Liabilities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "A keyboard is an input device used for?",
+    "options": ["A. Displaying output", "B. Entering data", "C. Printing documents", "D. Storing files"],
+    "answer": "B",
+    "topic": "Keyboarding - Input Device",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The numeric keypad on a keyboard is useful for?",
+    "options": ["A. Typing letters", "B. Entering numbers fast", "C. Navigation", "D. Function commands"],
+    "answer": "B",
+    "topic": "Keyboarding - Keypad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "The caps lock key is a toggle key that?",
+    "options": ["A. Locks the keyboard", "B. Types in uppercase", "C. Deletes text", "D. Saves file"],
+    "answer": "B",
+    "topic": "Keyboarding - Caps Lock",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "To correct a typing error, you can use the?",
+    "options": ["A. Backspace key", "B. Enter key", "C. Shift key", "D. Alt key"],
+    "answer": "A",
+    "topic": "Keyboarding - Correction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "A word processing software is used to?",
+    "options": ["A. Create spreadsheets", "B. Type letters", "C. Edit photos", "D. Browse internet"],
+    "answer": "B",
+    "topic": "Keyboarding - Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The undo command reverses?",
+    "options": ["A. The last action", "B. All actions", "C. The save operation", "D. The print command"],
+    "answer": "A",
+    "topic": "Keyboarding - Commands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "To save a document, you press?",
+    "options": ["A. Ctrl + S", "B. Ctrl + C", "C. Ctrl + V", "D. Ctrl + Z"],
+    "answer": "A",
+    "topic": "Keyboarding - Shortcuts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "The print command is usually found under the?",
+    "options": ["A. File menu", "B. Edit menu", "C. View menu", "D. Insert menu"],
+    "answer": "A",
+    "topic": "Keyboarding - Menus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "A memorandum is often used for?",
+    "options": ["A. External announcements", "B. Internal messages", "C. Legal contracts", "D. Sales letters"],
+    "answer": "B",
+    "topic": "Keyboarding - Memo",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "In an email, 'To' field contains the?",
+    "options": ["A. Sender's address", "B. Recipient's address", "C. Subject", "D. Attachment"],
+    "answer": "B",
+    "topic": "Keyboarding - Email",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "The subject line of an email should be?",
+    "options": ["A. Blank", "B. Descriptive", "C. Very long", "D. In capital letters"],
+    "answer": "B",
+    "topic": "Keyboarding - Email",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "To create a table in word processing, you use the?",
+    "options": ["A. Insert menu", "B. Format menu", "C. Tools menu", "D. View menu"],
+    "answer": "A",
+    "topic": "Keyboarding - Tables",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "The standard font size for business letters is usually?",
+    "options": ["A. 8 pt", "B. 12 pt", "C. 18 pt", "D. 24 pt"],
+    "answer": "B",
+    "topic": "Keyboarding - Font Size",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "A hanging indent is used for?",
+    "options": ["A. Bibliographies", "B. Paragraphs", "C. Headings", "D. Footnotes"],
+    "answer": "A",
+    "topic": "Keyboarding - Indentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "The backspace key deletes characters to the?",
+    "options": ["A. Right of cursor", "B. Left of cursor", "C. Above cursor", "D. Below cursor"],
+    "answer": "B",
+    "topic": "Keyboarding - Backspace",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "Ctrl + C is the shortcut for?",
+    "options": ["A. Cut", "B. Copy", "C. Paste", "D. Close"],
+    "answer": "B",
+    "topic": "Keyboarding - Shortcuts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "The ribbon in Microsoft Word contains?",
+    "options": ["A. Tabs and commands", "B. Document text", "C. Status bar", "D. Scroll bars"],
+    "answer": "A",
+    "topic": "Keyboarding - Interface",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "A quick way to centre text is to press?",
+    "options": ["A. Ctrl + L", "B. Ctrl + E", "C. Ctrl + R", "D. Ctrl + J"],
+    "answer": "B",
+    "topic": "Keyboarding - Alignment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "The find and replace feature is used to?",
+    "options": ["A. Search for text", "B. Change formatting", "C. Insert images", "D. Save files"],
+    "answer": "A",
+    "topic": "Keyboarding - Editing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "A footer is text that appears at the?",
+    "options": ["A. Top of every page", "B. Bottom of every page", "C. Left margin", "D. Right margin"],
+    "answer": "B",
+    "topic": "Keyboarding - Headers/Footers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Bullets and numbering are used to create?",
+    "options": ["A. Tables", "B. Lists", "C. Columns", "D. Borders"],
+    "answer": "B",
+    "topic": "Keyboarding - Lists",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "The spell check feature is usually indicated by?",
+    "options": ["A. Red underline", "B. Blue underline", "C. Green underline", "D. Yellow highlight"],
+    "answer": "A",
+    "topic": "Keyboarding - Spell Check",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "A thesaurus in word processing helps to find?",
+    "options": ["A. Synonyms", "B. Antonyms", "C. Definitions", "D. Translations"],
+    "answer": "A",
+    "topic": "Keyboarding - Tools",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Page orientation can be portrait or?",
+    "options": ["A. Landscape", "B. Square", "C. Circle", "D. Wide"],
+    "answer": "A",
+    "topic": "Keyboarding - Page Setup",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "To print a document, you can press?",
+    "options": ["A. Ctrl + P", "B. Ctrl + N", "C. Ctrl + O", "D. Ctrl + S"],
+    "answer": "A",
+    "topic": "Keyboarding - Shortcuts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "A hard page break is inserted to?",
+    "options": ["A. Start a new page", "B. End a paragraph", "C. Change font", "D. Adjust margins"],
+    "answer": "A",
+    "topic": "Keyboarding - Page Breaks",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "A watermark is a faint design placed?",
+    "options": ["A. Behind text", "B. In the margin", "C. On the header", "D. On the footer"],
+    "answer": "A",
+    "topic": "Keyboarding - Watermark",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "The format painter tool copies?",
+    "options": ["A. Text only", "B. Formatting", "C. Images", "D. Hyperlinks"],
+    "answer": "B",
+    "topic": "Keyboarding - Formatting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "A macro is used to?",
+    "options": ["A. Automate repetitive tasks", "B. Record video", "C. Play sound", "D. Insert table"],
+    "answer": "A",
+    "topic": "Keyboarding - Macros",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Track changes feature allows?",
+    "options": ["A. Editing with review", "B. Deleting permanently", "C. Saving automatically", "D. Printing double-sided"],
+    "answer": "A",
+    "topic": "Keyboarding - Reviewing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "A template is a?",
+    "options": ["A. Pre-designed document", "B. New blank file", "C. Image file", "D. Font style"],
+    "answer": "A",
+    "topic": "Keyboarding - Templates",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "Mail merge is used to create?",
+    "options": ["A. Multiple personalized letters", "B. One letter", "C. An email", "D. A table"],
+    "answer": "A",
+    "topic": "Keyboarding - Mail Merge",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The quick access toolbar can be customized with?",
+    "options": ["A. Frequently used commands", "B. Font styles", "C. Page colors", "D. Watermarks"],
+    "answer": "A",
+    "topic": "Keyboarding - Toolbar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "One way to backup a document is to?",
+    "options": ["A. Save to cloud", "B. Delete it", "C. Print it", "D. Close it"],
+    "answer": "A",
+    "topic": "Keyboarding - Backup",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "A file extension .docx indicates a?",
+    "options": ["A. Word document", "B. Excel file", "C. PowerPoint file", "D. Text file"],
+    "answer": "A",
+    "topic": "Keyboarding - File Types",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "The office that handles correspondence and visitor reception is the?",
+    "options": ["A. Front office", "B. Back office", "C. Open office", "D. Home office"],
+    "answer": "A",
+    "topic": "Office Practice - Front Office",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "A purchase order is a document from a buyer to a seller requesting?",
+    "options": ["A. Payment", "B. Goods or services", "C. Refund", "D. Warranty"],
+    "answer": "B",
+    "topic": "Office Practice - Purchase Order",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "A credit note reduces the amount a buyer owes because of?",
+    "options": ["A. Returns", "B. Overpayment", "C. Early payment", "D. Discount"],
+    "answer": "A",
+    "topic": "Office Practice - Credit Note",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "The planning department is responsible for?",
+    "options": ["A. Future strategies", "B. Daily operations", "C. Employee welfare", "D. Customer service"],
+    "answer": "A",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "A switchboard is an office equipment used for?",
+    "options": ["A. Routing phone calls", "B. Cleaning floors", "C. Printing documents", "D. Shredding paper"],
+    "answer": "A",
+    "topic": "Office Practice - Equipment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "A voucher is a document that serves as?",
+    "options": ["A. Evidence of transaction", "B. Advertising material", "C. Employee contract", "D. Product label"],
+    "answer": "A",
+    "topic": "Office Practice - Voucher",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "In commerce, the term 'home trade' means trade?",
+    "options": ["A. Within a country", "B. Between countries", "C. Only online", "D. Only by barter"],
+    "answer": "A",
+    "topic": "Commerce - Home Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "A bill of lading is used in?",
+    "options": ["A. Air transport", "B. Sea transport", "C. Road transport", "D. Rail transport"],
+    "answer": "B",
+    "topic": "Commerce - Transport Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "FOB (Free On Board) is a term used in?",
+    "options": ["A. Insurance", "B. Export trade", "C. Banking", "D. Advertising"],
+    "answer": "B",
+    "topic": "Commerce - Trade Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "The central bank of Nigeria regulates?",
+    "options": ["A. Commercial banks", "B. Insurance companies", "C. Schools", "D. Hospitals"],
+    "answer": "A",
+    "topic": "Commerce - Banking",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "A cheque that is not dated is considered?",
+    "options": ["A. Stale", "B. Post-dated", "C. Undated", "D. Crossed"],
+    "answer": "C",
+    "topic": "Office Practice - Cheques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Crossing a cheque makes it?",
+    "options": ["A. Transferable only", "B. Cashable over counter", "C. Invalid", "D. Bearer"],
+    "answer": "A",
+    "topic": "Office Practice - Cheques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "EFT stands for?",
+    "options": ["A. Electronic Funds Transfer", "B. Efficient File Transfer", "C. Early Fiscal Time", "D. External Finance Tool"],
+    "answer": "A",
+    "topic": "Office Practice - Payment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "A receipt book is used to issue?",
+    "options": ["A. Invoices", "B. Proof of payment", "C. Purchase orders", "D. Delivery notes"],
+    "answer": "B",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "The transport department in an organization is responsible for?",
+    "options": ["A. Moving goods and staff", "B. Buying raw materials", "C. Selling products", "D. Hiring employees"],
+    "answer": "A",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "A file index helps to?",
+    "options": ["A. Locate files easily", "B. Delete old files", "C. Create new files", "D. Encrypt files"],
+    "answer": "A",
+    "topic": "Office Practice - Filing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "A signature is required on a cheque to?",
+    "options": ["A. Authorize payment", "B. Cancel it", "C. Endorse it", "D. Cross it"],
+    "answer": "A",
+    "topic": "Office Practice - Cheques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "A petty cashier is responsible for?",
+    "options": ["A. Small cash expenses", "B. Large investments", "C. Bank reconciliation", "D. Audit"],
+    "answer": "A",
+    "topic": "Office Practice - Petty Cash",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "The process of verifying stock on hand is called?",
+    "options": ["A. Stock taking", "B. Stock exchange", "C. Stock out", "D. Stock split"],
+    "answer": "A",
+    "topic": "Office Practice - Stock",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "A gate pass allows goods to?",
+    "options": ["A. Enter the factory", "B. Leave the premises", "C. Be stored", "D. Be destroyed"],
+    "answer": "B",
+    "topic": "Office Practice - Documents",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "A sales invoice is prepared by the?",
+    "options": ["A. Buyer", "B. Seller", "C. Bank", "D. Transporter"],
+    "answer": "B",
+    "topic": "Office Practice - Sales",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "The administrative department oversees?",
+    "options": ["A. General management", "B. Production only", "C. Sales only", "D. Marketing only"],
+    "answer": "A",
+    "topic": "Office Practice - Departments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "Internal mail refers to communication?",
+    "options": ["A. Within the organization", "B. To customers", "C. To suppliers", "D. To government"],
+    "answer": "A",
+    "topic": "Office Practice - Mail",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "A franking machine prints postage on?",
+    "options": ["A. Envelopes", "B. Products", "C. Invoices", "D. Cheques"],
+    "answer": "A",
+    "topic": "Office Practice - Equipment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "A self-addressed envelope is used for?",
+    "options": ["A. Convenient reply", "B. Advertising", "C. Filing", "D. Storage"],
+    "answer": "A",
+    "topic": "Office Practice - Correspondence",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "Dispatching mail involves?",
+    "options": ["A. Sending out letters", "B. Receiving letters", "C. Sorting letters", "D. Filing letters"],
+    "answer": "A",
+    "topic": "Office Practice - Mail",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "A registered mail provides?",
+    "options": ["A. Proof of delivery", "B. Lower cost", "C. Faster speed", "D. Bulk discount"],
+    "answer": "A",
+    "topic": "Office Practice - Mail Services",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "The postal service is an example of?",
+    "options": ["A. Communication medium", "B. Transport mode", "C. Banking service", "D. Insurance"],
+    "answer": "A",
+    "topic": "Commerce - Communication",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "A satellite is used for?",
+    "options": ["A. Long-distance communication", "B. Local storage", "C. Printing", "D. Typing"],
+    "answer": "A",
+    "topic": "Commerce - Communication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "A virtual office allows employees to work?",
+    "options": ["A. Remotely", "B. Only in the office", "C. Part-time", "D. Overtime"],
+    "answer": "A",
+    "topic": "Office Practice - Modern Office",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "Cloud computing in business allows?",
+    "options": ["A. Remote data access", "B. Local printing only", "C. Physical storage", "D. Manual bookkeeping"],
+    "answer": "A",
+    "topic": "Office Practice - Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "A scanner is used to?",
+    "options": ["A. Convert paper to digital", "B. Print documents", "C. Send emails", "D. Make calls"],
+    "answer": "A",
+    "topic": "Office Practice - Equipment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "A collator is a machine that?",
+    "options": ["A. Assembles pages in order", "B. Shreds paper", "C. Laminates sheets", "D. Binds books"],
+    "answer": "A",
+    "topic": "Office Practice - Equipment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "A facsimile (fax) machine transmits?",
+    "options": ["A. Copies of documents", "B. Voice calls", "C. Emails", "D. Money"],
+    "answer": "A",
+    "topic": "Office Practice - Communication",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "A bulletin board is used for?",
+    "options": ["A. Posting notices", "B. Writing letters", "C. Taking notes", "D. Storing files"],
+    "answer": "A",
+    "topic": "Office Practice - Communication",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "A suggestion box allows employees to?",
+    "options": ["A. Give anonymous feedback", "B. Request leave", "C. Submit expenses", "D. Order supplies"],
+    "answer": "A",
+    "topic": "Office Practice - Employee Relations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 289,
+    "question": "A job description outlines?",
+    "options": ["A. Duties and responsibilities", "B. Salary only", "C. Company history", "D. Product details"],
+    "answer": "A",
+    "topic": "Office Practice - HR",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "An interview is a process for?",
+    "options": ["A. Selecting candidates", "B. Firing employees", "C. Promoting staff", "D. Training workers"],
+    "answer": "A",
+    "topic": "Office Practice - HR",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Staff appraisal evaluates?",
+    "options": ["A. Employee performance", "B. Company profits", "C. Customer satisfaction", "D. Product quality"],
+    "answer": "A",
+    "topic": "Office Practice - HR",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "A trade union represents?",
+    "options": ["A. Workers' interests", "B. Employers' interests", "C. Government policies", "D. Consumer rights"],
+    "answer": "A",
+    "topic": "Office Practice - Labour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "An induction programme is for?",
+    "options": ["A. New employees", "B. Senior managers", "C. Retired staff", "D. Customers"],
+    "answer": "A",
+    "topic": "Office Practice - Training",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "On-the-job training means?",
+    "options": ["A. Learning while working", "B. Attending external courses", "C. Reading manuals", "D. Online classes"],
+    "answer": "A",
+    "topic": "Office Practice - Training",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "A workspace that is ergonomically designed reduces?",
+    "options": ["A. Physical strain", "B. Productivity", "C. Communication", "D. Lighting"],
+    "answer": "A",
+    "topic": "Office Practice - Ergonomics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "A fire extinguisher is a safety device for?",
+    "options": ["A. Putting out fires", "B. Cleaning floors", "C. Locking doors", "D. Cooling drinks"],
+    "answer": "A",
+    "topic": "Office Practice - Safety",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "A first aid box contains?",
+    "options": ["A. Medical supplies", "B. Office stationery", "C. Computer parts", "D. Kitchen utensils"],
+    "answer": "A",
+    "topic": "Office Practice - Safety",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "An emergency exit sign is usually coloured?",
+    "options": ["A. Green", "B. Red", "C. Blue", "D. Yellow"],
+    "answer": "A",
+    "topic": "Office Practice - Safety",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "A data protection policy ensures?",
+    "options": ["A. Privacy of information", "B. Faster processing", "C. Lower costs", "D. More staff"],
+    "answer": "A",
+    "topic": "Office Practice - Data Protection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 300,
+    "question": "A whistleblower policy encourages reporting of?",
+    "options": ["A. Wrongdoing", "B. Innovation", "C. Sales targets", "D. Employee birthdays"],
+    "answer": "A",
+    "topic": "Office Practice - Ethics",
+    "difficulty": "Hard"
+  }
+]
