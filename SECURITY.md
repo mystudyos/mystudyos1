@@ -16,7 +16,7 @@ We take the security of StudyOS, student data, and platform integrity seriously.
 ### Private Reporting Channels
 Please report security issues using one of the following methods:
 * **GitHub Private Vulnerability Reporting:** Navigate to the **Security** tab of this repository and click **Report a vulnerability**.
-* **Email:** Send your report directly to `security@studyos.com`.
+* **Email:** Send your report directly to `support.studyos@gmail.com`.
 
 ### What to Include in Your Report
 To help us triage and respond quickly, please include:
