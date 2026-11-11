@@ -32,6 +32,7 @@ export interface DirectChat {
   lastMessageAt: Timestamp | null
   lastMessageSender: string | null
   unreadCount: Record<string, number> // { [uid]: count }
+  removedBy?: Record<string, boolean> // { [uid]: true } when a user removes the chat from their list
   createdAt: Timestamp | null
   updatedAt: Timestamp | null
 }
@@ -82,7 +83,12 @@ export async function createOrGetChatSession(
   const snap = await getDoc(ref)
 
   if (snap.exists()) {
-    return { id: snap.id, ...snap.data() } as DirectChat
+    const existing = { id: snap.id, ...snap.data() } as DirectChat
+    if (existing.removedBy?.[uid1]) {
+      await updateDoc(ref, { [`removedBy.${uid1}`]: false }).catch(() => {})
+      existing.removedBy = { ...(existing.removedBy || {}), [uid1]: false }
+    }
+    return existing
   }
 
   const newChat: Omit<DirectChat, "id"> = {
@@ -150,10 +156,12 @@ export async function sendDM(
       lastMessageAt: serverTimestamp(),
       lastMessageSender: senderUid,
       updatedAt: serverTimestamp(),
+      [`removedBy.${senderUid}`]: false,
     }
 
     if (recipientUid) {
       updateData[`unreadCount.${recipientUid}`] = increment(1)
+      updateData[`removedBy.${recipientUid}`] = false
 
       // Dispatch Web Push Notification asynchronously (like WhatsApp Web)
       fetch("/api/send-notification", {
@@ -186,11 +194,21 @@ export function subscribeToUserDMs(
   )
 
   return onSnapshot(q, (snapshot) => {
-    const chats: DirectChat[] = snapshot.docs.map((doc) => ({
-      id: doc.id,
-      ...(doc.data() as Omit<DirectChat, "id">),
-    }))
+    const chats: DirectChat[] = snapshot.docs
+      .map((doc) => ({
+        id: doc.id,
+        ...(doc.data() as Omit<DirectChat, "id">),
+      }))
+      .filter((chat) => !chat.removedBy?.[uid])
     callback(chats)
+  })
+}
+
+// ─── Remove a Direct Chat from a user's DM list (Additions-Only Soft Remove) ───
+export async function removeChatForUser(chatId: string, userUid: string): Promise<void> {
+  const ref = doc(db, "directChats", chatId)
+  await updateDoc(ref, {
+    [`removedBy.${userUid}`]: true,
   })
 }
 

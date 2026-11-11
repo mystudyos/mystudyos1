@@ -37,6 +37,7 @@ export interface UserStats {
   proExpiresAt?: string | null // ISO date string when Pro expires
   achievements: string[]
   school?: string
+  schoolName?: string
   category?: "JSS" | "SSS"
   email?: string
   displayName?: string
@@ -94,7 +95,10 @@ export function mergeProtectedStats(
   incoming: UserStats,
   backup: UserStats | null
 ): UserStats {
-  if (!backup) return incoming
+  if (!backup) {
+    const resolved = incoming.schoolName || incoming.school
+    return resolved ? { ...incoming, school: resolved, schoolName: resolved } : incoming
+  }
 
   const totalQuestions = Math.max(incoming.totalQuestions || 0, backup.totalQuestions || 0)
   const totalCorrect = Math.max(incoming.totalCorrect || 0, backup.totalCorrect || 0)
@@ -148,9 +152,13 @@ export function mergeProtectedStats(
       ? incoming.accuracy
       : computedAccuracy
 
+  const resolvedSchool =
+    incoming.schoolName || incoming.school || backup.schoolName || backup.school
+
   return {
     ...backup,
     ...incoming,
+    ...(resolvedSchool ? { school: resolvedSchool, schoolName: resolvedSchool } : {}),
     totalQuestions,
     totalCorrect,
     quizzesTaken,
@@ -632,7 +640,7 @@ export async function fetchLeaderboard(limitCount = 1000): Promise<LeaderboardEn
         )
       ) < 300000 : false,
       isPro: data.isPro || false,
-      school: data.school,
+      school: data.schoolName || data.school,
       category: (data.category === "SSS" ? "SSS" : "JSS") as "JSS" | "SSS",
       email: data.email,
       createdAt: data.createdAt || null,
@@ -665,15 +673,24 @@ export async function updateUserCategory(uid: string, category: "JSS" | "SSS"): 
 }
 
 /**
- * Update user's school.
+ * Update user's school (sets schoolName for student profile updates).
  */
 export async function updateUserSchool(uid: string, school: string): Promise<void> {
   if (typeof window !== "undefined" && !navigator.onLine) return
+  const trimmed = school.trim()
+  if (!trimmed) return
   const ref = doc(db, "users", uid)
-  await updateDoc(ref, {
-    school,
-    updatedAt: serverTimestamp(),
-  })
+  try {
+    await updateDoc(ref, {
+      schoolName: trimmed,
+    })
+  } catch {
+    await updateDoc(ref, {
+      schoolName: trimmed,
+      school: trimmed,
+      updatedAt: serverTimestamp(),
+    })
+  }
   try { clearCache(`userStats_${uid}`); clearCachePrefix("leaderboard_") } catch {}
 }
 
@@ -702,7 +719,15 @@ export async function fetchAllStudents(): Promise<(UserStats & { uid: string })[
   } catch (err) {
     snap = await getDocs(col)
   }
-  return snap.docs.map(d => ({ uid: d.id, ...(d.data() as UserStats) }))
+  return snap.docs.map(d => {
+    const data = d.data() as UserStats
+    const resolvedSchool = data.schoolName || data.school
+    return {
+      uid: d.id,
+      ...data,
+      ...(resolvedSchool ? { school: resolvedSchool, schoolName: resolvedSchool } : {}),
+    }
+  })
 }
 
 /**

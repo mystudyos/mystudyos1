@@ -26,8 +26,18 @@ service cloud.firestore {
         // a) Admin access (e.g. banning/unbanning/school approval)
         isAdmin()
         || (
-          // b) Owner updating their own document — core cumulative/streak stats must NEVER decrease
+          // b) Student updating only their own schoolName field
           request.auth.uid == userId
+          && !isAdmin()
+          && (
+            request.resource.data.diff(resource.data).affectedKeys().hasOnly(['schoolName'])
+            || request.resource.data.diff(resource.data).affectedKeys().hasOnly(['schoolName', 'school', 'updatedAt'])
+          )
+        )
+        || (
+          // c) Owner updating their own document — core cumulative/streak stats must NEVER decrease, and ban status cannot be modified
+          request.auth.uid == userId
+          && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['isBanned', 'banReason'])
           && request.resource.data.get('totalQuestions', 0) >= resource.data.get('totalQuestions', 0)
           && request.resource.data.get('totalCorrect', 0) >= resource.data.get('totalCorrect', 0)
           && request.resource.data.get('quizzesTaken', 0) >= resource.data.get('quizzesTaken', 0)
@@ -36,7 +46,7 @@ service cloud.firestore {
           && request.resource.data.get('achievements', []).size() >= resource.data.get('achievements', []).size()
         )
         || (
-          // c) Allow players to increment each other's score/accuracy/question stats during game challenge results
+          // d) Allow players to increment each other's score/accuracy/question stats during game challenge results
           request.resource.data.diff(resource.data).affectedKeys().hasOnly(['totalCorrect', 'totalQuestions', 'accuracy', 'updatedAt'])
           && request.resource.data.get('totalQuestions', 0) >= resource.data.get('totalQuestions', 0)
           && request.resource.data.get('totalCorrect', 0) >= resource.data.get('totalCorrect', 0)
@@ -55,31 +65,11 @@ service cloud.firestore {
       allow read, write: if isAuth();
     }
 
-    // 3. Global Chat
+    // 3. Global Chat (Room Chat — Read-Only for Students, Admin-Only Post/Edit/Delete)
     match /globalChat/{messageId} {
       allow read: if isAuth();
-      allow create: if isAuth() 
-        && request.resource.data.uid == request.auth.uid
-        && request.resource.data.text.size() <= 500;
-      allow delete: if isAuth() 
-        && (resource.data.uid == request.auth.uid 
-            || isAdmin());
-      
-      // Allow updates only for admins or message owners updating their own text
-      allow update: if isAuth() 
-        && (
-          // Admin can perform updates (e.g. pinning, deleting)
-          isAdmin()
-          || (
-            // Owner can edit their own message text without changing other fields
-            resource.data.uid == request.auth.uid
-            && request.resource.data.uid == request.auth.uid
-            && request.resource.data.text.size() <= 500
-            && request.resource.data.displayName == resource.data.displayName
-            && request.resource.data.replyTo == resource.data.replyTo
-            && request.resource.data.createdAt == resource.data.createdAt
-          )
-        );
+      allow create: if isAdmin() && request.resource.data.text.size() <= 500;
+      allow update, delete: if isAdmin();
     }
 
     // 4. Chat State (Pinned Messages)

@@ -23,3 +23,6 @@ User statistics (`totalQuestions`, `totalCorrect`, `accuracy`, `quizzesTaken`, `
 - **Light Mode Default**: The application defaults to **Light Mode** (`defaultTheme="light"`, `enableSystem={false}`), and the Auth screen (`AuthView`) must always render in Light Mode. The theme toggle icon (`Sun` / `Moon`) remains accessible on the Dashboard.
 - **Code Splitting**: Heavy views and question bank consumers (`TrainingQuiz`, `SolidQuiz`, `AdminDashboard`, `ProAnalyticsView`, etc.) must be dynamically imported (`next/dynamic`) so they never block First Contentful Paint (FCP), Largest Contentful Paint (LCP), or Total Blocking Time (TBT).
 
+## 5. Git Workflow (`git pull` Before `git push`)
+- Always run `git pull` before `git push` to synchronize any remote commits on GitHub (`mystudyos`) and prevent merge conflicts or rejected pushes.
+

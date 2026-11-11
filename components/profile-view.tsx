@@ -20,12 +20,16 @@ import {
   Settings,
   Check,
   X,
+  School,
 } from "lucide-react"
 import AvatarPicker from "./avatar-picker"
 import { type User as FirebaseUser } from "firebase/auth"
-import { type UserStats, updateUserCategory } from "@/lib/user-stats"
+import { type UserStats, updateUserCategory, updateUserSchool } from "@/lib/user-stats"
 import { subscribeToUnreadCount } from "@/lib/chat"
 import { SURVEYS } from "@/lib/surveys"
+import { fetchApprovedSchools } from "@/lib/schools"
+import { ADMIN_EMAIL } from "@/lib/constants"
+import { toast } from "react-toastify"
 
 interface ProfileViewProps {
   user: FirebaseUser | null
@@ -51,12 +55,34 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
   const [showCategoryModal, setShowCategoryModal] = useState(false)
   const [selectedCategory, setSelectedCategory] = useState<"JSS" | "SSS">(currentCategory)
   const [movingCategory, setMovingCategory] = useState(false)
+  const [showSchoolModal, setShowSchoolModal] = useState(false)
+  const [schoolInput, setSchoolInput] = useState("")
+  const [approvedSchools, setApprovedSchools] = useState<string[]>([])
+  const [savingSchool, setSavingSchool] = useState(false)
   const [aiChatLoading, setAiChatLoading] = useState(false)
   const cxgenieLoaded = useRef(false)
+  const isAdmin = user?.email === ADMIN_EMAIL
+  const currentSchoolName = isAdmin
+    ? "Admin"
+    : (stats?.schoolName || stats?.school || "")
 
   useEffect(() => {
     setSelectedCategory(currentCategory)
   }, [currentCategory])
+
+  useEffect(() => {
+    if (!isAdmin) {
+      setSchoolInput(stats?.schoolName || stats?.school || "")
+    }
+  }, [stats?.schoolName, stats?.school, isAdmin])
+
+  useEffect(() => {
+    if (showSchoolModal && approvedSchools.length === 0) {
+      fetchApprovedSchools()
+        .then(setApprovedSchools)
+        .catch(() => {})
+    }
+  }, [showSchoolModal, approvedSchools.length])
 
   // Real-time unread badge
   useEffect(() => {
@@ -103,6 +129,12 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
   const MENU_ITEMS = [
     { icon: Award, label: "Achievements", badge: stats?.achievements?.length ? `${stats.achievements.length} Unlocked` : "0 Unlocked", action: "achievements" },
     { icon: Clock, label: "Activity History", action: "history" },
+    {
+      icon: School,
+      label: "School Name",
+      badge: currentSchoolName ? (currentSchoolName.length > 22 ? `${currentSchoolName.slice(0, 22)}…` : currentSchoolName) : "Edit",
+      action: "school",
+    },
     { icon: Settings, label: "Category", badge: "New", action: "category", isBold: true },
     { icon: HelpCircle, label: "Trivia & Surveys", badge: uncompletedCount > 0 ? `${uncompletedCount} New` : undefined, action: "surveys" },
     { icon: Shield, label: "Privacy Policy", action: "privacy" },
@@ -224,7 +256,7 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
       {stats?.surveyResults && Object.keys(stats.surveyResults).length > 0 && (
         <div className="glass rounded-2xl p-4 border border-purple-500/20 mb-5 bg-purple-500/5">
           <p className="text-[10px] font-bold text-purple-400 uppercase tracking-widest mb-3 flex items-center gap-2">
-            <Award className="w-3 h-3" /> Trivia Triumphs 🏆
+            Trivia Triumphs 🏆
           </p>
           <div className="flex flex-wrap gap-2">
             {Object.entries(stats.surveyResults).map(([surveyId, res]) => {
@@ -249,6 +281,10 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
             key={label}
             onClick={() => {
               if (action === "privacy" || action === "terms" || action === "cookies") onShowLegal(action as any)
+              if (action === "school" && !isAdmin) {
+                setSchoolInput(stats?.schoolName || stats?.school || "")
+                setShowSchoolModal(true)
+              }
               if (action === "category") setShowCategoryModal(true)
               if (action === "history") onShowHistory()
               if (action === "surveys" && onShowSurveys) onShowSurveys()
@@ -269,6 +305,109 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
           </button>
         ))}
       </div>
+
+      {/* School Name Edit Modal (Students only) */}
+      {showSchoolModal && !isAdmin && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 dark:bg-black/70 backdrop-blur-sm animate-in fade-in duration-200"
+          onClick={() => setShowSchoolModal(false)}
+        >
+          <div
+            className="w-full max-w-sm rounded-2xl bg-white dark:bg-slate-900 border border-border/60 p-5 shadow-2xl animate-in zoom-in-95 duration-200"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-center justify-between mb-1">
+              <div className="flex items-center gap-2">
+                <School className="w-4 h-4 text-primary" />
+                <h3 className="text-sm font-bold text-foreground">School Name</h3>
+              </div>
+              <button
+                type="button"
+                onClick={() => setShowSchoolModal(false)}
+                className="p-1.5 rounded-lg text-muted-foreground hover:text-foreground hover:bg-foreground/5 transition-colors"
+                aria-label="Close"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+            <p className="text-xs text-muted-foreground mb-4">
+              Update the school name shown on your student profile.
+            </p>
+
+            <div className="space-y-3">
+              <div>
+                <label className="block text-[10px] font-bold uppercase tracking-wider text-muted-foreground mb-1.5">
+                  Your School Name
+                </label>
+                <input
+                  type="text"
+                  value={schoolInput}
+                  onChange={(e) => setSchoolInput(e.target.value)}
+                  placeholder="Enter your school name..."
+                  maxLength={120}
+                  className="w-full px-3.5 py-2.5 rounded-xl bg-foreground/5 border border-border/60 text-sm text-foreground placeholder:text-muted-foreground/50 focus:outline-none focus:ring-2 focus:ring-primary/30"
+                />
+              </div>
+
+              {approvedSchools.length > 0 && (
+                <div>
+                  <label className="block text-[10px] font-bold uppercase tracking-wider text-muted-foreground mb-1.5">
+                    Or Pick from Partner Schools
+                  </label>
+                  <select
+                    value={approvedSchools.includes(schoolInput) ? schoolInput : ""}
+                    onChange={(e) => {
+                      if (e.target.value) setSchoolInput(e.target.value)
+                    }}
+                    className="w-full px-3.5 py-2.5 rounded-xl bg-foreground/5 border border-border/60 text-xs text-foreground focus:outline-none focus:ring-2 focus:ring-primary/30"
+                  >
+                    <option value="" className="bg-background text-foreground">
+                      Select a school (optional)
+                    </option>
+                    {approvedSchools.map((s) => (
+                      <option key={s} value={s} className="bg-background text-foreground">
+                        {s}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+              )}
+            </div>
+
+            <div className="mt-4 pt-3 border-t border-border/50 flex justify-end gap-2">
+              <button
+                type="button"
+                onClick={() => setShowSchoolModal(false)}
+                className="px-4 py-2 rounded-xl bg-foreground/5 hover:bg-foreground/10 text-foreground text-xs font-semibold transition-colors cursor-pointer"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                disabled={savingSchool || !schoolInput.trim()}
+                onClick={async () => {
+                  const trimmed = schoolInput.trim()
+                  if (!trimmed || !user?.uid) return
+                  setSavingSchool(true)
+                  try {
+                    await updateUserSchool(user.uid, trimmed)
+                    toast.success("updated")
+                    setShowSchoolModal(false)
+                  } catch (err) {
+                    console.error("Failed to update:", err)
+                    toast.error("Failed to update")
+                  } finally {
+                    setSavingSchool(false)
+                  }
+                }}
+                className="px-5 py-2 rounded-xl bg-primary hover:bg-primary/90 text-primary-foreground text-xs font-bold transition-colors cursor-pointer disabled:opacity-60"
+              >
+                {savingSchool ? "Saving..." : "Save"}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Category (JSS / SSS) Selection Prompt Modal */}
       {showCategoryModal && (

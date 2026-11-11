@@ -1,26 +1,26 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react"
 import { type User as FirebaseUser } from "firebase/auth"
 import { type UserStats } from "@/lib/user-stats"
 import { subscribeToUnreadCount } from "@/lib/chat"
 import { 
   subscribeToUserDMs, 
-  createOrGetChatSession,
+  removeChatForUser,
   type DirectChat 
 } from "@/lib/dm"
 import { GlobalChatView } from "./global-chat-view"
 import { DMChatView } from "./dm-chat-view"
 import { 
   ArrowLeft, 
-  MessageCircle, 
   Users, 
-  MessageSquare, 
   Search, 
-  Clock, 
   ShieldAlert,
-  UserPlus
+  MessageSquare,
+  Trash2,
+  X,
 } from "lucide-react"
+import { toast } from "react-toastify"
 
 interface ChatHubProps {
   user: FirebaseUser
@@ -45,6 +45,27 @@ export function ChatHub({
   const [loadingChats, setLoadingChats] = useState(true)
   const [searchQuery, setSearchQuery] = useState("")
   const [globalUnread, setGlobalUnread] = useState(0)
+  const [mobileMenuChat, setMobileMenuChat] = useState<DirectChat | null>(null)
+  const [removingChatId, setRemovingChatId] = useState<string | null>(null)
+  const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
+  const longPressTriggeredRef = useRef(false)
+
+  const handleRemoveChat = async (chat: DirectChat, e?: React.MouseEvent) => {
+    e?.stopPropagation()
+    if (removingChatId === chat.id) return
+    setRemovingChatId(chat.id)
+    try {
+      await removeChatForUser(chat.id, user.uid)
+      setChats((prev) => prev.filter((c) => c.id !== chat.id))
+      setMobileMenuChat(null)
+      toast.success("Chat removed")
+    } catch (err) {
+      console.error("Failed to remove chat:", err)
+      toast.error("Failed to remove chat")
+    } finally {
+      setRemovingChatId(null)
+    }
+  }
 
   // Subscribe to Global Chat unread count
   useEffect(() => {
@@ -230,7 +251,7 @@ export function ChatHub({
                   </div>
                   <h3 className="text-sm font-bold text-foreground mb-2">No Private Chats Yet</h3>
                   <p className="text-xs text-muted-foreground max-w-xs leading-relaxed">
-                    Click on a student's profile card in the <span className="font-bold text-primary">Leaderboard</span> or <span className="font-bold text-primary">Global Chat</span>, then select <span className="font-bold">Message Student</span> to start a private convo.
+                    Click on a student's profile card in the <span className="font-bold text-primary">Leaderboard</span>, then select <span className="font-bold">Message Student</span> to start a private convo.
                   </p>
                 </div>
               ) : (
@@ -248,7 +269,40 @@ export function ChatHub({
                   return (
                     <div
                       key={chat.id}
-                      onClick={() => setSelectedChat(chat)}
+                      onClick={() => {
+                        if (longPressTriggeredRef.current) {
+                          longPressTriggeredRef.current = false
+                          return
+                        }
+                        setSelectedChat(chat)
+                      }}
+                      onTouchStart={() => {
+                        longPressTriggeredRef.current = false
+                        if (longPressTimerRef.current) clearTimeout(longPressTimerRef.current)
+                        longPressTimerRef.current = setTimeout(() => {
+                          longPressTriggeredRef.current = true
+                          setMobileMenuChat(chat)
+                        }, 450)
+                      }}
+                      onTouchEnd={() => {
+                        if (longPressTimerRef.current) {
+                          clearTimeout(longPressTimerRef.current)
+                          longPressTimerRef.current = null
+                        }
+                      }}
+                      onTouchMove={() => {
+                        if (longPressTimerRef.current) {
+                          clearTimeout(longPressTimerRef.current)
+                          longPressTimerRef.current = null
+                        }
+                      }}
+                      onContextMenu={(e) => {
+                        if (typeof window !== "undefined" && window.innerWidth < 768) {
+                          e.preventDefault()
+                          longPressTriggeredRef.current = true
+                          setMobileMenuChat(chat)
+                        }
+                      }}
                       className={`flex items-center gap-3.5 p-4 rounded-2xl cursor-pointer transition-all hover:scale-[1.01] active:scale-[0.99] border relative overflow-hidden ${
                         unread > 0 
                           ? "bg-primary/5 border-primary/20 shadow-xs" 
@@ -309,11 +363,58 @@ export function ChatHub({
                           )}
                         </div>
                       </div>
+
+                      {/* Large Screen End-Side Delete / Remove Chat Button */}
+                      <button
+                        type="button"
+                        onClick={(e) => handleRemoveChat(chat, e)}
+                        disabled={removingChatId === chat.id}
+                        title="Remove chat"
+                        aria-label="Remove chat"
+                        className="hidden md:flex items-center justify-center w-9 h-9 rounded-xl bg-destructive/10 hover:bg-destructive hover:text-white text-destructive border border-destructive/20 transition-all shrink-0 cursor-pointer disabled:opacity-50"
+                      >
+                        <Trash2 className="w-4 h-4" />
+                      </button>
                     </div>
                   )
                 })
               )}
             </div>
+
+            {/* Small Screen Centered Delete Modal on Long-Press */}
+            {mobileMenuChat && (
+              <div
+                className="fixed inset-0 z-100 md:hidden bg-black/50 backdrop-blur-xs flex items-center justify-center p-4 animate-in fade-in duration-150"
+                onClick={() => setMobileMenuChat(null)}
+              >
+                <div
+                  className="w-full max-w-xs rounded-2xl bg-card border border-border p-4 shadow-2xl animate-in zoom-in-95 duration-200 space-y-3"
+                  onClick={(e) => e.stopPropagation()}
+                >
+                  <div className="flex items-center justify-between px-1 pb-2 border-b border-border/60">
+                    <span className="text-xs font-bold text-foreground truncate">
+                      {mobileMenuChat.userNames?.[mobileMenuChat.users.find((u) => u !== user.uid) || ""] || "Direct Chat"}
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setMobileMenuChat(null)}
+                      className="p-1 rounded-lg text-muted-foreground hover:text-foreground"
+                    >
+                      <X className="w-4 h-4" />
+                    </button>
+                  </div>
+                  <button
+                    type="button"
+                    disabled={removingChatId === mobileMenuChat.id}
+                    onClick={(e) => handleRemoveChat(mobileMenuChat, e)}
+                    className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl bg-destructive/10 hover:bg-destructive/20 text-destructive text-sm font-bold transition-colors"
+                  >
+                    <Trash2 className="w-4 h-4 shrink-0" />
+                    <span>{removingChatId === mobileMenuChat.id ? "Removing..." : "Remove Chat"}</span>
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         )}
       </div>

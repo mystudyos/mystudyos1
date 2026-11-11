@@ -22,3 +22,6 @@ description: Mandatory StudyOS project rules enforcing no Sparkles icon, append-
 4. **Theme Default**:
    - Default to Light Mode (`defaultTheme="light"`), especially on the Auth page, while keeping the theme toggle (`Sun`/`Moon`) on the Dashboard.
 
+5. **Git Workflow (`git pull` before `git push`)**:
+   - Always run `git pull` (or `git pull --rebase`) before running `git push` to synchronize remote commits and avoid merge conflicts.
+

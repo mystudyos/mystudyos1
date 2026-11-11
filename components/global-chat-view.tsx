@@ -11,7 +11,6 @@ import {
   subscribeToTyping,
   pinMessage,
   unpinMessage,
-  cleanupOldMessages,
   editMessage,
   subscribeToRecentMessages,
   subscribeToPinnedMessages,
@@ -151,8 +150,8 @@ const MessageItem = memo(function MessageItem({
           )}
 
           <div className="flex items-end gap-1.5 min-w-0">
-            {/* Actions for own messages (left side) */}
-            {isOwn && (
+            {/* Actions for own messages (left side — Admin only in Room Chat) */}
+            {isOwn && isAdmin && (
               <div className="flex items-center gap-0.5 transition-opacity">
                 <button
                   onClick={() => onEdit(msg)}
@@ -168,15 +167,13 @@ const MessageItem = memo(function MessageItem({
                 >
                   <Trash2 className="w-3 h-3 text-destructive" />
                 </button>
-                {isAdmin && (
-                  <button
-                    onClick={() => onPin(msg)}
-                    className="p-1 rounded-lg hover:bg-amber-500/20"
-                    title="Pin message"
-                  >
-                    <Pin className="w-3 h-3 text-amber-400" />
-                  </button>
-                )}
+                <button
+                  onClick={() => onPin(msg)}
+                  className="p-1 rounded-lg hover:bg-amber-500/20"
+                  title="Pin message"
+                >
+                  <Pin className="w-3 h-3 text-amber-400" />
+                </button>
               </div>
             )}
 
@@ -196,8 +193,8 @@ const MessageItem = memo(function MessageItem({
               {displayedText}
             </div>
 
-            {/* Actions for others' messages (right side) */}
-            {!isOwn && (
+            {/* Actions for others' messages (right side — Admin only in Room Chat) */}
+            {!isOwn && isAdmin && (
               <div className="flex items-center gap-0.5 transition-opacity">
                 <button
                   onClick={() => onReply(msg.id, msg.text, msg.displayName)}
@@ -206,24 +203,20 @@ const MessageItem = memo(function MessageItem({
                 >
                   <Reply className="w-3 h-3 text-muted-foreground hover:text-foreground transition-colors" />
                 </button>
-                {isAdmin && (
-                  <>
-                    <button
-                      onClick={() => onPin(msg)}
-                      className="p-1 rounded-lg hover:bg-amber-500/20"
-                      title="Pin message"
-                    >
-                      <Pin className="w-3 h-3 text-amber-400" />
-                    </button>
-                    <button
-                      onClick={() => onDelete(msg.id)}
-                      className="p-1 rounded-lg hover:bg-destructive/20"
-                      title="Delete message"
-                    >
-                      <Trash2 className="w-3 h-3 text-destructive" />
-                    </button>
-                  </>
-                )}
+                <button
+                  onClick={() => onPin(msg)}
+                  className="p-1 rounded-lg hover:bg-amber-500/20"
+                  title="Pin message"
+                >
+                  <Pin className="w-3 h-3 text-amber-400" />
+                </button>
+                <button
+                  onClick={() => onDelete(msg.id)}
+                  className="p-1 rounded-lg hover:bg-destructive/20"
+                  title="Delete message"
+                >
+                  <Trash2 className="w-3 h-3 text-destructive" />
+                </button>
               </div>
             )}
           </div>
@@ -580,10 +573,10 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
     }
   }, [])
 
-  // Send handler
+  // Send handler (Admin only for announcements and update releases)
   const handleSend = async () => {
     const trimmed = text.trim()
-    if (!trimmed || sending || cooldown || isBanned || hasForbiddenWords(trimmed)) return
+    if (!isAdmin || !trimmed || sending || cooldown || isBanned || hasForbiddenWords(trimmed)) return
     if (trimmed.length > 500) {
       toast.error("Message too long (max 500 characters)")
       return
@@ -871,12 +864,20 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
         </div>
       )}
 
-      {/* Input bar */}
-      {isBanned ? (
+      {/* Input bar (Admin-only for Room Chat announcements & update releases) */}
+      {!isAdmin ? (
+        <div className="px-4 py-3.5 border-t border-border bg-background shrink-0">
+          <div className="max-w-3xl mx-auto flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-muted/60 border border-border text-center">
+            <span className="text-xs text-muted-foreground font-semibold">
+              Only admins can post in Room Chat.
+            </span>
+          </div>
+        </div>
+      ) : isBanned ? (
         <div className="px-4 py-4 border-t border-white/5 bg-background">
           <div className="max-w-3xl mx-auto flex items-center gap-2 px-4 py-3 rounded-2xl bg-destructive/10 border border-destructive/20">
             <AlertTriangle className="w-4 h-4 text-destructive shrink-0" />
-            <span className="text-xs text-destructive font-medium">Your account is suspended. You cannot send messages.</span>
+            <span className="text-xs text-destructive font-medium">Account suspended. Messaging disabled.</span>
           </div>
         </div>
       ) : (
@@ -960,7 +961,7 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
           </div>
           {cooldown && (
             <p className="text-[9px] text-muted-foreground/40 mb-2 ml-6 font-medium max-w-3xl mx-auto w-full">
-              Cooldown — wait a moment...
+              Wait a moment...
             </p>
           )}
           {hasForbiddenWords(text) && (

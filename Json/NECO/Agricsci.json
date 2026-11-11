@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "The branch of agriculture that deals with the rearing of animals for food production is known as:",
+    "options": ["A. Agronomy", "B. Animal husbandry", "C. Horticulture", "D. Forestry"],
+    "answer": "B",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Subsistence agriculture is characterized primarily by:",
+    "options": ["A. Production for family consumption", "B. Large-scale mechanized farming", "C. Production for export markets", "D. Use of advanced biotechnology"],
+    "answer": "A",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a major problem militating against agricultural development in Nigeria?",
+    "options": ["A. Adequate land for farming", "B. Availability of improved seeds", "C. Poor storage facilities", "D. Government subsidy programs"],
+    "answer": "C",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The role of extension services in agriculture is mainly to:",
+    "options": ["A. Provide loans to farmers", "B. Construct feeder roads for farmers", "C. Manufacture farm equipment", "D. Disseminate innovations to farmers"],
+    "answer": "D",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Which of these is NOT a function of government in agricultural development?",
+    "options": ["A. Provision of agricultural credit facilities", "B. Establishment of research institutes", "C. Direct cultivation of all farmlands", "D. Fixing of prices for farm produce"],
+    "answer": "C",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Commercial agriculture differs from subsistence agriculture mainly in terms of:",
+    "options": ["A. Scale of production and purpose", "B. Type of crops cultivated", "C. Quality of soil used", "D. Number of labourers employed"],
+    "answer": "A",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "The Land Use Act of 1978 in Nigeria was primarily enacted to:",
+    "options": ["A. Increase agricultural productivity", "B. Vest all land in the state governor", "C. Encourage foreign land ownership", "D. Abolish communal land tenure"],
+    "answer": "B",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "Which non-governmental organization is associated with agricultural development in Nigeria?",
+    "options": ["A. Central Bank of Nigeria", "B. Federal Ministry of Agriculture", "C. Agricultural Development Projects", "D. Sasakawa Global 2000"],
+    "answer": "D",
+    "topic": "Basic Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "Which of these best describes the level of farm mechanization in subsistence farming?",
+    "options": ["A. High level of mechanization", "B. Low level of mechanization", "C. Complete use of tractors", "D. Use of aircraft for spraying"],
+    "answer": "B",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The Agricultural Credit Guarantee Scheme Fund was established to:",
+    "options": ["A. Guarantee loans to smallholder farmers", "B. Provide free seeds to farmers", "C. Construct storage facilities for farmers", "D. Train farmers on modern techniques"],
+    "answer": "A",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a solution to the problem of inadequate storage in agriculture?",
+    "options": ["A. Increasing farm sizes", "B. Adoption of shifting cultivation", "C. Construction of modern silos", "D. Use of organic fertilizers"],
+    "answer": "C",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "The primary aim of agricultural research institutes in Nigeria is to:",
+    "options": ["A. Distribute fertilizers to farmers", "B. Construct irrigation schemes", "C. Market agricultural produce", "D. Generate improved technologies"],
+    "answer": "D",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a characteristic feature of commercial agriculture?",
+    "options": ["A. Small land holdings", "B. Use of crude implements", "C. Large capital investment", "D. Production for family use"],
+    "answer": "C",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The role of non-governmental organizations in agricultural development includes:",
+    "options": ["A. Fixing agricultural produce prices", "B. Providing extension services to farmers", "C. Enacting agricultural laws", "D. Collecting agricultural taxes"],
+    "answer": "B",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a limitation of subsistence agriculture?",
+    "options": ["A. High yield per hectare", "B. Use of certified seeds", "C. Large-scale storage facilities", "D. Low output per farmer"],
+    "answer": "D",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The main objective of the Nigerian Agricultural Policy is to:",
+    "options": ["A. Achieve self-sufficiency in food production", "B. Increase importation of food items", "C. Reduce the number of farmers", "D. Abolish agricultural extension services"],
+    "answer": "A",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an agricultural law in Nigeria?",
+    "options": ["A. Education Act", "B. Health Insurance Act", "C. Land Use Act", "D. Mining Act"],
+    "answer": "C",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "The Green Revolution programme in Nigeria was aimed at:",
+    "options": ["A. Increasing food production", "B. Reducing agricultural exports", "C. Encouraging rural-urban migration", "D. Decreasing fertilizer production"],
+    "answer": "A",
+    "topic": "Basic Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Which of these best describes the relationship between agriculture and industry?",
+    "options": ["A. Industry supplies labour to agriculture", "B. Agriculture supplies raw materials to industry", "C. Agriculture competes with industry for land", "D. Industry provides seeds to agriculture"],
+    "answer": "B",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "A major constraint to agricultural mechanization in Nigeria is:",
+    "options": ["A. Availability of skilled operators", "B. Adequate supply of spare parts", "C. Government support for farmers", "D. Poor access to repair services"],
+    "answer": "D",
+    "topic": "Basic Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "The branch of biology that deals with the relationship between organisms and their environment is:",
+    "options": ["A. Botany", "B. Ecology", "C. Zoology", "D. Agronomy"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The process by which rocks are broken down into smaller particles is called:",
+    "options": ["A. Weathering", "B. Erosion", "C. Leaching", "D. Sedimentation"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Which soil type has the highest water-holding capacity?",
+    "options": ["A. Sandy soil", "B. Loamy soil", "C. Clay soil", "D. Gravel soil"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The layer of soil richest in humus is the:",
+    "options": ["A. B horizon", "B. C horizon", "C. D horizon", "D. A horizon"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a primary plant nutrient?",
+    "options": ["A. Nitrogen", "B. Sodium", "C. Silicon", "D. Aluminium"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The nitrogen cycle involves the conversion of nitrogen gas into nitrates by:",
+    "options": ["A. Denitrifying bacteria", "B. Nitrogen-fixing bacteria", "C. Decomposing fungi", "D. Nitrifying algae"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Irrigation is best described as:",
+    "options": ["A. Removal of excess water from soil", "B. Application of fertilizers to crops", "C. Artificial application of water to soil", "D. Cultivation of crops on slopes"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Which method of irrigation is most suitable for areas with scarce water supply?",
+    "options": ["A. Sprinkler irrigation", "B. Surface irrigation", "C. Flood irrigation", "D. Drip irrigation"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Drainage in agriculture is primarily carried out to:",
+    "options": ["A. Remove excess water from soil", "B. Increase soil moisture", "C. Add nutrients to soil", "D. Improve soil texture"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "Agricultural pollution can result from the excessive use of:",
+    "options": ["A. Organic manure", "B. Chemical fertilizers", "C. Crop rotation", "D. Cover cropping"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is an environmental factor affecting crop distribution?",
+    "options": ["A. Market prices", "B. Government policies", "C. Rainfall patterns", "D. Farmer education"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "Rock formation resulting from the cooling of molten magma is termed:",
+    "options": ["A. Sedimentary", "B. Metamorphic", "C. Organic", "D. Igneous"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The type of soil formed from the breakdown of limestone is likely to be:",
+    "options": ["A. Alkaline", "B. Acidic", "C. Neutral", "D. Saline"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is an agro-allied industry?",
+    "options": ["A. Textile industry", "B. Feed milling industry", "C. Cement industry", "D. Automobile industry"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "The relationship between agriculture and industry is best described as:",
+    "options": ["A. Competitive relationship", "B. Independent relationship", "C. Complementary relationship", "D. Adversarial relationship"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "The most suitable soil for crop production is:",
+    "options": ["A. Sandy soil", "B. Clay soil", "C. Gravelly soil", "D. Loamy soil"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "Soil erosion can be controlled by:",
+    "options": ["A. Contour ploughing", "B. Continuous grazing", "C. Bush burning", "D. Monocropping"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a macronutrient required by plants?",
+    "options": ["A. Copper", "B. Phosphorus", "C. Zinc", "D. Boron"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The process by which soluble salts are washed down through the soil profile is called:",
+    "options": ["A. Erosion", "B. Weathering", "C. Leaching", "D. Percolation"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Which of these is a source of soil organic matter?",
+    "options": ["A. Synthetic fertilizers", "B. Rock phosphate", "C. Lime", "D. Plant residues"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "Which factor is most important in determining the type of crop grown in an area?",
+    "options": ["A. Climate", "B. Soil colour", "C. Topography", "D. Farm size"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The use of cover crops in agriculture helps to:",
+    "options": ["A. Increase soil erosion", "B. Reduce soil erosion", "C. Decrease soil fertility", "D. Increase pest infestation"],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "Agricultural ecology is important because it:",
+    "options": ["A. Provides machines for farming operations", "B. Determines the price of agricultural produce", "C. Explains crop-environment relationships", "D. Regulates the marketing of farm products"],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is an effect of irrigation on soil?",
+    "options": ["A. It causes soil compaction", "B. It reduces soil salinity", "C. It decreases soil fertility", "D. It increases soil moisture"],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "Which of these is a type of drainage system?",
+    "options": ["A. Tile system", "B. Drip system", "C. Sprinkler system", "D. Furrow system"],
+    "answer": "A",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a simple farm tool?",
+    "options": ["A. Tractor", "B. Hoe", "C. Combine harvester", "D. Bulldozer"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "The instrument used for measuring soil moisture is:",
+    "options": ["A. Hygrometer", "B. Barometer", "C. Tensiometer", "D. Thermometer"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "A plough is a farm implement used for:",
+    "options": ["A. Harvesting crops", "B. Threshing grains", "C. Spraying pesticides", "D. Primary tillage operations"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "The tool used for pruning tree branches is:",
+    "options": ["A. Secateurs", "B. Cutlass", "C. Hoe", "D. Rake"],
+    "answer": "A",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Which of these is a precautionary measure in maintaining farm tools?",
+    "options": ["A. Leaving tools in the rain", "B. Regular cleaning after use", "C. Storing tools in damp places", "D. Using tools for wrong purposes"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Agricultural mechanization involves the use of:",
+    "options": ["A. Only human labour", "B. Only animal power", "C. Machinery to increase productivity", "D. Only hand tools"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "The main source of farm power in Nigerian smallholder farming is:",
+    "options": ["A. Mechanical power", "B. Solar energy", "C. Wind energy", "D. Human labour"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Farm surveying is primarily carried out to:",
+    "options": ["A. Determine the size and shape of land", "B. Determine soil fertility", "C. Control pests in the field", "D. Market agricultural produce"],
+    "answer": "A",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Which surveying equipment is used for measuring angles?",
+    "options": ["A. Measuring tape", "B. Theodolite", "C. Surveyor's chain", "D. Ranging pole"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Farm planning involves:",
+    "options": ["A. Marketing of farm produce", "B. Construction of farm buildings", "C. Organization of farm resources", "D. Application of fertilizers"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is considered in farmstead planning?",
+    "options": ["A. Soil colour", "B. Crop variety", "C. Fertilizer type", "D. Proximity to market"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "A tractor is primarily used for:",
+    "options": ["A. Pulling farm implements", "B. Harvesting crops", "C. Spraying weeds", "D. Storing produce"],
+    "answer": "A",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is a harvesting implement?",
+    "options": ["A. Harrow", "B. Combine harvester", "C. Plough", "D. Ridger"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Maintenance of farm machinery includes:",
+    "options": ["A. Deliberate misuse", "B. Abandonment after use", "C. Regular servicing", "D. Storage in wet places"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "The main advantage of agricultural mechanization is:",
+    "options": ["A. Reduction of farm produce quality", "B. Increase in farm labour", "C. Decrease in farm size", "D. Increase in production efficiency"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 61,
+    "question": "Which of these tools is used for digging?",
+    "options": ["A. Spade", "B. Rake", "C. Shears", "D. Sickle"],
+    "answer": "A",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The use of animal power for farming is best described as:",
+    "options": ["A. Mechanization", "B. Draft animal technology", "C. Tractarization", "D. Motorization"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is used for spraying crops?",
+    "options": ["A. Hoe", "B. Cutlass", "C. Knapsack sprayer", "D. Digger"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Which implements are used for secondary tillage?",
+    "options": ["A. Plough and harrow", "B. Plough and ridger", "C. Tractor and plough", "D. Harrow and ridger"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "Which of these is NOT a benefit of farm planning?",
+    "options": ["A. Efficient use of farm resources", "B. Reduction of production losses", "C. Increased likelihood of pest attack", "D. Better decision making"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The instrument used for measuring land slope is:",
+    "options": ["A. Theodolite", "B. Abney level", "C. Surveyor's chain", "D. Ranging pole"],
+    "answer": "B",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "The main function of a harrow is to:",
+    "options": ["A. Break up soil clods", "B. Make ridges", "C. Harvest crops", "D. Spray pesticides"],
+    "answer": "A",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is a precautionary measure when operating a tractor?",
+    "options": ["A. Overloading the tractor", "B. Speeding on rough terrain", "C. Checking oil levels regularly", "D. Using wrong gears"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "The part of a plough that cuts through the soil is the:",
+    "options": ["A. Mouldboard", "B. Landside", "C. Beam", "D. Share"],
+    "answer": "D",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "Farm mechanization in Nigeria is limited by all of these EXCEPT:",
+    "options": ["A. High cost of machinery", "B. Inadequate skilled operators", "C. Availability of spare parts", "D. Small farm sizes"],
+    "answer": "C",
+    "topic": "Agricultural Engineering/Mechanization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Crops are classified as cereals based on:",
+    "options": ["A. Seed structure", "B. Growth habit", "C. Use of the produce", "D. Root system"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is a cereal crop?",
+    "options": ["A. Cowpea", "B. Maize", "C. Cassava", "D. Tomato"],
+    "answer": "B",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "A leguminous crop is grown mainly for:",
+    "options": ["A. Nitrogen fixation", "B. Fibre production", "C. Sugar production", "D. Oil extraction"],
+    "answer": "A",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The best time to plant maize in the rainforest zone of Nigeria is:",
+    "options": ["A. Beginning of dry season", "B. End of rainy season", "C. Beginning of rainy season", "D. Peak of dry season"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "Which of these is a root tuber crop?",
+    "options": ["A. Maize", "B. Rice", "C. Millet", "D. Yam"],
+    "answer": "D",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Crop rotation helps to:",
+    "options": ["A. Maintain soil fertility", "B. Increase soil erosion", "C. Deplete soil nutrients", "D. Encourage pest buildup"],
+    "answer": "A",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Pasture refers to:",
+    "options": ["A. Land used for cash crops", "B. Grassland used for grazing", "C. Forest reserved for timber", "D. Land used for buildings"],
+    "answer": "B",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 78,
+    "question": "Crop improvement is aimed at:",
+    "options": ["A. Reducing resistance to pests", "B. Increasing crop maturity period", "C. Increasing crop yield", "D. Reducing crop quality"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "Which of these is a vegetative planting material?",
+    "options": ["A. Seed", "B. Fruit", "C. Flower", "D. Stem cutting"],
+    "answer": "D",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "A nursery is established mainly for:",
+    "options": ["A. Raising young seedlings", "B. Storage of harvested crops", "C. Processing farm produce", "D. Marketing of crops"],
+    "answer": "A",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "The spacing of crops in a field determines:",
+    "options": ["A. Soil type", "B. Plant population", "C. Rain amount", "D. Sun position"],
+    "answer": "B",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Which of these crops is a cash crop?",
+    "options": ["A. Cassava", "B. Yam", "C. Cocoa", "D. Maize"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "Mulching is the practice of:",
+    "options": ["A. Removing plant residues", "B. Ploughing the soil deeply", "C. Applying fertilizers", "D. Covering the soil surface"],
+    "answer": "D",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "Which of these is NOT a pasture crop?",
+    "options": ["A. Cassava", "B. Elephant grass", "C. Guinea grass", "D. Stylo"],
+    "answer": "A",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Intercropping involves:",
+    "options": ["A. Growing one crop only", "B. Growing two or more crops together", "C. Planting crops in rows", "D. Harvesting crops together"],
+    "answer": "B",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is an advantage of crop rotation?",
+    "options": ["A. Continuous depletion of nutrients", "B. Increased erosion of soil", "C. Control of soil-borne pests", "D. Uniform planting depths"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Transplanting is best carried out:",
+    "options": ["A. At peak of dry season", "B. During heavy rains", "C. In hot afternoon", "D. During cool weather"],
+    "answer": "D",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "The process of removing excess seedlings from a planted field is:",
+    "options": ["A. Thinning", "B. Weeding", "C. Mulching", "D. Pruning"],
+    "answer": "A",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is a tuber crop?",
+    "options": ["A. Rice", "B. Irish potato", "C. Groundnut", "D. Cotton"],
+    "answer": "B",
+    "topic": "Crop Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "Crop improvement through the selection of desirable traits is called:",
+    "options": ["A. Fertilization", "B. Germination", "C. Selection breeding", "D. Propagation"],
+    "answer": "C",
+    "topic": "Crop Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "Forestry deals with the:",
+    "options": ["A. Processing of livestock feed", "B. Marketing of agricultural produce", "C. Production of farm tools", "D. Management of forest resources"],
+    "answer": "D",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Which of these is a forest product?",
+    "options": ["A. Timber", "B. Maize", "C. Milk", "D. Eggs"],
+    "answer": "A",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "Agroforestry refers to:",
+    "options": ["A. Complete destruction of forests", "B. Combination of crops and trees", "C. Pure cultivation of trees", "D. Harvesting of wild animals"],
+    "answer": "B",
+    "topic": "Forestry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Which of these is a benefit of forests?",
+    "options": ["A. Pollution of water bodies", "B. Increase in desertification", "C. Prevention of soil erosion", "D. Reduction of rainfall"],
+    "answer": "C",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "Silviculture is the:",
+    "options": ["A. Processing of timber", "B. Marketing of forest products", "C. Harvesting of wild fruits", "D. Cultivation of forest trees"],
+    "answer": "D",
+    "topic": "Forestry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "Which tree species is grown for timber production in Nigeria?",
+    "options": ["A. Iroko", "B. Cassava", "C. Maize", "D. Cowpea"],
+    "answer": "A",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "Afforestation is the:",
+    "options": ["A. Clearing of forests", "B. Planting of trees in new areas", "C. Burning of forest vegetation", "D. Grazing of animals in forests"],
+    "answer": "B",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "A forest reserve is established to:",
+    "options": ["A. Encourage deforestation", "B. Promote bush burning", "C. Conserve forest resources", "D. Provide grazing for livestock"],
+    "answer": "C",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "Which of these is a non-timber forest product?",
+    "options": ["A. Timber", "B. Plank", "C. Sawdust", "D. Latex"],
+    "answer": "D",
+    "topic": "Forestry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Deforestation can be controlled by:",
+    "options": ["A. Planting more trees", "B. Burning forests", "C. Clearing more land", "D. Grazing in forests"],
+    "answer": "A",
+    "topic": "Forestry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "Ornamental plants are grown mainly for:",
+    "options": ["A. Food production", "B. Aesthetic purposes", "C. Timber production", "D. Medicinal purposes"],
+    "answer": "B",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is an ornamental plant?",
+    "options": ["A. Maize", "B. Cassava", "C. Hibiscus", "D. Rice"],
+    "answer": "C",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "Ornamental plants are best located:",
+    "options": ["A. In the middle of farms", "B. In grazing fields", "C. In swampy areas", "D. Along roadsides and gardens"],
+    "answer": "D",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "Vegetative propagation of ornamental plants is done by:",
+    "options": ["A. Stem cutting and budding", "B. Seed sowing only", "C. Harvesting", "D. Pruning only"],
+    "answer": "A",
+    "topic": "Ornamental Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "A garden should be located:",
+    "options": ["A. In waterlogged areas", "B. Near a source of water", "C. Far from the homestead", "D. On steep hills"],
+    "answer": "B",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is a maintenance practice for ornamental plants?",
+    "options": ["A. Harvesting", "B. Threshing", "C. Weeding", "D. Milling"],
+    "answer": "C",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "Which of these is NOT an ornamental plant?",
+    "options": ["A. Rose", "B. Croton", "C. Ixora", "D. Rice"],
+    "answer": "D",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "The best method of propagating ornamentals for rapid multiplication is:",
+    "options": ["A. Vegetative propagation", "B. Seed sowing", "C. Grafting only", "D. Layering only"],
+    "answer": "A",
+    "topic": "Ornamental Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Flowers are best used for:",
+    "options": ["A. Timber production", "B. Decorative purposes", "C. Livestock feed", "D. Soil improvement"],
+    "answer": "B",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "The importance of ornamental plants in the environment is:",
+    "options": ["A. Increasing pollution", "B. Reducing crop yields", "C. Beautification", "D. Causing erosion"],
+    "answer": "C",
+    "topic": "Ornamental Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "Pests are organisms that:",
+    "options": ["A. Help crop growth", "B. Improve soil fertility", "C. Increase crop yield", "D. Destroy crops"],
+    "answer": "D",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "Which of these is a crop disease?",
+    "options": ["A. Rust", "B. Weeding", "C. Tilling", "D. Harvesting"],
+    "answer": "A",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Weeds are:",
+    "options": ["A. Beneficial plants to crops", "B. Undesirable plants in fields", "C. Improved crop varieties", "D. Soil nutrients"],
+    "answer": "B",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "A common method of weed control in agriculture is:",
+    "options": ["A. Application of fertilizers", "B. Application of insecticides", "C. Application of herbicides", "D. Application of fungicides"],
+    "answer": "C",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "Crop rotation helps in pest control by:",
+    "options": ["A. Increasing pest buildup", "B. Attracting more pests", "C. Increasing disease spread", "D. Breaking pest life cycles"],
+    "answer": "D",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "The use of chemicals to control pests is known as:",
+    "options": ["A. Chemical control", "B. Biological control", "C. Cultural control", "D. Mechanical control"],
+    "answer": "A",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is a beneficial insect in agriculture?",
+    "options": ["A. Locust", "B. Ladybird beetle", "C. Aphid", "D. Stem borer"],
+    "answer": "B",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Cultural control of pests involves:",
+    "options": ["A. Use of chemicals", "B. Use of predators", "C. Use of pest-resistant varieties", "D. Use of traps"],
+    "answer": "C",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Weed control by hand pulling is an example of:",
+    "options": ["A. Chemical control", "B. Biological control", "C. Cultural control", "D. Mechanical control"],
+    "answer": "D",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Striga is a parasitic weed commonly found on:",
+    "options": ["A. Maize", "B. Cocoa", "C. Tomato", "D. Cassava"],
+    "answer": "A",
+    "topic": "Crop Protection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "Which of these is a viral disease of crops?",
+    "options": ["A. Cassava rot", "B. Maize streak", "C. Tomato blight", "D. Rice blast"],
+    "answer": "B",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "An insect pest of stored produce is:",
+    "options": ["A. Aphid", "B. Ladybird beetle", "C. Weevil", "D. Butterfly"],
+    "answer": "C",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "The use of resistant crop varieties is an example of:",
+    "options": ["A. Chemical control", "B. Biological control", "C. Physical control", "D. Cultural control"],
+    "answer": "D",
+    "topic": "Crop Protection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Fungicides are chemicals used to control:",
+    "options": ["A. Fungi", "B. Insects", "C. Weeds", "D. Rodents"],
+    "answer": "A",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "Which of these is an effect of weeds on crops?",
+    "options": ["A. Increased crop yield", "B. Competition for nutrients", "C. Improved soil fertility", "D. Pest control"],
+    "answer": "B",
+    "topic": "Crop Protection",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "Farm animals are classified as ruminants based on their:",
+    "options": ["A. Skin type", "B. Reproductive system", "C. Digestive system", "D. Body size"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "Which of the following is a ruminant animal?",
+    "options": ["A. Pig", "B. Poultry", "C. Rabbit", "D. Cattle"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "Which of these is a monogastric animal?",
+    "options": ["A. Poultry", "B. Sheep", "C. Goat", "D. Cattle"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "The reproductive process in animals involves:",
+    "options": ["A. Feeding and drinking", "B. Fertilization and gestation", "C. Sleeping and waking", "D. Breathing and sweating"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Animal nutrition deals with:",
+    "options": ["A. Housing of animals", "B. Diseases of animals", "C. Feeding of animals", "D. Breeding of animals"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "question": "Which nutrient is required in largest quantity by livestock?",
+    "options": ["A. Vitamins", "B. Minerals", "C. Proteins", "D. Water"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Which of these is a source of protein in animal feed?",
+    "options": ["A. Groundnut cake", "B. Maize", "C. Cassava flour", "D. Rice bran"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Rangeland management involves:",
+    "options": ["A. Destruction of pasture", "B. Proper use of pasture land", "C. Marketing of livestock", "D. Housing of animals"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Which of these is a method of animal improvement?",
+    "options": ["A. Feeding", "B. Housing", "C. Culling", "D. Watering"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Animal health management includes:",
+    "options": ["A. Reducing feed supply", "B. Increasing farm size", "C. Marketing animals", "D. Disease prevention and control"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "Aquaculture is the farming of:",
+    "options": ["A. Fish", "B. Birds", "C. Cattle", "D. Goats"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Apiculture involves the rearing of:",
+    "options": ["A. Snails", "B. Bees", "C. Fish", "D. Rabbits"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "The major product of bee keeping is:",
+    "options": ["A. Milk", "B. Eggs", "C. Honey", "D. Meat"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "Which of these is a disease of poultry?",
+    "options": ["A. Foot rot", "B. Mastitis", "C. Bloat", "D. Newcastle disease"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Culling in livestock management is the:",
+    "options": ["A. Removal of unproductive animals", "B. Selection of breeding animals", "C. Feeding of young animals", "D. Housing of sick animals"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Debeaking is a routine management practice in:",
+    "options": ["A. Cattle rearing", "B. Poultry production", "C. Pig farming", "D. Fish farming"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "Castration in farm animals is carried out to:",
+    "options": ["A. Increase reproduction", "B. Increase milk yield", "C. Improve meat quality", "D. Improve egg laying"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Which of these is an animal by-product?",
+    "options": ["A. Milk", "B. Eggs", "C. Grass", "D. Hides"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Feed conversion ratio measures:",
+    "options": ["A. Feed consumed per unit of output", "B. Number of animals per pen", "C. Amount of water consumed", "D. Rate of animal reproduction"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "Which of the following is a common internal parasite of farm animals?",
+    "options": ["A. Tick", "B. Roundworm", "C. Flea", "D. Louse"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "The gestation period of cattle is approximately:",
+    "options": ["A. 1 month", "B. 3 months", "C. 9 months", "D. 12 months"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Which animal is kept mainly for milk production?",
+    "options": ["A. Poultry", "B. Rabbit", "C. Fish", "D. Cattle"],
+    "answer": "D",
+    "topic": "Animal Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "The organ responsible for filtering blood in farm animals is the:",
+    "options": ["A. Kidney", "B. Liver", "C. Heart", "D. Lungs"],
+    "answer": "A",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Which of these is a management practice in aquaculture?",
+    "options": ["A. Debeaking", "B. Pond stocking and feeding", "C. Castration", "D. Ear notching"],
+    "answer": "B",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "Animal improvement through crossbreeding aims to:",
+    "options": ["A. Reduce animal productivity", "B. Weaken animal immunity", "C. Combine desirable traits of breeds", "D. Increase disease spread"],
+    "answer": "C",
+    "topic": "Animal Production",
+    "difficulty": "Medium"
+  }
+]
