@@ -1,28 +1,88 @@
 "use client"
 
-import { useState, useEffect, useCallback, useRef } from "react"
+import { useState, useMemo, useEffect, useCallback, useRef } from "react"
 import {
   ArrowLeft,
   ChevronLeft,
   ChevronRight,
   Clock,
   AlertTriangle,
-  Loader2,
+  AlertCircle,
 } from "lucide-react"
 import { QuizStartWarning } from "./quiz-start-warning"
 import { MathText } from "./math-text"
 import {
   getSSSSubjectByKey,
   type SSSExamType,
+  type SSSPaperType,
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 import { shuffleArray, type Question } from "@/lib/question-types"
-import { readCache, writeCache } from "@/lib/cache"
+import necoAgricJson from "../Json/NECO/Agricsci.json"
+import necoBiologyJson from "../Json/NECO/Biology.json"
+import necoChemistryJson from "../Json/NECO/Chemistry.json"
+
+interface RawJsonQuestion {
+  id: number | string
+  question?: string
+  options?: string[]
+  answer?: string
+  topic?: string
+  difficulty?: string
+}
+
+function mapNecoJsonToQuestions(
+  json: RawJsonQuestion[],
+  subjectKey: SSSSubjectKey,
+  examType: SSSExamType
+): Question[] {
+  return json.map((q) => {
+    const correctChar = q.answer ? q.answer.trim().charAt(0).toUpperCase() : "A"
+    let originalCorrectIndex = 0
+    if (correctChar === "B") originalCorrectIndex = 1
+    else if (correctChar === "C") originalCorrectIndex = 2
+    else if (correctChar === "D") originalCorrectIndex = 3
+
+    const cleanedOptions = (q.options || []).map((opt) =>
+      opt.replace(/^[A-D]\.\s*/, "")
+    )
+
+    // Fisher-Yates shuffle options while preserving the correct answer index
+    const indexed = cleanedOptions.map((opt, i) => ({
+      opt,
+      wasCorrect: i === originalCorrectIndex,
+    }))
+    for (let i = indexed.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[indexed[i], indexed[j]] = [indexed[j], indexed[i]]
+    }
+
+    const shuffledOptions = indexed.map((item) => item.opt)
+    const newCorrectIndex = indexed.findIndex((item) => item.wasCorrect)
+
+    return {
+      id: `${examType}-${subjectKey}-solid-${q.id}`,
+      subject: subjectKey,
+      topic: q.topic || "General",
+      question: q.question || "",
+      options: shuffledOptions,
+      correctIndex: newCorrectIndex >= 0 ? newCorrectIndex : 0,
+      explanation: `The correct answer is ${shuffledOptions[newCorrectIndex] || ""}.`,
+      usesLatex: false,
+    }
+  })
+}
+
+const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
+  agriculture: necoAgricJson as RawJsonQuestion[],
+  biology: necoBiologyJson as RawJsonQuestion[],
+  chemistry: necoChemistryJson as RawJsonQuestion[],
+}
 
 interface SSSSolidQuizProps {
   subjectKey: SSSSubjectKey
   examType: SSSExamType
-  year: string
+  paperType?: SSSPaperType
   questionCount: number
   timeLimit: number
   onBack: () => void
@@ -40,7 +100,7 @@ interface SSSSolidQuizProps {
 export function SSSSolidQuiz({
   subjectKey,
   examType,
-  year,
+  paperType = "objective",
   questionCount,
   timeLimit,
   onBack,
@@ -49,15 +109,26 @@ export function SSSSolidQuiz({
   const subject = getSSSSubjectByKey(subjectKey)
   const examLabel =
     examType === "wassce" ? "WAEC" : examType === "neco" ? "NECO" : "JAMB"
-  const topicLabel =
-    year && year !== "all"
-      ? `${examLabel} (${year}) — Exam Practice`
-      : `${examLabel} — Full Syllabus`
+  const paperLabel = paperType === "theory" ? "Theory" : "Objective"
+  const topicLabel = `${examLabel} ${paperLabel} — Full Syllabus`
 
-  const [questions, setQuestions] = useState<Question[]>([])
-  const [loading, setLoading] = useState(true)
+  const questions = useMemo(() => {
+    if (examType !== "neco" || paperType !== "objective") {
+      return []
+    }
+    const rawPool = NECO_JSON_POOLS[subjectKey]
+    if (!rawPool || rawPool.length === 0) {
+      return []
+    }
+    const mapped = mapNecoJsonToQuestions(rawPool, subjectKey, examType)
+    const shuffled = shuffleArray(mapped)
+    return shuffled.slice(0, Math.min(questionCount, shuffled.length))
+  }, [subjectKey, examType, paperType, questionCount])
+
   const [currentIdx, setCurrentIdx] = useState(0)
-  const [answers, setAnswers] = useState<(number | null)[]>([])
+  const [answers, setAnswers] = useState<(number | null)[]>(() =>
+    Array(questions.length).fill(null)
+  )
   const [timeLeft, setTimeLeft] = useState(timeLimit * 60)
   const [submitted, setSubmitted] = useState(false)
   const [showConfirm, setShowConfirm] = useState(false)
@@ -65,50 +136,15 @@ export function SSSSolidQuiz({
   const timerRef = useRef<NodeJS.Timeout | null>(null)
 
   useEffect(() => {
-    let active = true
-    const cacheKey = `sss_q_${subjectKey}_${examType}_${year}`
-    const cached = readCache<Question[]>(cacheKey, "session")
-
-    if (cached && cached.length > 0) {
-      const shuffled = shuffleArray(cached)
-      const sliced = shuffled.slice(0, Math.min(questionCount, shuffled.length))
-      setQuestions(sliced)
-      setAnswers(Array(sliced.length).fill(null))
-      setLoading(false)
-      return
-    }
-
-    setLoading(true)
-    fetch(
-      `/api/sdash/questions?subject=${encodeURIComponent(subjectKey)}&type=${encodeURIComponent(examType)}&year=${encodeURIComponent(year)}&limit=50`
-    )
-      .then((r) => r.json())
-      .then((data) => {
-        if (!active) return
-        const list: Question[] = Array.isArray(data?.questions) ? data.questions : []
-        if (list.length > 0) {
-          writeCache(cacheKey, list, "session", 30 * 60 * 1000)
-        }
-        const shuffled = shuffleArray(list)
-        const sliced = shuffled.slice(0, Math.min(questionCount, shuffled.length))
-        setQuestions(sliced)
-        setAnswers(Array(sliced.length).fill(null))
-      })
-      .catch((err) => {
-        console.error("Failed to fetch SSS exam questions:", err)
-      })
-      .finally(() => {
-        if (active) setLoading(false)
-      })
-
-    return () => {
-      active = false
-    }
-  }, [subjectKey, examType, year, questionCount])
+    setCurrentIdx(0)
+    setAnswers(Array(questions.length).fill(null))
+    setTimeLeft(timeLimit * 60)
+    setSubmitted(false)
+  }, [questions.length, timeLimit])
 
   // Timer
   useEffect(() => {
-    if (loading || submitted || showStartWarning || questions.length === 0) return
+    if (submitted || showStartWarning || questions.length === 0) return
     timerRef.current = setInterval(() => {
       setTimeLeft((t) => {
         if (t <= 1) {
@@ -121,7 +157,7 @@ export function SSSSolidQuiz({
     return () => {
       if (timerRef.current) clearInterval(timerRef.current)
     }
-  }, [loading, submitted, showStartWarning, questions.length])
+  }, [submitted, showStartWarning, questions.length])
 
   const handleSubmit = useCallback(() => {
     setSubmitted(true)
@@ -146,16 +182,28 @@ export function SSSSolidQuiz({
     if (timeLeft === 0 && !submitted && questions.length > 0) handleSubmit()
   }, [timeLeft, submitted, questions.length, handleSubmit])
 
-  if (loading) {
+  if (questions.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-[70vh] px-6 text-center">
-        <Loader2 className="w-8 h-8 animate-spin text-primary mb-3" />
-        <p className="text-sm font-bold text-foreground">
-          Preparing {subject.name} ({examLabel}) CBT Simulation...
+      <div className="min-h-full flex flex-col items-center justify-center px-8 text-center">
+        <div className="w-20 h-20 rounded-3xl bg-amber-500/10 flex items-center justify-center mb-6">
+          <AlertCircle className="w-10 h-10 text-amber-400" />
+        </div>
+        <h2 className="text-2xl font-bold text-foreground mb-3">
+          Not Available Now
+        </h2>
+        <p className="text-muted-foreground leading-relaxed mb-8 max-w-70">
+          Exam practice questions for{" "}
+          <span className="text-foreground font-semibold">
+            {subject.name} ({examLabel} {paperLabel})
+          </span>{" "}
+          are not available right now. Please check back soon!
         </p>
-        <p className="text-xs text-muted-foreground mt-1">
-          Loading timed past questions
-        </p>
+        <button
+          onClick={onBack}
+          className="w-full max-w-60 py-4 rounded-2xl bg-primary text-primary-foreground font-bold text-sm shadow-xl shadow-primary/20 active:scale-95 transition-all cursor-pointer"
+        >
+          Go Back
+        </button>
       </div>
     )
   }
@@ -191,7 +239,7 @@ export function SSSSolidQuiz({
           </button>
           <div className="text-center">
             <p className="text-xs text-muted-foreground">
-              {subject.name} • {examLabel}
+              {subject.name} • {examLabel} {paperLabel}
             </p>
             <p className="text-sm font-semibold text-foreground">
               Q {currentIdx + 1}/{questions.length}

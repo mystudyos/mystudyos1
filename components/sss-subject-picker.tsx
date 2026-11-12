@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { ArrowLeft, AlertCircle } from "lucide-react"
-import { SSS_SUBJECTS, type SSSSubjectKey } from "@/lib/sss-config"
+import { SSS_SUBJECTS, isSSSSubjectAvailable, type SSSSubjectKey } from "@/lib/sss-config"
 
 const LetterIcon = ({ letter }: { letter: string }) => (
   <span className="font-bold text-base leading-none tracking-tight select-none">
@@ -15,7 +15,7 @@ interface SSSSubjectPickerProps {
   onBack: () => void
 }
 
-export function SSSSubjectPicker({ onBack }: SSSSubjectPickerProps) {
+export function SSSSubjectPicker({ onSelect, onBack }: SSSSubjectPickerProps) {
   const [notAvailableSubject, setNotAvailableSubject] = useState<string | null>(null)
 
   return (
@@ -71,33 +71,44 @@ export function SSSSubjectPicker({ onBack }: SSSSubjectPickerProps) {
       <div className="px-5 mb-5 mt-5 max-w-2xl mx-auto w-full">
         <div className="glass rounded-2xl p-4 border border-white/5">
           <p className="text-sm text-muted-foreground leading-relaxed">
-            <span className="text-foreground font-medium">Exam Simulation</span> — Pick a subject, choose WAEC, NECO, or JAMB, and test yourself under real exam conditions.
+            <span className="text-foreground font-medium">Exam Simulation</span> — Pick an available SSS subject, choose Objective or Theory, and test yourself under real exam conditions.
           </p>
         </div>
       </div>
 
-      {/* Subject cards (All 27 SdashAPI subjects) */}
+      {/* Subject cards */}
       <div className="px-5 space-y-3 lg:grid lg:grid-cols-2 lg:gap-4 lg:space-y-0 max-w-2xl mx-auto w-full">
-        {SSS_SUBJECTS.map((subject) => (
-          <button
-            key={subject.key}
-            onClick={() => setNotAvailableSubject(subject.name)}
-            className={`w-full flex items-center gap-4 p-4 rounded-2xl border bg-linear-to-r ${subject.cardGradient} hover:scale-[1.02] transition-all duration-200 active:scale-[0.98] cursor-pointer`}
-          >
-            <div
-              className={`w-12 h-12 rounded-xl glass flex items-center justify-center ${subject.color}`}
+        {SSS_SUBJECTS.map((subject) => {
+          const available = isSSSSubjectAvailable(subject.key)
+          return (
+            <button
+              key={subject.key}
+              onClick={() => {
+                if (available) {
+                  onSelect(subject.key)
+                } else {
+                  setNotAvailableSubject(subject.name)
+                }
+              }}
+              className={`w-full flex items-center gap-4 p-4 rounded-2xl border bg-linear-to-r ${subject.cardGradient} hover:scale-[1.02] transition-all duration-200 active:scale-[0.98] cursor-pointer ${
+                !available ? "opacity-75" : ""
+              }`}
             >
-              <LetterIcon letter={subject.letter} />
-            </div>
-            <div className="text-left flex-1">
-              <p className="font-semibold text-foreground">{subject.name}</p>
-              <p className="text-xs text-muted-foreground mt-0.5">
-                WAEC • NECO • JAMB (UTME)
-              </p>
-            </div>
-            <ArrowLeft className="w-4 h-4 text-muted-foreground rotate-180" />
-          </button>
-        ))}
+              <div
+                className={`w-12 h-12 rounded-xl glass flex items-center justify-center ${subject.color}`}
+              >
+                <LetterIcon letter={subject.letter} />
+              </div>
+              <div className="text-left flex-1">
+                <p className="font-semibold text-foreground">{subject.name}</p>
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  {available ? "NECO • Objective" : "Coming Soon"}
+                </p>
+              </div>
+              <ArrowLeft className="w-4 h-4 text-muted-foreground rotate-180" />
+            </button>
+          )
+        })}
       </div>
     </div>
   )

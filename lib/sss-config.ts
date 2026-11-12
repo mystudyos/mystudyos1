@@ -28,6 +28,35 @@ export type SSSSubjectKey =
   | "yoruba"
 
 export type SSSExamType = "wassce" | "neco" | "utme"
+export type SSSPaperType = "objective" | "theory"
+
+// Subjects that currently have verified internal JSON question banks under Json/NECO/
+export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey[]> = {
+  neco: ["agriculture", "biology", "chemistry"],
+  wassce: [],
+  utme: [],
+}
+
+export const AVAILABLE_SSS_THEORY_SUBJECTS: Record<Exclude<SSSExamType, "utme">, SSSSubjectKey[]> = {
+  neco: [],
+  wassce: [],
+}
+
+export function isSSSSubjectAvailable(key: SSSSubjectKey): boolean {
+  return Object.values(AVAILABLE_SSS_OBJECTIVE_SUBJECTS).some((list) => list.includes(key))
+}
+
+export function isSSSPaperAvailable(
+  subjectKey: SSSSubjectKey,
+  examType: SSSExamType,
+  paperType: SSSPaperType
+): boolean {
+  if (paperType === "theory") {
+    if (examType === "utme") return false
+    return AVAILABLE_SSS_THEORY_SUBJECTS[examType].includes(subjectKey)
+  }
+  return AVAILABLE_SSS_OBJECTIVE_SUBJECTS[examType].includes(subjectKey)
+}
 
 export interface SSSSubjectInfo {
   key: SSSSubjectKey
@@ -74,30 +103,34 @@ export const SSS_EXAM_OPTIONS: {
   label: string
   badge: string
   description: string
+  enabled: boolean
+  supportsTheory: boolean
 }[] = [
   {
     type: "wassce",
     label: "WAEC (WASSCE)",
     badge: "SSCE",
-    description: "West African Senior School Certificate Examination past questions (1988–2026)",
+    description: "West African Senior School Certificate Examination (Objective & Theory)",
+    enabled: false,
+    supportsTheory: true,
   },
   {
     type: "neco",
     label: "NECO",
     badge: "SSCE",
-    description: "National Examinations Council Senior School Certificate past questions (1988–2026)",
+    description: "National Examinations Council Senior School Certificate (Objective & Theory)",
+    enabled: true,
+    supportsTheory: true,
   },
   {
     type: "utme",
     label: "JAMB (UTME)",
     badge: "UTME",
-    description: "Unified Tertiary Matriculation Examination CBT past questions (1988–2026)",
+    description: "Unified Tertiary Matriculation Examination CBT (Objective Only)",
+    enabled: false,
+    supportsTheory: false,
   },
 ]
-
-export const SSS_YEARS: string[] = Array.from({ length: 2026 - 1988 + 1 }, (_, i) =>
-  String(2026 - i)
-)
 
 export function getSSSSubjectByKey(key: SSSSubjectKey): SSSSubjectInfo {
   return SSS_SUBJECTS.find((s) => s.key === key) || SSS_SUBJECTS[0]

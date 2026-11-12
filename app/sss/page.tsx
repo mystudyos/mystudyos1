@@ -34,6 +34,7 @@ import { recordQuizResult, updateUserPresence, ensureUserStats } from "@/lib/use
 import {
   getSSSSubjectByKey,
   type SSSExamType,
+  type SSSPaperType,
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 import type { Question } from "@/lib/question-types"
@@ -112,8 +113,9 @@ const NAV_ITEMS: { tab: Tab; icon: typeof Home; label: string }[] = [
 ]
 
 const SSS_QUESTION_COUNTS = [
-  { count: 25, label: "Standard Drill", duration: "25 mins" },
-  { count: 50, label: "Full CBT Exam Simulation", duration: "50 mins" },
+  { count: 20, label: "Quick Objective Drill", duration: "20 mins" },
+  { count: 40, label: "Standard Objective Session", duration: "40 mins" },
+  { count: 60, label: "Full Objective CBT Simulation", duration: "60 mins" },
 ]
 
 export default function StudyOSSSSPage() {
@@ -141,11 +143,11 @@ export default function StudyOSSSSPage() {
   }, [screen, setTheme])
 
   // SSS Quiz flow state
-  const [selectedSubject, setSelectedSubject] = useState<SSSSubjectKey>("mathematics")
-  const [selectedExamType, setSelectedExamType] = useState<SSSExamType>("wassce")
-  const [selectedYear, setSelectedYear] = useState<string>("all")
-  const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(50)
-  const [selectedTimeLimit, setSelectedTimeLimit] = useState<number>(50)
+  const [selectedSubject, setSelectedSubject] = useState<SSSSubjectKey>("biology")
+  const [selectedExamType, setSelectedExamType] = useState<SSSExamType>("neco")
+  const [selectedPaperType, setSelectedPaperType] = useState<SSSPaperType>("objective")
+  const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(40)
+  const [selectedTimeLimit, setSelectedTimeLimit] = useState<number>(40)
   const [quizResults, setQuizResults] = useState<QuizResults | null>(null)
   const [selectedQuizResult, setSelectedQuizResult] = useState<{
     title: string
@@ -558,7 +560,7 @@ export default function StudyOSSSSPage() {
           </div>
         )}
 
-        {/* SSS Exam Practice Flow: Subject -> Exam/Year -> Question Count -> Time Limit -> Solid Quiz */}
+        {/* SSS Exam Practice Flow: Subject -> Exam/Paper -> Question Count -> Time Limit -> Solid Quiz */}
         {screen === "solidq-subject" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             <SSSSubjectPicker
@@ -576,12 +578,13 @@ export default function StudyOSSSSPage() {
             <SSSExamPicker
               subjectKey={selectedSubject}
               mode="solidq"
-              onSelect={(examType, year) => {
+              onSelect={(examType, paperType) => {
                 setSelectedExamType(examType)
-                setSelectedYear(year)
+                setSelectedPaperType(paperType)
                 setScreen("solidq-count")
               }}
               onBack={() => setScreen("solidq-subject")}
+              onBackToDashboard={goHome}
             />
           </div>
         )}
@@ -589,7 +592,7 @@ export default function StudyOSSSSPage() {
         {screen === "solidq-count" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             <QuestionCountPicker
-              subjectLabel={`${getSSSSubjectByKey(selectedSubject).name} (${selectedExamType.toUpperCase()})`}
+              subjectLabel={`${getSSSSubjectByKey(selectedSubject).name} (${selectedExamType.toUpperCase()} ${selectedPaperType === "theory" ? "Theory" : "OBJ"})`}
               counts={SSS_QUESTION_COUNTS}
               onSelect={(count) => {
                 setSelectedQuestionCount(count)
@@ -618,7 +621,7 @@ export default function StudyOSSSSPage() {
             <SSSSolidQuiz
               subjectKey={selectedSubject}
               examType={selectedExamType}
-              year={selectedYear}
+              paperType={selectedPaperType}
               questionCount={selectedQuestionCount}
               timeLimit={selectedTimeLimit}
               onBack={() => setScreen("solidq-time")}

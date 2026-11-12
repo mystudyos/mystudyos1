@@ -1,20 +1,22 @@
 "use client"
 
 import { useState } from "react"
-import { ArrowLeft, Calendar, Check } from "lucide-react"
+import { ArrowLeft, AlertCircle, Check, FileText, ListChecks } from "lucide-react"
 import {
   getSSSSubjectByKey,
+  isSSSPaperAvailable,
   SSS_EXAM_OPTIONS,
-  SSS_YEARS,
   type SSSExamType,
+  type SSSPaperType,
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 
 interface SSSExamPickerProps {
   subjectKey: SSSSubjectKey
   mode: "training" | "solidq"
-  onSelect: (examType: SSSExamType, year: string) => void
+  onSelect: (examType: SSSExamType, paperType: SSSPaperType) => void
   onBack: () => void
+  onBackToDashboard?: () => void
 }
 
 export function SSSExamPicker({
@@ -22,13 +24,60 @@ export function SSSExamPicker({
   mode,
   onSelect,
   onBack,
+  onBackToDashboard,
 }: SSSExamPickerProps) {
   const subject = getSSSSubjectByKey(subjectKey)
-  const [selectedExam, setSelectedExam] = useState<SSSExamType>("wassce")
-  const [selectedYear, setSelectedYear] = useState<string>("all")
+  const visibleExams = SSS_EXAM_OPTIONS.filter((e) => e.enabled)
+  const [selectedExam, setSelectedExam] = useState<SSSExamType>(
+    visibleExams[0]?.type || "neco"
+  )
+  const [selectedPaper, setSelectedPaper] = useState<SSSPaperType>("objective")
+  const [notAvailablePaper, setNotAvailablePaper] = useState<string | null>(null)
+
+  const currentExamOption = visibleExams.find((e) => e.type === selectedExam)
+  const supportsTheory = currentExamOption?.supportsTheory ?? false
+
+  const handleContinue = () => {
+    if (!isSSSPaperAvailable(subjectKey, selectedExam, selectedPaper)) {
+      const label =
+        selectedPaper === "theory"
+          ? `${subject.name} (Theory)`
+          : `${subject.name} (${currentExamOption?.label || selectedExam.toUpperCase()})`
+      setNotAvailablePaper(label)
+      return
+    }
+    onSelect(selectedExam, selectedPaper)
+  }
 
   return (
-    <div className="flex flex-col min-h-full pb-10">
+    <div className="flex flex-col min-h-full relative pb-10">
+      {/* Not Available Now Overlay */}
+      {notAvailablePaper && (
+        <div className="fixed inset-0 z-50 bg-background/95 backdrop-blur-md flex flex-col items-center justify-center px-8 text-center animate-in fade-in zoom-in duration-300">
+          <div className="w-20 h-20 rounded-3xl bg-amber-500/10 flex items-center justify-center mb-6">
+            <AlertCircle className="w-10 h-10 text-amber-400" />
+          </div>
+          <h2 className="text-2xl font-bold text-foreground mb-3">Not Available Now</h2>
+          <p className="text-muted-foreground leading-relaxed mb-8 max-w-70">
+            Exam practice questions for{" "}
+            <span className="text-foreground font-semibold">{notAvailablePaper}</span>{" "}
+            are not available right now. Please check back soon!
+          </p>
+          <button
+            onClick={onBackToDashboard || onBack}
+            className="w-full max-w-60 py-4 rounded-2xl bg-primary text-primary-foreground font-bold text-sm shadow-xl shadow-primary/20 active:scale-95 transition-all cursor-pointer"
+          >
+            Back to Dashboard
+          </button>
+          <button
+            onClick={() => setNotAvailablePaper(null)}
+            className="mt-4 text-xs font-semibold text-muted-foreground uppercase tracking-widest hover:text-foreground transition-colors cursor-pointer"
+          >
+            Choose another option
+          </button>
+        </div>
+      )}
+
       {/* Sticky Header */}
       <div className="sticky top-0 z-30 bg-background/95 backdrop-blur-xl border-b border-white/5">
         <div className="flex items-center gap-3 px-5 pt-12 lg:pt-6 pb-5 max-w-2xl mx-auto">
@@ -43,7 +92,7 @@ export function SSSExamPicker({
               {subject.name} • {mode === "training" ? "Training Mode" : "Exam Practice"}
             </p>
             <h1 className="text-xl font-bold text-foreground line-clamp-1">
-              Select Exam &amp; Year
+              Select Exam &amp; Paper Type
             </h1>
           </div>
         </div>
@@ -53,16 +102,21 @@ export function SSSExamPicker({
         {/* Exam Type Selection */}
         <div>
           <label className="block text-xs font-bold uppercase tracking-wider text-muted-foreground mb-3">
-            1. Choose Examination Body
+            1. Examination Body
           </label>
           <div className="space-y-3">
-            {SSS_EXAM_OPTIONS.map((exam) => {
+            {visibleExams.map((exam) => {
               const isSelected = selectedExam === exam.type
               return (
                 <button
                   key={exam.type}
                   type="button"
-                  onClick={() => setSelectedExam(exam.type)}
+                  onClick={() => {
+                    setSelectedExam(exam.type)
+                    if (!exam.supportsTheory) {
+                      setSelectedPaper("objective")
+                    }
+                  }}
                   className={`w-full flex items-center justify-between p-4 rounded-2xl border text-left transition-all cursor-pointer ${
                     isSelected
                       ? "border-primary bg-primary/10 shadow-sm"
@@ -97,39 +151,96 @@ export function SSSExamPicker({
           </div>
         </div>
 
-        {/* Year Filter */}
+        {/* Paper Type Selection (Objective 20/40/60 vs Theory, except JAMB) */}
         <div>
-          <label className="block text-xs font-bold uppercase tracking-wider text-muted-foreground mb-2">
-            2. Examination Year (Optional)
+          <label className="block text-xs font-bold uppercase tracking-wider text-muted-foreground mb-3">
+            2. Paper Format
           </label>
-          <div className="relative">
-            <div className="flex items-center gap-2.5 px-4 py-3.5 rounded-2xl glass border border-white/10">
-              <Calendar className="w-4 h-4 text-primary shrink-0" />
-              <select
-                value={selectedYear}
-                onChange={(e) => setSelectedYear(e.target.value)}
-                className="w-full bg-transparent text-sm font-semibold text-foreground focus:outline-none cursor-pointer"
+          <div className="space-y-3">
+            <button
+              type="button"
+              onClick={() => setSelectedPaper("objective")}
+              className={`w-full flex items-center justify-between p-4 rounded-2xl border text-left transition-all cursor-pointer ${
+                selectedPaper === "objective"
+                  ? "border-primary bg-primary/10 shadow-sm"
+                  : "glass border-white/10 hover:border-primary/40"
+              }`}
+            >
+              <div className="flex items-start gap-3 pr-3">
+                <div className="w-9 h-9 rounded-xl bg-primary/15 flex items-center justify-center shrink-0 mt-0.5">
+                  <ListChecks className="w-4 h-4 text-primary" />
+                </div>
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="font-bold text-foreground text-sm sm:text-base">
+                      Objective (OBJ)
+                    </span>
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
+                    Timed multiple-choice CBT practice
+                  </p>
+                </div>
+              </div>
+              <div
+                className={`w-6 h-6 rounded-full flex items-center justify-center border shrink-0 transition-colors ${
+                  selectedPaper === "objective"
+                    ? "bg-primary border-primary text-primary-foreground"
+                    : "border-muted-foreground/40"
+                }`}
               >
-                <option value="all" className="bg-background text-foreground">
-                  All Years (Random Mix 1988–2026)
-                </option>
-                {SSS_YEARS.map((y) => (
-                  <option key={y} value={y} className="bg-background text-foreground">
-                    {y} Past Questions
-                  </option>
-                ))}
-              </select>
-            </div>
+                {selectedPaper === "objective" && <Check className="w-3.5 h-3.5" strokeWidth={3} />}
+              </div>
+            </button>
+
+            {supportsTheory && (
+              <button
+                type="button"
+                onClick={() => setSelectedPaper("theory")}
+                className={`w-full flex items-center justify-between p-4 rounded-2xl border text-left transition-all cursor-pointer ${
+                  selectedPaper === "theory"
+                    ? "border-primary bg-primary/10 shadow-sm"
+                    : "glass border-white/10 hover:border-primary/40"
+                }`}
+              >
+                <div className="flex items-start gap-3 pr-3">
+                  <div className="w-9 h-9 rounded-xl bg-amber-500/15 flex items-center justify-center shrink-0 mt-0.5">
+                    <FileText className="w-4 h-4 text-amber-500" />
+                  </div>
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="font-bold text-foreground text-sm sm:text-base">
+                        Theory (Essay)
+                      </span>
+                      <span className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-500">
+                        Soon
+                      </span>
+                    </div>
+                    <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
+                      Structured scheme practice.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  className={`w-6 h-6 rounded-full flex items-center justify-center border shrink-0 transition-colors ${
+                    selectedPaper === "theory"
+                      ? "bg-primary border-primary text-primary-foreground"
+                      : "border-muted-foreground/40"
+                  }`}
+                >
+                  {selectedPaper === "theory" && <Check className="w-3.5 h-3.5" strokeWidth={3} />}
+                </div>
+              </button>
+            )}
           </div>
         </div>
 
         {/* Continue CTA */}
         <button
           type="button"
-          onClick={() => onSelect(selectedExam, selectedYear)}
+          onClick={handleContinue}
           className="w-full py-4 rounded-2xl bg-primary hover:bg-primary/90 text-primary-foreground font-bold text-sm shadow-lg shadow-primary/20 active:scale-[0.98] transition-all cursor-pointer"
         >
-          {mode === "training" ? "Start Training Session →" : "Continue to Exam Setup →"}
+          CONTINUE
         </button>
       </div>
     </div>
