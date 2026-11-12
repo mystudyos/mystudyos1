@@ -35,6 +35,7 @@ const FEATURES_PRO_SSS = [
   { text: "Advanced analytics & insights", active: true },
   { text: "Performance comparisons", active: true },
   { text: "Priority support", active: true },
+  {text: "Theory explanation", active: false},
   {text: "JAMB Exam Prep", active: false},
   { text: "Game Study Challenge", active: false },
 ]
