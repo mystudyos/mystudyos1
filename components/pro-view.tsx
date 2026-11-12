@@ -48,23 +48,29 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
     setIsLoading(true)
 
     try {
+      const amountNaira = isSSS ? 1000 : 500
+      const durationDays = isSSS ? 90 : 60
       // @ts-ignore
       const PaystackPop = (await import("@paystack/inline-js")).default
       const paystack = new PaystackPop()
       paystack.newTransaction({
         key: process.env.NEXT_PUBLIC_PAYSTACK_PUBLIC_KEY as string,
         email: user.email,
-        amount: 500 * 100, // ₦500 in kobo
+        amount: amountNaira * 100, // ₦1,000 for SSS (3 months) or ₦500 for JSS (2 months) in kobo
         currency: "NGN",
         metadata: {
+          user_id: user.uid,
+          category: isSSS ? "SSS" : "JSS",
+          duration_days: durationDays,
           custom_fields: [
             { display_name: "Student Name", variable_name: "student_name", value: user.displayName || "Student" },
             { display_name: "User ID", variable_name: "user_id", value: user.uid },
+            { display_name: "Category", variable_name: "category", value: isSSS ? "SSS" : "JSS" },
           ]
         },
         onSuccess: async (transaction: any) => {
           try {
-            await upgradeUserToPro(user.uid)
+            await upgradeUserToPro(user.uid, durationDays)
             toast.success(
               <div>
                 <div className="font-bold">Welcome to StudyOS Pro! 🎉</div>
@@ -157,9 +163,9 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
           </div>
         ) : (
           <button
-            onClick={isSSS ? undefined : handlePayment}
-            disabled={isSSS || isLoading}
-            className="w-full py-3.5 rounded-xl text-sm font-bold text-white flex items-center justify-center gap-2 active:scale-[0.98] transition-all disabled:opacity-60 disabled:cursor-not-allowed"
+            onClick={handlePayment}
+            disabled={isLoading}
+            className="w-full py-3.5 rounded-xl text-sm font-bold text-white flex items-center justify-center gap-2 active:scale-[0.98] transition-all cursor-pointer disabled:opacity-60 disabled:cursor-not-allowed"
             style={{
               background: "linear-gradient(135deg, oklch(0.72 0.16 192), oklch(0.62 0.18 240))",
               boxShadow: "0 4px 24px oklch(0.72 0.16 192 / 0.4)",
@@ -173,7 +179,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
             ) : (
               <>
                 <Lock className="w-4 h-4" />
-                {isSSS ? "Unlock Pro Now" : "Unlock Pro Now"}
+                Unlock Pro Now
               </>
             )}
           </button>

@@ -82,9 +82,16 @@ export async function POST(req: NextRequest) {
       }
 
       if (userUid) {
-        // Compute 30 days Pro expiration
+        // Compute Pro expiration: 90 days (3 months) for SSS (₦1,000) or 60 days (2 months) for JSS (₦500)
+        const categoryMeta =
+          metadata.category ||
+          metadata.custom_fields?.find((f: any) => f.variable_name === "category")?.value
+        const durationDays =
+          Number(metadata.duration_days) ||
+          (categoryMeta === "SSS" || amountPaid >= 1000 ? 90 : 60)
+
         const expiresAt = new Date()
-        expiresAt.setDate(expiresAt.getDate() + 30)
+        expiresAt.setDate(expiresAt.getDate() + durationDays)
 
         // Upgrade user document in Firestore
         const userRef = adminDb.collection("users").doc(userUid)

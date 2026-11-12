@@ -731,15 +731,14 @@ export async function fetchAllStudents(): Promise<(UserStats & { uid: string })[
 }
 
 /**
- * Upgrade a user to Pro status.
+ * Upgrade a user to Pro status (60 days for JSS, 90 days for SSS).
  */
-export async function upgradeUserToPro(uid: string): Promise<void> {
+export async function upgradeUserToPro(uid: string, durationDays = 60): Promise<void> {
   if (typeof window !== "undefined" && !navigator.onLine) return
   const ref = doc(db, "users", uid)
   
-  // Calculate 60 days (2 months) from now
   const expiresAt = new Date()
-  expiresAt.setDate(expiresAt.getDate() + 60)
+  expiresAt.setDate(expiresAt.getDate() + durationDays)
 
   await updateDoc(ref, {
     isPro: true,

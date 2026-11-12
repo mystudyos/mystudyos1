@@ -1,0 +1,5215 @@
+[
+  {
+    "id": 1,
+    "question": "Which instrument is most suitable for measuring a specific volume of liquid accurately?",
+    "options": [
+      "A. A pipette",
+      "B. A burette",
+      "C. A cylinder",
+      "D. A beaker"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best describes the purpose of a control experiment?",
+    "options": [
+      "A. To prove the hypothesis is entirely correct",
+      "B. To provide a standard for comparison with the test",
+      "C. To introduce an extra variable into the test",
+      "D. To eliminate all errors from the measurement"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following physical quantities is classified as fundamental?",
+    "options": [
+      "A. Density of a substance",
+      "B. Volume of a gas",
+      "C. Mass of a solid",
+      "D. Pressure of a fluid"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Which precaution is most important when heating a liquid in a test tube?",
+    "options": [
+      "A. Holding the tube vertically at the flame",
+      "B. Pointing the mouth towards your partner",
+      "C. Filling the tube completely with liquid",
+      "D. Moving the tube in and out of the flame"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which piece of apparatus is best suited for transferring a precise volume?",
+    "options": [
+      "A. Graduated pipette",
+      "B. Volumetric flask",
+      "C. Measuring cylinder",
+      "D. Dropping funnel"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is considered a valid safety practice in the lab?",
+    "options": [
+      "A. Tasting chemicals to identify their nature",
+      "B. Wearing safety goggles during experiments",
+      "C. Storing food items inside the fume hood",
+      "D. Disposing of solid waste into the sink"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "The scientific method typically begins with which of the following steps?",
+    "options": [
+      "A. Formulating a hypothesis",
+      "B. Conducting a controlled test",
+      "C. Observing a natural phenomenon",
+      "D. Drawing a final conclusion"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following units is used to express amount of substance?",
+    "options": [
+      "A. Gram per mole",
+      "B. Cubic decimeter",
+      "C. Degree Celsius",
+      "D. Mole fraction"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following describes the function of a fume cupboard?",
+    "options": [
+      "A. To remove toxic vapors from the air",
+      "B. To store volatile chemicals safely",
+      "C. To measure the volume of gases",
+      "D. To regulate the temperature of the room"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "Why is it necessary to repeat a measurement several times?",
+    "options": [
+      "A. To use up the available chemical reagents",
+      "B. To obtain a more reliable average value",
+      "C. To increase the duration of the practical",
+      "D. To satisfy the teacher's instructions"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a derived quantity in chemistry?",
+    "options": [
+      "A. Length of a copper wire",
+      "B. Mass of a metal block",
+      "C. Volume of a gas sample",
+      "D. Time taken for a reaction"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "What is the primary purpose of a meniscus reading in a measuring cylinder?",
+    "options": [
+      "A. To determine the color of the liquid",
+      "B. To measure the mass of the liquid",
+      "C. To estimate the temperature of the liquid",
+      "D. To measure the volume of the liquid"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following represents a systematic error in measurement?",
+    "options": [
+      "A. A zero error in a measuring instrument",
+      "B. Random fluctuations in a digital scale",
+      "C. Parallax error from wrong viewing angle",
+      "D. Environmental vibrations during weighing"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "Which apparatus is most suitable for measuring exactly 25.0 cm3 of a solution?",
+    "options": [
+      "A. A 50 cm3 beaker",
+      "B. A 25 cm3 pipette",
+      "C. A 50 cm3 burette",
+      "D. A 100 cm3 flask"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is the correct way to smell a chemical in the lab?",
+    "options": [
+      "A. Placing your nose directly over the container",
+      "B. Inhaling deeply from the container mouth",
+      "C. Wafting the vapor gently towards your nose",
+      "D. Pouring the chemical onto your hand"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The atomic number of an element is determined by the number of what?",
+    "options": [
+      "A. Neutrons in the nucleus",
+      "B. Electrons in the shells",
+      "C. Nucleons in the atom",
+      "D. Protons in the nucleus"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Isotopes of an element have the same number of protons but different numbers of what?",
+    "options": [
+      "A. Neutrons in the nucleus",
+      "B. Electrons in the outer shell",
+      "C. Orbitals in the atom",
+      "D. Charges in the ions"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following pairs represents isotopes of the same element?",
+    "options": [
+      "A. 12C and 14N",
+      "B. 35Cl and 37Cl",
+      "C. 16O and 16O2-",
+      "D. 1H and 4He"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "According to the Pauli exclusion principle, how many electrons can occupy one orbital?",
+    "options": [
+      "A. One electron only",
+      "B. Four electrons maximum",
+      "C. Two electrons maximum",
+      "D. Six electrons maximum"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following electron configurations represents the ground state of chlorine?",
+    "options": [
+      "A. 1s2 2s2 2p6 3s2 3p6",
+      "B. 1s2 2s2 2p6 3s2 3p4",
+      "C. 1s2 2s2 2p6 3s2 3p3",
+      "D. 1s2 2s2 2p6 3s2 3p5"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "The relative atomic mass of an element is based on the mass of which isotope?",
+    "options": [
+      "A. Carbon-12",
+      "B. Oxygen-16",
+      "C. Hydrogen-1",
+      "D. Nitrogen-14"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Which principle states that electrons fill lower energy orbitals before higher ones?",
+    "options": [
+      "A. Hund's rule",
+      "B. Aufbau principle",
+      "C. Pauli exclusion principle",
+      "D. Heisenberg uncertainty principle"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "What is the maximum number of electrons that can be accommodated in the third shell?",
+    "options": [
+      "A. 8 electrons",
+      "B. 18 electrons",
+      "C. 32 electrons",
+      "D. 2 electrons"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following subatomic particles is electrically neutral?",
+    "options": [
+      "A. Proton",
+      "B. Electron",
+      "C. Positron",
+      "D. Neutron"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "The mass number of an atom is the sum of the number of which particles?",
+    "options": [
+      "A. Protons and neutrons",
+      "B. Protons and electrons",
+      "C. Electrons and neutrons",
+      "D. Neutrons and positrons"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following statements about the nucleus of an atom is correct?",
+    "options": [
+      "A. It occupies most of the atomic volume",
+      "B. It contains most of the atomic mass",
+      "C. It is negatively charged overall",
+      "D. It contains orbiting electrons inside"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "An atom has an atomic number of 11 and a mass number of 23. How many neutrons does it have?",
+    "options": [
+      "A. 11 neutrons",
+      "B. 23 neutrons",
+      "C. 12 neutrons",
+      "D. 34 neutrons"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following rules governs the filling of degenerate orbitals by electrons?",
+    "options": [
+      "A. Aufbau principle",
+      "B. Pauli exclusion principle",
+      "C. Le Chatelier's principle",
+      "D. Hund's rule of maximum multiplicity"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "The electronic configuration of an ion X2+ is 1s2 2s2 2p6. What is the atomic number of X?",
+    "options": [
+      "A. 12",
+      "B. 10",
+      "C. 8",
+      "D. 14"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is the correct shape of an s-orbital?",
+    "options": [
+      "A. Dumbbell shaped",
+      "B. Spherical shaped",
+      "C. Cloverleaf shaped",
+      "D. Double dumbbell shaped"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following provides evidence for the particulate nature of matter?",
+    "options": [
+      "A. Continuous flow of water in a pipe",
+      "B. Reflection of light by a mirror",
+      "C. Brownian motion of smoke particles",
+      "D. Conduction of heat by a metal"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "When a solid changes directly into a gas without passing through liquid, the process is called what?",
+    "options": [
+      "A. Evaporation",
+      "B. Condensation",
+      "C. Melting",
+      "D. Sublimation"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following represents a chemical change?",
+    "options": [
+      "A. Burning of wood to ash",
+      "B. Melting of ice to water",
+      "C. Dissolving salt in water",
+      "D. Evaporation of alcohol"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "The relative molecular mass (Mr) of a compound is calculated based on which standard?",
+    "options": [
+      "A. Hydrogen-1 scale",
+      "B. Carbon-12 scale",
+      "C. Oxygen-16 scale",
+      "D. Nitrogen-14 scale"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following terms describes the number of protons and neutrons in the nucleus?",
+    "options": [
+      "A. Atomic number",
+      "B. Valency number",
+      "C. Mass number",
+      "D. Oxidation number"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "Which method is most suitable for separating a mixture of sand and water?",
+    "options": [
+      "A. Distillation using a condenser",
+      "B. Evaporation using a beaker",
+      "C. Sublimation using a funnel",
+      "D. Filtration using filter paper"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "Which technique is best used to separate two miscible liquids with different boiling points?",
+    "options": [
+      "A. Fractional distillation",
+      "B. Simple filtration",
+      "C. Separating funnel",
+      "D. Chromatography"
+    ],
+    "answer": "A",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "What is the most appropriate method for separating a mixture of common salt and water?",
+    "options": [
+      "A. Filtration through a mesh",
+      "B. Evaporation to dryness",
+      "C. Centrifugation of the mixture",
+      "D. Decantation of the liquid"
+    ],
+    "answer": "B",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "Which technique is used to separate a mixture of immiscible liquids like oil and water?",
+    "options": [
+      "A. Fractional distillation",
+      "B. Paper chromatography",
+      "C. Separating funnel",
+      "D. Magnetic separation"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "Which method is suitable for separating a mixture of iron filings and sulfur powder?",
+    "options": [
+      "A. Using a filter paper",
+      "B. Using a separating funnel",
+      "C. Using a distillation apparatus",
+      "D. Using a magnet"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "The process of separating components based on different rates of movement through a stationary phase is called what?",
+    "options": [
+      "A. Chromatography",
+      "B. Crystallization",
+      "C. Distillation",
+      "D. Sublimation"
+    ],
+    "answer": "A",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a criterion for a substance to be considered pure?",
+    "options": [
+      "A. It is colorless and odorless",
+      "B. It has a sharp melting point",
+      "C. It dissolves completely in water",
+      "D. It has a high boiling point"
+    ],
+    "answer": "B",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "How can a mixture of ammonium chloride and sodium chloride be separated?",
+    "options": [
+      "A. By adding water and filtering",
+      "B. By using a separating funnel",
+      "C. By heating the mixture to sublime",
+      "D. By dissolving in ethanol and evaporating"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "Which apparatus is primarily used in the process of simple distillation?",
+    "options": [
+      "A. Separating funnel",
+      "B. Buchner funnel",
+      "C. Soxhlet extractor",
+      "D. Liebig condenser"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The process of purifying a solid by dissolving it in hot solvent and cooling is called what?",
+    "options": [
+      "A. Recrystallization",
+      "B. Filtration",
+      "C. Sublimation",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following techniques is most effective for separating gases from air?",
+    "options": [
+      "A. Filtration of air through paper",
+      "B. Fractional distillation of liquid air",
+      "C. Evaporation of air in a beaker",
+      "D. Chromatography of air samples"
+    ],
+    "answer": "B",
+    "topic": "Separation Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "In paper chromatography, the solvent moves up the paper by which process?",
+    "options": [
+      "A. Gravitational pull",
+      "B. Magnetic attraction",
+      "C. Capillary action",
+      "D. Osmotic pressure"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "What is the purpose of adding a boiling chip to a liquid before distillation?",
+    "options": [
+      "A. To increase the boiling point",
+      "B. To make the liquid evaporate faster",
+      "C. To change the color of the liquid",
+      "D. To prevent bumping of the liquid"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is an example of a heterogeneous mixture?",
+    "options": [
+      "A. Oil mixed with water",
+      "B. Salt dissolved in water",
+      "C. Air in the atmosphere",
+      "D. Sugar dissolved in tea"
+    ],
+    "answer": "A",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "The method used to separate a mixture of dyes in ink is known as what?",
+    "options": [
+      "A. Filtration",
+      "B. Chromatography",
+      "C. Distillation",
+      "D. Crystallization"
+    ],
+    "answer": "B",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Elements in the same group of the periodic table have the same number of what?",
+    "options": [
+      "A. Neutrons in their nucleus",
+      "B. Electron shells in their atoms",
+      "C. Valence electrons in their outer shell",
+      "D. Protons in their nucleus"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following elements is a halogen?",
+    "options": [
+      "A. Sodium",
+      "B. Calcium",
+      "C. Argon",
+      "D. Chlorine"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "The periodic law states that properties of elements are periodic functions of their what?",
+    "options": [
+      "A. Atomic numbers",
+      "B. Atomic masses",
+      "C. Mass numbers",
+      "D. Neutron numbers"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is the correct trend of atomic radius across a period?",
+    "options": [
+      "A. It increases from left to right",
+      "B. It decreases from left to right",
+      "C. It remains constant across the period",
+      "D. It fluctuates randomly across the period"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following elements is a transition metal?",
+    "options": [
+      "A. Magnesium",
+      "B. Aluminum",
+      "C. Iron",
+      "D. Sulfur"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "Which group of the periodic table contains the noble gases?",
+    "options": [
+      "A. Group 1",
+      "B. Group 2",
+      "C. Group 7",
+      "D. Group 0"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following halogens is the most reactive?",
+    "options": [
+      "A. Fluorine",
+      "B. Chlorine",
+      "C. Bromine",
+      "D. Iodine"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "The reaction of metals with acids produces which gas?",
+    "options": [
+      "A. Oxygen",
+      "B. Hydrogen",
+      "C. Carbon dioxide",
+      "D. Chlorine"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following oxides is amphoteric?",
+    "options": [
+      "A. Sodium oxide",
+      "B. Magnesium oxide",
+      "C. Aluminum oxide",
+      "D. Sulfur dioxide"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      "A. Sodium",
+      "B. Magnesium",
+      "C. Chlorine",
+      "D. Fluorine"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is a characteristic property of transition metals?",
+    "options": [
+      "A. They form colored compounds",
+      "B. They are all highly reactive",
+      "C. They have low melting points",
+      "D. They are poor conductors of heat"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "As you move down Group 7 (the halogens), the reactivity does what?",
+    "options": [
+      "A. Increases steadily down the group",
+      "B. Decreases steadily down the group",
+      "C. Remains constant down the group",
+      "D. Fluctuates randomly down the group"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following elements is in Period 3 of the periodic table?",
+    "options": [
+      "A. Lithium",
+      "B. Beryllium",
+      "C. Sodium",
+      "D. Potassium"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is the correct formula for the oxide of a Group 1 metal?",
+    "options": [
+      "A. XO",
+      "B. XO2",
+      "C. X2O3",
+      "D. X2O"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The elements in the first transition series are found in which period?",
+    "options": [
+      "A. Period 4",
+      "B. Period 3",
+      "C. Period 5",
+      "D. Period 2"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is a noble gas?",
+    "options": [
+      "A. Nitrogen",
+      "B. Neon",
+      "C. Oxygen",
+      "D. Hydrogen"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following statements about the periodic table is correct?",
+    "options": [
+      "A. Non-metals are found on the left side",
+      "B. Metals are found on the right side",
+      "C. Metalloids are found along the diagonal",
+      "D. Noble gases are found in Group 2"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following elements would most readily form a cation?",
+    "options": [
+      "A. Chlorine",
+      "B. Oxygen",
+      "C. Fluorine",
+      "D. Sodium"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is the correct trend in ionization energy across a period?",
+    "options": [
+      "A. It generally increases from left to right",
+      "B. It generally decreases from left to right",
+      "C. It remains constant across the period",
+      "D. It fluctuates randomly across the period"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "Which of the following elements is a metalloid?",
+    "options": [
+      "A. Aluminum",
+      "B. Silicon",
+      "C. Sulfur",
+      "D. Phosphorus"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Which type of bond is formed by the transfer of electrons from a metal to a non-metal?",
+    "options": [
+      "A. Covalent bond",
+      "B. Metallic bond",
+      "C. Ionic bond",
+      "D. Hydrogen bond"
+    ],
+    "answer": "C",
+    "topic": "Chemical Bonds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following compounds contains a covalent bond?",
+    "options": [
+      "A. Sodium chloride",
+      "B. Magnesium oxide",
+      "C. Potassium bromide",
+      "D. Water"
+    ],
+    "answer": "D",
+    "topic": "Chemical Bonds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "What is the name of the bond formed when both electrons in a shared pair come from the same atom?",
+    "options": [
+      "A. Coordinate covalent bond",
+      "B. Polar covalent bond",
+      "C. Non-polar covalent bond",
+      "D. Ionic bond"
+    ],
+    "answer": "A",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following properties is characteristic of ionic compounds?",
+    "options": [
+      "A. They have low melting points",
+      "B. They conduct electricity when molten",
+      "C. They are mostly insoluble in water",
+      "D. They exist as discrete molecules"
+    ],
+    "answer": "B",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "The intermolecular force present in hydrogen chloride is primarily what?",
+    "options": [
+      "A. Ionic bonding",
+      "B. Metallic bonding",
+      "C. Dipole-dipole attraction",
+      "D. Network covalent bonding"
+    ],
+    "answer": "C",
+    "topic": "Chemical Bonds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following molecules has a linear shape?",
+    "options": [
+      "A. Water (H2O)",
+      "B. Ammonia (NH3)",
+      "C. Methane (CH4)",
+      "D. Carbon dioxide (CO2)"
+    ],
+    "answer": "D",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Metallic bonding is best described as the attraction between what?",
+    "options": [
+      "A. Metal cations and delocalized electrons",
+      "B. Metal anions and localized electrons",
+      "C. Metal cations and localized protons",
+      "D. Metal atoms and shared electron pairs"
+    ],
+    "answer": "A",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is an example of a network covalent solid?",
+    "options": [
+      "A. Sodium chloride",
+      "B. Diamond",
+      "C. Iodine",
+      "D. Copper"
+    ],
+    "answer": "B",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The bond formed between two atoms with a large difference in electronegativity is likely what?",
+    "options": [
+      "A. Non-polar covalent",
+      "B. Metallic",
+      "C. Ionic",
+      "D. Coordinate covalent"
+    ],
+    "answer": "C",
+    "topic": "Chemical Bonds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following forces is the weakest intermolecular force?",
+    "options": [
+      "A. Hydrogen bonding",
+      "B. Dipole-dipole interaction",
+      "C. Ion-dipole interaction",
+      "D. London dispersion forces"
+    ],
+    "answer": "D",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Hydrogen bonding is responsible for the unusually high boiling point of which compound?",
+    "options": [
+      "A. Water",
+      "B. Hydrogen sulfide",
+      "C. Methane",
+      "D. Carbon dioxide"
+    ],
+    "answer": "A",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following pairs of elements would form an ionic compound?",
+    "options": [
+      "A. Carbon and oxygen",
+      "B. Sodium and chlorine",
+      "C. Hydrogen and oxygen",
+      "D. Nitrogen and hydrogen"
+    ],
+    "answer": "B",
+    "topic": "Chemical Bonds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "What is the shape of a methane (CH4) molecule?",
+    "options": [
+      "A. Linear",
+      "B. Trigonal planar",
+      "C. Tetrahedral",
+      "D. Octahedral"
+    ],
+    "answer": "C",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following is a property of covalent compounds?",
+    "options": [
+      "A. They are always soluble in water",
+      "B. They conduct electricity when solid",
+      "C. They have high melting points",
+      "D. They often have low melting points"
+    ],
+    "answer": "D",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The bond in a molecule of chlorine (Cl2) is best described as what?",
+    "options": [
+      "A. A non-polar covalent bond",
+      "B. A polar covalent bond",
+      "C. An ionic bond",
+      "D. A metallic bond"
+    ],
+    "answer": "A",
+    "topic": "Chemical Bonds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "What is the molar mass of water (H2O)? (H=1, O=16)",
+    "options": [
+      "A. 17 g/mol",
+      "B. 18 g/mol",
+      "C. 16 g/mol",
+      "D. 20 g/mol"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "The empirical formula of a compound is CH2. If its molar mass is 42 g/mol, what is its molecular formula?",
+    "options": [
+      "A. CH2",
+      "B. C2H4",
+      "C. C3H6",
+      "D. C4H8"
+    ],
+    "answer": "C",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "What is the number of moles in 36 g of carbon? (C=12)",
+    "options": [
+      "A. 1 mole",
+      "B. 2 moles",
+      "C. 4 moles",
+      "D. 3 moles"
+    ],
+    "answer": "D",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is the correct formula for sodium sulfate?",
+    "options": [
+      "A. Na2SO4",
+      "B. NaSO4",
+      "C. Na2SO3",
+      "D. NaSO3"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "How many atoms are present in 1 mole of a substance?",
+    "options": [
+      "A. 6.02 x 10^22",
+      "B. 6.02 x 10^23",
+      "C. 3.01 x 10^23",
+      "D. 1.20 x 10^24"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "What is the concentration of a solution containing 0.5 moles of solute in 2 dm3 of solution?",
+    "options": [
+      "A. 1.0 mol/dm3",
+      "B. 0.5 mol/dm3",
+      "C. 0.25 mol/dm3",
+      "D. 4.0 mol/dm3"
+    ],
+    "answer": "C",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "In the reaction N2 + 3H2 -> 2NH3, what is the mole ratio of nitrogen to ammonia?",
+    "options": [
+      "A. 3:2",
+      "B. 2:3",
+      "C. 1:3",
+      "D. 1:2"
+    ],
+    "answer": "D",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following represents the correct balanced equation for the combustion of methane?",
+    "options": [
+      "A. CH4 + 2O2 -> CO2 + 2H2O",
+      "B. CH4 + O2 -> CO2 + H2O",
+      "C. CH4 + 3O2 -> 2CO2 + H2O",
+      "D. 2CH4 + O2 -> 2CO + 4H2O"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "What is the mass of 2 moles of carbon dioxide? (C=12, O=16)",
+    "options": [
+      "A. 44 g",
+      "B. 88 g",
+      "C. 22 g",
+      "D. 66 g"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "Which of the following statements is true of the law of conservation of mass?",
+    "options": [
+      "A. Mass is lost during chemical reactions",
+      "B. Mass is gained during chemical reactions",
+      "C. Mass is neither created nor destroyed",
+      "D. Mass changes depending on the state"
+    ],
+    "answer": "C",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "What is the percentage by mass of oxygen in water (H2O)?",
+    "options": [
+      "A. 11.1%",
+      "B. 50.0%",
+      "C. 33.3%",
+      "D. 88.9%"
+    ],
+    "answer": "D",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "The formula of a compound is X2O3. What is the valency of X?",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 1",
+      "D. 4"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "How many moles of HCl are in 500 cm3 of a 2.0 mol/dm3 solution?",
+    "options": [
+      "A. 2.0 moles",
+      "B. 1.0 mole",
+      "C. 0.5 moles",
+      "D. 0.25 moles"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "In the equation 2KClO3 -> 2KCl + 3O2, what volume of oxygen at s.t.p is produced from 1 mole of KClO3? (Molar volume = 22.4 dm3)",
+    "options": [
+      "A. 22.4 dm3",
+      "B. 11.2 dm3",
+      "C. 33.6 dm3",
+      "D. 44.8 dm3"
+    ],
+    "answer": "C",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "What is the formula mass of calcium carbonate (CaCO3)? (Ca=40, C=12, O=16)",
+    "options": [
+      "A. 50",
+      "B. 68",
+      "C. 84",
+      "D. 100"
+    ],
+    "answer": "D",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Which gas law states that the volume of a fixed mass of gas is inversely proportional to its pressure at constant temperature?",
+    "options": [
+      "A. Boyle's law",
+      "B. Charles's law",
+      "C. Graham's law",
+      "D. Avogadro's law"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "The spontaneous spreading of gas molecules from a region of higher concentration to a lower one is called what?",
+    "options": [
+      "A. Effusion",
+      "B. Diffusion",
+      "C. Osmosis",
+      "D. Sublimation"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following properties is characteristic of the solid state of matter?",
+    "options": [
+      "A. High compressibility",
+      "B. Random particle motion",
+      "C. Definite shape and volume",
+      "D. Indefinite shape and volume"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "The carbon atoms in a diamond crystal are arranged in which type of structure?",
+    "options": [
+      "A. Hexagonal planar",
+      "B. Cubic close-packed",
+      "C. Layered hexagonal",
+      "D. Rigid tetrahedral"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "According to the kinetic theory of matter, what happens to gas particles when the temperature is increased?",
+    "options": [
+      "A. They move more rapidly",
+      "B. They move more slowly",
+      "C. They become heavier",
+      "D. They lose kinetic energy"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Which gas law describes the relationship between the volume and absolute temperature of a gas at constant pressure?",
+    "options": [
+      "A. Dalton's law",
+      "B. Charles's law",
+      "C. Boyle's law",
+      "D. Graham's law"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "Graphite is a soft solid because its carbon atoms are arranged in what type of structure?",
+    "options": [
+      "A. Tetrahedral network",
+      "B. Three-dimensional lattice",
+      "C. Layered hexagonal sheets",
+      "D. Amorphous random network"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "The direct change of a substance from the gaseous state to the solid state is known as what?",
+    "options": [
+      "A. Sublimation",
+      "B. Condensation",
+      "C. Freezing",
+      "D. Deposition"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Which of the following gases will diffuse most rapidly under the same conditions of temperature and pressure?",
+    "options": [
+      "A. Hydrogen",
+      "B. Oxygen",
+      "C. Nitrogen",
+      "D. Carbon dioxide"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "What is the pressure of a gas if 2 moles occupy a volume of 10 dm3 at 273 K? (R = 0.082 atm dm3 K-1 mol-1)",
+    "options": [
+      "A. 2.24 atm",
+      "B. 4.48 atm",
+      "C. 8.96 atm",
+      "D. 0.45 atm"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "Which of the following substances is an example of an amorphous solid?",
+    "options": [
+      "A. Sodium chloride",
+      "B. Quartz crystal",
+      "C. Glass",
+      "D. Diamond"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "The temperature at which the vapor pressure of a liquid equals the external atmospheric pressure is called what?",
+    "options": [
+      "A. Melting point",
+      "B. Freezing point",
+      "C. Critical point",
+      "D. Boiling point"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Water has an unusually high boiling point compared to hydrogen sulfide mainly due to what?",
+    "options": [
+      "A. Hydrogen bonding",
+      "B. Ionic interactions",
+      "C. Metallic bonding",
+      "D. London dispersion forces"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Which gas law states that equal volumes of all gases contain the same number of molecules at the same temperature and pressure?",
+    "options": [
+      "A. Boyle's law",
+      "B. Avogadro's law",
+      "C. Charles's law",
+      "D. Graham's law"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "In the kinetic theory of gases, collisions between gas molecules and the container walls are assumed to be what?",
+    "options": [
+      "A. Perfectly inelastic",
+      "B. Chemically reactive",
+      "C. Perfectly elastic",
+      "D. Temperature dependent"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Which of the following compounds has a giant covalent crystal structure?",
+    "options": [
+      "A. Iodine crystals",
+      "B. Sodium chloride",
+      "C. Copper metal",
+      "D. Silicon dioxide"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "The spreading of a drop of ink throughout a glass of water is primarily an example of what process?",
+    "options": [
+      "A. Diffusion",
+      "B. Osmosis",
+      "C. Filtration",
+      "D. Sublimation"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "What happens to the average kinetic energy of gas molecules when the temperature of the gas is decreased?",
+    "options": [
+      "A. It increases",
+      "B. It decreases",
+      "C. It stays constant",
+      "D. It fluctuates randomly"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is not a characteristic property of liquids?",
+    "options": [
+      "A. Definite volume",
+      "B. Ability to flow",
+      "C. Fixed shape",
+      "D. Indefinite shape"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "question": "What is the name of the process where a solid changes directly into a gas without passing through the liquid state?",
+    "options": [
+      "A. Evaporation",
+      "B. Condensation",
+      "C. Deposition",
+      "D. Sublimation"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "In an exothermic chemical reaction, the enthalpy change (Delta H) is always what?",
+    "options": [
+      "A. Negative",
+      "B. Positive",
+      "C. Zero",
+      "D. Undefined"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Which of the following describes the enthalpy change for an endothermic reaction?",
+    "options": [
+      "A. It is negative",
+      "B. It is positive",
+      "C. It is zero",
+      "D. It is constant"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Which of the following physical processes is endothermic in nature?",
+    "options": [
+      "A. Freezing of water",
+      "B. Condensation of steam",
+      "C. Melting of ice",
+      "D. Deposition of frost"
+    ],
+    "answer": "C",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "The energy required to break the bonds in the reactant molecules of a reaction is known as what?",
+    "options": [
+      "A. Lattice energy",
+      "B. Kinetic energy",
+      "C. Activation energy",
+      "D. Bond energy"
+    ],
+    "answer": "D",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is an example of an exothermic process that releases heat to the surroundings?",
+    "options": [
+      "A. Combustion of fuel",
+      "B. Electrolysis of water",
+      "C. Melting of ice",
+      "D. Photosynthesis"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "In a potential energy diagram, the activation energy is the difference between what two points?",
+    "options": [
+      "A. Products and reactants",
+      "B. Reactants and transition state",
+      "C. Products and transition state",
+      "D. Initial and final states"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "What is the standard enthalpy of formation for an element in its most stable standard state?",
+    "options": [
+      "A. Negative",
+      "B. Positive",
+      "C. Zero",
+      "D. Variable"
+    ],
+    "answer": "C",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Which of the following statements best describes an endothermic reaction?",
+    "options": [
+      "A. It releases heat to the surroundings",
+      "B. It feels warm to the touch",
+      "C. It has a negative enthalpy change",
+      "D. It absorbs heat from surroundings"
+    ],
+    "answer": "D",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "What happens to the temperature of the surroundings when an exothermic reaction takes place?",
+    "options": [
+      "A. It increases",
+      "B. It decreases",
+      "C. It remains constant",
+      "D. It fluctuates randomly"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "The heat content of a system at constant pressure is referred to by which of the following terms?",
+    "options": [
+      "A. Entropy",
+      "B. Enthalpy",
+      "C. Free energy",
+      "D. Internal energy"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following properties is classified as a state function in thermodynamics?",
+    "options": [
+      "A. Heat of reaction",
+      "B. Work done",
+      "C. Enthalpy",
+      "D. Path taken"
+    ],
+    "answer": "C",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "According to Hess's law of constant heat summation, the total enthalpy change of a reaction is what?",
+    "options": [
+      "A. Dependent on the temperature only",
+      "B. Dependent on the pressure only",
+      "C. Dependent on the reaction pathway",
+      "D. Independent of the reaction pathway"
+    ],
+    "answer": "D",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "When a new chemical bond is formed between two atoms, energy is generally what?",
+    "options": [
+      "A. Released",
+      "B. Absorbed",
+      "C. Unchanged",
+      "D. Converted to mass"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following phase changes releases energy to the surrounding environment?",
+    "options": [
+      "A. Melting of ice",
+      "B. Condensation of steam",
+      "C. Boiling of water",
+      "D. Sublimation of iodine"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "question": "What is the enthalpy change when one mole of water is formed from hydrogen and hydroxide ions in solution?",
+    "options": [
+      "A. Enthalpy of solution",
+      "B. Enthalpy of combustion",
+      "C. Enthalpy of neutralization",
+      "D. Enthalpy of formation"
+    ],
+    "answer": "C",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "According to the Bronsted-Lowry theory, an acid is defined as a substance that does what?",
+    "options": [
+      "A. Accepts electron pairs",
+      "B. Donates hydroxide ions",
+      "C. Accepts protons",
+      "D. Donates protons"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "What is the pH value of a neutral aqueous solution at 25 degrees Celsius?",
+    "options": [
+      "A. 7",
+      "B. 0",
+      "C. 14",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following salts undergoes hydrolysis in water to produce a basic solution?",
+    "options": [
+      "A. Ammonium chloride",
+      "B. Sodium ethanoate",
+      "C. Sodium chloride",
+      "D. Potassium nitrate"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "What is the color of the indicator methyl orange when added to an alkaline solution?",
+    "options": [
+      "A. Colorless",
+      "B. Pink",
+      "C. Yellow",
+      "D. Red"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Which of the following compounds is classified as a strong acid in aqueous solution?",
+    "options": [
+      "A. Ethanoic acid",
+      "B. Carbonic acid",
+      "C. Hydrogen sulfide",
+      "D. Hydrochloric acid"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "A hydrated salt that loses its water of crystallization when exposed to the atmosphere is said to be what?",
+    "options": [
+      "A. Efflorescent",
+      "B. Deliquescent",
+      "C. Hygroscopic",
+      "D. Anhydrous"
+    ],
+    "answer": "A",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following substances acts as a base according to the Arrhenius definition?",
+    "options": [
+      "A. Carbon dioxide",
+      "B. Ammonia",
+      "C. Sulfur dioxide",
+      "D. Hydrogen chloride"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "The chemical reaction between an acid and a base to produce salt and water is known as what?",
+    "options": [
+      "A. Hydrolysis",
+      "B. Esterification",
+      "C. Neutralization",
+      "D. Saponification"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "Which acid-base indicator is colorless in acidic solution and pink in basic solution?",
+    "options": [
+      "A. Methyl orange",
+      "B. Litmus paper",
+      "C. Bromothymol blue",
+      "D. Phenolphthalein"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "What is the conjugate base of the hydrogen sulfate ion (HSO4-) in aqueous solution?",
+    "options": [
+      "A. Sulfate ion (SO42-)",
+      "B. Sulfur trioxide (SO3)",
+      "C. Sulfurous acid (H2SO3)",
+      "D. Hydroxide ion (OH-)"
+    ],
+    "answer": "A",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following salts is considered insoluble in water at room temperature?",
+    "options": [
+      "A. Sodium chloride",
+      "B. Barium sulfate",
+      "C. Potassium nitrate",
+      "D. Ammonium chloride"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "What is the pH of a solution that has a hydrogen ion concentration of 0.01 mol/dm3?",
+    "options": [
+      "A. 12",
+      "B. 1",
+      "C. 2",
+      "D. 7"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is a characteristic chemical property of acids?",
+    "options": [
+      "A. They turn red litmus blue",
+      "B. They feel slippery to touch",
+      "C. They react with ammonium salts",
+      "D. They turn blue litmus red"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "A compound that absorbs moisture from the air but does not dissolve in it is described as what?",
+    "options": [
+      "A. Hygroscopic",
+      "B. Efflorescent",
+      "C. Deliquescent",
+      "D. Soluble"
+    ],
+    "answer": "A",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "What is the basicity of tetraoxosulphate (VI) acid (H2SO4)?",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "Which of the following oxides is classified as amphoteric because it reacts with both acids and bases?",
+    "options": [
+      "A. Sodium oxide",
+      "B. Magnesium oxide",
+      "C. Zinc oxide",
+      "D. Sulfur dioxide"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "In an acid-base titration, the point at which the indicator changes color permanently is called what?",
+    "options": [
+      "A. Equivalence point",
+      "B. Neutral point",
+      "C. Stoichiometric point",
+      "D. End point"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following bases is considered a strong base because it completely ionizes in water?",
+    "options": [
+      "A. Sodium hydroxide",
+      "B. Ammonium hydroxide",
+      "C. Calcium carbonate",
+      "D. Copper hydroxide"
+    ],
+    "answer": "A",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "What happens to the pH of an acidic solution when it is diluted with a large volume of water?",
+    "options": [
+      "A. It decreases",
+      "B. It increases",
+      "C. It remains constant",
+      "D. It becomes neutral"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following salts is formed from the reaction of a weak acid and a strong base?",
+    "options": [
+      "A. Ammonium chloride",
+      "B. Sodium chloride",
+      "C. Sodium carbonate",
+      "D. Copper sulfate"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "The maximum amount of solute that can dissolve in a given amount of solvent at a specific temperature is called what?",
+    "options": [
+      "A. Molarity of the solution",
+      "B. Concentration of the mixture",
+      "C. Saturation point of the liquid",
+      "D. Solubility of the substance"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "A solution that contains less solute than it has the capacity to dissolve at a given temperature is called what?",
+    "options": [
+      "A. Unsaturated",
+      "B. Saturated",
+      "C. Supersaturated",
+      "D. Concentrated"
+    ],
+    "answer": "A",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following factors generally increases the solubility of a solid solute in a liquid solvent?",
+    "options": [
+      "A. Decreasing pressure",
+      "B. Increasing temperature",
+      "C. Decreasing surface area",
+      "D. Increasing density"
+    ],
+    "answer": "B",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "What happens to the solubility of most gases in water as the temperature of the solution is increased?",
+    "options": [
+      "A. It increases",
+      "B. It remains constant",
+      "C. It decreases",
+      "D. It becomes zero"
+    ],
+    "answer": "C",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "A solution that cannot dissolve any more solute at a specific temperature is described as what?",
+    "options": [
+      "A. Unsaturated",
+      "B. Dilute",
+      "C. Supersaturated",
+      "D. Saturated"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is a characteristic property of a supersaturated solution?",
+    "options": [
+      "A. It is unstable",
+      "B. It is dilute",
+      "C. It is very stable",
+      "D. It is unsaturated"
+    ],
+    "answer": "A",
+    "topic": "Solubility of Substances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "The solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid. This is known as what?",
+    "options": [
+      "A. Raoult's law",
+      "B. Henry's law",
+      "C. Dalton's law",
+      "D. Graham's law"
+    ],
+    "answer": "B",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "In a typical solubility curve graph, what does the horizontal x-axis represent?",
+    "options": [
+      "A. Pressure",
+      "B. Mass of solute",
+      "C. Temperature",
+      "D. Volume of solvent"
+    ],
+    "answer": "C",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following substances is most likely to be highly soluble in water at room temperature?",
+    "options": [
+      "A. Silver chloride",
+      "B. Lead sulfate",
+      "C. Barium sulfate",
+      "D. Sodium chloride"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "What is the effect of stirring on the rate at which a solid solute dissolves in a solvent?",
+    "options": [
+      "A. It increases the rate",
+      "B. It decreases the rate",
+      "C. It has no effect",
+      "D. It lowers solubility"
+    ],
+    "answer": "A",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following liquids would most likely be insoluble in water and form a separate layer?",
+    "options": [
+      "A. Ethanol",
+      "B. Vegetable oil",
+      "C. Vinegar",
+      "D. Acetone"
+    ],
+    "answer": "B",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The process by which a dissolved solute comes out of solution to form a solid crystal lattice is called what?",
+    "options": [
+      "A. Dissolution",
+      "B. Filtration",
+      "C. Crystallization",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "When two liquids are described as being miscible, it means that they do what?",
+    "options": [
+      "A. Form separate layers",
+      "B. React to form a gas",
+      "C. Freeze at same temp",
+      "D. Mix in all proportions"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "Which of the following terms is used to express the concentration of a solution in moles per cubic decimeter?",
+    "options": [
+      "A. Molarity",
+      "B. Molality",
+      "C. Mole fraction",
+      "D. Mass percent"
+    ],
+    "answer": "A",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Why does powdered sugar dissolve faster than a sugar cube of the same mass in water?",
+    "options": [
+      "A. It has a lower density",
+      "B. It has a larger surface area",
+      "C. It has a higher temperature",
+      "D. It has a smaller particle mass"
+    ],
+    "answer": "B",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following factors generally increases the rate of a chemical reaction?",
+    "options": [
+      "A. Decreasing pressure",
+      "B. Decreasing temperature",
+      "C. Increasing temperature",
+      "D. Increasing particle size"
+    ],
+    "answer": "C",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "What is the primary role of a catalyst in a chemical reaction?",
+    "options": [
+      "A. It increases the yield",
+      "B. It shifts equilibrium",
+      "C. It acts as a reactant",
+      "D. It lowers activation energy"
+    ],
+    "answer": "D",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Le Chatelier's principle is used to predict the effect of what on a system at equilibrium?",
+    "options": [
+      "A. Change in conditions",
+      "B. Addition of a catalyst",
+      "C. Change in enthalpy",
+      "D. Addition of inert gas"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following statements describes a system in dynamic equilibrium?",
+    "options": [
+      "A. Reaction has stopped",
+      "B. Forward and reverse rates are equal",
+      "C. Reactants are fully consumed",
+      "D. Products are fully consumed"
+    ],
+    "answer": "B",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "How does an increase in pressure affect a gaseous reaction at equilibrium that produces fewer moles of gas?",
+    "options": [
+      "A. Shifts to the left",
+      "B. No change occurs",
+      "C. Shifts to the right",
+      "D. Stops the reaction"
+    ],
+    "answer": "C",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Which of the following expressions correctly defines the rate of a chemical reaction?",
+    "options": [
+      "A. Total mass of reactants",
+      "B. Total volume of products",
+      "C. Time taken for completion",
+      "D. Change in concentration over time"
+    ],
+    "answer": "D",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "Which of the following increases the rate of reaction by increasing the frequency of collisions between particles?",
+    "options": [
+      "A. Increasing concentration",
+      "B. Decreasing temperature",
+      "C. Adding an inhibitor",
+      "D. Decreasing surface area"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "The minimum amount of energy required for reactant particles to collide and successfully form products is called what?",
+    "options": [
+      "A. Kinetic energy",
+      "B. Activation energy",
+      "C. Potential energy",
+      "D. Bond energy"
+    ],
+    "answer": "B",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "What happens to the position of equilibrium when a catalyst is added to a reversible reaction?",
+    "options": [
+      "A. Shifts to the left",
+      "B. Shifts to the right",
+      "C. Remains unchanged",
+      "D. Becomes zero"
+    ],
+    "answer": "C",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "For an exothermic reaction at equilibrium, which of the following changes will shift the equilibrium position to the left?",
+    "options": [
+      "A. Adding a catalyst",
+      "B. Decreasing pressure",
+      "C. Removing products",
+      "D. Increasing temperature"
+    ],
+    "answer": "D",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "According to the collision theory, which condition must be met for a chemical reaction to occur?",
+    "options": [
+      "A. Particles must collide with sufficient energy",
+      "B. Particles must be at absolute zero temperature",
+      "C. Particles must have identical molecular masses",
+      "D. Particles must be in the solid state only"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "What is the effect of increasing the surface area of a solid reactant on the rate of reaction?",
+    "options": [
+      "A. It decreases the rate",
+      "B. It increases the rate",
+      "C. It has no effect",
+      "D. It stops the reaction"
+    ],
+    "answer": "B",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "In the Haber process for the synthesis of ammonia, how is the yield of ammonia maximized?",
+    "options": [
+      "A. By decreasing pressure",
+      "B. By increasing temperature",
+      "C. By increasing pressure",
+      "D. By adding a catalyst"
+    ],
+    "answer": "C",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following chemical reactions is considered essentially irreversible under normal conditions?",
+    "options": [
+      "A. Formation of ammonia",
+      "B. Dissociation of water",
+      "C. Esterification of alcohols",
+      "D. Combustion of methane"
+    ],
+    "answer": "D",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "What is the correct equilibrium constant expression (Kc) for the reaction A + B <-> C + D?",
+    "options": [
+      "A. Kc = [C][D] / [A][B]",
+      "B. Kc = [A][B] / [C][D]",
+      "C. Kc = [A][C] / [B][D]",
+      "D. Kc = [B][D] / [A][C]"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "What is the oxidation state of sulfur in the compound tetraoxosulphate (VI) acid (H2SO4)?",
+    "options": [
+      "A. +2",
+      "B. +6",
+      "C. +4",
+      "D. -2"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "In the reaction Zn + CuSO4 -> ZnSO4 + Cu, which species acts as the oxidizing agent?",
+    "options": [
+      "A. Zinc metal",
+      "B. Sulfate ion",
+      "C. Copper (II) ion",
+      "D. Copper metal"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Which of the following processes correctly defines oxidation in terms of electron transfer?",
+    "options": [
+      "A. Gain of protons",
+      "B. Gain of electrons",
+      "C. Loss of neutrons",
+      "D. Loss of electrons"
+    ],
+    "answer": "D",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following substances commonly acts as a reducing agent in chemical reactions?",
+    "options": [
+      "A. Hydrogen sulfide",
+      "B. Potassium permanganate",
+      "C. Chlorine gas",
+      "D. Concentrated nitric acid"
+    ],
+    "answer": "A",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "What is the process of electrolysis best described as?",
+    "options": [
+      "A. Generation of current by a cell",
+      "B. Decomposition by electric current",
+      "C. Spontaneous redox reaction",
+      "D. Neutralization of an acid"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "At which electrode does the process of oxidation occur during electrolysis?",
+    "options": [
+      "A. Cathode",
+      "B. Salt bridge",
+      "C. Anode",
+      "D. Voltmeter"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "What is the oxidation number assigned to oxygen in the vast majority of its chemical compounds?",
+    "options": [
+      "A. +2",
+      "B. +1",
+      "C. -1",
+      "D. -2"
+    ],
+    "answer": "D",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "Which of the following reactions is a clear example of a redox process?",
+    "options": [
+      "A. Displacement of copper by zinc",
+      "B. Neutralization of acid by base",
+      "C. Precipitation of silver chloride",
+      "D. Dissolution of salt in water"
+    ],
+    "answer": "A",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Faraday's first law of electrolysis relates the mass of substance deposited to which quantity?",
+    "options": [
+      "A. Temperature of the cell",
+      "B. Quantity of electric charge",
+      "C. Volume of the electrolyte",
+      "D. Pressure of the system"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "What is the standard electrode potential value assigned to the standard hydrogen electrode at 298 K?",
+    "options": [
+      "A. 1.00 V",
+      "B. -1.00 V",
+      "C. 0.00 V",
+      "D. 0.50 V"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "In any redox reaction, the chemical species that gains electrons is said to have been what?",
+    "options": [
+      "A. Oxidized",
+      "B. Neutralized",
+      "C. Hydrolyzed",
+      "D. Reduced"
+    ],
+    "answer": "D",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following chemical compounds is widely used as a strong oxidizing agent in the laboratory?",
+    "options": [
+      "A. Potassium permanganate",
+      "B. Sodium chloride",
+      "C. Zinc sulfate",
+      "D. Calcium carbonate"
+    ],
+    "answer": "A",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "What is the direction of electron flow in the external circuit of a galvanic (electrochemical) cell?",
+    "options": [
+      "A. From cathode to anode",
+      "B. From anode to cathode",
+      "C. From salt bridge to anode",
+      "D. From cathode to salt bridge"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Which of the following is a commercially important product of the electrolysis of concentrated brine (NaCl solution)?",
+    "options": [
+      "A. Hydrogen gas at anode",
+      "B. Chlorine gas at cathode",
+      "C. Sodium hydroxide in solution",
+      "D. Oxygen gas at cathode"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The titration reaction between acidified potassium permanganate and iron (II) sulfate is classified as what type of reaction?",
+    "options": [
+      "A. Acid-base neutralization",
+      "B. Precipitation reaction",
+      "C. Complexation reaction",
+      "D. Redox reaction"
+    ],
+    "answer": "D",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "What is the general molecular formula for the alkane homologous series?",
+    "options": [
+      "A. CnH2n+2",
+      "B. CnH2n",
+      "C. CnH2n-2",
+      "D. CnH2n+1OH"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "Which reagent is used to distinguish between an alkane and an alkene?",
+    "options": [
+      "A. Distilled water",
+      "B. Bromine water",
+      "C. Sodium chloride",
+      "D. Dilute sulfuric acid"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The functional group present in alkanoic acids is known as what?",
+    "options": [
+      "A. Hydroxyl group",
+      "B. Carbonyl group",
+      "C. Carboxyl group",
+      "D. Amino group"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "What is the IUPAC name for the compound CH3-CH2-CH2-OH?",
+    "options": [
+      "A. Methanol",
+      "B. Ethanol",
+      "C. Butanol",
+      "D. Propanol"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "A series of organic compounds with the same functional group and similar chemical properties is called a what?",
+    "options": [
+      "A. Homologous series",
+      "B. Periodic series",
+      "C. Structural series",
+      "D. Isomeric series"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "Which of the following pairs of compounds are structural isomers of each other?",
+    "options": [
+      "A. Ethene and ethyne",
+      "B. Butane and 2-methylpropane",
+      "C. Ethanol and ethanoic acid",
+      "D. Methane and ethane"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "What is the primary product of the fermentation of glucose by yeast?",
+    "options": [
+      "A. Methanoic acid",
+      "B. Methanol",
+      "C. Ethanol",
+      "D. Ethanoic acid"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "The process of converting large alkane molecules into smaller, more useful alkenes is known as what?",
+    "options": [
+      "A. Fractionation",
+      "B. Esterification",
+      "C. Polymerization",
+      "D. Cracking"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following compounds will react with sodium metal to produce hydrogen gas?",
+    "options": [
+      "A. Ethanol",
+      "B. Ethene",
+      "C. Ethane",
+      "D. Benzene"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "What is the hybridization of the carbon atoms in a benzene ring?",
+    "options": [
+      "A. sp3",
+      "B. sp2",
+      "C. sp",
+      "D. sp3d"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The reaction between an alkanol and an alkanoic acid to form a sweet-smelling compound is called what?",
+    "options": [
+      "A. Saponification",
+      "B. Hydrolysis",
+      "C. Esterification",
+      "D. Hydrogenation"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is a saturated hydrocarbon?",
+    "options": [
+      "A. Ethene",
+      "B. Ethyne",
+      "C. Butene",
+      "D. Butane"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "question": "What is the major product when ethene reacts with hydrogen in the presence of a nickel catalyst?",
+    "options": [
+      "A. Ethane",
+      "B. Ethanol",
+      "C. Ethyne",
+      "D. Methane"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following compounds is an alkyne?",
+    "options": [
+      "A. C2H6",
+      "B. C2H4",
+      "C. C2H2",
+      "D. C2H5OH"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "question": "What is the general formula for the alkanol homologous series?",
+    "options": [
+      "A. CnH2n+2",
+      "B. CnH2n",
+      "C. CnH2nO",
+      "D. CnH2n+1OH"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "Which reagent is used to test for the presence of an aldehyde group?",
+    "options": [
+      "A. Fehling's solution",
+      "B. Litmus paper",
+      "C. Lime water",
+      "D. Iodine solution"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "The process of separating crude oil into its various fractions is called what?",
+    "options": [
+      "A. Simple filtration",
+      "B. Fractional distillation",
+      "C. Solvent extraction",
+      "D. Steam distillation"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "question": "What is the chemical test used to distinguish between an alkanol and an alkanoic acid?",
+    "options": [
+      "A. Adding bromine water",
+      "B. Adding lime water",
+      "C. Adding sodium carbonate",
+      "D. Adding barium chloride"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Which of the following hydrocarbons has a triple bond between its carbon atoms?",
+    "options": [
+      "A. Propane",
+      "B. Propene",
+      "C. Benzene",
+      "D. Propyne"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The compound CH3COOH is commonly known by which of the following names?",
+    "options": [
+      "A. Ethanoic acid",
+      "B. Methanoic acid",
+      "C. Propanoic acid",
+      "D. Ethanol"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is a characteristic property of benzene?",
+    "options": [
+      "A. It decolorizes bromine water instantly",
+      "B. It undergoes addition reactions easily",
+      "C. It has a distinct garlic odor",
+      "D. It is a planar aromatic ring"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "What is the empirical formula of ethanoic acid (CH3COOH)?",
+    "options": [
+      "A. CH2O",
+      "B. C2H4O2",
+      "C. CH4O",
+      "D. C2H4O"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Which of the following compounds is a primary alkanol?",
+    "options": [
+      "A. Propan-2-ol",
+      "B. Butan-1-ol",
+      "C. Butan-2-ol",
+      "D. 2-methylpropan-2-ol"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "Which of the following is a major source of alkanes?",
+    "options": [
+      "A. Atmospheric air",
+      "B. Ocean water",
+      "C. Natural gas",
+      "D. Volcanic ash"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "What is the product of the complete combustion of an alkane in excess oxygen?",
+    "options": [
+      "A. Carbon and hydrogen",
+      "B. Carbon monoxide and water",
+      "C. Hydrogen and oxygen",
+      "D. Carbon dioxide and water"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is the correct IUPAC name for the compound with the structure CH3-CH(CH3)-CH3?",
+    "options": [
+      "A. 2-methylpropane",
+      "B. Butane",
+      "C. Pentane",
+      "D. 1-methylpropane"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The reaction of an alkene with hydrogen chloride is an example of what type of reaction?",
+    "options": [
+      "A. Substitution reaction",
+      "B. Addition reaction",
+      "C. Elimination reaction",
+      "D. Oxidation reaction"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Which of the following is a reason why alkenes are more reactive than alkanes?",
+    "options": [
+      "A. They contain a longer carbon chain",
+      "B. They have higher molar masses",
+      "C. They contain a carbon-carbon double bond",
+      "D. They contain only single bonds"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following compounds is an unsaturated hydrocarbon?",
+    "options": [
+      "A. Methane",
+      "B. Propane",
+      "C. Butane",
+      "D. Ethene"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "What is the by-product formed during the fermentation of glucose into ethanol?",
+    "options": [
+      "A. Carbon dioxide",
+      "B. Oxygen gas",
+      "C. Methane gas",
+      "D. Hydrogen gas"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is the general structure of a carboxylic acid?",
+    "options": [
+      "A. R-OH",
+      "B. R-COOH",
+      "C. R-CHO",
+      "D. R-CO-R"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "Why is a mixture of ethane and ethene passed through bromine water in the laboratory?",
+    "options": [
+      "A. To dry the gaseous mixture",
+      "B. To oxidize the ethane gas",
+      "C. To remove the ethene impurity",
+      "D. To increase the gas volume"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following compound classes is represented by the general formula R-COO-R'?",
+    "options": [
+      "A. Ketones",
+      "B. Aldehydes",
+      "C. Alkanols",
+      "D. Esters"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "The process of hydrogenation is used industrially to convert what?",
+    "options": [
+      "A. Alkanes to alkenes",
+      "B. Liquid oils to solid fats",
+      "C. Ethanol to ethanoic acid",
+      "D. Benzene to cyclohexane"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "Which of the following compounds is formed when ethanol is oxidized by acidified potassium dichromate?",
+    "options": [
+      "A. Ethene",
+      "B. Ethane",
+      "C. Ethanoic acid",
+      "D. Ethyl ethanoate"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "What type of reaction is the conversion of butan-1-ol to but-1-ene?",
+    "options": [
+      "A. Addition",
+      "B. Substitution",
+      "C. Oxidation",
+      "D. Dehydration"
+    ],
+    "answer": "D",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Which of the following is the correct molecular formula for ethyne?",
+    "options": [
+      "A. C2H2",
+      "B. C2H4",
+      "C. C2H6",
+      "D. C2H5OH"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "Which reagent is used to test for the presence of a carboxyl group in an organic compound?",
+    "options": [
+      "A. Bromine water",
+      "B. Sodium hydrogen carbonate",
+      "C. Fehling's solution",
+      "D. Lime water"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "The members of a homologous series differ from each other by what structural unit?",
+    "options": [
+      "A. A hydrogen atom",
+      "B. A carboxyl group",
+      "C. A -CH2- group",
+      "D. A hydroxyl group"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Which of the following is a use of ethanol in everyday life?",
+    "options": [
+      "A. As a strong oxidizing agent",
+      "B. As a solvent in perfumes",
+      "C. As a catalyst in reactions",
+      "D. As a fertilizer for crops"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "Which of the following pollutants is primarily responsible for the formation of acid rain?",
+    "options": [
+      "A. Carbon monoxide",
+      "B. Sulfur dioxide",
+      "C. Methane gas",
+      "D. Chlorofluorocarbon"
+    ],
+    "answer": "B",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "What is the name of the industrial process used for the manufacture of sulfuric acid?",
+    "options": [
+      "A. Haber process",
+      "B. Ostwald process",
+      "C. Contact process",
+      "D. Solvay process"
+    ],
+    "answer": "C",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "Which gas is primarily responsible for the depletion of the ozone layer?",
+    "options": [
+      "A. Carbon dioxide",
+      "B. Sulfur dioxide",
+      "C. Nitrogen gas",
+      "D. Chlorofluorocarbon"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "What is the main environmental concern associated with the excessive release of carbon dioxide?",
+    "options": [
+      "A. Global warming",
+      "B. Acid rain",
+      "C. Ozone depletion",
+      "D. Water pollution"
+    ],
+    "answer": "A",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is an example of a primary air pollutant?",
+    "options": [
+      "A. Ozone",
+      "B. Carbon monoxide",
+      "C. Nitric acid",
+      "D. Sulfuric acid"
+    ],
+    "answer": "B",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "The process of using microorganisms to clean up environmental pollutants is known as what?",
+    "options": [
+      "A. Electrolysis",
+      "B. Distillation",
+      "C. Bioremediation",
+      "D. Incineration"
+    ],
+    "answer": "C",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "Which of the following gases is the most abundant greenhouse gas in the atmosphere?",
+    "options": [
+      "A. Methane",
+      "B. Ozone",
+      "C. Nitrogen",
+      "D. Carbon dioxide"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The presence of excess nitrates and phosphates in water bodies leads to which environmental issue?",
+    "options": [
+      "A. Eutrophication",
+      "B. Salinization",
+      "C. Acidification",
+      "D. Desertification"
+    ],
+    "answer": "A",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "Which of the following industrial processes is used to manufacture ammonia?",
+    "options": [
+      "A. Contact process",
+      "B. Haber process",
+      "C. Solvay process",
+      "D. Bayer process"
+    ],
+    "answer": "B",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "What is the primary cause of soil pollution in agricultural areas?",
+    "options": [
+      "A. Planting of cover crops",
+      "B. Crop rotation practices",
+      "C. Excessive use of fertilizers",
+      "D. Organic farming methods"
+    ],
+    "answer": "C",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "What is the monomer unit that makes up proteins?",
+    "options": [
+      "A. Glucose",
+      "B. Fatty acids",
+      "C. Nucleotides",
+      "D. Amino acids"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "Which chemical bond is formed between two amino acids in a protein chain?",
+    "options": [
+      "A. Peptide bond",
+      "B. Glycosidic bond",
+      "C. Ester bond",
+      "D. Ionic bond"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "Which reagent is used to test for the presence of proteins in a food sample?",
+    "options": [
+      "A. Iodine solution",
+      "B. Biuret reagent",
+      "C. Fehling's solution",
+      "D. Benedict's solution"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Fats and oils are chemically classified as what type of compounds?",
+    "options": [
+      "A. Carbohydrates",
+      "B. Proteins",
+      "C. Esters of glycerol",
+      "D. Alcohols"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "The alkaline hydrolysis of fats to produce soap and glycerol is known as what?",
+    "options": [
+      "A. Esterification",
+      "B. Saponification",
+      "C. Fermentation",
+      "D. Hydrolysis"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Which of the following is a simple sugar (monosaccharide)?",
+    "options": [
+      "A. Sucrose",
+      "B. Maltose",
+      "C. Starch",
+      "D. Glucose"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "Which chemical test is commonly used to detect the presence of starch?",
+    "options": [
+      "A. Iodine test",
+      "B. Biuret test",
+      "C. Fehling's test",
+      "D. Emulsion test"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "What is the name of the polymer formed from the addition polymerization of ethene?",
+    "options": [
+      "A. Polystyrene",
+      "B. Polyethene",
+      "C. Polyvinyl chloride",
+      "D. Nylon"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "question": "Which of the following is a synthetic condensation polymer?",
+    "options": [
+      "A. Polyethene",
+      "B. Polypropene",
+      "C. Nylon",
+      "D. Polystyrene"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "Carbohydrates are composed of which three elements?",
+    "options": [
+      "A. Carbon and hydrogen only",
+      "B. Carbon, hydrogen and oxygen",
+      "C. Carbon, nitrogen and oxygen",
+      "D. Hydrogen, oxygen and nitrogen"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is a primary function of proteins in the human body?",
+    "options": [
+      "A. Primary energy storage",
+      "B. Act as hormones",
+      "C. Growth and repair of tissues",
+      "D. Insulation of organs"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The general structure of a fat or oil molecule consists of glycerol combined with what?",
+    "options": [
+      "A. Amino acid groups",
+      "B. Phosphate groups",
+      "C. Simple sugar units",
+      "D. Fatty acid chains"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is a reducing sugar that reacts with Fehling's solution?",
+    "options": [
+      "A. Glucose",
+      "B. Sucrose",
+      "C. Starch",
+      "D. Cellulose"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "What type of polymerization involves the loss of a small molecule, such as water, during the reaction?",
+    "options": [
+      "A. Addition polymerization",
+      "B. Condensation polymerization",
+      "C. Radical polymerization",
+      "D. Copolymerization"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Which of the following is an important structural carbohydrate found in plant cell walls?",
+    "options": [
+      "A. Glycogen",
+      "B. Starch",
+      "C. Cellulose",
+      "D. Fructose"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The process of making soap by boiling fats with sodium hydroxide is called what?",
+    "options": [
+      "A. Esterification",
+      "B. Hydrogenation",
+      "C. Vulcanization",
+      "D. Saponification"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "Which of the following compounds is a polymer of glucose units?",
+    "options": [
+      "A. Starch",
+      "B. Protein",
+      "C. Lipid",
+      "D. Nucleic acid"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "What is the main difference between fats and oils at room temperature?",
+    "options": [
+      "A. Fats have a lower molecular mass",
+      "B. Oils contain more single bonds",
+      "C. Fats are solid while oils are liquid",
+      "D. Oils are entirely inorganic"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "Which of the following is a characteristic of addition polymers?",
+    "options": [
+      "A. They are highly biodegradable",
+      "B. They are generally non-biodegradable",
+      "C. They are formed by losing water",
+      "D. They contain no carbon atoms"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "Which of the following is a common synthetic polymer used for making plastic bags?",
+    "options": [
+      "A. Cellulose",
+      "B. Protein",
+      "C. Rubber",
+      "D. Polyethene"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "Which of the following is a primary step in preparing a standard solution in the laboratory?",
+    "options": [
+      "A. Weighing the solute accurately",
+      "B. Boiling the distilled water",
+      "C. Filtering the final solution",
+      "D. Adding an indicator"
+    ],
+    "answer": "A",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Why is a conical flask usually swirled during a titration?",
+    "options": [
+      "A. To change the indicator color",
+      "B. To ensure complete mixing",
+      "C. To speed up the reaction",
+      "D. To evaporate the solvent"
+    ],
+    "answer": "B",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "Which piece of apparatus is used to measure the volume of a liquid very accurately?",
+    "options": [
+      "A. Beaker",
+      "B. Test tube",
+      "C. Burette",
+      "D. Funnel"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "What is the purpose of using a dessicator in the laboratory?",
+    "options": [
+      "A. To heat chemicals to high temperatures",
+      "B. To measure the volume of a gas",
+      "C. To produce distilled water",
+      "D. To keep substances dry"
+    ],
+    "answer": "D",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "Which method is most effective for separating a solid from a liquid suspension?",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Sublimation",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "What does the term 'heating to constant mass' refer to in the lab?",
+    "options": [
+      "A. Heating a substance until it melts",
+      "B. Heating until two consecutive masses match",
+      "C. Heating the substance for exactly one hour",
+      "D. Heating the substance until it turns black"
+    ],
+    "answer": "B",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Which of the following is an example of a primary standard substance used in titration?",
+    "options": [
+      "A. Concentrated sulfuric acid",
+      "B. Sodium hydroxide pellets",
+      "C. Anhydrous sodium carbonate",
+      "D. Dilute hydrochloric acid"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 278,
+    "question": "Which indicator is most suitable for a strong acid-strong base titration?",
+    "options": [
+      "A. Methyl orange",
+      "B. Litmus solution",
+      "C. Phenolphthalein",
+      "D. Bromothymol blue"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "What is the purpose of a water bath in the laboratory?",
+    "options": [
+      "A. To provide uniform heating",
+      "B. To measure the mass of solids",
+      "C. To filter suspended particles",
+      "D. To store volatile chemicals"
+    ],
+    "answer": "A",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "Which procedure is best for drying a wet precipitate in the laboratory?",
+    "options": [
+      "A. Washing it with more water",
+      "B. Placing it in a cool cupboard",
+      "C. Dissolving it in acid",
+      "D. Drying in an oven"
+    ],
+    "answer": "D",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "In an acid-base titration, 25 cm3 of 0.1 M NaOH requires 20 cm3 of HCl. What is the concentration of the HCl?",
+    "options": [
+      "A. 0.125 M",
+      "B. 0.100 M",
+      "C. 0.080 M",
+      "D. 0.250 M"
+    ],
+    "answer": "A",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "What does the term 'percentage purity' refer to in quantitative analysis?",
+    "options": [
+      "A. Total volume of the solution",
+      "B. Mass of pure substance per 100g sample",
+      "C. Mass of the solvent per 100g sample",
+      "D. Number of moles per cubic decimeter"
+    ],
+    "answer": "B",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "In a redox titration involving potassium permanganate and iron (II) sulfate, what is the color change at the end point?",
+    "options": [
+      "A. Pink to colorless",
+      "B. Colorless to pale green",
+      "C. Colorless to pink",
+      "D. Yellow to colorless"
+    ],
+    "answer": "C",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Which formula correctly relates concentration (C), volume (V), and moles (n)?",
+    "options": [
+      "A. n = C / V",
+      "B. V = n / C",
+      "C. C = V / n",
+      "D. n = C x V"
+    ],
+    "answer": "D",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "Why is it necessary to rinse the burette with the solution it will contain?",
+    "options": [
+      "A. To remove residual distilled water",
+      "B. To sterilize the glassware",
+      "C. To calibrate the volume readings",
+      "D. To speed up the reaction"
+    ],
+    "answer": "A",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "What is the main purpose of a blank titration in quantitative analysis?",
+    "options": [
+      "A. To standardize the indicator",
+      "B. To correct for impurities in the solvent",
+      "C. To determine the molar mass of the acid",
+      "D. To find the density of the solution"
+    ],
+    "answer": "B",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 287,
+    "question": "If 0.1 moles of a substance is dissolved in 200 cm3 of solution, what is its molarity?",
+    "options": [
+      "A. 0.1 M",
+      "B. 0.2 M",
+      "C. 0.5 M",
+      "D. 1.0 M"
+    ],
+    "answer": "C",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Which of the following is a primary standard requirement?",
+    "options": [
+      "A. It must be volatile",
+      "B. It must be highly reactive",
+      "C. It must be soluble in water",
+      "D. It must be hygroscopic"
+    ],
+    "answer": "C",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "The formula to find the mass of an element deposited during electrolysis involves Faraday's constant. What does one Faraday represent?",
+    "options": [
+      "A. Charge of one electron",
+      "B. Charge of one mole of electrons",
+      "C. Mass of one mole of gas",
+      "D. Volume of one mole of gas"
+    ],
+    "answer": "B",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "In a titration calculation, if the mole ratio of acid to base is 1:2, and 1 mole of acid is used, how many moles of base react?",
+    "options": [
+      "A. 0.5 moles",
+      "B. 1.0 mole",
+      "C. 2.0 moles",
+      "D. 4.0 moles"
+    ],
+    "answer": "C",
+    "topic": "Quantitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Which gas is produced when dilute hydrochloric acid reacts with a carbonate salt?",
+    "options": [
+      "A. Hydrogen",
+      "B. Oxygen",
+      "C. Chlorine",
+      "D. Carbon dioxide"
+    ],
+    "answer": "D",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Which of the following cations gives a white precipitate with dilute NaOH that dissolves in excess to form a clear solution?",
+    "options": [
+      "A. Zinc (Zn2+)",
+      "B. Copper (Cu2+)",
+      "C. Iron (Fe3+)",
+      "D. Calcium (Ca2+)"
+    ],
+    "answer": "A",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "What is the confirmatory test for the presence of ammonium (NH4+) ions?",
+    "options": [
+      "A. Adding barium chloride",
+      "B. Heating with NaOH and testing gas",
+      "C. Adding dilute hydrochloric acid",
+      "D. Adding potassium iodide"
+    ],
+    "answer": "B",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Which anion produces a colorless, pungent gas that turns acidified potassium dichromate paper green?",
+    "options": [
+      "A. Chloride ion",
+      "B. Carbonate ion",
+      "C. Sulfite ion",
+      "D. Sulfate ion"
+    ],
+    "answer": "C",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "What is the color of the precipitate formed when NaOH is added to a solution containing Fe2+ ions?",
+    "options": [
+      "A. Blue",
+      "B. Reddish-brown",
+      "C. White",
+      "D. Dirty green"
+    ],
+    "answer": "D",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Which reagent is used to confirm the presence of chloride ions in a solution?",
+    "options": [
+      "A. Silver nitrate",
+      "B. Barium chloride",
+      "C. Lead nitrate",
+      "D. Sodium hydroxide"
+    ],
+    "answer": "A",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following reagents is used to test for the presence of an alkene?",
+    "options": [
+      "A. Iodine solution",
+      "B. Bromine water",
+      "C. Fehling's solution",
+      "D. Lime water"
+    ],
+    "answer": "B",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following reagents is used to test for the presence of an alkene?",
+    "options": [
+      "A. Iodine solution",
+      "B. Bromine water",
+      "C. Fehling's solution",
+      "D. Lime water"
+    ],
+    "answer": "B",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "A gas that relights a glowing splint is most likely what?",
+    "options": [
+      "A. Hydrogen gas",
+      "B. Carbon dioxide gas",
+      "C. Oxygen gas",
+      "D. Ammonia gas"
+    ],
+    "answer": "C",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "What is the confirmatory test for the sulfate ion (SO42-)?",
+    "options": [
+      "A. Adding silver nitrate solution",
+      "B. Adding dilute nitric acid",
+      "C. Using red litmus paper",
+      "D. Adding barium chloride solution"
+    ],
+    "answer": "D",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "Which cation gives a deep blue precipitate when tested with aqueous ammonia?",
+    "options": [
+      "A. Copper (Cu2+)",
+      "B. Iron (Fe2+)",
+      "C. Zinc (Zn2+)",
+      "D. Lead (Pb2+)"
+    ],
+    "answer": "A",
+    "topic": "Qualitative Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "Which of the following particles is primarily responsible for the chemical properties of an element?",
+    "options": [
+      "A. The valence electrons in the atom",
+      "B. The neutrons in the atomic nucleus",
+      "C. The protons in the atomic nucleus",
+      "D. The nucleons in the atomic nucleus"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "Which of the following elements is classified as a member of the halogen group?",
+    "options": [
+      "A. The noble gas argon",
+      "B. The liquid bromine",
+      "C. The solid calcium",
+      "D. The metal magnesium"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "Which separation technique is most suitable for a mixture of ethanol and water?",
+    "options": [
+      "A. Simple gravity filtration",
+      "B. Using a separating funnel",
+      "C. Fractional distillation",
+      "D. Evaporation to dryness"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "What is the mass of 0.5 moles of calcium carbonate? (Ca=40, C=12, O=16)",
+    "options": [
+      "A. 25 g of the compound",
+      "B. 50 g of the compound",
+      "C. 75 g of the compound",
+      "D. 100 g of the compound"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "Which gas law states that volume is inversely proportional to pressure at constant temperature?",
+    "options": [
+      "A. Charles's law of gases",
+      "B. Boyle's law of gases",
+      "C. Graham's law of diffusion",
+      "D. Avogadro's law of gases"
+    ],
+    "answer": "B",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 306,
+    "question": "Which of the following processes is classified as an endothermic change?",
+    "options": [
+      "A. Melting of ice to water",
+      "B. Freezing of water to ice",
+      "C. Condensation of steam",
+      "D. Combustion of methane gas"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "Which of the following indicators is colorless in acidic solution and pink in basic solution?",
+    "options": [
+      "A. Litmus paper indicator",
+      "B. Methyl orange indicator",
+      "C. Bromothymol blue indicator",
+      "D. Phenolphthalein indicator"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "What happens to the solubility of a gas in a liquid when the temperature is increased?",
+    "options": [
+      "A. It increases steadily",
+      "B. It remains constant",
+      "C. It decreases steadily",
+      "D. It becomes zero"
+    ],
+    "answer": "C",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "Which of the following factors generally increases the rate of a chemical reaction?",
+    "options": [
+      "A. Increasing the reactant concentration",
+      "B. Decreasing the reactant temperature",
+      "C. Increasing the particle size",
+      "D. Adding a suitable inhibitor"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Which of the following chemical species is classified as a reducing agent?",
+    "options": [
+      "A. Acidified potassium permanganate",
+      "B. Acidified potassium dichromate",
+      "C. Hydrogen sulfide gas",
+      "D. Chlorine gas"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Which of the following compounds is an unsaturated hydrocarbon?",
+    "options": [
+      "A. The compound ethane",
+      "B. The compound ethene",
+      "C. The compound propane",
+      "D. The compound butane"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "Which of the following pollutants is primarily responsible for ozone layer depletion?",
+    "options": [
+      "A. Carbon dioxide gas",
+      "B. Sulfur dioxide gas",
+      "C. Nitrogen monoxide gas",
+      "D. Chlorofluorocarbon gas"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Which of the following reagents is used to test for the presence of proteins?",
+    "options": [
+      "A. Iodine solution reagent",
+      "B. Fehling's solution reagent",
+      "C. Benedict's solution reagent",
+      "D. Biuret reagent solution"
+    ],
+    "answer": "D",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "Which of the following apparatus is used to measure a specific volume of liquid accurately?",
+    "options": [
+      "A. A conical flask",
+      "B. A beaker",
+      "C. A pipette",
+      "D. A funnel"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "What is the maximum number of electrons that can occupy a single orbital?",
+    "options": [
+      "A. One electron only",
+      "B. Two electrons maximum",
+      "C. Four electrons maximum",
+      "D. Six electrons maximum"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "Which of the following trends is observed for atomic radius across a period?",
+    "options": [
+      "A. It decreases from left to right",
+      "B. It increases from left to right",
+      "C. It remains constant across period",
+      "D. It fluctuates randomly across period"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 317,
+    "question": "Which method is most suitable for separating a mixture of sand and water?",
+    "options": [
+      "A. Simple distillation method",
+      "B. Using a separating funnel",
+      "C. Filtration using filter paper",
+      "D. Evaporation to dryness"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "What is the empirical formula of a compound with 40% carbon, 6.7% hydrogen, and 53.3% oxygen?",
+    "options": [
+      "A. CH2O",
+      "B. C2H4O",
+      "C. C2H6O",
+      "D. CH4O"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "question": "Which of the following gases will diffuse most rapidly under the same conditions?",
+    "options": [
+      "A. Oxygen gas",
+      "B. Nitrogen gas",
+      "C. Carbon dioxide gas",
+      "D. Hydrogen gas"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "In an exothermic reaction, what happens to the temperature of the surroundings?",
+    "options": [
+      "A. It decreases steadily",
+      "B. It increases steadily",
+      "C. It remains constant",
+      "D. It fluctuates randomly"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "Which of the following definitions best describes a Bronsted-Lowry base?",
+    "options": [
+      "A. A substance that donates protons",
+      "B. A substance that accepts protons",
+      "C. A substance that donates electrons",
+      "D. A substance that accepts electrons"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Which of the following solutions is classified as a supersaturated solution?",
+    "options": [
+      "A. A solution with excess solute",
+      "B. A solution with no solute",
+      "C. A solution with little solute",
+      "D. A solution unstable and crystallizes"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "question": "What is the effect of a catalyst on the position of equilibrium in a reversible reaction?",
+    "options": [
+      "A. It has no effect on equilibrium",
+      "B. It shifts equilibrium to the right",
+      "C. It shifts equilibrium to the left",
+      "D. It stops the reaction completely"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "What is the oxidation state of chromium in the dichromate ion (Cr2O72-)?",
+    "options": [
+      "A. +2 oxidation state",
+      "B. +3 oxidation state",
+      "C. +6 oxidation state",
+      "D. +7 oxidation state"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "Which of the following compounds is a member of the alkanol homologous series?",
+    "options": [
+      "A. Ethanol compound",
+      "B. Ethanoic acid compound",
+      "C. Ethanal compound",
+      "D. Ethane compound"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "Which of the following processes is used to manufacture ammonia industrially?",
+    "options": [
+      "A. The Contact process",
+      "B. The Solvay process",
+      "C. The Ostwald process",
+      "D. The Haber process"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "Which of the following carbohydrates is classified as a monosaccharide?",
+    "options": [
+      "A. Sucrose sugar",
+      "B. Maltose sugar",
+      "C. Glucose sugar",
+      "D. Starch polymer"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "Why is a boiling chip added to a liquid before distillation?",
+    "options": [
+      "A. To increase the boiling point",
+      "B. To prevent bumping of the liquid",
+      "C. To make the liquid evaporate faster",
+      "D. To change the color of the liquid"
+    ],
+    "answer": "B",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "Which of the following subatomic particles is electrically neutral?",
+    "options": [
+      "A. The proton particle",
+      "B. The electron particle",
+      "C. The positron particle",
+      "D. The neutron particle"
+    ],
+    "answer": "D",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 330,
+    "question": "Which group of the periodic table contains the noble gases?",
+    "options": [
+      "A. Group zero of the table",
+      "B. Group one of the table",
+      "C. Group two of the table",
+      "D. Group seven of the table"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "Which of the following techniques is best for separating immiscible liquids?",
+    "options": [
+      "A. Fractional distillation method",
+      "B. Separating funnel method",
+      "C. Paper chromatography method",
+      "D. Magnetic separation method"
+    ],
+    "answer": "B",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "What is the number of moles in 36 g of carbon? (C=12)",
+    "options": [
+      "A. One mole of carbon",
+      "B. Two moles of carbon",
+      "C. Three moles of carbon",
+      "D. Four moles of carbon"
+    ],
+    "answer": "C",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "question": "Which gas law describes the relationship between volume and absolute temperature at constant pressure?",
+    "options": [
+      "A. Boyle's law of gases",
+      "B. Graham's law of diffusion",
+      "C. Charles's law of gases",
+      "D. Avogadro's law of gases"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following processes releases energy to the surroundings?",
+    "options": [
+      "A. Condensation of steam to water",
+      "B. Melting of ice to water",
+      "C. Boiling of water to steam",
+      "D. Sublimation of iodine solid"
+    ],
+    "answer": "A",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "What is the pH value of a neutral aqueous solution at 25 degrees Celsius?",
+    "options": [
+      "A. The pH is zero",
+      "B. The pH is seven",
+      "C. The pH is fourteen",
+      "D. The pH is one"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "question": "What is the effect of increasing pressure on the solubility of a gas in a liquid?",
+    "options": [
+      "A. It decreases the solubility",
+      "B. It has no effect on it",
+      "C. It stops the dissolution",
+      "D. It increases the solubility"
+    ],
+    "answer": "D",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "According to Le Chatelier's principle, what happens when a system at equilibrium is disturbed?",
+    "options": [
+      "A. It shifts to oppose the change",
+      "B. It shifts to enhance the change",
+      "C. It stops reacting immediately",
+      "D. It becomes completely irreversible"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "Which of the following species is oxidized in the reaction Zn + CuSO4 -> ZnSO4 + Cu?",
+    "options": [
+      "A. The copper (II) ion",
+      "B. The zinc metal",
+      "C. The sulfate ion",
+      "D. The copper metal"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "Which of the following is the IUPAC name for CH3-CH2-CH2-OH?",
+    "options": [
+      "A. The compound methanol",
+      "B. The compound ethanol",
+      "C. The compound propanol",
+      "D. The compound butanol"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "What is the main environmental concern associated with the release of carbon dioxide?",
+    "options": [
+      "A. The depletion of the ozone",
+      "B. The formation of acid rain",
+      "C. The pollution of water bodies",
+      "D. The increase in global warming"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "question": "Which chemical bond is formed when two amino acids join together?",
+    "options": [
+      "A. A glycosidic bond",
+      "B. A peptide bond",
+      "C. An ester bond",
+      "D. An ionic bond"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "What is the purpose of heating a substance to constant mass in the lab?",
+    "options": [
+      "A. To melt the solid substance",
+      "B. To change its chemical nature",
+      "C. To remove all volatile components",
+      "D. To increase its molar mass"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Which of the following elements has the highest electronegativity value?",
+    "options": [
+      "A. The element sodium",
+      "B. The element magnesium",
+      "C. The element chlorine",
+      "D. The element fluorine"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "Which of the following elements is classified as a transition metal?",
+    "options": [
+      "A. The element iron",
+      "B. The element magnesium",
+      "C. The element aluminum",
+      "D. The element sulfur"
+    ],
+    "answer": "A",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "Which method is used to separate a mixture of ammonium chloride and sodium chloride?",
+    "options": [
+      "A. Adding water and filtering",
+      "B. Using a separating funnel",
+      "C. Heating the mixture to sublime",
+      "D. Dissolving in ethanol and evaporating"
+    ],
+    "answer": "C",
+    "topic": "Separation Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "What is the mass of one mole of carbon dioxide? (C=12, O=16)",
+    "options": [
+      "A. 12 g per mole",
+      "B. 16 g per mole",
+      "C. 28 g per mole",
+      "D. 44 g per mole"
+    ],
+    "answer": "D",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "Which of the following statements is a postulate of the kinetic theory of gases?",
+    "options": [
+      "A. Gas particles move randomly and rapidly",
+      "B. Gas particles attract each other strongly",
+      "C. Gas particles occupy significant volume",
+      "D. Gas particles lose energy on collision"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "What is the enthalpy change for an endothermic chemical reaction?",
+    "options": [
+      "A. It is a negative value",
+      "B. It is a positive value",
+      "C. It is exactly zero",
+      "D. It is a constant value"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following compounds is classified as a strong acid in water?",
+    "options": [
+      "A. Ethanoic acid compound",
+      "B. Carbonic acid compound",
+      "C. Hydrogen sulfide compound",
+      "D. Hydrochloric acid compound"
+    ],
+    "answer": "D",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "Which of the following substances is an example of an amorphous solid?",
+    "options": [
+      "A. The solid glass",
+      "B. The solid quartz",
+      "C. The solid diamond",
+      "D. The solid sodium chloride"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "What is the role of a catalyst in a chemical reaction?",
+    "options": [
+      "A. It increases the reaction yield",
+      "B. It lowers the activation energy",
+      "C. It shifts the equilibrium point",
+      "D. It acts as a reactant in the process"
+    ],
+    "answer": "B",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "At which electrode does the process of oxidation occur during electrolysis?",
+    "options": [
+      "A. At the cathode electrode",
+      "B. At the salt bridge",
+      "C. At the anode electrode",
+      "D. At the voltmeter"
+    ],
+    "answer": "C",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Which of the following compounds is an alkyne?",
+    "options": [
+      "A. The compound C2H2",
+      "B. The compound C2H4",
+      "C. The compound C2H6",
+      "D. The compound C2H5OH"
+    ],
+    "answer": "A",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "Which of the following processes is used to convert liquid oils into solid fats?",
+    "options": [
+      "A. The esterification process",
+      "B. The saponification process",
+      "C. The hydrogenation process",
+      "D. The fermentation process"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Which of the following compounds is a polymer of glucose units?",
+    "options": [
+      "A. The compound protein",
+      "B. The compound starch",
+      "C. The compound lipid",
+      "D. The compound nucleic acid"
+    ],
+    "answer": "B",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 356,
+    "question": "Which of the following is a primary standard substance used in acid-base titrations?",
+    "options": [
+      "A. Concentrated sulfuric acid",
+      "B. Sodium hydroxide pellets",
+      "C. Dilute hydrochloric acid",
+      "D. Anhydrous sodium carbonate"
+    ],
+    "answer": "D",
+    "topic": "General Practical Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 357,
+    "question": "What is the relative atomic mass of an element based on?",
+    "options": [
+      "A. The hydrogen-1 scale",
+      "B. The oxygen-16 scale",
+      "C. The carbon-12 scale",
+      "D. The nitrogen-14 scale"
+    ],
+    "answer": "C",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "As you move down Group 7 of the periodic table, what happens to the reactivity of the halogens?",
+    "options": [
+      "A. It increases steadily down",
+      "B. It decreases steadily down",
+      "C. It remains constant down",
+      "D. It fluctuates randomly down"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "Which of the following techniques is used to purify a solid by dissolving it in hot solvent and cooling?",
+    "options": [
+      "A. The filtration process",
+      "B. The sublimation process",
+      "C. The evaporation process",
+      "D. The recrystallization process"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "How many atoms are present in one mole of a substance?",
+    "options": [
+      "A. 6.02 x 10^23 atoms",
+      "B. 6.02 x 10^22 atoms",
+      "C. 3.01 x 10^23 atoms",
+      "D. 1.20 x 10^24 atoms"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "Which of the following properties is characteristic of the solid state of matter?",
+    "options": [
+      "A. A definite shape and volume",
+      "B. An indefinite shape and volume",
+      "C. A high degree of compressibility",
+      "D. A completely random particle motion"
+    ],
+    "answer": "A",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "Which of the following physical processes is classified as exothermic?",
+    "options": [
+      "A. The melting of ice",
+      "B. The boiling of water",
+      "C. The sublimation of iodine",
+      "D. The condensation of steam"
+    ],
+    "answer": "D",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Which theory defines an acid as a substance that accepts an electron pair?",
+    "options": [
+      "A. The Arrhenius theory",
+      "B. The Lewis theory",
+      "C. The Bronsted-Lowry theory",
+      "D. The Lowry theory"
+    ],
+    "answer": "B",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 364,
+    "question": "What happens to the solubility of most solid solutes in water when the temperature is increased?",
+    "options": [
+      "A. It decreases steadily",
+      "B. It remains constant",
+      "C. It increases steadily",
+      "D. It becomes zero"
+    ],
+    "answer": "C",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "Which of the following statements describes a system in dynamic equilibrium?",
+    "options": [
+      "A. The reaction has stopped completely",
+      "B. Forward and reverse rates are equal",
+      "C. The reactants are fully consumed",
+      "D. The products are fully consumed"
+    ],
+    "answer": "B",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "What is the oxidation state of sulfur in sulfuric acid (H2SO4)?",
+    "options": [
+      "A. The state is +6",
+      "B. The state is +4",
+      "C. The state is +2",
+      "D. The state is -2"
+    ],
+    "answer": "A",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "Which of the following is a characteristic property of benzene?",
+    "options": [
+      "A. It decolorizes bromine water instantly",
+      "B. It undergoes addition reactions easily",
+      "C. It is a planar aromatic ring",
+      "D. It has a distinct garlic odor"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 368,
+    "question": "Which of the following gases is primarily responsible for the formation of acid rain?",
+    "options": [
+      "A. The gas carbon monoxide",
+      "B. The gas methane",
+      "C. The gas carbon dioxide",
+      "D. The gas sulfur dioxide"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "What is the monomer unit that makes up proteins?",
+    "options": [
+      "A. The amino acids",
+      "B. The glucose units",
+      "C. The fatty acids",
+      "D. The nucleotides"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "Which piece of apparatus is used to measure the volume of a liquid very accurately?",
+    "options": [
+      "A. A conical flask",
+      "B. A test tube",
+      "C. A burette",
+      "D. A funnel"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "Which of the following electron configurations represents the ground state of chlorine?",
+    "options": [
+      "A. 1s2 2s2 2p6 3s2 3p6",
+      "B. 1s2 2s2 2p6 3s2 3p5",
+      "C. 1s2 2s2 2p6 3s2 3p4",
+      "D. 1s2 2s2 2p6 3s2 3p3"
+    ],
+    "answer": "B",
+    "topic": "Structure of an Atom",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "Which of the following oxides is classified as amphoteric?",
+    "options": [
+      "A. Sodium oxide compound",
+      "B. Magnesium oxide compound",
+      "C. Sulfur dioxide compound",
+      "D. Aluminum oxide compound"
+    ],
+    "answer": "D",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 373,
+    "question": "Which of the following is a criterion for a substance to be considered pure?",
+    "options": [
+      "A. It is colorless and odorless",
+      "B. It dissolves completely in water",
+      "C. It has a high boiling point",
+      "D. It has a sharp melting point"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "What is the concentration of a solution containing 0.5 moles of solute in 2 dm3 of solution?",
+    "options": [
+      "A. 0.25 mol/dm3 solution",
+      "B. 0.50 mol/dm3 solution",
+      "C. 1.00 mol/dm3 solution",
+      "D. 4.00 mol/dm3 solution"
+    ],
+    "answer": "A",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "The temperature at which the vapor pressure of a liquid equals the external pressure is called what?",
+    "options": [
+      "A. The melting point",
+      "B. The freezing point",
+      "C. The boiling point",
+      "D. The critical point"
+    ],
+    "answer": "C",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following processes absorbs heat from the surroundings?",
+    "options": [
+      "A. The condensation of steam",
+      "B. The melting of ice",
+      "C. The freezing of water",
+      "D. The combustion of fuel"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "What is the conjugate base of the hydrogen sulfate ion (HSO4-)?",
+    "options": [
+      "A. The sulfur trioxide",
+      "B. The sulfurous acid",
+      "C. The sulfate ion (SO42-)",
+      "D. The hydroxide ion (OH-)"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "Which of the following liquids would be insoluble in water and form a separate layer?",
+    "options": [
+      "A. The ethanol liquid",
+      "B. The vegetable oil",
+      "C. The vinegar liquid",
+      "D. The acetone liquid"
+    ],
+    "answer": "B",
+    "topic": "Solubility of Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "What is the effect of increasing the surface area of a solid reactant on the rate of reaction?",
+    "options": [
+      "A. It increases the reaction rate",
+      "B. It decreases the reaction rate",
+      "C. It has no effect on the rate",
+      "D. It stops the reaction process"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "Which of the following is the standard electrode potential value for the standard hydrogen electrode?",
+    "options": [
+      "A. The value is 1.00 V",
+      "B. The value is -1.00 V",
+      "C. The value is 0.50 V",
+      "D. The value is 0.00 V"
+    ],
+    "answer": "D",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "Which reagent is used to distinguish between an alkane and an alkene?",
+    "options": [
+      "A. The distilled water",
+      "B. The bromine water",
+      "C. The sodium chloride",
+      "D. The dilute sulfuric acid"
+    ],
+    "answer": "B",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "What is the main environmental concern associated with the excessive release of carbon dioxide?",
+    "options": [
+      "A. The depletion of the ozone",
+      "B. The formation of acid rain",
+      "C. The pollution of water bodies",
+      "D. The increase in global warming"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "question": "Which reagent is used to test for the presence of an aldehyde group?",
+    "options": [
+      "A. The Fehling's solution",
+      "B. The litmus paper",
+      "C. The lime water",
+      "D. The iodine solution"
+    ],
+    "answer": "A",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "Which procedure is best for drying a wet precipitate in the laboratory?",
+    "options": [
+      "A. Washing it with more water",
+      "B. Placing it in a cool cupboard",
+      "C. Drying it in a heated oven",
+      "D. Dissolving it in strong acid"
+    ],
+    "answer": "C",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "question": "Which rule states that electrons fill lower energy orbitals before higher ones?",
+    "options": [
+      "A. The Aufbau principle",
+      "B. Hund's rule",
+      "C. The Pauli exclusion principle",
+      "D. The Heisenberg principle"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      "A. The element sodium",
+      "B. The element magnesium",
+      "C. The element fluorine",
+      "D. The element chlorine"
+    ],
+    "answer": "C",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Which apparatus is primarily used in the process of simple distillation?",
+    "options": [
+      "A. The separating funnel",
+      "B. The Buchner funnel",
+      "C. The Soxhlet extractor",
+      "D. The Liebig condenser"
+    ],
+    "answer": "D",
+    "topic": "Separation Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "What is the formula mass of calcium carbonate (CaCO3)? (Ca=40, C=12, O=16)",
+    "options": [
+      "A. The mass is 50",
+      "B. The mass is 100",
+      "C. The mass is 84",
+      "D. The mass is 68"
+    ],
+    "answer": "B",
+    "topic": "Stoichiometry & Chemical Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "What is the process of a substance changing directly from a solid to a gas called?",
+    "options": [
+      "A. The evaporation process",
+      "B. The condensation process",
+      "C. The deposition process",
+      "D. The sublimation process"
+    ],
+    "answer": "D",
+    "topic": "States of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "Which of the following properties is classified as a state function in thermodynamics?",
+    "options": [
+      "A. The heat of reaction",
+      "B. The enthalpy change",
+      "C. The work done",
+      "D. The path taken"
+    ],
+    "answer": "B",
+    "topic": "Energy & Energy Changes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "Which of the following salts undergoes hydrolysis in water to produce a basic solution?",
+    "options": [
+      "A. Ammonium chloride salt",
+      "B. Sodium chloride salt",
+      "C. Sodium ethanoate salt",
+      "D. Potassium nitrate salt"
+    ],
+    "answer": "C",
+    "topic": "Acids, Bases & Salts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "The maximum amount of solute that can dissolve in a given amount of solvent at a specific temperature is called what?",
+    "options": [
+      "A. The solubility of the substance",
+      "B. The molarity of the solution",
+      "C. The concentration of the mixture",
+      "D. The saturation point of the liquid"
+    ],
+    "answer": "A",
+    "topic": "Solubility of Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "question": "Which of the following increases the rate of reaction by increasing the frequency of collisions?",
+    "options": [
+      "A. Increasing the reactant concentration",
+      "B. Decreasing the reaction temperature",
+      "C. Adding a reaction inhibitor",
+      "D. Decreasing the surface area"
+    ],
+    "answer": "A",
+    "topic": "Chemical Kinetics & Equilibrium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "In the reaction Zn + CuSO4 -> ZnSO4 + Cu, which species acts as the oxidizing agent?",
+    "options": [
+      "A. The zinc metal",
+      "B. The copper (II) ion",
+      "C. The sulfate ion",
+      "D. The copper metal"
+    ],
+    "answer": "B",
+    "topic": "Redox Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "What is the product of the complete combustion of an alkane in excess oxygen?",
+    "options": [
+      "A. Carbon and hydrogen",
+      "B. Carbon monoxide and water",
+      "C. Carbon dioxide and water",
+      "D. Hydrogen and oxygen"
+    ],
+    "answer": "C",
+    "topic": "Chemistry of Carbon Compounds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "question": "Which of the following industrial processes is used to manufacture sulfuric acid?",
+    "options": [
+      "A. The Haber process",
+      "B. The Ostwald process",
+      "C. The Solvay process",
+      "D. The Contact process"
+    ],
+    "answer": "D",
+    "topic": "Chemistry, Industry & Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Which of the following is a primary function of proteins in the human body?",
+    "options": [
+      "A. Primary energy storage",
+      "B. Insulation of organs",
+      "C. Growth and repair of tissues",
+      "D. Act as hormones"
+    ],
+    "answer": "C",
+    "topic": "Basic Biochemistry & Polymers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Which method is most effective for separating a solid from a liquid suspension?",
+    "options": [
+      "A. The distillation method",
+      "B. The sublimation method",
+      "C. The evaporation method",
+      "D. The filtration method"
+    ],
+    "answer": "D",
+    "topic": "General Practical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "The relative molecular mass (Mr) of a compound is calculated based on which standard?",
+    "options": [
+      "A. The carbon-12 scale",
+      "B. The hydrogen-1 scale",
+      "C. The oxygen-16 scale",
+      "D. The nitrogen-14 scale"
+    ],
+    "answer": "A",
+    "topic": "Structure of an Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "Which of the following elements is in Period 3 of the periodic table?",
+    "options": [
+      "A. The element lithium",
+      "B. The element sodium",
+      "C. The element beryllium",
+      "D. The element potassium"
+    ],
+    "answer": "B",
+    "topic": "Periodic Chemistry",
+    "difficulty": "Medium"
+  }
+]
