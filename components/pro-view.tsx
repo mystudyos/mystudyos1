@@ -6,19 +6,36 @@ import type { User as FirebaseUser } from "firebase/auth"
 import { upgradeUserToPro } from "@/lib/user-stats"
 import { toast } from "react-toastify"
 
-const FEATURES_FREE = [
+const FEATURES_FREE_JSS = [
   "Exam Practice (Solid Question) mode",
   "All BECE subjects",
   "Basic progress tracking",
 ]
 
-const FEATURES_PRO = [
+const FEATURES_FREE_SSS = [
+  "Exam Practice (Solid Question) mode",
+  "All SSS subjects (WAEC, NECO & JAMB)",
+  "Basic progress tracking",
+]
+
+const FEATURES_PRO_JSS = [
   { text: "Everything in Free", active: true },
   { text: "Leaderboard identification", active: true },
   { text: "StudyOS AI", active: true },
   { text: "Advanced analytics & insights", active: true },
   { text: "Performance comparisons", active: true },
   { text: "Priority support", active: true },
+  { text: "Game Study Challenge", active: false },
+]
+
+const FEATURES_PRO_SSS = [
+  { text: "Everything in Free", active: true },
+  { text: "Leaderboard identification", active: true },
+  { text: "StudyOS AI", active: true },
+  { text: "Advanced analytics & insights", active: true },
+  { text: "Performance comparisons", active: true },
+  { text: "Priority support", active: true },
+  {text: "JAMB Exam Prep", active: false},
   { text: "Game Study Challenge", active: false },
 ]
 
@@ -32,13 +49,8 @@ interface ProViewProps {
 export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: ProViewProps) {
   const [isLoading, setIsLoading] = useState(false)
   const isSSS = category === "SSS"
-  const freeFeatures = isSSS
-    ? [
-        "Exam Practice (Solid Question) mode",
-        "All 27 SSS subjects (WAEC, NECO & JAMB)",
-        "Basic progress tracking",
-      ]
-    : FEATURES_FREE
+  const freeFeatures = isSSS ? FEATURES_FREE_SSS : FEATURES_FREE_JSS
+  const proFeatures = isSSS ? FEATURES_PRO_SSS : FEATURES_PRO_JSS
 
   const handlePayment = async () => {
     if (!user?.email) {
@@ -74,7 +86,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
             toast.success(
               <div>
                 <div className="font-bold">Welcome to StudyOS Pro! 🎉</div>
-                <div className="text-xs opacity-80 mt-0.5">You now have access to all premium features.</div>
+                <div className="text-xs opacity-80 mt-0.5">You're now a Pro student!</div>
               </div>,
               { autoClose: 5000 }
             )
@@ -147,7 +159,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
           )}
         </div>
         <p className="text-xs text-purple-200/70 mb-5">
-          {isSSS ? "Billed every 3 months · WAEC, NECO & JAMB Prep" : "Billed every 2 months · Cancel anytime"}
+          {isSSS ? "Billed every 3 months · Cancel anytime" : "Billed every 2 months · Cancel anytime"}
         </p>
 
         {isPro ? (
@@ -200,7 +212,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
             Pro Features
           </p>
           <div className="flex flex-col gap-2.5">
-            {FEATURES_PRO.map((feat) => (
+            {proFeatures.map((feat) => (
               <div key={feat.text} className="flex items-center gap-3">
                 <div className={`w-5 h-5 rounded-full flex items-center justify-center shrink-0 ${feat.active ? "bg-primary/20" : "bg-foreground/5"}`}>
                   {feat.active ? (
