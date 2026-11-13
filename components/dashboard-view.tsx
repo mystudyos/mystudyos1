@@ -516,13 +516,13 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
               <div>
                 <div className="flex items-center gap-2">
                   <p className="text-sm sm:text-base font-bold text-white">Exam Practice</p>
-                  <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-purple-400/15 text-purple-300">
+                  <span className="text-[8px] font-semibold px-2 py-0.5 rounded-full bg-purple-400/15 text-purple-300">
                     Free
                   </span>
                 </div>
                 <p className="text-xs text-white/70 mt-0.5">
                   {isSSS
-                    ? "CBT exam simulator (WAEC • NECO • JAMB)"
+                    ? "CBT (WAEC • NECO • JAMB)"
                     : "BECE Exam Simulator"}
                 </p>
               </div>
