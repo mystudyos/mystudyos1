@@ -522,8 +522,8 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
                 </div>
                 <p className="text-xs text-white/70 mt-0.5">
                   {isSSS
-                    ? "Timed CBT past question simulation (WAEC • NECO • JAMB)"
-                    : "Timed BECE past question simulation"}
+                    ? "CBT exam simulator (WAEC • NECO • JAMB)"
+                    : "BECE Exam Simulator"}
                 </p>
               </div>
             </div>

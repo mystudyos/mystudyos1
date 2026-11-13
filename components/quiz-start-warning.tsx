@@ -10,8 +10,8 @@ export function QuizStartWarning({ onConfirm }: QuizStartWarningProps) {
   return (
     <div className="fixed inset-0 z-100 flex items-center justify-center bg-black/60 backdrop-blur-md p-6 animate-in fade-in duration-500">
       <div className="glass rounded-4xl p-8 max-w-sm w-full border border-white/10 shadow-2xl flex flex-col items-center text-center gap-6 scale-in-center">
-        <div className="w-16 h-16 rounded-full bg-amber-500/20 flex items-center justify-center border border-amber-500/30 animate-pulse">
-          <AlertTriangle className="w-8 h-8 text-amber-500" />
+        <div className="w-16 h-16 rounded-full bg-amber-500/20 flex items-center justify-center border border-amber-700/30 animate-pulse">
+          <AlertTriangle className="w-8 h-8 text-amber-900" />
         </div>
         
         <div className="space-y-3">

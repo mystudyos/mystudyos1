@@ -32,7 +32,15 @@ export type SSSPaperType = "objective" | "theory"
 
 // Subjects that currently have verified internal JSON question banks under Json/NECO/
 export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey[]> = {
-  neco: ["agriculture", "biology", "chemistry"],
+  neco: [
+    "agriculture",
+    "biology",
+    "chemistry",
+    "crk",
+    "economics",
+    "english",
+    "government",
+  ],
   wassce: [],
   utme: [],
 }
@@ -110,7 +118,7 @@ export const SSS_EXAM_OPTIONS: {
     type: "wassce",
     label: "WAEC (WASSCE)",
     badge: "SSCE",
-    description: "West African Senior School Certificate Examination (Objective & Theory)",
+    description: "(Objective & Theory)",
     enabled: false,
     supportsTheory: true,
   },
@@ -118,7 +126,7 @@ export const SSS_EXAM_OPTIONS: {
     type: "neco",
     label: "NECO",
     badge: "SSCE",
-    description: "National Examinations Council Senior School Certificate (Objective & Theory)",
+    description: "(Objective & Theory)",
     enabled: true,
     supportsTheory: true,
   },
@@ -126,7 +134,7 @@ export const SSS_EXAM_OPTIONS: {
     type: "utme",
     label: "JAMB (UTME)",
     badge: "UTME",
-    description: "Unified Tertiary Matriculation Examination CBT (Objective Only)",
+    description: "(Objective Only)",
     enabled: false,
     supportsTheory: false,
   },

@@ -13,7 +13,7 @@ import { GlobalChatView } from "./global-chat-view"
 import { DMChatView } from "./dm-chat-view"
 import { 
   ArrowLeft, 
-  Users, 
+  Pin, 
   Search, 
   ShieldAlert,
   MessageSquare,
@@ -179,8 +179,8 @@ export function ChatHub({
             {activeSubTab === "global" && (
               <div className="absolute inset-0 rounded-xl bg-primary shadow-lg shadow-primary/20 animate-in fade-in zoom-in-95 duration-200 -z-10" />
             )}
-            <Users className="w-4 h-4" />
-            Room Chat
+            <Pin className="w-4 h-4" />
+            Note Room
             {activeSubTab !== "global" && globalUnread > 0 && (
               <span className="min-w-4.5 h-4.5 px-1.5 rounded-full bg-primary text-primary-foreground text-[9px] font-black flex items-center justify-center border border-background shadow-md">
                 {globalUnread}

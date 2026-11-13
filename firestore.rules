@@ -106,6 +106,13 @@ service cloud.firestore {
         // Allow edit/delete if owner of message or admin
         allow update, delete: if isAuth() && (resource.data.uid == request.auth.uid || isAdmin());
       }
+
+      // Direct Messages typing indicator sub-collection rules (NEW ADDITION)
+      match /typing/{uid} {
+        allow read, write: if isAuth() && (
+          request.auth.uid in get(/databases/$(database)/documents/directChats/$(chatId)).data.users || isAdmin()
+        );
+      }
     }
 
     // 7. Safety Reports (Block reporting)

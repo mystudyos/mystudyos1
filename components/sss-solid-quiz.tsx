@@ -21,6 +21,10 @@ import { shuffleArray, type Question } from "@/lib/question-types"
 import necoAgricJson from "../Json/NECO/Agricsci.json"
 import necoBiologyJson from "../Json/NECO/Biology.json"
 import necoChemistryJson from "../Json/NECO/Chemistry.json"
+import necoCrsJson from "../Json/NECO/Crs.json"
+import necoEconomicsJson from "../Json/NECO/Economics.json"
+import necoEnglishJson from "../Json/NECO/English.json"
+import necoGovernmentJson from "../Json/NECO/Government.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -77,6 +81,10 @@ const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
   agriculture: necoAgricJson as RawJsonQuestion[],
   biology: necoBiologyJson as RawJsonQuestion[],
   chemistry: necoChemistryJson as RawJsonQuestion[],
+  crk: necoCrsJson as RawJsonQuestion[],
+  economics: necoEconomicsJson as RawJsonQuestion[],
+  english: necoEnglishJson as RawJsonQuestion[],
+  government: necoGovernmentJson as RawJsonQuestion[],
 }
 
 interface SSSSolidQuizProps {

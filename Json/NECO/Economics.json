@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best defines the fundamental economic problem?",
+    "options": [
+      "A. The unlimited availability of resources to satisfy human needs",
+      "B. The limited nature of resources relative to unlimited human wants",
+      "C. The government's inability to control the pricing of local goods",
+      "D. The unequal distribution of income among various households"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The study of economics is primarily concerned with how society manages its:",
+    "options": [
+      "A. Political structures and the formulation of governmental policies",
+      "B. Scarce resources to satisfy competing and unlimited wants",
+      "C. Financial institutions and the regulation of commercial banks",
+      "D. Cultural heritage and the preservation of traditional values"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "A situation where a consumer must sacrifice one commodity to obtain another is known as:",
+    "options": [
+      "A. Opportunity cost",
+      "B. Scale of preference",
+      "C. Marginal utility",
+      "D. Economic efficiency"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The graphical representation showing combinations of two goods an economy can produce is called:",
+    "options": [
+      "A. A demand and supply schedule",
+      "B. A production possibility curve",
+      "C. An indifference curve map",
+      "D. A marginal cost curve"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "A rational consumer arranges his wants in descending order of importance. This list is referred to as:",
+    "options": [
+      "A. Opportunity cost",
+      "B. Scale of preference",
+      "C. Production schedule",
+      "D. Consumption curve"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a primary economic activity?",
+    "options": [
+      "A. Manufacturing of textiles",
+      "B. Extraction of crude oil",
+      "C. Provision of banking services",
+      "D. Construction of roads"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "A point inside the production possibility curve indicates that resources are:",
+    "options": [
+      "A. Fully and efficiently utilized",
+      "B. Underutilized or unemployed",
+      "C. Impossible to be allocated",
+      "D. Overutilized beyond capacity"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "The concept of opportunity cost is closely related to the existence of:",
+    "options": [
+      "A. Unlimited wants and limited resources",
+      "B. Perfect competition in the market",
+      "C. Government intervention in production",
+      "D. Equal distribution of national wealth"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Economics is divided into microeconomics and macroeconomics. Microeconomics focuses on:",
+    "options": [
+      "A. National income and general price levels",
+      "B. Individual households and specific firms",
+      "C. International trade and balance of payments",
+      "D. Government fiscal and monetary policies"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The outward shift of a production possibility curve can be caused by:",
+    "options": [
+      "A. A decrease in the population size",
+      "B. An improvement in technology",
+      "C. A reduction in capital stock",
+      "D. An increase in unemployment"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "The distribution of goods and services among the various factors of production is known as:",
+    "options": [
+      "A. Production",
+      "B. Distribution",
+      "C. Consumption",
+      "D. Exchange"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following falls under the tertiary sector of an economy?",
+    "options": [
+      "A. Fishing and lumbering",
+      "B. Mining and quarrying",
+      "C. Banking and insurance",
+      "D. Textile manufacturing"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "A movement along a production possibility curve from one point to another implies:",
+    "options": [
+      "A. An increase in the available resources",
+      "B. A change in the combination of goods",
+      "C. A shift in the technological capability",
+      "D. A rise in the level of unemployment"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "The value of the next best alternative forgone when a choice is made is called:",
+    "options": [
+      "A. Money cost",
+      "B. Real cost",
+      "C. Opportunity cost",
+      "D. Social cost"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "The basic economic questions that every society must answer do not include:",
+    "options": [
+      "A. What goods and services to produce",
+      "B. How to produce the goods and services",
+      "C. For whom the goods are produced",
+      "D. When to join a trade union"
+    ],
+    "answer": "D",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "A production possibility curve that is a straight line implies that opportunity cost is:",
+    "options": [
+      "A. Increasing",
+      "B. Decreasing",
+      "C. Constant",
+      "D. Zero"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 17,
+    "question": "The branch of economics that deals with value judgments and opinions is known as:",
+    "options": [
+      "A. Positive economics",
+      "B. Normative economics",
+      "C. Microeconomics",
+      "D. Development economics"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following best describes the term 'economic efficiency'?",
+    "options": [
+      "A. Maximizing output while minimizing the use of resources",
+      "B. Equal distribution of income among all citizens",
+      "C. Producing goods regardless of consumer preferences",
+      "D. Government ownership of all productive resources"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "The process of increasing the value of goods by changing their form is called:",
+    "options": [
+      "A. Place utility",
+      "B. Form utility",
+      "C. Time utility",
+      "D. Possession utility"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "The classification of economic activities into primary, secondary, and tertiary is based on:",
+    "options": [
+      "A. The location of the business enterprise",
+      "B. The size of the labour force employed",
+      "C. The stage of production in the value chain",
+      "D. The amount of capital invested in the firm"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "A situation where an economy is operating on its production possibility curve indicates:",
+    "options": [
+      "A. Productive inefficiency",
+      "B. Full utilization of resources",
+      "C. Maximum level of unemployment",
+      "D. Underutilization of capital"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is a characteristic of human wants?",
+    "options": [
+      "A. They are limited and finite",
+      "B. They are insatiable and recurrent",
+      "C. They are independent of income",
+      "D. They are equally important to all"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "The study of how households and firms make decisions and interact in specific markets is:",
+    "options": [
+      "A. Macroeconomics",
+      "B. Microeconomics",
+      "C. International economics",
+      "D. Public finance"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The transfer of goods from the producer to the final consumer constitutes which economic activity?",
+    "options": [
+      "A. Production",
+      "B. Consumption",
+      "C. Distribution",
+      "D. Extraction"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "The assumption that consumers make rational choices implies that they aim to:",
+    "options": [
+      "A. Maximize their satisfaction within their budget",
+      "B. Purchase only goods that are heavily advertised",
+      "C. Spend all their income on luxury goods",
+      "D. Avoid saving any portion of their income"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "If a country can produce more of a good without reducing the production of another, it is operating:",
+    "options": [
+      "A. On the production possibility curve",
+      "B. Inside the production possibility curve",
+      "C. Outside the production possibility curve",
+      "D. Along a downward sloping curve"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "The term 'ceteris paribus' in economic analysis means:",
+    "options": [
+      "A. All other things being equal",
+      "B. Assuming the worst-case scenario",
+      "C. The market is perfectly competitive",
+      "D. Government policy remains constant"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which sector contributes most directly to the extraction of raw materials from nature?",
+    "options": [
+      "A. Primary sector",
+      "B. Secondary sector",
+      "C. Tertiary sector",
+      "D. Quaternary sector"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "Opportunity cost is also known as the:",
+    "options": [
+      "A. Accounting cost of production",
+      "B. Alternative forgone in a choice",
+      "C. Total cost of producing a good",
+      "D. Sunk cost of a business decision"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "The problem of scarcity arises because human wants are unlimited while resources are:",
+    "options": [
+      "A. Equally distributed among all citizens",
+      "B. Unlimited and easily accessible",
+      "C. Limited and have alternative uses",
+      "D. Constantly increasing in quantity"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a fundamental characteristic of land as a factor of production?",
+    "options": [
+      "A. Its supply is highly elastic in the long run",
+      "B. Its supply is fixed and geographically immobile",
+      "C. Its reward is strictly determined by interest rates",
+      "D. It requires continuous human effort to be created"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The reward for labour as a factor of production is generally referred to as:",
+    "options": [
+      "A. Wages or salaries",
+      "B. Rent or royalties",
+      "C. Interest or dividends",
+      "D. Profit or surplus"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "The process of converting raw materials into capital goods is known as:",
+    "options": [
+      "A. Capital consumption",
+      "B. Capital depreciation",
+      "C. Capital formation",
+      "D. Capital expansion"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Labour is often described as perishable because it:",
+    "options": [
+      "A. Requires constant payment of wages",
+      "B. Can be easily replaced by machinery",
+      "C. Depends heavily on climatic conditions",
+      "D. Cannot be stored for future use"
+    ],
+    "answer": "D",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The individual who coordinates the other factors of production and bears the risk is the:",
+    "options": [
+      "A. Entrepreneur",
+      "B. Shareholder",
+      "C. Wholesaler",
+      "D. Consumer"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is considered a free gift of nature in economics?",
+    "options": [
+      "A. Machinery",
+      "B. Buildings",
+      "C. Land",
+      "D. Vehicles"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The reward paid for the use of capital in the production process is:",
+    "options": [
+      "A. Wages",
+      "B. Interest",
+      "C. Rent",
+      "D. Profit"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "The movement of workers from one geographical location to another is known as:",
+    "options": [
+      "A. Occupational mobility",
+      "B. Horizontal mobility",
+      "C. Vertical mobility",
+      "D. Geographical mobility"
+    ],
+    "answer": "D",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is a primary function of an entrepreneur in production?",
+    "options": [
+      "A. Supplying natural resources",
+      "B. Providing manual labour",
+      "C. Organizing and coordinating resources",
+      "D. Lending money to the business"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Capital is distinct from land because capital is:",
+    "options": [
+      "A. Provided by nature",
+      "B. Man-made",
+      "C. Fixed in supply",
+      "D. Completely immobile"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "Which factor of production is considered the most active and mobile?",
+    "options": [
+      "A. Land",
+      "B. Capital",
+      "C. Labour",
+      "D. Entrepreneurship"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The efficiency of labour can be significantly improved through:",
+    "options": [
+      "A. Increasing the retirement age",
+      "B. Reducing the working hours",
+      "C. Education and training",
+      "D. Restricting labour mobility"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "An example of working capital in a manufacturing firm is:",
+    "options": [
+      "A. Raw materials",
+      "B. Factory building",
+      "C. Heavy machinery",
+      "D. Office furniture"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "The degree of mobility of labour is generally restricted by:",
+    "options": [
+      "A. High levels of education",
+      "B. Strong family and social ties",
+      "C. Availability of transport networks",
+      "D. Government training schemes"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a characteristic of human capital?",
+    "options": [
+      "A. It is owned by the government",
+      "B. It can be bought in the market",
+      "C. It is acquired through education",
+      "D. It is fixed and inelastic"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "The reward for entrepreneurship is profit because the entrepreneur:",
+    "options": [
+      "A. Provides the initial land",
+      "B. Undertakes the business risks",
+      "C. Supplies the manual skills",
+      "D. Lends money to the firm"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The supply of land is perfectly inelastic because:",
+    "options": [
+      "A. Its price is controlled by government",
+      "B. It is used for agricultural purposes",
+      "C. Its reward is determined by demand",
+      "D. Its quantity cannot be increased"
+    ],
+    "answer": "D",
+    "topic": "Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is an example of fixed capital?",
+    "options": [
+      "A. Fuel and lubricants",
+      "B. Factory machinery",
+      "C. Stock of raw materials",
+      "D. Cash held in the bank"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The concept of division of labour is primarily dependent on the:",
+    "options": [
+      "A. Size of the market",
+      "B. Level of taxation",
+      "C. Type of government",
+      "D. Supply of land"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "A major problem associated with specialization and division of labour is:",
+    "options": [
+      "A. Increased cost of production",
+      "B. Decline in the quality of goods",
+      "C. Boredom and monotony for workers",
+      "D. Shortage of raw materials"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "The geographical mobility of labour is the movement of workers:",
+    "options": [
+      "A. From one occupation to another",
+      "B. From one location to another",
+      "C. From lower to higher status",
+      "D. From rural to urban areas"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following factors of production earns rent as its reward?",
+    "options": [
+      "A. Labour",
+      "B. Capital",
+      "C. Land",
+      "D. Entrepreneurship"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "The primary source of capital formation in any economy is:",
+    "options": [
+      "A. Government subsidies",
+      "B. Foreign aid",
+      "C. Domestic savings",
+      "D. Bank loans"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Labour can be effectively combined with capital in production by:",
+    "options": [
+      "A. Reducing the working population",
+      "B. Increasing the use of manual tools",
+      "C. Providing modern machinery to workers",
+      "D. Restricting the importation of technology"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is a characteristic of an entrepreneur?",
+    "options": [
+      "A. They receive fixed interest on investment",
+      "B. They supply manual labour for production",
+      "C. They are willing to bear business risks",
+      "D. They own all the natural resources used"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The total number of people who are willing and able to work in a country is termed the:",
+    "options": [
+      "A. Total population",
+      "B. Labour force",
+      "C. Dependent population",
+      "D. Working population"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Occupational mobility of labour refers to the movement of workers:",
+    "options": [
+      "A. Between different geographical regions",
+      "B. From one industry to another",
+      "C. From employment to unemployment",
+      "D. From rural to urban settlements"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is an example of a primary factor of production?",
+    "options": [
+      "A. Land",
+      "B. Capital",
+      "C. Labour",
+      "D. Entrepreneurship"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "The productivity of land can be enhanced through:",
+    "options": [
+      "A. Overgrazing by livestock",
+      "B. Continuous cropping without rest",
+      "C. The application of fertilizers",
+      "D. Deforestation of the area"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "The concept of opportunity cost is best illustrated when an entrepreneur:",
+    "options": [
+      "A. Hires more labour to increase output",
+      "B. Chooses to invest profits rather than consume",
+      "C. Buys new machinery to replace old ones",
+      "D. Pays wages to workers at the end of the month"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "An economic system where the means of production are exclusively owned by private individuals is known as:",
+    "options": [
+      "A. Capitalism",
+      "B. Socialism",
+      "C. Mixed economy",
+      "D. Communism"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The price mechanism is the primary tool for resource allocation in which economic system?",
+    "options": [
+      "A. Socialist economy",
+      "B. Traditional economy",
+      "C. Command economy",
+      "D. Capitalist economy"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "An economic system characterized by the public ownership of resources is primarily known as:",
+    "options": [
+      "A. Capitalism",
+      "B. Mixed economy",
+      "C. Socialism",
+      "D. Free market"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Which economic system combines features of both private enterprise and government control?",
+    "options": [
+      "A. Traditional system",
+      "B. Command system",
+      "C. Market system",
+      "D. Mixed economy"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "The primary driving force for producers in a capitalist economy is the:",
+    "options": [
+      "A. Profit motive",
+      "B. Social welfare",
+      "C. Government directive",
+      "D. Equity objective"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "One major advantage associated with the capitalist economic system is its:",
+    "options": [
+      "A. Equal distribution of income",
+      "B. Efficient resource allocation",
+      "C. Absence of business cycles",
+      "D. Guaranteed full employment"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "A fundamental criticism of a socialist economy is the potential loss of:",
+    "options": [
+      "A. High national output",
+      "B. Consumer sovereignty",
+      "C. Industrial technology",
+      "D. Public infrastructure"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "In a free-market economy, the question of what to produce is ultimately determined by:",
+    "options": [
+      "A. Government policies",
+      "B. Central planning",
+      "C. Traditional customs",
+      "D. Consumer demand"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "In a mixed economy, the private sector is primarily motivated by the desire to:",
+    "options": [
+      "A. Maximize profit",
+      "B. Ensure equity",
+      "C. Serve the public",
+      "D. Achieve stability"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "The economic problem of 'for whom to produce' in a socialist system is resolved by:",
+    "options": [
+      "A. Price signals",
+      "B. Consumer votes",
+      "C. Government planning",
+      "D. Market forces"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following represents a key feature of a socialist economic system?",
+    "options": [
+      "A. Private ownership of capital",
+      "B. Public ownership of resources",
+      "C. Consumer sovereignty",
+      "D. Free market competition"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "The economic philosophy of 'laissez-faire' is most closely associated with:",
+    "options": [
+      "A. Capitalism",
+      "B. Socialism",
+      "C. Mixed economy",
+      "D. Feudalism"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "An economic system that relies heavily on custom and tradition to allocate resources is a:",
+    "options": [
+      "A. Market economy",
+      "B. Command economy",
+      "C. Traditional economy",
+      "D. Mixed economy"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "A common problem associated with capitalism is the existence of:",
+    "options": [
+      "A. Constant surplus of goods",
+      "B. Wide income inequality",
+      "C. Lack of property rights",
+      "D. Absence of price mechanism"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "The public sector in a mixed economy exists mainly to provide:",
+    "options": [
+      "A. Maximum private profits",
+      "B. Luxury consumer goods",
+      "C. Essential public services",
+      "D. Free market competition"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The central planning authority in a command economy decides the:",
+    "options": [
+      "A. Allocation of resources",
+      "B. Market equilibrium price",
+      "C. Individual consumer tastes",
+      "D. Profit margin of firms"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following best describes a mixed economy?",
+    "options": [
+      "A. Complete government control of trade",
+      "B. Absolute private ownership of firms",
+      "C. Absence of government regulations",
+      "D. Coexistence of public and private firms"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 78,
+    "question": "The concept of consumer sovereignty is a dominant feature of which economic system?",
+    "options": [
+      "A. Capitalism",
+      "B. Socialism",
+      "C. Communism",
+      "D. Command economy"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "One advantage of a socialist system is that it generally:",
+    "options": [
+      "A. Encourages private monopolies",
+      "B. Promotes rapid innovation",
+      "C. Reduces income inequality",
+      "D. Eliminates government control"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "A major advantage of a mixed economy is that it attempts to combine:",
+    "options": [
+      "A. Complete elimination of taxes",
+      "B. Guaranteed perfect competition",
+      "C. Abolition of all regulations",
+      "D. Economic efficiency and welfare"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "In a capitalist system, the 'invisible hand' that guides the market refers to the:",
+    "options": [
+      "A. Government policies",
+      "B. Price mechanism",
+      "C. Central planning",
+      "D. Trade unions"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The recurrence of unemployment and inflation in a capitalist economy is often attributed to:",
+    "options": [
+      "A. Excess government control",
+      "B. Market failure",
+      "C. Lack of private property",
+      "D. Absence of competition"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "A key defining feature of a command economy is the presence of:",
+    "options": [
+      "A. Decentralized decisions",
+      "B. Centralized decisions",
+      "C. Free pricing system",
+      "D. Profit-driven output"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "In a mixed economy, the government regulates the private sector primarily to:",
+    "options": [
+      "A. Prevent exploitation",
+      "B. Increase monopoly power",
+      "C. Eliminate competition",
+      "D. Maximize private profits"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Which economic system is most likely to experience rapid technological innovation?",
+    "options": [
+      "A. Capitalism",
+      "B. Socialism",
+      "C. Traditional economy",
+      "D. Command economy"
+    ],
+    "answer": "A",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "The fundamental economic problem that every society must solve regardless of its system is:",
+    "options": [
+      "A. Inflation",
+      "B. Unemployment",
+      "C. Scarcity",
+      "D. Deflation"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "In a socialist economy, the means of production are predominantly owned by the:",
+    "options": [
+      "A. Private sector",
+      "B. State",
+      "C. Foreign firms",
+      "D. Multinationals"
+    ],
+    "answer": "B",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "The primary objective of a socialist economic system is to achieve:",
+    "options": [
+      "A. Maximum profit",
+      "B. Consumer choice",
+      "C. Equitable distribution",
+      "D. Market equilibrium"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "A system where the state and private individuals jointly own productive resources is termed a:",
+    "options": [
+      "A. Capitalist economy",
+      "B. Socialist economy",
+      "C. Command economy",
+      "D. Mixed economy"
+    ],
+    "answer": "D",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "Government intervention in a mixed economy is usually carried out through the use of:",
+    "options": [
+      "A. Traditional decrees",
+      "B. Private contracts",
+      "C. Fiscal and monetary policy",
+      "D. Religious laws"
+    ],
+    "answer": "C",
+    "topic": "Types and Basic Features of Economic Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "What is the most frequently occurring value in a given set of data called?",
+    "options": [
+      "A. The arithmetic average of all values",
+      "B. The middle value of ordered data",
+      "C. The most frequently occurring value",
+      "D. The difference between extreme values"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Which measure of central tendency is calculated by dividing the sum of all values by the total number of values?",
+    "options": [
+      "A. The sum of values divided by total count",
+      "B. The middle value when data is arranged",
+      "C. The most frequently occurring observation",
+      "D. The difference between maximum and minimum"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "To determine the median of a set of data, the values must first be:",
+    "options": [
+      "A. Grouped into separate classes and ranges",
+      "B. Arranged in ascending or descending order",
+      "C. Converted into percentages of the total",
+      "D. Plotted on a scatter graph for analysis"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is best suited for representing data visually as a circle divided into sectors?",
+    "options": [
+      "A. A line graph plotting frequency over time",
+      "B. A histogram showing continuous grouped data",
+      "C. A bar chart displaying categorical data",
+      "D. A pie chart dividing a circle into sectors"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "A graph that shows the relationship between two variables using a continuous line is called a:",
+    "options": [
+      "A. A line graph illustrating variable relationships",
+      "B. A bar chart comparing different categories",
+      "C. A pie chart showing proportions of a whole",
+      "D. A histogram representing frequency density"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "When a set of data has an even number of observations, the median is found by taking the:",
+    "options": [
+      "A. Difference between the highest and lowest values",
+      "B. Average of the two middle values in the set",
+      "C. Most frequently appearing value in the set",
+      "D. Sum of all values divided by the total count"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The sum of the deviations of each value from the arithmetic mean is always:",
+    "options": [
+      "A. Always equal to the total number of observations",
+      "B. Equal to the highest value in the distribution",
+      "C. Always zero when calculated from the mean",
+      "D. Equal to the square of the standard deviation"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "Which statistical tool is most useful for showing the frequency distribution of categorical data using rectangular bars?",
+    "options": [
+      "A. A line graph showing continuous trends",
+      "B. A pie chart illustrating parts of a whole",
+      "C. A table comparing two variables directly",
+      "D. A bar chart showing categorical frequencies"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "A table that shows the number of times each value or category occurs in a dataset is called a:",
+    "options": [
+      "A. A line graph showing variable relationships",
+      "B. A frequency distribution table of variables",
+      "C. A pie chart dividing data into sectors",
+      "D. A bar chart comparing different categories"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "If a data set has two values that appear with the highest and equal frequency, the distribution is said to be:",
+    "options": [
+      "A. Having no mode at all in the distribution",
+      "B. Having one single mode in the distribution",
+      "C. Having two modes in the frequency distribution",
+      "D. Having multiple modes that are all equal"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "The median of the numbers 4, 8, 2, 10, and 6 is:",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "Calculate the arithmetic mean of the numbers 5, 7, 9, 11, and 13.",
+    "options": [
+      "A. 9",
+      "B. 10",
+      "C. 11",
+      "D. 12"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "Which measure of central tendency is most affected by extreme values (outliers) in a dataset?",
+    "options": [
+      "A. The arithmetic mean of the data",
+      "B. The median of the data set",
+      "C. The mode of the data set",
+      "D. The range of the data set"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "In a pie chart, the total angle at the center of the circle is equal to:",
+    "options": [
+      "A. 90 degrees",
+      "B. 180 degrees",
+      "C. 360 degrees",
+      "D. 400 degrees"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "The mode of the data set 3, 5, 3, 7, 9, 3, 2 is:",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 5",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "A tabular presentation of data is highly advantageous because it:",
+    "options": [
+      "A. Facilitates easy comparison of values",
+      "B. Eliminates all errors in the data",
+      "C. Provides a visual representation of data",
+      "D. Shows the exact distribution of variables"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Which of the following is NOT a measure of central tendency?",
+    "options": [
+      "A. The arithmetic mean",
+      "B. The median value",
+      "C. The mode value",
+      "D. The standard deviation"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "If the mean of 5 numbers is 10, the sum of the numbers is:",
+    "options": [
+      "A. 5",
+      "B. 50",
+      "C. 15",
+      "D. 100"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "A graph that uses vertical bars to represent continuous data grouped into class intervals is known as a:",
+    "options": [
+      "A. A line graph",
+      "B. A pie chart",
+      "C. A scatter plot",
+      "D. A histogram"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "The most suitable chart for showing the relative share of each component in a total is a:",
+    "options": [
+      "A. A line graph",
+      "B. A histogram",
+      "C. A pie chart",
+      "D. A bar chart"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Find the median of the following data: 12, 15, 11, 14, 16, 18.",
+    "options": [
+      "A. 12.5",
+      "B. 14.0",
+      "C. 15.0",
+      "D. 14.5"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The arithmetic mean of the values 2, 4, 6, 8, 10 is:",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is a common limitation of using graphs for data presentation?",
+    "options": [
+      "A. It is misleading when axes are truncated",
+      "B. It cannot show large amounts of data",
+      "C. It requires complex mathematical calculations",
+      "D. It is difficult to compare different categories"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 114,
+    "question": "What is the mode of the data set 10, 12, 15, 15, 18?",
+    "options": [
+      "A. 10",
+      "B. 12",
+      "C. 15",
+      "D. 18"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "The measure of central tendency that divides a set of data into two equal parts is the:",
+    "options": [
+      "A. The mode",
+      "B. The median",
+      "C. The mean",
+      "D. The range"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "A frequency distribution table shows the number of times each value occurs. This number is called the:",
+    "options": [
+      "A. The class interval",
+      "B. The cumulative total",
+      "C. The frequency",
+      "D. The relative percentage"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "In a bar chart, the height of each bar is directly proportional to the:",
+    "options": [
+      "A. Total sum of all categories",
+      "B. Angle of the corresponding sector",
+      "C. Standard deviation of the data",
+      "D. Frequency of the category"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Which of the following is a true statement about the median?",
+    "options": [
+      "A. It is heavily influenced by extreme values",
+      "B. It is not affected by extreme values",
+      "C. It is the most frequently occurring value",
+      "D. It is the sum of all values divided by count"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "The data set 2, 4, 4, 4, 5, 5, 7, 9 has a mode of:",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 2",
+      "D. 9"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "The mean of the numbers x, 8, 10, and 12 is 9. Find the value of x.",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 7",
+      "D. 6"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "The law of demand states that, all things being equal, there is an inverse relationship between:",
+    "options": [
+      "A. Price and the quantity of goods supplied to the market",
+      "B. Income and the quantity of goods purchased by consumers",
+      "C. Price and the quantity of a commodity consumers will buy",
+      "D. Supply and the quantity of a commodity demanded in markets"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "A demand curve that slopes upwards from left to right is an exception to the law of demand and is typically associated with:",
+    "options": [
+      "A. Giffen goods and articles of ostentation",
+      "B. Normal goods and essential food items",
+      "C. Inferior goods and basic household needs",
+      "D. Complementary goods and joint products"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "A movement along a given demand curve is caused exclusively by a change in the:",
+    "options": [
+      "A. Level of consumers' disposable income",
+      "B. Price of the commodity in question",
+      "C. Tastes and preferences of the consumers",
+      "D. Population size of the target market"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "A shift of the entire demand curve to the right indicates that there has been:",
+    "options": [
+      "A. A decrease in the price of the commodity",
+      "B. An increase in the price of the commodity",
+      "C. An increase in demand at every given price",
+      "D. A decrease in demand at every given price"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "The demand for factors of production, such as labour and machinery, is described as derived demand because it is:",
+    "options": [
+      "A. Determined by the demand for the final goods produced",
+      "B. Influenced by the availability of raw materials",
+      "C. Dependent on the level of government taxation",
+      "D. Determined by the cost of producing the goods"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "When two or more goods are demanded together to satisfy a single want, such demand is classified as:",
+    "options": [
+      "A. Competitive demand",
+      "B. Composite demand",
+      "C. Joint demand",
+      "D. Derived demand"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "An increase in the price of a substitute for good X will cause the demand for good X to:",
+    "options": [
+      "A. Decrease, shifting its curve to the left",
+      "B. Increase, shifting its curve to the right",
+      "C. Remain unchanged, keeping the curve static",
+      "D. Fall to zero, eliminating its market demand"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The price elasticity of demand measures the degree of responsiveness of:",
+    "options": [
+      "A. Quantity supplied to a change in the price of the good",
+      "B. Price to a change in the quantity demanded by buyers",
+      "C. Quantity demanded to a change in the price of the good",
+      "D. Income to a change in the quantity demanded by buyers"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "Demand for a commodity is said to be perfectly inelastic when the elasticity coefficient is:",
+    "options": [
+      "A. Exactly equal to zero",
+      "B. Exactly equal to one",
+      "C. Greater than one",
+      "D. Less than one"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "If a 10% increase in the price of a commodity leads to a 25% decrease in the quantity demanded, the demand is:",
+    "options": [
+      "A. Perfectly inelastic",
+      "B. Relatively inelastic",
+      "C. Unitary elastic",
+      "D. Relatively elastic"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following commodities is most likely to have a highly inelastic demand curve?",
+    "options": [
+      "A. Essential life-saving drugs",
+      "B. Luxury sports cars",
+      "C. Foreign vacation packages",
+      "D. Gold jewelry items"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The cross elasticity of demand measures the responsiveness of the demand for a good to a change in the:",
+    "options": [
+      "A. Price of the same commodity",
+      "B. Price of another commodity",
+      "C. Income of the consumer",
+      "D. Tastes of the consumer"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "If the cross elasticity of demand between two goods is a positive value, it indicates that the goods are:",
+    "options": [
+      "A. Complementary to each other",
+      "B. Substitute for each other",
+      "C. Independent in consumption",
+      "D. Jointly demanded in production"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "A good that is demanded for multiple different purposes is said to have:",
+    "options": [
+      "A. Joint demand",
+      "B. Derived demand",
+      "C. Competitive demand",
+      "D. Composite demand"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Income elasticity of demand will be negative for a commodity that is classified as:",
+    "options": [
+      "A. A normal good",
+      "B. A luxury good",
+      "C. An inferior good",
+      "D. An essential good"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "A perfectly elastic demand curve is represented graphically as a:",
+    "options": [
+      "A. Vertical straight line",
+      "B. Horizontal straight line",
+      "C. Downward sloping curve",
+      "D. Upward sloping curve"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The concept of elasticity of demand is highly relevant to the government for the purpose of:",
+    "options": [
+      "A. Determining the optimum location of industries",
+      "B. Formulating effective taxation policies",
+      "C. Setting the national minimum wage rate",
+      "D. Regulating the commercial banking sector"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "If the price of a commodity falls and the total revenue of the seller also falls, the demand for the commodity is:",
+    "options": [
+      "A. Perfectly elastic",
+      "B. Unitary elastic",
+      "C. Relatively elastic",
+      "D. Relatively inelastic"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "The downward slope of a normal demand curve can be explained by the principle of:",
+    "options": [
+      "A. Increasing returns to scale",
+      "B. Diminishing marginal utility",
+      "C. Comparative cost advantage",
+      "D. Variable factor proportions"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Demand is said to be unitary elastic when a change in price results in:",
+    "options": [
+      "A. A proportionate change in quantity demanded",
+      "B. No change in the quantity demanded at all",
+      "C. A greater change in quantity demanded",
+      "D. A smaller change in quantity demanded"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Which of the following factors will cause the demand curve for a normal good to shift to the left?",
+    "options": [
+      "A. An increase in consumers' disposable income",
+      "B. A decrease in consumers' disposable income",
+      "C. A fall in the price of the commodity",
+      "D. An increase in the population of buyers"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "A table showing the various quantities of a commodity that consumers are willing to buy at different prices is called a:",
+    "options": [
+      "A. Supply schedule",
+      "B. Demand schedule",
+      "C. Production schedule",
+      "D. Cost schedule"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "The Veblen effect describes a situation where consumers demand more of a luxury good because:",
+    "options": [
+      "A. Its price has fallen significantly",
+      "B. Its price is exceptionally high",
+      "C. Its quality has improved",
+      "D. Its substitutes are unavailable"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "If the quantity demanded of a good remains constant regardless of changes in its price, the demand curve will be:",
+    "options": [
+      "A. Horizontal",
+      "B. Vertical",
+      "C. Upward sloping",
+      "D. Downward sloping"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "The demand for a commodity is influenced by the prices of other commodities, especially:",
+    "options": [
+      "A. Inferior goods only",
+      "B. Substitutes and complements",
+      "C. Luxury goods only",
+      "D. Goods produced locally"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "Speculative demand for a commodity occurs when consumers buy more of it because they expect:",
+    "options": [
+      "A. Its price to rise in the future",
+      "B. Its price to fall in the future",
+      "C. Its supply to become abundant",
+      "D. Its quality to deteriorate soon"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following pairs of goods best illustrates competitive demand?",
+    "options": [
+      "A. Bread and butter",
+      "B. Tea and coffee",
+      "C. Cars and petrol",
+      "D. Pencils and erasers"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "The elasticity of demand for a commodity is likely to be high if the commodity:",
+    "options": [
+      "A. Is a basic necessity of life",
+      "B. Has many close substitutes",
+      "C. Takes a small portion of income",
+      "D. Is consumed habitually"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "If the price of good Y increases and the demand for good X decreases, then goods X and Y are:",
+    "options": [
+      "A. Complementary goods",
+      "B. Substitute goods",
+      "C. Independent goods",
+      "D. Inferior goods"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "An increase in the population of a country will normally lead to:",
+    "options": [
+      "A. A leftward shift in the demand curve",
+      "B. A rightward shift in the demand curve",
+      "C. A movement along the demand curve",
+      "D. A vertical demand curve for goods"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  }
+]
