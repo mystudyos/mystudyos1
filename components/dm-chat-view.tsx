@@ -16,6 +16,8 @@ import {
   blockUserInChat,
   unblockUserInChat,
   markDMRead,
+  setDMTypingStatus,
+  subscribeToDMTyping,
   type DirectChat,
   type DMMessage,
 } from "@/lib/dm"
@@ -101,6 +103,9 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
   const [showBlockModal, setShowBlockModal] = useState(false)
   const [blockReason, setBlockReason] = useState("")
   const [blocking, setBlocking] = useState(false)
+  const [isOtherTyping, setIsOtherTyping] = useState(false)
+  const [isTyping, setIsTyping] = useState(false)
+  const typingTimeoutRef = useRef<NodeJS.Timeout | null>(null)
 
   const otherUid = chat.users.find((u) => u !== user.uid) || ""
   const [otherUserStatus, setOtherUserStatus] = useState<{
@@ -127,6 +132,19 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
     })
     return () => unsub()
   }, [otherUid])
+
+  // Real-time other user typing subscription
+  useEffect(() => {
+    if (!chat.id || !otherUid) return
+    const unsub = subscribeToDMTyping(chat.id, otherUid, (typing) => {
+      setIsOtherTyping(typing)
+    })
+    return () => {
+      unsub()
+      if (typingTimeoutRef.current) clearTimeout(typingTimeoutRef.current)
+      setDMTypingStatus(chat.id, user.uid, false)
+    }
+  }, [chat.id, otherUid, user.uid])
   const otherName = chat.userNames?.[otherUid] || "Student"
   const otherPhoto = chat.userPhotos?.[otherUid] || null
   const isBlocked = chat.blockedBy !== null
@@ -174,6 +192,13 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
     }
   }, [messages])
 
+  // Scroll to bottom when other user starts typing
+  useEffect(() => {
+    if (isOtherTyping && isNearBottom.current) {
+      messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
+    }
+  }, [isOtherTyping])
+
   const handleScroll = useCallback(() => {
     const container = scrollContainerRef.current
     if (!container) return
@@ -204,6 +229,10 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
       toast.error("Message too long (max 500 characters)")
       return
     }
+
+    setIsTyping(false)
+    setDMTypingStatus(chat.id, user.uid, false)
+    if (typingTimeoutRef.current) clearTimeout(typingTimeoutRef.current)
 
     // If this is the first message and policy not accepted, show warning
     if (!bypassPolicy && !policyAccepted && messages.filter((m) => m.uid === user.uid).length === 0) {
@@ -375,14 +404,22 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
             </div>
             <div className="min-w-0 flex-1">
               <h1 className="text-sm font-black tracking-tight truncate">{otherName}</h1>
-              <p className={`text-[9.5px] font-medium leading-none mt-0.5 ${otherUserStatus?.isOnline && !isBlocked && !isPending ? "text-emerald-400/90" : "text-muted-foreground/60"}`}>
+              <p className={`text-[9.5px] font-medium leading-none mt-0.5 ${
+                isOtherTyping && !isBlocked
+                  ? "text-primary animate-pulse font-bold"
+                  : otherUserStatus?.isOnline && !isBlocked && !isPending
+                    ? "text-emerald-400/90"
+                    : "text-muted-foreground/60"
+              }`}>
                 {isBlocked 
                   ? "blocked" 
                   : isPending 
                     ? "pending" 
-                    : otherUserStatus?.isOnline 
-                      ? "online" 
-                      : formatLastSeen(otherUserStatus?.lastSeen)}
+                    : isOtherTyping
+                      ? "typing..."
+                      : otherUserStatus?.isOnline 
+                        ? "online" 
+                        : formatLastSeen(otherUserStatus?.lastSeen)}
               </p>
             </div>
           </div>
@@ -628,6 +665,18 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
         </div>
       )}
 
+      {/* Typing Indicator */}
+      {isOtherTyping && !isBlocked && !isRejected && (
+        <div className="px-5 py-2 text-[11px] text-muted-foreground flex items-center gap-2 animate-in fade-in slide-in-from-bottom-1 bg-background/95 backdrop-blur-xs border-t border-border/50">
+          <div className="flex gap-1 items-center">
+            <div className="w-1.5 h-1.5 rounded-full bg-primary/70 animate-bounce" />
+            <div className="w-1.5 h-1.5 rounded-full bg-primary/70 animate-bounce [animation-delay:-0.15s]" />
+            <div className="w-1.5 h-1.5 rounded-full bg-primary/70 animate-bounce [animation-delay:-0.3s]" />
+          </div>
+          <span className="font-semibold text-foreground/80">{otherName} is typing...</span>
+        </div>
+      )}
+
       {/* Input bar */}
       {isBlocked ? (
         <div className="px-4 py-4 border-t border-white/5 bg-background">
@@ -695,12 +744,30 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
                     setTimeout(scrollToBottom, 400)
                   }}
                   onChange={(e) => {
-                    setText(e.target.value.slice(0, 500))
+                    const val = e.target.value.slice(0, 500)
+                    setText(val)
                     const target = e.target
                     requestAnimationFrame(() => {
                       target.style.height = "42px"
                       target.style.height = Math.min(target.scrollHeight, 120) + "px"
                     })
+                    if (val.trim()) {
+                      if (!isTyping) {
+                        setIsTyping(true)
+                        setDMTypingStatus(chat.id, user.uid, true)
+                      }
+                      if (typingTimeoutRef.current)
+                        clearTimeout(typingTimeoutRef.current)
+                      typingTimeoutRef.current = setTimeout(() => {
+                        setIsTyping(false)
+                        setDMTypingStatus(chat.id, user.uid, false)
+                      }, 2000)
+                    } else {
+                      if (typingTimeoutRef.current)
+                        clearTimeout(typingTimeoutRef.current)
+                      setIsTyping(false)
+                      setDMTypingStatus(chat.id, user.uid, false)
+                    }
                   }}
                   placeholder="Type a message..."
                   className="w-full px-4 py-2.5 bg-transparent text-sm focus:outline-none placeholder:text-muted-foreground/40 resize-none scrollbar-hide h-10.5"

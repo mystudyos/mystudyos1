@@ -388,3 +388,47 @@ export async function fetchSafetyReports(): Promise<SafetyReport[]> {
 export async function dismissSafetyReport(reportId: string): Promise<void> {
   await deleteDoc(doc(db, "safetyReports", reportId))
 }
+
+// ─── DM Typing Status ───
+export async function setDMTypingStatus(
+  chatId: string,
+  uid: string,
+  isTyping: boolean
+): Promise<void> {
+  const ref = doc(db, "directChats", chatId, "typing", uid)
+  try {
+    if (isTyping) {
+      await setDoc(ref, { isTyping: true, timestamp: Date.now() })
+    } else {
+      await deleteDoc(ref)
+    }
+  } catch (err: any) {
+    if (err.code !== "not-found") console.warn("Failed to set DM typing status", err)
+  }
+}
+
+export function subscribeToDMTyping(
+  chatId: string,
+  otherUid: string,
+  callback: (isTyping: boolean) => void
+): Unsubscribe {
+  const ref = doc(db, "directChats", chatId, "typing", otherUid)
+  return onSnapshot(
+    ref,
+    (snap) => {
+      if (!snap.exists()) {
+        callback(false)
+        return
+      }
+      const data = snap.data()
+      const now = Date.now()
+      // Valid if flag is set and updated within the last 4 seconds
+      const active = !!data?.isTyping && (now - (data?.timestamp || 0) < 4000)
+      callback(active)
+    },
+    (err) => {
+      console.warn("Failed to subscribe to DM typing status:", err.message)
+      callback(false)
+    }
+  )
+}
