@@ -61,7 +61,7 @@ export function SSSSubjectPicker({ onSelect, onBack }: SSSSubjectPickerProps) {
               Solid Q Mode • SSS
             </p>
             <h1 className="text-xl font-bold text-foreground line-clamp-1">
-              Choose a Subject (27)
+              Choose a Subject ({SSS_SUBJECTS.length})
             </h1>
           </div>
         </div>

@@ -18,13 +18,19 @@ import {
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 import { shuffleArray, type Question } from "@/lib/question-types"
+import necoAccountingJson from "../Json/NECO/Accounting.json"
 import necoAgricJson from "../Json/NECO/Agricsci.json"
 import necoBiologyJson from "../Json/NECO/Biology.json"
 import necoChemistryJson from "../Json/NECO/Chemistry.json"
+import necoCivicJson from "../Json/NECO/Civic.json"
+import necoCommerceJson from "../Json/NECO/Commerce.json"
+import necoComputerJson from "../Json/NECO/Computer.json"
 import necoCrsJson from "../Json/NECO/Crs.json"
 import necoEconomicsJson from "../Json/NECO/Economics.json"
 import necoEnglishJson from "../Json/NECO/English.json"
 import necoGovernmentJson from "../Json/NECO/Government.json"
+import necoHealthEduJson from "../Json/NECO/HealthEdu.json"
+import necoNutritionJson from "../Json/NECO/Nutrition.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -78,13 +84,19 @@ function mapNecoJsonToQuestions(
 }
 
 const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
+  accounting: necoAccountingJson as RawJsonQuestion[],
   agriculture: necoAgricJson as RawJsonQuestion[],
   biology: necoBiologyJson as RawJsonQuestion[],
   chemistry: necoChemistryJson as RawJsonQuestion[],
+  civiledu: necoCivicJson as RawJsonQuestion[],
+  commerce: necoCommerceJson as RawJsonQuestion[],
+  computer: necoComputerJson as RawJsonQuestion[],
   crk: necoCrsJson as RawJsonQuestion[],
   economics: necoEconomicsJson as RawJsonQuestion[],
   english: necoEnglishJson as RawJsonQuestion[],
   government: necoGovernmentJson as RawJsonQuestion[],
+  healthedu: necoHealthEduJson as RawJsonQuestion[],
+  nutrition: necoNutritionJson as RawJsonQuestion[],
 }
 
 interface SSSSolidQuizProps {

@@ -26,6 +26,8 @@ export type SSSSubjectKey =
   | "hausa"
   | "igbo"
   | "yoruba"
+  | "healthedu"
+  | "nutrition"
 
 export type SSSExamType = "wassce" | "neco" | "utme"
 export type SSSPaperType = "objective" | "theory"
@@ -33,13 +35,19 @@ export type SSSPaperType = "objective" | "theory"
 // Subjects that currently have verified internal JSON question banks under Json/NECO/
 export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey[]> = {
   neco: [
+    "accounting",
     "agriculture",
     "biology",
     "chemistry",
+    "civiledu",
+    "commerce",
+    "computer",
     "crk",
     "economics",
     "english",
     "government",
+    "healthedu",
+    "nutrition",
   ],
   wassce: [],
   utme: [],
@@ -104,6 +112,8 @@ export const SSS_SUBJECTS: SSSSubjectInfo[] = [
   { key: "hausa", name: "Hausa", shortName: "Hausa", letter: "HAU", color: "text-orange-400", bg: "bg-orange-400/15", cardGradient: "from-orange-500/20 to-orange-600/10 border-orange-500/30" },
   { key: "igbo", name: "Igbo", shortName: "Igbo", letter: "I", color: "text-yellow-400", bg: "bg-yellow-400/15", cardGradient: "from-yellow-500/20 to-yellow-600/10 border-yellow-500/30" },
   { key: "yoruba", name: "Yoruba", shortName: "Yoruba", letter: "Y", color: "text-lime-400", bg: "bg-lime-400/15", cardGradient: "from-lime-500/20 to-lime-600/10 border-lime-500/30" },
+  { key: "healthedu", name: "Health Education", shortName: "Health Edu.", letter: "HED", color: "text-teal-400", bg: "bg-teal-400/15", cardGradient: "from-teal-500/20 to-teal-600/10 border-teal-500/30" },
+  { key: "nutrition", name: "Foods & Nutrition", shortName: "Nutrition", letter: "NUT", color: "text-emerald-400", bg: "bg-emerald-400/15", cardGradient: "from-emerald-500/20 to-emerald-600/10 border-emerald-500/30" },
 ]
 
 export const SSS_EXAM_OPTIONS: {
