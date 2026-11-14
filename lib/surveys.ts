@@ -16,8 +16,8 @@ export interface Survey {
 export const SURVEYS: Survey[] = [
  {
     id: "studyos-history",
-    title: "StudyOS Origins & Tech Trivia",
-    description: "How well do you know the StudyOS platform, its pillars, and its technical details?",
+    title: "StudyOS: Origins & Tech",
+    description: "How well do you know the StudyOS platform, and its technical details?",
     questions: [
       {
         id: "so-q1",
@@ -25,13 +25,6 @@ export const SURVEYS: Survey[] = [
         options: ["Oliver", "Kelvin", "Vercel", "Google DeepMind"],
         correctIndex: 0,
         explanation: "StudyOS is sponsored by Oliver to support JSS3 students preparing for their BECE exams."
-      },
-      {
-        id: "so-q2",
-        text: "Which two primary practice modes are offered by StudyOS?",
-        options: ["Easy & Hard Mode", "Training & Exam Practice", "Syllabus & Quick Test", "Solo & Competitive"],
-        correctIndex: 1,
-        explanation: "Training Mode offers deep-dives and concept mastery, while Exam Practice (Solid Q) is a timed mock exam."
       },
       {
         id: "so-q3",
@@ -59,14 +52,14 @@ export const SURVEYS: Survey[] = [
         text: "What database platform is used by StudyOS to save and retrieve your quiz results and leaderboard statistics?",
         options: ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
         correctIndex: 2,
-        explanation: "StudyOS uses Firebase Firestore for fast, real-time database storage to sync scores and school statistics."
+        explanation: "StudyOS uses Firebase, (Firestore) for fast, real-time database storage to sync scores and school statistics."
       }
     ]
   },
   {
   "id": "nigerian-education-trivia",
-  "title": "Nigerian Education & History Facts",
-  "description": "An interesting mini-game about school milestones and historical facts in Nigeria.",
+  "title": "Nigeria: Education & History",
+  "description": "A mini-game on Nigerian school milestones and history.",
   "questions": [
     {
       "id": "ne-q1",
@@ -78,7 +71,7 @@ export const SURVEYS: Survey[] = [
         "Job Skills Studies"
       ],
       "correctIndex": 0,
-      "explanation": "JSS stands for Junior Secondary School — the first three years of secondary education in Nigeria, covering JSS1 to JSS3."
+      "explanation": "JSS stands for Junior Secondary School, the first three years of secondary education in Nigeria, covering JSS1 to JSS3."
     },
     {
       "id": "ne-q2",
@@ -87,7 +80,7 @@ export const SURVEYS: Survey[] = [
         "WAEC",
         "JAMB",
         "BECE",
-        "NECO SSCE"
+        "NECO"
       ],
       "correctIndex": 2,
       "explanation": "BECE (Basic Education Certificate Examination) is the principal exit exam for JSS3 students before they proceed to Senior Secondary School."

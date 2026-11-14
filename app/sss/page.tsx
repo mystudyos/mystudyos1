@@ -38,7 +38,6 @@ import {
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 import type { Question } from "@/lib/question-types"
-import { type Survey } from "@/lib/surveys"
 import { useNotifications } from "@/hooks/use-notifications"
 
 const ProView = dynamic(() => import("@/components/pro-view").then((m) => m.ProView))
@@ -60,8 +59,6 @@ const BannedView = dynamic(() => import("@/components/banned-view").then((m) => 
 const ChatHub = dynamic(() => import("@/components/chat-hub").then((m) => m.ChatHub))
 const ProfileModal = dynamic(() => import("@/components/profile-modal").then((m) => m.ProfileModal))
 const GlobalChatView = dynamic(() => import("@/components/global-chat-view").then((m) => m.GlobalChatView))
-const SurveysView = dynamic(() => import("@/components/surveys-view").then((m) => m.SurveysView))
-const SurveyQuiz = dynamic(() => import("@/components/survey-quiz").then((m) => m.SurveyQuiz))
 const NotificationPermissionDialog = dynamic(
   () => import("@/components/notification-permission-dialog").then((m) => m.NotificationPermissionDialog),
   { ssr: false }
@@ -91,8 +88,6 @@ type Screen =
   | "admin-dashboard"
   | "banned"
   | "global-chat"
-  | "surveys-list"
-  | "survey-quiz"
 
 interface QuizResults {
   subject: string
@@ -162,8 +157,8 @@ export default function StudyOSSSSPage() {
   const [unreadCount, setUnreadCount] = useState(0)
   const [activeProfileUserId, setActiveProfileUserId] = useState<string | null>(null)
   const [initialChatId, setInitialChatId] = useState<string | null>(null)
+  const [hideChatBottomNav, setHideChatBottomNav] = useState(false)
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
-  const [activeSurvey, setActiveSurvey] = useState<Survey | null>(null)
 
   const handleNavigateToChat = useCallback((chatId?: string | null) => {
     setActiveTab("chat")
@@ -640,33 +635,6 @@ export default function StudyOSSSSPage() {
           </div>
         )}
 
-        {screen === "surveys-list" && (
-          <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <SurveysView
-              stats={stats}
-              onBack={() => setScreen("app")}
-              onPlaySurvey={(survey) => {
-                setActiveSurvey(survey)
-                setScreen("survey-quiz")
-              }}
-            />
-          </div>
-        )}
-
-        {screen === "survey-quiz" && activeSurvey && user && (
-          <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <SurveyQuiz
-              survey={activeSurvey}
-              userId={user.uid}
-              onBack={() => setScreen("surveys-list")}
-              onComplete={() => {
-                refetchStats()
-                setScreen("surveys-list")
-              }}
-            />
-          </div>
-        )}
-
         {screen === "review" && selectedQuizResult && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             <ReviewQuizView
@@ -738,6 +706,7 @@ export default function StudyOSSSSPage() {
                     onViewProfile={(uid) => setActiveProfileUserId(uid)}
                     initialChatId={initialChatId}
                     onClearInitialChatId={() => setInitialChatId(null)}
+                    onBottomNavVisibilityChange={setHideChatBottomNav}
                   />
                 </div>
               )}
@@ -769,7 +738,6 @@ export default function StudyOSSSSPage() {
                     onShowLeaderboard={() => setScreen("leaderboard")}
                     onShowHistory={() => setScreen("history")}
                     onOpenChat={() => setActiveTab("chat")}
-                    onShowSurveys={() => setScreen("surveys-list")}
                   />
                 </div>
               )}
@@ -781,88 +749,90 @@ export default function StudyOSSSSPage() {
               )}
             </div>
 
-            <div
-              className="h-20 flex items-center justify-around px-2 shrink-0 z-50 bg-background/85 lg:hidden w-full max-w-2xl mx-auto"
-              style={{
-                backdropFilter: "blur(20px)",
-                borderTop: "1px solid var(--glass-border)",
-              }}
-            >
-              {currentNavItems.map(({ tab, icon: Icon, label }) => {
-                const isActive = activeTab === tab
-                return (
-                  <button
-                    key={tab}
-                    onClick={() => setActiveTab(tab)}
-                    className="flex flex-col items-center gap-1 px-2.5 sm:px-4 py-2 rounded-xl transition-all duration-200 relative"
-                  >
-                    {isActive && (
-                      <div className="absolute inset-0 rounded-xl bg-primary/10" />
-                    )}
-                    <div className="relative w-6 h-6 flex items-center justify-center">
-                      {tab === "pro" ? (
-                        <Icon
-                          className="w-5 h-5"
-                          style={{
-                            color: isActive
-                              ? "oklch(0.62 0.18 295)"
-                              : "oklch(0.55 0.03 250)",
-                          }}
-                          strokeWidth={isActive ? 2.5 : 1.8}
-                        />
-                      ) : (
-                        <Icon
-                          className="w-5 h-5"
-                          style={{
-                            color: isActive
-                              ? "oklch(0.72 0.16 192)"
-                              : "oklch(0.55 0.03 250)",
-                          }}
-                          strokeWidth={isActive ? 2.5 : 1.8}
-                        />
-                      )}
-                      {tab === "rank" && (
-                        <span className="absolute -top-1 -right-1 flex h-2 w-2">
-                          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75" />
-                          <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500 border border-background" />
-                        </span>
-                      )}
-                      {tab === "profile" && (
-                        <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-red-500 border-2 border-background" />
-                      )}
-                      {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
-                        <div className="absolute -top-1.5 -right-2 min-w-4 h-4 px-1 rounded-full bg-red-500 text-white text-[8px] font-black flex items-center justify-center border border-background shadow-md">
-                          {unreadCount > 99 ? "99+" : unreadCount}
-                        </div>
-                      )}
-                      {isActive && (
-                        <div
-                          className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 rounded-full"
-                          style={{
-                            background:
-                              tab === "pro"
-                                ? "oklch(0.62 0.18 295)"
-                                : "oklch(0.72 0.16 192)",
-                          }}
-                        />
-                      )}
-                    </div>
-                    <span
-                      className="text-[10px] font-semibold tracking-wide"
-                      style={{
-                        color: isActive
-                          ? tab === "pro"
-                            ? "oklch(0.62 0.18 295)"
-                            : "oklch(0.72 0.16 192)"
-                          : "oklch(0.45 0.02 250)",
-                      }}
+            {!(activeTab === "chat" && hideChatBottomNav) && (
+              <div
+                className="h-20 flex items-center justify-around px-2 shrink-0 z-50 bg-background/85 lg:hidden w-full max-w-2xl mx-auto"
+                style={{
+                  backdropFilter: "blur(20px)",
+                  borderTop: "1px solid var(--glass-border)",
+                }}
+              >
+                {currentNavItems.map(({ tab, icon: Icon, label }) => {
+                  const isActive = activeTab === tab
+                  return (
+                    <button
+                      key={tab}
+                      onClick={() => setActiveTab(tab)}
+                      className="flex flex-col items-center gap-1 px-2.5 sm:px-4 py-2 rounded-xl transition-all duration-200 relative"
                     >
-                      {label}
-                    </span>
-                  </button>
-                )
-              })}
-            </div>
+                      {isActive && (
+                        <div className="absolute inset-0 rounded-xl bg-primary/10" />
+                      )}
+                      <div className="relative w-6 h-6 flex items-center justify-center">
+                        {tab === "pro" ? (
+                          <Icon
+                            className="w-5 h-5"
+                            style={{
+                              color: isActive
+                                ? "oklch(0.62 0.18 295)"
+                                : "oklch(0.55 0.03 250)",
+                            }}
+                            strokeWidth={isActive ? 2.5 : 1.8}
+                          />
+                        ) : (
+                          <Icon
+                            className="w-5 h-5"
+                            style={{
+                              color: isActive
+                                ? "oklch(0.72 0.16 192)"
+                                : "oklch(0.55 0.03 250)",
+                            }}
+                            strokeWidth={isActive ? 2.5 : 1.8}
+                          />
+                        )}
+                        {tab === "rank" && (
+                          <span className="absolute -top-1 -right-1 flex h-2 w-2">
+                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75" />
+                            <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500 border border-background" />
+                          </span>
+                        )}
+                        {tab === "profile" && (
+                          <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-red-500 border-2 border-background" />
+                        )}
+                        {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
+                          <div className="absolute -top-1.5 -right-2 min-w-4 h-4 px-1 rounded-full bg-red-500 text-white text-[8px] font-black flex items-center justify-center border border-background shadow-md">
+                            {unreadCount > 99 ? "99+" : unreadCount}
+                          </div>
+                        )}
+                        {isActive && (
+                          <div
+                            className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 rounded-full"
+                            style={{
+                              background:
+                                tab === "pro"
+                                  ? "oklch(0.62 0.18 295)"
+                                  : "oklch(0.72 0.16 192)",
+                            }}
+                          />
+                        )}
+                      </div>
+                      <span
+                        className="text-[10px] font-semibold tracking-wide"
+                        style={{
+                          color: isActive
+                            ? tab === "pro"
+                              ? "oklch(0.62 0.18 295)"
+                              : "oklch(0.72 0.16 192)"
+                            : "oklch(0.45 0.02 250)",
+                        }}
+                      >
+                        {label}
+                      </span>
+                    </button>
+                  )
+                })}
+              </div>
+            )}
           </>
         )}
 
@@ -887,6 +857,7 @@ export default function StudyOSSSSPage() {
             currentUserId={user.uid}
             onClose={() => setActiveProfileUserId(null)}
             onStartMessage={handleStartMessage}
+            currentCategory="SSS"
           />
         )}
       </div>

@@ -21,9 +21,10 @@ interface ProfileModalProps {
   currentUserId: string
   onClose: () => void
   onStartMessage: (userId: string, name: string, photo: string | null, email: string) => void
+  currentCategory?: "JSS" | "SSS"
 }
 
-export function ProfileModal({ userId, currentUserId, onClose, onStartMessage }: ProfileModalProps) {
+export function ProfileModal({ userId, currentUserId, onClose, onStartMessage, currentCategory = "JSS" }: ProfileModalProps) {
   const [stats, setStats] = useState<UserStats | null>(null)
   const [loading, setLoading] = useState(true)
 
@@ -205,28 +206,30 @@ export function ProfileModal({ userId, currentUserId, onClose, onStartMessage }:
                 )}
               </div>
 
-              {/* Trivia Triumphs row */}
-              <div className="flex flex-col gap-1.5 pt-2 border-t border-white/5">
-                <span className="text-[10px] font-black uppercase tracking-wider text-muted-foreground flex items-center gap-1">
-                  <Award className="w-3.5 h-3.5 text-purple-400" /> Trivia Triumphs
-                </span>
-                {stats?.surveyResults && Object.keys(stats.surveyResults).length > 0 ? (
-                  <div className="flex flex-wrap gap-1.5 pt-1">
-                    {Object.entries(stats.surveyResults).map(([surveyId, res]) => {
-                      const survey = SURVEYS.find((s) => s.id === surveyId)
-                      const title = survey ? survey.title : surveyId
-                      return (
-                        <div key={surveyId} className="glass px-2.5 py-1 rounded-xl text-[10px] font-semibold text-foreground/80 flex items-center gap-1 border border-white/5 shadow-xs">
-                          <span>🎖️</span>
-                          <span>{title}: <strong>{res.score}/{res.total}</strong></span>
-                        </div>
-                      )
-                    })}
-                  </div>
-                ) : (
-                  <span className="text-xs text-muted-foreground/40 italic">No trivia completed yet.</span>
-                )}
-              </div>
+              {/* Trivia Triumphs row (JSS only) */}
+              {currentCategory === "JSS" && (
+                <div className="flex flex-col gap-1.5 pt-2 border-t border-white/5">
+                  <span className="text-[10px] font-black uppercase tracking-wider text-muted-foreground flex items-center gap-1">
+                    <Award className="w-3.5 h-3.5 text-purple-400" /> Trivia Triumphs
+                  </span>
+                  {stats?.surveyResults && Object.keys(stats.surveyResults).length > 0 ? (
+                    <div className="flex flex-wrap gap-1.5 pt-1">
+                      {Object.entries(stats.surveyResults).map(([surveyId, res]) => {
+                        const survey = SURVEYS.find((s) => s.id === surveyId)
+                        const title = survey ? survey.title : surveyId
+                        return (
+                          <div key={surveyId} className="glass px-2.5 py-1 rounded-xl text-[10px] font-semibold text-foreground/80 flex items-center gap-1 border border-white/5 shadow-xs">
+                            <span>🎖️</span>
+                            <span>{title}: <strong>{res.score}/{res.total}</strong></span>
+                          </div>
+                        )
+                      })}
+                    </div>
+                  ) : (
+                    <span className="text-xs text-muted-foreground/40 italic">No trivia completed yet.</span>
+                  )}
+                </div>
+              )}
             </div>
 
             {/* Action button */}

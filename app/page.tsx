@@ -146,6 +146,7 @@ export default function StudyOSApp() {
   const [unreadCount, setUnreadCount] = useState(0)
   const [activeProfileUserId, setActiveProfileUserId] = useState<string | null>(null)
   const [initialChatId, setInitialChatId] = useState<string | null>(null)
+  const [hideChatBottomNav, setHideChatBottomNav] = useState(false)
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
   const [activeSurvey, setActiveSurvey] = useState<Survey | null>(null)
 
@@ -769,6 +770,7 @@ export default function StudyOSApp() {
                     onViewProfile={(uid) => setActiveProfileUserId(uid)}
                     initialChatId={initialChatId}
                     onClearInitialChatId={() => setInitialChatId(null)}
+                    onBottomNavVisibilityChange={setHideChatBottomNav}
                   />
                 </div>
               )}
@@ -808,55 +810,57 @@ export default function StudyOSApp() {
               )}
             </div>
 
-            <div
-              className="h-20 flex items-center justify-around px-2 shrink-0 z-50 bg-background/85 lg:hidden w-full max-w-2xl mx-auto"
-              style={{
-                backdropFilter: "blur(20px)",
-                borderTop: "1px solid var(--glass-border)",
-              }}
-            >
-              {currentNavItems.map(({ tab, icon: Icon, label }) => {
-                const isActive = activeTab === tab
-                return (
-                  <button
-                    key={tab}
-                    onClick={() => setActiveTab(tab)}
-                    className="flex flex-col items-center gap-1 px-2.5 sm:px-4 py-2 rounded-xl transition-all duration-200 relative"
-                  >
-                    {isActive && (
-                      <div className="absolute inset-0 rounded-xl bg-primary/10" />
-                    )}
-                    <div className="relative w-6 h-6 flex items-center justify-center">
-                      {tab === "pro" ? (
-                        <Icon className="w-5 h-5" style={{ color: isActive ? "oklch(0.62 0.18 295)" : "oklch(0.55 0.03 250)" }} strokeWidth={isActive ? 2.5 : 1.8} />
-                      ) : (
-                        <Icon className="w-5 h-5" style={{ color: isActive ? "oklch(0.72 0.16 192)" : "oklch(0.55 0.03 250)" }} strokeWidth={isActive ? 2.5 : 1.8} />
-                      )}
-                      {tab === "rank" && (
-                        <span className="absolute -top-1 -right-1 flex h-2 w-2">
-                          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75" />
-                          <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500 border border-background" />
-                        </span>
-                      )}
-                      {tab === "profile" && (
-                        <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-red-500 border-2 border-background" />
-                      )}
-                      {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
-                        <div className="absolute -top-1.5 -right-2 min-w-4 h-4 px-1 rounded-full bg-red-500 text-white text-[8px] font-black flex items-center justify-center border border-background shadow-md">
-                          {unreadCount > 99 ? "99+" : unreadCount}
-                        </div>
-                      )}
+            {!(activeTab === "chat" && hideChatBottomNav) && (
+              <div
+                className="h-20 flex items-center justify-around px-2 shrink-0 z-50 bg-background/85 lg:hidden w-full max-w-2xl mx-auto"
+                style={{
+                  backdropFilter: "blur(20px)",
+                  borderTop: "1px solid var(--glass-border)",
+                }}
+              >
+                {currentNavItems.map(({ tab, icon: Icon, label }) => {
+                  const isActive = activeTab === tab
+                  return (
+                    <button
+                      key={tab}
+                      onClick={() => setActiveTab(tab)}
+                      className="flex flex-col items-center gap-1 px-2.5 sm:px-4 py-2 rounded-xl transition-all duration-200 relative"
+                    >
                       {isActive && (
-                        <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 rounded-full" style={{ background: tab === "pro" ? "oklch(0.62 0.18 295)" : "oklch(0.72 0.16 192)" }} />
+                        <div className="absolute inset-0 rounded-xl bg-primary/10" />
                       )}
-                    </div>
-                    <span className="text-[10px] font-semibold tracking-wide" style={{ color: isActive ? (tab === "pro" ? "oklch(0.62 0.18 295)" : "oklch(0.72 0.16 192)") : "oklch(0.45 0.02 250)" }}>
-                      {label}
-                    </span>
-                  </button>
-                )
-              })}
-            </div>
+                      <div className="relative w-6 h-6 flex items-center justify-center">
+                        {tab === "pro" ? (
+                          <Icon className="w-5 h-5" style={{ color: isActive ? "oklch(0.62 0.18 295)" : "oklch(0.55 0.03 250)" }} strokeWidth={isActive ? 2.5 : 1.8} />
+                        ) : (
+                          <Icon className="w-5 h-5" style={{ color: isActive ? "oklch(0.72 0.16 192)" : "oklch(0.55 0.03 250)" }} strokeWidth={isActive ? 2.5 : 1.8} />
+                        )}
+                        {tab === "rank" && (
+                          <span className="absolute -top-1 -right-1 flex h-2 w-2">
+                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75" />
+                            <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500 border border-background" />
+                          </span>
+                        )}
+                        {tab === "profile" && (
+                          <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-red-500 border-2 border-background" />
+                        )}
+                        {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
+                          <div className="absolute -top-1.5 -right-2 min-w-4 h-4 px-1 rounded-full bg-red-500 text-white text-[8px] font-black flex items-center justify-center border border-background shadow-md">
+                            {unreadCount > 99 ? "99+" : unreadCount}
+                          </div>
+                        )}
+                        {isActive && (
+                          <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 rounded-full" style={{ background: tab === "pro" ? "oklch(0.62 0.18 295)" : "oklch(0.72 0.16 192)" }} />
+                        )}
+                      </div>
+                      <span className="text-[10px] font-semibold tracking-wide" style={{ color: isActive ? (tab === "pro" ? "oklch(0.62 0.18 295)" : "oklch(0.72 0.16 192)") : "oklch(0.45 0.02 250)" }}>
+                        {label}
+                      </span>
+                    </button>
+                  )
+                })}
+              </div>
+            )}
           </>
         )}
 

@@ -136,7 +136,9 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
       action: "school",
     },
     { icon: Settings, label: "Category", badge: "New", action: "category", isBold: true },
-    { icon: HelpCircle, label: "Trivia & Surveys", badge: uncompletedCount > 0 ? `${uncompletedCount} New` : undefined, action: "surveys" },
+    ...(currentCategory === "JSS"
+      ? [{ icon: HelpCircle, label: "Trivia & Surveys", badge: uncompletedCount > 0 ? `${uncompletedCount} New` : undefined, action: "surveys" }]
+      : []),
     { icon: Shield, label: "Privacy Policy", action: "privacy" },
     { icon: FileText, label: "Terms of Service", action: "terms" },
     { icon: Cookie, label: "Cookie Policy", action: "cookies" },
@@ -252,8 +254,8 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
         </div>
       )}
 
-      {/* Trivia Triumphs List */}
-      {stats?.surveyResults && Object.keys(stats.surveyResults).length > 0 && (
+      {/* Trivia Triumphs List (JSS only) */}
+      {currentCategory === "JSS" && stats?.surveyResults && Object.keys(stats.surveyResults).length > 0 && (
         <div className="glass rounded-2xl p-4 border border-purple-500/20 mb-5 bg-purple-500/5">
           <p className="text-[10px] font-bold text-purple-400 uppercase tracking-widest mb-3 flex items-center gap-2">
             Trivia Triumphs 🏆
@@ -331,7 +333,7 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
               </button>
             </div>
             <p className="text-xs text-muted-foreground mb-4">
-              Update the school name shown on your student profile.
+              Update your school name
             </p>
 
             <div className="space-y-3">

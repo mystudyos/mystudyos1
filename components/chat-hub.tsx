@@ -29,6 +29,7 @@ interface ChatHubProps {
   onViewProfile: (uid: string) => void
   initialChatId?: string | null
   onClearInitialChatId?: () => void
+  onBottomNavVisibilityChange?: (hide: boolean) => void
 }
 
 export function ChatHub({ 
@@ -37,7 +38,8 @@ export function ChatHub({
   onBack, 
   onViewProfile,
   initialChatId,
-  onClearInitialChatId
+  onClearInitialChatId,
+  onBottomNavVisibilityChange,
 }: ChatHubProps) {
   const [activeSubTab, setActiveSubTab] = useState<"global" | "dm">("global")
   const [chats, setChats] = useState<DirectChat[]>([])
@@ -49,6 +51,18 @@ export function ChatHub({
   const [removingChatId, setRemovingChatId] = useState<string | null>(null)
   const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
   const longPressTriggeredRef = useRef(false)
+
+  // Hide mobile bottom bar when Note Room or an active Private DM chat is open
+  const shouldHideBottomNav = activeSubTab === "global" || selectedChat !== null
+  useEffect(() => {
+    onBottomNavVisibilityChange?.(shouldHideBottomNav)
+  }, [shouldHideBottomNav, onBottomNavVisibilityChange])
+
+  useEffect(() => {
+    return () => {
+      onBottomNavVisibilityChange?.(false)
+    }
+  }, [onBottomNavVisibilityChange])
 
   const handleRemoveChat = async (chat: DirectChat, e?: React.MouseEvent) => {
     e?.stopPropagation()

@@ -20,25 +20,20 @@ import {
 import { query, collection, where, getDocs } from "firebase/firestore"
 import { db } from "@/lib/firebase"
 import { reportFirestoreError } from "@/lib/quota"
-import dynamic from "next/dynamic"
-const EmojiPicker = dynamic(() => import("emoji-picker-react"), { ssr: false })
-import { Theme } from "emoji-picker-react"
+import { ChatComposerBar } from "./chat-composer-bar"
 import { ADMIN_EMAIL } from "@/lib/constants"
 import { 
   ArrowLeft, 
-  Send, 
   Trash2,
   AlertTriangle,
   MessageCircle,
   Reply,
-  Smile,
   X,
   Pin,
   ChevronDown,
   ChevronUp,
   PinOff,
   Pencil,
-  Keyboard,
 } from "lucide-react"
 import { toast } from "react-toastify"
 
@@ -150,7 +145,7 @@ const MessageItem = memo(function MessageItem({
           )}
 
           <div className="flex items-end gap-1.5 min-w-0">
-            {/* Actions for own messages (left side — Admin only in Room Chat) */}
+            {/* Actions for own messages (left side — Admin only in Note Room) */}
             {isOwn && isAdmin && (
               <div className="flex items-center gap-0.5 transition-opacity">
                 <button
@@ -193,7 +188,7 @@ const MessageItem = memo(function MessageItem({
               {displayedText}
             </div>
 
-            {/* Actions for others' messages (right side — Admin only in Room Chat) */}
+            {/* Actions for others' messages (right side — Admin only in Note Room) */}
             {!isOwn && isAdmin && (
               <div className="flex items-center gap-0.5 transition-opacity">
                 <button
@@ -674,8 +669,8 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
     }
   }
 
-  const handleTextChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-    setText(e.target.value.slice(0, 500))
+  const handleTextChange = (nextText: string) => {
+    setText(nextText.slice(0, 500))
     if (!isTyping) {
       setIsTyping(true)
       setTypingStatus(user.uid, user.displayName || "Student", true)
@@ -800,10 +795,14 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
 
       {/* Scroll to bottom FAB */}
       {showScrollDown && (
-        <div className="absolute bottom-44 right-6 z-20 animate-in fade-in slide-in-from-bottom-2 duration-200">
+        <div
+          className={`absolute right-5 z-20 animate-in fade-in slide-in-from-bottom-2 duration-200 ${
+            showEmojiPicker ? "bottom-84" : "bottom-24"
+          }`}
+        >
           <button
             onClick={scrollToBottom}
-            className="w-10 h-10 rounded-full bg-primary text-primary-foreground flex items-center justify-center hover:scale-105 active:scale-95 transition-transform"
+            className="w-10 h-10 rounded-full bg-primary text-primary-foreground flex items-center justify-center hover:scale-105 active:scale-95 transition-transform shadow-lg"
             title="Scroll to bottom"
           >
             <ChevronDown className="w-5 h-5" />
@@ -864,129 +863,37 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
         </div>
       )}
 
-      {/* Input bar (Admin-only for Room Chat announcements & update releases) */}
+      {/* Input bar (Admin-only for Note Room announcements & update releases) */}
       {!isAdmin ? (
-        <div className="px-4 py-3.5 border-t border-border bg-background shrink-0">
+        <div className="px-4 py-3.5 pb-[max(0.875rem,env(safe-area-inset-bottom))] border-t border-border bg-background shrink-0">
           <div className="max-w-3xl mx-auto flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-muted/60 border border-border text-center">
             <span className="text-xs text-muted-foreground font-semibold">
-              Only admins can post in Room Chat.
+              Only admins can post in Note Room.
             </span>
           </div>
         </div>
       ) : isBanned ? (
-        <div className="px-4 py-4 border-t border-white/5 bg-background">
+        <div className="px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))] border-t border-white/5 bg-background">
           <div className="max-w-3xl mx-auto flex items-center gap-2 px-4 py-3 rounded-2xl bg-destructive/10 border border-destructive/20">
             <AlertTriangle className="w-4 h-4 text-destructive shrink-0" />
             <span className="text-xs text-destructive font-medium">Account suspended. Messaging disabled.</span>
           </div>
         </div>
       ) : (
-        <div className="border-t border-border bg-background flex flex-col shrink-0">
-          <div className="max-w-3xl mx-auto w-full px-3 md:px-4 py-3">
-            <div className="flex items-end gap-2 w-full">
-              {/* Emoji Toggle Button */}
-              <button 
-                type="button"
-                onClick={() => {
-                  if (showEmojiPicker) {
-                    setShowEmojiPicker(false)
-                    setTimeout(() => inputRef.current?.focus(), 50)
-                  } else {
-                    setShowEmojiPicker(true)
-                    inputRef.current?.blur()
-                    setTimeout(scrollToBottom, 100)
-                  }
-                }}
-                className="w-11 h-11 shrink-0 rounded-full bg-muted/80 border border-border flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-muted transition-all active:scale-95"
-                title={showEmojiPicker ? "Keyboard" : "Emojis"}
-              >
-                {showEmojiPicker ? (
-                  <Keyboard className="w-5.5 h-5.5" />
-                ) : (
-                  <Smile className="w-5.5 h-5.5" />
-                )}
-              </button>
-
-              {/* Text Input */}
-              <div className="flex-1 relative flex items-center bg-muted/80 border border-border rounded-2xl focus-within:ring-2 focus-within:ring-primary/30 transition-all min-w-0">
-                <textarea
-                  ref={inputRef}
-                  value={text}
-                  onFocus={() => {
-                    setShowEmojiPicker(false)
-                    setTimeout(scrollToBottom, 150)
-                    setTimeout(scrollToBottom, 400)
-                  }}
-                  onChange={(e) => {
-                    handleTextChange(e)
-                    const target = e.target
-                    requestAnimationFrame(() => {
-                      target.style.height = '42px'
-                      target.style.height = Math.min(target.scrollHeight, 120) + 'px'
-                    })
-                  }}
-                  placeholder="Type a message..."
-                  className="w-full px-4 py-2.5 bg-transparent text-sm focus:outline-none placeholder:text-muted-foreground/40 resize-none scrollbar-hide text-foreground h-10.5"
-                  disabled={sending}
-                  rows={1}
-                  style={{ height: text ? undefined : '42px' }}
-                />
-                
-                {text.length > 400 && (
-                  <span className={`absolute right-3 bottom-2.5 text-[9px] font-bold ${text.length >= 500 ? "text-destructive" : "text-muted-foreground/40"}`}>
-                    {text.length}/500
-                  </span>
-                )}
-              </div>
-
-              {/* Send Button */}
-              <button
-                onTouchEnd={(e) => {
-                  e.preventDefault()
-                  e.stopPropagation()
-                  handleSend()
-                }}
-                onClick={handleSend}
-                disabled={!text.trim() || sending || cooldown || hasForbiddenWords(text)}
-                className={`w-11 h-11 rounded-full flex items-center justify-center transition-all shrink-0 ${
-                  text.trim() && !sending && !cooldown && !hasForbiddenWords(text)
-                    ? "bg-primary text-primary-foreground active:scale-95 cursor-pointer shadow-lg shadow-primary/20"
-                    : "bg-muted/80 border border-border text-muted-foreground/40 cursor-not-allowed"
-                }`}
-                title="Send message"
-              >
-                <Send className="w-5 h-5" />
-              </button>
-            </div>
-          </div>
-          {cooldown && (
-            <p className="text-[9px] text-muted-foreground/40 mb-2 ml-6 font-medium max-w-3xl mx-auto w-full">
-              Wait a moment...
-            </p>
-          )}
-          {hasForbiddenWords(text) && (
-            <p className="text-[10px] text-destructive mb-2 ml-6 font-bold flex items-center gap-1 animate-pulse max-w-3xl mx-auto w-full">
-              <AlertTriangle className="w-3.5 h-3.5 shrink-0" />
-              Please remove inappropriate language!
-            </p>
-          )}
-
-          {showEmojiPicker && (
-            <div className="w-full bg-background border-t border-border h-70 overflow-hidden animate-in slide-in-from-bottom duration-200">
-              <EmojiPicker 
-                theme={Theme.DARK}
-                width="100%"
-                height="100%"
-                skinTonesDisabled
-                searchDisabled
-                previewConfig={{ showPreview: false }}
-                onEmojiClick={(e) => {
-                  setText(prev => prev + e.emoji)
-                }} 
-              />
-            </div>
-          )}
-        </div>
+        <ChatComposerBar
+          text={text}
+          onTextChange={handleTextChange}
+          onSend={handleSend}
+          inputRef={inputRef}
+          sending={sending}
+          cooldown={cooldown}
+          hasForbiddenWords={hasForbiddenWords(text)}
+          cooldownLabel="Wait a moment..."
+          forbiddenWarning="Please remove inappropriate language!"
+          onScrollToBottom={scrollToBottom}
+          showEmojiPicker={showEmojiPicker}
+          onShowEmojiPickerChange={setShowEmojiPicker}
+        />
       )}
     </div>
   )

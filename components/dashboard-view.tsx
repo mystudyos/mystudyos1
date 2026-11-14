@@ -257,7 +257,7 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
                     <span className="text-[9px] text-foreground font-semibold tabular-nums">June 1, 2026</span>
                   </div>
                   <p className="text-[13px] font-bold text-foreground leading-tight">Private DM's are Live!</p>
-                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Start private 1-on-1 chats with fellow students by clicking their profile cards on the Leaderboard or Room Chat. Safe & secure communication built directly into StudyOS.</p>
+                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Start private 1-on-1 chats with fellow students by clicking their profile cards on the Leaderboard. Safe & secure communication built directly into StudyOS.</p>
                 </div>
               </div>
 

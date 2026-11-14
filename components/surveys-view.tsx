@@ -1,6 +1,6 @@
 "use client"
 
-import { ArrowLeft, Play, Award, CheckCircle, HelpCircle } from "lucide-react"
+import { ArrowLeft, Play, CheckCircle, HelpCircle } from "lucide-react"
 import { SURVEYS, type Survey } from "@/lib/surveys"
 import { type UserStats } from "@/lib/user-stats"
 
@@ -36,8 +36,7 @@ export function SurveysView({ stats, onBack, onPlaySurvey }: SurveysViewProps) {
 
       <div className="glass rounded-[1.75rem] p-5 border border-white/10 mb-6 bg-primary/5">
         <p className="text-xs text-foreground/80 leading-relaxed font-medium">
-          Welcome to StudyOS Trivia! Test your knowledge on app history, tips, and school subjects. 
-          Each trivia quiz can only be played <span className="font-bold text-primary">once</span>, and your score will be proudly displayed on your student profile!
+            Play StudyOS Trivia to test your knowledge! Each quiz is played <span className="font-bold text-primary">once</span>, with scores proudly displayed on your student profile.
         </p>
       </div>
 

@@ -1948,5 +1948,785 @@
     "answer": "B",
     "topic": "Demand",
     "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "In economics, the term 'supply' refers specifically to the quantity of a commodity that:",
+    "options": [
+      "A. Producers are willing and able to offer for sale at a given price",
+      "B. Consumers are willing and able to purchase at a given price",
+      "C. Manufacturers have produced and stored in their warehouses",
+      "D. Retailers have available on their shelves at a specific time"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "The law of supply states that, all things being equal, there is a direct relationship between:",
+    "options": [
+      "A. Consumer income and the quantity of goods purchased",
+      "B. Price and the quantity of a commodity producers offer",
+      "C. Cost of production and the profits earned by firms",
+      "D. Demand for a good and its market equilibrium price"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "A movement along a given supply curve is triggered solely by a change in the:",
+    "options": [
+      "A. Price of the commodity in the market",
+      "B. Cost of raw materials for production",
+      "C. Level of technology in the industry",
+      "D. Number of producers in the market"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "A rightward shift of the supply curve indicates that there has been:",
+    "options": [
+      "A. A decrease in the quantity supplied at every price",
+      "B. An increase in the price of the commodity",
+      "C. A decrease in the demand for the commodity",
+      "D. An increase in supply at every given price"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following factors will cause the supply curve of a product to shift to the left?",
+    "options": [
+      "A. An improvement in production technology",
+      "B. A decrease in the price of raw materials",
+      "C. An increase in the cost of production inputs",
+      "D. An increase in government subsidies"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Technological advancement in an industry will typically result in:",
+    "options": [
+      "A. A leftward shift of the supply curve",
+      "B. A rightward shift of the supply curve",
+      "C. An upward movement along the supply curve",
+      "D. A downward movement along the supply curve"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "Beef and hides are often cited as an example of joint supply because they are:",
+    "options": [
+      "A. Produced together from a single source process",
+      "B. Demanded together to satisfy a single want",
+      "C. Consumed as substitutes for each other",
+      "D. Manufactured by competing industries"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "A farmer who uses the same piece of land to grow either maize or beans is demonstrating the concept of:",
+    "options": [
+      "A. Joint supply",
+      "B. Composite supply",
+      "C. Derived supply",
+      "D. Competitive supply"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Electricity can be generated from various sources such as water, gas, or solar. This is an example of:",
+    "options": [
+      "A. Competitive supply",
+      "B. Joint supply",
+      "C. Composite supply",
+      "D. Market supply"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "The price elasticity of supply measures the responsiveness of quantity supplied to a change in the:",
+    "options": [
+      "A. Consumer's income level",
+      "B. Price of the commodity",
+      "C. Cost of production",
+      "D. Tastes of buyers"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The supply of a commodity is said to be perfectly inelastic when the elasticity coefficient is:",
+    "options": [
+      "A. Zero and the curve is vertical",
+      "B. One and the curve is curved",
+      "C. Infinity and the curve is horizontal",
+      "D. Less than one and sloping upwards"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "A horizontal supply curve indicates that the elasticity of supply is:",
+    "options": [
+      "A. Unitary",
+      "B. Relatively inelastic",
+      "C. Perfectly inelastic",
+      "D. Perfectly elastic"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following factors is most likely to cause an unpredictable shift in the supply of agricultural products?",
+    "options": [
+      "A. A change in consumer preferences",
+      "B. An increase in the population size",
+      "C. Unfavourable climatic conditions",
+      "D. A drop in the national income"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "If the price of a good that a firm can produce instead increases significantly, the firm will likely:",
+    "options": [
+      "A. Increase the supply of the current good",
+      "B. Reduce the supply of the current good",
+      "C. Maintain the supply of the current good",
+      "D. Increase the demand for the current good"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "The supply of manufactured goods is generally more elastic in the long run because:",
+    "options": [
+      "A. Producers have adequate time to adjust all factors of production",
+      "B. Consumer demand becomes entirely inelastic over a long period",
+      "C. The government strictly regulates prices in the long run",
+      "D. Raw materials become completely exhausted over time"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "A table showing the different quantities of a commodity that producers are willing to sell at various prices is called a:",
+    "options": [
+      "A. Demand schedule",
+      "B. Production function",
+      "C. Cost schedule",
+      "D. Supply schedule"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "question": "The supply curve of labour can sometimes bend backwards because at very high wages, workers may:",
+    "options": [
+      "A. Demand fewer working hours as they prefer more leisure",
+      "B. Demand more working hours as they desire higher income",
+      "C. Decide to migrate to other countries for better pay",
+      "D. Seek alternative employment in different sectors"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "If the government grants a subsidy to producers of a commodity, the supply curve of that commodity will:",
+    "options": [
+      "A. Shift to the left as costs increase",
+      "B. Shift to the right as costs decrease",
+      "C. Remain completely unchanged",
+      "D. Become perfectly inelastic"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The imposition of a heavy tax on the production of a good will generally cause the:",
+    "options": [
+      "A. Supply curve to shift to the left",
+      "B. Supply curve to shift to the right",
+      "C. Demand curve to shift to the right",
+      "D. Price of the good to fall"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "The concept of elasticity of supply is highly important to the government when:",
+    "options": [
+      "A. Determining the optimal location for new industries",
+      "B. Regulating the lending rates of commercial banks",
+      "C. Formulating policies to encourage local production",
+      "D. Assessing the impact of price controls on output"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "If producers expect the price of their product to rise significantly in the near future, they will currently:",
+    "options": [
+      "A. Increase the quantity supplied to the market",
+      "B. Lower the price of the product to clear stock",
+      "C. Withhold stock to sell at the higher future price",
+      "D. Increase production and supply immediately"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "An increase in the number of firms producing a particular commodity will result in:",
+    "options": [
+      "A. A decrease in the market supply of the good",
+      "B. An increase in the market supply of the good",
+      "C. A decrease in the market demand for the good",
+      "D. A backward shift in the supply curve"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "If a 20% increase in the price of a good leads to a 40% increase in the quantity supplied, the elasticity of supply is:",
+    "options": [
+      "A. 2.0 and supply is relatively elastic",
+      "B. 0.5 and supply is relatively inelastic",
+      "C. 2.0 and supply is relatively inelastic",
+      "D. 0.5 and supply is relatively elastic"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "Unitary elastic supply means that a given percentage change in price results in:",
+    "options": [
+      "A. A greater percentage change in quantity supplied",
+      "B. A smaller percentage change in quantity supplied",
+      "C. Zero percentage change in quantity supplied",
+      "D. An equal percentage change in quantity supplied"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "In economic analysis, the fundamental difference between 'supply' and 'stock' is that supply refers to:",
+    "options": [
+      "A. The total quantity of goods available in the warehouse",
+      "B. The goods that are produced but not yet offered for sale",
+      "C. The quantity offered for sale at a specific price and time",
+      "D. The total quantity of goods produced over a period"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "The supply curve generally slopes upward from left to right because producers are willing to:",
+    "options": [
+      "A. Supply less at lower prices to minimize losses",
+      "B. Supply more at higher prices to maximize profit",
+      "C. Produce more only when costs are increasing",
+      "D. Reduce production when market prices rise"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "A shift in the supply curve is caused by a change in factors other than the price of the commodity, such as:",
+    "options": [
+      "A. The price of other commodities or input costs",
+      "B. The current market price of the commodity",
+      "C. The quantity demanded by consumers",
+      "D. The movement along the demand curve"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "A significant increase in the cost of transporting raw materials to a factory will likely cause the:",
+    "options": [
+      "A. Supply curve for the finished product to shift right",
+      "B. Demand curve for the finished product to shift right",
+      "C. Quantity supplied of the finished product to increase",
+      "D. Supply curve for the finished product to shift left"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The time period under consideration is a major determinant of the elasticity of supply because:",
+    "options": [
+      "A. Demand fluctuates wildly in the short run",
+      "B. Government policies change frequently",
+      "C. Producers can adjust all inputs in the long run",
+      "D. Consumers buy more goods over a long period"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "If a 10% increase in the price of a commodity results in a 5% increase in the quantity supplied, the supply is:",
+    "options": [
+      "A. Relatively inelastic",
+      "B. Relatively elastic",
+      "C. Perfectly elastic",
+      "D. Unitary elastic"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "In economics, utility is best defined as the:",
+    "options": [
+      "A. Satisfaction derived from consuming a good",
+      "B. Monetary value attached to a commodity",
+      "C. Usefulness of a good in production",
+      "D. Total cost of acquiring a product"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "The total satisfaction a consumer derives from consuming a given quantity of a commodity is called:",
+    "options": [
+      "A. Marginal utility",
+      "B. Average utility",
+      "C. Total utility",
+      "D. Consumed utility"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The change in total utility resulting from the consumption of one additional unit of a commodity is:",
+    "options": [
+      "A. Total utility",
+      "B. Marginal utility",
+      "C. Average utility",
+      "D. Ordinal utility"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The law of diminishing marginal utility states that as a consumer consumes more units of a good, the:",
+    "options": [
+      "A. Total satisfaction derived from the good begins to fall immediately",
+      "B. Additional satisfaction from each extra unit becomes constant",
+      "C. Average satisfaction derived from the good begins to rise",
+      "D. Additional satisfaction from each extra unit falls"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "A consumer is said to be in equilibrium when:",
+    "options": [
+      "A. The ratio of marginal utility to price is equal for all goods",
+      "B. Total utility derived is exactly equal to zero",
+      "C. Marginal utility is greater than the price paid",
+      "D. Total utility is falling as consumption rises"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "When total utility is at its maximum point, marginal utility is:",
+    "options": [
+      "A. Positive",
+      "B. Zero",
+      "C. Negative",
+      "D. Increasing"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "If a consumer derives 50 units of utility from 5 oranges and 65 units from 6 oranges, the marginal utility of the 6th orange is:",
+    "options": [
+      "A. 10 units",
+      "B. 50 units",
+      "C. 15 units",
+      "D. 65 units"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Average utility is calculated by dividing total utility by the:",
+    "options": [
+      "A. Marginal utility of the last unit",
+      "B. Price of the commodity consumed",
+      "C. Number of units consumed",
+      "D. Total cost of the commodity"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "If the marginal utility of consuming an additional unit of a good is negative, it implies that total utility is:",
+    "options": [
+      "A. Decreasing",
+      "B. Increasing",
+      "C. Constant",
+      "D. Maximized"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The law of diminishing marginal utility explains the downward-sloping demand curve because the consumer's willingness to pay for a good:",
+    "options": [
+      "A. Rises significantly as the quantity consumed increases",
+      "B. Remains constant regardless of the quantity consumed",
+      "C. Is determined entirely by the income of the consumer",
+      "D. Falls as more units of the good are consumed"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "The cardinal approach to utility measurement assumes that utility is:",
+    "options": [
+      "A. Ranked in order of preference",
+      "B. Measurable in exact units",
+      "C. Impossible to quantify",
+      "D. Determined by market prices"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "A curve that shows all combinations of two goods that give a consumer equal level of satisfaction is called:",
+    "options": [
+      "A. An indifference curve",
+      "B. A budget line",
+      "C. A production curve",
+      "D. A demand curve"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "A major property of indifference curves is that they:",
+    "options": [
+      "A. Intersect each other at the equilibrium point",
+      "B. Slope upwards from left to right",
+      "C. Are concave to the origin of the graph",
+      "D. Slope downwards from left to right"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "In the indifference curve approach, the consumer's budget constraint is represented by the:",
+    "options": [
+      "A. Maximum satisfaction derived from two goods",
+      "B. Total utility derived from consuming one good",
+      "C. Budget line showing affordable combinations",
+      "D. Minimum cost of producing two goods"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "In indifference curve analysis, consumer equilibrium is attained where the budget line:",
+    "options": [
+      "A. Intersects the lowest indifference curve",
+      "B. Is parallel to the highest indifference curve",
+      "C. Is tangent to the highest indifference curve",
+      "D. Crosses the vertical axis of the graph"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "If the marginal utility per naira spent on good X is less than that of good Y, the consumer should:",
+    "options": [
+      "A. Buy more of good X and less of good Y",
+      "B. Buy more of good Y and less of good X",
+      "C. Maintain the current consumption bundle",
+      "D. Increase the price of good X"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "The paradox of value, which explains why water is cheap and diamonds are expensive, is resolved by the concept of:",
+    "options": [
+      "A. Total utility",
+      "B. Opportunity cost",
+      "C. Diminishing returns",
+      "D. Marginal utility"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "The law of diminishing marginal utility assumes that as more units of a commodity are consumed, the:",
+    "options": [
+      "A. Total satisfaction derived begins to fall immediately",
+      "B. Average satisfaction derived begins to rise steadily",
+      "C. Satisfaction from each extra unit remains constant",
+      "D. Satisfaction from each extra unit falls"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Total utility is calculated by summing up the:",
+    "options": [
+      "A. Average utility of all units consumed",
+      "B. Marginal utility of all units consumed",
+      "C. Prices of all units consumed",
+      "D. Quantities of all units consumed"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "An indifference map consists of a series of indifference curves that show:",
+    "options": [
+      "A. Different levels of satisfaction for a consumer",
+      "B. The same level of satisfaction for a consumer",
+      "C. The total cost of purchasing two goods",
+      "D. The market prices of different goods"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "If a consumer's income increases while prices remain constant, the budget line will:",
+    "options": [
+      "A. Rotate inwards towards the origin",
+      "B. Shift outwards to the right",
+      "C. Remain unchanged in position",
+      "D. Become perfectly vertical"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "The point where total utility is maximum is also the point where:",
+    "options": [
+      "A. Average utility is at its maximum",
+      "B. Marginal utility is at its maximum",
+      "C. Total cost is at its minimum",
+      "D. Marginal utility is exactly zero"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following assumptions is necessary for the law of diminishing marginal utility to hold?",
+    "options": [
+      "A. The consumer's income is decreasing rapidly",
+      "B. The price of the commodity is increasing",
+      "C. The units consumed are identical in size",
+      "D. The consumer has unlimited storage space"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "The slope of an indifference curve is referred to as the:",
+    "options": [
+      "A. Marginal rate of substitution",
+      "B. Marginal rate of transformation",
+      "C. Marginal rate of technical substitution",
+      "D. Marginal propensity to consume"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "The ordinal approach to utility assumes that satisfaction can only be:",
+    "options": [
+      "A. Measured in exact numerical units",
+      "B. Determined by the market price",
+      "C. Ranked in order of preference",
+      "D. Divided into fixed categories"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "If the price of good X falls while the price of good Y and consumer income remain constant, the budget line will:",
+    "options": [
+      "A. Shift parallel to the left",
+      "B. Shift parallel to the right",
+      "C. Rotate outwards along the X-axis",
+      "D. Rotate inwards along the Y-axis"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "A consumer is said to be in equilibrium when the marginal rate of substitution is equal to the:",
+    "options": [
+      "A. Ratio of the prices of the goods",
+      "B. Sum of the utilities of the goods",
+      "C. Total income of the consumer",
+      "D. Difference in the quantities consumed"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "The statement that utility is cardinal implies that satisfaction can be:",
+    "options": [
+      "A. Measured in exact numerical units",
+      "B. Ranked in order of preference",
+      "C. Multiplied by the market price",
+      "D. Divided into fixed categories"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "When a consumer moves downward along a convex indifference curve, the marginal rate of substitution:",
+    "options": [
+      "A. Increases continuously",
+      "B. Remains constant",
+      "C. Becomes zero",
+      "D. Decreases continuously"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "If the marginal utility of a good is less than its price, a rational consumer will:",
+    "options": [
+      "A. Stop purchasing the good immediately",
+      "B. Reduce the consumption of the good",
+      "C. Increase the consumption of the good",
+      "D. Demand a refund for the good"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
   }
 ]
