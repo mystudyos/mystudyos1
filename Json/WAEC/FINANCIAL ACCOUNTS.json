@@ -1,0 +1,6242 @@
+[
+  {
+    "id": 1,
+    "question": "Accounting is best defined as the process of",
+    "options": [
+      "A. producing goods for consumers",
+      "B. recording and summarizing financial transactions",
+      "C. selling goods to customers for profit",
+      "D. auditing the accounts of companies"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an external user of accounting information?",
+    "options": [
+      "A. Management",
+      "B. Employees",
+      "C. Tax authorities",
+      "D. Board of directors"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which is NOT a characteristic of accounting information?",
+    "options": [
+      "A. Relevance",
+      "B. Reliability",
+      "C. Complexity",
+      "D. Comparability"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The accounting process begins with the stage of",
+    "options": [
+      "A. recording",
+      "B. summarizing",
+      "C. classifying",
+      "D. interpreting"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which user is interested in the tax liability of a business?",
+    "options": [
+      "A. Customers",
+      "B. Tax authorities",
+      "C. Employees",
+      "D. Suppliers"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Which user group is interested in the profitability of a company?",
+    "options": ["A. Debtors", "B. Creditors", "C. Auditors", "D. Investors"],
+    "answer": "D",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "Accounting information should be relevant. This means it must",
+    "options": [
+      "A. influence decision making",
+      "B. be free from error",
+      "C. be expressed in money",
+      "D. be available at all times"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an internal user of accounting information?",
+    "options": ["A. Bank", "B. Management", "C. Tax authority", "D. Customer"],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which is NOT a function of accounting?",
+    "options": [
+      "A. Recording transactions",
+      "B. Protecting assets",
+      "C. Producing goods",
+      "D. Communicating results"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "The primary objective of financial accounting is to",
+    "options": [
+      "A. provide financial information to users",
+      "B. calculate taxes",
+      "C. produce goods",
+      "D. sell shares"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Accounting information is reliable when it is",
+    "options": [
+      "A. available on time",
+      "B. free from bias and error",
+      "C. expressed in money",
+      "D. comparable"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is an external user of accounting information?",
+    "options": ["A. Managers", "B. Employees", "C. Lenders", "D. Owners"],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Which stage comes after recording in the accounting process?",
+    "options": [
+      "A. classifying",
+      "B. summarizing",
+      "C. interpreting",
+      "D. communicating"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "Which is a qualitative characteristic of accounting information?",
+    "options": ["A. Cost", "B. Relevance", "C. Profit", "D. Capital"],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which user is interested in the liquidity of a firm?",
+    "options": [
+      "A. Customers",
+      "B. Employees",
+      "C. Short-term creditors",
+      "D. Government"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is NOT a stage in the accounting process?",
+    "options": [
+      "A. Recording",
+      "B. Classifying",
+      "C. Manufacturing",
+      "D. Summarizing"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The nature of accounting is best described as",
+    "options": [
+      "A. a pure science",
+      "B. a science and an art",
+      "C. an art only",
+      "D. a social study"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which is a reason for keeping accounting records?",
+    "options": [
+      "A. To hide profits",
+      "B. To avoid taxes",
+      "C. To increase sales",
+      "D. To provide information for decisions"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Accounting information should be comparable. This means it must",
+    "options": [
+      "A. be free from error",
+      "B. be relevant",
+      "C. be consistent over time",
+      "D. be timely"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which is a limitation of accounting information?",
+    "options": [
+      "A. It is based on historical cost",
+      "B. It is expressed in money",
+      "C. It is reliable",
+      "D. It is relevant"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "Users of accounting information include",
+    "options": [
+      "A. only owners",
+      "B. various stakeholders",
+      "C. only managers",
+      "D. only creditors"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The double entry system of bookkeeping was first documented by",
+    "options": [
+      "A. Adam Smith",
+      "B. John Maynard Keynes",
+      "C. Luca Pacioli",
+      "D. Alfred Marshall"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is least likely to use accounting information?",
+    "options": [
+      "A. Management",
+      "B. Creditors",
+      "C. Tax authorities",
+      "D. A passer-by on the street"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "Which is a function of accounting?",
+    "options": [
+      "A. Recording transactions",
+      "B. Producing goods",
+      "C. Selling goods",
+      "D. Transporting goods"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "Accounting information is said to be timely when it is",
+    "options": [
+      "A. free from error",
+      "B. relevant",
+      "C. available when needed",
+      "D. comparable"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Financial Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "The accounting equation is stated as",
+    "options": [
+      "A. Capital = Assets + Liabilities",
+      "B. Assets = Capital + Liabilities",
+      "C. Assets = Capital - Liabilities",
+      "D. Liabilities = Assets + Capital"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "If total assets are ₦100,000 and capital is ₦60,000, liabilities equal",
+    "options": ["A. ₦160,000", "B. ₦60,000", "C. ₦40,000", "D. ₦100,000"],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "The double entry principle states that",
+    "options": [
+      "A. every transaction has two debit entries",
+      "B. every transaction affects only one account",
+      "C. all transactions must be recorded in cash",
+      "D. every debit entry has a corresponding credit entry"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "A source document is best described as",
+    "options": [
+      "A. written evidence of a business transaction",
+      "B. a book of original entry",
+      "C. a ledger account",
+      "D. a trial balance extract"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a source document?",
+    "options": [
+      "A. Trial balance",
+      "B. Ledger",
+      "C. Invoice",
+      "D. Balance sheet"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The sales day book records",
+    "options": [
+      "A. all cash sales",
+      "B. credit sales only",
+      "C. sales returns",
+      "D. purchases on credit"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The purchases day book records",
+    "options": [
+      "A. all cash purchases",
+      "B. purchase returns",
+      "C. credit purchases only",
+      "D. sales on credit"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Returns inwards book records goods",
+    "options": [
+      "A. returned by customers to the business",
+      "B. returned by the business to suppliers",
+      "C. sold on credit to customers",
+      "D. purchased on credit from suppliers"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Returns outwards book records goods",
+    "options": [
+      "A. returned by customers to the business",
+      "B. returned by the business to suppliers",
+      "C. sold on credit to customers",
+      "D. purchased on credit from suppliers"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The petty cash book is used to record",
+    "options": [
+      "A. large cash payments",
+      "B. credit sales",
+      "C. small cash payments",
+      "D. credit purchases"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "A trial balance is a statement of",
+    "options": [
+      "A. assets and liabilities",
+      "B. income and expenditure",
+      "C. cash receipts and payments",
+      "D. debit and credit balances"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "A bank reconciliation statement is prepared to",
+    "options": [
+      "A. calculate bank interest",
+      "B. reconcile cash book and bank statement balances",
+      "C. record bank charges",
+      "D. determine the cash balance"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "A suspense account is used to",
+    "options": [
+      "A. record all transactions",
+      "B. record cash sales",
+      "C. record credit purchases",
+      "D. temporarily record differences in trial balance"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following errors does NOT affect the trial balance?",
+    "options": [
+      "A. Error of addition",
+      "B. Error of transposition",
+      "C. Error of principle",
+      "D. Error of partial omission"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "An error of principle occurs when",
+    "options": [
+      "A. an entry is made in the wrong class of account",
+      "B. a transaction is completely omitted",
+      "C. figures are transposed",
+      "D. a transaction is recorded twice"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "A compensating error is one that",
+    "options": [
+      "A. affects only one account",
+      "B. is offset by another error of equal amount",
+      "C. is corrected by a suspense account",
+      "D. affects the trial balance"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "An error of omission occurs when",
+    "options": [
+      "A. a transaction is recorded in the wrong account",
+      "B. wrong figures are used",
+      "C. a transaction is completely left out of the books",
+      "D. a transaction is recorded twice"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "The cash book is a book of",
+    "options": [
+      "A. original entry only",
+      "B. final entry only",
+      "C. subsidiary entry only",
+      "D. original entry and ledger"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a subsidiary book?",
+    "options": [
+      "A. Sales day book",
+      "B. Trial balance",
+      "C. Balance sheet",
+      "D. Profit and loss account"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The journal is used to record",
+    "options": [
+      "A. cash sales only",
+      "B. credit purchases only",
+      "C. transactions not recorded in other books",
+      "D. all transactions"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "A debit note is sent by",
+    "options": [
+      "A. a seller to a buyer",
+      "B. a bank to a customer",
+      "C. an auditor to a client",
+      "D. a buyer to a seller"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "A credit note is sent by",
+    "options": [
+      "A. a seller to a buyer",
+      "B. a buyer to a seller",
+      "C. a bank to a customer",
+      "D. an auditor to a client"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "When goods are purchased on credit, the account debited is",
+    "options": [
+      "A. sales account",
+      "B. purchases account",
+      "C. cash account",
+      "D. capital account"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "When goods are sold on credit, the account credited is",
+    "options": [
+      "A. purchases account",
+      "B. cash account",
+      "C. capital account",
+      "D. sales account"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Purchase returns are recorded in the",
+    "options": [
+      "A. returns outwards book",
+      "B. sales day book",
+      "C. purchases day book",
+      "D. returns inwards book"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "The imprest system is used in maintaining the",
+    "options": [
+      "A. sales ledger",
+      "B. petty cash book",
+      "C. purchases ledger",
+      "D. general journal"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The ledger is a book of",
+    "options": [
+      "A. original entry",
+      "B. source documents",
+      "C. final entry",
+      "D. trial balance"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is a real account?",
+    "options": [
+      "A. Machinery account",
+      "B. Sales account",
+      "C. Rent account",
+      "D. Capital account"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is a nominal account?",
+    "options": [
+      "A. Cash account",
+      "B. Rent account",
+      "C. Bank account",
+      "D. Debtors account"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is a personal account?",
+    "options": [
+      "A. Sales account",
+      "B. Rent account",
+      "C. Debtors account",
+      "D. Machinery account"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The rule for nominal accounts is",
+    "options": [
+      "A. debit the receiver, credit the giver",
+      "B. debit what comes in, credit what goes out",
+      "C. debit all accounts equally",
+      "D. debit expenses, credit income"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The rule for real accounts is",
+    "options": [
+      "A. debit the receiver, credit the giver",
+      "B. debit what comes in, credit what goes out",
+      "C. debit expenses, credit income",
+      "D. debit all accounts equally"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "A trial balance is prepared to",
+    "options": [
+      "A. determine profit",
+      "B. calculate depreciation",
+      "C. prepare the balance sheet",
+      "D. check the arithmetical accuracy of ledger"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Which error will NOT be disclosed by a trial balance?",
+    "options": [
+      "A. Error of addition",
+      "B. Error of partial omission",
+      "C. Error of complete reversal",
+      "D. Error of transposition"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "An error of commission occurs when",
+    "options": [
+      "A. an entry is made in the wrong account of the same class",
+      "B. a transaction is completely omitted",
+      "C. figures are transposed",
+      "D. a transaction is recorded twice"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "An error of original entry occurs when",
+    "options": [
+      "A. a transaction is completely omitted",
+      "B. wrong figures are entered in the books",
+      "C. an entry is made in the wrong class",
+      "D. a transaction is recorded twice"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "A suspense account is opened when",
+    "options": [
+      "A. the trial balance agrees",
+      "B. the balance sheet is prepared",
+      "C. the trial balance does not agree",
+      "D. the profit is calculated"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "The bank statement is prepared by",
+    "options": [
+      "A. the business",
+      "B. the auditor",
+      "C. the customer",
+      "D. the bank"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "A bank reconciliation statement is prepared by",
+    "options": [
+      "A. the business",
+      "B. the bank",
+      "C. the auditor",
+      "D. the tax authority"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "Unpresented cheques are cheques that have been",
+    "options": [
+      "A. received but not yet credited by the bank",
+      "B. dishonoured by the bank",
+      "C. issued but not yet presented to the bank",
+      "D. cancelled by the business"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Uncredited cheques are cheques that have been",
+    "options": [
+      "A. issued but not yet presented to the bank",
+      "B. dishonoured by the bank",
+      "C. cancelled by the business",
+      "D. received but not yet credited by the bank"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "A standing order is an instruction to the bank to",
+    "options": [
+      "A. pay a fixed amount regularly",
+      "B. dishonour cheques",
+      "C. close an account",
+      "D. lend money"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "A direct debit is an instruction to the bank to",
+    "options": [
+      "A. pay a fixed amount regularly",
+      "B. pay a variable amount on demand",
+      "C. dishonour cheques",
+      "D. close an account"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 69,
+    "question": "Bank charges are recorded in the cash book as a",
+    "options": [
+      "A. debit",
+      "B. sales day book entry",
+      "C. purchases day book entry",
+      "D. credit"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "A contra entry in the cash book affects",
+    "options": [
+      "A. cash and bank columns",
+      "B. sales and purchases",
+      "C. debtors and creditors",
+      "D. capital and drawings"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "The petty cash book is maintained using the",
+    "options": [
+      "A. double entry system",
+      "B. imprest system",
+      "C. single entry system",
+      "D. trial balance system"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "The correct double entry for purchases on credit is",
+    "options": [
+      "A. debit supplier, credit purchases",
+      "B. debit cash, credit purchases",
+      "C. debit purchases, credit supplier",
+      "D. debit purchases, credit cash"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "The correct double entry for cash sales is",
+    "options": [
+      "A. debit cash, credit sales",
+      "B. debit sales, credit cash",
+      "C. debit purchases, credit cash",
+      "D. debit cash, credit purchases"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "The correct double entry for rent paid by cheque is",
+    "options": [
+      "A. debit bank, credit rent",
+      "B. debit rent, credit bank",
+      "C. debit cash, credit rent",
+      "D. debit rent, credit cash"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "The correct double entry for depreciation is",
+    "options": [
+      "A. debit asset, credit depreciation",
+      "B. debit cash, credit depreciation",
+      "C. debit depreciation, credit asset",
+      "D. debit depreciation, credit cash"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Which is a book of original entry?",
+    "options": [
+      "A. Trial balance",
+      "B. Ledger",
+      "C. Balance sheet",
+      "D. Sales journal"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "A credit balance on the cash book represents",
+    "options": [
+      "A. cash in hand",
+      "B. bank overdraft",
+      "C. bank balance",
+      "D. debtors balance"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Which account is debited when goods are returned to a supplier?",
+    "options": [
+      "A. Purchases account",
+      "B. Sales account",
+      "C. Cash account",
+      "D. Supplier's account"
+    ],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Which account is credited when goods are returned by a customer?",
+    "options": [
+      "A. Customer's account",
+      "B. Sales account",
+      "C. Purchases account",
+      "D. Cash account"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "An entry in the purchases day book is posted to the",
+    "options": [
+      "A. credit side of purchases account",
+      "B. debit side of purchases account",
+      "C. credit side of sales account",
+      "D. debit side of sales account"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "An entry in the sales day book is posted to the",
+    "options": [
+      "A. debit side of sales account",
+      "B. credit side of purchases account",
+      "C. credit side of sales account",
+      "D. debit side of purchases account"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "The purchases ledger contains accounts of",
+    "options": ["A. customers", "B. employees", "C. owners", "D. suppliers"],
+    "answer": "D",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "The sales ledger contains accounts of",
+    "options": ["A. customers", "B. suppliers", "C. employees", "D. owners"],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "Discount received is recorded in the",
+    "options": [
+      "A. sales day book",
+      "B. cash book debit side",
+      "C. returns inwards book",
+      "D. cash book credit side"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 85,
+    "question": "Discount allowed is recorded in the",
+    "options": [
+      "A. purchases day book",
+      "B. returns outwards book",
+      "C. cash book debit side",
+      "D. cash book credit side"
+    ],
+    "answer": "C",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "An accounting concept that assumes a business will continue to operate is",
+    "options": [
+      "A. accrual",
+      "B. going concern",
+      "C. consistency",
+      "D. prudence"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "The accrual concept requires that revenue and expenses be recognized",
+    "options": [
+      "A. when cash is received or paid",
+      "B. at the end of the year",
+      "C. when they are earned or incurred",
+      "D. when the owner decides"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "The consistency concept requires that",
+    "options": [
+      "A. all transactions be recorded in cash",
+      "B. assets be recorded at market value",
+      "C. profits be distributed equally",
+      "D. accounting methods remain unchanged from period to period"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "The prudence concept requires that",
+    "options": [
+      "A. expenses and liabilities be recognized as soon as possible",
+      "B. profits be overstated",
+      "C. assets be undervalued always",
+      "D. revenue be recognized before earned"
+    ],
+    "answer": "A",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "The business entity concept means that",
+    "options": [
+      "A. the business and owner are the same",
+      "B. all transactions are recorded in cash",
+      "C. the business is separate from its owner",
+      "D. profits belong to the owner"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "The money measurement concept means that",
+    "options": [
+      "A. all transactions must be in cash",
+      "B. only transactions expressible in money are recorded",
+      "C. all assets must be measured",
+      "D. profits must be measured in money"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The materiality concept states that",
+    "options": [
+      "A. all items must be recorded regardless of amount",
+      "B. all assets must be material",
+      "C. only significant items need separate disclosure",
+      "D. profits must be material"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The realization concept states that revenue is recognized when",
+    "options": [
+      "A. goods or services are delivered",
+      "B. cash is received",
+      "C. the order is placed",
+      "D. the contract is signed"
+    ],
+    "answer": "A",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "The matching concept requires that",
+    "options": [
+      "A. assets be matched with liabilities",
+      "B. expenses be matched with revenue of the period",
+      "C. cash be matched with bank",
+      "D. capital be matched with drawings"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "The historical cost concept records assets at",
+    "options": [
+      "A. market value",
+      "B. replacement cost",
+      "C. original cost",
+      "D. net realizable value"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "The objectivity concept requires that accounting information be",
+    "options": [
+      "A. based on personal opinion",
+      "B. kept secret",
+      "C. changed annually",
+      "D. supported by verifiable evidence"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The full disclosure concept requires that",
+    "options": [
+      "A. all information be disclosed to competitors",
+      "B. all material information be disclosed in financial statements",
+      "C. only profits be disclosed",
+      "D. only assets be disclosed"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "The periodicity concept assumes that",
+    "options": [
+      "A. the business will last forever",
+      "B. all transactions occur at year end",
+      "C. profits are earned daily",
+      "D. the life of a business can be divided into periods"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "A limitation of the going concern concept is that",
+    "options": [
+      "A. it assumes immediate liquidation",
+      "B. it ignores profitability",
+      "C. it assumes indefinite life",
+      "D. it ignores cash flow"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 100,
+    "question": "The accrual concept is also known as the",
+    "options": [
+      "A. matching concept",
+      "B. cash concept",
+      "C. cost concept",
+      "D. entity concept"
+    ],
+    "answer": "A",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Which concept ignores the effect of inflation?",
+    "options": [
+      "A. Going concern",
+      "B. Historical cost",
+      "C. Accrual",
+      "D. Prudence"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "The significance of accounting concepts is to",
+    "options": [
+      "A. confuse users",
+      "B. increase profits",
+      "C. ensure uniformity and comparability",
+      "D. reduce taxes"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "A limitation of accounting concepts is that",
+    "options": [
+      "A. they are universally applicable",
+      "B. they are always accurate",
+      "C. they are legally binding",
+      "D. they may conflict with each other"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "The prudence concept may conflict with the",
+    "options": [
+      "A. accrual concept",
+      "B. going concern concept",
+      "C. consistency concept",
+      "D. matching concept"
+    ],
+    "answer": "A",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "The business entity concept is important because it",
+    "options": [
+      "A. combines business and personal transactions",
+      "B. ignores business transactions",
+      "C. separates business and personal transactions",
+      "D. records only cash transactions"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "The consistency concept helps users to",
+    "options": [
+      "A. ignore changes in accounting methods",
+      "B. avoid paying taxes",
+      "C. increase profits",
+      "D. compare financial statements over time"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The materiality concept allows",
+    "options": [
+      "A. insignificant items to be treated informally",
+      "B. all items to be treated equally",
+      "C. all items to be ignored",
+      "D. only cash items to be recorded"
+    ],
+    "answer": "A",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Which concept requires that assets be recorded at their purchase price?",
+    "options": [
+      "A. Going concern",
+      "B. Historical cost",
+      "C. Accrual",
+      "D. Prudence"
+    ],
+    "answer": "B",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Which concept assumes that the business entity will not be liquidated in the near future?",
+    "options": [
+      "A. Accrual",
+      "B. Consistency",
+      "C. Going concern",
+      "D. Prudence"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "The realization concept requires that revenue be recognized when",
+    "options": [
+      "A. cash is received",
+      "B. the order is placed",
+      "C. the contract is signed",
+      "D. goods are delivered to the customer"
+    ],
+    "answer": "D",
+    "topic": "Accounting Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "The trading account is prepared to determine",
+    "options": [
+      "A. net profit",
+      "B. gross profit",
+      "C. total assets",
+      "D. capital"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "The profit and loss account is prepared to determine",
+    "options": [
+      "A. gross profit",
+      "B. total assets",
+      "C. net profit",
+      "D. capital"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The balance sheet shows",
+    "options": [
+      "A. assets, liabilities and capital",
+      "B. income and expenses",
+      "C. cash receipts and payments",
+      "D. sales and purchases"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "Cost of goods sold is calculated as",
+    "options": [
+      "A. opening stock - purchases + closing stock",
+      "B. opening stock + purchases - closing stock",
+      "C. opening stock + purchases + closing stock",
+      "D. closing stock + purchases - opening stock"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "Gross profit is calculated as",
+    "options": [
+      "A. sales + cost of goods sold",
+      "B. purchases - sales",
+      "C. sales - cost of goods sold",
+      "D. opening stock - closing stock"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "Net profit is calculated as",
+    "options": [
+      "A. gross profit + expenses",
+      "B. sales - purchases",
+      "C. capital - drawings",
+      "D. gross profit - expenses"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "Accrued expenses are expenses that have been",
+    "options": [
+      "A. incurred but not yet paid",
+      "B. paid in advance",
+      "C. paid and recorded",
+      "D. cancelled"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Prepaid expenses are expenses that have been",
+    "options": [
+      "A. incurred but not yet paid",
+      "B. paid in advance",
+      "C. paid and recorded",
+      "D. cancelled"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Accrued income is income that has been",
+    "options": [
+      "A. received in advance",
+      "B. received and recorded",
+      "C. earned but not yet received",
+      "D. cancelled"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Income received in advance is",
+    "options": [
+      "A. earned but not yet received",
+      "B. received and earned",
+      "C. cancelled",
+      "D. received but not yet earned"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Drawings are deducted from",
+    "options": ["A. assets", "B. capital", "C. liabilities", "D. profit"],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "Closing stock is valued at",
+    "options": [
+      "A. cost price only",
+      "B. market price only",
+      "C. lower of cost and net realizable value",
+      "D. higher of cost and market value"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Carriage inwards is charged to the",
+    "options": [
+      "A. trading account",
+      "B. profit and loss account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Carriage outwards is charged to the",
+    "options": [
+      "A. trading account",
+      "B. profit and loss account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "Return inwards is deducted from",
+    "options": [
+      "A. purchases",
+      "B. opening stock",
+      "C. sales",
+      "D. closing stock"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Return outwards is deducted from",
+    "options": [
+      "A. purchases",
+      "B. sales",
+      "C. opening stock",
+      "D. closing stock"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "The balance sheet is also known as the",
+    "options": [
+      "A. statement of profit or loss",
+      "B. statement of financial position",
+      "C. statement of cash flows",
+      "D. trial balance"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "Current assets are assets that are",
+    "options": [
+      "A. held for long-term use",
+      "B. intangible in nature",
+      "C. not owned by the business",
+      "D. expected to be converted to cash within a year"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "Fixed assets are assets that are",
+    "options": [
+      "A. converted to cash within a year",
+      "B. intangible in nature",
+      "C. held for long-term use in the business",
+      "D. not owned by the business"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "Current liabilities are liabilities that are",
+    "options": [
+      "A. due for payment within a year",
+      "B. due after many years",
+      "C. not payable at all",
+      "D. paid in advance"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Long-term liabilities are liabilities that are",
+    "options": [
+      "A. due within a year",
+      "B. due after more than one year",
+      "C. not payable at all",
+      "D. paid in advance"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. current assets + current liabilities",
+      "C. current assets - current liabilities",
+      "D. total assets - total liabilities"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a fixed asset?",
+    "options": ["A. Machinery", "B. Stock", "C. Debtors", "D. Cash"],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is a current asset?",
+    "options": ["A. Land", "B. Stock", "C. Buildings", "D. Machinery"],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "question": "Which of the following is a current liability?",
+    "options": [
+      "A. Bank loan (5 years)",
+      "B. Mortgage",
+      "C. Trade creditors",
+      "D. Debentures"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is a long-term liability?",
+    "options": [
+      "A. Trade creditors",
+      "B. Bank overdraft",
+      "C. Accrued expenses",
+      "D. Mortgage"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "Net profit is transferred to the",
+    "options": [
+      "A. trading account",
+      "B. capital account",
+      "C. profit and loss account",
+      "D. balance sheet"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Gross loss occurs when",
+    "options": [
+      "A. sales exceed cost of goods sold",
+      "B. expenses exceed gross profit",
+      "C. capital exceeds drawings",
+      "D. cost of goods sold exceeds sales"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Net loss occurs when",
+    "options": [
+      "A. gross profit exceeds expenses",
+      "B. sales exceed purchases",
+      "C. expenses exceed gross profit",
+      "D. assets exceed liabilities"
+    ],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "An adjustment for accrued rent will",
+    "options": [
+      "A. increase rent expense and create a liability",
+      "B. decrease rent expense and create an asset",
+      "C. increase rent income and create a liability",
+      "D. decrease rent income and create an asset"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "An adjustment for prepaid insurance will",
+    "options": [
+      "A. increase insurance expense and create a liability",
+      "B. decrease insurance expense and create an asset",
+      "C. increase insurance income and create a liability",
+      "D. decrease insurance income and create an asset"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "Goods taken by the owner for personal use are called",
+    "options": ["A. purchases", "B. sales", "C. drawings", "D. capital"],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "Which of the following is added to opening capital to determine closing capital?",
+    "options": ["A. net loss", "B. drawings", "C. expenses", "D. net profit"],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "A debit balance on the profit and loss account represents",
+    "options": [
+      "A. net profit",
+      "B. net loss",
+      "C. gross profit",
+      "D. gross loss"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Bad debts are written off against",
+    "options": ["A. sales", "B. purchases", "C. debtors", "D. creditors"],
+    "answer": "C",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "Sales returns are also known as",
+    "options": [
+      "A. returns outwards",
+      "B. purchases returns",
+      "C. carriage inwards",
+      "D. returns inwards"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Purchases returns are also known as",
+    "options": [
+      "A. returns outwards",
+      "B. returns inwards",
+      "C. sales returns",
+      "D. carriage outwards"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is a direct expense in the trading account?",
+    "options": [
+      "A. Rent",
+      "B. Carriage inwards",
+      "C. Salaries",
+      "D. Insurance"
+    ],
+    "answer": "B",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following is an indirect expense in the profit and loss account?",
+    "options": [
+      "A. Purchases",
+      "B. Carriage inwards",
+      "C. Opening stock",
+      "D. Rent"
+    ],
+    "answer": "D",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "The excess of current assets over current liabilities is called",
+    "options": [
+      "A. working capital",
+      "B. capital employed",
+      "C. net worth",
+      "D. gross profit"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Provision for doubtful debts is created on",
+    "options": ["A. creditors", "B. debtors", "C. cash", "D. bank"],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Provision for doubtful debts is created based on the",
+    "options": [
+      "A. going concern concept",
+      "B. consistency concept",
+      "C. prudence concept",
+      "D. entity concept"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The straight line method of depreciation charges",
+    "options": [
+      "A. decreasing amount each year",
+      "B. increasing amount each year",
+      "C. no amount",
+      "D. equal amount each year"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "The reducing balance method of depreciation charges",
+    "options": [
+      "A. decreasing amount each year",
+      "B. equal amount each year",
+      "C. increasing amount each year",
+      "D. no amount"
+    ],
+    "answer": "A",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Depreciation is provided to",
+    "options": [
+      "A. increase the value of assets",
+      "B. reduce liabilities",
+      "C. allocate the cost of assets over useful life",
+      "D. increase profits"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following is NOT a method of depreciation?",
+    "options": [
+      "A. Straight line",
+      "B. Reducing balance",
+      "C. Sum of the years digits",
+      "D. Double entry"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "A revenue reserve is created from",
+    "options": ["A. capital", "B. profits", "C. assets", "D. liabilities"],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "A capital reserve is created from",
+    "options": ["A. profits", "B. sales", "C. purchases", "D. capital gains"],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "A provision for discount on debtors is created based on",
+    "options": ["A. creditors", "B. cash", "C. debtors", "D. bank"],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "The revaluation method of depreciation is suitable for",
+    "options": [
+      "A. loose tools",
+      "B. buildings",
+      "C. machinery",
+      "D. vehicles"
+    ],
+    "answer": "A",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "A provision for doubtful debts is shown in the balance sheet as",
+    "options": [
+      "A. a current asset",
+      "B. a deduction from debtors",
+      "C. a current liability",
+      "D. an addition to capital"
+    ],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "An increase in provision for doubtful debts is charged to",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. profit and loss account",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "A decrease in provision for doubtful debts is credited to",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. capital account",
+      "D. profit and loss account"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is a capital reserve?",
+    "options": [
+      "A. share premium",
+      "B. general reserve",
+      "C. dividend equalisation reserve",
+      "D. retained earnings"
+    ],
+    "answer": "A",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "Depreciation is calculated on the",
+    "options": [
+      "A. market value of the asset",
+      "B. selling price of the asset",
+      "C. cost of the asset",
+      "D. replacement value"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "The formula for straight line depreciation is",
+    "options": [
+      "A. cost / useful life",
+      "B. residual value / useful life",
+      "C. (cost + residual value) / useful life",
+      "D. (cost - residual value) / useful life"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The sum of the years digits method is a form of",
+    "options": [
+      "A. straight line depreciation",
+      "B. accelerated depreciation",
+      "C. revaluation",
+      "D. provision for doubtful debts"
+    ],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "A general reserve is an example of",
+    "options": [
+      "A. capital reserve",
+      "B. provision",
+      "C. liability",
+      "D. revenue reserve"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The purpose of providing depreciation is to",
+    "options": [
+      "A. create a fund for replacement",
+      "B. increase the asset value",
+      "C. match cost of asset with revenue",
+      "D. reduce liabilities"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Provision for doubtful debts is an application of the",
+    "options": [
+      "A. prudence concept",
+      "B. going concern concept",
+      "C. consistency concept",
+      "D. entity concept"
+    ],
+    "answer": "A",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "A provision is different from a reserve because a provision is",
+    "options": [
+      "A. created from profits",
+      "B. created for a specific known liability",
+      "C. a general reserve",
+      "D. a capital reserve"
+    ],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "The reducing balance method is also known as the",
+    "options": [
+      "A. straight line method",
+      "B. revaluation method",
+      "C. diminishing balance method",
+      "D. annuity method"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Depreciation on machinery is charged to the",
+    "options": [
+      "A. profit and loss account",
+      "B. trading account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "A",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Accumulated depreciation is shown in the balance sheet as",
+    "options": [
+      "A. an asset",
+      "B. a deduction from the asset",
+      "C. a liability",
+      "D. an addition to capital"
+    ],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "The straight line method is also known as the",
+    "options": [
+      "A. reducing balance method",
+      "B. revaluation method",
+      "C. fixed instalment method",
+      "D. sum of years digits method"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Which reserve is created from profits and can be used to pay dividends?",
+    "options": [
+      "A. Share premium",
+      "B. Capital redemption reserve",
+      "C. Revaluation reserve",
+      "D. General reserve"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "Provision for doubtful debts is calculated as a percentage of",
+    "options": [
+      "A. total sales",
+      "B. total debtors",
+      "C. total purchases",
+      "D. total creditors"
+    ],
+    "answer": "B",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "Which method of depreciation charges a higher amount in the early years?",
+    "options": [
+      "A. Straight line",
+      "B. Fixed instalment",
+      "C. Revaluation",
+      "D. Reducing balance"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "Bad debts recovered are credited to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. profit and loss account",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "A provision for discount on creditors is",
+    "options": [
+      "A. an asset",
+      "B. a liability",
+      "C. an expense",
+      "D. a deduction from creditors"
+    ],
+    "answer": "D",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "The purpose of a manufacturing account is to determine",
+    "options": [
+      "A. gross profit",
+      "B. cost of production",
+      "C. net profit",
+      "D. total assets"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "Prime cost consists of",
+    "options": [
+      "A. factory overhead only",
+      "B. administrative expenses",
+      "C. direct materials, direct labour and direct expenses",
+      "D. selling expenses"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "Factory overhead includes",
+    "options": [
+      "A. direct materials",
+      "B. indirect factory costs",
+      "C. direct labour",
+      "D. direct expenses"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Work in progress is adjusted in the manufacturing account to determine",
+    "options": [
+      "A. production cost",
+      "B. prime cost",
+      "C. gross profit",
+      "D. net profit"
+    ],
+    "answer": "A",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "Cost of production is transferred to the",
+    "options": [
+      "A. profit and loss account",
+      "B. balance sheet",
+      "C. trading account",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Direct material cost includes",
+    "options": [
+      "A. factory rent",
+      "B. factory supervisor salary",
+      "C. depreciation of machinery",
+      "D. cost of raw materials used in production"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "Direct labour cost includes",
+    "options": [
+      "A. wages of workers directly involved in production",
+      "B. factory rent",
+      "C. factory supervisor salary",
+      "D. depreciation of machinery"
+    ],
+    "answer": "A",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "Factory overhead includes all of the following EXCEPT",
+    "options": [
+      "A. factory rent",
+      "B. direct materials",
+      "C. depreciation of factory machinery",
+      "D. factory insurance"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "The manufacturing account is prepared by",
+    "options": [
+      "A. all businesses",
+      "B. service businesses only",
+      "C. manufacturing businesses only",
+      "D. non-profit organizations only"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "Production cost is calculated as",
+    "options": [
+      "A. prime cost - factory overhead",
+      "B. prime cost + factory overhead + closing WIP - opening WIP",
+      "C. prime cost + administrative expenses",
+      "D. prime cost + factory overhead + opening WIP - closing WIP"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "The cost of raw materials consumed is calculated as",
+    "options": [
+      "A. opening stock - purchases + closing stock",
+      "B. opening stock + purchases - closing stock",
+      "C. opening stock + purchases + closing stock",
+      "D. closing stock + purchases - opening stock"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "Which of the following is a direct expense?",
+    "options": [
+      "A. Factory rent",
+      "B. Factory insurance",
+      "C. Royalty paid per unit produced",
+      "D. Factory supervisor salary"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "Manufacturing account is prepared to ascertain the",
+    "options": [
+      "A. cost of goods produced",
+      "B. gross profit",
+      "C. net profit",
+      "D. total sales"
+    ],
+    "answer": "A",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "The transfer price of goods produced is credited to the",
+    "options": [
+      "A. trading account",
+      "B. manufacturing account",
+      "C. profit and loss account",
+      "D. balance sheet"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "Factory overhead absorption rate is used to",
+    "options": [
+      "A. allocate direct costs",
+      "B. calculate profit",
+      "C. charge overhead to production",
+      "D. determine selling price"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 196,
+    "question": "Which of the following is NOT part of prime cost?",
+    "options": [
+      "A. Direct materials",
+      "B. Direct labour",
+      "C. Direct expenses",
+      "D. Factory rent"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Opening work in progress is",
+    "options": [
+      "A. ignored in manufacturing accounts",
+      "B. added to production cost",
+      "C. subtracted from production cost",
+      "D. added to prime cost"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Closing work in progress is",
+    "options": [
+      "A. added to production cost",
+      "B. ignored in manufacturing accounts",
+      "C. added to prime cost",
+      "D. subtracted from production cost"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "The sale of scrap materials in a factory is credited to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. manufacturing account",
+      "D. profit and loss account"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "Manufacturing wages are treated as",
+    "options": [
+      "A. direct labour cost",
+      "B. factory overhead",
+      "C. administrative expense",
+      "D. selling expense"
+    ],
+    "answer": "A",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "Depreciation of factory plant is treated as",
+    "options": [
+      "A. direct labour cost",
+      "B. factory overhead",
+      "C. administrative expense",
+      "D. selling expense"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Cost classification in manufacturing accounts includes",
+    "options": [
+      "A. only direct costs",
+      "B. only indirect costs",
+      "C. direct and indirect costs",
+      "D. only fixed costs"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The final accounts of a manufacturing concern include",
+    "options": [
+      "A. only trading account",
+      "B. only profit and loss account",
+      "C. only balance sheet",
+      "D. manufacturing, trading, profit and loss accounts"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is an indirect factory cost?",
+    "options": [
+      "A. Raw materials",
+      "B. Factory maintenance",
+      "C. Production worker wages",
+      "D. Direct expenses"
+    ],
+    "answer": "B",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "The goods produced are transferred to the trading account at",
+    "options": [
+      "A. market price",
+      "B. selling price",
+      "C. cost of production",
+      "D. prime cost"
+    ],
+    "answer": "C",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "A control account is used to",
+    "options": [
+      "A. record all transactions",
+      "B. verify the accuracy of ledger balances",
+      "C. prepare the trial balance",
+      "D. calculate depreciation"
+    ],
+    "answer": "B",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "The sales ledger control account is also known as the",
+    "options": [
+      "A. creditors control account",
+      "B. cash control account",
+      "C. debtors control account",
+      "D. bank control account"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "The purchases ledger control account is also known as the",
+    "options": [
+      "A. debtors control account",
+      "B. cash control account",
+      "C. bank control account",
+      "D. creditors control account"
+    ],
+    "answer": "D",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The balance on the sales ledger control account represents",
+    "options": [
+      "A. total debtors",
+      "B. total sales",
+      "C. total creditors",
+      "D. total purchases"
+    ],
+    "answer": "A",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "The balance on the purchases ledger control account represents",
+    "options": [
+      "A. total sales",
+      "B. total debtors",
+      "C. total creditors",
+      "D. total purchases"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "A debit balance in the sales ledger control account means",
+    "options": [
+      "A. total owed to creditors",
+      "B. total owed by debtors",
+      "C. cash in hand",
+      "D. bank overdraft"
+    ],
+    "answer": "B",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "A credit balance in the purchases ledger control account means",
+    "options": [
+      "A. total owed by debtors",
+      "B. cash in hand",
+      "C. total owed to creditors",
+      "D. bank overdraft"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is recorded on the debit side of the sales ledger control account?",
+    "options": [
+      "A. credit sales",
+      "B. cash received from debtors",
+      "C. sales returns",
+      "D. discount allowed"
+    ],
+    "answer": "A",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following is recorded on the credit side of the purchases ledger control account?",
+    "options": [
+      "A. cash paid to creditors",
+      "B. credit purchases",
+      "C. purchase returns",
+      "D. discount received"
+    ],
+    "answer": "B",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "The purpose of reconciling control accounts is to",
+    "options": [
+      "A. calculate profit",
+      "B. prepare the balance sheet",
+      "C. locate errors in the ledgers",
+      "D. determine depreciation"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "Self-balancing ledgers involve",
+    "options": [
+      "A. recording only cash transactions",
+      "B. ignoring credit transactions",
+      "C. preparing only the trial balance",
+      "D. maintaining control accounts for each ledger"
+    ],
+    "answer": "D",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "The use of control accounts helps in",
+    "options": [
+      "A. detecting errors and fraud",
+      "B. increasing sales",
+      "C. reducing expenses",
+      "D. increasing profits"
+    ],
+    "answer": "A",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "A contra entry between sales ledger and purchases ledger control accounts occurs when",
+    "options": [
+      "A. a customer pays cash",
+      "B. a customer is also a supplier",
+      "C. a supplier is paid cash",
+      "D. goods are returned"
+    ],
+    "answer": "B",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The sales ledger control account is credited with",
+    "options": [
+      "A. credit sales",
+      "B. cash sales",
+      "C. cash received from debtors",
+      "D. sales returns"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "The purchases ledger control account is debited with",
+    "options": [
+      "A. credit purchases",
+      "B. cash purchases",
+      "C. purchase returns",
+      "D. cash paid to creditors"
+    ],
+    "answer": "D",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Discount allowed is recorded on the credit side of the",
+    "options": [
+      "A. sales ledger control account",
+      "B. purchases ledger control account",
+      "C. cash account",
+      "D. bank account"
+    ],
+    "answer": "B",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "Discount received is recorded on the debit side of the",
+    "options": [
+      "A. sales ledger control account",
+      "B. cash account",
+      "C. purchases ledger control account",
+      "D. bank account"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "A control account is part of the",
+    "options": [
+      "A. double entry system",
+      "B. subsidiary books",
+      "C. single entry system",
+      "D. trial balance"
+    ],
+    "answer": "A",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "Which of the following is NOT a control account?",
+    "options": [
+      "A. Sales ledger control account",
+      "B. Purchases ledger control account",
+      "C. Cash control account",
+      "D. Trial balance"
+    ],
+    "answer": "D",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "The balance on the sales ledger control account is transferred to the",
+    "options": [
+      "A. trading account",
+      "B. profit and loss account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Single entry system is also known as",
+    "options": [
+      "A. double entry system",
+      "B. incomplete records",
+      "C. complete records",
+      "D. trial balance"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "A limitation of single entry is that",
+    "options": [
+      "A. it is easy to prepare",
+      "B. it is expensive",
+      "C. it does not give a complete picture of transactions",
+      "D. it requires many records"
+    ],
+    "answer": "C",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Profit under single entry can be calculated as",
+    "options": [
+      "A. closing capital + opening capital - drawings",
+      "B. opening capital - closing capital + drawings",
+      "C. closing capital + drawings + additional capital",
+      "D. closing capital - opening capital + drawings - additional capital"
+    ],
+    "answer": "D",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "Mark-up is calculated as",
+    "options": [
+      "A. gross profit / cost of goods sold",
+      "B. gross profit / sales",
+      "C. net profit / sales",
+      "D. cost of goods sold / sales"
+    ],
+    "answer": "A",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "Margin is calculated as",
+    "options": [
+      "A. gross profit / cost of goods sold",
+      "B. gross profit / sales",
+      "C. net profit / sales",
+      "D. cost of goods sold / sales"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "If mark-up is 25%, margin is",
+    "options": ["A. 25%", "B. 15%", "C. 20%", "D. 30%"],
+    "answer": "C",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 232,
+    "question": "If margin is 20%, mark-up is",
+    "options": ["A. 20%", "B. 15%", "C. 30%", "D. 25%"],
+    "answer": "D",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Conversion of single entry to double entry involves",
+    "options": [
+      "A. reconstructing missing accounts",
+      "B. ignoring all transactions",
+      "C. recording only cash transactions",
+      "D. preparing the trial balance only"
+    ],
+    "answer": "A",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "Incomplete records are kept by",
+    "options": [
+      "A. large companies",
+      "B. small businesses",
+      "C. government agencies",
+      "D. multinational corporations"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "The statement of affairs is prepared to determine",
+    "options": [
+      "A. profit",
+      "B. sales",
+      "C. opening or closing capital",
+      "D. purchases"
+    ],
+    "answer": "C",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Additional capital introduced during the year is",
+    "options": [
+      "A. added to closing capital",
+      "B. added to drawings",
+      "C. ignored in profit calculation",
+      "D. subtracted from closing capital"
+    ],
+    "answer": "D",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Drawings during the year are",
+    "options": [
+      "A. added to closing capital",
+      "B. subtracted from closing capital",
+      "C. added to profit",
+      "D. ignored in profit calculation"
+    ],
+    "answer": "A",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "Which of the following is a limitation of incomplete records?",
+    "options": [
+      "A. It is easy to prepare",
+      "B. It is difficult to detect errors",
+      "C. It is expensive",
+      "D. It requires many records"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Mark-up is the ratio of",
+    "options": [
+      "A. gross profit to sales",
+      "B. net profit to sales",
+      "C. gross profit to cost",
+      "D. cost to sales"
+    ],
+    "answer": "C",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Margin is the ratio of",
+    "options": [
+      "A. gross profit to cost",
+      "B. net profit to sales",
+      "C. cost to sales",
+      "D. gross profit to sales"
+    ],
+    "answer": "D",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "A statement of affairs is similar to a",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. profit and loss account",
+      "D. trial balance"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Profit under single entry is also known as",
+    "options": [
+      "A. gross profit",
+      "B. net profit",
+      "C. increase in capital",
+      "D. increase in sales"
+    ],
+    "answer": "C",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "Which of the following is a reason for keeping incomplete records?",
+    "options": [
+      "A. lack of accounting knowledge",
+      "B. legal requirement",
+      "C. large scale of operations",
+      "D. availability of accountants"
+    ],
+    "answer": "A",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "The conversion of single entry to double entry is done to",
+    "options": [
+      "A. hide profits",
+      "B. prepare complete financial statements",
+      "C. avoid taxes",
+      "D. reduce expenses"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "If cost of goods sold is ₦80,000 and mark-up is 25%, sales is",
+    "options": ["A. ₦100,000", "B. ₦120,000", "C. ₦80,000", "D. ₦96,000"],
+    "answer": "A",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "Which of the following is a not-for-profit organization?",
+    "options": ["A. Sole trader", "B. Partnership", "C. Club", "D. Company"],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "The receipts and payments account is a",
+    "options": [
+      "A. trading account",
+      "B. profit and loss account",
+      "C. balance sheet",
+      "D. cash account"
+    ],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The income and expenditure account is prepared on",
+    "options": [
+      "A. cash basis",
+      "B. accrual basis",
+      "C. single entry basis",
+      "D. market basis"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Subscriptions received in advance are shown in the balance sheet as",
+    "options": ["A. an asset", "B. income", "C. a liability", "D. expenditure"],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Subscriptions in arrears are shown in the balance sheet as",
+    "options": ["A. an asset", "B. a liability", "C. income", "D. expenditure"],
+    "answer": "A",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "The accumulated fund of a not-for-profit organization is equivalent to",
+    "options": ["A. profit", "B. capital", "C. sales", "D. purchases"],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "The excess of income over expenditure is",
+    "options": ["A. deficit", "B. profit", "C. surplus", "D. loss"],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "The excess of expenditure over income is",
+    "options": ["A. surplus", "B. profit", "C. loss", "D. deficit"],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "The receipts and payments account records",
+    "options": [
+      "A. all cash receipts and payments",
+      "B. only credit transactions",
+      "C. only revenue transactions",
+      "D. only capital transactions"
+    ],
+    "answer": "A",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "Income and expenditure account is similar to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. profit and loss account",
+      "D. trial balance"
+    ],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Which of the following is a source of income for a club?",
+    "options": ["A. sales", "B. purchases", "C. drawings", "D. subscriptions"],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "Depreciation of club assets is charged to the",
+    "options": [
+      "A. receipts and payments account",
+      "B. income and expenditure account",
+      "C. balance sheet",
+      "D. subscriptions account"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "The balance of the income and expenditure account is transferred to the",
+    "options": [
+      "A. capital account",
+      "B. trading account",
+      "C. cash account",
+      "D. accumulated fund"
+    ],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "A not-for-profit organization prepares all of the following EXCEPT",
+    "options": [
+      "A. receipts and payments account",
+      "B. income and expenditure account",
+      "C. trading account",
+      "D. balance sheet"
+    ],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "Subscriptions account is used to determine",
+    "options": [
+      "A. subscriptions earned",
+      "B. subscriptions received",
+      "C. subscriptions in arrears",
+      "D. total income"
+    ],
+    "answer": "A",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "Life membership subscription is treated as",
+    "options": [
+      "A. revenue income",
+      "B. capital income",
+      "C. an expense",
+      "D. a liability"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "The accumulated fund is also known as",
+    "options": ["A. profit", "B. surplus", "C. capital", "D. deficit"],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is a receipt in a not-for-profit organization?",
+    "options": [
+      "A. rent paid",
+      "B. salaries paid",
+      "C. electricity paid",
+      "D. donations received"
+    ],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "Which of the following is a payment in a not-for-profit organization?",
+    "options": [
+      "A. rent paid",
+      "B. subscriptions received",
+      "C. donations received",
+      "D. interest received"
+    ],
+    "answer": "A",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "The profit from income-generating activities of a club is shown in the",
+    "options": [
+      "A. receipts and payments account",
+      "B. income and expenditure account",
+      "C. balance sheet",
+      "D. subscriptions account"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The receipts and payments account starts with the",
+    "options": [
+      "A. closing balance",
+      "B. subscriptions",
+      "C. opening balance",
+      "D. donations"
+    ],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "Entrance fees received by a club are usually treated as",
+    "options": [
+      "A. revenue income",
+      "B. an expense",
+      "C. a liability",
+      "D. capital income"
+    ],
+    "answer": "D",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "The difference between the total receipts and total payments in a receipts and payments account is the",
+    "options": [
+      "A. surplus or deficit",
+      "B. balance carried down",
+      "C. profit or loss",
+      "D. capital fund"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "A club's balance sheet shows assets and liabilities and also the",
+    "options": [
+      "A. cash balance",
+      "B. accumulated fund",
+      "C. subscriptions",
+      "D. donations"
+    ],
+    "answer": "B",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Donations received for a specific purpose are treated as",
+    "options": [
+      "A. revenue income",
+      "B. an expense",
+      "C. a special fund",
+      "D. a liability"
+    ],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 271,
+    "question": "A partnership is formed by",
+    "options": [
+      "A. one person",
+      "B. two or more persons",
+      "C. a company",
+      "D. a government"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "The partnership agreement is also known as the",
+    "options": [
+      "A. memorandum",
+      "B. articles",
+      "C. partnership deed",
+      "D. prospectus"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The profit and loss appropriation account is prepared to",
+    "options": [
+      "A. determine gross profit",
+      "B. determine net profit",
+      "C. prepare the balance sheet",
+      "D. share profit among partners"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "Interest on capital is charged to the",
+    "options": [
+      "A. trading account",
+      "B. appropriation account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "Interest on drawings is credited to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. appropriation account",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Partners' salaries are charged to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. capital account",
+      "D. appropriation account"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "In the absence of a partnership agreement, profits are shared",
+    "options": [
+      "A. equally",
+      "B. according to capital",
+      "C. according to drawings",
+      "D. according to age"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "Goodwill is an example of",
+    "options": [
+      "A. tangible asset",
+      "B. intangible asset",
+      "C. current liability",
+      "D. long-term liability"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "On admission of a new partner, goodwill is raised and shared among",
+    "options": [
+      "A. all partners",
+      "B. new partner",
+      "C. old partners",
+      "D. creditors"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "Revaluation of assets on admission of a partner is done to",
+    "options": [
+      "A. increase profits",
+      "B. reduce liabilities",
+      "C. increase capital",
+      "D. adjust the values of assets"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "The current account of a partner records",
+    "options": [
+      "A. capital contributions",
+      "B. drawings, interest and share of profit",
+      "C. assets and liabilities",
+      "D. sales and purchases"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "A partner's capital account is credited with",
+    "options": [
+      "A. drawings",
+      "B. share of loss",
+      "C. capital introduced",
+      "D. interest on drawings"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "A partner's capital account is debited with",
+    "options": [
+      "A. drawings",
+      "B. capital introduced",
+      "C. share of profit",
+      "D. interest on capital"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Dissolution of partnership means",
+    "options": [
+      "A. formation of partnership",
+      "B. ending of partnership",
+      "C. admission of a partner",
+      "D. retirement of a partner"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "On dissolution, the account used to close the books is the",
+    "options": [
+      "A. capital account",
+      "B. current account",
+      "C. realization account",
+      "D. appropriation account"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "The partnership deed normally contains all EXCEPT",
+    "options": [
+      "A. profit sharing ratio",
+      "B. capital contributions",
+      "C. interest on capital",
+      "D. trial balance"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following is NOT a feature of a partnership?",
+    "options": [
+      "A. limited liability",
+      "B. mutual agency",
+      "C. sharing of profits",
+      "D. unlimited liability"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "A partnership where all partners have unlimited liability is a",
+    "options": [
+      "A. limited partnership",
+      "B. general partnership",
+      "C. company",
+      "D. corporation"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Interest on drawings is calculated on",
+    "options": ["A. capital", "B. profit", "C. drawings", "D. sales"],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "The balance of the appropriation account is transferred to partners'",
+    "options": [
+      "A. capital accounts",
+      "B. drawings accounts",
+      "C. loan accounts",
+      "D. current accounts"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "A partner who contributes capital but does not take part in management is a",
+    "options": [
+      "A. dormant partner",
+      "B. active partner",
+      "C. nominal partner",
+      "D. minor partner"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "Goodwill is written off among partners in their",
+    "options": [
+      "A. capital ratio",
+      "B. drawings ratio",
+      "C. profit sharing ratio",
+      "D. age ratio"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "When a partner retires, the amount due to him is transferred to his",
+    "options": [
+      "A. loan account",
+      "B. capital account",
+      "C. current account",
+      "D. drawings account"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "In a partnership, the liability of partners is",
+    "options": [
+      "A. limited to their capital",
+      "B. unlimited",
+      "C. limited to their drawings",
+      "D. limited to their share of profit"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "A partner's loan account is credited when the partner",
+    "options": [
+      "A. withdraws capital",
+      "B. withdraws cash",
+      "C. lends money to the partnership",
+      "D. borrows from the partnership"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Interest on a partner's loan is charged to the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. capital account",
+      "D. appropriation account"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "On admission of a new partner, the revaluation profit is shared among",
+    "options": [
+      "A. old partners",
+      "B. new partner",
+      "C. all partners",
+      "D. creditors"
+    ],
+    "answer": "A",
+    "topic": "Partnership Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is a type of partner?",
+    "options": [
+      "A. silent partner",
+      "B. creditor",
+      "C. debtor",
+      "D. shareholder"
+    ],
+    "answer": "B",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "The account prepared to show how profit is distributed among partners is the",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. appropriation account",
+      "D. realization account"
+    ],
+    "answer": "C",
+    "topic": "Partnership Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "A partnership is dissolved when",
+    "options": [
+      "A. a new partner is admitted",
+      "B. profits increase",
+      "C. a partner is admitted",
+      "D. the business comes to an end"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "A company is formed by",
+    "options": [
+      "A. one person",
+      "B. two or more persons",
+      "C. incorporation",
+      "D. partnership deed"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "The document that regulates the internal affairs of a company is the",
+    "options": [
+      "A. memorandum",
+      "B. prospectus",
+      "C. articles of association",
+      "D. certificate of incorporation"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "The document that states the objects and powers of a company is the",
+    "options": [
+      "A. memorandum",
+      "B. articles of association",
+      "C. prospectus",
+      "D. certificate of incorporation"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "A prospectus is issued to",
+    "options": [
+      "A. regulate internal affairs",
+      "B. state the objects of the company",
+      "C. register the company",
+      "D. invite the public to subscribe for shares"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "Ordinary shares are also known as",
+    "options": [
+      "A. preference shares",
+      "B. debentures",
+      "C. equity shares",
+      "D. bonds"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 306,
+    "question": "Preference shares are entitled to",
+    "options": [
+      "A. variable dividend",
+      "B. no dividend",
+      "C. capital repayment only",
+      "D. fixed dividend"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "Debentures are",
+    "options": ["A. shares", "B. loans", "C. reserves", "D. provisions"],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Share premium is an example of",
+    "options": [
+      "A. revenue reserve",
+      "B. provision",
+      "C. liability",
+      "D. capital reserve"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The statement of cash flows is prepared using",
+    "options": [
+      "A. only direct method",
+      "B. only indirect method",
+      "C. direct and indirect methods",
+      "D. neither method"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "Which of the following is a current ratio?",
+    "options": [
+      "A. current assets / current liabilities",
+      "B. current assets / total assets",
+      "C. current liabilities / total liabilities",
+      "D. total assets / total liabilities"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "The quick ratio is also known as the",
+    "options": [
+      "A. current ratio",
+      "B. acid test ratio",
+      "C. debt ratio",
+      "D. profit ratio"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "Return on capital employed is calculated as",
+    "options": [
+      "A. gross profit / sales",
+      "B. net profit / sales",
+      "C. net profit / capital employed",
+      "D. sales / capital"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 313,
+    "question": "The purchase of a business account is prepared to determine",
+    "options": ["A. goodwill", "B. profit", "C. sales", "D. purchases"],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 314,
+    "question": "A company's final accounts include all EXCEPT",
+    "options": [
+      "A. trading account",
+      "B. trial balance",
+      "C. profit and loss account",
+      "D. balance sheet"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Dividends paid to shareholders are charged to",
+    "options": [
+      "A. trading account",
+      "B. balance sheet",
+      "C. appropriation account",
+      "D. capital account"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "A company is a separate legal entity from its",
+    "options": [
+      "A. employees",
+      "B. customers",
+      "C. suppliers",
+      "D. shareholders"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The liability of shareholders in a limited liability company is limited to",
+    "options": [
+      "A. their capital contribution",
+      "B. their personal assets",
+      "C. the company's debts",
+      "D. the company's assets"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Which of the following is NOT a type of share?",
+    "options": [
+      "A. ordinary share",
+      "B. preference share",
+      "C. deferred share",
+      "D. debenture"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "The nominal value of a share is also known as the",
+    "options": [
+      "A. market value",
+      "B. book value",
+      "C. par value",
+      "D. intrinsic value"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "A bonus issue of shares is made from",
+    "options": [
+      "A. revenue reserves",
+      "B. share premium",
+      "C. cash",
+      "D. debentures"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "question": "A rights issue is an offer of shares to",
+    "options": [
+      "A. the general public",
+      "B. existing shareholders",
+      "C. debenture holders",
+      "D. creditors"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "The statement of cash flows shows",
+    "options": [
+      "A. assets and liabilities",
+      "B. income and expenses",
+      "C. cash inflows and outflows",
+      "D. capital and drawings"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "Which of the following is a cash flow from operating activities?",
+    "options": [
+      "A. purchase of fixed assets",
+      "B. issue of shares",
+      "C. payment of dividends",
+      "D. cash received from customers"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 324,
+    "question": "Which of the following is a cash flow from investing activities?",
+    "options": [
+      "A. purchase of fixed assets",
+      "B. cash received from customers",
+      "C. issue of shares",
+      "D. payment of dividends"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "Which of the following is a cash flow from financing activities?",
+    "options": [
+      "A. purchase of fixed assets",
+      "B. cash received from customers",
+      "C. issue of shares",
+      "D. payment to suppliers"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 326,
+    "question": "A private limited company has the abbreviation",
+    "options": ["A. PLC", "B. Ltd", "C. Inc", "D. Corp"],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "A public limited company has the abbreviation",
+    "options": ["A. Ltd", "B. Inc", "C. Corp", "D. PLC"],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "Which of the following is a type of preference share?",
+    "options": [
+      "A. cumulative preference share",
+      "B. ordinary share",
+      "C. deferred share",
+      "D. equity share"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A debenture is a",
+    "options": ["A. share", "B. reserve", "C. loan", "D. provision"],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "The interest on debentures is charged to the",
+    "options": [
+      "A. trading account",
+      "B. appropriation account",
+      "C. balance sheet",
+      "D. profit and loss account"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Which of the following is a reserve created from capital profits?",
+    "options": [
+      "A. general reserve",
+      "B. capital reserve",
+      "C. revenue reserve",
+      "D. dividend reserve"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "A company can raise long-term funds by issuing",
+    "options": [
+      "A. trade credit",
+      "B. bank overdraft",
+      "C. debentures",
+      "D. commercial paper"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The excess of issue price over nominal value of shares is credited to",
+    "options": [
+      "A. share premium account",
+      "B. share capital account",
+      "C. revenue reserve",
+      "D. general reserve"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "A company's retained earnings are also known as",
+    "options": [
+      "A. share capital",
+      "B. revenue reserves",
+      "C. share premium",
+      "D. debentures"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "Which ratio measures a company's ability to pay its short-term debts?",
+    "options": [
+      "A. return on capital",
+      "B. gross profit ratio",
+      "C. current ratio",
+      "D. debt ratio"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "The debt-equity ratio measures a company's",
+    "options": [
+      "A. profitability",
+      "B. liquidity",
+      "C. efficiency",
+      "D. gearing"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 337,
+    "question": "When a company purchases an existing business, the excess of purchase price over net assets is",
+    "options": [
+      "A. goodwill",
+      "B. capital reserve",
+      "C. revenue reserve",
+      "D. share premium"
+    ],
+    "answer": "A",
+    "topic": "Company Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "A statement of cash flows is divided into",
+    "options": [
+      "A. two sections",
+      "B. three sections",
+      "C. four sections",
+      "D. five sections"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "Dividends declared but not yet paid are shown as",
+    "options": [
+      "A. an asset",
+      "B. a reserve",
+      "C. a current liability",
+      "D. a capital reserve"
+    ],
+    "answer": "C",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "The authorized share capital is also known as",
+    "options": [
+      "A. issued capital",
+      "B. called-up capital",
+      "C. paid-up capital",
+      "D. nominal capital"
+    ],
+    "answer": "D",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "VAT is a tax on",
+    "options": ["A. income", "B. consumption", "C. capital", "D. property"],
+    "answer": "B",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "Output VAT is charged on",
+    "options": ["A. purchases", "B. expenses", "C. sales", "D. capital"],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Input VAT is charged on",
+    "options": ["A. sales", "B. expenses", "C. capital", "D. purchases"],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "VAT payable is calculated as",
+    "options": [
+      "A. output VAT - input VAT",
+      "B. input VAT - output VAT",
+      "C. output VAT + input VAT",
+      "D. input VAT + output VAT"
+    ],
+    "answer": "A",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "VAT returns are prepared",
+    "options": ["A. annually", "B. weekly", "C. monthly", "D. daily"],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "Which of the following is an exempt good?",
+    "options": [
+      "A. electronics",
+      "B. clothing",
+      "C. furniture",
+      "D. food items"
+    ],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "A characteristic of VAT is that it is",
+    "options": [
+      "A. regressive",
+      "B. progressive",
+      "C. proportional",
+      "D. voluntary"
+    ],
+    "answer": "A",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 348,
+    "question": "VAT is collected by",
+    "options": ["A. individuals", "B. businesses", "C. government", "D. banks"],
+    "answer": "B",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "The purpose of VAT is to",
+    "options": [
+      "A. reduce prices",
+      "B. increase imports",
+      "C. raise government revenue",
+      "D. discourage consumption"
+    ],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "VAT is usually calculated as a percentage of",
+    "options": [
+      "A. cost price",
+      "B. profit",
+      "C. discount",
+      "D. selling price"
+    ],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "VAT is paid by",
+    "options": [
+      "A. manufacturers",
+      "B. final consumers",
+      "C. wholesalers",
+      "D. retailers"
+    ],
+    "answer": "B",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "The standard rate of VAT in Nigeria is",
+    "options": ["A. 5%", "B. 10%", "C. 7.5%", "D. 15%"],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Which of the following is NOT a characteristic of VAT?",
+    "options": [
+      "A. it is a consumption tax",
+      "B. it is regressive",
+      "C. it is a direct tax",
+      "D. it is collected at each stage"
+    ],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 354,
+    "question": "Input VAT is recoverable when",
+    "options": [
+      "A. goods are purchased for personal use",
+      "B. goods are exempt",
+      "C. goods are exported",
+      "D. goods are purchased for resale"
+    ],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "Exempt goods and services are those that",
+    "options": [
+      "A. attract VAT",
+      "B. do not attract VAT",
+      "C. attract zero VAT",
+      "D. attract higher VAT"
+    ],
+    "answer": "B",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A VAT return shows",
+    "options": [
+      "A. only output VAT",
+      "B. only input VAT",
+      "C. only VAT payable",
+      "D. output VAT, input VAT and VAT payable"
+    ],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "VAT is an example of",
+    "options": [
+      "A. direct tax",
+      "B. indirect tax",
+      "C. progressive tax",
+      "D. capital tax"
+    ],
+    "answer": "B",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The bases of computing input/output VAT is",
+    "options": [
+      "A. sales value",
+      "B. purchase value",
+      "C. cost value",
+      "D. market value"
+    ],
+    "answer": "D",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "VAT registration is required for businesses with turnover above",
+    "options": [
+      "A. ₦1 million",
+      "B. ₦5 million",
+      "C. ₦25 million",
+      "D. ₦50 million"
+    ],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "Zero-rated goods are those that",
+    "options": [
+      "A. attract VAT at 0%",
+      "B. do not attract VAT",
+      "C. attract higher VAT",
+      "D. are exempt from VAT"
+    ],
+    "answer": "A",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 361,
+    "question": "Departmental accounts are prepared to determine",
+    "options": [
+      "A. total profit only",
+      "B. profit or loss of each department",
+      "C. total sales only",
+      "D. total expenses only"
+    ],
+    "answer": "B",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "A department is a",
+    "options": [
+      "A. separate legal entity",
+      "B. branch of a business",
+      "C. section of a business",
+      "D. subsidiary company"
+    ],
+    "answer": "C",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "A branch is a",
+    "options": [
+      "A. separate legal entity",
+      "B. section of a business",
+      "C. subsidiary company",
+      "D. location of a business away from main office"
+    ],
+    "answer": "D",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "Expenses that cannot be directly allocated to departments are",
+    "options": [
+      "A. apportioned",
+      "B. ignored",
+      "C. added to sales",
+      "D. deducted from purchases"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "Inter-departmental transfers are recorded at",
+    "options": [
+      "A. selling price",
+      "B. market price",
+      "C. cost price",
+      "D. discount price"
+    ],
+    "answer": "C",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "The purpose of departmental accounts is to",
+    "options": [
+      "A. determine total profit",
+      "B. prepare the balance sheet",
+      "C. calculate depreciation",
+      "D. measure the performance of each department"
+    ],
+    "answer": "D",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "The branch account is prepared to determine",
+    "options": [
+      "A. profit or loss of the branch",
+      "B. total profit",
+      "C. total sales",
+      "D. total expenses"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "Inter-branch transactions are transactions between",
+    "options": [
+      "A. different businesses",
+      "B. branches of the same business",
+      "C. a branch and its customers",
+      "D. a branch and its suppliers"
+    ],
+    "answer": "B",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "Which of the following is NOT a basis for apportioning departmental expenses?",
+    "options": [
+      "A. floor area",
+      "B. sales value",
+      "C. number of employees",
+      "D. profit margin"
+    ],
+    "answer": "D",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "question": "The difference between a department and a branch is that a branch is",
+    "options": [
+      "A. geographically separated",
+      "B. not geographically separated",
+      "C. not part of the business",
+      "D. a separate legal entity"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "Departmental accounts help management in",
+    "options": [
+      "A. increasing expenses",
+      "B. decision making",
+      "C. reducing sales",
+      "D. preparing the trial balance"
+    ],
+    "answer": "B",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "question": "Goods sent to a branch are recorded in the branch account as",
+    "options": [
+      "A. credit",
+      "B. both debit and credit",
+      "C. debit",
+      "D. neither"
+    ],
+    "answer": "C",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 373,
+    "question": "Cash received from a branch is recorded in the branch account as",
+    "options": [
+      "A. credit",
+      "B. debit",
+      "C. both debit and credit",
+      "D. neither"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 374,
+    "question": "The balance of the branch account represents",
+    "options": [
+      "A. assets of the branch",
+      "B. profit or loss of the branch",
+      "C. liabilities of the branch",
+      "D. capital of the branch"
+    ],
+    "answer": "B",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "Departmental accounts are a part of",
+    "options": [
+      "A. management accounting",
+      "B. cost accounting",
+      "C. financial accounting",
+      "D. auditing"
+    ],
+    "answer": "C",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following is an advantage of departmental accounts?",
+    "options": [
+      "A. it increases expenses",
+      "B. it reduces sales",
+      "C. it hides losses",
+      "D. it helps to identify profitable departments"
+    ],
+    "answer": "D",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Inter-branch transactions are recorded in",
+    "options": [
+      "A. branch current accounts",
+      "B. capital accounts",
+      "C. drawings accounts",
+      "D. loan accounts"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "Which of the following expenses is apportioned on the basis of floor area?",
+    "options": ["A. sales", "B. purchases", "C. depreciation", "D. rent"],
+    "answer": "D",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 379,
+    "question": "A branch that keeps its own full accounting records is called a",
+    "options": [
+      "A. dependent branch",
+      "B. independent branch",
+      "C. foreign branch",
+      "D. local branch"
+    ],
+    "answer": "B",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 380,
+    "question": "Inter-departmental transfer of goods is recorded at",
+    "options": [
+      "A. cost price",
+      "B. selling price",
+      "C. market price",
+      "D. discount price"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "The main difference between public sector and private sector accounting is",
+    "options": [
+      "A. private sector uses fund accounting",
+      "B. both use fund accounting",
+      "C. neither uses fund accounting",
+      "D. public sector uses fund accounting"
+    ],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "Public sector accounting is based on",
+    "options": [
+      "A. accrual basis",
+      "B. cash basis",
+      "C. single entry basis",
+      "D. market basis"
+    ],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Sources of public revenue include",
+    "options": [
+      "A. taxes and fees",
+      "B. sales and purchases",
+      "C. capital and drawings",
+      "D. debtors and creditors"
+    ],
+    "answer": "A",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "Capital expenditure is expenditure on",
+    "options": [
+      "A. day-to-day running of government",
+      "B. salaries and wages",
+      "C. long-term assets",
+      "D. office consumables"
+    ],
+    "answer": "C",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Recurrent expenditure is expenditure on",
+    "options": [
+      "A. long-term assets",
+      "B. buildings and roads",
+      "C. machinery",
+      "D. day-to-day running of government"
+    ],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Government accounts are prepared on",
+    "options": [
+      "A. accrual basis",
+      "B. cash basis",
+      "C. single entry basis",
+      "D. market basis"
+    ],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "The main objective of public sector accounting is to",
+    "options": [
+      "A. show stewardship of public funds",
+      "B. maximize profit",
+      "C. minimize tax",
+      "D. increase sales"
+    ],
+    "answer": "A",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Which of the following is a source of public revenue?",
+    "options": ["A. salaries", "B. import duties", "C. wages", "D. rent paid"],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 389,
+    "question": "Which of the following is a recurrent expenditure?",
+    "options": [
+      "A. construction of roads",
+      "B. purchase of vehicles",
+      "C. building of schools",
+      "D. payment of salaries"
+    ],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "Which of the following is a capital expenditure?",
+    "options": [
+      "A. construction of roads",
+      "B. payment of salaries",
+      "C. purchase of stationery",
+      "D. payment of electricity bills"
+    ],
+    "answer": "A",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "Public sector accounting is regulated by",
+    "options": [
+      "A. company law",
+      "B. government financial regulations",
+      "C. partnership deed",
+      "D. accounting standards only"
+    ],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "Fund accounting is used in the public sector to",
+    "options": [
+      "A. combine all resources",
+      "B. increase profits",
+      "C. separate resources for specific purposes",
+      "D. reduce expenses"
+    ],
+    "answer": "C",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 393,
+    "question": "The account that shows the estimated revenue and expenditure of government is the",
+    "options": [
+      "A. budget",
+      "B. trial balance",
+      "C. balance sheet",
+      "D. trading account"
+    ],
+    "answer": "A",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Which of the following is NOT a source of public revenue?",
+    "options": ["A. taxes", "B. fees", "C. fines", "D. drawings"],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "Public sector accounting emphasizes",
+    "options": [
+      "A. profit maximization",
+      "B. sales maximization",
+      "C. accountability and transparency",
+      "D. cost minimization"
+    ],
+    "answer": "C",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The difference between public sector and private sector accounting is that public sector accounting",
+    "options": [
+      "A. aims at profit",
+      "B. is prepared by individuals",
+      "C. is not regulated",
+      "D. aims at service delivery"
+    ],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Government accounting records are kept on",
+    "options": [
+      "A. accrual basis",
+      "B. cash basis",
+      "C. single entry basis",
+      "D. market basis"
+    ],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Which of the following is a public sector organization?",
+    "options": [
+      "A. sole trader",
+      "B. partnership",
+      "C. private company",
+      "D. government ministry"
+    ],
+    "answer": "D",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "A simple government account includes",
+    "options": [
+      "A. sales and purchases",
+      "B. capital and drawings",
+      "C. revenue and expenditure",
+      "D. debtors and creditors"
+    ],
+    "answer": "C",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The main purpose of government accounting is to",
+    "options": [
+      "A. show how public funds are used",
+      "B. maximize profit",
+      "C. increase sales",
+      "D. reduce expenses"
+    ],
+    "answer": "A",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "Manual accounting processing system involves",
+    "options": [
+      "A. use of computers",
+      "B. use of books and ledgers",
+      "C. use of calculators only",
+      "D. use of software"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "Computerized accounting processing system involves",
+    "options": [
+      "A. use of books and ledgers",
+      "B. use of calculators only",
+      "C. use of computers and software",
+      "D. use of manual records"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "question": "Which of the following is a merit of computerized accounting?",
+    "options": [
+      "A. high cost of installation",
+      "B. risk of data loss",
+      "C. need for skilled personnel",
+      "D. high speed of processing"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "Which of the following is a demerit of manual accounting?",
+    "options": [
+      "A. prone to human error",
+      "B. high speed of processing",
+      "C. low cost of installation",
+      "D. easy to use"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "Computer hardware refers to",
+    "options": [
+      "A. programs used in computers",
+      "B. data stored in a computer",
+      "C. physical components of a computer",
+      "D. instructions given to a computer"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "Computer software refers to",
+    "options": [
+      "A. physical components of a computer",
+      "B. programs used in computers",
+      "C. data stored in a computer",
+      "D. instructions given to a computer"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 407,
+    "question": "Data processing involves",
+    "options": [
+      "A. collecting, storing and processing data",
+      "B. selling goods",
+      "C. buying goods",
+      "D. preparing financial statements"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "A merit of manual accounting is",
+    "options": [
+      "A. high speed",
+      "B. high accuracy",
+      "C. low cost",
+      "D. large storage capacity"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "A demerit of computerized accounting is",
+    "options": [
+      "A. low cost",
+      "B. high speed",
+      "C. high accuracy",
+      "D. high cost of installation"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Which of the following is an example of computer hardware?",
+    "options": [
+      "A. monitor",
+      "B. operating system",
+      "C. accounting software",
+      "D. spreadsheet program"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "Which of the following is an example of computer software?",
+    "options": [
+      "A. keyboard",
+      "B. accounting package",
+      "C. mouse",
+      "D. printer"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "The main advantage of computerized accounting over manual accounting is",
+    "options": [
+      "A. cost",
+      "B. simplicity",
+      "C. speed and accuracy",
+      "D. manual entry"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "Batch processing is a method of",
+    "options": [
+      "A. processing transactions in groups",
+      "B. processing transactions individually",
+      "C. processing transactions manually",
+      "D. processing transactions randomly"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 414,
+    "question": "Real-time processing is a method of",
+    "options": [
+      "A. processing transactions in groups",
+      "B. processing transactions immediately",
+      "C. processing transactions manually",
+      "D. processing transactions randomly"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "Which of the following is a component of a computer system?",
+    "options": [
+      "A. ledger",
+      "B. trial balance",
+      "C. central processing unit",
+      "D. balance sheet"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "The use of computers in accounting helps to",
+    "options": [
+      "A. increase errors",
+      "B. reduce speed",
+      "C. increase manual work",
+      "D. reduce errors and increase speed"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "question": "Which of the following is a limitation of computerized accounting?",
+    "options": [
+      "A. high cost",
+      "B. high speed",
+      "C. high accuracy",
+      "D. large storage"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Spreadsheet software is commonly used in accounting for",
+    "options": [
+      "A. word processing",
+      "B. performing calculations",
+      "C. graphic design",
+      "D. video editing"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "Data in computerized accounting is stored in",
+    "options": [
+      "A. ledgers",
+      "B. journals",
+      "C. databases",
+      "D. trial balances"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "Which of the following is a risk of computerized accounting?",
+    "options": [
+      "A. high accuracy",
+      "B. high speed",
+      "C. large storage",
+      "D. data loss due to system failure"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 421,
+    "question": "The process of entering data into a computer is called",
+    "options": [
+      "A. data input",
+      "B. data output",
+      "C. data storage",
+      "D. data processing"
+    ],
+    "answer": "A",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "A computerized accounting system processes transactions",
+    "options": [
+      "A. manually",
+      "B. with the aid of software",
+      "C. with ledgers only",
+      "D. with a calculator only"
+    ],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 423,
+    "question": "Which of the following is NOT a component of a computer system?",
+    "options": [
+      "A. input unit",
+      "B. output unit",
+      "C. central processing unit",
+      "D. trial balance"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "Data processing involves all of the following EXCEPT",
+    "options": [
+      "A. data collection",
+      "B. data processing",
+      "C. data output",
+      "D. data destruction"
+    ],
+    "answer": "D",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "The use of computers in accounting increases",
+    "options": ["A. errors", "B. speed", "C. manual work", "D. paper work"],
+    "answer": "B",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "A joint venture is a",
+    "options": [
+      "A. permanent partnership",
+      "B. temporary partnership",
+      "C. limited company",
+      "D. sole proprietorship"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "In a consignment, the consignor is the",
+    "options": [
+      "A. sender of goods",
+      "B. receiver of goods",
+      "C. buyer of goods",
+      "D. seller of goods"
+    ],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "In a consignment, the consignee is the",
+    "options": [
+      "A. sender of goods",
+      "B. buyer of goods",
+      "C. receiver of goods",
+      "D. seller of goods"
+    ],
+    "answer": "C",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 429,
+    "question": "Contract accounts are used in",
+    "options": [
+      "A. retail businesses",
+      "B. service businesses",
+      "C. manufacturing businesses",
+      "D. construction businesses"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "Hire purchase involves payment for goods",
+    "options": [
+      "A. in full at once",
+      "B. in instalments",
+      "C. after delivery",
+      "D. before delivery"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 431,
+    "question": "The cash price in hire purchase is the",
+    "options": [
+      "A. total instalment price",
+      "B. interest paid",
+      "C. deposit paid",
+      "D. price if paid outrightly"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "Interest in hire purchase is calculated on",
+    "options": [
+      "A. cash price",
+      "B. outstanding balance",
+      "C. deposit",
+      "D. total price"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 433,
+    "question": "Work certified in contract accounts refers to",
+    "options": [
+      "A. work completed and approved",
+      "B. work not yet started",
+      "C. work in progress",
+      "D. work rejected"
+    ],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 434,
+    "question": "Work in progress in contract accounts includes",
+    "options": [
+      "A. only work certified",
+      "B. only work uncertified",
+      "C. only materials",
+      "D. work certified and uncertified"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 435,
+    "question": "A joint venture account is prepared to determine",
+    "options": [
+      "A. total sales",
+      "B. total purchases",
+      "C. profit or loss of the venture",
+      "D. total expenses"
+    ],
+    "answer": "C",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "In consignment, goods sent are recorded at",
+    "options": [
+      "A. selling price",
+      "B. market price",
+      "C. discount price",
+      "D. cost price"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "The consignee earns",
+    "options": ["A. commission", "B. salary", "C. interest", "D. dividend"],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 438,
+    "question": "Hire purchase price is made up of",
+    "options": [
+      "A. cash price only",
+      "B. cash price and interest",
+      "C. interest only",
+      "D. deposit only"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "Which of the following is a feature of a joint venture?",
+    "options": [
+      "A. permanent association",
+      "B. separate legal entity",
+      "C. temporary association",
+      "D. limited liability"
+    ],
+    "answer": "C",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "In contract accounts, the notional profit is calculated as",
+    "options": [
+      "A. value of work certified - cost of work certified",
+      "B. total sales - total cost",
+      "C. cash received - expenses",
+      "D. work certified + work uncertified"
+    ],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 441,
+    "question": "The accounting treatment of interest in hire purchase is to",
+    "options": [
+      "A. add it to asset cost",
+      "B. charge it to profit and loss account",
+      "C. deduct it from cash price",
+      "D. ignore it"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 442,
+    "question": "The party that sends goods on consignment is the",
+    "options": ["A. consignee", "B. buyer", "C. consignor", "D. agent"],
+    "answer": "C",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "The party that receives goods on consignment is the",
+    "options": ["A. consignor", "B. buyer", "C. agent", "D. consignee"],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 444,
+    "question": "In a joint venture, partners share",
+    "options": [
+      "A. profits and losses equally or as agreed",
+      "B. only profits",
+      "C. only losses",
+      "D. nothing"
+    ],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "A consignment account is prepared by the",
+    "options": ["A. consignee", "B. consignor", "C. buyer", "D. agent"],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "In hire purchase, ownership of goods passes to the buyer when",
+    "options": [
+      "A. the first instalment is paid",
+      "B. the deposit is paid",
+      "C. goods are delivered",
+      "D. the last instalment is paid"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 447,
+    "question": "A joint venture is formed for",
+    "options": [
+      "A. a permanent business",
+      "B. a specific project or period",
+      "C. a company formation",
+      "D. a partnership registration"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "Which of the following is a feature of hire purchase?",
+    "options": [
+      "A. cash payment only",
+      "B. payment by instalments",
+      "C. no interest charged",
+      "D. immediate ownership"
+    ],
+    "answer": "B",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "In contract accounts, the value of work certified is credited to the",
+    "options": [
+      "A. contract account",
+      "B. profit and loss account",
+      "C. balance sheet",
+      "D. capital account"
+    ],
+    "answer": "A",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 450,
+    "question": "The profit on an incomplete contract is usually",
+    "options": [
+      "A. fully recognized",
+      "B. ignored",
+      "C. partially recognized",
+      "D. transferred to capital"
+    ],
+    "answer": "C",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 451,
+    "question": "The financial system consists of all EXCEPT",
+    "options": [
+      "A. money market",
+      "B. capital market",
+      "C. insurance market",
+      "D. labour market"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "The money market deals in",
+    "options": [
+      "A. long-term funds",
+      "B. medium-term funds",
+      "C. short-term funds",
+      "D. equity funds"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "The capital market deals in",
+    "options": [
+      "A. short-term funds",
+      "B. long-term funds",
+      "C. medium-term funds",
+      "D. equity funds"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "The insurance market deals with",
+    "options": [
+      "A. risk transfer",
+      "B. short-term loans",
+      "C. long-term loans",
+      "D. equity shares"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "A method of raising funds from the capital market is",
+    "options": [
+      "A. bank overdraft",
+      "B. trade credit",
+      "C. offer for sale",
+      "D. personal savings"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "A rights issue is an offer of shares to",
+    "options": [
+      "A. the general public",
+      "B. debenture holders",
+      "C. creditors",
+      "D. existing shareholders"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "Private placement involves selling shares to",
+    "options": [
+      "A. a select group of investors",
+      "B. the general public",
+      "C. existing shareholders",
+      "D. debenture holders"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The benefit of the capital market to investors is",
+    "options": [
+      "A. higher taxes",
+      "B. opportunity to invest savings",
+      "C. lower returns",
+      "D. increased risk"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "The benefit of the capital market to government is",
+    "options": [
+      "A. higher taxes",
+      "B. lower revenue",
+      "C. raising funds for development",
+      "D. increased expenditure"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "The benefit of the capital market to the economy is",
+    "options": [
+      "A. economic growth and development",
+      "B. higher inflation",
+      "C. lower employment",
+      "D. reduced investment"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "The benefit of the capital market to an individual company is",
+    "options": [
+      "A. higher taxes",
+      "B. access to long-term funds",
+      "C. lower profits",
+      "D. increased liabilities"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "Which of the following is a requirement for accessing the capital market?",
+    "options": [
+      "A. registration with the tax authority",
+      "B. registration with the police",
+      "C. registration with the Securities and Exchange Commission",
+      "D. registration with the local government"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 463,
+    "question": "The capital market is regulated to",
+    "options": [
+      "A. increase taxes",
+      "B. reduce profits",
+      "C. increase risk",
+      "D. protect investors"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "A feature of the money market is",
+    "options": [
+      "A. short-term instruments",
+      "B. long-term instruments",
+      "C. equity shares",
+      "D. debentures"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "A feature of the capital market is",
+    "options": [
+      "A. short-term instruments",
+      "B. treasury bills",
+      "C. long-term instruments",
+      "D. commercial papers"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Offer for subscription involves",
+    "options": [
+      "A. selling shares to existing shareholders",
+      "B. selling shares to a select group",
+      "C. selling shares to debenture holders",
+      "D. inviting the public to subscribe for shares"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "The main function of the insurance market is to",
+    "options": [
+      "A. pool and transfer risk",
+      "B. provide short-term loans",
+      "C. provide long-term loans",
+      "D. trade in shares"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "Which of the following is a component of the financial system?",
+    "options": [
+      "A. labour market",
+      "B. money market",
+      "C. commodity market",
+      "D. housing market"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "The capital market helps to mobilize",
+    "options": [
+      "A. short-term funds",
+      "B. consumer goods",
+      "C. labour services",
+      "D. long-term funds for on-lending"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 470,
+    "question": "Reasons for regulating the financial system include all EXCEPT",
+    "options": [
+      "A. protecting investors",
+      "B. ensuring stability",
+      "C. promoting confidence",
+      "D. maximizing profits of regulators"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 471,
+    "question": "The money market is a market for",
+    "options": [
+      "A. short-term funds",
+      "B. long-term funds",
+      "C. equity shares",
+      "D. debentures"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Which of the following is a money market instrument?",
+    "options": [
+      "A. ordinary shares",
+      "B. treasury bills",
+      "C. preference shares",
+      "D. debentures"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "Which of the following is a capital market instrument?",
+    "options": [
+      "A. ordinary shares",
+      "B. treasury bills",
+      "C. commercial papers",
+      "D. certificates of deposit"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "A stock exchange is part of the",
+    "options": [
+      "A. money market",
+      "B. capital market",
+      "C. insurance market",
+      "D. labour market"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "The process of buying and selling shares on the stock exchange is called",
+    "options": ["A. banking", "B. insurance", "C. trading", "D. auditing"],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "An investor who buys shares expects to receive",
+    "options": ["A. salaries", "B. wages", "C. rent", "D. dividends"],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "The insurance market helps businesses to",
+    "options": [
+      "A. raise share capital",
+      "B. manage risk",
+      "C. obtain loans",
+      "D. pay taxes"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Which of the following is a feature of the capital market?",
+    "options": [
+      "A. short-term lending",
+      "B. high liquidity",
+      "C. trading in long-term securities",
+      "D. trading in treasury bills"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 479,
+    "question": "A method of raising funds from the capital market is",
+    "options": [
+      "A. offer for subscription",
+      "B. bank overdraft",
+      "C. trade credit",
+      "D. personal savings"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "Which of the following is a regulatory body of the financial system?",
+    "options": [
+      "A. labour union",
+      "B. central bank",
+      "C. cooperative society",
+      "D. trade association"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "The accounting equation is stated as",
+    "options": [
+      "A. Assets = Capital + Liabilities",
+      "B. Capital = Assets + Liabilities",
+      "C. Assets = Capital - Liabilities",
+      "D. Liabilities = Assets + Capital"
+    ],
+    "answer": "A",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "A trial balance is a statement of",
+    "options": [
+      "A. assets and liabilities",
+      "B. debit and credit balances",
+      "C. income and expenditure",
+      "D. cash receipts and payments"
+    ],
+    "answer": "B",
+    "topic": "The Accounting Equation and Double Entry Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "The going concern concept assumes that the business will",
+    "options": [
+      "A. close down",
+      "B. be sold",
+      "C. continue operating",
+      "D. merge"
+    ],
+    "answer": "C",
+    "topic": "Accounting Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 484,
+    "question": "The trading account is prepared to determine",
+    "options": [
+      "A. gross profit",
+      "B. net profit",
+      "C. total assets",
+      "D. capital"
+    ],
+    "answer": "A",
+    "topic": "The Final Accounts of a Sole Trader",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "Provision for doubtful debts is created on",
+    "options": ["A. creditors", "B. cash", "C. debtors", "D. bank"],
+    "answer": "C",
+    "topic": "Provisions and Reserves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "The purpose of a manufacturing account is to determine",
+    "options": [
+      "A. gross profit",
+      "B. net profit",
+      "C. total assets",
+      "D. cost of production"
+    ],
+    "answer": "D",
+    "topic": "Manufacturing Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "A control account is used to",
+    "options": [
+      "A. verify ledger balances",
+      "B. record all transactions",
+      "C. prepare the trial balance",
+      "D. calculate depreciation"
+    ],
+    "answer": "A",
+    "topic": "Control Accounts and Self-balancing Ledgers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Single entry system is also known as",
+    "options": [
+      "A. double entry",
+      "B. incomplete records",
+      "C. complete records",
+      "D. trial balance"
+    ],
+    "answer": "B",
+    "topic": "Single Entry and Incomplete Records",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "The receipts and payments account is a",
+    "options": [
+      "A. trading account",
+      "B. profit and loss account",
+      "C. cash account",
+      "D. balance sheet"
+    ],
+    "answer": "C",
+    "topic": "Accounts of Not-for-Profit Making Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "A partnership is formed by",
+    "options": [
+      "A. one person",
+      "B. a company",
+      "C. a government",
+      "D. two or more persons"
+    ],
+    "answer": "D",
+    "topic": "Partnership Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 491,
+    "question": "A company is formed by",
+    "options": [
+      "A. one person",
+      "B. incorporation",
+      "C. partnership deed",
+      "D. two or more persons"
+    ],
+    "answer": "B",
+    "topic": "Company Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "VAT is a tax on",
+    "options": ["A. income", "B. capital", "C. consumption", "D. property"],
+    "answer": "C",
+    "topic": "Accounting for Value Added Tax",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "Departmental accounts are prepared to determine",
+    "options": [
+      "A. profit or loss of each department",
+      "B. total profit only",
+      "C. total sales only",
+      "D. total expenses only"
+    ],
+    "answer": "A",
+    "topic": "Departmental and Branch Accounts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "Public sector accounting is based on",
+    "options": [
+      "A. accrual basis",
+      "B. cash basis",
+      "C. single entry basis",
+      "D. market basis"
+    ],
+    "answer": "B",
+    "topic": "Public Sector Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "Computerized accounting processing system involves",
+    "options": [
+      "A. use of books and ledgers",
+      "B. use of calculators only",
+      "C. use of computers and software",
+      "D. use of manual records"
+    ],
+    "answer": "C",
+    "topic": "Information Technology in Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "In a consignment, the consignee is the",
+    "options": [
+      "A. sender of goods",
+      "B. buyer of goods",
+      "C. seller of goods",
+      "D. receiver of goods"
+    ],
+    "answer": "D",
+    "topic": "Miscellaneous Accounts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 497,
+    "question": "The money market deals in",
+    "options": [
+      "A. long-term funds",
+      "B. short-term funds",
+      "C. medium-term funds",
+      "D. equity funds"
+    ],
+    "answer": "B",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The capital market deals in",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. equity funds",
+      "D. long-term funds"
+    ],
+    "answer": "D",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "The insurance market deals with",
+    "options": [
+      "A. short-term loans",
+      "B. long-term loans",
+      "C. risk transfer",
+      "D. equity shares"
+    ],
+    "answer": "C",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "A rights issue is an offer of shares to",
+    "options": [
+      "A. existing shareholders",
+      "B. the general public",
+      "C. debenture holders",
+      "D. creditors"
+    ],
+    "answer": "A",
+    "topic": "Financial System",
+    "difficulty": "Medium"
+  }
+]

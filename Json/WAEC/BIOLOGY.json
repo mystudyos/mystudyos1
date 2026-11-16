@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a characteristic of living things?",
+    "options": [
+      "A. Ability to grow",
+      "B. Inability to reproduce",
+      "C. Lack of response to stimuli",
+      "D. Constant size and shape"
+    ],
+    "answer": "A",
+    "topic": "Concept of Living",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which kingdom includes single-celled organisms without a definite nucleus?",
+    "options": [
+      "A. Fungi",
+      "B. Monera",
+      "C. Protista",
+      "D. Plantae"
+    ],
+    "answer": "B",
+    "topic": "Classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "The complex cellular structure with a definite nucleus is a feature of",
+    "options": [
+      "A. Bacteria",
+      "B. Blue-green algae",
+      "C. Protista",
+      "D. Viruses"
+    ],
+    "answer": "C",
+    "topic": "Classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following organisms is classified under Kingdom Fungi?",
+    "options": [
+      "A. Amoeba",
+      "B. Spirogyra",
+      "C. Paramecium",
+      "D. Rhizopus"
+    ],
+    "answer": "D",
+    "topic": "Classification",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of a single-celled organism?",
+    "options": [
+      "A. Hydra",
+      "B. Euglena",
+      "C. Spirogyra",
+      "D. Onion"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "Volvox is an example of which form of living cell existence?",
+    "options": [
+      "A. Filament",
+      "B. Single and free-living",
+      "C. Colony",
+      "D. Part of a living organism"
+    ],
+    "answer": "C",
+    "topic": "Forms in which living cells exist",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Which organelle is responsible for the generation of energy in the cell?",
+    "options": [
+      "A. Ribosome",
+      "B. Lysosome",
+      "C. Chloroplast",
+      "D. Mitochondrion"
+    ],
+    "answer": "D",
+    "topic": "Cell Structure",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The movement of molecules from a region of higher concentration to a lower concentration is called",
+    "options": [
+      "A. Diffusion",
+      "B. Osmosis",
+      "C. Active transport",
+      "D. Plasmolysis"
+    ],
+    "answer": "A",
+    "topic": "Cell and its Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which process requires the expenditure of energy by the cell?",
+    "options": [
+      "A. Diffusion",
+      "B. Osmosis",
+      "C. Active transport",
+      "D. Plasmolysis"
+    ],
+    "answer": "C",
+    "topic": "Cell and its Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "What happens to an animal cell placed in a hypotonic solution?",
+    "options": [
+      "A. It shrinks",
+      "B. It undergoes plasmolysis",
+      "C. It undergoes crenation",
+      "D. It swells and may burst"
+    ],
+    "answer": "D",
+    "topic": "Cell and its Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "The process by which plants manufacture food using sunlight is",
+    "options": [
+      "A. Photosynthesis",
+      "B. Respiration",
+      "C. Transpiration",
+      "D. Excretion"
+    ],
+    "answer": "A",
+    "topic": "Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "The type of nutrition exhibited by Amoeba is",
+    "options": [
+      "A. Autotrophic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Saprophytic"
+    ],
+    "answer": "B",
+    "topic": "Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a waste product of cellular respiration?",
+    "options": [
+      "A. Glucose",
+      "B. Oxygen",
+      "C. Carbon dioxide",
+      "D. Starch"
+    ],
+    "answer": "C",
+    "topic": "Cellular Respiration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The process of cell division that results in two identical daughter cells is",
+    "options": [
+      "A. Meiosis",
+      "B. Mitosis",
+      "C. Fertilization",
+      "D. Conjugation"
+    ],
+    "answer": "B",
+    "topic": "Growth",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a plant growth hormone?",
+    "options": [
+      "A. Insulin",
+      "B. Thyroxine",
+      "C. Auxin",
+      "D. Adrenaline"
+    ],
+    "answer": "C",
+    "topic": "Growth",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The upward growth of a plant shoot towards light is an example of",
+    "options": [
+      "A. Geotropism",
+      "B. Phototropism",
+      "C. Hydrotropism",
+      "D. Thigmotropism"
+    ],
+    "answer": "B",
+    "topic": "Growth",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an organelle for movement in cells?",
+    "options": [
+      "A. Nucleus",
+      "B. Cilia",
+      "C. Ribosome",
+      "D. Golgi body"
+    ],
+    "answer": "B",
+    "topic": "Movement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "Which type of skeleton is found in insects?",
+    "options": [
+      "A. Endoskeleton",
+      "B. Hydrostatic skeleton",
+      "C. Exoskeleton",
+      "D. Cartilage skeleton"
+    ],
+    "answer": "C",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "The main function of the vertebral column is to",
+    "options": [
+      "A. Protect the heart",
+      "B. Protect the spinal cord",
+      "C. Aid in digestion",
+      "D. Produce blood cells"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a supporting tissue in plants?",
+    "options": [
+      "A. Phloem",
+      "B. Xylem",
+      "C. Collenchyma",
+      "D. Parenchyma"
+    ],
+    "answer": "C",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "The blood vessel that carries blood away from the heart is an",
+    "options": [
+      "A. Artery",
+      "B. Vein",
+      "C. Capillary",
+      "D. Venule"
+    ],
+    "answer": "A",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The fluid part of blood is called",
+    "options": [
+      "A. Serum",
+      "B. Plasma",
+      "C. Lymph",
+      "D. Tissue fluid"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is responsible for the transport of water in plants?",
+    "options": [
+      "A. Phloem",
+      "B. Cambium",
+      "C. Xylem",
+      "D. Cortex"
+    ],
+    "answer": "C",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The loss of water vapour from the leaves of plants is called",
+    "options": [
+      "A. Guttation",
+      "B. Transpiration",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a respiratory organ in fish?",
+    "options": [
+      "A. Lungs",
+      "B. Gills",
+      "C. Skin",
+      "D. Trachea"
+    ],
+    "answer": "B",
+    "topic": "Respiratory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The opening and closing of stomata is controlled by",
+    "options": [
+      "A. Guard cells",
+      "B. Epidermal cells",
+      "C. Mesophyll cells",
+      "D. Xylem vessels"
+    ],
+    "answer": "A",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "The functional unit of the kidney is the",
+    "options": [
+      "A. Neuron",
+      "B. Nephron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is an excretory product of plants?",
+    "options": [
+      "A. Urea",
+      "B. Uric acid",
+      "C. Tannins",
+      "D. Ammonia"
+    ],
+    "answer": "C",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "The maintenance of a constant internal environment is called",
+    "options": [
+      "A. Excretion",
+      "B. Homeostasis",
+      "C. Osmoregulation",
+      "D. Thermoregulation"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Production of urine",
+      "B. Production of insulin",
+      "C. Detoxification of harmful substances",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The hormone responsible for the 'fight or flight' response is",
+    "options": [
+      "A. Insulin",
+      "B. Adrenaline",
+      "C. Thyroxine",
+      "D. Oestrogen"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The part of the brain that controls balance and coordination is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Solving a math problem",
+      "C. Blinking of the eye",
+      "D. Walking to school"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "The part of the eye that controls the amount of light entering is the",
+    "options": [
+      "A. Cornea",
+      "B. Retina",
+      "C. Iris",
+      "D. Lens"
+    ],
+    "answer": "C",
+    "topic": "Sense Organs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is the male reproductive organ in mammals?",
+    "options": [
+      "A. Ovary",
+      "B. Testis",
+      "C. Uterus",
+      "D. Fallopian tube"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "The fusion of male and female gametes is called",
+    "options": [
+      "A. Pollination",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Conjugation"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The transfer of pollen grains from the anther to the stigma is called",
+    "options": [
+      "A. Fertilization",
+      "B. Pollination",
+      "C. Germination",
+      "D. Dispersal"
+    ],
+    "answer": "B",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an agent of seed dispersal?",
+    "options": [
+      "A. Wind",
+      "B. Soil",
+      "C. Rocks",
+      "D. Water"
+    ],
+    "answer": "A",
+    "topic": "Dispersal of Fruits and Seeds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "The process by which green plants make their own food is called",
+    "options": [
+      "A. Respiration",
+      "B. Transpiration",
+      "C. Photosynthesis",
+      "D. Digestion"
+    ],
+    "answer": "C",
+    "topic": "Plant Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a macronutrient required by plants?",
+    "options": [
+      "A. Zinc",
+      "B. Copper",
+      "C. Boron",
+      "D. Nitrogen"
+    ],
+    "answer": "D",
+    "topic": "Plant Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "The enzyme in saliva that breaks down starch is called",
+    "options": [
+      "A. Pepsin",
+      "B. Ptyalin",
+      "C. Lipase",
+      "D. Trypsin"
+    ],
+    "answer": "B",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following organisms is a decomposer?",
+    "options": [
+      "A. Grass",
+      "B. Cow",
+      "C. Mushroom",
+      "D. Lion"
+    ],
+    "answer": "C",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "The transfer of energy from one trophic level to another is represented by a",
+    "options": [
+      "A. Food chain",
+      "B. Food web",
+      "C. Pyramid of numbers",
+      "D. Carbon cycle"
+    ],
+    "answer": "A",
+    "topic": "Ecological Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a cause of air pollution?",
+    "options": [
+      "A. Planting trees",
+      "B. Use of solar energy",
+      "C. Burning of fossil fuels",
+      "D. Recycling of waste"
+    ],
+    "answer": "C",
+    "topic": "Ecological Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a vector of malaria?",
+    "options": [
+      "A. Housefly",
+      "B. Tsetse fly",
+      "C. Mosquito",
+      "D. Cockroach"
+    ],
+    "answer": "C",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "The observable characteristics of an organism are referred to as its",
+    "options": [
+      "A. Genotype",
+      "B. Phenotype",
+      "C. Allele",
+      "D. Gene"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is an evidence of evolution?",
+    "options": [
+      "A. Fossil records",
+      "B. Cell theory",
+      "C. Mendelian laws",
+      "D. Photosynthesis"
+    ],
+    "answer": "A",
+    "topic": "Adaptation for Survival and Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "The type of variation that shows a continuous range of values is",
+    "options": [
+      "A. Discontinuous variation",
+      "B. Continuous variation",
+      "C. Morphological variation",
+      "D. Genetic variation"
+    ],
+    "answer": "B",
+    "topic": "Variation in Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "The process of maintaining a stable internal environment in the body is known as",
+    "options": [
+      "A. Excretion",
+      "B. Homeostasis",
+      "C. Respiration",
+      "D. Digestion"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Which of these is a structural adaptation for flight in birds?",
+    "options": [
+      "A. Presence of teeth",
+      "B. Hollow bones",
+      "C. Large liver",
+      "D. Smooth skin"
+    ],
+    "answer": "B",
+    "topic": "Adaptation for Survival",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "The transfer of pollen from the anther of one flower to the stigma of another flower on a different plant is",
+    "options": [
+      "A. Self-pollination",
+      "B. Cross-pollination",
+      "C. Fertilization",
+      "D. Germination"
+    ],
+    "answer": "B",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The cell organelle responsible for protein synthesis is the",
+    "options": [
+      "A. Ribosome",
+      "B. Mitochondrion",
+      "C. Lysosome",
+      "D. Vacuole"
+    ],
+    "answer": "A",
+    "topic": "Cell Structure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is an example of a biotic component of an ecosystem?",
+    "options": [
+      "A. Sunlight",
+      "B. Water",
+      "C. Soil",
+      "D. Bacteria"
+    ],
+    "answer": "D",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "The process by which water moves across a semi-permeable membrane from a region of low solute concentration to a high solute concentration is",
+    "options": [
+      "A. Diffusion",
+      "B. Osmosis",
+      "C. Active transport",
+      "D. Plasmolysis"
+    ],
+    "answer": "B",
+    "topic": "Cell and its Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "In a food chain, the primary consumers are",
+    "options": [
+      "A. Herbivores",
+      "B. Carnivores",
+      "C. Decomposers",
+      "D. Producers"
+    ],
+    "answer": "A",
+    "topic": "Ecological Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following diseases is caused by a virus?",
+    "options": [
+      "A. Cholera",
+      "B. Tuberculosis",
+      "C. Measles",
+      "D. Ringworm"
+    ],
+    "answer": "C",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "The type of skeleton found in earthworms is",
+    "options": [
+      "A. Exoskeleton",
+      "B. Endoskeleton",
+      "C. Hydrostatic skeleton",
+      "D. Cartilage skeleton"
+    ],
+    "answer": "C",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "Which of the following is a function of the placenta?",
+    "options": [
+      "A. Protection of the foetus",
+      "B. Production of sperm",
+      "C. Secretion of insulin",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The green pigment in plants that traps light energy is",
+    "options": [
+      "A. Haemoglobin",
+      "B. Chlorophyll",
+      "C. Melanin",
+      "D. Carotene"
+    ],
+    "answer": "B",
+    "topic": "Plant Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is a characteristic of enzymes?",
+    "options": [
+      "A. They are consumed in the reaction",
+      "B. They are specific in action",
+      "C. They are inorganic catalysts",
+      "D. They work best at any pH"
+    ],
+    "answer": "B",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "The process by which living organisms maintain a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is a symptom of malaria?",
+    "options": [
+      "A. Cough",
+      "B. Fever and chills",
+      "C. Rashes",
+      "D. Diarrhoea"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "In a dihybrid cross, the ratio of phenotypes in the F2 generation is",
+    "options": [
+      "A. 3:1",
+      "B. 1:2:1",
+      "C. 9:3:3:1",
+      "D. 1:1"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is an adaptation of xerophytes to conserve water?",
+    "options": [
+      "A. Large leaves",
+      "B. Sunken stomata",
+      "C. Thin cuticle",
+      "D. Shallow roots"
+    ],
+    "answer": "B",
+    "topic": "Adaptation for Survival",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 168,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 180,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 209,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 246,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 257,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 263,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 265,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 291,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 315,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 320,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 330,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 338,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 356,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 373,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 386,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 405,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 407,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 410,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 415,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 419,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 429,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 431,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 432,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 434,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 436,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 439,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 441,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 444,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 453,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 458,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 459,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 460,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 465,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 468,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 470,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "The process by which organisms produce offspring is called",
+    "options": [
+      "A. Respiration",
+      "B. Excretion",
+      "C. Reproduction",
+      "D. Nutrition"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 473,
+    "question": "The genetic material in living cells is",
+    "options": [
+      "A. RNA",
+      "B. Protein",
+      "C. DNA",
+      "D. Lipid"
+    ],
+    "answer": "C",
+    "topic": "Biology of Heredity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "Which of the following is a function of the mammalian skeleton?",
+    "options": [
+      "A. Production of hormones",
+      "B. Support and protection",
+      "C. Digestion of food",
+      "D. Filtration of blood"
+    ],
+    "answer": "B",
+    "topic": "Tissues and Supporting Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "The exchange of gases in the lungs occurs in the",
+    "options": [
+      "A. Bronchi",
+      "B. Trachea",
+      "C. Alveoli",
+      "D. Larynx"
+    ],
+    "answer": "C",
+    "topic": "Respiratory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "The process by which a caterpillar transforms into a butterfly is called",
+    "options": [
+      "A. Metamorphosis",
+      "B. Fertilization",
+      "C. Germination",
+      "D. Regeneration"
+    ],
+    "answer": "A",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "Which of the following is a major cause of soil erosion?",
+    "options": [
+      "A. Planting cover crops",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Terracing"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "The hormone that lowers blood glucose level is",
+    "options": [
+      "A. Glucagon",
+      "B. Insulin",
+      "C. Adrenaline",
+      "D. Thyroxine"
+    ],
+    "answer": "B",
+    "topic": "Hormonal Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "Which of the following is a characteristic of a wind-pollinated flower?",
+    "options": [
+      "A. Brightly coloured petals",
+      "B. Scented flowers",
+      "C. Large sticky pollen grains",
+      "D. Exposure of anthers to wind"
+    ],
+    "answer": "D",
+    "topic": "Reproduction in Plants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "The nervous system consists of the central nervous system and the",
+    "options": [
+      "A. Somatic nervous system",
+      "B. Autonomic nervous system",
+      "C. Peripheral nervous system",
+      "D. Sympathetic nervous system"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "Which of the following is a function of the kidney?",
+    "options": [
+      "A. Production of bile",
+      "B. Filtration of blood",
+      "C. Digestion of protein",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": [
+      "A. Solar energy",
+      "B. Wind energy",
+      "C. Fossil fuels",
+      "D. Water"
+    ],
+    "answer": "C",
+    "topic": "Conservation of Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "The structural and functional unit of the nervous system is the",
+    "options": [
+      "A. Nephron",
+      "B. Neuron",
+      "C. Alveolus",
+      "D. Villus"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "The process of breaking down complex food substances into simple absorbable forms is",
+    "options": [
+      "A. Digestion",
+      "B. Absorption",
+      "C. Assimilation",
+      "D. Egestion"
+    ],
+    "answer": "A",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "Which of the following is a disease of the liver?",
+    "options": [
+      "A. Nephritis",
+      "B. Hepatitis",
+      "C. Bronchitis",
+      "D. Gastritis"
+    ],
+    "answer": "B",
+    "topic": "Excretory System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "A group of organisms of the same species living in a particular habitat is called a",
+    "options": [
+      "A. Community",
+      "B. Population",
+      "C. Ecosystem",
+      "D. Biosphere"
+    ],
+    "answer": "B",
+    "topic": "Ecological Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "Which of the following is the correct sequence of levels of organization?",
+    "options": [
+      "A. Cell -> Organ -> Tissue -> System",
+      "B. Cell -> Tissue -> Organ -> System",
+      "C. Tissue -> Cell -> Organ -> System",
+      "D. Organ -> Tissue -> Cell -> System"
+    ],
+    "answer": "B",
+    "topic": "Organization of Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "The type of immunity acquired from mother to child through breast milk is",
+    "options": [
+      "A. Active immunity",
+      "B. Passive immunity",
+      "C. Natural active immunity",
+      "D. Artificial active immunity"
+    ],
+    "answer": "B",
+    "topic": "Microorganisms: Man and Health",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 489,
+    "question": "The enzyme that digests fats is",
+    "options": [
+      "A. Amylase",
+      "B. Protease",
+      "C. Lipase",
+      "D. Maltase"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "The process of cell division that produces gametes is",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Reproduction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "The oxygen-carrying pigment in red blood cells is",
+    "options": [
+      "A. Chlorophyll",
+      "B. Haemoglobin",
+      "C. Melanin",
+      "D. Cytochrome"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "Which of the following is an example of a reflex action?",
+    "options": [
+      "A. Reading a book",
+      "B. Kneejerk",
+      "C. Writing a letter",
+      "D. Solving a puzzle"
+    ],
+    "answer": "B",
+    "topic": "Nervous Coordination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "The process by which plants lose water in liquid form at the tips of their leaves is",
+    "options": [
+      "A. Transpiration",
+      "B. Guttation",
+      "C. Translocation",
+      "D. Osmosis"
+    ],
+    "answer": "B",
+    "topic": "Transport System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 494,
+    "question": "Which of the following is a method of birth control?",
+    "options": [
+      "A. Immunization",
+      "B. Vaccination",
+      "C. Use of condoms",
+      "D. Inoculation"
+    ],
+    "answer": "C",
+    "topic": "Reproduction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "The type of nutrition in which an organism lives on the body surface of another organism and derives nutrients from it is",
+    "options": [
+      "A. Saprophytic",
+      "B. Holozoic",
+      "C. Parasitic",
+      "D. Autotrophic"
+    ],
+    "answer": "C",
+    "topic": "Animal Nutrition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "The genetic cross between an organism and a homozygous recessive individual is called a",
+    "options": [
+      "A. Back cross",
+      "B. Test cross",
+      "C. Dihybrid cross",
+      "D. Reciprocal cross"
+    ],
+    "answer": "B",
+    "topic": "Biology of Heredity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 497,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Filtration of blood",
+      "B. Production of urine",
+      "C. Storage of glycogen",
+      "D. Regulation of body temperature"
+    ],
+    "answer": "C",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The process of maintaining a constant internal environment despite external changes is",
+    "options": [
+      "A. Irritability",
+      "B. Homeostasis",
+      "C. Adaptation",
+      "D. Evolution"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 499,
+    "question": "The part of the brain that controls involuntary actions such as breathing is the",
+    "options": [
+      "A. Cerebrum",
+      "B. Cerebellum",
+      "C. Medulla oblongata",
+      "D. Hypothalamus"
+    ],
+    "answer": "C",
+    "topic": "Nervous Coordination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "A. Production of bile",
+      "B. Regulation of body temperature",
+      "C. Filtration of blood",
+      "D. Secretion of insulin"
+    ],
+    "answer": "B",
+    "topic": "Regulation of Internal Environment",
+    "difficulty": "Easy"
+  }
+]

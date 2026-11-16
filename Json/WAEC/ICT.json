@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "What does ICT stand for?",
+    "options": ["A. Internet and Computer Technology", "B. Information and Communication Technology", "C. Integrated Communication Tools", "D. Information and Computer Terminology"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best defines data?",
+    "options": ["A. Raw and unprocessed facts", "B. Processed facts used for decision making", "C. A collection of organized information", "D. Meaningful output from a computer"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Information is best described as...",
+    "options": ["A. Raw facts collected from the field", "B. Unprocessed figures and symbols", "C. A set of instructions for a computer", "D. Processed data that is meaningful"],
+    "answer": "D",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The information processing cycle consists of input, processing, output and...",
+    "options": ["A. Distribution", "B. Collection", "C. Storage", "D. Analysis"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT an ICT tool?",
+    "options": ["A. Mobile phone", "B. Television set", "C. Hammer", "D. Radio"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The use of ICT in education has led to...",
+    "options": ["A. Reduced access to learning materials", "B. Increased use of e-learning platforms", "C. Decreased student engagement", "D. Elimination of teachers"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a type of computer classified by size?",
+    "options": ["A. Supercomputer", "B. Smartphone", "C. Calculator", "D. Wristwatch"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which type of computer is the largest and most powerful?",
+    "options": ["A. Mainframe computer", "B. Supercomputer", "C. Mini computer", "D. Micro computer"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "A microcomputer is also known as a...",
+    "options": ["A. Mainframe computer", "B. Supercomputer", "C. Personal computer", "D. Mini computer"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of a mobile ICT device?",
+    "options": ["A. Desktop computer", "B. Smartphone", "C. Server", "D. Mainframe"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The impact of ICT on economic development includes...",
+    "options": ["A. Increased manual labor", "B. Growth of e-commerce", "C. Reduction in communication", "D. Decrease in productivity"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a social impact of ICT?",
+    "options": ["A. Increased face-to-face interaction", "B. Social media connectivity", "C. Reduced access to information", "D. Decreased global communication"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The distinction between data and information is that information is...",
+    "options": ["A. Raw and unprocessed", "B. Collected from the field", "C. Processed and meaningful", "D. Stored in binary form"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "In the information processing cycle, the stage where data is manipulated is called...",
+    "options": ["A. Input", "B. Output", "C. Processing", "D. Storage"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is an example of an input device?",
+    "options": ["A. Monitor", "B. Keyboard", "C. Printer", "D. Speaker"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is an output device?",
+    "options": ["A. Mouse", "B. Scanner", "C. Monitor", "D. Microphone"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The use of ICT in banking has enabled...",
+    "options": ["A. Manual record keeping", "B. Online banking services", "C. Slower transactions", "D. Reduced security"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is NOT a use of ICT tools?",
+    "options": ["A. Communication", "B. Information sharing", "C. Manual farming", "D. Entertainment"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "The term 'digital divide' refers to...",
+    "options": ["A. The gap between those with and without ICT access", "B. The division of computer memory", "C. The separation of hardware and software", "D. The difference between data and information"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a characteristic of a computer?",
+    "options": ["A. It cannot store data", "B. It operates without instructions", "C. It processes data at high speed", "D. It cannot communicate"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Which type of computer is used for complex scientific calculations?",
+    "options": ["A. Personal computer", "B. Supercomputer", "C. Laptop", "D. Tablet"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "A computer that is designed to serve other computers on a network is called a...",
+    "options": ["A. Client", "B. Server", "C. Workstation", "D. Terminal"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an example of a wearable computer?",
+    "options": ["A. Desktop computer", "B. Smartwatch", "C. Server", "D. Mainframe"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The term 'ubiquitous computing' refers to...",
+    "options": ["A. Computers used only in offices", "B. Computers that are everywhere", "C. Computers used only for gaming", "D. Computers that are very expensive"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "ICT can be used to improve healthcare through...",
+    "options": ["A. Manual patient records", "B. Telemedicine", "C. Increased paperwork", "D. Slower diagnosis"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a negative impact of ICT on society?",
+    "options": ["A. Improved communication", "B. Cyberbullying", "C. Enhanced education", "D. Increased productivity"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "The information processing cycle is also known as the...",
+    "options": ["A. Data cycle", "B. Computer cycle", "C. IPOS cycle", "D. Output cycle"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following best describes a computer?",
+    "options": ["A. An electronic device that processes data", "B. A mechanical device for typing", "C. A device for storing only pictures", "D. A machine for printing documents"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "The use of ICT in government is known as...",
+    "options": ["A. E-commerce", "B. E-government", "C. E-learning", "D. E-banking"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is an ICT tool used for communication?",
+    "options": ["A. Printer", "B. Scanner", "C. Mobile phone", "D. Projector"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The term 'computer literacy' refers to...",
+    "options": ["A. The ability to repair computers", "B. The ability to use computers effectively", "C. The ability to program computers", "D. The ability to manufacture computers"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a benefit of ICT in education?",
+    "options": ["A. Limited access to information", "B. Interactive learning tools", "C. Reduced student interest", "D. Elimination of textbooks"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "In the IPOS cycle, the 'S' stands for...",
+    "options": ["A. System", "B. Software", "C. Storage", "D. Speed"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is NOT a type of computer?",
+    "options": ["A. Mainframe", "B. Supercomputer", "C. Television", "D. Microcomputer"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "The use of ICT in business has led to...",
+    "options": ["A. Reduced customer reach", "B. Increased operational costs", "C. Improved efficiency", "D. Slower communication"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a characteristic of information?",
+    "options": ["A. It is raw and unprocessed", "B. It is meaningful and useful", "C. It is always numerical", "D. It is stored in binary only"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "A computer that fits on a desk is called a...",
+    "options": ["A. Desktop computer", "B. Mainframe computer", "C. Supercomputer", "D. Server"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an example of a handheld computer?",
+    "options": ["A. Desktop computer", "B. Personal Digital Assistant", "C. Mainframe", "D. Minicomputer"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The term 'ICT' includes all of the following EXCEPT...",
+    "options": ["A. Hardware", "B. Software", "C. Manual typewriters", "D. Networks"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a use of ICT in agriculture?",
+    "options": ["A. Manual ploughing", "B. Precision farming", "C. Hand weeding", "D. Traditional irrigation"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "The impact of ICT on social development includes...",
+    "options": ["A. Increased isolation", "B. Enhanced social networking", "C. Reduced communication", "D. Decreased information sharing"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following best describes the relationship between data and information?",
+    "options": ["A. Data is processed information", "B. Information is processed data", "C. Data and information are the same", "D. Information is raw facts"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "A computer that is used by many users simultaneously is called a...",
+    "options": ["A. Personal computer", "B. Multi-user computer", "C. Single-user computer", "D. Portable computer"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is an example of an embedded computer?",
+    "options": ["A. Desktop computer", "B. Washing machine controller", "C. Laptop", "D. Server"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The use of ICT in entertainment includes...",
+    "options": ["A. Reading printed books", "B. Streaming movies", "C. Writing letters", "D. Manual drawing"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a disadvantage of ICT?",
+    "options": ["A. Faster communication", "B. Job displacement", "C. Improved healthcare", "D. Enhanced education"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The term 'digital literacy' is closely related to...",
+    "options": ["A. Computer literacy", "B. Manual literacy", "C. Agricultural literacy", "D. Industrial literacy"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is an ICT tool used for storing information?",
+    "options": ["A. Printer", "B. Monitor", "C. Flash drive", "D. Keyboard"],
+    "answer": "C",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "The use of ICT in transportation includes...",
+    "options": ["A. Manual ticketing", "B. GPS navigation", "C. Horse-drawn carriages", "D. Hand signals"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a type of computer based on purpose?",
+    "options": ["A. General-purpose computer", "B. Desktop computer", "C. Laptop computer", "D. Mainframe computer"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "A special-purpose computer is designed to...",
+    "options": ["A. Perform a wide range of tasks", "B. Perform a specific task", "C. Serve multiple users", "D. Store large amounts of data"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The term 'information age' refers to...",
+    "options": ["A. A period dominated by manual labor", "B. A period where information is a key resource", "C. A period before computers", "D. A period of agricultural revolution"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is an example of an ICT tool used in weather forecasting?",
+    "options": ["A. Calculator", "B. Supercomputer", "C. Typewriter", "D. Fax machine"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The impact of ICT on communication includes...",
+    "options": ["A. Slower message delivery", "B. Instant messaging", "C. Reduced global connectivity", "D. Increased postal delays"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is a component of the information processing cycle?",
+    "options": ["A. Typing", "B. Processing", "C. Printing", "D. Scanning"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "A computer's ability to perform tasks without human intervention is called...",
+    "options": ["A. Automation", "B. Manual operation", "C. Observation", "D. Calculation"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following is an example of a general-purpose computer?",
+    "options": ["A. Personal computer", "B. Calculator", "C. Washing machine controller", "D. Car engine controller"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "The use of ICT in retail includes...",
+    "options": ["A. Manual cash registers", "B. Online shopping", "C. Hand-written receipts", "D. Paper catalogs only"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is a limitation of ICT?",
+    "options": ["A. High speed of processing", "B. Dependence on electricity", "C. Large storage capacity", "D. Accuracy of results"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "The term 'computer' is derived from the word...",
+    "options": ["A. Compute", "B. Communicate", "C. Compact", "D. Connect"],
+    "answer": "A",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is an example of a hybrid computer?",
+    "options": ["A. Desktop computer", "B. Analog-digital computer", "C. Mainframe", "D. Supercomputer"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "A computer that uses continuous physical quantities is called a...",
+    "options": ["A. Digital computer", "B. Analog computer", "C. Hybrid computer", "D. Quantum computer"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following best describes a digital computer?",
+    "options": ["A. Uses continuous signals", "B. Processes discrete data", "C. Combines analog and digital", "D. Uses mechanical parts"],
+    "answer": "B",
+    "topic": "Introduction to Basic ICT Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "The system unit of a computer contains the...",
+    "options": ["A. Monitor and keyboard", "B. CPU and motherboard", "C. Printer and scanner", "D. Mouse and speakers"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is a peripheral device?",
+    "options": ["A. CPU", "B. Motherboard", "C. Printer", "D. RAM"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "A storage medium that uses magnetic technology is a...",
+    "options": ["A. Flash drive", "B. Hard disk drive", "C. CD-ROM", "D. DVD"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is an input device?",
+    "options": ["A. Monitor", "B. Printer", "C. Scanner", "D. Speaker"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "The CPU is often referred to as the...",
+    "options": ["A. Brain of the computer", "B. Heart of the computer", "C. Eye of the computer", "D. Hand of the computer"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is a volatile memory?",
+    "options": ["A. ROM", "B. Hard disk", "C. RAM", "D. Flash drive"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "A peripheral device used to produce hard copies is a...",
+    "options": ["A. Monitor", "B. Printer", "C. Plotter", "D. Scanner"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is an optical storage medium?",
+    "options": ["A. Hard disk", "B. Floppy disk", "C. CD-ROM", "D. Magnetic tape"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "The main circuit board of a computer is called the...",
+    "options": ["A. CPU", "B. Motherboard", "C. RAM", "D. Hard drive"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is a pointing device?",
+    "options": ["A. Keyboard", "B. Mouse", "C. Scanner", "D. Microphone"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "A device that converts digital signals to analog signals is a...",
+    "options": ["A. Modem", "B. Router", "C. Switch", "D. Hub"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is a non-volatile storage device?",
+    "options": ["A. RAM", "B. Cache", "C. ROM", "D. Register"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The component that supplies power to the computer is the...",
+    "options": ["A. CPU", "B. Power supply unit", "C. Motherboard", "D. RAM"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is an example of a solid-state storage device?",
+    "options": ["A. Hard disk", "B. Flash drive", "C. CD-ROM", "D. Floppy disk"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "A monitor is an example of a(n)...",
+    "options": ["A. Input device", "B. Output device", "C. Storage device", "D. Processing device"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "The device used to read data from a disk is called a...",
+    "options": ["A. Disk drive", "B. Monitor", "C. Keyboard", "D. Printer"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is a characteristic of RAM?",
+    "options": ["A. It is permanent", "B. It is volatile", "C. It is read-only", "D. It stores BIOS"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "A joystick is primarily used for...",
+    "options": ["A. Typing text", "B. Playing games", "C. Printing documents", "D. Scanning images"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is an example of a hardcopy output device?",
+    "options": ["A. Monitor", "B. Speaker", "C. Printer", "D. Projector"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "The part of the CPU that performs arithmetic and logic operations is the...",
+    "options": ["A. Control unit", "B. ALU", "C. Register", "D. Cache"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following is a unit of measurement for storage capacity?",
+    "options": ["A. Hertz", "B. Byte", "C. Watt", "D. Pixel"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "A plotter is used to produce...",
+    "options": ["A. Text documents", "B. Large graphics and drawings", "C. Photographs", "D. Audio recordings"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "The device that protects a computer from power surges is a...",
+    "options": ["A. UPS", "B. Surge protector", "C. Modem", "D. Router"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is a type of secondary storage?",
+    "options": ["A. RAM", "B. Cache", "C. Hard disk", "D. Register"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "A barcode reader is an example of a(n)...",
+    "options": ["A. Output device", "B. Input device", "C. Storage device", "D. Processing device"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "The speed of a CPU is measured in...",
+    "options": ["A. Bytes", "B. Hertz", "C. Pixels", "D. Dots per inch"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is an example of a system unit component?",
+    "options": ["A. Mouse", "B. Keyboard", "C. Motherboard", "D. Monitor"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "A webcam is primarily used for...",
+    "options": ["A. Printing documents", "B. Capturing video", "C. Scanning text", "D. Playing audio"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is a characteristic of ROM?",
+    "options": ["A. It is volatile", "B. It is read-only", "C. It is temporary", "D. It can be easily changed"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "The device used to connect a computer to a telephone line is a...",
+    "options": ["A. Router", "B. Modem", "C. Switch", "D. Hub"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is an example of a wireless input device?",
+    "options": ["A. Wired keyboard", "B. Wireless mouse", "C. Monitor", "D. Printer"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "A touchscreen is an example of a(n)...",
+    "options": ["A. Input device only", "B. Output device only", "C. Both input and output device", "D. Storage device"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is a type of printer that uses toner?",
+    "options": ["A. Inkjet printer", "B. Laser printer", "C. Dot matrix printer", "D. Thermal printer"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The main function of the control unit is to...",
+    "options": ["A. Perform calculations", "B. Direct operations of the CPU", "C. Store data permanently", "D. Display output"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is an example of a removable storage medium?",
+    "options": ["A. Hard disk", "B. RAM", "C. Flash drive", "D. ROM"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "A microphone is used to...",
+    "options": ["A. Display images", "B. Capture sound", "C. Print documents", "D. Scan barcodes"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is a component of the system unit?",
+    "options": ["A. Printer", "B. Monitor", "C. CPU", "D. Scanner"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "The process of starting up a computer is called...",
+    "options": ["A. Booting", "B. Loading", "C. Saving", "D. Formatting"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is a type of monitor?",
+    "options": ["A. Laser", "B. LCD", "C. Inkjet", "D. Thermal"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "A UPS is used to...",
+    "options": ["A. Increase internet speed", "B. Provide backup power", "C. Cool the computer", "D. Clean the screen"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is an example of a volatile storage?",
+    "options": ["A. Hard disk", "B. Flash drive", "C. RAM", "D. CD-ROM"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "The device used to input text into a computer is the...",
+    "options": ["A. Monitor", "B. Keyboard", "C. Printer", "D. Speaker"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is a characteristic of a hard disk?",
+    "options": ["A. It is volatile", "B. It is non-volatile", "C. It is read-only", "D. It is temporary"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "A graphics tablet is used for...",
+    "options": ["A. Typing text", "B. Digital drawing", "C. Printing photos", "D. Scanning documents"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is a component of the motherboard?",
+    "options": ["A. CPU socket", "B. Printer", "C. Monitor", "D. Keyboard"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The device that converts printed documents into digital format is a...",
+    "options": ["A. Printer", "B. Scanner", "C. Plotter", "D. Monitor"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is an example of a secondary storage device?",
+    "options": ["A. RAM", "B. ROM", "C. Hard disk", "D. Cache"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "A speaker is an example of a(n)...",
+    "options": ["A. Input device", "B. Output device", "C. Storage device", "D. Processing device"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "Which of the following is a type of keyboard layout?",
+    "options": ["A. QWERTY", "B. LCD", "C. USB", "D. HDMI"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The component that connects the CPU to other parts of the computer is the...",
+    "options": ["A. Motherboard", "B. Hard disk", "C. Monitor", "D. Keyboard"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is a type of optical mouse?",
+    "options": ["A. Laser mouse", "B. Mechanical mouse", "C. Trackball mouse", "D. Touchpad"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "The main memory of a computer is also known as...",
+    "options": ["A. Secondary storage", "B. Primary storage", "C. Auxiliary storage", "D. Backing storage"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Which of the following is a type of connector used for monitors?",
+    "options": ["A. USB", "B. HDMI", "C. Ethernet", "D. Audio jack"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "A sound card is responsible for...",
+    "options": ["A. Displaying images", "B. Processing audio signals", "C. Connecting to the internet", "D. Storing data"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Which of the following is an example of a non-impact printer?",
+    "options": ["A. Dot matrix printer", "B. Daisy wheel printer", "C. Laser printer", "D. Line printer"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "The device used to cool the CPU is the...",
+    "options": ["A. Heat sink and fan", "B. Power supply", "C. Motherboard", "D. Hard drive"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is a type of expansion card?",
+    "options": ["A. Graphics card", "B. Hard disk", "C. Monitor", "D. Keyboard"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "The device that allows a computer to connect to a network is a...",
+    "options": ["A. Network interface card", "B. Sound card", "C. Graphics card", "D. TV tuner card"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is a type of display technology?",
+    "options": ["A. LED", "B. USB", "C. HDMI", "D. VGA"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "A trackball is a type of...",
+    "options": ["A. Output device", "B. Pointing device", "C. Storage device", "D. Processing device"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "Which of the following is a characteristic of secondary storage?",
+    "options": ["A. It is volatile", "B. It is permanent", "C. It is directly accessed by the CPU", "D. It is temporary"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "The device used to capture images from paper is a...",
+    "options": ["A. Printer", "B. Scanner", "C. Plotter", "D. Monitor"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is an example of a system software component stored in ROM?",
+    "options": ["A. Word processor", "B. BIOS", "C. Spreadsheet", "D. Web browser"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Which of the following is an example of system software?",
+    "options": ["A. Microsoft Word", "B. Windows operating system", "C. Excel", "D. PowerPoint"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "Application software is designed to...",
+    "options": ["A. Manage hardware resources", "B. Perform specific user tasks", "C. Control the operating system", "D. Boot the computer"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "Open source software is characterized by...",
+    "options": ["A. Restricted access to source code", "B. Free access to source code", "C. High licensing fees", "D. No user support"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Proprietary software is software that is...",
+    "options": ["A. Free to use and modify", "B. Owned by a company with restrictions", "C. Always open source", "D. Distributed without a license"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is an example of application software?",
+    "options": ["A. Linux", "B. Windows", "C. Microsoft Word", "D. macOS"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "System software includes all of the following EXCEPT...",
+    "options": ["A. Operating systems", "B. Device drivers", "C. Utility programs", "D. Word processors"],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "An operating system is responsible for...",
+    "options": ["A. Creating spreadsheets", "B. Managing hardware and software resources", "C. Editing images", "D. Browsing the internet"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is an example of open source software?",
+    "options": ["A. Microsoft Windows", "B. Linux", "C. Adobe Photoshop", "D. Microsoft Office"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "A software license is a...",
+    "options": ["A. Hardware component", "B. Legal agreement for software use", "C. Type of computer virus", "D. Network protocol"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is a type of application software?",
+    "options": ["A. Device driver", "B. Utility program", "C. Spreadsheet program", "D. Operating system"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Freeware is software that is...",
+    "options": ["A. Always open source", "B. Free to use but not modify", "C. Paid for after a trial", "D. Only for businesses"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is an example of a utility program?",
+    "options": ["A. Antivirus software", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "A device driver is software that...",
+    "options": ["A. Controls a specific hardware device", "B. Creates documents", "C. Manages files", "D. Browses the internet"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Which of the following is NOT an operating system?",
+    "options": ["A. Windows", "B. macOS", "C. Linux", "D. Google Chrome"],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "The difference between open source and proprietary software is that open source software...",
+    "options": ["A. Is always free of charge", "B. Allows access to source code", "C. Has no license", "D. Is less reliable"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is an example of a proprietary operating system?",
+    "options": ["A. Ubuntu", "B. Microsoft Windows", "C. Fedora", "D. Debian"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "An application package is a...",
+    "options": ["A. Set of programs for a specific task", "B. Hardware component", "C. Network device", "D. Type of operating system"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is system software?",
+    "options": ["A. Database management software", "B. Operating system", "C. Graphics software", "D. Spreadsheet software"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "A software suite is a collection of...",
+    "options": ["A. Hardware components", "B. Related application programs", "C. Operating systems", "D. Device drivers"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is an example of a web browser?",
+    "options": ["A. Microsoft Word", "B. Google Chrome", "C. Excel", "D. Windows"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Shareware is software that is...",
+    "options": ["A. Free to try before buying", "B. Always free", "C. Only for servers", "D. Open source"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is an example of a database management system?",
+    "options": ["A. Microsoft Access", "B. Microsoft Word", "C. Windows", "D. Linux"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "The main function of an operating system is to...",
+    "options": ["A. Create documents", "B. Manage computer resources", "C. Browse the internet", "D. Edit photos"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is a type of application software?",
+    "options": ["A. Firmware", "B. Presentation software", "C. BIOS", "D. Device driver"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "The term 'software piracy' refers to...",
+    "options": ["A. Legal copying of software", "B. Illegal copying of software", "C. Developing new software", "D. Selling software"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Which of the following is an example of an open source operating system?",
+    "options": ["A. Windows 10", "B. macOS", "C. Ubuntu Linux", "D. iOS"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "A graphical user interface (GUI) allows users to...",
+    "options": ["A. Type commands only", "B. Interact using icons and windows", "C. Program in machine code", "D. Use only text"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is a function of system software?",
+    "options": ["A. Creating presentations", "B. Managing hardware resources", "C. Editing videos", "D. Writing letters"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "An example of freeware is...",
+    "options": ["A. Adobe Photoshop", "B. Microsoft Office", "C. Mozilla Firefox", "D. CorelDRAW"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following is a type of system software?",
+    "options": ["A. Utility program", "B. Word processor", "C. Spreadsheet", "D. Presentation software"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "The source code of open source software is...",
+    "options": ["A. Hidden from users", "B. Available for modification", "C. Always encrypted", "D. Sold separately"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is an example of a utility program?",
+    "options": ["A. Disk defragmenter", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Firmware is software that is...",
+    "options": ["A. Stored permanently in hardware", "B. Temporary and volatile", "C. Only for games", "D. Always open source"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following is an example of application software?",
+    "options": ["A. BIOS", "B. Device driver", "C. Adobe Photoshop", "D. Operating system"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "The term 'end-user license agreement' (EULA) is associated with...",
+    "options": ["A. Hardware installation", "B. Software licensing", "C. Network configuration", "D. Printer setup"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a characteristic of proprietary software?",
+    "options": ["A. Source code is freely available", "B. Users cannot modify the software", "C. It is always free", "D. It has no license"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "A command-line interface allows users to interact with the computer by...",
+    "options": ["A. Clicking icons", "B. Typing commands", "C. Using voice", "D. Using a touchscreen"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is an example of a system utility?",
+    "options": ["A. Backup software", "B. Word processor", "C. Spreadsheet", "D. Web browser"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "The software that manages all other software and hardware is the...",
+    "options": ["A. Application software", "B. Operating system", "C. Utility program", "D. Device driver"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is an example of a proprietary application software?",
+    "options": ["A. LibreOffice", "B. GIMP", "C. Microsoft Office", "D. VLC Media Player"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Software that is distributed free of charge for a trial period is called...",
+    "options": ["A. Freeware", "B. Shareware", "C. Open source", "D. Proprietary"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Which of the following is a function of application software?",
+    "options": ["A. Managing memory", "B. Controlling hardware", "C. Performing specific user tasks", "D. Booting the computer"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "A compiler is a type of...",
+    "options": ["A. Application software", "B. System software", "C. Utility program", "D. Device driver"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is an example of a presentation software?",
+    "options": ["A. Microsoft Excel", "B. Microsoft PowerPoint", "C. Microsoft Word", "D. Microsoft Access"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "The process of installing software involves...",
+    "options": ["A. Copying files to the computer", "B. Deleting files", "C. Formatting the hard disk", "D. Cleaning the computer"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "Which of the following is an example of a programming language?",
+    "options": ["A. HTML", "B. HTTP", "C. FTP", "D. SMTP"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "An interpreter is software that...",
+    "options": ["A. Translates and executes code line by line", "B. Manages hardware", "C. Creates documents", "D. Browsers the internet"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is a type of application software?",
+    "options": ["A. Firmware", "B. Graphics software", "C. Operating system", "D. Device driver"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "The term 'software' refers to...",
+    "options": ["A. Physical components of a computer", "B. Programs and instructions", "C. Peripheral devices", "D. Storage media"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "Which of the following is an example of open source application software?",
+    "options": ["A. Microsoft Word", "B. Adobe Photoshop", "C. LibreOffice Writer", "D. CorelDRAW"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "A patch is a...",
+    "options": ["A. Hardware upgrade", "B. Software update to fix problems", "C. Type of virus", "D. Network cable"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is a type of system software?",
+    "options": ["A. Database software", "B. Operating system", "C. Spreadsheet software", "D. Presentation software"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "The difference between freeware and open source software is that freeware...",
+    "options": ["A. Allows source code modification", "B. Does not allow source code modification", "C. Is always paid", "D. Has no license"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Which of the following is an example of a web-based application?",
+    "options": ["A. Microsoft Word", "B. Google Docs", "C. Excel", "D. PowerPoint"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "A bug in software is a...",
+    "options": ["A. Feature of the software", "B. Error or defect", "C. Type of hardware", "D. Network protocol"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "Which of the following is an example of a system software component?",
+    "options": ["A. Microsoft Excel", "B. Device driver", "C. PowerPoint", "D. Photoshop"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The term 'multitasking' in an operating system refers to...",
+    "options": ["A. Running multiple programs simultaneously", "B. Using multiple computers", "C. Having multiple users", "D. Using multiple monitors"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following is a type of application software?",
+    "options": ["A. Antivirus software", "B. Word processing software", "C. Disk defragmenter", "D. Backup utility"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "An operating system's user interface can be...",
+    "options": ["A. GUI or command line", "B. Only GUI", "C. Only command line", "D. Neither GUI nor command line"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is an example of a freeware application?",
+    "options": ["A. Adobe Photoshop", "B. Microsoft Office", "C. Skype", "D. CorelDRAW"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Software that is embedded in hardware and cannot be easily changed is called...",
+    "options": ["A. Application software", "B. Firmware", "C. Utility software", "D. Freeware"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "Which of the following is a function of utility software?",
+    "options": ["A. Creating documents", "B. Maintaining computer performance", "C. Browsing the internet", "D. Editing images"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "The term 'software development life cycle' refers to...",
+    "options": ["A. The process of creating software", "B. The life of a computer", "C. The lifespan of hardware", "D. The duration of a software license"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "A computer virus is a type of...",
+    "options": ["A. Hardware failure", "B. Malicious software", "C. Network cable", "D. Storage device"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "question": "Which of the following is a natural threat to computers?",
+    "options": ["A. Virus", "B. Earthquake", "C. Hacking", "D. Phishing"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "A worm is a type of...",
+    "options": ["A. Hardware", "B. Malware that replicates itself", "C. Network device", "D. Storage medium"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Which of the following is a human threat to computer security?",
+    "options": ["A. Flood", "B. Earthquake", "C. Hacking", "D. Heat"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "question": "Phishing is a technique used to...",
+    "options": ["A. Speed up the computer", "B. Steal personal information", "C. Repair hardware", "D. Install software"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is a health hazard associated with computer use?",
+    "options": ["A. Improved eyesight", "B. Repetitive strain injury", "C. Increased height", "D. Better posture"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "A firewall is used to...",
+    "options": ["A. Cool the computer", "B. Protect against unauthorized access", "C. Store data", "D. Print documents"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following is a remedy for computer virus attacks?",
+    "options": ["A. Using antivirus software", "B. Ignoring the virus", "C. Deleting all files", "D. Turning off the monitor"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "Spyware is software that...",
+    "options": ["A. Improves computer speed", "B. Secretly collects user information", "C. Cleans the hard drive", "D. Updates the operating system"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Which of the following is a cause of eye strain in computer users?",
+    "options": ["A. Proper lighting", "B. Prolonged screen time", "C. Regular breaks", "D. Correct posture"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "A Trojan horse is a type of...",
+    "options": ["A. Hardware component", "B. Malicious software", "C. Network protocol", "D. Storage device"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Which of the following is a human threat to computers?",
+    "options": ["A. Flood", "B. Earthquake", "C. Theft", "D. Heat"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "The best way to protect data from loss is to...",
+    "options": ["A. Keep it on the desktop", "B. Make regular backups", "C. Store it in RAM", "D. Print it out"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following is a natural threat to computer systems?",
+    "options": ["A. Virus", "B. Flood", "C. Hacking", "D. Spam"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "A keylogger is software that...",
+    "options": ["A. Records keystrokes", "B. Speeds up typing", "C. Cleans the keyboard", "D. Adjusts screen brightness"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is a remedy for repetitive strain injury?",
+    "options": ["A. Longer working hours", "B. Regular breaks and ergonomic equipment", "C. Ignoring the pain", "D. Using a smaller keyboard"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "Adware is software that...",
+    "options": ["A. Displays unwanted advertisements", "B. Improves computer performance", "C. Protects against viruses", "D. Manages files"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "Which of the following is an intentional human threat?",
+    "options": ["A. Earthquake", "B. Flood", "C. Sabotage", "D. Heat"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "A computer can be protected from power surges by using a...",
+    "options": ["A. Surge protector", "B. Printer", "C. Scanner", "D. Mouse"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following is a symptom of a computer virus infection?",
+    "options": ["A. Faster processing speed", "B. Unusual system behavior", "C. Increased storage space", "D. Brighter screen"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "Ransomware is a type of malware that...",
+    "options": ["A. Encrypts files and demands payment", "B. Speeds up the computer", "C. Removes viruses", "D. Backs up data"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Which of the following is a health hazard caused by poor posture?",
+    "options": ["A. Back pain", "B. Improved vision", "C. Better circulation", "D. Increased height"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The best defense against phishing attacks is to...",
+    "options": ["A. Click all links in emails", "B. Verify the sender before responding", "C. Share passwords freely", "D. Disable antivirus software"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is an example of a computer threat?",
+    "options": ["A. Word processor", "B. Spreadsheet", "C. Malware", "D. Printer"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "A denial-of-service attack is designed to...",
+    "options": ["A. Improve network speed", "B. Make a service unavailable", "C. Back up data", "D. Clean the computer"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Which of the following is a natural threat to computer systems?",
+    "options": ["A. Hacking", "B. Virus", "C. Earthquake", "D. Spam"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "The use of strong passwords helps to...",
+    "options": ["A. Speed up the computer", "B. Prevent unauthorized access", "C. Increase storage space", "D. Improve screen resolution"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "Which of the following is a remedy for computer-related health hazards?",
+    "options": ["A. Ergonomic furniture", "B. Longer screen time", "C. Poor lighting", "D. Ignoring symptoms"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "A rootkit is a type of...",
+    "options": ["A. Hardware", "B. Malware that hides itself", "C. Network cable", "D. Printer"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "Which of the following is an example of an unintentional human threat?",
+    "options": ["A. Hacking", "B. Accidental deletion of files", "C. Sabotage", "D. Theft"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "Antivirus software works by...",
+    "options": ["A. Detecting and removing malware", "B. Speeding up the internet", "C. Increasing storage capacity", "D. Cleaning the screen"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following is a cause of computer overheating?",
+    "options": ["A. Adequate ventilation", "B. Dust accumulation", "C. Regular cleaning", "D. Proper cooling fans"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "Spam refers to...",
+    "options": ["A. Useful emails", "B. Unwanted bulk emails", "C. Encrypted files", "D. Backed-up data"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "question": "Which of the following is a human threat caused by carelessness?",
+    "options": ["A. Earthquake", "B. Flood", "C. Accidental data deletion", "D. Lightning"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "A secure password should contain...",
+    "options": ["A. Only lowercase letters", "B. Only numbers", "C. A mix of letters, numbers and symbols", "D. Only the user's name"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "Which of the following is a remedy for eye strain?",
+    "options": ["A. Increasing screen brightness", "B. Taking regular breaks", "C. Sitting closer to the screen", "D. Working longer hours"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "A logic bomb is a type of malware that...",
+    "options": ["A. Activates under specific conditions", "B. Improves system speed", "C. Cleans the hard drive", "D. Backs up files"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "Which of the following is an example of a natural disaster threat?",
+    "options": ["A. Virus", "B. Hacking", "C. Lightning", "D. Spam"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "question": "The main purpose of a computer backup is to...",
+    "options": ["A. Increase processing speed", "B. Restore lost data", "C. Improve screen resolution", "D. Cool the computer"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is a health hazard caused by prolonged computer use?",
+    "options": ["A. Improved eyesight", "B. Carpal tunnel syndrome", "C. Increased height", "D. Better posture"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "A botnet is a network of...",
+    "options": ["A. Infected computers controlled remotely", "B. Fast computers", "C. New computers", "D. Clean computers"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is a human threat to data security?",
+    "options": ["A. Earthquake", "B. Flood", "C. Unauthorized access", "D. Heat"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "The best way to protect a computer from dust is to...",
+    "options": ["A. Keep it in a clean environment", "B. Expose it to open air", "C. Place it near a window", "D. Never clean it"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following is an example of social engineering?",
+    "options": ["A. Installing antivirus", "B. Tricking someone into revealing passwords", "C. Backing up data", "D. Updating software"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "A computer threat is any potential danger that can...",
+    "options": ["A. Improve computer performance", "B. Harm the computer or its data", "C. Increase storage capacity", "D. Speed up the internet"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "Which of the following is a natural threat to computers?",
+    "options": ["A. Hacking", "B. Virus", "C. Heat", "D. Phishing"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "Two-factor authentication is a security measure that requires...",
+    "options": ["A. One form of identification", "B. Two forms of identification", "C. No identification", "D. Three forms of identification"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "Which of the following is a remedy for computer-related stress?",
+    "options": ["A. Longer working hours", "B. Regular exercise and breaks", "C. Ignoring symptoms", "D. Using the computer continuously"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "Malware is a term used to describe...",
+    "options": ["A. Good software", "B. Malicious software", "C. Hardware components", "D. Network devices"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "Which of the following is an example of a computer threat that spreads through email?",
+    "options": ["A. Earthquake", "B. Virus", "C. Flood", "D. Heat"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "The main purpose of a UPS is to...",
+    "options": ["A. Provide backup power during outages", "B. Speed up the computer", "C. Increase storage space", "D. Clean the screen"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "Which of the following is a health hazard associated with computer use?",
+    "options": ["A. Improved hearing", "B. Headaches", "C. Increased height", "D. Better eyesight"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "A cyber attack is an attack that...",
+    "options": ["A. Occurs in the physical world", "B. Targets computer systems and networks", "C. Only affects printers", "D. Improves computer security"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "Which of the following is a natural threat to computer data?",
+    "options": ["A. Hacking", "B. Virus", "C. Flood", "D. Spam"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "The best way to prevent unauthorized access to a computer is to...",
+    "options": ["A. Leave it unlocked", "B. Use strong passwords", "C. Share passwords", "D. Disable security software"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is a remedy for computer overheating?",
+    "options": ["A. Blocking ventilation slots", "B. Cleaning dust from fans", "C. Using the computer in direct sunlight", "D. Stacking books on the computer"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "A backdoor is a security vulnerability that allows...",
+    "options": ["A. Unauthorized access to a system", "B. Faster internet speed", "C. Better screen resolution", "D. Increased storage capacity"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Which of the following is a human threat caused by malicious intent?",
+    "options": ["A. Earthquake", "B. Flood", "C. Theft of data", "D. Heat"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "The use of a firewall helps to...",
+    "options": ["A. Block unauthorized network access", "B. Increase computer speed", "C. Cool the computer", "D. Increase storage space"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Which of the following is a natural threat to computer hardware?",
+    "options": ["A. Virus", "B. Hacking", "C. Lightning", "D. Phishing"],
+    "answer": "C",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "A computer's health can be affected by...",
+    "options": ["A. Proper ventilation", "B. Dust and heat", "C. Regular cleaning", "D. Adequate cooling"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "Which of the following is a human threat that can be prevented by regular backups?",
+    "options": ["A. Earthquake", "B. Accidental deletion", "C. Flood", "D. Heat"],
+    "answer": "B",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "A security policy is a document that...",
+    "options": ["A. Outlines rules for protecting computer resources", "B. Lists all computer games", "C. Contains hardware specifications", "D. Describes printer settings"],
+    "answer": "A",
+    "topic": "Threats to Computers and Users",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following is an example of word processing software?",
+    "options": ["A. Microsoft Excel", "B. Microsoft Word", "C. Microsoft PowerPoint", "D. Microsoft Access"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "The main purpose of a word processor is to...",
+    "options": ["A. Create spreadsheets", "B. Create and edit text documents", "C. Design presentations", "D. Manage databases"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "Which of the following is a feature of a word processor?",
+    "options": ["A. Spell check", "B. Formula calculation", "C. Slide transition", "D. Query design"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "question": "The process of checking a document for spelling and grammar errors is called...",
+    "options": ["A. Editing", "B. Proofreading", "C. Formatting", "D. Printing"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "Which keyboard shortcut is used to save a document?",
+    "options": ["A. Ctrl + P", "B. Ctrl + S", "C. Ctrl + C", "D. Ctrl + V"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "The process of changing the appearance of text is called...",
+    "options": ["A. Formatting", "B. Editing", "C. Saving", "D. Printing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "question": "Which of the following is a font style?",
+    "options": ["A. Arial", "B. Portrait", "C. Landscape", "D. Margin"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "The default page orientation in most word processors is...",
+    "options": ["A. Landscape", "B. Portrait", "C. Square", "D. Diagonal"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "A table in a word processing document is used to...",
+    "options": ["A. Insert images", "B. Organize data in rows and columns", "C. Create charts", "D. Add sound"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "The feature that automatically moves text to the next line is called...",
+    "options": ["A. Word wrap", "B. Text wrap", "C. Line break", "D. Page break"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is a word processing package?",
+    "options": ["A. CorelDRAW", "B. WordPerfect", "C. Photoshop", "D. PageMaker"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "The process of inserting an image into a document is called...",
+    "options": ["A. Object insertion", "B. Text formatting", "C. Page setup", "D. Printing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "A header in a document appears...",
+    "options": ["A. At the bottom of each page", "B. At the top of each page", "C. In the middle of the page", "D. Only on the first page"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "The speed of typing is measured in...",
+    "options": ["A. Words per minute", "B. Pages per hour", "C. Characters per second", "D. Lines per minute"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "Which of the following is a text alignment option?",
+    "options": ["A. Bold", "B. Italic", "C. Justify", "D. Underline"],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "The process of removing text from a document is called...",
+    "options": ["A. Deleting", "B. Copying", "C. Pasting", "D. Cutting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "A footer in a document appears...",
+    "options": ["A. At the top of each page", "B. At the bottom of each page", "C. In the middle of the page", "D. Only on the last page"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "Which of the following is a type of page break?",
+    "options": ["A. Section break", "B. Line break", "C. Column break", "D. All of the above"],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The feature used to find and replace text is called...",
+    "options": ["A. Search and replace", "B. Find and substitute", "C. Locate and change", "D. Seek and swap"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "Which of the following is a paragraph formatting option?",
+    "options": ["A. Font size", "B. Line spacing", "C. Bold", "D. Italic"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The process of combining two or more documents into one is called...",
+    "options": ["A. Merging", "B. Splitting", "C. Formatting", "D. Editing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "A bulleted list is used to...",
+    "options": ["A. Number items sequentially", "B. List items with bullet points", "C. Create a table", "D. Insert an image"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "Which keyboard shortcut is used to copy selected text?",
+    "options": ["A. Ctrl + X", "B. Ctrl + C", "C. Ctrl + V", "D. Ctrl + Z"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "The process of checking the final appearance of a document before printing is called...",
+    "options": ["A. Print preview", "B. Page setup", "C. Spell check", "D. Formatting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Which of the following is a word processing term for the blank space around the edges of a page?",
+    "options": ["A. Margin", "B. Border", "C. Padding", "D. Indent"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "The process of making a copy of a document is called...",
+    "options": ["A. Duplicating", "B. Printing", "C. Scanning", "D. Saving"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "A superscript is a character that is...",
+    "options": ["A. Raised above the normal line", "B. Lowered below the normal line", "C. Larger than normal text", "D. Smaller than normal text"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "Which of the following is a word processing feature used to create a list with numbers?",
+    "options": ["A. Bulleted list", "B. Numbered list", "C. Multilevel list", "D. Outline list"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "The process of changing the size of text is called...",
+    "options": ["A. Font sizing", "B. Text scaling", "C. Character formatting", "D. Word resizing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following is a type of document view in a word processor?",
+    "options": ["A. Print layout", "B. Slide sorter", "C. Formula view", "D. Datasheet view"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "The process of adding a hyperlink to a document is called...",
+    "options": ["A. Linking", "B. Embedding", "C. Inserting", "D. Attaching"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "A drop cap is a...",
+    "options": ["A. Large capital letter at the beginning of a paragraph", "B. Small letter at the end of a paragraph", "C. Type of font", "D. Page border"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "Which of the following is a word processing software?",
+    "options": ["A. Microsoft Excel", "B. Google Docs", "C. Microsoft PowerPoint", "D. Microsoft Access"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "The process of adding a comment to a document is called...",
+    "options": ["A. Annotating", "B. Editing", "C. Formatting", "D. Saving"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "Which keyboard shortcut is used to undo an action?",
+    "options": ["A. Ctrl + Y", "B. Ctrl + Z", "C. Ctrl + U", "D. Ctrl + X"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 288,
+    "question": "A template in word processing is a...",
+    "options": ["A. Pre-designed document format", "B. Type of font", "C. Page border", "D. Printer setting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "The process of converting a document to PDF format is called...",
+    "options": ["A. Exporting", "B. Importing", "C. Printing", "D. Saving"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "Which of the following is a text formatting option?",
+    "options": ["A. Bold", "B. Margin", "C. Page size", "D. Orientation"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "The process of adding page numbers to a document is called...",
+    "options": ["A. Pagination", "B. Numbering", "C. Indexing", "D. Cataloging"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "Which of the following is a type of indent?",
+    "options": ["A. First line indent", "B. Top indent", "C. Bottom indent", "D. Side indent"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "The process of checking word count in a document is called...",
+    "options": ["A. Word count", "B. Character count", "C. Page count", "D. Line count"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "question": "A text box in word processing is used to...",
+    "options": ["A. Insert text in a separate box", "B. Create a table", "C. Add a chart", "D. Insert a picture"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "The process of arranging text in alphabetical order is called...",
+    "options": ["A. Sorting", "B. Formatting", "C. Aligning", "D. Indenting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Which of the following is a word processing feature used to create a form letter?",
+    "options": ["A. Mail merge", "B. Macro", "C. Template", "D. Wizard"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The process of adding a watermark to a document is called...",
+    "options": ["A. Watermarking", "B. Branding", "C. Stamping", "D. Marking"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is a word processing feature used to record repetitive tasks?",
+    "options": ["A. Macro", "B. Template", "C. Wizard", "D. Style"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "The process of changing the case of text is called...",
+    "options": ["A. Case change", "B. Text transformation", "C. Character formatting", "D. Font styling"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "A style in word processing is a...",
+    "options": ["A. Set of formatting instructions", "B. Type of font", "C. Page layout", "D. Printer setting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The process of adding a border to a page is called...",
+    "options": ["A. Page bordering", "B. Framing", "C. Outlining", "D. Shading"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "Which of the following is a word processing feature used to compare two documents?",
+    "options": ["A. Compare documents", "B. Merge documents", "C. Split documents", "D. Join documents"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 303,
+    "question": "The process of adding a table of contents is called...",
+    "options": ["A. Indexing", "B. Cataloging", "C. Referencing", "D. Tabling"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "question": "A section break in word processing is used to...",
+    "options": ["A. Divide a document into sections", "B. Insert a page break", "C. Add a line break", "D. Create a column break"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "The process of adding a footnote is called...",
+    "options": ["A. Footnote insertion", "B. Referencing", "C. Annotating", "D. Commenting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "Which of the following is a word processing feature used to create labels?",
+    "options": ["A. Label wizard", "B. Mail merge", "C. Template", "D. Macro"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 307,
+    "question": "The process of adding a chart to a document is called...",
+    "options": ["A. Chart insertion", "B. Graphing", "C. Embedding", "D. Linking"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Which of the following is a word processing feature used to protect a document?",
+    "options": ["A. Password protection", "B. Encryption", "C. Locking", "D. Securing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The process of adding a shape to a document is called...",
+    "options": ["A. Shape insertion", "B. Drawing", "C. Sketching", "D. Designing"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "question": "Which of the following is a word processing feature used to add sound to a document?",
+    "options": ["A. Audio insertion", "B. Sound embedding", "C. Media clipping", "D. Audio linking"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 311,
+    "question": "The process of adding a hyperlink is called...",
+    "options": ["A. Hyperlinking", "B. Linking", "C. Embedding", "D. Connecting"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "Which of the following is a word processing feature used to create a bibliography?",
+    "options": ["A. Citation manager", "B. Reference tool", "C. Bibliography wizard", "D. Source manager"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 313,
+    "question": "The process of adding a caption to an image is called...",
+    "options": ["A. Captioning", "B. Labeling", "C. Tagging", "D. Titling"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "Which of the following is a word processing feature used to add a cover page?",
+    "options": ["A. Cover page tool", "B. Title page wizard", "C. Template", "D. Page layout"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Which of the following is an example of spreadsheet software?",
+    "options": ["A. Microsoft Word", "B. Microsoft Excel", "C. Microsoft PowerPoint", "D. Microsoft Access"],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "The main purpose of a spreadsheet is to...",
+    "options": ["A. Create text documents", "B. Perform calculations and analyze data", "C. Design presentations", "D. Manage databases"],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "A cell in a spreadsheet is the intersection of a...",
+    "options": ["A. Row and column", "B. Page and margin", "C. Slide and layout", "D. Table and chart"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "Which of the following is a type of data in a spreadsheet?",
+    "options": ["A. Text", "B. Numbers", "C. Formulas", "D. All of the above"],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "A formula in a spreadsheet begins with the...",
+    "options": ["A. Plus sign", "B. Equals sign", "C. Minus sign", "D. Asterisk"],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "Which of the following is a built-in function in spreadsheets?",
+    "options": ["A. SUM", "B. ADD", "C. TOTAL", "D. PLUS"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "The process of changing the appearance of a worksheet is called...",
+    "options": ["A. Formatting", "B. Editing", "C. Saving", "D. Printing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "A workbook in a spreadsheet is a...",
+    "options": ["A. Collection of worksheets", "B. Single sheet", "C. Chart", "D. Formula"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "Which of the following is a common spreadsheet function?",
+    "options": ["A. AVERAGE", "B. MEAN", "C. MEDIAN", "D. MODE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "The cell reference A1 refers to...",
+    "options": ["A. Column A, Row 1", "B. Row A, Column 1", "C. Column 1, Row A", "D. Row 1, Column A"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "Which of the following is a type of chart in a spreadsheet?",
+    "options": ["A. Pie chart", "B. Bar chart", "C. Line chart", "D. All of the above"],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "The process of arranging data in a specific order is called...",
+    "options": ["A. Sorting", "B. Filtering", "C. Formatting", "D. Editing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "A spreadsheet function used to add a range of cells is...",
+    "options": ["A. SUM", "B. ADD", "C. TOTAL", "D. PLUS"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The process of displaying only certain data based on criteria is called...",
+    "options": ["A. Filtering", "B. Sorting", "C. Formatting", "D. Searching"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "Which of the following is a spreadsheet package?",
+    "options": ["A. Microsoft Excel", "B. Microsoft Word", "C. Microsoft PowerPoint", "D. Microsoft Access"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 330,
+    "question": "The process of combining two or more cells into one is called...",
+    "options": ["A. Merging", "B. Splitting", "C. Joining", "D. Grouping"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "A cell reference that does not change when copied is called a...",
+    "options": ["A. Relative reference", "B. Absolute reference", "C. Mixed reference", "D. Static reference"],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 332,
+    "question": "Which of the following is a mathematical operator in spreadsheets?",
+    "options": ["A. +", "B. =", "C. :", "D. ;"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "question": "The process of changing the width of a column is called...",
+    "options": ["A. Column resizing", "B. Row resizing", "C. Cell resizing", "D. Table resizing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "question": "A function that returns the average of a range of cells is...",
+    "options": ["A. AVERAGE", "B. MEAN", "C. MEDIAN", "D. MODE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "question": "Which of the following is a logical function in spreadsheets?",
+    "options": ["A. IF", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "The process of adding a chart to a worksheet is called...",
+    "options": ["A. Chart insertion", "B. Graphing", "C. Embedding", "D. Linking"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "Which of the following is a text function in spreadsheets?",
+    "options": ["A. CONCATENATE", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "A spreadsheet row is identified by a...",
+    "options": ["A. Number", "B. Letter", "C. Symbol", "D. Color"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "The process of copying a formula to adjacent cells is called...",
+    "options": ["A. Autofill", "B. Copy-paste", "C. Duplication", "D. Replication"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "Which of the following is a date function in spreadsheets?",
+    "options": ["A. TODAY", "B. NOW", "C. DATE", "D. All of the above"],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "A spreadsheet column is identified by a...",
+    "options": ["A. Letter", "B. Number", "C. Symbol", "D. Color"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "The process of freezing panes in a spreadsheet is used to...",
+    "options": ["A. Keep certain rows or columns visible", "B. Lock the entire sheet", "C. Delete rows", "D. Hide columns"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 343,
+    "question": "Which of the following is a statistical function in spreadsheets?",
+    "options": ["A. STDEV", "B. SUM", "C. IF", "D. CONCATENATE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "The process of adding a comment to a cell is called...",
+    "options": ["A. Annotating", "B. Commenting", "C. Noting", "D. Marking"],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "Which of the following is a lookup function in spreadsheets?",
+    "options": ["A. VLOOKUP", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "The process of protecting a worksheet is called...",
+    "options": ["A. Sheet protection", "B. Encryption", "C. Locking", "D. Securing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "Which of the following is a financial function in spreadsheets?",
+    "options": ["A. PMT", "B. SUM", "C. AVERAGE", "D. IF"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 348,
+    "question": "The process of splitting a worksheet into panes is called...",
+    "options": ["A. Splitting", "B. Dividing", "C. Separating", "D. Partitioning"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following is a conditional formatting feature?",
+    "options": ["A. Highlighting cells based on rules", "B. Changing font size", "C. Adding borders", "D. Merging cells"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 350,
+    "question": "The process of creating a pivot table is used to...",
+    "options": ["A. Summarize large datasets", "B. Create charts", "C. Format cells", "D. Print worksheets"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 351,
+    "question": "Which of the following is a database function in spreadsheets?",
+    "options": ["A. DSUM", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "The process of adding a data validation rule is used to...",
+    "options": ["A. Restrict the type of data entered", "B. Format cells", "C. Create charts", "D. Sort data"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 353,
+    "question": "Which of the following is an example of spreadsheet software?",
+    "options": ["A. Google Sheets", "B. Google Docs", "C. Google Slides", "D. Google Forms"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "The process of adding a hyperlink to a cell is called...",
+    "options": ["A. Hyperlinking", "B. Linking", "C. Embedding", "D. Connecting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Which of the following is a text function used to extract characters?",
+    "options": ["A. LEFT", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "question": "The process of adding a header or footer to a worksheet is called...",
+    "options": ["A. Header/footer insertion", "B. Page setup", "C. Formatting", "D. Printing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "Which of the following is a function used to count cells with numbers?",
+    "options": ["A. COUNT", "B. SUM", "C. AVERAGE", "D. IF"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "The process of hiding rows or columns is called...",
+    "options": ["A. Hiding", "B. Concealing", "C. Masking", "D. Covering"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "Which of the following is a function used to find the highest value?",
+    "options": ["A. MAX", "B. MIN", "C. SUM", "D. AVERAGE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "question": "The process of adding a background color to a cell is called...",
+    "options": ["A. Cell shading", "B. Formatting", "C. Coloring", "D. Highlighting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "Which of the following is a function used to find the lowest value?",
+    "options": ["A. MIN", "B. MAX", "C. SUM", "D. AVERAGE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "The process of changing the number format of a cell is called...",
+    "options": ["A. Number formatting", "B. Cell formatting", "C. Data formatting", "D. Value formatting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Which of the following is a function used to round a number?",
+    "options": ["A. ROUND", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The process of adding a border to a cell is called...",
+    "options": ["A. Cell bordering", "B. Formatting", "C. Framing", "D. Outlining"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "Which of the following is a function used to calculate the square root?",
+    "options": ["A. SQRT", "B. SUM", "C. AVERAGE", "D. POWER"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "The process of adding a data table to a worksheet is called...",
+    "options": ["A. Table insertion", "B. Formatting", "C. Charting", "D. Graphing"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "Which of the following is a function used to calculate the power of a number?",
+    "options": ["A. POWER", "B. SQRT", "C. SUM", "D. AVERAGE"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "The process of adding a sparkline to a cell is called...",
+    "options": ["A. Sparkline insertion", "B. Charting", "C. Graphing", "D. Formatting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 369,
+    "question": "Which of the following is a function used to join text strings?",
+    "options": ["A. CONCATENATE", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "The process of adding a slicer to a pivot table is called...",
+    "options": ["A. Slicer insertion", "B. Filtering", "C. Sorting", "D. Formatting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 371,
+    "question": "Which of the following is a function used to find the number of characters in a text string?",
+    "options": ["A. LEN", "B. SUM", "C. AVERAGE", "D. COUNT"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "The process of adding a trendline to a chart is called...",
+    "options": ["A. Trendline insertion", "B. Charting", "C. Graphing", "D. Formatting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 373,
+    "question": "Which of the following is a function used to convert text to uppercase?",
+    "options": ["A. UPPER", "B. LOWER", "C. PROPER", "D. TRIM"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "The process of adding a calculated field to a pivot table is called...",
+    "options": ["A. Calculated field insertion", "B. Formula creation", "C. Data analysis", "D. Formatting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "Which of the following is a function used to remove extra spaces from text?",
+    "options": ["A. TRIM", "B. CLEAN", "C. LEN", "D. UPPER"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "The process of adding a what-if analysis to a worksheet is called...",
+    "options": ["A. What-if analysis", "B. Scenario analysis", "C. Data table creation", "D. Forecasting"],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 377,
+    "question": "Which of the following is an example of presentation software?",
+    "options": ["A. Microsoft Word", "B. Microsoft Excel", "C. Microsoft PowerPoint", "D. Microsoft Access"],
+    "answer": "C",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "The main purpose of a presentation package is to...",
+    "options": ["A. Create text documents", "B. Perform calculations", "C. Create slideshows", "D. Manage databases"],
+    "answer": "C",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "A slide in a presentation is a...",
+    "options": ["A. Single page of a presentation", "B. Collection of presentations", "C. Type of chart", "D. Animation effect"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "Which of the following is a presentation software feature?",
+    "options": ["A. Slide transition", "B. Formula calculation", "C. Mail merge", "D. Query design"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "The process of adding animation to objects is called...",
+    "options": ["A. Animating", "B. Formatting", "C. Editing", "D. Saving"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "question": "A slide master is used to...",
+    "options": ["A. Control the overall design of slides", "B. Create a single slide", "C. Add animations", "D. Print slides"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "The process of displaying a presentation is called...",
+    "options": ["A. Slide show", "B. Slide view", "C. Slide sorter", "D. Slide editing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "Which of the following is a factor to consider before delivering a presentation?",
+    "options": ["A. Audience analysis", "B. Slide count", "C. Font size", "D. All of the above"],
+    "answer": "D",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "The process of adding a transition between slides is called...",
+    "options": ["A. Slide transition", "B. Animation", "C. Formatting", "D. Editing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 386,
+    "question": "A presentation template is a...",
+    "options": ["A. Pre-designed slide layout", "B. Type of font", "C. Animation effect", "D. Slide transition"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Which of the following is a presentation view?",
+    "options": ["A. Normal view", "B. Slide sorter view", "C. Slide show view", "D. All of the above"],
+    "answer": "D",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "The process of adding speaker notes is called...",
+    "options": ["A. Note insertion", "B. Commenting", "C. Annotating", "D. Marking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Which of the following is a type of slide layout?",
+    "options": ["A. Title slide", "B. Content slide", "C. Two-content slide", "D. All of the above"],
+    "answer": "D",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "The process of adding a chart to a slide is called...",
+    "options": ["A. Chart insertion", "B. Graphing", "C. Embedding", "D. Linking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "Which of the following is a presentation package?",
+    "options": ["A. Google Slides", "B. Google Docs", "C. Google Sheets", "D. Google Forms"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "The process of adding a hyperlink to a slide is called...",
+    "options": ["A. Hyperlinking", "B. Linking", "C. Embedding", "D. Connecting"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "A presentation outline is used to...",
+    "options": ["A. Organize the content of slides", "B. Design slide backgrounds", "C. Add animations", "D. Print slides"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Which of the following is a type of animation effect?",
+    "options": ["A. Entrance", "B. Emphasis", "C. Exit", "D. All of the above"],
+    "answer": "D",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "The process of adding a sound to a slide is called...",
+    "options": ["A. Audio insertion", "B. Sound embedding", "C. Media clipping", "D. Audio linking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "Which of the following is a presentation feature used to create a custom slide show?",
+    "options": ["A. Custom show", "B. Slide sorter", "C. Outline view", "D. Notes page"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "The process of adding a video to a slide is called...",
+    "options": ["A. Video insertion", "B. Media embedding", "C. Clip insertion", "D. Movie linking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Which of the following is a presentation feature used to rehearse timings?",
+    "options": ["A. Rehearse timings", "B. Slide show", "C. Animation pane", "D. Transition gallery"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "The process of adding a footer to a slide is called...",
+    "options": ["A. Footer insertion", "B. Page setup", "C. Formatting", "D. Printing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "Which of the following is a presentation feature used to broadcast a slide show?",
+    "options": ["A. Broadcast slide show", "B. Slide show", "C. Presenter view", "D. Reading view"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 401,
+    "question": "The process of adding a shape to a slide is called...",
+    "options": ["A. Shape insertion", "B. Drawing", "C. Sketching", "D. Designing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "Which of the following is a presentation feature used to compare two presentations?",
+    "options": ["A. Compare presentations", "B. Merge presentations", "C. Split presentations", "D. Join presentations"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 403,
+    "question": "The process of adding a table to a slide is called...",
+    "options": ["A. Table insertion", "B. Formatting", "C. Charting", "D. Graphing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "Which of the following is a presentation feature used to create a photo album?",
+    "options": ["A. Photo album", "B. Slide sorter", "C. Outline view", "D. Notes page"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 405,
+    "question": "The process of adding a text box to a slide is called...",
+    "options": ["A. Text box insertion", "B. Formatting", "C. Typing", "D. Writing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "Which of the following is a presentation feature used to hide a slide?",
+    "options": ["A. Hide slide", "B. Delete slide", "C. Duplicate slide", "D. Move slide"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "The process of adding a section to a presentation is called...",
+    "options": ["A. Section insertion", "B. Grouping", "C. Formatting", "D. Organizing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "Which of the following is a presentation feature used to set up a slide show?",
+    "options": ["A. Set up slide show", "B. Slide sorter", "C. Animation pane", "D. Transition gallery"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "The process of adding a comment to a slide is called...",
+    "options": ["A. Commenting", "B. Annotating", "C. Noting", "D. Marking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Which of the following is a presentation feature used to check accessibility?",
+    "options": ["A. Accessibility checker", "B. Spell check", "C. Thesaurus", "D. Word count"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 411,
+    "question": "The process of adding a design theme to a presentation is called...",
+    "options": ["A. Theme application", "B. Formatting", "C. Styling", "D. Designing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "Which of the following is a presentation feature used to translate text?",
+    "options": ["A. Translate", "B. Thesaurus", "C. Spell check", "D. Dictionary"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "The process of adding a background image to a slide is called...",
+    "options": ["A. Background formatting", "B. Image insertion", "C. Slide design", "D. Wallpapering"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "Which of the following is a presentation feature used to record a slide show?",
+    "options": ["A. Record slide show", "B. Slide show", "C. Presenter view", "D. Reading view"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "The process of adding a SmartArt graphic to a slide is called...",
+    "options": ["A. SmartArt insertion", "B. Drawing", "C. Charting", "D. Graphing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "Which of the following is a presentation feature used to export slides as images?",
+    "options": ["A. Export as images", "B. Save as", "C. Print", "D. Publish"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "The process of adding a hyperlink to an object is called...",
+    "options": ["A. Hyperlinking", "B. Linking", "C. Embedding", "D. Connecting"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Which of the following is a presentation feature used to create a slide master?",
+    "options": ["A. Slide master view", "B. Normal view", "C. Slide sorter view", "D. Reading view"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 419,
+    "question": "The process of adding an action button to a slide is called...",
+    "options": ["A. Action button insertion", "B. Shape insertion", "C. Hyperlinking", "D. Linking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 420,
+    "question": "Which of the following is a presentation feature used to set slide timings?",
+    "options": ["A. Slide timing", "B. Animation", "C. Transition", "D. Rehearse timings"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "The process of adding a chart from Excel to a slide is called...",
+    "options": ["A. Chart embedding", "B. Chart linking", "C. Chart insertion", "D. Chart pasting"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "Which of the following is a presentation feature used to add alt text?",
+    "options": ["A. Alt text", "B. Comment", "C. Note", "D. Caption"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 423,
+    "question": "The process of adding a slide number is called...",
+    "options": ["A. Slide numbering", "B. Pagination", "C. Indexing", "D. Cataloging"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "Which of the following is a presentation feature used to create a handout?",
+    "options": ["A. Handout master", "B. Slide master", "C. Notes master", "D. Outline view"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 425,
+    "question": "The process of adding a notes page is called...",
+    "options": ["A. Notes page insertion", "B. Commenting", "C. Annotating", "D. Marking"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "Which of the following is a presentation feature used to create a custom animation?",
+    "options": ["A. Custom animation", "B. Slide transition", "C. Slide show", "D. Presenter view"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "The process of adding a motion path to an object is called...",
+    "options": ["A. Motion path animation", "B. Entrance animation", "C. Exit animation", "D. Emphasis animation"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 428,
+    "question": "Which of the following is a presentation feature used to add a trigger?",
+    "options": ["A. Trigger", "B. Animation", "C. Transition", "D. Timing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 429,
+    "question": "The process of adding a bookmark to a video is called...",
+    "options": ["A. Bookmark insertion", "B. Video trimming", "C. Video linking", "D. Video embedding"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 430,
+    "question": "Which of the following is a presentation feature used to trim a video?",
+    "options": ["A. Trim video", "B. Cut video", "C. Split video", "D. Crop video"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "The process of adding a poster frame to a video is called...",
+    "options": ["A. Poster frame", "B. Thumbnail", "C. Preview image", "D. Cover image"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 432,
+    "question": "Which of the following is a presentation feature used to loop a slide show?",
+    "options": ["A. Loop continuously", "B. Slide show", "C. Rehearse timings", "D. Set up slide show"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "The process of adding a narration to a slide show is called...",
+    "options": ["A. Narration recording", "B. Audio insertion", "C. Sound recording", "D. Voice over"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Which of the following is a presentation feature used to create a video from a presentation?",
+    "options": ["A. Create a video", "B. Export as video", "C. Save as video", "D. Publish as video"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 435,
+    "question": "The process of adding a transition sound is called...",
+    "options": ["A. Transition sound", "B. Animation sound", "C. Audio effect", "D. Sound effect"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "Which of the following is a presentation feature used to set the slide size?",
+    "options": ["A. Slide size", "B. Page setup", "C. Orientation", "D. Margins"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "The process of adding a header to a slide is called...",
+    "options": ["A. Header insertion", "B. Page setup", "C. Formatting", "D. Printing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "Which of the following is a presentation feature used to add a footer?",
+    "options": ["A. Footer insertion", "B. Page setup", "C. Formatting", "D. Printing"],
+    "answer": "A",
+    "topic": "Presentation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "The Internet is best described as...",
+    "options": ["A. A global network of networks", "B. A single computer", "C. A software program", "D. A type of printer"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 440,
+    "question": "The World Wide Web is...",
+    "options": ["A. The same as the Internet", "B. A service on the Internet", "C. A type of computer", "D. A network cable"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "A web browser is used to...",
+    "options": ["A. Send emails", "B. Access and view web pages", "C. Create documents", "D. Print photos"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "Which of the following is a web browser?",
+    "options": ["A. Microsoft Word", "B. Google Chrome", "C. Excel", "D. PowerPoint"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "An email address consists of a username and a...",
+    "options": ["A. Password", "B. Domain name", "C. Phone number", "D. Home address"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 444,
+    "question": "Netiquette refers to...",
+    "options": ["A. Rules for polite online behavior", "B. Network cables", "C. Internet speed", "D. Web design"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "A search engine is used to...",
+    "options": ["A. Send emails", "B. Find information on the web", "C. Create documents", "D. Print photos"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "Which of the following is an example of a search engine?",
+    "options": ["A. Google", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 447,
+    "question": "Downloading refers to...",
+    "options": ["A. Transferring files from the Internet to a computer", "B. Sending files from a computer to the Internet", "C. Printing documents", "D. Saving files to a flash drive"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "Uploading refers to...",
+    "options": ["A. Transferring files from the Internet to a computer", "B. Sending files from a computer to the Internet", "C. Printing documents", "D. Saving files to a flash drive"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "Which of the following is a requirement for internet access?",
+    "options": ["A. A printer", "B. An internet service provider", "C. A scanner", "D. A projector"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "A URL stands for...",
+    "options": ["A. Uniform Resource Locator", "B. Universal Reference Link", "C. United Resource Location", "D. Uniform Reference Locator"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "Which of the following is an example of a social media platform?",
+    "options": ["A. Facebook", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 452,
+    "question": "Chatting on the Internet involves...",
+    "options": ["A. Sending real-time text messages", "B. Printing documents", "C. Creating spreadsheets", "D. Editing photos"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 453,
+    "question": "Which of the following is a feature of a browser window?",
+    "options": ["A. Address bar", "B. Formula bar", "C. Slide pane", "D. Status bar"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "An ISP is a company that...",
+    "options": ["A. Provides internet access", "B. Manufactures computers", "C. Prints documents", "D. Designs websites"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 455,
+    "question": "Which of the following is a rule of netiquette?",
+    "options": ["A. Using all capital letters", "B. Respecting others' privacy", "C. Sending spam emails", "D. Sharing passwords"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "An email attachment is a...",
+    "options": ["A. File sent along with an email", "B. Type of email address", "C. Email password", "D. Email subject line"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "Which of the following is an email protocol?",
+    "options": ["A. HTTP", "B. SMTP", "C. FTP", "D. TCP"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The 'cc' field in an email is used to...",
+    "options": ["A. Send a copy to another recipient", "B. Hide recipients", "C. Add an attachment", "D. Set the subject"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "The 'bcc' field in an email is used to...",
+    "options": ["A. Send a blind copy to a recipient", "B. Send a copy to another recipient", "C. Add an attachment", "D. Set the subject"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Which of the following is a web-based email service?",
+    "options": ["A. Gmail", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "A hyperlink is a...",
+    "options": ["A. Link to another web page", "B. Type of email", "C. Network cable", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "Which of the following is an internet-related tool for communication?",
+    "options": ["A. WhatsApp", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "The process of transferring a file from a computer to a server is called...",
+    "options": ["A. Downloading", "B. Uploading", "C. Browsing", "D. Searching"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "Which of the following is a web address?",
+    "options": ["A. www.example.com", "B. example@email.com", "C. 123 Main Street", "D. 08012345678"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "A search engine uses a ______ to find web pages.",
+    "options": ["A. Spider or crawler", "B. Printer", "C. Scanner", "D. Mouse"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Which of the following is a type of internet connection?",
+    "options": ["A. Fiber optic", "B. USB", "C. HDMI", "D. VGA"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "A cookie is a...",
+    "options": ["A. Small file stored by a website on a user's computer", "B. Type of email", "C. Network cable", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "Which of the following is a safe practice when using the internet?",
+    "options": ["A. Sharing personal information freely", "B. Using strong passwords", "C. Clicking all links", "D. Downloading from unknown sites"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "The Internet is governed by...",
+    "options": ["A. A single organization", "B. A collection of protocols and standards", "C. One government", "D. A single company"],
+    "answer": "B",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "Which of the following is an internet protocol?",
+    "options": ["A. HTTP", "B. USB", "C. HDMI", "D. VGA"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "A blog is a...",
+    "options": ["A. Website with regular entries", "B. Type of email", "C. Network cable", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Which of the following is a video-sharing website?",
+    "options": ["A. YouTube", "B. Google Docs", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 473,
+    "question": "The process of sending an email involves...",
+    "options": ["A. Composing, addressing, and sending", "B. Printing, scanning, and copying", "C. Editing, formatting, and saving", "D. Downloading, uploading, and browsing"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "Which of the following is a web browser feature?",
+    "options": ["A. Bookmark", "B. Formula bar", "C. Slide pane", "D. Cell reference"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "An intranet is a...",
+    "options": ["A. Private network within an organization", "B. Public network", "C. Type of email", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 476,
+    "question": "Which of the following is a cloud storage service?",
+    "options": ["A. Google Drive", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "A podcast is a...",
+    "options": ["A. Digital audio file available online", "B. Type of email", "C. Network cable", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Which of the following is a video conferencing tool?",
+    "options": ["A. Zoom", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 479,
+    "question": "The process of browsing the internet is called...",
+    "options": ["A. Surfing", "B. Swimming", "C. Diving", "D. Flying"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 480,
+    "question": "Which of the following is a web portal?",
+    "options": ["A. Yahoo", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A firewall in internet security is used to...",
+    "options": ["A. Block unauthorized access", "B. Speed up the internet", "C. Increase storage", "D. Cool the computer"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "Which of the following is a type of malware spread through the internet?",
+    "options": ["A. Virus", "B. Printer", "C. Scanner", "D. Mouse"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "The term 'online' means...",
+    "options": ["A. Connected to the internet", "B. Disconnected from the internet", "C. Using a printer", "D. Using a scanner"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 484,
+    "question": "Which of the following is an example of an internet browser?",
+    "options": ["A. Mozilla Firefox", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "A domain name is a...",
+    "options": ["A. Human-readable web address", "B. Type of email", "C. Network cable", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "Which of the following is a top-level domain?",
+    "options": ["A. .com", "B. .doc", "C. .exe", "D. .jpg"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "The process of checking email is called...",
+    "options": ["A. Accessing email", "B. Sending email", "C. Composing email", "D. Deleting email"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "Which of the following is an email service?",
+    "options": ["A. Yahoo Mail", "B. Google Docs", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "A chat room is a...",
+    "options": ["A. Virtual room for online communication", "B. Physical room", "C. Type of email", "D. Web browser"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "Which of the following is a social networking site?",
+    "options": ["A. LinkedIn", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 491,
+    "question": "The process of sharing files over the internet is called...",
+    "options": ["A. File sharing", "B. File printing", "C. File scanning", "D. File copying"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "A virtual private network (VPN) is used to...",
+    "options": ["A. Provide secure and private internet access", "B. Speed up the internet", "C. Increase storage", "D. Print documents"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 493,
+    "question": "Which of the following is a web authoring tool?",
+    "options": ["A. Adobe Dreamweaver", "B. Microsoft Word", "C. Excel", "D. PowerPoint"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 494,
+    "question": "The term 'streaming' refers to...",
+    "options": ["A. Playing media without downloading it fully", "B. Downloading files", "C. Uploading files", "D. Printing documents"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is an internet security protocol?",
+    "options": ["A. HTTPS", "B. HTTP", "C. FTP", "D. SMTP"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "A webmaster is responsible for...",
+    "options": ["A. Maintaining a website", "B. Printing documents", "C. Repairing computers", "D. Designing hardware"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "Which of the following is a file transfer protocol?",
+    "options": ["A. FTP", "B. HTTP", "C. SMTP", "D. TCP"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The process of converting a file into a format that can be sent over the internet is called...",
+    "options": ["A. Encoding", "B. Decoding", "C. Printing", "D. Scanning"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 499,
+    "question": "Which of the following is an internet browser bookmark?",
+    "options": ["A. A saved web page link", "B. A printed page", "C. A scanned document", "D. A copied file"],
+    "answer": "A",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 500,
+    "question": "The Internet is used for all of the following EXCEPT...",
+    "options": ["A. Communication", "B. Information sharing", "C. Manual farming", "D. Entertainment"],
+    "answer": "C",
+    "topic": "The Internet",
+    "difficulty": "Easy"
+  }
+]

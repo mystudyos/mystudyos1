@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react"
 import { Download, X, Smartphone } from "lucide-react"
+import { getFCMServiceWorker } from "@/lib/fcm-client"
 
 export function PWARegistration() {
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null)
@@ -9,13 +10,8 @@ export function PWARegistration() {
   const [canShowInstall, setCanShowInstall] = useState(false)
 
   useEffect(() => {
-    // Register Service Worker
-    if ("serviceWorker" in navigator) {
-      navigator.serviceWorker
-        .register("/sw.js")
-        .then((reg) => console.log("SW registered"))
-        .catch((err) => console.log("SW failed", err))
-    }
+    // Register the single unified Service Worker for both PWA install & FCM push
+    getFCMServiceWorker()
 
     // Check if Notification popup (1st popup) is already resolved or not needed
     const isNotificationResolved = () => {

@@ -1,0 +1,6247 @@
+[
+  {
+    "id": 1,
+    "question": "The first computing device used by early humans for counting was the:",
+    "options": [
+      "A. Abacus",
+      "B. Napier's bones",
+      "C. Slide rule",
+      "D. Pascal's calculator"
+    ],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The number system that uses only two digits is called:",
+    "options": ["A. Decimal", "B. Binary", "C. Octal", "D. Hexadecimal"],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "The first generation of computers used which technology?",
+    "options": [
+      "A. Transistors",
+      "B. Integrated circuits",
+      "C. Vacuum tubes",
+      "D. Microprocessors"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The second generation of computers was characterised by the use of:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Microprocessors",
+      "C. Artificial intelligence",
+      "D. Transistors"
+    ],
+    "answer": "D",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "The third generation of computers used:",
+    "options": [
+      "A. Integrated circuits",
+      "B. Vacuum tubes",
+      "C. Transistors",
+      "D. Microprocessors"
+    ],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "The fourth generation of computers is associated with:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Microprocessors",
+      "C. Transistors",
+      "D. Integrated circuits"
+    ],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "The fifth generation of computers is mainly associated with:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Transistors",
+      "C. Artificial intelligence",
+      "D. Integrated circuits"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "Raw facts and figures that have not been processed are called:",
+    "options": ["A. Information", "B. Knowledge", "C. Wisdom", "D. Data"],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Processed data that is meaningful to the user is called:",
+    "options": ["A. Information", "B. Data", "C. Binary", "D. Input"],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a type of data?",
+    "options": [
+      "A. Numeric data",
+      "B. Alpha data",
+      "C. Visual data",
+      "D. Audio data"
+    ],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The process of converting analog data into digital form is called:",
+    "options": [
+      "A. Analogue conversion",
+      "B. Digitalization",
+      "C. Modulation",
+      "D. Demodulation"
+    ],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is an example of information?",
+    "options": [
+      "A. A list of raw scores",
+      "B. A set of unprocessed figures",
+      "C. A summary report of results",
+      "D. A collection of names"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "The main difference between data and information is that information is:",
+    "options": [
+      "A. Unprocessed facts",
+      "B. Always numeric",
+      "C. Always alphanumeric",
+      "D. Processed data with meaning"
+    ],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "Computers can be classified by type into:",
+    "options": [
+      "A. Analog, digital and hybrid",
+      "B. Desktop, laptop and palmtop",
+      "C. Mainframe, mini and micro",
+      "D. Super, main and mini"
+    ],
+    "answer": "A",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a classification of computers by size?",
+    "options": [
+      "A. Analog computer",
+      "B. Digital computer",
+      "C. Mainframe computer",
+      "D. Hybrid computer"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "A computer that processes continuous physical quantities is called:",
+    "options": [
+      "A. Digital computer",
+      "B. Analog computer",
+      "C. Hybrid computer",
+      "D. Mainframe computer"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "A computer that combines both analog and digital features is called:",
+    "options": [
+      "A. Digital computer",
+      "B. Analog computer",
+      "C. Microcomputer",
+      "D. Hybrid computer"
+    ],
+    "answer": "D",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is an example of computer classification by usage?",
+    "options": [
+      "A. Supercomputer",
+      "B. General-purpose computer",
+      "C. Mainframe computer",
+      "D. Minicomputer"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "A computer designed for a specific task only is described as:",
+    "options": [
+      "A. General-purpose",
+      "B. Hybrid",
+      "C. Special-purpose",
+      "D. Analog"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a use of ICT in everyday life?",
+    "options": [
+      "A. Manual record keeping",
+      "B. Physical mailing of letters",
+      "C. Face-to-face meetings only",
+      "D. Electronic banking"
+    ],
+    "answer": "D",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "One impact of ICT on society is that it has:",
+    "options": [
+      "A. Improved communication",
+      "B. Reduced global connectivity",
+      "C. Eliminated all jobs",
+      "D. Stopped information sharing"
+    ],
+    "answer": "A",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "ICT is used in education mainly for:",
+    "options": [
+      "A. Manual grading only",
+      "B. E-learning and research",
+      "C. Physical filing only",
+      "D. Face-to-face lectures only"
+    ],
+    "answer": "B",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an application of ICT in business?",
+    "options": [
+      "A. Manual accounting only",
+      "B. Physical cash payment only",
+      "C. Electronic commerce",
+      "D. Typewriter-based typing"
+    ],
+    "answer": "C",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "A negative impact of ICT on society is:",
+    "options": [
+      "A. Improved healthcare",
+      "B. Faster communication",
+      "C. Increased access to information",
+      "D. Cyber crime"
+    ],
+    "answer": "D",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is an example of an input device?",
+    "options": ["A. Keyboard", "B. Monitor", "C. Printer", "D. Speaker"],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is an example of an output device?",
+    "options": ["A. Keyboard", "B. Monitor", "C. Mouse", "D. Scanner"],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "The system unit of a computer houses the:",
+    "options": ["A. Printer", "B. Monitor", "C. CPU and memory", "D. Keyboard"],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a storage device?",
+    "options": ["A. Monitor", "B. Speaker", "C. Keyboard", "D. Flash disk"],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "A scanner is an example of a:",
+    "options": [
+      "A. Input device",
+      "B. Output device",
+      "C. Storage device",
+      "D. Processing device"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "A plotter is an example of a:",
+    "options": [
+      "A. Input device",
+      "B. Output device",
+      "C. Storage device",
+      "D. Processing device"
+    ],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "Which component of the computer processes data?",
+    "options": ["A. Monitor", "B. Keyboard", "C. CPU", "D. Printer"],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is an example of primary storage?",
+    "options": ["A. Hard disk", "B. Flash disk", "C. CD-ROM", "D. RAM"],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Information processing is best defined as the:",
+    "options": [
+      "A. Collection of raw data only",
+      "B. Transformation of data into information",
+      "C. Storage of files on disk",
+      "D. Printing of documents"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "The first step in information processing is:",
+    "options": [
+      "A. Output",
+      "B. Storage",
+      "C. Data collection",
+      "D. Processing"
+    ],
+    "answer": "C",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is a step involved in information processing?",
+    "options": [
+      "A. Data collection",
+      "B. Data deletion",
+      "C. Data hiding",
+      "D. Data loss"
+    ],
+    "answer": "A",
+    "topic": "Information Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "In information processing, the stage that follows data collection is:",
+    "options": [
+      "A. Storage",
+      "B. Output",
+      "C. Reporting",
+      "D. Data processing"
+    ],
+    "answer": "D",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The final step in information processing is:",
+    "options": [
+      "A. Data collection",
+      "B. Output or reporting",
+      "C. Input",
+      "D. Storage"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Information transmission is best defined as the:",
+    "options": [
+      "A. Storage of data on a disk",
+      "B. Deletion of information",
+      "C. Sending of information from one point to another",
+      "D. Processing of data into information"
+    ],
+    "answer": "C",
+    "topic": "Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is a method of transmitting information?",
+    "options": [
+      "A. Reading a book",
+      "B. Writing notes",
+      "C. Thinking quietly",
+      "D. Sending a fax"
+    ],
+    "answer": "D",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "A newspaper is an example of information transmission by:",
+    "options": [
+      "A. Visual means",
+      "B. Audio means",
+      "C. Audio-visual means",
+      "D. Electronic means"
+    ],
+    "answer": "A",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Radio transmission of information is an example of:",
+    "options": [
+      "A. Visual means",
+      "B. Audio means",
+      "C. Audio-visual means",
+      "D. Digital means"
+    ],
+    "answer": "B",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "Television is an example of information transmission by:",
+    "options": [
+      "A. Visual means only",
+      "B. Audio means only",
+      "C. Audio-visual means",
+      "D. Print means only"
+    ],
+    "answer": "C",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a medium of information transmission?",
+    "options": ["A. Radio", "B. Processor", "C. Compiler", "D. Register"],
+    "answer": "A",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is classified as an audio-visual medium?",
+    "options": ["A. Newspaper", "B. Radio", "C. Telephone", "D. Television"],
+    "answer": "D",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "A telephone is primarily a medium of information transmission through:",
+    "options": [
+      "A. Visual signals only",
+      "B. Audio signals",
+      "C. Printed text",
+      "D. Graphic images"
+    ],
+    "answer": "B",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Newspapers and magazines are classified as:",
+    "options": [
+      "A. Audio media",
+      "B. Audio-visual media",
+      "C. Print media",
+      "D. Electronic media"
+    ],
+    "answer": "C",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a visual medium of information transmission?",
+    "options": ["A. Radio", "B. Telephone", "C. Speaker", "D. Newspaper"],
+    "answer": "D",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Networking is best defined as the:",
+    "options": [
+      "A. Connection of two or more computers to share resources",
+      "B. Storage of files on a single computer",
+      "C. Printing of documents on one printer",
+      "D. Processing of data on one computer"
+    ],
+    "answer": "A",
+    "topic": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "The Internet is best described as a:",
+    "options": [
+      "A. Single computer network in an office",
+      "B. Global network of interconnected networks",
+      "C. Type of software package",
+      "D. Device for printing documents"
+    ],
+    "answer": "B",
+    "topic": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "An intranet is a network that is:",
+    "options": [
+      "A. Open to the public worldwide",
+      "B. Used only for printing",
+      "C. Restricted to an organisation's members",
+      "D. Used only for email"
+    ],
+    "answer": "C",
+    "topic": "Networking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "A network that covers a small area such as an office is called a:",
+    "options": ["A. WAN", "B. MAN", "C. PAN", "D. LAN"],
+    "answer": "D",
+    "topic": "Networking",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "A network that covers a city or large town is called a:",
+    "options": ["A. MAN", "B. LAN", "C. PAN", "D. WAN"],
+    "answer": "A",
+    "topic": "Networking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "A Wide Area Network (WAN) typically covers:",
+    "options": [
+      "A. A single room",
+      "B. A large geographical area",
+      "C. A single computer",
+      "D. A single office"
+    ],
+    "answer": "B",
+    "topic": "Networking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "One significance of networking is that it allows:",
+    "options": [
+      "A. Slower data transfer",
+      "B. Reduced data security",
+      "C. Sharing of resources",
+      "D. Increased hardware cost"
+    ],
+    "answer": "C",
+    "topic": "Networking",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "A benefit of the Internet is:",
+    "options": [
+      "A. Limited access to information",
+      "B. Slower communication",
+      "C. Reduced global connectivity",
+      "D. Access to vast online information"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "A software program used to access and view web pages is called a:",
+    "options": ["A. Browser", "B. Compiler", "C. Server", "D. Router"],
+    "answer": "A",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following is an Internet browser?",
+    "options": ["A. MS Word", "B. Firefox", "C. MS Excel", "D. CorelDraw"],
+    "answer": "B",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "One abuse of the Internet is:",
+    "options": [
+      "A. Online research",
+      "B. Email communication",
+      "C. Cyber bullying",
+      "D. E-learning"
+    ],
+    "answer": "C",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Internet security involves protecting:",
+    "options": [
+      "A. Only hardware devices",
+      "B. Only software programs",
+      "C. Only printers",
+      "D. Data and systems from threats"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "An operating system is best defined as:",
+    "options": [
+      "A. A program that manages computer hardware and software",
+      "B. A device for printing documents",
+      "C. A type of network cable",
+      "D. A package for designing graphics"
+    ],
+    "answer": "A",
+    "topic": "Operating System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["A. MS Word", "B. MS Windows", "C. MS Excel", "D. CorelDraw"],
+    "answer": "B",
+    "topic": "Operating System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "An operating system with a graphical user interface allows users to interact using:",
+    "options": [
+      "A. Only typed commands",
+      "B. Punched cards only",
+      "C. Icons and menus",
+      "D. Switches only"
+    ],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "MS-DOS is an example of an operating system that uses a:",
+    "options": [
+      "A. Graphical user interface",
+      "B. Touch screen interface",
+      "C. Voice interface",
+      "D. Command line interface"
+    ],
+    "answer": "D",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "One function of an operating system is to:",
+    "options": [
+      "A. Manage memory and file systems",
+      "B. Design web pages",
+      "C. Create spreadsheets",
+      "D. Edit photographs"
+    ],
+    "answer": "A",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "A text (character) based interface differs from a GUI because it requires users to:",
+    "options": [
+      "A. Click icons on screen",
+      "B. Type commands at a prompt",
+      "C. Use a touch screen",
+      "D. Use voice commands"
+    ],
+    "answer": "B",
+    "topic": "Operating System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is an example of a command line operating system?",
+    "options": ["A. MS Windows", "B. Linux desktop", "C. UNIX", "D. Mac OS X"],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Word processing is best defined as the:",
+    "options": [
+      "A. Calculation of figures in tables",
+      "B. Design of graphic images",
+      "C. Management of databases",
+      "D. Creation and editing of text documents"
+    ],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is an example of word processing software?",
+    "options": ["A. MS Word", "B. MS Excel", "C. MS Access", "D. CorelDraw"],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "One use of word processing is in:",
+    "options": [
+      "A. Designing logos",
+      "B. Preparing letters and reports",
+      "C. Managing database records",
+      "D. Performing calculations"
+    ],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "The operation of storing a word processing document permanently is called:",
+    "options": ["A. Printing", "B. Editing", "C. Saving", "D. Deleting"],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Retrieving a word processing document means:",
+    "options": [
+      "A. Creating a new blank document",
+      "B. Printing the document",
+      "C. Deleting the document",
+      "D. Opening a previously saved document"
+    ],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Exiting a word processing program means:",
+    "options": [
+      "A. Closing the application",
+      "B. Saving the document",
+      "C. Opening a new file",
+      "D. Printing the file"
+    ],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "A spreadsheet is best described as software used to:",
+    "options": [
+      "A. Create text documents",
+      "B. Organise data in rows and columns",
+      "C. Design graphic images",
+      "D. Manage presentations"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is an example of a spreadsheet application?",
+    "options": ["A. MS Word", "B. MS Access", "C. MS Excel", "D. CorelDraw"],
+    "answer": "C",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "A spreadsheet is commonly used for:",
+    "options": [
+      "A. Designing logos",
+      "B. Writing letters",
+      "C. Managing presentations",
+      "D. Performing calculations and analysis"
+    ],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Saving a spreadsheet file allows the user to:",
+    "options": [
+      "A. Store the file for future use",
+      "B. Delete the file permanently",
+      "C. Print the file directly",
+      "D. Close the application immediately"
+    ],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Retrieving a spreadsheet file means:",
+    "options": [
+      "A. Creating a new blank file",
+      "B. Opening a previously saved file",
+      "C. Deleting the file",
+      "D. Printing the file"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "A database management system is best defined as software used to:",
+    "options": [
+      "A. Create text documents",
+      "B. Perform spreadsheet calculations",
+      "C. Create and manage databases",
+      "D. Design graphic images"
+    ],
+    "answer": "C",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is an example of a database management package?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. CorelDraw",
+      "D. Microsoft Access"
+    ],
+    "answer": "D",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "One use of a database management system is to:",
+    "options": [
+      "A. Store and retrieve records",
+      "B. Design logos",
+      "C. Create slides",
+      "D. Perform arithmetic calculations only"
+    ],
+    "answer": "A",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "Creating a database file involves:",
+    "options": [
+      "A. Printing the database",
+      "B. Defining its structure and fields",
+      "C. Deleting all records",
+      "D. Formatting the monitor"
+    ],
+    "answer": "B",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "A presentation package is best described as software used to:",
+    "options": [
+      "A. Create text documents",
+      "B. Perform calculations",
+      "C. Create and deliver slide presentations",
+      "D. Manage databases"
+    ],
+    "answer": "C",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is an example of a presentation package?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. MS Access",
+      "D. MS PowerPoint"
+    ],
+    "answer": "D",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "A single page of a presentation is called a:",
+    "options": ["A. Slide", "B. Sheet", "C. Cell", "D. Record"],
+    "answer": "A",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "Saving a presentation file allows the user to:",
+    "options": [
+      "A. Delete the presentation",
+      "B. Store the presentation for future use",
+      "C. Print the presentation",
+      "D. Close the application"
+    ],
+    "answer": "B",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "Web design packages are software used to:",
+    "options": [
+      "A. Perform calculations",
+      "B. Manage databases",
+      "C. Create and edit web pages",
+      "D. Print documents"
+    ],
+    "answer": "C",
+    "topic": "Web Design Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is a component of a web design package?",
+    "options": [
+      "A. Spreadsheet formulas",
+      "B. Database records",
+      "C. Presentation slides",
+      "D. HTML editor"
+    ],
+    "answer": "D",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is an example of a web design package?",
+    "options": [
+      "A. Adobe Dreamweaver",
+      "B. MS Excel",
+      "C. MS Access",
+      "D. CorelDraw"
+    ],
+    "answer": "A",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "One use of a web design package is to:",
+    "options": [
+      "A. Perform calculations",
+      "B. Create and maintain websites",
+      "C. Manage databases",
+      "D. Create slides"
+    ],
+    "answer": "B",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "Graphics packages are software used to:",
+    "options": [
+      "A. Create text documents",
+      "B. Perform calculations",
+      "C. Create and edit images",
+      "D. Manage databases"
+    ],
+    "answer": "C",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is an example of a graphics package?",
+    "options": ["A. MS Word", "B. MS Excel", "C. MS Access", "D. CorelDraw"],
+    "answer": "D",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "One use of a graphics package is to:",
+    "options": [
+      "A. Design logos and banners",
+      "B. Perform calculations",
+      "C. Manage databases",
+      "D. Create presentations"
+    ],
+    "answer": "A",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "General cleaning of a computer involves:",
+    "options": [
+      "A. Reinstalling the operating system",
+      "B. Removing dust and dirt from components",
+      "C. Replacing the motherboard",
+      "D. Formatting the hard disk"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "A UPS is used to:",
+    "options": [
+      "A. Increase the storage capacity",
+      "B. Speed up the processor",
+      "C. Provide backup power during outages",
+      "D. Print documents faster"
+    ],
+    "answer": "C",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Cleaning the DVD drive lens is an example of:",
+    "options": [
+      "A. Software maintenance",
+      "B. Network maintenance",
+      "C. Data recovery",
+      "D. Hardware maintenance"
+    ],
+    "answer": "D",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "Software maintenance includes:",
+    "options": [
+      "A. Updating and repairing software",
+      "B. Cleaning the keyboard",
+      "C. Replacing the battery",
+      "D. Dusting the monitor"
+    ],
+    "answer": "A",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Data recovery after a computer crash involves:",
+    "options": [
+      "A. Deleting all files",
+      "B. Restoring lost data from backups",
+      "C. Formatting the hard disk",
+      "D. Replacing the monitor"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "Computer room management ethics include:",
+    "options": [
+      "A. Eating and drinking near computers",
+      "B. Touching exposed wires",
+      "C. Keeping the room clean and orderly",
+      "D. Removing labels from devices"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "A laboratory rule for computer use is to:",
+    "options": [
+      "A. Install unauthorised software",
+      "B. Remove components from computers",
+      "C. Share passwords freely",
+      "D. Report faults to the technician"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Computer ethics is concerned with:",
+    "options": [
+      "A. Responsible use of computers",
+      "B. Building computer hardware",
+      "C. Designing network cables",
+      "D. Printing documents"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "A safety measure in the computer room is to:",
+    "options": [
+      "A. Keep liquids near computers",
+      "B. Keep liquids away from computers",
+      "C. Eat while typing",
+      "D. Block air vents"
+    ],
+    "answer": "B",
+    "topic": "Safety Measures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Proper sitting arrangement at a computer helps to:",
+    "options": [
+      "A. Increase the processor speed",
+      "B. Increase storage capacity",
+      "C. Prevent posture-related discomfort",
+      "D. Improve Internet speed"
+    ],
+    "answer": "C",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "Maintaining a dust-free computer room helps to:",
+    "options": [
+      "A. Increase the cost of maintenance",
+      "B. Speed up printing",
+      "C. Increase file size",
+      "D. Protect computer components from damage"
+    ],
+    "answer": "D",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "The monitor should be positioned at:",
+    "options": [
+      "A. A comfortable viewing height",
+      "B. A very high level",
+      "C. A very low level",
+      "D. The edge of a table"
+    ],
+    "answer": "A",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is a profession in computing?",
+    "options": ["A. Bricklayer", "B. Programmer", "C. Farmer", "D. Tailor"],
+    "answer": "B",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "A database administrator is responsible for:",
+    "options": [
+      "A. Designing web pages",
+      "B. Repairing hardware",
+      "C. Managing and securing databases",
+      "D. Writing fiction"
+    ],
+    "answer": "C",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "A quality of a good data processing professional is:",
+    "options": [
+      "A. Carelessness",
+      "B. Dishonesty",
+      "C. Laziness",
+      "D. Accuracy and integrity"
+    ],
+    "answer": "D",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "A computer professional body in Nigeria is the:",
+    "options": [
+      "A. Nigerian Computer Society",
+      "B. Nigerian Bar Association",
+      "C. Nigerian Medical Association",
+      "D. Nigerian Society of Engineers"
+    ],
+    "answer": "A",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "A computer virus is best described as a:",
+    "options": [
+      "A. Hardware fault in the CPU",
+      "B. Malicious program that damages files",
+      "C. Physical component of the motherboard",
+      "D. Type of network cable"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "A common signal of virus infection on a computer is:",
+    "options": [
+      "A. Faster processing speed",
+      "B. Increased storage capacity",
+      "C. Frequent system crashes",
+      "D. Louder speaker output"
+    ],
+    "answer": "C",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "One source of computer virus infection is:",
+    "options": [
+      "A. Properly scanned flash drives",
+      "B. Updated antivirus software",
+      "C. Safe websites",
+      "D. Infected email attachments"
+    ],
+    "answer": "D",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "A method of preventing computer virus infection is to:",
+    "options": [
+      "A. Use updated antivirus software",
+      "B. Disable all security software",
+      "C. Share infected disks",
+      "D. Open unknown attachments"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Deleting a virus from an infected computer is usually done using:",
+    "options": [
+      "A. A printer",
+      "B. Antivirus software",
+      "C. A scanner",
+      "D. A speaker"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "A relational database organises data in:",
+    "options": ["A. Trees", "B. Graphs", "C. Tables", "D. Lists"],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "In a relational database, a primary key is used to:",
+    "options": [
+      "A. Sort records",
+      "B. Delete records",
+      "C. Print records",
+      "D. Uniquely identify each record"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "A foreign key in a relational database is used to:",
+    "options": [
+      "A. Link tables together",
+      "B. Delete records",
+      "C. Sort records",
+      "D. Encrypt records"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "In a database, an entity refers to a:",
+    "options": [
+      "A. Type of printer",
+      "B. Real-world object or concept",
+      "C. Network cable",
+      "D. Software package"
+    ],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "An attribute in a relational database describes a:",
+    "options": [
+      "A. Type of network",
+      "B. Type of printer",
+      "C. Property of an entity",
+      "D. Type of cable"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "A query in a database is used to:",
+    "options": [
+      "A. Print all records",
+      "B. Delete the database",
+      "C. Create a new database",
+      "D. Retrieve specific records"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "A report in a database is used to:",
+    "options": [
+      "A. Present data in a formatted form",
+      "B. Create new tables",
+      "C. Delete records",
+      "D. Encrypt data"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "File organisation is best defined as the:",
+    "options": [
+      "A. Deletion of files from a disk",
+      "B. Arrangement of records in a file",
+      "C. Printing of files on paper",
+      "D. Encryption of files"
+    ],
+    "answer": "B",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is a type of file organisation?",
+    "options": ["A. Printing", "B. Scanning", "C. Sequential", "D. Copying"],
+    "answer": "C",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "In random file organisation, records are accessed:",
+    "options": [
+      "A. In the order stored",
+      "B. Only sequentially",
+      "C. Only after closing the file",
+      "D. Directly without reading preceding records"
+    ],
+    "answer": "D",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "Sequential file organisation means records are accessed:",
+    "options": [
+      "A. In the order in which they are stored",
+      "B. In any random order",
+      "C. Only by index",
+      "D. Only by direct access"
+    ],
+    "answer": "A",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "Data security is best defined as the:",
+    "options": [
+      "A. Deletion of data from a disk",
+      "B. Protection of data from unauthorised access",
+      "C. Printing of data on paper",
+      "D. Copying of data to a flash disk"
+    ],
+    "answer": "B",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Access control in a database is used to:",
+    "options": [
+      "A. Speed up the processor",
+      "B. Increase storage capacity",
+      "C. Restrict who can use certain data",
+      "D. Print documents faster"
+    ],
+    "answer": "C",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "Data encryption is a process used to:",
+    "options": [
+      "A. Compress files",
+      "B. Delete files",
+      "C. Print files",
+      "D. Convert data into an unreadable form"
+    ],
+    "answer": "D",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The role of a database administrator includes:",
+    "options": [
+      "A. Managing and securing the database",
+      "B. Designing web pages",
+      "C. Repairing hardware",
+      "D. Writing fiction"
+    ],
+    "answer": "A",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "A parallel database is one in which:",
+    "options": [
+      "A. Data is stored on a single disk",
+      "B. Multiple processors work on data simultaneously",
+      "C. Data is printed on paper",
+      "D. Data is deleted automatically"
+    ],
+    "answer": "B",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "A distributed database stores data:",
+    "options": [
+      "A. In a single file only",
+      "B. On a single disk only",
+      "C. Across multiple locations or sites",
+      "D. In a single table only"
+    ],
+    "answer": "C",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "One significance of storing data in a distributed database is:",
+    "options": [
+      "A. Increased centralisation",
+      "B. Reduced data availability",
+      "C. Increased network speed only",
+      "D. Improved access by multiple users"
+    ],
+    "answer": "D",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "The number system that uses ten digits is called:",
+    "options": ["A. Decimal", "B. Binary", "C. Octal", "D. Hexadecimal"],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "The number system that uses sixteen digits is called:",
+    "options": ["A. Decimal", "B. Hexadecimal", "C. Octal", "D. Binary"],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "The number system is important to computing because it:",
+    "options": [
+      "A. Increases the size of the monitor",
+      "B. Represents data electronically",
+      "C. Speeds up the printer",
+      "D. Reduces the cost of hardware"
+    ],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "The earliest generation of computers had which feature?",
+    "options": [
+      "A. High speed and low heat",
+      "B. Small size and low cost",
+      "C. Large size and high heat",
+      "D. Portable and battery-powered"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "The fifth generation of computers is characterised by:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Transistors",
+      "C. Integrated circuits",
+      "D. Parallel processing and AI"
+    ],
+    "answer": "D",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is an example of numeric data?",
+    "options": [
+      "A. Names of students",
+      "B. Scores of students",
+      "C. Addresses of students",
+      "D. Photographs of students"
+    ],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "The conversion of data into information requires:",
+    "options": [
+      "A. Storage only",
+      "B. Printing only",
+      "C. Processing",
+      "D. Scanning only"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Which of the following is an example of alphanumeric data?",
+    "options": [
+      "A. 12345",
+      "B. Student name only",
+      "C. Course code CSC101",
+      "D. A photograph"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Digitisation is important because it allows:",
+    "options": [
+      "A. Analog signals to remain analog",
+      "B. Data to be processed by computers",
+      "C. Data to be printed only",
+      "D. Data to be stored on paper"
+    ],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "A supercomputer is classified mainly by its:",
+    "options": [
+      "A. Small size",
+      "B. Low cost",
+      "C. High processing power",
+      "D. Portability"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "A microcomputer is designed for use by:",
+    "options": [
+      "A. Governments only",
+      "B. Large organisations only",
+      "C. Universities only",
+      "D. Individual users"
+    ],
+    "answer": "D",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "A minicomputer is larger than a:",
+    "options": [
+      "A. Microcomputer",
+      "B. Mainframe computer",
+      "C. Supercomputer",
+      "D. Hybrid computer"
+    ],
+    "answer": "A",
+    "topic": "Basic Computing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "A mainframe computer is typically used by:",
+    "options": [
+      "A. A single student",
+      "B. Large organisations for bulk processing",
+      "C. A single family",
+      "D. A small shop"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "ICT has influenced healthcare mainly through:",
+    "options": [
+      "A. Manual record keeping",
+      "B. Paper prescriptions only",
+      "C. Telemedicine and health records",
+      "D. Face-to-face meetings only"
+    ],
+    "answer": "C",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "E-government is an application of ICT in:",
+    "options": [
+      "A. Farming only",
+      "B. Construction only",
+      "C. Mining only",
+      "D. Governance and public services"
+    ],
+    "answer": "D",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "ICT has improved banking through:",
+    "options": [
+      "A. Electronic funds transfer",
+      "B. Manual ledger keeping only",
+      "C. Physical cash counting only",
+      "D. Paper receipts only"
+    ],
+    "answer": "A",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "One challenge of ICT adoption in society is:",
+    "options": [
+      "A. Increased efficiency",
+      "B. High cost of equipment",
+      "C. Faster communication",
+      "D. Improved data storage"
+    ],
+    "answer": "B",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "A microphone is an example of a:",
+    "options": [
+      "A. Output device",
+      "B. Storage device",
+      "C. Input device",
+      "D. Processing device"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "A speaker is an example of a:",
+    "options": [
+      "A. Input device",
+      "B. Storage device",
+      "C. Processing device",
+      "D. Output device"
+    ],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "A joystick is commonly used for:",
+    "options": [
+      "A. Playing computer games",
+      "B. Printing documents",
+      "C. Scanning images",
+      "D. Storing files"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "ROM is best described as memory that:",
+    "options": [
+      "A. Loses data when power is off",
+      "B. Holds instructions permanently",
+      "C. Is used as temporary storage",
+      "D. Can be written to frequently"
+    ],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "RAM is best described as memory that is:",
+    "options": [
+      "A. Permanent and read-only",
+      "B. Used only for backup",
+      "C. Volatile and temporary",
+      "D. Slower than a hard disk"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["A. RAM", "B. ROM", "C. Cache", "D. Hard disk"],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "The CPU is made up of the control unit and the:",
+    "options": [
+      "A. Arithmetic and logic unit",
+      "B. Monitor",
+      "C. Keyboard",
+      "D. Printer"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Data collection in information processing involves:",
+    "options": [
+      "A. Printing results",
+      "B. Gathering raw facts",
+      "C. Deleting files",
+      "D. Encrypting data"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "Data processing in information processing involves:",
+    "options": [
+      "A. Storing files only",
+      "B. Printing files only",
+      "C. Transforming data into information",
+      "D. Deleting files"
+    ],
+    "answer": "C",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Storage in information processing refers to:",
+    "options": [
+      "A. Deleting data permanently",
+      "B. Printing data on paper",
+      "C. Encrypting data",
+      "D. Keeping data for future use"
+    ],
+    "answer": "D",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Information transmission is important because it allows:",
+    "options": [
+      "A. Communication between people",
+      "B. Deletion of data",
+      "C. Encryption of files",
+      "D. Formatting of disks"
+    ],
+    "answer": "A",
+    "topic": "Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 160,
+    "question": "The GSM network is an example of information transmission by:",
+    "options": [
+      "A. Visual means only",
+      "B. Audio-visual means",
+      "C. Print means only",
+      "D. Audio means only"
+    ],
+    "answer": "B",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is an electronic medium of information transmission?",
+    "options": ["A. Newspaper", "B. Magazine", "C. Television", "D. Poster"],
+    "answer": "C",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Information transmission by radio is classified as:",
+    "options": [
+      "A. Print medium",
+      "B. Visual medium",
+      "C. Audio-visual medium",
+      "D. Audio medium"
+    ],
+    "answer": "D",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is a print medium of information transmission?",
+    "options": ["A. Magazine", "B. Radio", "C. Television", "D. Telephone"],
+    "answer": "A",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "An Internet browser is used to:",
+    "options": [
+      "A. Design databases",
+      "B. Access and display web pages",
+      "C. Perform calculations",
+      "D. Manage files"
+    ],
+    "answer": "B",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Which of the following is a benefit of the Internet?",
+    "options": [
+      "A. Reduced communication",
+      "B. Limited access to information",
+      "C. Access to online educational resources",
+      "D. Increased isolation"
+    ],
+    "answer": "C",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "One abuse of the Internet is:",
+    "options": [
+      "A. Online research",
+      "B. Email communication",
+      "C. E-learning",
+      "D. Spreading false information"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "A firewall helps to:",
+    "options": [
+      "A. Block unauthorised network access",
+      "B. Increase storage capacity",
+      "C. Speed up the processor",
+      "D. Print documents faster"
+    ],
+    "answer": "A",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "An operating system provides a user interface that allows users to:",
+    "options": [
+      "A. Repair hardware",
+      "B. Interact with the computer",
+      "C. Design web pages",
+      "D. Create databases"
+    ],
+    "answer": "B",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "A GUI operating system uses:",
+    "options": [
+      "A. Only typed commands",
+      "B. Punched cards only",
+      "C. Icons, windows and menus",
+      "D. Switches only"
+    ],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "An operating system manages computer files by:",
+    "options": [
+      "A. Printing all files",
+      "B. Deleting all files",
+      "C. Encrypting all files",
+      "D. Organising and storing files"
+    ],
+    "answer": "D",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "A word processor is useful in offices for:",
+    "options": [
+      "A. Preparing memos and reports",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "Opening MS Word involves:",
+    "options": [
+      "A. Deleting a document",
+      "B. Loading the word processing program",
+      "C. Printing a document",
+      "D. Formatting a disk"
+    ],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Editing a word processing document involves:",
+    "options": [
+      "A. Printing the document",
+      "B. Saving the document",
+      "C. Making changes to text",
+      "D. Deleting the document"
+    ],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is an example of word processing software?",
+    "options": [
+      "A. MS Excel",
+      "B. MS Access",
+      "C. CorelDraw",
+      "D. WordPerfect"
+    ],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "A spreadsheet cell is identified by its:",
+    "options": [
+      "A. Row and column reference",
+      "B. Colour and size",
+      "C. Font and style",
+      "D. File and folder name"
+    ],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "The SUM function in a spreadsheet is used to:",
+    "options": [
+      "A. Find the average",
+      "B. Add a range of cells",
+      "C. Find the maximum",
+      "D. Count cells"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "A collection of worksheets in a spreadsheet is called a:",
+    "options": ["A. Database", "B. Document", "C. Workbook", "D. Presentation"],
+    "answer": "C",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "Loading a spreadsheet application means:",
+    "options": [
+      "A. Deleting the spreadsheet",
+      "B. Printing the spreadsheet",
+      "C. Formatting the disk",
+      "D. Starting the spreadsheet program"
+    ],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "In a database, a record is best described as a:",
+    "options": [
+      "A. Complete set of fields about one entity",
+      "B. Single character in a table",
+      "C. Collection of related tables",
+      "D. Type of primary key"
+    ],
+    "answer": "A",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "In a database, a field refers to a:",
+    "options": [
+      "A. Complete set of records",
+      "B. Single piece of information about an entity",
+      "C. Collection of related tables",
+      "D. Type of query language"
+    ],
+    "answer": "B",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Which of the following is an example of a database application?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. Microsoft Access",
+      "D. CorelDraw"
+    ],
+    "answer": "C",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "Saving a database file allows the user to:",
+    "options": [
+      "A. Delete the database",
+      "B. Print the database",
+      "C. Format the database",
+      "D. Store the database for future use"
+    ],
+    "answer": "D",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "A presentation package is useful in schools for:",
+    "options": [
+      "A. Preparing teaching slides",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "In PowerPoint, adding a new slide is done through the:",
+    "options": [
+      "A. Design tab",
+      "B. Home tab",
+      "C. Animation tab",
+      "D. Review tab"
+    ],
+    "answer": "B",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "Running a slide show in PowerPoint allows a presentation to be:",
+    "options": [
+      "A. Printed on paper",
+      "B. Converted to a spreadsheet",
+      "C. Displayed full screen to an audience",
+      "D. Deleted from the disk"
+    ],
+    "answer": "C",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is an example of a presentation package?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. MS Access",
+      "D. MS PowerPoint"
+    ],
+    "answer": "D",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "An HTML editor is a component of a:",
+    "options": [
+      "A. Web design package",
+      "B. Spreadsheet package",
+      "C. Database package",
+      "D. Presentation package"
+    ],
+    "answer": "A",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "A web design package is used to:",
+    "options": [
+      "A. Perform calculations",
+      "B. Create and edit web pages",
+      "C. Manage databases",
+      "D. Create presentations"
+    ],
+    "answer": "B",
+    "topic": "Web Design Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "Which of the following is an example of a web design package?",
+    "options": [
+      "A. MS Excel",
+      "B. MS Access",
+      "C. Adobe Dreamweaver",
+      "D. MS Word"
+    ],
+    "answer": "C",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The use of a web design package is mainly in:",
+    "options": [
+      "A. Word processing",
+      "B. Spreadsheet analysis",
+      "C. Database management",
+      "D. Website development"
+    ],
+    "answer": "D",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "CorelDraw is an example of a:",
+    "options": [
+      "A. Graphics package",
+      "B. Word processor",
+      "C. Spreadsheet package",
+      "D. Database package"
+    ],
+    "answer": "A",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "A graphics package is useful for:",
+    "options": [
+      "A. Performing calculations",
+      "B. Designing and editing images",
+      "C. Managing databases",
+      "D. Writing reports"
+    ],
+    "answer": "B",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "Which of the following is an example of a graphics package?",
+    "options": ["A. MS Word", "B. MS Excel", "C. Photoshop", "D. MS Access"],
+    "answer": "C",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "question": "Maintenance of a computer system helps to:",
+    "options": [
+      "A. Increase the cost of repair",
+      "B. Reduce the lifespan of devices",
+      "C. Slow down processing",
+      "D. Keep the system in good working condition"
+    ],
+    "answer": "D",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Battery charging and replacement is part of:",
+    "options": [
+      "A. Portable system maintenance",
+      "B. Software maintenance",
+      "C. Network maintenance",
+      "D. Data recovery"
+    ],
+    "answer": "A",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A computer crash is best described as:",
+    "options": [
+      "A. A planned shutdown",
+      "B. A sudden system failure",
+      "C. A software update",
+      "D. A hardware upgrade"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Data integrity means that data is:",
+    "options": [
+      "A. Deleted permanently",
+      "B. Encrypted permanently",
+      "C. Accurate and consistent",
+      "D. Printed on paper"
+    ],
+    "answer": "C",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Laboratory rules and regulations are important because they:",
+    "options": [
+      "A. Encourage carelessness",
+      "B. Increase equipment damage",
+      "C. Allow unauthorised access",
+      "D. Promote responsible computer use"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Responsible use of computers includes:",
+    "options": [
+      "A. Respecting other users and data",
+      "B. Installing unauthorised software",
+      "C. Sharing passwords freely",
+      "D. Removing labels from devices"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "Computer room management ethics include:",
+    "options": [
+      "A. Eating near computers",
+      "B. Keeping the room clean and orderly",
+      "C. Touching exposed wires",
+      "D. Drinking near keyboards"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Proper illumination of the computer room helps to:",
+    "options": [
+      "A. Increase the cost of electricity",
+      "B. Increase the processor speed",
+      "C. Reduce eye strain",
+      "D. Increase file size"
+    ],
+    "answer": "C",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Positioning the keyboard and mouse properly helps to prevent:",
+    "options": [
+      "A. Virus infections",
+      "B. Data loss",
+      "C. Network failure",
+      "D. Repetitive strain injuries"
+    ],
+    "answer": "D",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The CPU should be positioned so that it is:",
+    "options": [
+      "A. Well ventilated and stable",
+      "B. Covered with cloth",
+      "C. Placed near liquids",
+      "D. Blocked from airflow"
+    ],
+    "answer": "A",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "Keeping liquids away from computers helps to prevent:",
+    "options": [
+      "A. Faster processing",
+      "B. Electrical shock and damage",
+      "C. Increased storage",
+      "D. Better network speed"
+    ],
+    "answer": "B",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "A programmer is responsible for:",
+    "options": [
+      "A. Designing hardware",
+      "B. Repairing printers",
+      "C. Writing and testing computer programs",
+      "D. Managing office files"
+    ],
+    "answer": "C",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "A network administrator is responsible for:",
+    "options": [
+      "A. Writing fiction",
+      "B. Designing logos",
+      "C. Repairing monitors",
+      "D. Managing computer networks"
+    ],
+    "answer": "D",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "A computer professional body in Nigeria is the:",
+    "options": [
+      "A. Computer Professionals Registration Council",
+      "B. Nigerian Bar Association",
+      "C. Nigerian Medical Association",
+      "D. Nigerian Society of Engineers"
+    ],
+    "answer": "A",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "A good data processing professional should be:",
+    "options": [
+      "A. Careless",
+      "B. Honest and accurate",
+      "C. Dishonest",
+      "D. Lazy"
+    ],
+    "answer": "B",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 209,
+    "question": "A worm is a type of:",
+    "options": [
+      "A. Hardware",
+      "B. Network cable",
+      "C. Malicious program",
+      "D. Storage device"
+    ],
+    "answer": "C",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "A Trojan horse is best described as malware that:",
+    "options": [
+      "A. Spreads through networks automatically",
+      "B. Physically damages hardware",
+      "C. Increases processing speed",
+      "D. Disguises itself as useful software"
+    ],
+    "answer": "D",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "One destructive effect of a virus on a computer is:",
+    "options": [
+      "A. Loss of files and data",
+      "B. Faster processing speed",
+      "C. Increased storage capacity",
+      "D. Louder speaker output"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "Detecting a virus on a computer is usually done by:",
+    "options": [
+      "A. Printing documents",
+      "B. Running antivirus scans",
+      "C. Formatting the monitor",
+      "D. Replacing the keyboard"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "A relational database table is made up of:",
+    "options": [
+      "A. Only rows",
+      "B. Only columns",
+      "C. Rows and columns",
+      "D. Trees and graphs"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "Creating a relationship between two tables requires a:",
+    "options": [
+      "A. Printer and scanner",
+      "B. Monitor and keyboard",
+      "C. Router and switch",
+      "D. Primary key and foreign key"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "A form in a database is used to:",
+    "options": [
+      "A. Enter and display data easily",
+      "B. Delete the database",
+      "C. Encrypt data",
+      "D. Create tables"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "SQL is an example of a:",
+    "options": [
+      "A. Type of printer",
+      "B. Query language",
+      "C. Network cable",
+      "D. Storage device"
+    ],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Query by example (QBE) is used in databases to:",
+    "options": [
+      "A. Delete the database",
+      "B. Encrypt files",
+      "C. Retrieve records using sample criteria",
+      "D. Print tables"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "File organisation methods are compared mainly on their:",
+    "options": [
+      "A. Colour and size",
+      "B. Price and brand",
+      "C. Age and origin",
+      "D. Access speed and storage method"
+    ],
+    "answer": "D",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "Indexed file organisation uses an index to:",
+    "options": [
+      "A. Locate records quickly",
+      "B. Store records sequentially only",
+      "C. Delete records automatically",
+      "D. Back up records regularly"
+    ],
+    "answer": "A",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "Random file organisation allows records to be accessed:",
+    "options": [
+      "A. In the order stored",
+      "B. Directly without reading preceding records",
+      "C. Only sequentially",
+      "D. Only after closing the file"
+    ],
+    "answer": "B",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Database access control ensures that:",
+    "options": [
+      "A. All users can access all data",
+      "B. No user can access any data",
+      "C. Only authorised users access data",
+      "D. Data is printed on paper"
+    ],
+    "answer": "C",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The importance of securing data is to prevent:",
+    "options": [
+      "A. Faster processing",
+      "B. Increased storage",
+      "C. Better network speed",
+      "D. Unauthorised access and loss"
+    ],
+    "answer": "D",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Data encryption converts data into:",
+    "options": [
+      "A. An unreadable form",
+      "B. A printed form",
+      "C. A larger file",
+      "D. A smaller file"
+    ],
+    "answer": "A",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "A database administrator should ensure that:",
+    "options": [
+      "A. Data is deleted regularly",
+      "B. Data is backed up and secure",
+      "C. Data is printed daily",
+      "D. Data is shared publicly"
+    ],
+    "answer": "B",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "A parallel database improves performance by:",
+    "options": [
+      "A. Using a single processor",
+      "B. Reducing storage capacity",
+      "C. Using multiple processors simultaneously",
+      "D. Printing more documents"
+    ],
+    "answer": "C",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "A distributed database management system stores data:",
+    "options": [
+      "A. In one file only",
+      "B. On one disk only",
+      "C. In one table only",
+      "D. Across multiple sites"
+    ],
+    "answer": "D",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 227,
+    "question": "One advantage of a distributed database is:",
+    "options": [
+      "A. Improved access by multiple users",
+      "B. Reduced data availability",
+      "C. Increased centralisation",
+      "D. Slower access"
+    ],
+    "answer": "A",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "Storing data in a distributed database can improve:",
+    "options": [
+      "A. Printer speed",
+      "B. Data availability",
+      "C. Monitor brightness",
+      "D. Keyboard response"
+    ],
+    "answer": "B",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "The binary number system is important in computing because:",
+    "options": [
+      "A. It uses ten digits",
+      "B. It is easier to print",
+      "C. It represents two states on and off",
+      "D. It uses letters"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "The hexadecimal number system uses:",
+    "options": [
+      "A. Two digits",
+      "B. Eight digits",
+      "C. Ten digits",
+      "D. Sixteen digits"
+    ],
+    "answer": "D",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "The octal number system uses:",
+    "options": [
+      "A. Eight digits",
+      "B. Two digits",
+      "C. Ten digits",
+      "D. Sixteen digits"
+    ],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "The first generation of computers was characterised by:",
+    "options": [
+      "A. Small size",
+      "B. Large size and high heat",
+      "C. Low cost",
+      "D. High portability"
+    ],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "The fourth generation of computers was characterised by:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Transistors",
+      "C. Microprocessors",
+      "D. Artificial intelligence"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "Which of the following is an example of data?",
+    "options": [
+      "A. A summary report",
+      "B. A chart of averages",
+      "C. A printed result",
+      "D. Raw scores of students"
+    ],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "A list of student scores is an example of:",
+    "options": ["A. Data", "B. Information", "C. Knowledge", "D. Wisdom"],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "A summary report of student performance is an example of:",
+    "options": ["A. Data", "B. Information", "C. Input", "D. Binary"],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "Digitalisation of data involves:",
+    "options": [
+      "A. Printing data on paper",
+      "B. Storing data in cabinets",
+      "C. Converting data into digital form",
+      "D. Deleting data permanently"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Which of the following is a type of data?",
+    "options": [
+      "A. Text data",
+      "B. Alpha data",
+      "C. Visual data",
+      "D. Audio data"
+    ],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "A mainframe computer is designed for:",
+    "options": [
+      "A. Personal use only",
+      "B. Large-scale data processing",
+      "C. Single-user operations",
+      "D. Simple calculations"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "A general-purpose computer is designed to:",
+    "options": [
+      "A. Perform only one task",
+      "B. Perform only calculations",
+      "C. Perform many different tasks",
+      "D. Perform only printing"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "A special-purpose computer is designed to:",
+    "options": [
+      "A. Perform many different tasks",
+      "B. Perform calculations only",
+      "C. Perform printing only",
+      "D. Perform one specific task"
+    ],
+    "answer": "D",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "ICT has influenced agriculture through:",
+    "options": [
+      "A. Precision farming and market information",
+      "B. Manual weeding only",
+      "C. Paper record keeping only",
+      "D. Face-to-face meetings only"
+    ],
+    "answer": "A",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "ICT has influenced transportation through:",
+    "options": [
+      "A. Manual ticketing",
+      "B. Online booking and GPS navigation",
+      "C. Paper maps only",
+      "D. Face-to-face bookings only"
+    ],
+    "answer": "B",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "ICT has influenced entertainment through:",
+    "options": [
+      "A. Manual games only",
+      "B. Printed posters only",
+      "C. Streaming and digital media",
+      "D. Face-to-face shows only"
+    ],
+    "answer": "C",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "A scanner is used in data processing to:",
+    "options": [
+      "A. Print documents",
+      "B. Store documents",
+      "C. Process documents",
+      "D. Convert documents into digital form"
+    ],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "A printer is used in data processing to:",
+    "options": [
+      "A. Produce hard copies of information",
+      "B. Store information permanently",
+      "C. Process information",
+      "D. Input information"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "A mouse is used in data processing to:",
+    "options": [
+      "A. Print documents",
+      "B. Select and manipulate items on screen",
+      "C. Store files",
+      "D. Scan images"
+    ],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "A keyboard is used in data processing to:",
+    "options": [
+      "A. Display output",
+      "B. Print documents",
+      "C. Enter data and commands",
+      "D. Store files"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "A monitor is used in data processing to:",
+    "options": [
+      "A. Store data",
+      "B. Input data",
+      "C. Print data",
+      "D. Display processed information"
+    ],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "The step in information processing that follows data collection is:",
+    "options": [
+      "A. Data processing",
+      "B. Output",
+      "C. Storage",
+      "D. Reporting"
+    ],
+    "answer": "A",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "The step in information processing that follows data processing is:",
+    "options": [
+      "A. Data collection",
+      "B. Storage or output",
+      "C. Input",
+      "D. Data capture"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "The step in information processing that follows storage is:",
+    "options": [
+      "A. Data collection",
+      "B. Data capture",
+      "C. Output or reporting",
+      "D. Input"
+    ],
+    "answer": "C",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "Information transmission by newspaper is classified as:",
+    "options": [
+      "A. Audio medium",
+      "B. Audio-visual medium",
+      "C. Electronic medium",
+      "D. Visual medium"
+    ],
+    "answer": "D",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Information transmission by radio is classified as:",
+    "options": [
+      "A. Audio medium",
+      "B. Visual medium",
+      "C. Audio-visual medium",
+      "D. Print medium"
+    ],
+    "answer": "A",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "Information transmission by television is classified as:",
+    "options": [
+      "A. Audio medium only",
+      "B. Audio-visual medium",
+      "C. Visual medium only",
+      "D. Print medium"
+    ],
+    "answer": "B",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "The Internet is important in education because it provides:",
+    "options": [
+      "A. Limited information",
+      "B. Slower communication",
+      "C. Access to online learning resources",
+      "D. Reduced connectivity"
+    ],
+    "answer": "C",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "A benefit of the Internet in business is:",
+    "options": [
+      "A. Reduced customer reach",
+      "B. Slower transactions",
+      "C. Limited advertising",
+      "D. Electronic commerce"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "Internet security is important because it protects against:",
+    "options": [
+      "A. Cyber threats and attacks",
+      "B. Faster processing",
+      "C. Increased storage",
+      "D. Better network speed"
+    ],
+    "answer": "A",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "An example of Internet abuse is:",
+    "options": [
+      "A. Online research",
+      "B. Cyber bullying",
+      "C. E-learning",
+      "D. Email communication"
+    ],
+    "answer": "B",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "A GUI operating system is easier to use because it:",
+    "options": [
+      "A. Requires typed commands",
+      "B. Uses punched cards",
+      "C. Uses icons and menus",
+      "D. Requires no user input"
+    ],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "A command line operating system requires users to:",
+    "options": [
+      "A. Click icons",
+      "B. Use touch screens",
+      "C. Use voice commands",
+      "D. Type commands at a prompt"
+    ],
+    "answer": "D",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "An example of a GUI operating system is:",
+    "options": [
+      "A. MS Windows",
+      "B. MS-DOS",
+      "C. UNIX command line",
+      "D. Linux terminal"
+    ],
+    "answer": "A",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Word processing software is used in education for:",
+    "options": [
+      "A. Designing logos",
+      "B. Preparing assignments and notes",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "The operation of closing MS Word is called:",
+    "options": ["A. Saving", "B. Editing", "C. Exiting", "D. Printing"],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "A word processing document can be retrieved by:",
+    "options": [
+      "A. Printing it",
+      "B. Deleting it",
+      "C. Renaming it",
+      "D. Opening the saved file"
+    ],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "A spreadsheet is useful in schools for:",
+    "options": [
+      "A. Computing student results",
+      "B. Designing logos",
+      "C. Writing letters",
+      "D. Managing presentations"
+    ],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "The AVERAGE function in a spreadsheet is used to:",
+    "options": [
+      "A. Add cells",
+      "B. Find the mean of cells",
+      "C. Find the maximum",
+      "D. Count cells"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "A workbook in a spreadsheet contains:",
+    "options": [
+      "A. Only one cell",
+      "B. Only one row",
+      "C. One or more worksheets",
+      "D. Only one column"
+    ],
+    "answer": "C",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "Exiting a spreadsheet application means:",
+    "options": [
+      "A. Saving the file",
+      "B. Opening a file",
+      "C. Printing the file",
+      "D. Closing the application"
+    ],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "A database management system is used in schools to:",
+    "options": [
+      "A. Manage student records",
+      "B. Design logos",
+      "C. Create slides",
+      "D. Perform calculations only"
+    ],
+    "answer": "A",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "Creating a database table involves defining its:",
+    "options": [
+      "A. Printer and scanner",
+      "B. Fields and data types",
+      "C. Monitor and keyboard",
+      "D. Router and switch"
+    ],
+    "answer": "B",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Retrieving a database file means:",
+    "options": [
+      "A. Creating a new file",
+      "B. Deleting the file",
+      "C. Opening a saved file",
+      "D. Printing the file"
+    ],
+    "answer": "C",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "Exiting a database application means:",
+    "options": [
+      "A. Saving the file",
+      "B. Opening a file",
+      "C. Printing the file",
+      "D. Closing the application"
+    ],
+    "answer": "D",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "A presentation package is useful in business for:",
+    "options": [
+      "A. Preparing sales presentations",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "Exiting a presentation program means:",
+    "options": [
+      "A. Saving the file",
+      "B. Closing the application",
+      "C. Opening a file",
+      "D. Printing the file"
+    ],
+    "answer": "B",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "Retrieving a presentation file means:",
+    "options": [
+      "A. Creating a new file",
+      "B. Deleting the file",
+      "C. Opening a saved file",
+      "D. Printing the file"
+    ],
+    "answer": "C",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "A web design package is used to create:",
+    "options": [
+      "A. Spreadsheets",
+      "B. Databases",
+      "C. Presentations",
+      "D. Websites and web pages"
+    ],
+    "answer": "D",
+    "topic": "Web Design Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "A web design package may include a:",
+    "options": [
+      "A. Code editor and preview tools",
+      "B. Printer and scanner",
+      "C. Router and switch",
+      "D. Monitor and keyboard"
+    ],
+    "answer": "A",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "Graphics packages are used to create:",
+    "options": [
+      "A. Spreadsheets",
+      "B. Images and designs",
+      "C. Databases",
+      "D. Presentations"
+    ],
+    "answer": "B",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "CorelDraw is mainly used for:",
+    "options": [
+      "A. Calculations",
+      "B. Database management",
+      "C. Vector graphics design",
+      "D. Word processing"
+    ],
+    "answer": "C",
+    "topic": "Graphic Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Computer maintenance includes:",
+    "options": [
+      "A. Deleting all files",
+      "B. Formatting the disk",
+      "C. Replacing the monitor",
+      "D. Cleaning and servicing components"
+    ],
+    "answer": "D",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Hardware maintenance includes:",
+    "options": [
+      "A. Cleaning and repairing physical components",
+      "B. Updating software",
+      "C. Removing viruses",
+      "D. Backing up files"
+    ],
+    "answer": "A",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "Software maintenance includes:",
+    "options": [
+      "A. Cleaning the keyboard",
+      "B. Updating and repairing software",
+      "C. Replacing the battery",
+      "D. Dusting the monitor"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Data recovery after a computer crash involves:",
+    "options": [
+      "A. Deleting all files",
+      "B. Formatting the hard disk",
+      "C. Restoring lost data from backups",
+      "D. Replacing the monitor"
+    ],
+    "answer": "C",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Computer room management ethics include:",
+    "options": [
+      "A. Eating and drinking near computers",
+      "B. Touching exposed wires",
+      "C. Removing labels from devices",
+      "D. Keeping the room clean and orderly"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Laboratory rules help to:",
+    "options": [
+      "A. Promote responsible computer use",
+      "B. Encourage carelessness",
+      "C. Increase equipment damage",
+      "D. Allow unauthorised access"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "Responsible computer use includes:",
+    "options": [
+      "A. Installing unauthorised software",
+      "B. Respecting other users and data",
+      "C. Sharing passwords freely",
+      "D. Removing labels from devices"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Proper sitting arrangement at a computer helps to:",
+    "options": [
+      "A. Increase the processor speed",
+      "B. Increase storage capacity",
+      "C. Prevent posture-related discomfort",
+      "D. Improve Internet speed"
+    ],
+    "answer": "C",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Keeping the computer room dust-free helps to:",
+    "options": [
+      "A. Increase the cost of maintenance",
+      "B. Speed up printing",
+      "C. Increase file size",
+      "D. Protect computer components from damage"
+    ],
+    "answer": "D",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "Keeping liquids away from computers helps to prevent:",
+    "options": [
+      "A. Electrical shock and damage",
+      "B. Faster processing",
+      "C. Increased storage",
+      "D. Better network speed"
+    ],
+    "answer": "A",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "A career opportunity in data processing is:",
+    "options": [
+      "A. Farming",
+      "B. Database administration",
+      "C. Tailoring",
+      "D. Bricklaying"
+    ],
+    "answer": "B",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "A quality of a good data processing professional is:",
+    "options": [
+      "A. Carelessness",
+      "B. Laziness",
+      "C. Accuracy and integrity",
+      "D. Dishonesty"
+    ],
+    "answer": "C",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "A computer professional body in Nigeria is the:",
+    "options": [
+      "A. Nigerian Bar Association",
+      "B. Nigerian Medical Association",
+      "C. Nigerian Society of Engineers",
+      "D. Computer Professionals Registration Council"
+    ],
+    "answer": "D",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "A programmer is responsible for:",
+    "options": [
+      "A. Writing and testing programs",
+      "B. Designing hardware",
+      "C. Repairing printers",
+      "D. Managing office files"
+    ],
+    "answer": "A",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "A computer virus is best described as a:",
+    "options": [
+      "A. Hardware fault",
+      "B. Malicious program that damages files",
+      "C. Physical component",
+      "D. Network cable"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "question": "A common signal of virus infection is:",
+    "options": [
+      "A. Faster processing speed",
+      "B. Increased storage capacity",
+      "C. Frequent system crashes",
+      "D. Louder speaker output"
+    ],
+    "answer": "C",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "One source of virus infection is:",
+    "options": [
+      "A. Safe websites",
+      "B. Updated antivirus",
+      "C. Scanned flash drives",
+      "D. Infected email attachments"
+    ],
+    "answer": "D",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "A method of preventing virus infection is to:",
+    "options": [
+      "A. Use updated antivirus software",
+      "B. Disable all security software",
+      "C. Share infected disks",
+      "D. Open unknown attachments"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "Deleting a virus from an infected computer is done using:",
+    "options": [
+      "A. A printer",
+      "B. Antivirus software",
+      "C. A scanner",
+      "D. A speaker"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "A relational database organises data in:",
+    "options": ["A. Trees", "B. Graphs", "C. Tables", "D. Lists"],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "In a relational database, a primary key is used to:",
+    "options": [
+      "A. Sort records",
+      "B. Delete records",
+      "C. Print records",
+      "D. Uniquely identify records"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "A foreign key in a relational database is used to:",
+    "options": [
+      "A. Link tables together",
+      "B. Delete records",
+      "C. Sort records",
+      "D. Encrypt records"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 303,
+    "question": "In a database, an entity refers to a:",
+    "options": [
+      "A. Type of printer",
+      "B. Real-world object or concept",
+      "C. Network cable",
+      "D. Software package"
+    ],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "An attribute in a relational database describes a:",
+    "options": [
+      "A. Type of network",
+      "B. Type of printer",
+      "C. Property of an entity",
+      "D. Type of cable"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "A query in a database is used to:",
+    "options": [
+      "A. Print all records",
+      "B. Delete the database",
+      "C. Create a new database",
+      "D. Retrieve specific records"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "A report in a database is used to:",
+    "options": [
+      "A. Present data in a formatted form",
+      "B. Create new tables",
+      "C. Delete records",
+      "D. Encrypt data"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "File organisation is best defined as the:",
+    "options": [
+      "A. Deletion of files from a disk",
+      "B. Arrangement of records in a file",
+      "C. Printing of files on paper",
+      "D. Encryption of files"
+    ],
+    "answer": "B",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Which of the following is a type of file organisation?",
+    "options": ["A. Printing", "B. Scanning", "C. Sequential", "D. Copying"],
+    "answer": "C",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "In random file organisation, records are accessed:",
+    "options": [
+      "A. In the order stored",
+      "B. Only sequentially",
+      "C. Only after closing the file",
+      "D. Directly without reading preceding records"
+    ],
+    "answer": "D",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "Sequential file organisation means records are accessed:",
+    "options": [
+      "A. In the order in which they are stored",
+      "B. In any random order",
+      "C. Only by index",
+      "D. Only by direct access"
+    ],
+    "answer": "A",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Data security is best defined as the:",
+    "options": [
+      "A. Deletion of data from a disk",
+      "B. Protection of data from unauthorised access",
+      "C. Printing of data on paper",
+      "D. Copying of data to a flash disk"
+    ],
+    "answer": "B",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "Access control in a database is used to:",
+    "options": [
+      "A. Speed up the processor",
+      "B. Increase storage capacity",
+      "C. Restrict who can use certain data",
+      "D. Print documents faster"
+    ],
+    "answer": "C",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "Data encryption is a process used to:",
+    "options": [
+      "A. Compress files",
+      "B. Delete files",
+      "C. Print files",
+      "D. Convert data into an unreadable form"
+    ],
+    "answer": "D",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "The role of a database administrator includes:",
+    "options": [
+      "A. Managing and securing the database",
+      "B. Designing web pages",
+      "C. Repairing hardware",
+      "D. Writing fiction"
+    ],
+    "answer": "A",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "A parallel database is one in which:",
+    "options": [
+      "A. Data is stored on a single disk",
+      "B. Multiple processors work simultaneously",
+      "C. Data is printed on paper",
+      "D. Data is deleted automatically"
+    ],
+    "answer": "B",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 316,
+    "question": "A distributed database stores data:",
+    "options": [
+      "A. In a single file only",
+      "B. On a single disk only",
+      "C. Across multiple locations",
+      "D. In a single table only"
+    ],
+    "answer": "C",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 317,
+    "question": "One significance of storing data in a distributed database is:",
+    "options": [
+      "A. Increased centralisation",
+      "B. Reduced data availability",
+      "C. Increased network speed only",
+      "D. Improved access by multiple users"
+    ],
+    "answer": "D",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 318,
+    "question": "The number system that uses two digits is called:",
+    "options": ["A. Binary", "B. Decimal", "C. Octal", "D. Hexadecimal"],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "The number system that uses ten digits is called:",
+    "options": ["A. Binary", "B. Decimal", "C. Octal", "D. Hexadecimal"],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "The number system that uses sixteen digits is called:",
+    "options": ["A. Decimal", "B. Octal", "C. Hexadecimal", "D. Binary"],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "The number system is important to computing because it:",
+    "options": [
+      "A. Increases the size of the monitor",
+      "B. Speeds up the printer",
+      "C. Reduces the cost of hardware",
+      "D. Represents data electronically"
+    ],
+    "answer": "D",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 322,
+    "question": "The earliest generation of computers had which feature?",
+    "options": [
+      "A. Large size and high heat",
+      "B. High speed and low heat",
+      "C. Small size and low cost",
+      "D. Portable and battery-powered"
+    ],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "question": "The fifth generation of computers is characterised by:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Parallel processing and AI",
+      "C. Transistors",
+      "D. Integrated circuits"
+    ],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 324,
+    "question": "Which of the following is an example of numeric data?",
+    "options": [
+      "A. Names of students",
+      "B. Addresses of students",
+      "C. Scores of students",
+      "D. Photographs of students"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "The conversion of data into information requires:",
+    "options": [
+      "A. Storage only",
+      "B. Printing only",
+      "C. Scanning only",
+      "D. Processing"
+    ],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Which of the following is an example of alphanumeric data?",
+    "options": [
+      "A. Course code CSC101",
+      "B. 12345",
+      "C. Student name only",
+      "D. A photograph"
+    ],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "Digitisation is important because it allows:",
+    "options": [
+      "A. Analog signals to remain analog",
+      "B. Data to be processed by computers",
+      "C. Data to be printed only",
+      "D. Data to be stored on paper"
+    ],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "A supercomputer is classified mainly by its:",
+    "options": [
+      "A. Small size",
+      "B. Low cost",
+      "C. High processing power",
+      "D. Portability"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A microcomputer is designed for use by:",
+    "options": [
+      "A. Governments only",
+      "B. Large organisations only",
+      "C. Universities only",
+      "D. Individual users"
+    ],
+    "answer": "D",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "A minicomputer is larger than a:",
+    "options": [
+      "A. Microcomputer",
+      "B. Mainframe computer",
+      "C. Supercomputer",
+      "D. Hybrid computer"
+    ],
+    "answer": "A",
+    "topic": "Basic Computing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 331,
+    "question": "A mainframe computer is typically used by:",
+    "options": [
+      "A. A single student",
+      "B. Large organisations for bulk processing",
+      "C. A single family",
+      "D. A small shop"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "ICT has influenced healthcare mainly through:",
+    "options": [
+      "A. Manual record keeping",
+      "B. Paper prescriptions only",
+      "C. Telemedicine and health records",
+      "D. Face-to-face meetings only"
+    ],
+    "answer": "C",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "E-government is an application of ICT in:",
+    "options": [
+      "A. Farming only",
+      "B. Construction only",
+      "C. Mining only",
+      "D. Governance and public services"
+    ],
+    "answer": "D",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "ICT has improved banking through:",
+    "options": [
+      "A. Electronic funds transfer",
+      "B. Manual ledger keeping only",
+      "C. Physical cash counting only",
+      "D. Paper receipts only"
+    ],
+    "answer": "A",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "One challenge of ICT adoption in society is:",
+    "options": [
+      "A. Increased efficiency",
+      "B. High cost of equipment",
+      "C. Faster communication",
+      "D. Improved data storage"
+    ],
+    "answer": "B",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "A microphone is an example of a:",
+    "options": [
+      "A. Output device",
+      "B. Storage device",
+      "C. Input device",
+      "D. Processing device"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "A speaker is an example of a:",
+    "options": [
+      "A. Input device",
+      "B. Storage device",
+      "C. Processing device",
+      "D. Output device"
+    ],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 338,
+    "question": "A joystick is commonly used for:",
+    "options": [
+      "A. Playing computer games",
+      "B. Printing documents",
+      "C. Scanning images",
+      "D. Storing files"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "ROM is best described as memory that:",
+    "options": [
+      "A. Loses data when power is off",
+      "B. Holds instructions permanently",
+      "C. Is used as temporary storage",
+      "D. Can be written to frequently"
+    ],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "RAM is best described as memory that is:",
+    "options": [
+      "A. Permanent and read-only",
+      "B. Used only for backup",
+      "C. Volatile and temporary",
+      "D. Slower than a hard disk"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["A. RAM", "B. ROM", "C. Cache", "D. Hard disk"],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "The CPU is made up of the control unit and the:",
+    "options": [
+      "A. Arithmetic and logic unit",
+      "B. Monitor",
+      "C. Keyboard",
+      "D. Printer"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Data collection in information processing involves:",
+    "options": [
+      "A. Printing results",
+      "B. Gathering raw facts",
+      "C. Deleting files",
+      "D. Encrypting data"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "Data processing in information processing involves:",
+    "options": [
+      "A. Storing files only",
+      "B. Printing files only",
+      "C. Transforming data into information",
+      "D. Deleting files"
+    ],
+    "answer": "C",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "Storage in information processing refers to:",
+    "options": [
+      "A. Deleting data permanently",
+      "B. Printing data on paper",
+      "C. Encrypting data",
+      "D. Keeping data for future use"
+    ],
+    "answer": "D",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "Information transmission is important because it allows:",
+    "options": [
+      "A. Communication between people",
+      "B. Deletion of data",
+      "C. Encryption of files",
+      "D. Formatting of disks"
+    ],
+    "answer": "A",
+    "topic": "Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "The GSM network is an example of information transmission by:",
+    "options": [
+      "A. Visual means only",
+      "B. Audio-visual means",
+      "C. Print means only",
+      "D. Audio means only"
+    ],
+    "answer": "B",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "Which of the following is an electronic medium of information transmission?",
+    "options": ["A. Newspaper", "B. Magazine", "C. Television", "D. Poster"],
+    "answer": "C",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Information transmission by radio is classified as:",
+    "options": [
+      "A. Print medium",
+      "B. Visual medium",
+      "C. Audio-visual medium",
+      "D. Audio medium"
+    ],
+    "answer": "D",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "Which of the following is a print medium of information transmission?",
+    "options": ["A. Magazine", "B. Radio", "C. Television", "D. Telephone"],
+    "answer": "A",
+    "topic": "Medium of Information Transmission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "An Internet browser is used to:",
+    "options": [
+      "A. Design databases",
+      "B. Access and display web pages",
+      "C. Perform calculations",
+      "D. Manage files"
+    ],
+    "answer": "B",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "Which of the following is a benefit of the Internet?",
+    "options": [
+      "A. Reduced communication",
+      "B. Limited access to information",
+      "C. Access to online educational resources",
+      "D. Increased isolation"
+    ],
+    "answer": "C",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "question": "One abuse of the Internet is:",
+    "options": [
+      "A. Online research",
+      "B. Email communication",
+      "C. E-learning",
+      "D. Spreading false information"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "A firewall helps to:",
+    "options": [
+      "A. Block unauthorised network access",
+      "B. Increase storage capacity",
+      "C. Speed up the processor",
+      "D. Print documents faster"
+    ],
+    "answer": "A",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "An operating system provides a user interface that allows users to:",
+    "options": [
+      "A. Repair hardware",
+      "B. Interact with the computer",
+      "C. Design web pages",
+      "D. Create databases"
+    ],
+    "answer": "B",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A GUI operating system uses:",
+    "options": [
+      "A. Only typed commands",
+      "B. Punched cards only",
+      "C. Icons, windows and menus",
+      "D. Switches only"
+    ],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "An operating system manages computer files by:",
+    "options": [
+      "A. Printing all files",
+      "B. Deleting all files",
+      "C. Encrypting all files",
+      "D. Organising and storing files"
+    ],
+    "answer": "D",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "A word processor is useful in offices for:",
+    "options": [
+      "A. Preparing memos and reports",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "Opening MS Word involves:",
+    "options": [
+      "A. Deleting a document",
+      "B. Loading the word processing program",
+      "C. Printing a document",
+      "D. Formatting a disk"
+    ],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "Editing a word processing document involves:",
+    "options": [
+      "A. Printing the document",
+      "B. Saving the document",
+      "C. Making changes to text",
+      "D. Deleting the document"
+    ],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "Which of the following is an example of word processing software?",
+    "options": [
+      "A. MS Excel",
+      "B. MS Access",
+      "C. CorelDraw",
+      "D. WordPerfect"
+    ],
+    "answer": "D",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "A spreadsheet cell is identified by its:",
+    "options": [
+      "A. Row and column reference",
+      "B. Colour and size",
+      "C. Font and style",
+      "D. File and folder name"
+    ],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "The SUM function in a spreadsheet is used to:",
+    "options": [
+      "A. Find the average",
+      "B. Add a range of cells",
+      "C. Find the maximum",
+      "D. Count cells"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "A collection of worksheets in a spreadsheet is called a:",
+    "options": ["A. Database", "B. Document", "C. Workbook", "D. Presentation"],
+    "answer": "C",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "Loading a spreadsheet application means:",
+    "options": [
+      "A. Deleting the spreadsheet",
+      "B. Printing the spreadsheet",
+      "C. Formatting the disk",
+      "D. Starting the spreadsheet program"
+    ],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "In a database, a record is best described as a:",
+    "options": [
+      "A. Complete set of fields about one entity",
+      "B. Single character in a table",
+      "C. Collection of related tables",
+      "D. Type of primary key"
+    ],
+    "answer": "A",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "In a database, a field refers to a:",
+    "options": [
+      "A. Complete set of records",
+      "B. Single piece of information about an entity",
+      "C. Collection of related tables",
+      "D. Type of query language"
+    ],
+    "answer": "B",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "Which of the following is an example of a database application?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. Microsoft Access",
+      "D. CorelDraw"
+    ],
+    "answer": "C",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "Saving a database file allows the user to:",
+    "options": [
+      "A. Delete the database",
+      "B. Print the database",
+      "C. Format the database",
+      "D. Store the database for future use"
+    ],
+    "answer": "D",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "A presentation package is useful in schools for:",
+    "options": [
+      "A. Preparing teaching slides",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "In PowerPoint, adding a new slide is done through the:",
+    "options": [
+      "A. Design tab",
+      "B. Home tab",
+      "C. Animation tab",
+      "D. Review tab"
+    ],
+    "answer": "B",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "Running a slide show in PowerPoint allows a presentation to be:",
+    "options": [
+      "A. Printed on paper",
+      "B. Converted to a spreadsheet",
+      "C. Displayed full screen to an audience",
+      "D. Deleted from the disk"
+    ],
+    "answer": "C",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Which of the following is an example of a presentation package?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. MS Access",
+      "D. MS PowerPoint"
+    ],
+    "answer": "D",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "An HTML editor is a component of a:",
+    "options": [
+      "A. Web design package",
+      "B. Spreadsheet package",
+      "C. Database package",
+      "D. Presentation package"
+    ],
+    "answer": "A",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "A web design package is used to:",
+    "options": [
+      "A. Perform calculations",
+      "B. Create and edit web pages",
+      "C. Manage databases",
+      "D. Create presentations"
+    ],
+    "answer": "B",
+    "topic": "Web Design Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following is an example of a web design package?",
+    "options": [
+      "A. MS Excel",
+      "B. MS Access",
+      "C. Adobe Dreamweaver",
+      "D. MS Word"
+    ],
+    "answer": "C",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "The use of a web design package is mainly in:",
+    "options": [
+      "A. Word processing",
+      "B. Spreadsheet analysis",
+      "C. Database management",
+      "D. Website development"
+    ],
+    "answer": "D",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "CorelDraw is an example of a:",
+    "options": [
+      "A. Graphics package",
+      "B. Word processor",
+      "C. Spreadsheet package",
+      "D. Database package"
+    ],
+    "answer": "A",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "A graphics package is useful for:",
+    "options": [
+      "A. Performing calculations",
+      "B. Designing and editing images",
+      "C. Managing databases",
+      "D. Writing reports"
+    ],
+    "answer": "B",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "Which of the following is an example of a graphics package?",
+    "options": ["A. MS Word", "B. MS Excel", "C. Photoshop", "D. MS Access"],
+    "answer": "C",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "Maintenance of a computer system helps to:",
+    "options": [
+      "A. Increase the cost of repair",
+      "B. Reduce the lifespan of devices",
+      "C. Slow down processing",
+      "D. Keep the system in good working condition"
+    ],
+    "answer": "D",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "Battery charging and replacement is part of:",
+    "options": [
+      "A. Portable system maintenance",
+      "B. Software maintenance",
+      "C. Network maintenance",
+      "D. Data recovery"
+    ],
+    "answer": "A",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "A computer crash is best described as:",
+    "options": [
+      "A. A planned shutdown",
+      "B. A sudden system failure",
+      "C. A software update",
+      "D. A hardware upgrade"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "Data integrity means that data is:",
+    "options": [
+      "A. Deleted permanently",
+      "B. Encrypted permanently",
+      "C. Accurate and consistent",
+      "D. Printed on paper"
+    ],
+    "answer": "C",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "question": "Laboratory rules and regulations are important because they:",
+    "options": [
+      "A. Encourage carelessness",
+      "B. Increase equipment damage",
+      "C. Allow unauthorised access",
+      "D. Promote responsible computer use"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Responsible use of computers includes:",
+    "options": [
+      "A. Respecting other users and data",
+      "B. Installing unauthorised software",
+      "C. Sharing passwords freely",
+      "D. Removing labels from devices"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Computer room management ethics include:",
+    "options": [
+      "A. Eating near computers",
+      "B. Keeping the room clean and orderly",
+      "C. Touching exposed wires",
+      "D. Drinking near keyboards"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Proper illumination of the computer room helps to:",
+    "options": [
+      "A. Increase the cost of electricity",
+      "B. Increase the processor speed",
+      "C. Reduce eye strain",
+      "D. Increase file size"
+    ],
+    "answer": "C",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Positioning the keyboard and mouse properly helps to prevent:",
+    "options": [
+      "A. Virus infections",
+      "B. Data loss",
+      "C. Network failure",
+      "D. Repetitive strain injuries"
+    ],
+    "answer": "D",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "The CPU should be positioned so that it is:",
+    "options": [
+      "A. Well ventilated and stable",
+      "B. Covered with cloth",
+      "C. Placed near liquids",
+      "D. Blocked from airflow"
+    ],
+    "answer": "A",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "Keeping liquids away from computers helps to prevent:",
+    "options": [
+      "A. Faster processing",
+      "B. Electrical shock and damage",
+      "C. Increased storage",
+      "D. Better network speed"
+    ],
+    "answer": "B",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "A programmer is responsible for:",
+    "options": [
+      "A. Designing hardware",
+      "B. Repairing printers",
+      "C. Writing and testing computer programs",
+      "D. Managing office files"
+    ],
+    "answer": "C",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "A network administrator is responsible for:",
+    "options": [
+      "A. Writing fiction",
+      "B. Designing logos",
+      "C. Repairing monitors",
+      "D. Managing computer networks"
+    ],
+    "answer": "D",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "A computer professional body in Nigeria is the:",
+    "options": [
+      "A. Computer Professionals Registration Council",
+      "B. Nigerian Bar Association",
+      "C. Nigerian Medical Association",
+      "D. Nigerian Society of Engineers"
+    ],
+    "answer": "A",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "A good data processing professional should be:",
+    "options": [
+      "A. Careless",
+      "B. Honest and accurate",
+      "C. Dishonest",
+      "D. Lazy"
+    ],
+    "answer": "B",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "question": "A worm is a type of:",
+    "options": [
+      "A. Hardware",
+      "B. Network cable",
+      "C. Malicious program",
+      "D. Storage device"
+    ],
+    "answer": "C",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "A Trojan horse is best described as malware that:",
+    "options": [
+      "A. Spreads through networks automatically",
+      "B. Physically damages hardware",
+      "C. Increases processing speed",
+      "D. Disguises itself as useful software"
+    ],
+    "answer": "D",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "One destructive effect of a virus on a computer is:",
+    "options": [
+      "A. Loss of files and data",
+      "B. Faster processing speed",
+      "C. Increased storage capacity",
+      "D. Louder speaker output"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "Detecting a virus on a computer is usually done by:",
+    "options": [
+      "A. Printing documents",
+      "B. Running antivirus scans",
+      "C. Formatting the monitor",
+      "D. Replacing the keyboard"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "A relational database table is made up of:",
+    "options": [
+      "A. Only rows",
+      "B. Only columns",
+      "C. Rows and columns",
+      "D. Trees and graphs"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "question": "Creating a relationship between two tables requires a:",
+    "options": [
+      "A. Printer and scanner",
+      "B. Monitor and keyboard",
+      "C. Router and switch",
+      "D. Primary key and foreign key"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "A form in a database is used to:",
+    "options": [
+      "A. Enter and display data easily",
+      "B. Delete the database",
+      "C. Encrypt data",
+      "D. Create tables"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "SQL is an example of a:",
+    "options": [
+      "A. Type of printer",
+      "B. Query language",
+      "C. Network cable",
+      "D. Storage device"
+    ],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "Query by example (QBE) is used in databases to:",
+    "options": [
+      "A. Delete the database",
+      "B. Encrypt files",
+      "C. Retrieve records using sample criteria",
+      "D. Print tables"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 405,
+    "question": "File organisation methods are compared mainly on their:",
+    "options": [
+      "A. Colour and size",
+      "B. Price and brand",
+      "C. Age and origin",
+      "D. Access speed and storage method"
+    ],
+    "answer": "D",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 406,
+    "question": "Indexed file organisation uses an index to:",
+    "options": [
+      "A. Locate records quickly",
+      "B. Store records sequentially only",
+      "C. Delete records automatically",
+      "D. Back up records regularly"
+    ],
+    "answer": "A",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 407,
+    "question": "Random file organisation allows records to be accessed:",
+    "options": [
+      "A. In the order stored",
+      "B. Directly without reading preceding records",
+      "C. Only sequentially",
+      "D. Only after closing the file"
+    ],
+    "answer": "B",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 408,
+    "question": "Database access control ensures that:",
+    "options": [
+      "A. All users can access all data",
+      "B. No user can access any data",
+      "C. Only authorised users access data",
+      "D. Data is printed on paper"
+    ],
+    "answer": "C",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "The importance of securing data is to prevent:",
+    "options": [
+      "A. Faster processing",
+      "B. Increased storage",
+      "C. Better network speed",
+      "D. Unauthorised access and loss"
+    ],
+    "answer": "D",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Data encryption converts data into:",
+    "options": [
+      "A. An unreadable form",
+      "B. A printed form",
+      "C. A larger file",
+      "D. A smaller file"
+    ],
+    "answer": "A",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "A database administrator should ensure that:",
+    "options": [
+      "A. Data is deleted regularly",
+      "B. Data is backed up and secure",
+      "C. Data is printed daily",
+      "D. Data is shared publicly"
+    ],
+    "answer": "B",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "A parallel database improves performance by:",
+    "options": [
+      "A. Using a single processor",
+      "B. Reducing storage capacity",
+      "C. Using multiple processors simultaneously",
+      "D. Printing more documents"
+    ],
+    "answer": "C",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 413,
+    "question": "A distributed database management system stores data:",
+    "options": [
+      "A. In one file only",
+      "B. On one disk only",
+      "C. In one table only",
+      "D. Across multiple sites"
+    ],
+    "answer": "D",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 414,
+    "question": "One advantage of a distributed database is:",
+    "options": [
+      "A. Improved access by multiple users",
+      "B. Reduced data availability",
+      "C. Increased centralisation",
+      "D. Slower access"
+    ],
+    "answer": "A",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "Storing data in a distributed database can improve:",
+    "options": [
+      "A. Printer speed",
+      "B. Data availability",
+      "C. Monitor brightness",
+      "D. Keyboard response"
+    ],
+    "answer": "B",
+    "topic": "Parallel and Distributed Databases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 416,
+    "question": "The binary number system is important in computing because:",
+    "options": [
+      "A. It uses ten digits",
+      "B. It is easier to print",
+      "C. It represents two states on and off",
+      "D. It uses letters"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 417,
+    "question": "The hexadecimal number system uses:",
+    "options": [
+      "A. Two digits",
+      "B. Eight digits",
+      "C. Ten digits",
+      "D. Sixteen digits"
+    ],
+    "answer": "D",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The octal number system uses:",
+    "options": [
+      "A. Eight digits",
+      "B. Two digits",
+      "C. Ten digits",
+      "D. Sixteen digits"
+    ],
+    "answer": "A",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "The first generation of computers was characterised by:",
+    "options": [
+      "A. Small size",
+      "B. Large size and high heat",
+      "C. Low cost",
+      "D. High portability"
+    ],
+    "answer": "B",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "The fourth generation of computers was characterised by:",
+    "options": [
+      "A. Vacuum tubes",
+      "B. Transistors",
+      "C. Microprocessors",
+      "D. Artificial intelligence"
+    ],
+    "answer": "C",
+    "topic": "Information Age",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "Which of the following is an example of data?",
+    "options": [
+      "A. A summary report",
+      "B. A chart of averages",
+      "C. A printed result",
+      "D. Raw scores of students"
+    ],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "A list of student scores is an example of:",
+    "options": ["A. Data", "B. Information", "C. Knowledge", "D. Wisdom"],
+    "answer": "A",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 423,
+    "question": "A summary report of student performance is an example of:",
+    "options": ["A. Data", "B. Information", "C. Input", "D. Binary"],
+    "answer": "B",
+    "topic": "Data and Information",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "Digitalisation of data involves:",
+    "options": [
+      "A. Printing data on paper",
+      "B. Storing data in cabinets",
+      "C. Converting data into digital form",
+      "D. Deleting data permanently"
+    ],
+    "answer": "C",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "Which of the following is a type of data?",
+    "options": [
+      "A. Alpha data",
+      "B. Visual data",
+      "C. Audio data",
+      "D. Text data"
+    ],
+    "answer": "D",
+    "topic": "Data and Information",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "A mainframe computer is designed for:",
+    "options": [
+      "A. Large-scale data processing",
+      "B. Personal use only",
+      "C. Single-user operations",
+      "D. Simple calculations"
+    ],
+    "answer": "A",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "A general-purpose computer is designed to:",
+    "options": [
+      "A. Perform only one task",
+      "B. Perform many different tasks",
+      "C. Perform only calculations",
+      "D. Perform only printing"
+    ],
+    "answer": "B",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "A special-purpose computer is designed to:",
+    "options": [
+      "A. Perform many different tasks",
+      "B. Perform calculations only",
+      "C. Perform one specific task",
+      "D. Perform printing only"
+    ],
+    "answer": "C",
+    "topic": "Basic Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "ICT has influenced agriculture through:",
+    "options": [
+      "A. Manual weeding only",
+      "B. Paper record keeping only",
+      "C. Face-to-face meetings only",
+      "D. Precision farming and market information"
+    ],
+    "answer": "D",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "ICT has influenced transportation through:",
+    "options": [
+      "A. Online booking and GPS navigation",
+      "B. Manual ticketing",
+      "C. Paper maps only",
+      "D. Face-to-face bookings only"
+    ],
+    "answer": "A",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "ICT has influenced entertainment through:",
+    "options": [
+      "A. Manual games only",
+      "B. Streaming and digital media",
+      "C. Printed posters only",
+      "D. Face-to-face shows only"
+    ],
+    "answer": "B",
+    "topic": "Application of ICT in Everyday Life",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "A scanner is used in data processing to:",
+    "options": [
+      "A. Print documents",
+      "B. Store documents",
+      "C. Convert documents into digital form",
+      "D. Process documents"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "A printer is used in data processing to:",
+    "options": [
+      "A. Store information permanently",
+      "B. Process information",
+      "C. Input information",
+      "D. Produce hard copies of information"
+    ],
+    "answer": "D",
+    "topic": "Components of Computers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "A mouse is used in data processing to:",
+    "options": [
+      "A. Select and manipulate items on screen",
+      "B. Print documents",
+      "C. Store files",
+      "D. Scan images"
+    ],
+    "answer": "A",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "A keyboard is used in data processing to:",
+    "options": [
+      "A. Display output",
+      "B. Enter data and commands",
+      "C. Print documents",
+      "D. Store files"
+    ],
+    "answer": "B",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 436,
+    "question": "A monitor is used in data processing to:",
+    "options": [
+      "A. Store data",
+      "B. Input data",
+      "C. Display processed information",
+      "D. Print data"
+    ],
+    "answer": "C",
+    "topic": "Components of Computers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "The step in information processing that follows data collection is:",
+    "options": [
+      "A. Output",
+      "B. Storage",
+      "C. Reporting",
+      "D. Data processing"
+    ],
+    "answer": "D",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "The step in information processing that follows data processing is:",
+    "options": [
+      "A. Storage or output",
+      "B. Data collection",
+      "C. Input",
+      "D. Data capture"
+    ],
+    "answer": "A",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "The step in information processing that follows storage is:",
+    "options": [
+      "A. Data collection",
+      "B. Output or reporting",
+      "C. Data capture",
+      "D. Input"
+    ],
+    "answer": "B",
+    "topic": "Information Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "Information transmission by newspaper is classified as:",
+    "options": [
+      "A. Audio medium",
+      "B. Audio-visual medium",
+      "C. Visual medium",
+      "D. Electronic medium"
+    ],
+    "answer": "C",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "Information transmission by radio is classified as:",
+    "options": [
+      "A. Visual medium",
+      "B. Audio-visual medium",
+      "C. Print medium",
+      "D. Audio medium"
+    ],
+    "answer": "D",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Information transmission by television is classified as:",
+    "options": [
+      "A. Audio-visual medium",
+      "B. Audio medium only",
+      "C. Visual medium only",
+      "D. Print medium"
+    ],
+    "answer": "A",
+    "topic": "Information Transmission",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "The Internet is important in education because it provides:",
+    "options": [
+      "A. Limited information",
+      "B. Access to online learning resources",
+      "C. Slower communication",
+      "D. Reduced connectivity"
+    ],
+    "answer": "B",
+    "topic": "Internet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 444,
+    "question": "A benefit of the Internet in business is:",
+    "options": [
+      "A. Reduced customer reach",
+      "B. Slower transactions",
+      "C. Electronic commerce",
+      "D. Limited advertising"
+    ],
+    "answer": "C",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "Internet security is important because it protects against:",
+    "options": [
+      "A. Faster processing",
+      "B. Increased storage",
+      "C. Better network speed",
+      "D. Cyber threats and attacks"
+    ],
+    "answer": "D",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "An example of Internet abuse is:",
+    "options": [
+      "A. Cyber bullying",
+      "B. Online research",
+      "C. E-learning",
+      "D. Email communication"
+    ],
+    "answer": "A",
+    "topic": "Internet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "A GUI operating system is easier to use because it:",
+    "options": [
+      "A. Requires typed commands",
+      "B. Uses icons and menus",
+      "C. Uses punched cards",
+      "D. Requires no user input"
+    ],
+    "answer": "B",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "A command line operating system requires users to:",
+    "options": [
+      "A. Click icons",
+      "B. Use touch screens",
+      "C. Type commands at a prompt",
+      "D. Use voice commands"
+    ],
+    "answer": "C",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "An example of a GUI operating system is:",
+    "options": [
+      "A. MS-DOS",
+      "B. UNIX command line",
+      "C. Linux terminal",
+      "D. MS Windows"
+    ],
+    "answer": "D",
+    "topic": "Operating System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "Word processing software is used in education for:",
+    "options": [
+      "A. Preparing assignments and notes",
+      "B. Designing logos",
+      "C. Managing databases",
+      "D. Performing calculations"
+    ],
+    "answer": "A",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "The operation of closing MS Word is called:",
+    "options": ["A. Saving", "B. Exiting", "C. Editing", "D. Printing"],
+    "answer": "B",
+    "topic": "Word Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 452,
+    "question": "A word processing document can be retrieved by:",
+    "options": [
+      "A. Printing it",
+      "B. Deleting it",
+      "C. Opening the saved file",
+      "D. Renaming it"
+    ],
+    "answer": "C",
+    "topic": "Word Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "A spreadsheet is useful in schools for:",
+    "options": [
+      "A. Designing logos",
+      "B. Writing letters",
+      "C. Managing presentations",
+      "D. Computing student results"
+    ],
+    "answer": "D",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "The AVERAGE function in a spreadsheet is used to:",
+    "options": [
+      "A. Find the mean of cells",
+      "B. Add cells",
+      "C. Find the maximum",
+      "D. Count cells"
+    ],
+    "answer": "A",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 455,
+    "question": "A workbook in a spreadsheet contains:",
+    "options": [
+      "A. Only one cell",
+      "B. One or more worksheets",
+      "C. Only one row",
+      "D. Only one column"
+    ],
+    "answer": "B",
+    "topic": "Spreadsheet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "Exiting a spreadsheet application means:",
+    "options": [
+      "A. Saving the file",
+      "B. Opening a file",
+      "C. Closing the application",
+      "D. Printing the file"
+    ],
+    "answer": "C",
+    "topic": "Spreadsheet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "A database management system is used in schools to:",
+    "options": [
+      "A. Design logos",
+      "B. Create slides",
+      "C. Perform calculations only",
+      "D. Manage student records"
+    ],
+    "answer": "D",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 458,
+    "question": "Creating a database table involves defining its:",
+    "options": [
+      "A. Fields and data types",
+      "B. Printer and scanner",
+      "C. Monitor and keyboard",
+      "D. Router and switch"
+    ],
+    "answer": "A",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "Retrieving a database file means:",
+    "options": [
+      "A. Creating a new file",
+      "B. Opening a saved file",
+      "C. Deleting the file",
+      "D. Printing the file"
+    ],
+    "answer": "B",
+    "topic": "Database Management System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Exiting a database application means:",
+    "options": [
+      "A. Saving the file",
+      "B. Opening a file",
+      "C. Closing the application",
+      "D. Printing the file"
+    ],
+    "answer": "C",
+    "topic": "Database Management System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "A presentation package is useful in business for:",
+    "options": [
+      "A. Designing logos",
+      "B. Managing databases",
+      "C. Performing calculations",
+      "D. Preparing sales presentations"
+    ],
+    "answer": "D",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "Exiting a presentation program means:",
+    "options": [
+      "A. Closing the application",
+      "B. Saving the file",
+      "C. Opening a file",
+      "D. Printing the file"
+    ],
+    "answer": "A",
+    "topic": "Presentation Package",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "Retrieving a presentation file means:",
+    "options": [
+      "A. Creating a new file",
+      "B. Opening a saved file",
+      "C. Deleting the file",
+      "D. Printing the file"
+    ],
+    "answer": "B",
+    "topic": "Presentation Package",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "A web design package is used to create:",
+    "options": [
+      "A. Spreadsheets",
+      "B. Databases",
+      "C. Websites and web pages",
+      "D. Presentations"
+    ],
+    "answer": "C",
+    "topic": "Web Design Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "A web design package may include a:",
+    "options": [
+      "A. Printer and scanner",
+      "B. Router and switch",
+      "C. Monitor and keyboard",
+      "D. Code editor and preview tools"
+    ],
+    "answer": "D",
+    "topic": "Web Design Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Graphics packages are used to create:",
+    "options": [
+      "A. Images and designs",
+      "B. Spreadsheets",
+      "C. Databases",
+      "D. Presentations"
+    ],
+    "answer": "A",
+    "topic": "Graphic Packages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 467,
+    "question": "CorelDraw is mainly used for:",
+    "options": [
+      "A. Calculations",
+      "B. Vector graphics design",
+      "C. Database management",
+      "D. Word processing"
+    ],
+    "answer": "B",
+    "topic": "Graphic Packages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "Computer maintenance includes:",
+    "options": [
+      "A. Deleting all files",
+      "B. Formatting the disk",
+      "C. Cleaning and servicing components",
+      "D. Replacing the monitor"
+    ],
+    "answer": "C",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "Hardware maintenance includes:",
+    "options": [
+      "A. Updating software",
+      "B. Removing viruses",
+      "C. Backing up files",
+      "D. Cleaning and repairing physical components"
+    ],
+    "answer": "D",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "Software maintenance includes:",
+    "options": [
+      "A. Updating and repairing software",
+      "B. Cleaning the keyboard",
+      "C. Replacing the battery",
+      "D. Dusting the monitor"
+    ],
+    "answer": "A",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "Data recovery after a computer crash involves:",
+    "options": [
+      "A. Deleting all files",
+      "B. Restoring lost data from backups",
+      "C. Formatting the hard disk",
+      "D. Replacing the monitor"
+    ],
+    "answer": "B",
+    "topic": "Maintenance of Computer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Computer room management ethics include:",
+    "options": [
+      "A. Eating and drinking near computers",
+      "B. Touching exposed wires",
+      "C. Keeping the room clean and orderly",
+      "D. Removing labels from devices"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "Laboratory rules help to:",
+    "options": [
+      "A. Encourage carelessness",
+      "B. Increase equipment damage",
+      "C. Allow unauthorised access",
+      "D. Promote responsible computer use"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "Responsible computer use includes:",
+    "options": [
+      "A. Respecting other users and data",
+      "B. Installing unauthorised software",
+      "C. Sharing passwords freely",
+      "D. Removing labels from devices"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "Proper sitting arrangement at a computer helps to:",
+    "options": [
+      "A. Increase the processor speed",
+      "B. Prevent posture-related discomfort",
+      "C. Increase storage capacity",
+      "D. Improve Internet speed"
+    ],
+    "answer": "B",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Keeping the computer room dust-free helps to:",
+    "options": [
+      "A. Increase the cost of maintenance",
+      "B. Speed up printing",
+      "C. Protect computer components from damage",
+      "D. Increase file size"
+    ],
+    "answer": "C",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "Keeping liquids away from computers helps to prevent:",
+    "options": [
+      "A. Faster processing",
+      "B. Increased storage",
+      "C. Better network speed",
+      "D. Electrical shock and damage"
+    ],
+    "answer": "D",
+    "topic": "Safety Measures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "A career opportunity in data processing is:",
+    "options": [
+      "A. Database administration",
+      "B. Farming",
+      "C. Tailoring",
+      "D. Bricklaying"
+    ],
+    "answer": "A",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 479,
+    "question": "A quality of a good data processing professional is:",
+    "options": [
+      "A. Carelessness",
+      "B. Accuracy and integrity",
+      "C. Laziness",
+      "D. Dishonesty"
+    ],
+    "answer": "B",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "A computer professional body in Nigeria is the:",
+    "options": [
+      "A. Nigerian Bar Association",
+      "B. Nigerian Medical Association",
+      "C. Computer Professionals Registration Council",
+      "D. Nigerian Society of Engineers"
+    ],
+    "answer": "C",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A programmer is responsible for:",
+    "options": [
+      "A. Designing hardware",
+      "B. Repairing printers",
+      "C. Managing office files",
+      "D. Writing and testing programs"
+    ],
+    "answer": "D",
+    "topic": "Career Opportunities in Data Processing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "A computer virus is best described as a:",
+    "options": [
+      "A. Malicious program that damages files",
+      "B. Hardware fault",
+      "C. Physical component",
+      "D. Network cable"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "A common signal of virus infection is:",
+    "options": [
+      "A. Faster processing speed",
+      "B. Frequent system crashes",
+      "C. Increased storage capacity",
+      "D. Louder speaker output"
+    ],
+    "answer": "B",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "One source of virus infection is:",
+    "options": [
+      "A. Safe websites",
+      "B. Updated antivirus",
+      "C. Infected email attachments",
+      "D. Scanned flash drives"
+    ],
+    "answer": "C",
+    "topic": "Computer Virus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "A method of preventing virus infection is to:",
+    "options": [
+      "A. Disable all security software",
+      "B. Share infected disks",
+      "C. Open unknown attachments",
+      "D. Use updated antivirus software"
+    ],
+    "answer": "D",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "Deleting a virus from an infected computer is done using:",
+    "options": [
+      "A. Antivirus software",
+      "B. A printer",
+      "C. A scanner",
+      "D. A speaker"
+    ],
+    "answer": "A",
+    "topic": "Computer Virus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "A relational database organises data in:",
+    "options": ["A. Trees", "B. Tables", "C. Graphs", "D. Lists"],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "In a relational database, a primary key is used to:",
+    "options": [
+      "A. Sort records",
+      "B. Delete records",
+      "C. Uniquely identify records",
+      "D. Print records"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "A foreign key in a relational database is used to:",
+    "options": [
+      "A. Delete records",
+      "B. Sort records",
+      "C. Encrypt records",
+      "D. Link tables together"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 490,
+    "question": "In a database, an entity refers to a:",
+    "options": [
+      "A. Real-world object or concept",
+      "B. Type of printer",
+      "C. Network cable",
+      "D. Software package"
+    ],
+    "answer": "A",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "An attribute in a relational database describes a:",
+    "options": [
+      "A. Type of network",
+      "B. Property of an entity",
+      "C. Type of printer",
+      "D. Type of cable"
+    ],
+    "answer": "B",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "A query in a database is used to:",
+    "options": [
+      "A. Print all records",
+      "B. Delete the database",
+      "C. Retrieve specific records",
+      "D. Create a new database"
+    ],
+    "answer": "C",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "A report in a database is used to:",
+    "options": [
+      "A. Create new tables",
+      "B. Delete records",
+      "C. Encrypt data",
+      "D. Present data in a formatted form"
+    ],
+    "answer": "D",
+    "topic": "Relational Model",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "File organisation is best defined as the:",
+    "options": [
+      "A. Arrangement of records in a file",
+      "B. Deletion of files from a disk",
+      "C. Printing of files on paper",
+      "D. Encryption of files"
+    ],
+    "answer": "A",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is a type of file organisation?",
+    "options": ["A. Printing", "B. Sequential", "C. Scanning", "D. Copying"],
+    "answer": "B",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "In random file organisation, records are accessed:",
+    "options": [
+      "A. In the order stored",
+      "B. Only sequentially",
+      "C. Directly without reading preceding records",
+      "D. Only after closing the file"
+    ],
+    "answer": "C",
+    "topic": "File Organization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 497,
+    "question": "Sequential file organisation means records are accessed:",
+    "options": [
+      "A. In any random order",
+      "B. Only by index",
+      "C. Only by direct access",
+      "D. In the order in which they are stored"
+    ],
+    "answer": "D",
+    "topic": "File Organization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "Data security is best defined as the:",
+    "options": [
+      "A. Protection of data from unauthorised access",
+      "B. Deletion of data from a disk",
+      "C. Printing of data on paper",
+      "D. Copying of data to a flash disk"
+    ],
+    "answer": "A",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "Access control in a database is used to:",
+    "options": [
+      "A. Speed up the processor",
+      "B. Restrict who can use certain data",
+      "C. Increase storage capacity",
+      "D. Print documents faster"
+    ],
+    "answer": "B",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Data encryption is a process used to:",
+    "options": [
+      "A. Compress files",
+      "B. Delete files",
+      "C. Convert data into an unreadable form",
+      "D. Print files"
+    ],
+    "answer": "C",
+    "topic": "Database Security",
+    "difficulty": "Medium"
+  }
+]

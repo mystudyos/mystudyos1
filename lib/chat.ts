@@ -20,6 +20,7 @@ import {
   type Unsubscribe,
 } from "firebase/firestore"
 import { db } from "./firebase"
+import { dispatchPushNotification } from "./fcm-client"
 
 // ─── Message Shape ───
 export interface ChatMessage {
@@ -66,18 +67,13 @@ export async function sendMessage(
     createdAt: serverTimestamp(),
   })
 
-  // Trigger Web Push Notification for room members asynchronously
-  fetch("/api/send-notification", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      type: "room",
-      senderUid: uid,
-      senderName: displayName,
-      text: trimmed,
-      roomName: "Global Chat",
-    }),
-  }).catch((err) => console.warn("[Push] Failed to trigger Room notification:", err))
+  // Trigger authenticated Web Push Notification for room members asynchronously
+  dispatchPushNotification({
+    type: "room",
+    senderName: displayName,
+    text: trimmed,
+    roomName: "Note Room",
+  })
 }
 
 // ─── Subscribe to messages (real-time) ───

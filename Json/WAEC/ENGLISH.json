@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "The doctor recommended a __ to check the patient's heart rate.",
+    "options": ["A. thermometer", "B. stethoscope", "C. barometer", "D. speedometer"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The farmer used a __ to separate the chaff from the grain.",
+    "options": ["A. plough", "B. harrow", "C. winnower", "D. tractor"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "The stock market experienced a __ when prices fell sharply.",
+    "options": ["A. boom", "B. dividend", "C. broker", "D. slump"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "question": "A __ is a person who walks along the road.",
+    "options": ["A. pedestrian", "B. motorist", "C. cyclist", "D. conductor"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "The team scored a __ in the final minute to win the match.",
+    "options": ["A. wicket", "B. basket", "C. goal", "D. try"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "The central bank raised the __ rate to control inflation.",
+    "options": ["A. discount", "B. interest", "C. exchange", "D. mortgage"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "The __ is the organ that pumps blood.",
+    "options": ["A. liver", "B. lungs", "C. kidney", "D. heart"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The building collapsed because the __ was poorly constructed.",
+    "options": ["A. roof", "B. ceiling", "C. foundation", "D. wall"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "The minister was accused of nepotism, favoring his __ over qualified candidates.",
+    "options": ["A. relatives", "B. colleagues", "C. subordinates", "D. opponents"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "The fisherman repaired his __ before going to sea.",
+    "options": ["A. net", "B. hook", "C. boat", "D. line"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The company decided to __ its new product with a television campaign.",
+    "options": ["A. advertise", "B. announce", "C. broadcast", "D. publish"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "The judge sentenced the thief to five years in __.",
+    "options": ["A. prison", "B. court", "C. custody", "D. bail"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The __ is responsible for maintaining law and order in the community.",
+    "options": ["A. army", "B. police", "C. navy", "D. jury"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The car's __ failed, so the driver had to use the handbrake.",
+    "options": ["A. clutch", "B. brakes", "C. accelerator", "D. steering"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "The politician delivered a powerful __ to the cheering crowd.",
+    "options": ["A. lecture", "B. sermon", "C. speech", "D. lesson"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The scientist conducted an __ to test the hypothesis.",
+    "options": ["A. experiment", "B. experience", "C. expedition", "D. examination"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The cow is suffering from __, a common disease among cattle.",
+    "options": ["A. rabies", "B. distemper", "C. anthrax", "D. mastitis"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "The company's __ showed a significant increase in profits this year.",
+    "options": ["A. invoice", "B. balance sheet", "C. receipt", "D. pay slip"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 19,
+    "question": "The __ is the outermost layer of the human skin.",
+    "options": ["A. epidermis", "B. dermis", "C. hypodermis", "D. follicle"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "The farmer planted __ in the field to improve soil fertility.",
+    "options": ["A. cereals", "B. tubers", "C. legumes", "D. vegetables"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "The __ was responsible for the maintenance of the church building.",
+    "options": ["A. usher", "B. deacon", "C. priest", "D. warden"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "The athlete was disqualified for using a banned __.",
+    "options": ["A. vitamin", "B. steroid", "C. supplement", "D. protein"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "The __ is the part of the plant that absorbs water from the soil.",
+    "options": ["A. root", "B. stem", "C. leaf", "D. flower"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The government introduced a new __ to reduce unemployment.",
+    "options": ["A. tax", "B. law", "C. policy", "D. bill"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "The __ provided a detailed account of the accident.",
+    "options": ["A. judge", "B. lawyer", "C. accused", "D. witness"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The company hired a __ to design their new logo.",
+    "options": ["A. graphic designer", "B. civil engineer", "C. architect", "D. surveyor"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "The __ is the largest organ in the human body.",
+    "options": ["A. liver", "B. skin", "C. brain", "D. lungs"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "The __ was arrested for driving under the influence.",
+    "options": ["A. pedestrian", "B. mechanic", "C. motorist", "D. conductor"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "The bank refused to give him a __ because he had no collateral.",
+    "options": ["A. loan", "B. cheque", "C. draft", "D. deposit"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "The __ is a small animal that feeds on insects.",
+    "options": ["A. lizard", "B. tiger", "C. elephant", "D. whale"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The company's __ policy protects employees from discrimination.",
+    "options": ["A. equal opportunity", "B. affirmative action", "C. fair trade", "D. free market"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 32,
+    "question": "The __ is the process by which plants make their own food.",
+    "options": ["A. respiration", "B. digestion", "C. photosynthesis", "D. transpiration"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The __ was called to repair the leaking pipe.",
+    "options": ["A. electrician", "B. carpenter", "C. mason", "D. plumber"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "The __ is a device used to measure atmospheric pressure.",
+    "options": ["A. barometer", "B. thermometer", "C. hygrometer", "D. speedometer"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The __ was found guilty of embezzling company funds.",
+    "options": ["A. auditor", "B. accountant", "C. cashier", "D. manager"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "The __ is a traditional dance performed during the harvest festival.",
+    "options": ["A. ritual", "B. ceremony", "C. festival", "D. performance"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "The __ is the study of stars and planets.",
+    "options": ["A. astrology", "B. geology", "C. biology", "D. astronomy"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "The __ was elected as the new chairman of the association.",
+    "options": ["A. treasurer", "B. secretary", "C. president", "D. auditor"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The __ is a legal document that outlines the terms of a contract.",
+    "options": ["A. constitution", "B. agreement", "C. treaty", "D. charter"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "The __ is a type of rock formed from cooled magma.",
+    "options": ["A. sedimentary", "B. metamorphic", "C. igneous", "D. volcanic"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "The __ is responsible for the safe landing of the aircraft.",
+    "options": ["A. engineer", "B. steward", "C. navigator", "D. pilot"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "The __ was praised for her outstanding performance in the play.",
+    "options": ["A. actress", "B. director", "C. producer", "D. playwright"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "The __ is a large mammal that lives in the ocean.",
+    "options": ["A. shark", "B. whale", "C. dolphin", "D. seal"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "The __ is a medical condition characterized by high blood sugar.",
+    "options": ["A. malaria", "B. typhoid", "C. diabetes", "D. asthma"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The __ is the process of voting to choose a representative.",
+    "options": ["A. selection", "B. election", "C. nomination", "D. campaign"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "The __ was fined for dumping waste into the river.",
+    "options": ["A. factory", "B. hospital", "C. school", "D. market"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The __ is a tool used to tighten or loosen bolts.",
+    "options": ["A. hammer", "B. wrench", "C. screwdriver", "D. pliers"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "The __ is the study of the structure of the human body.",
+    "options": ["A. physiology", "B. pathology", "C. anatomy", "D. biology"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 49,
+    "question": "The __ was awarded the Nobel Prize for his research.",
+    "options": ["A. artist", "B. writer", "C. politician", "D. scientist"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "The __ is a type of poem that expresses sorrow for someone who has died.",
+    "options": ["A. elegy", "B. ode", "C. sonnet", "D. ballad"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "The __ is the highest court in the land.",
+    "options": ["A. magistrate court", "B. supreme court", "C. high court", "D. appeal court"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The __ is a contagious disease caused by a virus.",
+    "options": ["A. cholera", "B. malaria", "C. measles", "D. typhoid"],
+    "answer": "C",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "The __ is the part of the computer that processes data.",
+    "options": ["A. monitor", "B. keyboard", "C. mouse", "D. CPU"],
+    "answer": "D",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The __ was responsible for organizing the company's files.",
+    "options": ["A. secretary", "B. manager", "C. accountant", "D. clerk"],
+    "answer": "A",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "The __ is a financial statement that shows a company's assets and liabilities.",
+    "options": ["A. invoice", "B. balance sheet", "C. receipt", "D. ledger"],
+    "answer": "B",
+    "topic": "Lexis - General Vocabulary",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 56,
+    "question": "The manager told the lazy worker to shape up or __.",
+    "options": ["A. ship out", "B. move out", "C. get out", "D. walk out"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The politician's speech was full of __, promising things he couldn't deliver.",
+    "options": ["A. hot air", "B. cold facts", "C. warm words", "D. cool logic"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 58,
+    "question": "When the teacher asked him a difficult question, he was completely __.",
+    "options": ["A. at sea", "B. on land", "C. in air", "D. on road"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "The two brothers are like __, always fighting over small things.",
+    "options": ["A. cats and dogs", "B. birds and bees", "C. horses and cows", "D. lions and tigers"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "The company's new product is selling like __.",
+    "options": ["A. hot cakes", "B. cold water", "C. warm bread", "D. cool drinks"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "He let the __ out of the bag and revealed the surprise party.",
+    "options": ["A. cat", "B. dog", "C. rat", "D. bat"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The student was caught __ during the examination.",
+    "options": ["A. red-handed", "B. blue-handed", "C. green-handed", "D. black-handed"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "The project was a __, costing far more than expected.",
+    "options": ["A. white elephant", "B. black sheep", "C. grey area", "D. red herring"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "She has a __ in her bonnet about getting a promotion.",
+    "options": ["A. bee", "B. fly", "C. ant", "D. bug"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The CEO's decision to downsize was a __ for the employees.",
+    "options": ["A. bitter pill", "B. sweet treat", "C. sour grape", "D. hot potato"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "He is the __ of the family, always causing trouble.",
+    "options": ["A. black sheep", "B. white elephant", "C. dark horse", "D. red herring"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "The team won the match by the __ of their teeth.",
+    "options": ["A. skin", "B. hair", "C. nail", "D. bone"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Don't count your chickens before they __.",
+    "options": ["A. hatch", "B. lay", "C. fly", "D. crow"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "The politician was accused of __ the truth.",
+    "options": ["A. twisting", "B. turning", "C. bending", "D. breaking"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "The new employee is still __ and needs training.",
+    "options": ["A. wet behind the ears", "B. dry behind the ears", "C. green behind the ears", "D. fresh behind the ears"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "The couple decided to __ and start their own business.",
+    "options": ["A. take the plunge", "B. take the dive", "C. take the jump", "D. take the leap"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "The teacher's explanation went over the students' __.",
+    "options": ["A. heads", "B. minds", "C. brains", "D. eyes"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "He was __ when he heard the good news.",
+    "options": ["A. over the moon", "B. under the sun", "C. above the stars", "D. beyond the clouds"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "The company is __ after the CEO's resignation.",
+    "options": ["A. in hot water", "B. in cold water", "C. in deep water", "D. in warm water"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "She is a __, always reading and learning new things.",
+    "options": ["A. bookworm", "B. bookcase", "C. bookmark", "D. bookshop"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "The deal was a __, benefiting both parties.",
+    "options": ["A. win-win situation", "B. lose-lose situation", "C. win-lose situation", "D. lose-win situation"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "He let the grass grow under his __ and missed the opportunity.",
+    "options": ["A. feet", "B. hands", "C. legs", "D. arms"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The student's excuse was a __ to avoid punishment.",
+    "options": ["A. cock and bull story", "B. cat and dog story", "C. horse and cow story", "D. bird and bee story"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "The manager is always __, finding faults in everything.",
+    "options": ["A. nitpicking", "B. hair-splitting", "C. fault-finding", "D. fault-picking"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "The project was put on the __ because of lack of funds.",
+    "options": ["A. back burner", "B. front burner", "C. side burner", "D. top burner"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "She is the __ of the class, always scoring the highest marks.",
+    "options": ["A. cream", "B. milk", "C. butter", "D. cheese"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "The thief was caught __ by the security guard.",
+    "options": ["A. in the act", "B. in the action", "C. in the deed", "D. in the fact"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "The politician's promises were just __.",
+    "options": ["A. empty words", "B. full words", "C. blank words", "D. hollow words"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "The new policy will __ the gap between the rich and the poor.",
+    "options": ["A. bridge", "B. close", "C. fill", "D. cover"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "He is a __, always changing his mind.",
+    "options": ["A. weathercock", "B. weatherman", "C. weathervane", "D. weatherglass"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "The team's victory was a __ for the coach who was about to be fired.",
+    "options": ["A. lifeline", "B. lifeboat", "C. lifebuoy", "D. lifejacket"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "The student was __ when he failed the exam.",
+    "options": ["A. down in the dumps", "B. up in the clouds", "C. over the moon", "D. on top of the world"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "The company's profits have been __ for the last three years.",
+    "options": ["A. on the slide", "B. on the rise", "C. on the up", "D. on the climb"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "The two friends are __, sharing everything.",
+    "options": ["A. hand in glove", "B. hand in hand", "C. arm in arm", "D. shoulder to shoulder"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "The CEO's speech was a __, motivating the employees.",
+    "options": ["A. shot in the arm", "B. shot in the leg", "C. shot in the foot", "D. shot in the dark"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "He is a __, always taking risks.",
+    "options": ["A. daredevil", "B. coward", "C. weakling", "D. pushover"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "The teacher's remarks were __, criticizing the student publicly.",
+    "options": ["A. below the belt", "B. above the belt", "C. under the belt", "D. over the belt"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The project was completed __, just before the deadline.",
+    "options": ["A. in the nick of time", "B. in the click of time", "C. in the tick of time", "D. in the pick of time"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "The politician is a __, changing his party allegiance frequently.",
+    "options": ["A. turncoat", "B. overcoat", "C. raincoat", "D. topcoat"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "The student's essay was __, lacking any original ideas.",
+    "options": ["A. wishy-washy", "B. wishy-washy", "C. wash-wishy", "D. washy-wishy"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "The company decided to __ and start afresh.",
+    "options": ["A. turn over a new leaf", "B. turn over a new page", "C. turn over a new book", "D. turn over a new chapter"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "He is a __, always talking about himself.",
+    "options": ["A. egoist", "B. altruist", "C. optimist", "D. pessimist"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "The manager's decision was a __, pleasing no one.",
+    "options": ["A. double-edged sword", "B. single-edged sword", "C. sharp-edged sword", "D. blunt-edged sword"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "The children were __ when they saw the ice cream truck.",
+    "options": ["A. all ears", "B. all eyes", "C. all hands", "D. all feet"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 100,
+    "question": "The financial crisis was a __ for the small businesses.",
+    "options": ["A. death knell", "B. life bell", "C. birth knell", "D. death bell"],
+    "answer": "A",
+    "topic": "Lexis - Idioms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "The wind __ through the trees.",
+    "options": ["A. whispered", "B. shouted", "C. screamed", "D. yelled"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "The news hit him like a __.",
+    "options": ["A. ton of bricks", "B. pound of feathers", "C. bag of cotton", "D. box of tissues"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "The sun __ its warmth on the earth.",
+    "options": ["A. showers", "B. pours", "C. rains", "D. storms"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Her smile was a __, brightening the room.",
+    "options": ["A. ray of sunshine", "B. beam of moonlight", "C. flash of lightning", "D. glow of firelight"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "The city was a __ of activity during the festival.",
+    "options": ["A. hive", "B. nest", "C. den", "D. burrow"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "The mountain __ into the clouds.",
+    "options": ["A. pierced", "B. stabbed", "C. cut", "D. sliced"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The ocean was a __ of emotion.",
+    "options": ["A. sea", "B. lake", "C. river", "D. pond"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "His words were __, cutting deeply.",
+    "options": ["A. daggers", "B. swords", "C. knives", "D. blades"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The project was a __, dragging on for years.",
+    "options": ["A. millstone", "B. milestone", "C. touchstone", "D. cornerstone"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "The night was __, swallowing all light.",
+    "options": ["A. a blanket", "B. a curtain", "C. a sheet", "D. a cover"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "The old man's face was a __ of wrinkles.",
+    "options": ["A. map", "B. chart", "C. graph", "D. diagram"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "The music __ through the hall.",
+    "options": ["A. floated", "B. swam", "C. sailed", "D. drifted"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The soldier was a __, braving the storm.",
+    "options": ["A. lion", "B. tiger", "C. leopard", "D. panther"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "The teacher's voice was a __, calming the students.",
+    "options": ["A. balm", "B. bomb", "C. blast", "D. bolt"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "The leaves __ in the autumn breeze.",
+    "options": ["A. danced", "B. walked", "C. ran", "D. jumped"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "The truth was a __, hidden in plain sight.",
+    "options": ["A. diamond", "B. pearl", "C. ruby", "D. emerald"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "The car __ down the highway.",
+    "options": ["A. flew", "B. swam", "C. sailed", "D. crawled"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Her anger was a __, ready to erupt.",
+    "options": ["A. volcano", "B. geyser", "C. fountain", "D. spring"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "The book was a __, transporting me to another world.",
+    "options": ["A. window", "B. door", "C. gate", "D. portal"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "The silence was __, broken only by the clock.",
+    "options": ["A. deafening", "B. blinding", "C. numbing", "D. stunning"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "The tree __ its branches over the house.",
+    "options": ["A. stretched", "B. pulled", "C. dragged", "D. hauled"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "His ambition was a __, driving him forward.",
+    "options": ["A. fire", "B. flood", "C. storm", "D. breeze"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "The city lights were a __, guiding us home.",
+    "options": ["A. beacon", "B. shadow", "C. cloud", "D. fog"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "The child's laughter was __, filling the air.",
+    "options": ["A. music", "B. noise", "C. sound", "D. echo"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "The road __ into the distance.",
+    "options": ["A. snaked", "B. wormed", "C. crawled", "D. slithered"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "The old house was a __ of memories.",
+    "options": ["A. treasure trove", "B. gold mine", "C. silver mine", "D. copper mine"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "The storm was __, destroying everything in its path.",
+    "options": ["A. a beast", "B. a monster", "C. a giant", "D. a dragon"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The stars were __ in the sky.",
+    "options": ["A. diamonds", "B. pearls", "C. rubies", "D. emeralds"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "The conversation was __, going nowhere.",
+    "options": ["A. a treadmill", "B. a motorway", "C. a highway", "D. a freeway"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The rain was a __, washing away the dirt.",
+    "options": ["A. curtain", "B. blanket", "C. sheet", "D. cover"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "The idea was __, sparking a revolution.",
+    "options": ["A. a seed", "B. a stone", "C. a rock", "D. a pebble"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The desert was a __, devoid of life.",
+    "options": ["A. furnace", "B. freezer", "C. fridge", "D. oven"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "The crowd was a __, roaring with excitement.",
+    "options": ["A. sea", "B. river", "C. lake", "D. pond"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The deadline was a __, hanging over our heads.",
+    "options": ["A. sword", "B. knife", "C. dagger", "D. blade"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The truth was __, difficult to swallow.",
+    "options": ["A. a bitter pill", "B. a sweet pill", "C. a sour pill", "D. a salty pill"],
+    "answer": "A",
+    "topic": "Lexis - Figurative Usage",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "The __ of the new bridge will begin next month.",
+    "options": ["A. construction", "B. construct", "C. constructive", "D. constructor"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "The teacher praised the student for his __.",
+    "options": ["A. diligence", "B. diligent", "C. diligently", "D. diligentness"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "The company's __ has increased significantly.",
+    "options": ["A. productivity", "B. product", "C. productive", "D. production"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "It is __ to smoke in public places.",
+    "options": ["A. illegal", "B. legally", "C. legality", "D. legalize"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "The __ of the manuscript took two years.",
+    "options": ["A. completion", "B. complete", "C. complete", "D. completely"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "She is highly __ and always gets things done.",
+    "options": ["A. efficient", "B. efficiency", "C. efficiently", "D. efficiencies"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "The __ of the wild is a major concern.",
+    "options": ["A. preservation", "B. preserve", "C. preservative", "D. preserved"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "His __ to the project was invaluable.",
+    "options": ["A. contribution", "B. contribute", "C. contributive", "D. contributor"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "The weather is quite __ today.",
+    "options": ["A. unpredictable", "B. unpredictably", "C. unpredictability", "D. unpredicted"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "The __ of the building was damaged in the storm.",
+    "options": ["A. roof", "B. roofing", "C. roofed", "D. roofs"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "The scientist made a remarkable __.",
+    "options": ["A. discovery", "B. discover", "C. discoverer", "D. discovered"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "The __ of the novel was very touching.",
+    "options": ["A. conclusion", "B. conclude", "C. conclusive", "D. conclusively"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The company is looking for a highly __ candidate.",
+    "options": ["A. motivated", "B. motivate", "C. motivation", "D. motivating"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "The __ of the law was welcomed by many.",
+    "options": ["A. amendment", "B. amend", "C. amendable", "D. amended"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "His __ was evident from his trembling hands.",
+    "options": ["A. nervousness", "B. nervous", "C. nervously", "D. nerve"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "The __ of the painting is unknown.",
+    "options": ["A. origin", "B. original", "C. originally", "D. originate"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "The teacher's __ was appreciated by the parents.",
+    "options": ["A. dedication", "B. dedicate", "C. dedicated", "D. dedicatory"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "The __ of the machine requires special training.",
+    "options": ["A. operation", "B. operate", "C. operative", "D. operational"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "The __ of the project was delayed due to rain.",
+    "options": ["A. commencement", "B. commence", "C. commencing", "D. commenced"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "His __ to the team was undeniable.",
+    "options": ["A. commitment", "B. commit", "C. committed", "D. committal"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "The __ of the organization is to help the poor.",
+    "options": ["A. objective", "B. object", "C. objection", "D. objectively"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "The __ of the bridge was a remarkable feat.",
+    "options": ["A. engineering", "B. engineer", "C. engineered", "D. engines"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "The __ of the disease is still unknown.",
+    "options": ["A. cause", "B. causal", "C. causation", "D. caused"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "The __ of the novel is set in the 19th century.",
+    "options": ["A. setting", "B. set", "C. settler", "D. settled"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "The __ of the company was a sad occasion.",
+    "options": ["A. closure", "B. close", "C. closed", "D. closing"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "The __ of the data took several hours.",
+    "options": ["A. analysis", "B. analyse", "C. analytical", "D. analytically"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "The __ of the new policy is to reduce poverty.",
+    "options": ["A. aim", "B. aimless", "C. aimlessly", "D. aiming"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "The __ of the artist is displayed in the gallery.",
+    "options": ["A. work", "B. working", "C. worked", "D. worker"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "The __ of the building was found to be faulty.",
+    "options": ["A. structure", "B. structural", "C. structurally", "D. structured"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 165,
+    "question": "The __ of the forest is a major environmental issue.",
+    "options": ["A. destruction", "B. destroy", "C. destructive", "D. destructively"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "The __ of the plan was carefully considered.",
+    "options": ["A. feasibility", "B. feasible", "C. feasibly", "D. feasibleness"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "The __ of the argument was weak.",
+    "options": ["A. foundation", "B. found", "C. founder", "D. founded"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "The __ of the company is in the city center.",
+    "options": ["A. headquarters", "B. headquarter", "C. headquartering", "D. headquartered"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "The __ of the poem is very deep.",
+    "options": ["A. meaning", "B. mean", "C. meaningful", "D. meaningfully"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 170,
+    "question": "The __ of the river is polluted.",
+    "options": ["A. water", "B. watery", "C. watering", "D. watered"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "The __ of the play was very dramatic.",
+    "options": ["A. ending", "B. end", "C. ended", "D. endless"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "The __ of the team was a surprise.",
+    "options": ["A. victory", "B. victorious", "C. victoriously", "D. victor"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "The __ of the economy is a major concern.",
+    "options": ["A. state", "B. stately", "C. statement", "D. statesman"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "The __ of the experiment was inconclusive.",
+    "options": ["A. result", "B. resultful", "C. resulting", "D. resulted"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "The __ of the new law was celebrated.",
+    "options": ["A. passage", "B. pass", "C. passed", "D. passing"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "The __ of the company's profits was due to good management.",
+    "options": ["A. increase", "B. increasing", "C. increased", "D. increasingly"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "The __ of the manuscript was rejected.",
+    "options": ["A. submission", "B. submit", "C. submissive", "D. submitted"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "The __ of the disease spread rapidly.",
+    "options": ["A. symptoms", "B. symptomatic", "C. symptomatically", "D. symptomless"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "The __ of the evidence was crucial.",
+    "options": ["A. validity", "B. valid", "C. validate", "D. validly"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "The __ of the meeting was postponed.",
+    "options": ["A. agenda", "B. agendum", "C. agendic", "D. agendize"],
+    "answer": "A",
+    "topic": "Structure - Word Forms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Neither the teacher nor the students __ present.",
+    "options": ["A. was", "B. were", "C. is", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "Each of the boys __ a pen.",
+    "options": ["A. has", "B. have", "C. are", "D. were"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The committee __ divided in their opinions.",
+    "options": ["A. is", "B. are", "C. has", "D. was"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "Ten kilometers __ a long distance.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "The news __ very disturbing.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "Every man and woman __ the right to vote.",
+    "options": ["A. have", "B. has", "C. are", "D. were"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "The number of students __ increasing.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "A number of students __ absent today.",
+    "options": ["A. is", "B. was", "C. has", "D. are"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "The jury __ reached a verdict.",
+    "options": ["A. has", "B. have", "C. are", "D. were"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "Bread and butter __ my favorite breakfast.",
+    "options": ["A. are", "B. is", "C. were", "D. have"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "Neither of the answers __ correct.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "The police __ investigating the case.",
+    "options": ["A. is", "B. was", "C. has", "D. are"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Mathematics __ my favorite subject.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "question": "The cattle __ grazing in the field.",
+    "options": ["A. is", "B. are", "C. was", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "One of my friends __ coming to visit.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "The staff __ unhappy with the new policy.",
+    "options": ["A. is", "B. was", "C. has", "D. are"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Twenty dollars __ too much for a pen.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "The audience __ clapping enthusiastically.",
+    "options": ["A. is", "B. were", "C. has", "D. was"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 199,
+    "question": "There __ a few books on the table.",
+    "options": ["A. is", "B. was", "C. are", "D. has"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "My brother, together with his friends, __ going to the party.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "The scissors __ on the table.",
+    "options": ["A. are", "B. is", "C. was", "D. has"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "The information __ very useful.",
+    "options": ["A. are", "B. is", "C. were", "D. have"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "The equipment __ arrived.",
+    "options": ["A. have", "B. are", "C. has", "D. were"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "The furniture __ expensive.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "Physics __ a difficult subject.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "question": "The team __ playing well today.",
+    "options": ["A. are", "B. is", "C. were", "D. have"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "Nobody __ allowed to enter.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "Some of the water __ spilled.",
+    "options": ["A. have", "B. are", "C. were", "D. has"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Most of the students __ passed.",
+    "options": ["A. have", "B. has", "C. is", "D. was"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "question": "None of the food __ left.",
+    "options": ["A. are", "B. is", "C. were", "D. have"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The government __ agreed to the demands.",
+    "options": ["A. have", "B. are", "C. has", "D. were"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "The police __ arrested the suspect.",
+    "options": ["A. has", "B. is", "C. was", "D. have"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "question": "Fifty percent of the population __ poor.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "The committee members __ arguing among themselves.",
+    "options": ["A. is", "B. are", "C. was", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Neither the manager nor the employees __ satisfied.",
+    "options": ["A. is", "B. was", "C. are", "D. has"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "The English __ a difficult language.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "The poor __ always with us.",
+    "options": ["A. are", "B. is", "C. was", "D. has"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "The beautiful __ the prize.",
+    "options": ["A. win", "B. wins", "C. are", "D. were"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "The United States __ a powerful nation.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "question": "Athletics __ my favorite sport.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "A lot of money __ needed.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "A lot of people __ waiting.",
+    "options": ["A. is", "B. are", "C. was", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "question": "The sheep __ grazing.",
+    "options": ["A. is", "B. was", "C. are", "D. has"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 224,
+    "question": "The deer __ running fast.",
+    "options": ["A. are", "B. were", "C. have", "D. is"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "One-third of the work __ done.",
+    "options": ["A. has", "B. have", "C. are", "D. were"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "Two-thirds of the students __ failed.",
+    "options": ["A. has", "B. have", "C. is", "D. was"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The news of their arrival __ surprising.",
+    "options": ["A. were", "B. are", "C. was", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "question": "The scissors __ sharp.",
+    "options": ["A. is", "B. was", "C. has", "D. are"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "My trousers __ too tight.",
+    "options": ["A. are", "B. is", "C. was", "D. has"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "The binoculars __ useful.",
+    "options": ["A. is", "B. are", "C. was", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "The premise __ flawed.",
+    "options": ["A. are", "B. were", "C. is", "D. have"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "The premises __ being investigated.",
+    "options": ["A. is", "B. was", "C. has", "D. are"],
+    "answer": "D",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "A pair of shoes __ on the floor.",
+    "options": ["A. is", "B. are", "C. were", "D. have"],
+    "answer": "A",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "Two pairs of shoes __ missing.",
+    "options": ["A. is", "B. are", "C. was", "D. has"],
+    "answer": "B",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The majority of the students __ hardworking.",
+    "options": ["A. is", "B. was", "C. are", "D. has"],
+    "answer": "C",
+    "topic": "Structure - Concord and Sentence Patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "He is good __ mathematics.",
+    "options": ["A. at", "B. in", "C. on", "D. for"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "She is married __ a doctor.",
+    "options": ["A. with", "B. to", "C. by", "D. for"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "They arrived __ the airport on time.",
+    "options": ["A. in", "B. on", "C. at", "D. by"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "The book is __ the table.",
+    "options": ["A. in", "B. at", "C. by", "D. on"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "He has been living here __ 2010.",
+    "options": ["A. since", "B. for", "C. from", "D. during"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "I have been waiting __ two hours.",
+    "options": ["A. since", "B. for", "C. from", "D. during"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "He is afraid __ spiders.",
+    "options": ["A. from", "B. with", "C. of", "D. by"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "She is interested __ art.",
+    "options": ["A. on", "B. at", "C. for", "D. in"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "The teacher was angry __ the student.",
+    "options": ["A. with", "B. at", "C. on", "D. for"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "He is responsible __ the project.",
+    "options": ["A. to", "B. for", "C. of", "D. at"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 246,
+    "question": "They are dependent __ their parents.",
+    "options": ["A. at", "B. for", "C. on", "D. to"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "He is capable __ doing the work.",
+    "options": ["A. to", "B. for", "C. at", "D. of"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "The train is bound __ Lagos.",
+    "options": ["A. for", "B. to", "C. at", "D. in"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "He is addicted __ drugs.",
+    "options": ["A. with", "B. to", "C. on", "D. for"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "The company is committed __ quality.",
+    "options": ["A. for", "B. at", "C. to", "D. with"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "She was accused __ theft.",
+    "options": ["A. for", "B. with", "C. at", "D. of"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "The meeting was presided __ by the chairman.",
+    "options": ["A. over", "B. on", "C. at", "D. by"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "He is proficient __ French.",
+    "options": ["A. at", "B. in", "C. on", "D. with"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "The teacher insisted __ punctuality.",
+    "options": ["A. for", "B. at", "C. on", "D. with"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "They congratulated him __ his success.",
+    "options": ["A. for", "B. at", "C. with", "D. on"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "question": "He apologized __ his mistake.",
+    "options": ["A. for", "B. to", "C. at", "D. with"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "The room was filled __ smoke.",
+    "options": ["A. of", "B. with", "C. by", "D. in"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "The girl is similar __ her mother.",
+    "options": ["A. with", "B. at", "C. to", "D. for"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "He is not familiar __ the topic.",
+    "options": ["A. to", "B. at", "C. on", "D. with"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "She is endowed __ great talent.",
+    "options": ["A. with", "B. by", "C. of", "D. in"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "The man was convicted __ murder.",
+    "options": ["A. for", "B. of", "C. with", "D. at"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The company is based __ Lagos.",
+    "options": ["A. at", "B. on", "C. in", "D. for"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 263,
+    "question": "He is engaged __ his work.",
+    "options": ["A. on", "B. at", "C. with", "D. in"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "The team consists __ eleven players.",
+    "options": ["A. of", "B. with", "C. in", "D. at"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "He is devoid __ common sense.",
+    "options": ["A. from", "B. of", "C. with", "D. at"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "The book is dedicated __ his wife.",
+    "options": ["A. for", "B. at", "C. to", "D. with"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "They are subjected __ harsh conditions.",
+    "options": ["A. with", "B. for", "C. at", "D. to"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 268,
+    "question": "The child is dependent __ his mother.",
+    "options": ["A. on", "B. at", "C. for", "D. with"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The plan is susceptible __ failure.",
+    "options": ["A. for", "B. to", "C. at", "D. with"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "He is indifferent __ politics.",
+    "options": ["A. for", "B. at", "C. to", "D. with"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The teacher was disappointed __ the results.",
+    "options": ["A. for", "B. at", "C. on", "D. with"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "The company is liable __ damages.",
+    "options": ["A. for", "B. to", "C. at", "D. with"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "She is proficient __ playing the piano.",
+    "options": ["A. in", "B. at", "C. on", "D. with"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "He is famous __ his novels.",
+    "options": ["A. at", "B. in", "C. for", "D. with"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "The boy was blamed __ the mistake.",
+    "options": ["A. at", "B. with", "C. on", "D. for"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "The manager was annoyed __ the delay.",
+    "options": ["A. at", "B. with", "C. for", "D. on"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "The students are preparing __ the exam.",
+    "options": ["A. to", "B. for", "C. at", "D. on"],
+    "answer": "B",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "The soldiers were equipped __ modern weapons.",
+    "options": ["A. by", "B. at", "C. with", "D. for"],
+    "answer": "C",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The city is famous __ its beautiful beaches.",
+    "options": ["A. at", "B. in", "C. with", "D. for"],
+    "answer": "D",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "He is related __ the president.",
+    "options": ["A. to", "B. with", "C. at", "D. for"],
+    "answer": "A",
+    "topic": "Structure - Structural Words",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Which word contains the /θ/ sound?",
+    "options": ["A. think", "B. sink", "C. zinc", "D. link"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "The initial consonant in \"ship\" is __.",
+    "options": ["A. /s/", "B. /ʃ/", "C. /tʃ/", "D. /ʒ/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "The final consonant in \"bathe\" is __.",
+    "options": ["A. /θ/", "B. /t/", "C. /ð/", "D. /d/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Which word has the /tʃ/ sound?",
+    "options": ["A. ship", "B. sheep", "C. cheap", "D. jeep"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "The consonant cluster in \"string\" is __.",
+    "options": ["A. /str/", "B. /st/", "C. /tr/", "D. /spr/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Which word contains the /dʒ/ sound?",
+    "options": ["A. cheap", "B. jeep", "C. sheep", "D. ship"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The initial consonant in \"knight\" is __.",
+    "options": ["A. /n/", "B. /k/", "C. silent", "D. /g/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "The final consonant in \"sing\" is __.",
+    "options": ["A. /n/", "B. /g/", "C. /dʒ/", "D. /ŋ/"],
+    "answer": "D",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Which word has the /ʒ/ sound?",
+    "options": ["A. measure", "B. mission", "C. machine", "D. mature"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 290,
+    "question": "The consonant cluster in \"splash\" is __.",
+    "options": ["A. /sp/", "B. /spl/", "C. /pl/", "D. /spr/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Which word contains the /ʃ/ sound?",
+    "options": ["A. nation", "B. station", "C. action", "D. fraction"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "The initial consonant in \"psychology\" is __.",
+    "options": ["A. /p/", "B. /s/", "C. /k/", "D. silent"],
+    "answer": "D",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The final consonant in \"walked\" is __.",
+    "options": ["A. /t/", "B. /d/", "C. /k/", "D. /id/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Which word has the /ð/ sound?",
+    "options": ["A. think", "B. brother", "C. author", "D. thick"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "The consonant cluster in \"strength\" is __.",
+    "options": ["A. /str/", "B. /str/ and /ŋθ/", "C. /str/ and /ŋkθ/", "D. /sθ/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Which word contains the /tʃ/ sound?",
+    "options": ["A. nature", "B. nation", "C. mission", "D. vision"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "The initial consonant in \"hour\" is __.",
+    "options": ["A. silent", "B. /h/", "C. /aʊ/", "D. /ɒ/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "The final consonant in \"rubbed\" is __.",
+    "options": ["A. /t/", "B. /d/", "C. /b/", "D. /id/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "Which word has the /θ/ sound?",
+    "options": ["A. author", "B. mother", "C. brother", "D. weather"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "The consonant cluster in \"scream\" is __.",
+    "options": ["A. /sk/", "B. /kr/", "C. /skr/", "D. /spr/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "Which word contains the /dʒ/ sound?",
+    "options": ["A. age", "B. ache", "C. arch", "D. ash"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "The initial consonant in \"write\" is __.",
+    "options": ["A. /r/", "B. silent", "C. /w/", "D. /raɪ/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "The final consonant in \"washed\" is __.",
+    "options": ["A. /d/", "B. /ʃ/", "C. /t/", "D. /id/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "Which word has the /ʃ/ sound?",
+    "options": ["A. sugar", "B. sun", "C. son", "D. sin"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 305,
+    "question": "The consonant cluster in \"shrink\" is __.",
+    "options": ["A. /ʃr/", "B. /ʃ/", "C. /sr/", "D. /ʃk/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "question": "Which word contains the /ð/ sound?",
+    "options": ["A. weather", "B. wealthy", "C. width", "D. warmth"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The initial consonant in \"gnat\" is __.",
+    "options": ["A. /g/", "B. /n/", "C. silent", "D. /dʒ/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "The final consonant in \"played\" is __.",
+    "options": ["A. /t/", "B. /d/", "C. /eɪ/", "D. /id/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "Which word has the /ʒ/ sound?",
+    "options": ["A. vision", "B. vicious", "C. mission", "D. fission"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 310,
+    "question": "The consonant cluster in \"thrush\" is __.",
+    "options": ["A. /θr/", "B. /θ/", "C. /tr/", "D. /ʃr/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 311,
+    "question": "Which word contains the /tʃ/ sound?",
+    "options": ["A. question", "B. mission", "C. vision", "D. fusion"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "The initial consonant in \"know\" is __.",
+    "options": ["A. /n/", "B. /k/", "C. /w/", "D. silent"],
+    "answer": "D",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "The final consonant in \"missed\" is __.",
+    "options": ["A. /t/", "B. /d/", "C. /s/", "D. /id/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "Which word has the /θ/ sound?",
+    "options": ["A. thick", "B. this", "C. that", "D. these"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "The consonant cluster in \"sclerosis\" is __.",
+    "options": ["A. /skl/", "B. /sk/", "C. /sl/", "D. /kl/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 316,
+    "question": "Which word contains the /dʒ/ sound?",
+    "options": ["A. giant", "B. grant", "C. glance", "D. ghost"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "The initial consonant in \"whole\" is __.",
+    "options": ["A. silent", "B. /w/", "C. /h/", "D. /ɔ/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "The final consonant in \"begged\" is __.",
+    "options": ["A. /t/", "B. /d/", "C. /g/", "D. /id/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "Which word has the /ʃ/ sound?",
+    "options": ["A. machine", "B. much", "C. match", "D. march"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "The consonant cluster in \"spring\" is __.",
+    "options": ["A. /sp/", "B. /pr/", "C. /spr/", "D. /str/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "Which word contains the /ð/ sound?",
+    "options": ["A. they", "B. theory", "C. theatre", "D. theme"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "The initial consonant in \"pneumonia\" is __.",
+    "options": ["A. /p/", "B. silent", "C. /n/", "D. /nj/"],
+    "answer": "B",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "The final consonant in \"laughed\" is __.",
+    "options": ["A. /d/", "B. /f/", "C. /t/", "D. /id/"],
+    "answer": "C",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "Which word has the /ʒ/ sound?",
+    "options": ["A. pleasure", "B. pressure", "C. treasure", "D. measure"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "The consonant cluster in \"splendid\" is __.",
+    "options": ["A. /spl/", "B. /sp/", "C. /pl/", "D. /spr/"],
+    "answer": "A",
+    "topic": "Oral English - Consonants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Which word contains the /i:/ sound?",
+    "options": ["A. see", "B. sit", "C. set", "D. sat"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "The vowel in \"cat\" is __.",
+    "options": ["A. /ɑ:/", "B. /æ/", "C. /ʌ/", "D. /e/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "Which word has the /u:/ sound?",
+    "options": ["A. book", "B. look", "C. food", "D. good"],
+    "answer": "C",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "The diphthong in \"boy\" is __.",
+    "options": ["A. /aɪ/", "B. /eɪ/", "C. /aʊ/", "D. /ɔɪ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "Which word contains the /ʌ/ sound?",
+    "options": ["A. cup", "B. cap", "C. cop", "D. keep"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "The vowel in \"bird\" is __.",
+    "options": ["A. /ɪ/", "B. /ɜ:/", "C. /ə/", "D. /ʌ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "Which word has the /eɪ/ sound?",
+    "options": ["A. day", "B. die", "C. do", "D. dew"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 333,
+    "question": "The diphthong in \"house\" is __.",
+    "options": ["A. /aɪ/", "B. /eɪ/", "C. /ɔɪ/", "D. /aʊ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "question": "Which word contains the /ɒ/ sound?",
+    "options": ["A. hot", "B. hut", "C. hat", "D. hit"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "question": "The vowel in \"book\" is __.",
+    "options": ["A. /u:/", "B. /ʊ/", "C. /ʌ/", "D. /ə/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Which word has the /aɪ/ sound?",
+    "options": ["A. my", "B. may", "C. mow", "D. me"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "The diphthong in \"near\" is __.",
+    "options": ["A. /eə/", "B. /ʊə/", "C. /aɪ/", "D. /ɪə/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "Which word contains the /ə/ sound?",
+    "options": ["A. about", "B. above", "C. around", "D. all"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "The vowel in \"bed\" is __.",
+    "options": ["A. /ɪ/", "B. /e/", "C. /æ/", "D. /ʌ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "Which word has the /ɔ:/ sound?",
+    "options": ["A. door", "B. dog", "C. dot", "D. dug"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "question": "The diphthong in \"tour\" is __.",
+    "options": ["A. /ɔ:/", "B. /aʊ/", "C. /əʊ/", "D. /ʊə/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "Which word contains the /ɑ:/ sound?",
+    "options": ["A. car", "B. cat", "C. cut", "D. cot"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "The vowel in \"sit\" is __.",
+    "options": ["A. /i:/", "B. /ɪ/", "C. /e/", "D. /æ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "Which word has the /eə/ sound?",
+    "options": ["A. hair", "B. here", "C. hire", "D. hour"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "The diphthong in \"coin\" is __.",
+    "options": ["A. /aɪ/", "B. /eɪ/", "C. /aʊ/", "D. /ɔɪ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "Which word contains the /u:/ sound?",
+    "options": ["A. shoe", "B. show", "C. shop", "D. shot"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "The vowel in \"gone\" is __.",
+    "options": ["A. /ɒ/", "B. /ɔ:/", "C. /ʌ/", "D. /əʊ/"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "Which word has the /i:/ sound?",
+    "options": ["A. meat", "B. met", "C. mat", "D. mate"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 349,
+    "question": "The diphthong in \"cow\" is __.",
+    "options": ["A. /əʊ/", "B. /aɪ/", "C. /ɔɪ/", "D. /aʊ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "Which word contains the /ɜ:/ sound?",
+    "options": ["A. work", "B. walk", "C. wok", "D. week"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "The vowel in \"put\" is __.",
+    "options": ["A. /u:/", "B. /ʊ/", "C. /ʌ/", "D. /ə/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "Which word has the /æ/ sound?",
+    "options": ["A. hat", "B. hate", "C. hut", "D. hot"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "question": "The diphthong in \"fear\" is __.",
+    "options": ["A. /eə/", "B. /ʊə/", "C. /ɔɪ/", "D. /ɪə/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "Which word contains the /eɪ/ sound?",
+    "options": ["A. eight", "B. ate", "C. at", "D. it"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 355,
+    "question": "The vowel in \"law\" is __.",
+    "options": ["A. /əʊ/", "B. /ɔ:/", "C. /ɒ/", "D. /aʊ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "Which word has the /aɪ/ sound?",
+    "options": ["A. buy", "B. bay", "C. boy", "D. bow"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "The diphthong in \"sure\" is __.",
+    "options": ["A. /ɔ:/", "B. /aʊ/", "C. /əʊ/", "D. /ʊə/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 358,
+    "question": "Which word contains the /ʌ/ sound?",
+    "options": ["A. love", "B. move", "C. prove", "D. groove"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "The vowel in \"pen\" is __.",
+    "options": ["A. /ɪ/", "B. /e/", "C. /æ/", "D. /ʌ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "question": "Which word has the /ə/ sound?",
+    "options": ["A. sofa", "B. soda", "C. sofa", "D. so"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "The diphthong in \"late\" is __.",
+    "options": ["A. /aɪ/", "B. /ɔɪ/", "C. /aʊ/", "D. /eɪ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "Which word contains the /ɑ:/ sound?",
+    "options": ["A. father", "B. mother", "C. brother", "D. other"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "The vowel in \"fish\" is __.",
+    "options": ["A. /i:/", "B. /ɪ/", "C. /e/", "D. /æ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "Which word has the /ɔɪ/ sound?",
+    "options": ["A. noise", "B. nose", "C. nice", "D. nurse"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "The diphthong in \"boat\" is __.",
+    "options": ["A. /aʊ/", "B. /ɔɪ/", "C. /aɪ/", "D. /əʊ/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "Which word contains the /i:/ sound?",
+    "options": ["A. key", "B. kin", "C. ken", "D. can"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "The vowel in \"cup\" is __.",
+    "options": ["A. /æ/", "B. /ʌ/", "C. /ɑ:/", "D. /ɒ/"],
+    "answer": "B",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "Which word has the /aʊ/ sound?",
+    "options": ["A. now", "B. know", "C. new", "D. no"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "The diphthong in \"here\" is __.",
+    "options": ["A. /eə/", "B. /ʊə/", "C. /ɔɪ/", "D. /ɪə/"],
+    "answer": "D",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Which word contains the /ɜ:/ sound?",
+    "options": ["A. girl", "B. goal", "C. gull", "D. gall"],
+    "answer": "A",
+    "topic": "Oral English - Vowels",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "Which syllable is stressed in \"record\" (noun)?",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "Which syllable is stressed in \"record\" (verb)?",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "The word \"important\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "The word \"photography\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "The word \"banana\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "The word \"increase\" (verb) has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "The word \"increase\" (noun) has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "The word \"comfortable\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "The word \"development\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "The word \"necessary\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "The word \"committee\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "The word \"democracy\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "The word \"beautiful\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "The word \"education\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "The word \"university\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "The word \"hospital\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "question": "The word \"pronunciation\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "D",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "The word \"understand\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "The word \"Africa\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "The word \"economics\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "The word \"hotel\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "The word \"camera\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "question": "The word \"opposition\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "The word \"president\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "The word \"biology\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The word \"arithmetic\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "The word \"cinema\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "The word \"tomorrow\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "The word \"referee\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The word \"volunteer\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "The word \"cigarette\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "The word \"umbrella\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "question": "The word \"effective\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "The word \"recognize\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 405,
+    "question": "The word \"mechanic\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "The word \"guarantee\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 407,
+    "question": "The word \"politics\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "A",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "question": "The word \"police\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "The word \"engineer\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "C",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "The word \"disaster\" has stress on the __ syllable.",
+    "options": ["A. first", "B. second", "C. third", "D. fourth"],
+    "answer": "B",
+    "topic": "Oral English - Word Stress",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "\"He bought a RED car.\" The stress on RED emphasizes __.",
+    "options": ["A. color", "B. size", "C. shape", "D. speed"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "\"SHE is going to the party.\" The stress on SHE emphasizes __.",
+    "options": ["A. place", "B. person", "C. time", "D. action"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 413,
+    "question": "\"I said he would COME.\" The stress on COME emphasizes __.",
+    "options": ["A. person", "B. time", "C. action", "D. place"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "\"They arrived YESTERDAY.\" The stress on YESTERDAY emphasizes __.",
+    "options": ["A. place", "B. person", "C. action", "D. time"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 415,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. What is your name?", "B. Is he coming?", "C. Are you ready?", "D. Do you like it?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "Which sentence has a rising intonation?",
+    "options": ["A. Sit down.", "B. Are you coming?", "C. Close the door.", "D. What time is it?"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "question": "\"John broke the WINDOW.\" The stress on WINDOW emphasizes __.",
+    "options": ["A. person", "B. time", "C. object", "D. place"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "\"He is going to LAGOS.\" The stress on LAGOS emphasizes __.",
+    "options": ["A. person", "B. time", "C. action", "D. place"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 419,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. Close the door.", "B. Can you help?", "C. Is it true?", "D. Are you sure?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "Which sentence has a rising intonation?",
+    "options": ["A. Come here.", "B. Is he here?", "C. Sit down.", "D. Go away."],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "\"I want THAT book.\" The stress on THAT emphasizes __.",
+    "options": ["A. time", "B. place", "C. specific item", "D. action"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 422,
+    "question": "\"She gave him a PEN.\" The stress on PEN emphasizes __.",
+    "options": ["A. person", "B. time", "C. action", "D. object"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. Where do you live?", "B. Do you live here?", "C. Are you living here?", "D. Have you lived here?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "Which sentence has a rising intonation?",
+    "options": ["A. What is this?", "B. Can you help me?", "C. Who is that?", "D. Where are you?"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "\"WE won the match.\" The stress on WE emphasizes __.",
+    "options": ["A. time", "B. place", "C. group", "D. action"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "\"He will arrive TOMORROW.\" The stress on TOMORROW emphasizes __.",
+    "options": ["A. person", "B. place", "C. action", "D. time"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. Sit down.", "B. Are you sitting?", "C. Can you sit?", "D. Will you sit?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "\"I saw HIM yesterday.\" The stress on HIM emphasizes __.",
+    "options": ["A. time", "B. person", "C. place", "D. action"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "\"She bought a BLUE dress.\" The stress on BLUE emphasizes __.",
+    "options": ["A. person", "B. time", "C. color", "D. place"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "\"He is MY brother.\" The stress on MY emphasizes __.",
+    "options": ["A. time", "B. place", "C. action", "D. possession"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. How old are you?", "B. Are you old?", "C. Is he old?", "D. Do you know him?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "\"They went to the MARKET.\" The stress on MARKET emphasizes __.",
+    "options": ["A. time", "B. place", "C. person", "D. action"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 433,
+    "question": "\"I want to EAT.\" The stress on EAT emphasizes __.",
+    "options": ["A. person", "B. time", "C. action", "D. place"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 434,
+    "question": "\"She is VERY beautiful.\" The stress on VERY emphasizes __.",
+    "options": ["A. person", "B. place", "C. action", "D. degree"],
+    "answer": "D",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "Which sentence has a rising intonation?",
+    "options": ["A. Do you like it?", "B. What is it?", "C. Who is it?", "D. Where is it?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 436,
+    "question": "\"He gave ME the book.\" The stress on ME emphasizes __.",
+    "options": ["A. time", "B. person", "C. place", "D. action"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "\"The meeting is TODAY.\" The stress on TODAY emphasizes __.",
+    "options": ["A. person", "B. place", "C. time", "D. action"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 438,
+    "question": "Which sentence has a falling intonation?",
+    "options": ["A. Please come here.", "B. Can you come?", "C. Will you come?", "D. Are you coming?"],
+    "answer": "A",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 439,
+    "question": "\"I need a NEW phone.\" The stress on NEW emphasizes __.",
+    "options": ["A. person", "B. condition", "C. time", "D. place"],
+    "answer": "B",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "\"She is the BEST student.\" The stress on BEST emphasizes __.",
+    "options": ["A. person", "B. time", "C. quality", "D. place"],
+    "answer": "C",
+    "topic": "Oral English - Emphatic Stress and Intonation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 441,
+    "question": "Which word rhymes with \"cat\"?",
+    "options": ["A. hat", "B. dog", "C. bird", "D. fish"],
+    "answer": "A",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "Which word rhymes with \"blue\"?",
+    "options": ["A. red", "B. shoe", "C. green", "D. pink"],
+    "answer": "B",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "Which word rhymes with \"light\"?",
+    "options": ["A. day", "B. sun", "C. night", "D. moon"],
+    "answer": "C",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 444,
+    "question": "Which word rhymes with \"day\"?",
+    "options": ["A. night", "B. sun", "C. moon", "D. play"],
+    "answer": "D",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "Which word rhymes with \"rain\"?",
+    "options": ["A. train", "B. snow", "C. wind", "D. storm"],
+    "answer": "A",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "Which word rhymes with \"book\"?",
+    "options": ["A. pen", "B. look", "C. desk", "D. chair"],
+    "answer": "B",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 447,
+    "question": "Which word rhymes with \"house\"?",
+    "options": ["A. car", "B. tree", "C. mouse", "D. road"],
+    "answer": "C",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "Which word rhymes with \"tree\"?",
+    "options": ["A. rock", "B. stone", "C. sand", "D. see"],
+    "answer": "D",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "Which word rhymes with \"car\"?",
+    "options": ["A. star", "B. bus", "C. train", "D. bike"],
+    "answer": "A",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "Which word rhymes with \"sing\"?",
+    "options": ["A. dance", "B. ring", "C. jump", "D. run"],
+    "answer": "B",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "Which word rhymes with \"food\"?",
+    "options": ["A. drink", "B. eat", "C. mood", "D. cook"],
+    "answer": "C",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Which word rhymes with \"bird\"?",
+    "options": ["A. fish", "B. cat", "C. dog", "D. word"],
+    "answer": "D",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "Which word rhymes with \"cake\"?",
+    "options": ["A. bake", "B. cook", "C. fry", "D. boil"],
+    "answer": "A",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "Which word rhymes with \"moon\"?",
+    "options": ["A. star", "B. soon", "C. sun", "D. sky"],
+    "answer": "B",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 455,
+    "question": "Which word rhymes with \"pen\"?",
+    "options": ["A. book", "B. desk", "C. hen", "D. chair"],
+    "answer": "C",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "Which word rhymes with \"cold\"?",
+    "options": ["A. hot", "B. warm", "C. cool", "D. gold"],
+    "answer": "D",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "Which word rhymes with \"fish\"?",
+    "options": ["A. wish", "B. meat", "C. rice", "D. bread"],
+    "answer": "A",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 458,
+    "question": "Which word rhymes with \"door\"?",
+    "options": ["A. window", "B. floor", "C. wall", "D. roof"],
+    "answer": "B",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 459,
+    "question": "Which word rhymes with \"king\"?",
+    "options": ["A. queen", "B. prince", "C. wing", "D. throne"],
+    "answer": "C",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "Which word rhymes with \"table\"?",
+    "options": ["A. chair", "B. desk", "C. bed", "D. cable"],
+    "answer": "D",
+    "topic": "Oral English - Rhymes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "The phonetic symbol /i:/ represents the vowel in __.",
+    "options": ["A. see", "B. sit", "C. set", "D. sat"],
+    "answer": "A",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "The phonetic symbol /æ/ represents the vowel in __.",
+    "options": ["A. cart", "B. cat", "C. cut", "D. cot"],
+    "answer": "B",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "The phonetic symbol /ʃ/ represents the consonant in __.",
+    "options": ["A. sip", "B. zip", "C. ship", "D. chip"],
+    "answer": "C",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "The phonetic symbol /θ/ represents the consonant in __.",
+    "options": ["A. this", "B. that", "C. these", "D. think"],
+    "answer": "D",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "The phonetic symbol /ð/ represents the consonant in __.",
+    "options": ["A. this", "B. thin", "C. thick", "D. theme"],
+    "answer": "A",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "The phonetic symbol /ŋ/ represents the consonant in __.",
+    "options": ["A. sin", "B. sing", "C. son", "D. sun"],
+    "answer": "B",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 467,
+    "question": "The phonetic symbol /tʃ/ represents the consonant in __.",
+    "options": ["A. ship", "B. sheep", "C. cheap", "D. jeep"],
+    "answer": "C",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 468,
+    "question": "The phonetic symbol /dʒ/ represents the consonant in __.",
+    "options": ["A. cheap", "B. ship", "C. sheep", "D. jeep"],
+    "answer": "D",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "The phonetic symbol /ɔ:/ represents the vowel in __.",
+    "options": ["A. door", "B. dog", "C. dot", "D. dug"],
+    "answer": "A",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "The phonetic symbol /u:/ represents the vowel in __.",
+    "options": ["A. book", "B. food", "C. good", "D. look"],
+    "answer": "B",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 471,
+    "question": "The phonetic symbol /ʌ/ represents the vowel in __.",
+    "options": ["A. cap", "B. cop", "C. cup", "D. keep"],
+    "answer": "C",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "The phonetic symbol /ɜ:/ represents the vowel in __.",
+    "options": ["A. bat", "B. bet", "C. bit", "D. bird"],
+    "answer": "D",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "The phonetic symbol /ə/ represents the vowel in __.",
+    "options": ["A. about", "B. above", "C. around", "D. all"],
+    "answer": "A",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "The phonetic symbol /eɪ/ represents the diphthong in __.",
+    "options": ["A. die", "B. day", "C. do", "D. dew"],
+    "answer": "B",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "The phonetic symbol /aɪ/ represents the diphthong in __.",
+    "options": ["A. may", "B. mow", "C. my", "D. me"],
+    "answer": "C",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 476,
+    "question": "The phonetic symbol /ɔɪ/ represents the diphthong in __.",
+    "options": ["A. bay", "B. buy", "C. bow", "D. boy"],
+    "answer": "D",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "The phonetic symbol /aʊ/ represents the diphthong in __.",
+    "options": ["A. house", "B. horse", "C. hear", "D. hair"],
+    "answer": "A",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "The phonetic symbol /əʊ/ represents the diphthong in __.",
+    "options": ["A. how", "B. boat", "C. bout", "D. bait"],
+    "answer": "B",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "The phonetic symbol /ɪə/ represents the diphthong in __.",
+    "options": ["A. hair", "B. hire", "C. near", "D. hour"],
+    "answer": "C",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "The phonetic symbol /eə/ represents the diphthong in __.",
+    "options": ["A. here", "B. hire", "C. hour", "D. hair"],
+    "answer": "D",
+    "topic": "Oral English - Phonetic Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A play that ends with the death of the protagonist is a __.",
+    "options": ["A. tragedy", "B. comedy", "C. farce", "D. satire"],
+    "answer": "A",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "The main character in a novel is the __.",
+    "options": ["A. antagonist", "B. protagonist", "C. narrator", "D. author"],
+    "answer": "B",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "A poem of fourteen lines is called a __.",
+    "options": ["A. ballad", "B. ode", "C. sonnet", "D. elegy"],
+    "answer": "C",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "The repetition of initial consonant sounds in a line is __.",
+    "options": ["A. assonance", "B. consonance", "C. onomatopoeia", "D. alliteration"],
+    "answer": "D",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "A group of lines in a poem is a __.",
+    "options": ["A. stanza", "B. paragraph", "C. chapter", "D. scene"],
+    "answer": "A",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "The person who writes a play is a __.",
+    "options": ["A. poet", "B. playwright", "C. novelist", "D. essayist"],
+    "answer": "B",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "A story that teaches a moral lesson is a __.",
+    "options": ["A. myth", "B. legend", "C. fable", "D. epic"],
+    "answer": "C",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "The turning point in a story is the __.",
+    "options": ["A. exposition", "B. rising action", "C. falling action", "D. climax"],
+    "answer": "D",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "A speech made by a character alone on stage is a __.",
+    "options": ["A. soliloquy", "B. monologue", "C. dialogue", "D. aside"],
+    "answer": "A",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "The use of irony to mock or convey contempt is __.",
+    "options": ["A. parody", "B. sarcasm", "C. satire", "D. farce"],
+    "answer": "B",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "A poem that mourns the death of someone is an __.",
+    "options": ["A. ode", "B. ballad", "C. elegy", "D. epic"],
+    "answer": "C",
+    "topic": "Literature",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 492,
+    "question": "The atmosphere or feeling created by a literary work is the __.",
+    "options": ["A. theme", "B. plot", "C. setting", "D. mood"],
+    "answer": "D",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "A comparison using \"like\" or \"as\" is a __.",
+    "options": ["A. simile", "B. metaphor", "C. personification", "D. hyperbole"],
+    "answer": "A",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "A figure of speech in which human qualities are given to non-human things is __.",
+    "options": ["A. simile", "B. personification", "C. metaphor", "D. hyperbole"],
+    "answer": "B",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "The central message of a literary work is the __.",
+    "options": ["A. plot", "B. setting", "C. theme", "D. style"],
+    "answer": "C",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "A character who opposes the protagonist is the __.",
+    "options": ["A. narrator", "B. foil", "C. confidant", "D. antagonist"],
+    "answer": "D",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 497,
+    "question": "A long narrative poem about heroic deeds is an __.",
+    "options": ["A. epic", "B. ode", "C. sonnet", "D. elegy"],
+    "answer": "A",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The use of symbols to represent ideas is __.",
+    "options": ["A. imagery", "B. symbolism", "C. allegory", "D. allusion"],
+    "answer": "B",
+    "topic": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "A short story that typically has a surprising ending is a __.",
+    "options": ["A. fable", "B. parable", "C. anecdote", "D. myth"],
+    "answer": "C",
+    "topic": "Literature",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 500,
+    "question": "The perspective from which a story is told is the __.",
+    "options": ["A. theme", "B. plot", "C. setting", "D. point of view"],
+    "answer": "D",
+    "topic": "Literature",
+    "difficulty": "Easy"
+  }
+]

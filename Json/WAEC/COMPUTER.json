@@ -1,0 +1,6122 @@
+[
+  {
+    "id": 1,
+    "question": "The Abacus is best described as an early computing device used for:",
+    "options": [
+      "A. Storing large amounts of data",
+      "B. Performing arithmetic calculations",
+      "C. Printing documents rapidly",
+      "D. Transmitting signals over wires"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which early computing device was invented by John Napier?",
+    "options": [
+      "A. Slide rule",
+      "B. Pascal's calculator",
+      "C. Napier's bones",
+      "D. Leibnitz multiplier"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Charles Babbage is best known for designing the:",
+    "options": [
+      "A. Hollerith census machine",
+      "B. Burrough's machine",
+      "C. Jacquard loom",
+      "D. Analytical engine"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The Jacquard loom was significant because it used:",
+    "options": [
+      "A. Punched cards to control weaving",
+      "B. Steam power to compute sums",
+      "C. Magnetic tapes to store data",
+      "D. Vacuum tubes to process data"
+    ],
+    "answer": "A",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "The Hollerith census machine was developed primarily to:",
+    "options": [
+      "A. Compute payrolls for factories",
+      "B. Control textile weaving patterns",
+      "C. Process census data using punched cards",
+      "D. Perform logarithmic calculations"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "ENIAC was one of the earliest electronic computers and used:",
+    "options": [
+      "A. Transistors for processing",
+      "B. Vacuum tubes for computation",
+      "C. Integrated circuits for speed",
+      "D. Microprocessors for storage"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "UNIVAC 1 was notable as the first commercial computer in the:",
+    "options": [
+      "A. United Kingdom",
+      "B. Soviet Union",
+      "C. West Germany",
+      "D. United States"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "A palmtop computer is best described as a device that is:",
+    "options": [
+      "A. Large and fixed to a desk",
+      "B. Small enough to fit in the hand",
+      "C. Mounted on a wall",
+      "D. Worn on the wrist"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a characteristic of modern computers?",
+    "options": [
+      "A. They operate slowly but accurately",
+      "B. They require constant manual calculation",
+      "C. They process data electronically at high speed",
+      "D. They cannot store information"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The two main constituents of a computer system are:",
+    "options": [
+      "A. Input and output devices",
+      "B. Hardware and software",
+      "C. Memory and storage",
+      "D. Data and information"
+    ],
+    "answer": "B",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is an example of computer hardware?",
+    "options": [
+      "A. Operating system",
+      "B. Word processor",
+      "C. Antivirus program",
+      "D. Monitor"
+    ],
+    "answer": "D",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Data that has been processed into a meaningful form is called:",
+    "options": [
+      "A. Information",
+      "B. Raw facts",
+      "C. Binary digits",
+      "D. Input signals"
+    ],
+    "answer": "A",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following best illustrates data rather than information?",
+    "options": [
+      "A. A summary of total sales for the year",
+      "B. A chart showing average rainfall",
+      "C. A list of unprocessed student scores",
+      "D. A report on employee performance"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "A computer virus is best described as:",
+    "options": [
+      "A. A hardware fault in the CPU",
+      "B. A program that replicates and damages files",
+      "C. A physical component of the motherboard",
+      "D. A type of network cable"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a preventive measure against computer viruses?",
+    "options": [
+      "A. Disabling all antivirus software",
+      "B. Opening all email attachments carelessly",
+      "C. Sharing passwords with strangers",
+      "D. Installing reputable antivirus software"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "A firewall is used to:",
+    "options": [
+      "A. Cool down the computer's processor",
+      "B. Filter and block unauthorized network traffic",
+      "C. Increase the storage capacity of a disk",
+      "D. Speed up the printing of documents"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Encryption is a process used to:",
+    "options": [
+      "A. Convert data into an unreadable form",
+      "B. Compress files to save space",
+      "C. Scan the computer for viruses",
+      "D. Increase the brightness of a monitor"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "A person who gains unauthorized access to computer systems is called a:",
+    "options": ["A. Programmer", "B. Analyst", "C. Hacker", "D. Technician"],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Spamming refers to the sending of:",
+    "options": [
+      "A. Encrypted files to a server",
+      "B. Unwanted bulk electronic messages",
+      "C. Backup copies to a hard disk",
+      "D. Printed documents to an office"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a legal issue related to computing?",
+    "options": [
+      "A. Increasing monitor resolution",
+      "B. Upgrading the computer memory",
+      "C. Formatting a hard disk drive",
+      "D. Copyright infringement of software"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "A device used to enter data into a computer is called an:",
+    "options": [
+      "A. Output device",
+      "B. Input device",
+      "C. Storage device",
+      "D. Processing device"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is an input device?",
+    "options": ["A. Monitor", "B. Printer", "C. Scanner", "D. Speaker"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "The keys F1 to F12 on a keyboard are classified as:",
+    "options": [
+      "A. Numeric keys",
+      "B. Alphabetic keys",
+      "C. Cursor keys",
+      "D. Function keys"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "The mouse is primarily used to:",
+    "options": [
+      "A. Point, click and select items",
+      "B. Type text into a document",
+      "C. Print documents on paper",
+      "D. Store files permanently"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "A light pen is best used for:",
+    "options": [
+      "A. Printing graphics on paper",
+      "B. Scanning photographs into a computer",
+      "C. Drawing directly on a screen",
+      "D. Listening to audio recordings"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is an output device?",
+    "options": ["A. Keyboard", "B. Plotter", "C. Joystick", "D. Scanner"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "A plotter is specifically designed to produce:",
+    "options": [
+      "A. High-quality text documents",
+      "B. Photographic images on paper",
+      "C. Audio output from a computer",
+      "D. Large-scale drawings and graphics"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which printer uses a laser beam to produce images?",
+    "options": [
+      "A. Inkjet printer",
+      "B. Laser printer",
+      "C. Dot matrix printer",
+      "D. Line printer"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "A line printer is characterised by printing:",
+    "options": [
+      "A. One character at a time",
+      "B. One page of text at a time",
+      "C. One line of text at a time",
+      "D. One image at a time"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "The component of the CPU that performs arithmetic and logical operations is the:",
+    "options": [
+      "A. Control unit",
+      "B. Memory unit",
+      "C. Register unit",
+      "D. Arithmetic and logic unit"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The control unit of the CPU is responsible for:",
+    "options": [
+      "A. Performing mathematical calculations",
+      "B. Directing the flow of operations in the computer",
+      "C. Storing data permanently",
+      "D. Displaying output on the monitor"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The combination of the CPU and the memory unit is known as the:",
+    "options": [
+      "A. System unit",
+      "B. Input unit",
+      "C. Output unit",
+      "D. Storage unit"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "Which type of memory is volatile and loses its contents when power is off?",
+    "options": ["A. ROM", "B. Hard disk", "C. RAM", "D. Flash disk"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "ROM is best described as memory that:",
+    "options": [
+      "A. Can be written to frequently",
+      "B. Holds instructions permanently",
+      "C. Loses data when powered off",
+      "D. Is used as temporary storage"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is a secondary storage device?",
+    "options": ["A. RAM", "B. ROM", "C. Cache memory", "D. Hard disk"],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "One nibble is equivalent to:",
+    "options": ["A. 4 bits", "B. 8 bits", "C. 16 bits", "D. 2 bits"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "One kilobyte is approximately equal to:",
+    "options": [
+      "A. 1,000 megabytes",
+      "B. 1,024 bytes",
+      "C. 1,024 bits",
+      "D. 1,000 gigabytes"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Which logic gate outputs 1 only when all inputs are 1?",
+    "options": ["A. OR gate", "B. NOT gate", "C. AND gate", "D. NOR gate"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The NOT gate is also known as an:",
+    "options": ["A. Adder", "B. Comparator", "C. Multiplier", "D. Inverter"],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Which gate is a combination of AND and NOT operations?",
+    "options": ["A. NAND gate", "B. OR gate", "C. XOR gate", "D. NOR gate"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "System software is designed primarily to:",
+    "options": [
+      "A. Create spreadsheets for accounting",
+      "B. Control and manage computer hardware",
+      "C. Design graphics for advertising",
+      "D. Compose music for entertainment"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "An example of an operating system is:",
+    "options": ["A. MS Word", "B. MS Excel", "C. MS Windows", "D. MS Access"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "A compiler translates a program written in:",
+    "options": [
+      "A. Machine language to high-level language",
+      "B. Assembly language to high-level language",
+      "C. Binary code to decimal code",
+      "D. High-level language to machine language"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "An interpreter translates and executes a program:",
+    "options": [
+      "A. One line at a time",
+      "B. After compiling the whole program",
+      "C. Only after saving the file",
+      "D. Using a separate linker"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a utility program?",
+    "options": [
+      "A. MS Word",
+      "B. Antivirus software",
+      "C. MS Excel",
+      "D. CorelDraw"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "A graphical user interface allows a user to interact with the computer using:",
+    "options": [
+      "A. Only typed commands",
+      "B. Punched cards and tape",
+      "C. Icons, menus and windows",
+      "D. Switches and cables"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "MS-DOS is an example of an operating system that uses a:",
+    "options": [
+      "A. Graphical user interface",
+      "B. Touch screen interface",
+      "C. Voice recognition interface",
+      "D. Command line interface"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is an example of application software?",
+    "options": ["A. MS Excel", "B. Linux", "C. UNIX", "D. MS-DOS"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "A spreadsheet package is most suitable for:",
+    "options": [
+      "A. Typing letters and memos",
+      "B. Performing calculations and analysing data",
+      "C. Designing logos and banners",
+      "D. Managing large relational databases"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a word processing package?",
+    "options": ["A. MS Excel", "B. MS Access", "C. MS Word", "D. CorelDraw"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "The main advantage of word processing over manual typing is:",
+    "options": [
+      "A. It requires no electricity",
+      "B. It cannot store documents",
+      "C. It uses no printer",
+      "D. It allows easy editing and formatting"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "In MS Word, the operation of moving text to another location involves:",
+    "options": [
+      "A. Cut and paste",
+      "B. Copy and paste",
+      "C. Save and print",
+      "D. Find and replace"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "In a spreadsheet, a cell is identified by its:",
+    "options": [
+      "A. Colour and size",
+      "B. Row and column reference",
+      "C. Font and style",
+      "D. File and folder name"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "A collection of worksheets in MS Excel is called a:",
+    "options": ["A. Database", "B. Document", "C. Workbook", "D. Presentation"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is a data type in MS Excel?",
+    "options": ["A. Record", "B. Field", "C. Query", "D. Label"],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The built-in function used to add a range of cells in Excel is:",
+    "options": ["A. SUM", "B. AVERAGE", "C. COUNT", "D. MAX"],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "A database is best defined as an organised collection of:",
+    "options": [
+      "A. Unrelated files",
+      "B. Related data",
+      "C. Printed documents",
+      "D. Web pages"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "In a database, a field refers to a:",
+    "options": [
+      "A. Complete set of records",
+      "B. Collection of related tables",
+      "C. Single piece of information about an entity",
+      "D. Type of query language"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is a database package?",
+    "options": [
+      "A. MS Word",
+      "B. MS Excel",
+      "C. MS PowerPoint",
+      "D. MS Access"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "Which database organisation method uses a tree-like structure?",
+    "options": [
+      "A. Hierarchical",
+      "B. Relational",
+      "C. Network",
+      "D. Object-oriented"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is a graphics package?",
+    "options": ["A. MS Word", "B. CorelDraw", "C. MS Excel", "D. MS Access"],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "MS PowerPoint is primarily used to:",
+    "options": [
+      "A. Perform arithmetic calculations",
+      "B. Manage relational databases",
+      "C. Create and deliver slide presentations",
+      "D. Edit and format text documents"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "In a database, a record is best described as a:",
+    "options": [
+      "A. Single character in a table",
+      "B. Collection of related tables",
+      "C. Type of primary key only",
+      "D. Complete set of fields about one entity"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "Which type of file organisation allows records to be accessed in any order?",
+    "options": [
+      "A. Random",
+      "B. Serial",
+      "C. Sequential",
+      "D. Indexed sequential only"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "A file that stores relatively permanent data about an organisation is called a:",
+    "options": [
+      "A. Transaction file",
+      "B. Master file",
+      "C. Reference file",
+      "D. Backup file"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The process of creating a duplicate copy of data for safety is called:",
+    "options": ["A. Formatting", "B. Deleting", "C. Backup", "D. Encoding"],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "One cause of data loss in a computer system is:",
+    "options": [
+      "A. Regular backup of files",
+      "B. Use of antivirus software",
+      "C. Proper labelling of disks",
+      "D. Inadvertent deletion of files"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is a method of securing computer files?",
+    "options": [
+      "A. Using strong passwords",
+      "B. Sharing passwords with friends",
+      "C. Disabling antivirus programs",
+      "D. Leaving disks unlabelled"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "Cold booting refers to starting a computer from a:",
+    "options": [
+      "A. Powered-on state",
+      "B. Powered-off state",
+      "C. Sleep state",
+      "D. Hibernation state"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Warm booting is performed when the computer is:",
+    "options": [
+      "A. Completely switched off",
+      "B. Disconnected from power",
+      "C. Already powered on",
+      "D. Being assembled"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "The process of starting up a computer and loading the operating system is called:",
+    "options": ["A. Formatting", "B. Debugging", "C. Compiling", "D. Booting"],
+    "answer": "D",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "A register is a small storage location located within the:",
+    "options": [
+      "A. Central processing unit",
+      "B. Hard disk drive",
+      "C. Monitor screen",
+      "D. Keyboard device"
+    ],
+    "answer": "A",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "The register that holds the address of the next instruction is the:",
+    "options": [
+      "A. Memory data register",
+      "B. Program counter",
+      "C. Current instruction register",
+      "D. Accumulator"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 74,
+    "question": "The main advantage of a bus with a wider width is that it:",
+    "options": [
+      "A. Uses less electricity",
+      "B. Requires no memory",
+      "C. Transfers more data at once",
+      "D. Slows down processing"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The acronym ICT stands for:",
+    "options": [
+      "A. International Computer Technology",
+      "B. Integrated Communication Terminal",
+      "C. Internet and Computing Tool",
+      "D. Information and Communication Technology"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Radio broadcasting is an example of which type of ICT?",
+    "options": [
+      "A. Broadcasting",
+      "B. Telecommunication",
+      "C. Data network",
+      "D. Information system"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "A network that covers a small geographical area such as an office is called a:",
+    "options": ["A. WAN", "B. LAN", "C. MAN", "D. PAN"],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 78,
+    "question": "A network that spans a city or large town is known as a:",
+    "options": ["A. PAN", "B. LAN", "C. MAN", "D. WAN"],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is an example of a data network?",
+    "options": [
+      "A. Radio broadcasting",
+      "B. Television broadcasting",
+      "C. Satellite television",
+      "D. The Internet"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "A meeting held between people in different locations using ICT is called:",
+    "options": [
+      "A. Teleconferencing",
+      "B. Telecommuting",
+      "C. Broadcasting",
+      "D. Teleprinting"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The practice of working from home using ICT is known as:",
+    "options": [
+      "A. Teleconferencing",
+      "B. Telecommuting",
+      "C. Telemarketing",
+      "D. Telebanking"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "The acronym WWW stands for:",
+    "options": [
+      "A. Wide World Web",
+      "B. Web Wide World",
+      "C. World Wide Web",
+      "D. World Web Wide"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "A software program used to access and view web pages is called a:",
+    "options": ["A. Compiler", "B. Server", "C. Router", "D. Browser"],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following is a web browser?",
+    "options": ["A. Firefox", "B. MS Word", "C. MS Excel", "D. CorelDraw"],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "An Internet Service Provider (ISP) is a company that:",
+    "options": [
+      "A. Designs web pages for clients",
+      "B. Provides access to the Internet",
+      "C. Manufactures computer hardware",
+      "D. Trains computer technicians"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "The first page displayed when a website is opened is called the:",
+    "options": ["A. Bookmark", "B. Hyperlink", "C. Homepage", "D. Cookie"],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "In the email address fmemail@fmegovng.org, the part 'fmegovng.org' is the:",
+    "options": [
+      "A. Username",
+      "B. Password",
+      "C. Subject line",
+      "D. Domain name"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "The protocol used for transferring web pages on the Internet is:",
+    "options": ["A. HTTP", "B. FTP", "C. SMTP", "D. POP3"],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "HTML is primarily used to:",
+    "options": [
+      "A. Compress files for transfer",
+      "B. Design and structure web pages",
+      "C. Encrypt email messages",
+      "D. Manage database records"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is a real-time text communication service on the Internet?",
+    "options": ["A. FTP", "B. Telnet", "C. Chatting", "D. Usenet"],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "A device that connects a computer to a telephone line for Internet access is a:",
+    "options": ["A. Hub", "B. Switch", "C. Router", "D. Modem"],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "A network device that connects multiple computers within a LAN is a:",
+    "options": ["A. Hub", "B. Printer", "C. Scanner", "D. Plotter"],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "A network interface card (NIC) is used to:",
+    "options": [
+      "A. Print documents over a network",
+      "B. Connect a computer to a network",
+      "C. Scan images into a computer",
+      "D. Store files permanently"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Which network topology connects all devices to a central device?",
+    "options": [
+      "A. Bus topology",
+      "B. Ring topology",
+      "C. Star topology",
+      "D. Mesh topology"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "In a bus topology, all devices share a:",
+    "options": [
+      "A. Central hub",
+      "B. Ring of connections",
+      "C. Wireless access point",
+      "D. Single communication cable"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is a type of network cable?",
+    "options": [
+      "A. Twisted pair",
+      "B. USB cable",
+      "C. Power cable",
+      "D. Monitor cable"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The connector commonly used with twisted pair network cables is the:",
+    "options": ["A. RJ11", "B. RJ45", "C. USB", "D. VGA"],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "Machine language is best described as:",
+    "options": [
+      "A. English-like instructions easy to read",
+      "B. A language for web design",
+      "C. Binary instructions understood by the CPU",
+      "D. A database query language"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "Assembly language is an example of a:",
+    "options": [
+      "A. High level language",
+      "B. Machine language",
+      "C. Natural language",
+      "D. Low level language"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is a high level programming language?",
+    "options": [
+      "A. BASIC",
+      "B. Machine code",
+      "C. Assembly language",
+      "D. Binary code"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "An algorithm is best defined as a:",
+    "options": [
+      "A. Diagram showing hardware connections",
+      "B. Step-by-step procedure for solving a problem",
+      "C. Program written in machine code",
+      "D. Set of physical computer components"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "A flowchart is a:",
+    "options": [
+      "A. List of programming languages",
+      "B. Table of data values",
+      "C. Graphical representation of an algorithm",
+      "D. Set of computer instructions"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "The flowchart symbol for input or output is a:",
+    "options": ["A. Rectangle", "B. Diamond", "C. Circle", "D. Parallelogram"],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "A decision in a flowchart is represented by a:",
+    "options": ["A. Diamond", "B. Rectangle", "C. Parallelogram", "D. Oval"],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "BASIC is an acronym for:",
+    "options": [
+      "A. Basic Algorithm and System Instruction Code",
+      "B. Beginner's All-purpose Symbolic Instruction Code",
+      "C. Binary All-purpose System Instruction Code",
+      "D. Beginner's Algorithmic System Input Code"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "In BASIC, the PRINT statement is used to:",
+    "options": [
+      "A. Accept data from the user",
+      "B. Define variables only",
+      "C. Display output on the screen",
+      "D. Perform arithmetic operations"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "In BASIC, the INPUT statement is used to:",
+    "options": [
+      "A. Display results on the screen",
+      "B. Print documents on paper",
+      "C. Declare a constant value",
+      "D. Accept data entered by the user"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "The BASIC statement used to assign a value to a variable is:",
+    "options": ["A. LET", "B. PRINT", "C. REM", "D. DATA"],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The BASIC statement used to add comments to a program is:",
+    "options": ["A. LET", "B. REM", "C. INPUT", "D. END"],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "In BASIC, the arithmetic operator used for multiplication is:",
+    "options": ["A. +", "B. -", "C. *", "D. /"],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "The BASIC built-in function SQR(X) is used to find the:",
+    "options": [
+      "A. Square of X",
+      "B. Sine of X",
+      "C. Absolute value of X",
+      "D. Square root of X"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "The BASIC built-in function ABS(X) returns the:",
+    "options": [
+      "A. Absolute value of X",
+      "B. Square of X",
+      "C. Logarithm of X",
+      "D. Integer part of X"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "The BASIC statement DIM is used to:",
+    "options": [
+      "A. Print values on the screen",
+      "B. Declare an array and its size",
+      "C. Define a constant value",
+      "D. End the program execution"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "A FOR-NEXT loop in BASIC is used to:",
+    "options": [
+      "A. Define a database structure",
+      "B. Accept input from a user once",
+      "C. Perform a task a specified number of times",
+      "D. Print a constant value once"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "The first stage of the system development cycle is:",
+    "options": [
+      "A. Design",
+      "B. Implementation",
+      "C. Maintenance",
+      "D. Preliminary study"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "The feasibility stage of system development involves:",
+    "options": [
+      "A. Assessing whether the project is workable",
+      "B. Writing program code",
+      "C. Testing the finished system",
+      "D. Training end users"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "A characteristic of a good program is that it should be:",
+    "options": [
+      "A. Difficult to read",
+      "B. Accurate and readable",
+      "C. Very long and complex",
+      "D. Poorly documented"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Desk checking in program development means:",
+    "options": [
+      "A. Running the program on a computer",
+      "B. Printing the program on paper",
+      "C. Manually reviewing the program for errors",
+      "D. Compiling the program to machine code"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is an interpreted programming language?",
+    "options": ["A. COBOL", "B. FORTRAN", "C. Assembly language", "D. BASIC"],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is a compiled programming language?",
+    "options": [
+      "A. COBOL",
+      "B. BASIC interpreter",
+      "C. Python shell",
+      "D. HTML"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "The Slide Rule was historically used mainly for:",
+    "options": [
+      "A. Storing census data",
+      "B. Performing logarithmic calculations",
+      "C. Weaving textile patterns",
+      "D. Printing documents"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Pascal's calculator was designed to perform:",
+    "options": [
+      "A. Multiplication only",
+      "B. Square roots and logarithms",
+      "C. Addition and subtraction",
+      "D. Trigonometric calculations"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "The Leibnitz multiplier was an improvement on earlier devices because it could:",
+    "options": [
+      "A. Store large amounts of data",
+      "B. Connect to the Internet",
+      "C. Display colour graphics",
+      "D. Perform multiplication directly"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "EDVAC was significant in computer evolution because it introduced the concept of:",
+    "options": [
+      "A. Stored program instructions",
+      "B. Wireless networking",
+      "C. Graphical user interfaces",
+      "D. Magnetic tape storage"
+    ],
+    "answer": "A",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "A laptop computer is best described as a device that is:",
+    "options": [
+      "A. Fixed to a desk",
+      "B. Portable and battery-powered",
+      "C. Worn on the wrist",
+      "D. Mounted on a wall"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is an example of computer software?",
+    "options": [
+      "A. Keyboard",
+      "B. Monitor",
+      "C. Operating system",
+      "D. Printer"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "The characteristic of a computer that ensures consistent correct results is:",
+    "options": ["A. Versatility", "B. Storage", "C. Automation", "D. Accuracy"],
+    "answer": "D",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Which of the following best distinguishes data from information?",
+    "options": [
+      "A. Data is raw facts while information is processed",
+      "B. Data is processed while information is raw",
+      "C. Data is always numeric while information is text",
+      "D. Data is stored while information is deleted"
+    ],
+    "answer": "A",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "A Trojan horse is best described as malware that:",
+    "options": [
+      "A. Spreads automatically through networks",
+      "B. Disguises itself as useful software",
+      "C. Physically damages computer hardware",
+      "D. Increases computer processing speed"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "A worm differs from a virus mainly because a worm:",
+    "options": [
+      "A. Cannot replicate itself",
+      "B. Only affects printed documents",
+      "C. Replicates and spreads across networks",
+      "D. Requires human action to spread"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Software copyright is a legal issue that protects the:",
+    "options": [
+      "A. Physical computer hardware",
+      "B. Network cables used in offices",
+      "C. Power supply of computers",
+      "D. Rights of software creators"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Identity theft is best described as the:",
+    "options": [
+      "A. Use of another person's personal information fraudulently",
+      "B. Creation of backup copies of files",
+      "C. Installation of antivirus software",
+      "D. Sharing of files over a network"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "The numeric keys on a keyboard are mainly used to:",
+    "options": [
+      "A. Type letters and words",
+      "B. Enter numbers and perform calculations",
+      "C. Control the cursor position",
+      "D. Open application menus"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The cursor keys on a keyboard are used to:",
+    "options": [
+      "A. Delete entire files from storage",
+      "B. Print documents on paper",
+      "C. Move the insertion point on the screen",
+      "D. Connect the computer to a network"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "A joystick is most commonly used for:",
+    "options": [
+      "A. Scanning photographs",
+      "B. Printing documents",
+      "C. Storing data permanently",
+      "D. Playing computer games"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is a similarity between inkjet and laser printers?",
+    "options": [
+      "A. Both produce high-quality output",
+      "B. Both use ribbon cartridges",
+      "C. Both are line printers",
+      "D. Both use impact printing"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "An advantage of an LCD monitor over an old CRT monitor is that it:",
+    "options": [
+      "A. Uses more electricity",
+      "B. Consumes less power",
+      "C. Is much heavier",
+      "D. Takes up more space"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A speaker connected to a computer is used to:",
+    "options": [
+      "A. Accept voice input",
+      "B. Display visual output",
+      "C. Produce sound output",
+      "D. Store data permanently"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "Which of the following is a difference between RAM and ROM?",
+    "options": [
+      "A. RAM is non-volatile while ROM is volatile",
+      "B. Both are volatile memory types",
+      "C. Both are permanent storage types",
+      "D. RAM is volatile while ROM is non-volatile"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "A flash disk is an example of:",
+    "options": [
+      "A. Secondary storage",
+      "B. Primary memory",
+      "C. Input device",
+      "D. Output device"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "The unit of storage that is larger than a megabyte is the:",
+    "options": ["A. Byte", "B. Gigabyte", "C. Kilobyte", "D. Bit"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "The logic gate that outputs 1 when at least one input is 1 is the:",
+    "options": ["A. AND gate", "B. NOT gate", "C. OR gate", "D. NOR gate"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "A comparator is a logic circuit used to:",
+    "options": [
+      "A. Store data permanently",
+      "B. Convert analog to digital signals",
+      "C. Amplify electrical signals",
+      "D. Compare two binary values"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is an example of system software?",
+    "options": [
+      "A. Operating system",
+      "B. MS Word",
+      "C. MS Excel",
+      "D. CorelDraw"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "An assembler is a translator that converts:",
+    "options": [
+      "A. Machine language to high level language",
+      "B. Assembly language to machine language",
+      "C. High level language to assembly language",
+      "D. Binary code to decimal code"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is an example of a command line operating system?",
+    "options": ["A. MS Windows", "B. Linux desktop", "C. UNIX", "D. Mac OS X"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 147,
+    "question": "An editor is an example of a:",
+    "options": [
+      "A. Operating system",
+      "B. Translator",
+      "C. Application package",
+      "D. Utility program"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is an example of operating system for mobile devices?",
+    "options": ["A. Android", "B. MS Word", "C. MS Excel", "D. CorelDraw"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "A word processor is most suitable for:",
+    "options": [
+      "A. Performing complex calculations",
+      "B. Creating and editing text documents",
+      "C. Managing large databases",
+      "D. Designing graphical images"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is an example of a word processing package?",
+    "options": [
+      "A. MS Excel",
+      "B. MS Access",
+      "C. WordPerfect",
+      "D. CorelDraw"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "The feature of a word processor that checks spelling errors is called:",
+    "options": [
+      "A. Word count",
+      "B. Thesaurus",
+      "C. Auto correct",
+      "D. Spell checker"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "In MS Word, the operation of combining two documents into one is called:",
+    "options": [
+      "A. File merging",
+      "B. File saving",
+      "C. File printing",
+      "D. File closing"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The term used to describe the arrangement of text on a page in MS Word is:",
+    "options": ["A. Coding", "B. Formatting", "C. Debugging", "D. Compiling"],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is an example of a spreadsheet program?",
+    "options": ["A. MS Word", "B. MS Access", "C. VisiCALC", "D. CorelDraw"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The intersection of a row and a column in a spreadsheet is called a:",
+    "options": ["A. Record", "B. Field", "C. Table", "D. Cell"],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "In MS Excel, the formula bar is used to:",
+    "options": [
+      "A. Enter and edit formulas and data",
+      "B. Display the status of operations",
+      "C. Show the list of menus",
+      "D. Display the name of the workbook"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "A range of cells in MS Excel is best described as a:",
+    "options": [
+      "A. Single cell only",
+      "B. Group of selected cells",
+      "C. Type of chart",
+      "D. Built-in function"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "In a database, a primary key is used to:",
+    "options": [
+      "A. Sort records alphabetically",
+      "B. Delete unwanted records",
+      "C. Uniquely identify each record",
+      "D. Print records on paper"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is an example of a database package?",
+    "options": ["A. MS Word", "B. MS Excel", "C. MS PowerPoint", "D. Oracle"],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "The database organisation method where data is linked by pointers is the:",
+    "options": [
+      "A. Network model",
+      "B. Hierarchical model",
+      "C. Relational model",
+      "D. Flat file model"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 161,
+    "question": "The database model that organises data in tables with rows and columns is the:",
+    "options": [
+      "A. Hierarchical model",
+      "B. Relational model",
+      "C. Network model",
+      "D. Object model"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is an example of a graphics package?",
+    "options": ["A. MS Excel", "B. MS Access", "C. Photoshop", "D. MS Word"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "CorelDraw is primarily used for:",
+    "options": [
+      "A. Performing spreadsheet calculations",
+      "B. Managing database records",
+      "C. Editing text documents",
+      "D. Creating and editing vector graphics"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "In PowerPoint, a single page of a presentation is called a:",
+    "options": ["A. Slide", "B. Sheet", "C. Page", "D. Cell"],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "The feature in PowerPoint that allows movement of objects on a slide is called:",
+    "options": [
+      "A. Transition",
+      "B. Animation",
+      "C. Formatting",
+      "D. Printing"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "A collection of related fields that describe one entity is called a:",
+    "options": ["A. Field", "B. File", "C. Record", "D. Database"],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The smallest unit of data in a file is a:",
+    "options": ["A. Record", "B. File", "C. Database", "D. Data item"],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "A transaction file is used to:",
+    "options": [
+      "A. Store temporary data for updating a master file",
+      "B. Hold permanent reference data",
+      "C. Store program instructions only",
+      "D. Back up the operating system"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The file organisation method where records are stored one after another is:",
+    "options": ["A. Random", "B. Serial", "C. Indexed", "D. Direct"],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "One advantage of computer files over manual files is that computer files are:",
+    "options": [
+      "A. More expensive to set up",
+      "B. Dependent on electricity",
+      "C. Faster to access",
+      "D. Easier to damage physically"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following is a disadvantage of computer files?",
+    "options": [
+      "A. They are fast to access",
+      "B. They are more secure",
+      "C. They save physical space",
+      "D. They require regular electricity supply"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Which of the following is a basic file operation?",
+    "options": [
+      "A. Copying a file",
+      "B. Booting a computer",
+      "C. Compiling a program",
+      "D. Formatting a disk"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Data corruption in a computer file means that the data has become:",
+    "options": [
+      "A. Faster to access",
+      "B. Unreliable or unreadable",
+      "C. More secure",
+      "D. Properly backed up"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "The desktop of a computer is best described as the:",
+    "options": [
+      "A. Physical top of the computer case",
+      "B. Inside part of the hard disk",
+      "C. Main screen area seen after booting",
+      "D. Cable connecting the monitor"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "A bus in a computer system is best described as a:",
+    "options": [
+      "A. Storage device for permanent data",
+      "B. Program for editing documents",
+      "C. Device for printing documents",
+      "D. Path for transferring data between components"
+    ],
+    "answer": "D",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "The data conversion process in a computer follows the sequence:",
+    "options": [
+      "A. Input, Process, Output",
+      "B. Output, Input, Process",
+      "C. Process, Output, Input",
+      "D. Output, Process, Input"
+    ],
+    "answer": "A",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "The register that temporarily holds data fetched from memory is the:",
+    "options": [
+      "A. Program counter",
+      "B. Memory data register",
+      "C. Accumulator",
+      "D. Instruction decoder"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "A difference between a register and main memory is that a register is:",
+    "options": [
+      "A. Slower and larger in capacity",
+      "B. Located outside the CPU",
+      "C. Faster and smaller in capacity",
+      "D. Used for permanent storage"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "Satellite communication is an example of which type of ICT?",
+    "options": [
+      "A. Telecommunication",
+      "B. Data network",
+      "C. Information system",
+      "D. Broadcasting"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "The Public Switched Telephone Network (PSTN) is an example of:",
+    "options": [
+      "A. Telecommunication",
+      "B. Broadcasting",
+      "C. Information system",
+      "D. Data network"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "A Personal Area Network (PAN) typically covers a range of:",
+    "options": [
+      "A. An entire city",
+      "B. A few metres around a person",
+      "C. A whole country",
+      "D. The entire world"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The Global Positioning System (GPS) is an example of:",
+    "options": [
+      "A. A broadcasting system",
+      "B. A database package",
+      "C. An information system",
+      "D. An operating system"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "Video conferencing allows participants in different locations to:",
+    "options": [
+      "A. Exchange printed documents only",
+      "B. Store files on a central server",
+      "C. Print documents remotely",
+      "D. See and hear each other in real time"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "An Automated Teller Machine (ATM) is an example of an ICT-based:",
+    "options": [
+      "A. Gadget for banking services",
+      "B. Device for word processing",
+      "C. Tool for graphic design",
+      "D. System for database design"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "A point of sale (POS) machine is used mainly to:",
+    "options": [
+      "A. Design presentation slides",
+      "B. Process sales transactions",
+      "C. Edit text documents",
+      "D. Store database records"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "A cybercafé is a place where people:",
+    "options": [
+      "A. Manufacture computer hardware",
+      "B. Print documents for free",
+      "C. Pay to use Internet-connected computers",
+      "D. Repair faulty computer monitors"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "HTTP is a protocol used for:",
+    "options": [
+      "A. Sending email messages",
+      "B. Transferring files between computers",
+      "C. Managing database records",
+      "D. Transferring hypertext documents"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "A webpage is best described as a:",
+    "options": [
+      "A. Single document on the World Wide Web",
+      "B. Collection of related websites",
+      "C. Program for browsing the Internet",
+      "D. Hardware device for Internet access"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "A website is best described as a:",
+    "options": [
+      "A. Single webpage only",
+      "B. Collection of related webpages",
+      "C. Program for sending email",
+      "D. Device for network connection"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The address bar in a web browser is used to:",
+    "options": [
+      "A. Display the title of a webpage",
+      "B. Show the list of menus",
+      "C. Enter the URL of a website",
+      "D. Display the status of downloads"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "Electronic mail (e-mail) is best described as a service for:",
+    "options": [
+      "A. Designing web pages",
+      "B. Transferring files between disks",
+      "C. Managing database records",
+      "D. Sending and receiving electronic messages"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "The symbol '@' in an e-mail address is used to:",
+    "options": [
+      "A. Separate the username from the domain",
+      "B. Indicate the subject of a message",
+      "C. Show the sender's location",
+      "D. Mark the end of an address"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Chatting on the Internet involves:",
+    "options": [
+      "A. Sending physical letters",
+      "B. Exchanging messages in real time",
+      "C. Printing documents remotely",
+      "D. Storing files on a disk"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 194,
+    "question": "A router is a network device that:",
+    "options": [
+      "A. Prints documents over a network",
+      "B. Scans images into a computer",
+      "C. Forwards data between networks",
+      "D. Stores files permanently"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "A network switch is used to:",
+    "options": [
+      "A. Convert analog signals to digital",
+      "B. Store data permanently",
+      "C. Print documents on paper",
+      "D. Connect devices within a network"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A bridge in networking is used to:",
+    "options": [
+      "A. Connect two similar network segments",
+      "B. Convert data into binary form",
+      "C. Store files permanently",
+      "D. Print documents over a network"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "In a ring topology, devices are connected in a:",
+    "options": [
+      "A. Star-like arrangement",
+      "B. Closed loop arrangement",
+      "C. Single line arrangement",
+      "D. Tree-like arrangement"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "Fibre optic cable transmits data using:",
+    "options": [
+      "A. Electrical pulses",
+      "B. Radio waves",
+      "C. Light signals",
+      "D. Sound waves"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The RJ11 connector is typically used with:",
+    "options": [
+      "A. Twisted pair network cables",
+      "B. USB devices",
+      "C. Monitor cables",
+      "D. Telephone cables"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "A USB cable is an example of a:",
+    "options": [
+      "A. Data cable",
+      "B. Power cable",
+      "C. Network cable",
+      "D. Monitor cable"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Which of the following is a high level language used for scientific computing?",
+    "options": [
+      "A. Assembly language",
+      "B. FORTRAN",
+      "C. Machine language",
+      "D. Binary code"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "COBOL is a high level language designed mainly for:",
+    "options": [
+      "A. Scientific calculations",
+      "B. Artificial intelligence",
+      "C. Business data processing",
+      "D. Web development"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "A characteristic of an algorithm is that it must be:",
+    "options": [
+      "A. Infinite and complex",
+      "B. Ambiguous and vague",
+      "C. Random and unclear",
+      "D. Finite and unambiguous"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "The flowchart symbol for a process is a:",
+    "options": ["A. Rectangle", "B. Diamond", "C. Parallelogram", "D. Oval"],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "In BASIC, a string variable is used to store:",
+    "options": [
+      "A. Numeric values only",
+      "B. Text and alphanumeric data",
+      "C. Binary data only",
+      "D. Program instructions only"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "In BASIC, the statement END is used to:",
+    "options": [
+      "A. Start program execution",
+      "B. Pause program execution",
+      "C. Terminate program execution",
+      "D. Repeat program execution"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "question": "The BASIC statement READ is used together with:",
+    "options": [
+      "A. PRINT statements",
+      "B. INPUT statements",
+      "C. REM statements",
+      "D. DATA statements"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "In BASIC, the expression 2^3 evaluates to:",
+    "options": ["A. 8", "B. 6", "C. 9", "D. 5"],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The BASIC built-in function INT(X) returns the:",
+    "options": [
+      "A. Square root of X",
+      "B. Integer part of X",
+      "C. Absolute value of X",
+      "D. Logarithm of X"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "The BASIC built-in function RND(X) is used to generate:",
+    "options": [
+      "A. Rounded numbers",
+      "B. Square roots",
+      "C. Random numbers",
+      "D. Absolute values"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "A one-dimensional array in BASIC is declared using the:",
+    "options": [
+      "A. PRINT statement",
+      "B. REM statement",
+      "C. END statement",
+      "D. DIM statement"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "A WHILE-END loop in BASIC is used to repeat instructions:",
+    "options": [
+      "A. As long as a condition is true",
+      "B. A fixed number of times only",
+      "C. Only once",
+      "D. Never"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Which stage of the system development cycle involves writing and testing code?",
+    "options": [
+      "A. Preliminary study",
+      "B. Implementation",
+      "C. Feasibility",
+      "D. Maintenance"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "System maintenance in the development cycle involves:",
+    "options": [
+      "A. Writing the first version of code",
+      "B. Conducting the preliminary study",
+      "C. Modifying the system after implementation",
+      "D. Drawing the system flowchart"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "Program documentation is important because it:",
+    "options": [
+      "A. Increases the speed of the computer",
+      "B. Reduces the size of the program file",
+      "C. Eliminates the need for testing",
+      "D. Helps users and programmers understand the program"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "Debugging in program development refers to the process of:",
+    "options": [
+      "A. Finding and correcting errors",
+      "B. Writing the program code",
+      "C. Compiling the program",
+      "D. Printing the program"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "The Burrough's machine was an early device used mainly for:",
+    "options": [
+      "A. Storing large databases",
+      "B. Performing arithmetic calculations",
+      "C. Printing colour documents",
+      "D. Connecting to the Internet"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "One contribution of Charles Babbage to modern computing was the concept of the:",
+    "options": [
+      "A. Graphical user interface",
+      "B. Wireless network",
+      "C. Stored program and general-purpose computer",
+      "D. Database management system"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Herman Hollerith's contribution led to the development of the:",
+    "options": [
+      "A. First electronic spreadsheet",
+      "B. First web browser",
+      "C. First laptop computer",
+      "D. Punched card tabulating machine"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "A desktop personal computer is designed to be:",
+    "options": [
+      "A. Used at a fixed location",
+      "B. Carried in a pocket",
+      "C. Worn on the wrist",
+      "D. Mounted on a wall"
+    ],
+    "answer": "A",
+    "topic": "Computer Evolution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "A notebook computer is a smaller version of a:",
+    "options": [
+      "A. Desktop computer",
+      "B. Laptop computer",
+      "C. Mainframe computer",
+      "D. Supercomputer"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "A computer is best defined as an electronic device that:",
+    "options": [
+      "A. Only stores data without processing",
+      "B. Only prints documents",
+      "C. Accepts data, processes it and gives output",
+      "D. Only connects to the Internet"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "question": "The characteristic of a computer that allows it to perform many different tasks is:",
+    "options": ["A. Accuracy", "B. Speed", "C. Storage", "D. Versatility"],
+    "answer": "D",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "Which of the following is an example of computer software?",
+    "options": [
+      "A. Antivirus program",
+      "B. Mouse",
+      "C. Keyboard",
+      "D. Printer"
+    ],
+    "answer": "A",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "Poor implementation of a network is a source of:",
+    "options": [
+      "A. Increased processing speed",
+      "B. Security breaches",
+      "C. Better data accuracy",
+      "D. Stronger encryption"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "Giving out personal information on the Internet without screening can lead to:",
+    "options": [
+      "A. Faster Internet access",
+      "B. Better computer performance",
+      "C. Identity theft",
+      "D. Improved data security"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "Using websites with web certificates helps to:",
+    "options": [
+      "A. Increase the speed of browsing",
+      "B. Reduce the cost of Internet access",
+      "C. Eliminate the need for antivirus",
+      "D. Verify the authenticity of websites"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Opening email attachments carelessly can expose a computer to:",
+    "options": [
+      "A. Virus infections",
+      "B. Faster processing speeds",
+      "C. Improved data accuracy",
+      "D. Better network security"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "Internet fraud is a cyber crime that involves:",
+    "options": [
+      "A. Backing up computer files",
+      "B. Deceiving people for financial gain online",
+      "C. Installing antivirus software",
+      "D. Designing web pages"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "Hacking as a cyber crime involves:",
+    "options": [
+      "A. Creating backup copies of files",
+      "B. Designing database tables",
+      "C. Unauthorized access to computer systems",
+      "D. Printing documents remotely"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "The keyboard is an input device because it:",
+    "options": [
+      "A. Displays data on a screen",
+      "B. Prints data on paper",
+      "C. Stores data permanently",
+      "D. Feeds data into the computer"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "A scanner is used to:",
+    "options": [
+      "A. Convert physical documents into digital form",
+      "B. Print digital documents on paper",
+      "C. Display images on a screen",
+      "D. Produce sound from a computer"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "The main difference between a keyboard and a mouse is that the mouse is used mainly for:",
+    "options": [
+      "A. Typing long text documents",
+      "B. Pointing and selecting items",
+      "C. Scanning photographs",
+      "D. Printing documents"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "A monitor is classified as an output device because it:",
+    "options": [
+      "A. Accepts data from the user",
+      "B. Stores data permanently",
+      "C. Displays processed data to the user",
+      "D. Processes data internally"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "An advantage of a laser printer over an inkjet printer is that a laser printer:",
+    "options": [
+      "A. Uses less expensive ink cartridges",
+      "B. Produces colour output only",
+      "C. Requires no electricity",
+      "D. Is faster for high-volume printing"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "A line printer is most suitable for:",
+    "options": [
+      "A. High-volume continuous printing",
+      "B. Printing high-quality photographs",
+      "C. Printing single-page letters",
+      "D. Printing on small labels"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "The function of the arithmetic and logic unit includes:",
+    "options": [
+      "A. Directing data flow between components",
+      "B. Performing calculations and comparisons",
+      "C. Storing data permanently",
+      "D. Displaying output to the user"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Primary memory is best described as memory that is:",
+    "options": [
+      "A. Used only for backup",
+      "B. Removable and portable",
+      "C. Directly accessible by the CPU",
+      "D. Slower than secondary storage"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Which of the following secondary storage devices has the largest typical capacity?",
+    "options": [
+      "A. Floppy disk",
+      "B. Compact disk",
+      "C. Flash disk",
+      "D. Hard disk"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "One terabyte is approximately equal to:",
+    "options": [
+      "A. 1,024 gigabytes",
+      "B. 1,024 kilobytes",
+      "C. 1,024 megabytes",
+      "D. 1,024 bytes"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "The truth table for an AND gate with two inputs has:",
+    "options": [
+      "A. Two possible input combinations",
+      "B. Four possible input combinations",
+      "C. Three possible input combinations",
+      "D. Eight possible input combinations"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "A NOR gate is equivalent to an OR gate followed by a:",
+    "options": ["A. AND gate", "B. XOR gate", "C. NOT gate", "D. NAND gate"],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "Logic gates are used mainly in:",
+    "options": [
+      "A. Printing documents",
+      "B. Storing files on disks",
+      "C. Transmitting radio signals",
+      "D. Digital electronic circuits"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The main difference between system software and application software is that system software:",
+    "options": [
+      "A. Manages the computer's hardware",
+      "B. Performs specific user tasks",
+      "C. Creates documents and spreadsheets",
+      "D. Designs graphics for advertising"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "An operating system performs the function of:",
+    "options": [
+      "A. Designing web pages for the Internet",
+      "B. Managing hardware and providing services to programs",
+      "C. Creating spreadsheets for accounting",
+      "D. Producing graphics for advertising"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "A translator in computing is used to:",
+    "options": [
+      "A. Convert text into images",
+      "B. Convert files into folders",
+      "C. Convert programs into machine language",
+      "D. Convert hardware into software"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "A compiler translates a whole program:",
+    "options": [
+      "A. Line by line during execution",
+      "B. Only after the program is saved",
+      "C. Only when errors are found",
+      "D. Before execution begins"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "Antivirus software is classified as a:",
+    "options": [
+      "A. Utility program",
+      "B. Word processor",
+      "C. Spreadsheet package",
+      "D. Database package"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "An operating system with a graphical user interface is easier to use because it:",
+    "options": [
+      "A. Requires only typed commands",
+      "B. Uses icons and menus instead of typed commands",
+      "C. Uses punched cards for input",
+      "D. Requires no user input at all"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "Which of the following is an example of a command line operating system?",
+    "options": [
+      "A. MS Windows",
+      "B. Linux desktop",
+      "C. MS-DOS",
+      "D. Mac OS X"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Statistical packages are examples of:",
+    "options": [
+      "A. System software",
+      "B. Utility programs",
+      "C. Operating systems",
+      "D. Application software"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "Payroll programs are most commonly used in:",
+    "options": [
+      "A. Staff salary computation",
+      "B. Graphic design",
+      "C. Web development",
+      "D. Word processing"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "Hospital management software is used mainly to:",
+    "options": [
+      "A. Design graphics for hospital signs",
+      "B. Manage patient records and hospital operations",
+      "C. Create websites for hospitals",
+      "D. Send email to hospital staff"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "In MS Word, the operation of saving a document allows a user to:",
+    "options": [
+      "A. Delete the document from memory",
+      "B. Print the document directly",
+      "C. Store the document permanently for future use",
+      "D. Close the application immediately"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "In MS Word, retrieving a document refers to:",
+    "options": [
+      "A. Creating a new blank document",
+      "B. Printing a document on paper",
+      "C. Deleting a document permanently",
+      "D. Opening a previously saved document"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "The Find and Replace feature in a word processor is used to:",
+    "options": [
+      "A. Search for text and substitute it",
+      "B. Change the font of a document",
+      "C. Print a document remotely",
+      "D. Save a document to disk"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "In MS Excel, the status bar is used to:",
+    "options": [
+      "A. Enter formulas into cells",
+      "B. Display information about the current operation",
+      "C. List the menus available",
+      "D. Show the name of the workbook"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "In MS Excel, the feature used to create a pie chart is found under:",
+    "options": [
+      "A. Data sort",
+      "B. Format cells",
+      "C. Insert chart",
+      "D. Review comments"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The built-in function used to find the average of a range of cells in Excel is:",
+    "options": ["A. SUM", "B. COUNT", "C. MAX", "D. AVERAGE"],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is a step in creating a database?",
+    "options": [
+      "A. Define the structure of the table",
+      "B. Format the monitor display",
+      "C. Print the database on paper",
+      "D. Compile the database program"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "Sorting a database allows records to be arranged in:",
+    "options": [
+      "A. Random order only",
+      "B. A specific order",
+      "C. Reversed order only",
+      "D. No particular order"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "In a database, searching is used to:",
+    "options": [
+      "A. Delete the entire database",
+      "B. Create a new database file",
+      "C. Find records that meet specified criteria",
+      "D. Print all records at once"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "CorelDraw is an example of a:",
+    "options": [
+      "A. Word processor",
+      "B. Spreadsheet package",
+      "C. Database package",
+      "D. Graphics package"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "A simple design such as a business card can be created using:",
+    "options": [
+      "A. CorelDraw",
+      "B. MS Excel",
+      "C. MS Access",
+      "D. MS Word only"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "In PowerPoint, adding a new slide to a presentation is done through the:",
+    "options": [
+      "A. Design tab",
+      "B. Home tab",
+      "C. Animations tab",
+      "D. View tab"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "Running a slide show in PowerPoint allows the presentation to be:",
+    "options": [
+      "A. Printed on paper",
+      "B. Saved as a document",
+      "C. Displayed full screen to an audience",
+      "D. Converted to a spreadsheet"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "A computer file is best described as a:",
+    "options": [
+      "A. Single character stored in memory",
+      "B. Physical component of the computer",
+      "C. Type of network cable",
+      "D. Collection of related records stored together"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "An alphanumeric data item contains:",
+    "options": [
+      "A. Both letters and numbers",
+      "B. Only letters",
+      "C. Only numbers",
+      "D. Only symbols"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The file structure organisation from smallest to largest is:",
+    "options": [
+      "A. Record, data item, file, database",
+      "B. Data item, record, file, database",
+      "C. File, record, data item, database",
+      "D. Database, file, record, data item"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Sequential file organisation means records are accessed:",
+    "options": [
+      "A. In any random order",
+      "B. Only by index",
+      "C. In the order in which they are stored",
+      "D. Only by direct access"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "A reference file is used to:",
+    "options": [
+      "A. Store temporary transaction data",
+      "B. Store program instructions only",
+      "C. Back up the operating system",
+      "D. Hold relatively permanent reference data"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "Which of the following is a basic operation performed on computer files?",
+    "options": [
+      "A. Opening a file",
+      "B. Booting a computer",
+      "C. Compiling a program",
+      "D. Formatting a disk"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "Over-writing a file can lead to:",
+    "options": [
+      "A. Faster access to the file",
+      "B. Loss of the original data",
+      "C. Improved file security",
+      "D. Automatic backup of the file"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "Proper labelling of storage devices helps to:",
+    "options": [
+      "A. Increase storage capacity",
+      "B. Speed up data transfer",
+      "C. Identify and secure files easily",
+      "D. Eliminate the need for backup"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "A difference between computer files and manual files is that computer files are:",
+    "options": [
+      "A. Harder to back up",
+      "B. More difficult to edit",
+      "C. Slower to access",
+      "D. Easier to search and retrieve"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Shutting down a computer properly is important because it:",
+    "options": [
+      "A. Prevents loss of unsaved data",
+      "B. Increases the hard disk size",
+      "C. Speeds up the processor",
+      "D. Removes all viruses"
+    ],
+    "answer": "A",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "The main difference between cold booting and warm booting is that warm booting:",
+    "options": [
+      "A. Starts a computer from off state",
+      "B. Restarts a computer already powered on",
+      "C. Requires no electricity",
+      "D. Formats the hard disk"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "The Current Instruction Register (CIR) is used to hold:",
+    "options": [
+      "A. The address of the next instruction",
+      "B. Data fetched from memory",
+      "C. The instruction currently being executed",
+      "D. The result of arithmetic operations"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "Bus speed and bus width are factors that affect:",
+    "options": [
+      "A. The size of the hard disk",
+      "B. The brightness of the monitor",
+      "C. The number of files on a disk",
+      "D. The speed of data transfer"
+    ],
+    "answer": "D",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "The acronym ICT is best understood as the use of technology for:",
+    "options": [
+      "A. Processing and communicating information",
+      "B. Manufacturing computer hardware",
+      "C. Printing documents only",
+      "D. Storing files only"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Television broadcasting is an example of:",
+    "options": [
+      "A. Telecommunication",
+      "B. Broadcasting",
+      "C. Data network",
+      "D. Information system"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "A mobile phone system is an example of:",
+    "options": [
+      "A. Broadcasting",
+      "B. Information system",
+      "C. Telecommunication",
+      "D. Data network"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "A Wide Area Network (WAN) typically covers:",
+    "options": [
+      "A. A single room only",
+      "B. A few metres only",
+      "C. A single device only",
+      "D. A large geographical area"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Telecomputing refers to the use of computers to:",
+    "options": [
+      "A. Perform work remotely via networks",
+      "B. Manufacture computer parts",
+      "C. Print documents locally",
+      "D. Store data on disks"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "Information search, retrieval and archival are examples of:",
+    "options": [
+      "A. Types of network cables",
+      "B. Application areas of ICT",
+      "C. Logic gates",
+      "D. Programming languages"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "A fax machine is an ICT-based gadget used to:",
+    "options": [
+      "A. Design graphic images",
+      "B. Perform spreadsheet calculations",
+      "C. Transmit copies of documents over telephone lines",
+      "D. Manage database records"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "An automated cash register (ACR) is used mainly to:",
+    "options": [
+      "A. Design presentation slides",
+      "B. Manage database records",
+      "C. Send email messages",
+      "D. Record sales transactions automatically"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The Internet is best described as a:",
+    "options": [
+      "A. Global network of interconnected networks",
+      "B. Single computer in a laboratory",
+      "C. Type of software package",
+      "D. Device for printing documents"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "A browser is software used to:",
+    "options": [
+      "A. Design database tables",
+      "B. Access and display web pages",
+      "C. Perform arithmetic calculations",
+      "D. Manage computer files"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "Which of the following is a web browser?",
+    "options": ["A. MS Excel", "B. MS Access", "C. Opera", "D. CorelDraw"],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "The title bar of a web browser displays:",
+    "options": [
+      "A. The list of bookmarks",
+      "B. The status of downloads",
+      "C. The list of menus",
+      "D. The title of the current page"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "File Transfer Protocol (FTP) is an Internet service used to:",
+    "options": [
+      "A. Transfer files between computers",
+      "B. Display web pages",
+      "C. Send email messages",
+      "D. Chat in real time"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "Telnet is an Internet service that allows a user to:",
+    "options": [
+      "A. Design web pages",
+      "B. Log on to a remote computer",
+      "C. Print documents remotely",
+      "D. Store files on a disk"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 294,
+    "question": "The World Wide Web was developed primarily to allow:",
+    "options": [
+      "A. Printing documents remotely",
+      "B. Performing arithmetic calculations",
+      "C. Access to linked hypertext documents",
+      "D. Designing database tables"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "A network topology describes the:",
+    "options": [
+      "A. Speed of data transfer",
+      "B. Type of cable used",
+      "C. Size of the hard disk",
+      "D. Arrangement of devices in a network"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "One advantage of networking computers is that it allows:",
+    "options": [
+      "A. Sharing of resources and information",
+      "B. Increased cost of hardware",
+      "C. Slower data transfer",
+      "D. Reduced data security"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following is a type of computer cable?",
+    "options": [
+      "A. Twisted pair cable",
+      "B. Monitor cable",
+      "C. Fibre optic cable",
+      "D. Coaxial cable"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "A T-connector is commonly used with:",
+    "options": [
+      "A. Twisted pair cables",
+      "B. Fibre optic cables",
+      "C. Coaxial network cables",
+      "D. USB cables"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "A serial cable is an example of a:",
+    "options": [
+      "A. Power cable",
+      "B. Network cable",
+      "C. Monitor cable",
+      "D. Data cable"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "Machine language is also known as:",
+    "options": [
+      "A. Binary language",
+      "B. Assembly language",
+      "C. High level language",
+      "D. Natural language"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "One disadvantage of machine language is that it is:",
+    "options": [
+      "A. Slower than high level languages",
+      "B. Difficult for humans to read and write",
+      "C. Not understood by the CPU",
+      "D. Not executable by computers"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "One advantage of high level languages over machine language is that they are:",
+    "options": [
+      "A. Executed without translation",
+      "B. Written in binary code",
+      "C. Easier for humans to read and write",
+      "D. Understood directly by the CPU"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "Java and Python are examples of:",
+    "options": [
+      "A. Machine languages",
+      "B. Assembly languages",
+      "C. Operating systems",
+      "D. High level languages"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "A string processing language is designed mainly to:",
+    "options": [
+      "A. Manipulate text and characters",
+      "B. Perform scientific calculations",
+      "C. Manage databases",
+      "D. Design graphics"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "PASCAL is a high level language designed mainly for:",
+    "options": [
+      "A. Business data processing",
+      "B. Teaching structured programming",
+      "C. Artificial intelligence",
+      "D. Web development"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "An algorithm must be effective, meaning that it:",
+    "options": [
+      "A. Can run forever without stopping",
+      "B. Has ambiguous instructions",
+      "C. Produces the correct result when executed",
+      "D. Requires no input at all"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The flowchart symbol for a decision has:",
+    "options": [
+      "A. Two inputs and one output",
+      "B. One input and one output",
+      "C. No input and no output",
+      "D. One input and two outputs"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 308,
+    "question": "In BASIC, a numeric variable is used to store:",
+    "options": [
+      "A. Numbers",
+      "B. Text only",
+      "C. Images only",
+      "D. Program instructions"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "In BASIC, the PRINT statement can be used to:",
+    "options": [
+      "A. Accept data from the user",
+      "B. Display results on the screen",
+      "C. Define an array",
+      "D. End the program"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "question": "In BASIC, the expression (A + B) * C means:",
+    "options": [
+      "A. Multiply A by B, then add C",
+      "B. Add A, B and C together",
+      "C. Add A and B, then multiply by C",
+      "D. Divide A by B, then multiply by C"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "A simple BASIC program to calculate the area of a rectangle requires:",
+    "options": [
+      "A. Radius and height as inputs",
+      "B. Base and height as inputs",
+      "C. Side only as input",
+      "D. Length and breadth as inputs"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "A simple BASIC program to calculate the area of a triangle uses the formula:",
+    "options": [
+      "A. 0.5 * base * height",
+      "B. length * breadth",
+      "C. 2 * pi * radius",
+      "D. side * side"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "The BASIC built-in function SIN(X) returns the:",
+    "options": [
+      "A. Square of X",
+      "B. Sine of X",
+      "C. Square root of X",
+      "D. Sum of X"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "The BASIC built-in function LOG(X) returns the:",
+    "options": [
+      "A. Square root of X",
+      "B. Sine of X",
+      "C. Logarithm of X",
+      "D. Absolute value of X"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "The BASIC built-in function EXP(X) returns:",
+    "options": [
+      "A. X raised to power e",
+      "B. The square of X",
+      "C. The square root of X",
+      "D. e raised to power X"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 316,
+    "question": "In BASIC, an array is used to store:",
+    "options": [
+      "A. Multiple values of the same type",
+      "B. Only a single value",
+      "C. Only text values",
+      "D. Only program instructions"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The system development cycle is best defined as:",
+    "options": [
+      "A. A program for editing documents",
+      "B. A series of stages for developing an information system",
+      "C. A method of connecting networks",
+      "D. A type of database package"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "The analysis stage of system development involves:",
+    "options": [
+      "A. Writing the final program code",
+      "B. Training end users",
+      "C. Examining the current system and user needs",
+      "D. Maintaining the system after delivery"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 319,
+    "question": "The design stage of system development involves:",
+    "options": [
+      "A. Writing and testing program code",
+      "B. Conducting the preliminary study",
+      "C. Maintaining the finished system",
+      "D. Planning how the new system will work"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 320,
+    "question": "A program is best defined as a:",
+    "options": [
+      "A. Set of instructions for the computer",
+      "B. Physical part of the computer",
+      "C. Type of network cable",
+      "D. Device for storing data"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "A characteristic of a good program is efficiency, which means it:",
+    "options": [
+      "A. Is very long and complex",
+      "B. Uses computer resources economically",
+      "C. Contains many errors",
+      "D. Is difficult to understand"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Generality as a characteristic of a good program means the program:",
+    "options": [
+      "A. Works for only one specific input",
+      "B. Is written in machine language",
+      "C. Can be used for a wide range of inputs",
+      "D. Contains no comments"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 323,
+    "question": "A precaution in developing a program is to:",
+    "options": [
+      "A. Skip difficult steps",
+      "B. Avoid testing the program",
+      "C. Write the program without planning",
+      "D. Follow the order of execution carefully"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "The first step in program development is:",
+    "options": [
+      "A. Problem definition",
+      "B. Program coding",
+      "C. Program testing",
+      "D. Program documentation"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "Flowcharting in program development is used to:",
+    "options": [
+      "A. Compile the program into machine code",
+      "B. Show the logic of the program graphically",
+      "C. Test the program for errors",
+      "D. Print the program on paper"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "The Abacus is considered an early computing device because it helped users to:",
+    "options": [
+      "A. Store large databases",
+      "B. Access the Internet",
+      "C. Perform calculations manually",
+      "D. Print documents"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "Napier's bones were used mainly to perform:",
+    "options": [
+      "A. Addition only",
+      "B. Subtraction only",
+      "C. Square roots only",
+      "D. Multiplication and division"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "The Analytical Engine designed by Charles Babbage was intended to be:",
+    "options": [
+      "A. A general-purpose programmable computer",
+      "B. A simple adding machine",
+      "C. A device for weaving cloth",
+      "D. A machine for census counting"
+    ],
+    "answer": "A",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 329,
+    "question": "The trend in computing devices from early times to the present has been toward:",
+    "options": [
+      "A. Larger size and slower speed",
+      "B. Smaller size and greater processing power",
+      "C. Fewer functions and higher cost",
+      "D. Manual operation and less storage"
+    ],
+    "answer": "B",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "ENIAC was developed primarily for:",
+    "options": [
+      "A. Commercial word processing",
+      "B. Graphic design work",
+      "C. Military ballistic calculations",
+      "D. Internet browsing"
+    ],
+    "answer": "C",
+    "topic": "Computer Evolution",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 331,
+    "question": "A palmtop computer is also commonly referred to as a:",
+    "options": [
+      "A. Desktop computer",
+      "B. Mainframe computer",
+      "C. Supercomputer",
+      "D. Handheld computer"
+    ],
+    "answer": "D",
+    "topic": "Computer Evolution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "The functional parts of a computer include input, output, processing and:",
+    "options": ["A. Storage", "B. Printing", "C. Scanning", "D. Networking"],
+    "answer": "A",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "A computer is described as electronic in nature because it:",
+    "options": [
+      "A. Requires manual operation",
+      "B. Uses electronic components to process data",
+      "C. Uses mechanical gears only",
+      "D. Operates without electricity"
+    ],
+    "answer": "B",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following is an example of information?",
+    "options": [
+      "A. A list of raw scores only",
+      "B. A collection of unprocessed names",
+      "C. A summary report of student results",
+      "D. A set of unorganised figures"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "A key difference between hardware and software is that hardware is:",
+    "options": [
+      "A. Intangible while software is physical",
+      "B. Always free while software is paid",
+      "C. Always new while software is old",
+      "D. Physical while software is intangible"
+    ],
+    "answer": "D",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Which of the following is a source of security breach in computer systems?",
+    "options": [
+      "A. Lack of ICT policies",
+      "B. Regular antivirus updates",
+      "C. Strong password policies",
+      "D. Proper network implementation"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "A virus is best described as a program that:",
+    "options": [
+      "A. Speeds up computer processing",
+      "B. Attaches itself to files and damages them",
+      "C. Backs up files automatically",
+      "D. Improves network security"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "Which of the following is an example of antivirus software?",
+    "options": ["A. MS Word", "B. CorelDraw", "C. Norton", "D. MS Excel"],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "Proper network implementation and policies help to:",
+    "options": [
+      "A. Increase virus infections",
+      "B. Reduce data security",
+      "C. Slow down data transfer",
+      "D. Prevent security breaches"
+    ],
+    "answer": "D",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "Privacy of audio and video software is a legal issue that concerns:",
+    "options": [
+      "A. Unauthorized copying and distribution",
+      "B. Computer hardware maintenance",
+      "C. Network cable installation",
+      "D. Monitor screen resolution"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 341,
+    "question": "Which of the following is an input device used to enter voice data?",
+    "options": ["A. Speaker", "B. Microphone", "C. Printer", "D. Monitor"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "The alphabetic keys on a keyboard are used mainly to:",
+    "options": [
+      "A. Enter numbers only",
+      "B. Move the cursor position",
+      "C. Type letters and words",
+      "D. Open application menus"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "The mouse was developed to make computer interaction more:",
+    "options": [
+      "A. Difficult for new users",
+      "B. Dependent on typed commands",
+      "C. Expensive for offices",
+      "D. Convenient through pointing and clicking"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "A light pen allows a user to:",
+    "options": [
+      "A. Draw or select items directly on a screen",
+      "B. Print documents on paper",
+      "C. Scan photographs into a computer",
+      "D. Listen to audio recordings"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "A difference between a scanner and a keyboard is that a scanner:",
+    "options": [
+      "A. Accepts typed text only",
+      "B. Converts physical documents into digital form",
+      "C. Displays output on a screen",
+      "D. Stores data permanently"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "Which of the following is a similarity between input and output devices?",
+    "options": [
+      "A. Both accept data from the user",
+      "B. Both display processed data",
+      "C. Both are hardware components of a computer",
+      "D. Both store data permanently"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 347,
+    "question": "An inkjet printer produces images by:",
+    "options": [
+      "A. Using a laser beam and toner",
+      "B. Striking a ribbon against paper",
+      "C. Melting wax onto paper",
+      "D. Spraying tiny drops of ink onto paper"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "A laser printer uses which of the following to form images?",
+    "options": [
+      "A. Toner and a laser beam",
+      "B. Liquid ink cartridges",
+      "C. A ribbon and pins",
+      "D. Heat-sensitive paper"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "A dot matrix printer is an example of a:",
+    "options": [
+      "A. Laser printer",
+      "B. Impact printer",
+      "C. Inkjet printer",
+      "D. Thermal printer"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 350,
+    "question": "The monitor, printer and speaker are all examples of:",
+    "options": [
+      "A. Input devices",
+      "B. Storage devices",
+      "C. Output devices",
+      "D. Processing devices"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "The CPU is often described as the:",
+    "options": [
+      "A. Memory of the computer",
+      "B. Display of the computer",
+      "C. Network of the computer",
+      "D. Brain of the computer"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "The control unit of the CPU performs its function by:",
+    "options": [
+      "A. Decoding and coordinating instructions",
+      "B. Performing mathematical calculations",
+      "C. Storing data permanently",
+      "D. Displaying results on screen"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "The contents of ROM are:",
+    "options": [
+      "A. Lost when power is off",
+      "B. Permanent and not easily changed",
+      "C. Written frequently by the user",
+      "D. Used only as temporary storage"
+    ],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "RAM is used by the computer mainly to:",
+    "options": [
+      "A. Store the operating system permanently",
+      "B. Back up files automatically",
+      "C. Hold data and programs in active use",
+      "D. Print documents on paper"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Which of the following secondary storage devices is removable and portable?",
+    "options": [
+      "A. Hard disk",
+      "B. RAM module",
+      "C. ROM chip",
+      "D. Flash disk"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A DVD differs from a CD mainly in terms of:",
+    "options": [
+      "A. Storage capacity",
+      "B. Physical colour",
+      "C. Cable connector",
+      "D. Network speed"
+    ],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "Eight bits make up one:",
+    "options": ["A. Nibble", "B. Byte", "C. Kilobyte", "D. Megabyte"],
+    "answer": "B",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "A NOT gate produces an output that is:",
+    "options": [
+      "A. The same as the input",
+      "B. Always 1 regardless of input",
+      "C. The inverse of the input",
+      "D. Always 0 regardless of input"
+    ],
+    "answer": "C",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "The XOR gate outputs 1 when:",
+    "options": [
+      "A. The inputs are both 1",
+      "B. The inputs are both 0",
+      "C. Only one input exists",
+      "D. The inputs are different"
+    ],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "The logic equation for an AND gate is usually written as:",
+    "options": ["A. Y = A · B", "B. Y = A + B", "C. Y = A'", "D. Y = A ⊕ B"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 361,
+    "question": "Application software is designed to:",
+    "options": [
+      "A. Manage the computer's hardware",
+      "B. Perform specific tasks for the user",
+      "C. Control the operating system",
+      "D. Translate programs into machine code"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "Which of the following is an example of application software?",
+    "options": ["A. Linux", "B. UNIX", "C. MS PowerPoint", "D. MS-DOS"],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "An operating system is classified as:",
+    "options": [
+      "A. Application software",
+      "B. Utility software only",
+      "C. Programming language",
+      "D. System software"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "A translator is classified as:",
+    "options": [
+      "A. System software",
+      "B. Application software",
+      "C. Utility program only",
+      "D. Operating system only"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "The difference between a compiler and an interpreter is that a compiler:",
+    "options": [
+      "A. Translates one line at a time",
+      "B. Translates the entire program before execution",
+      "C. Does not produce machine code",
+      "D. Executes source code directly"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 366,
+    "question": "An assembler translates programs written in:",
+    "options": [
+      "A. High level language",
+      "B. Machine language",
+      "C. Assembly language",
+      "D. Natural language"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["A. MS Excel", "B. MS Word", "C. CorelDraw", "D. Linux"],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "A utility program is designed to:",
+    "options": [
+      "A. Maintain and manage computer resources",
+      "B. Create text documents",
+      "C. Design graphic images",
+      "D. Manage relational databases"
+    ],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "A graphical user interface allows users to interact with the computer using:",
+    "options": [
+      "A. Typed commands only",
+      "B. Icons, windows and menus",
+      "C. Punched cards only",
+      "D. Switches only"
+    ],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Android is an example of an operating system used on:",
+    "options": [
+      "A. Desktop printers",
+      "B. Network cables",
+      "C. Mobile phones",
+      "D. Digital cameras"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "A user application program is different from an application package because a user application program is:",
+    "options": [
+      "A. Available for general use",
+      "B. Part of the operating system",
+      "C. Used for network configuration",
+      "D. Written for a specific user's needs"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "Accounting software is an example of an application package used in:",
+    "options": [
+      "A. Financial record keeping",
+      "B. Graphic design work",
+      "C. Network configuration",
+      "D. Word processing"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Education management software is used mainly to:",
+    "options": [
+      "A. Design graphics for schools",
+      "B. Manage student records and school operations",
+      "C. Create websites for schools",
+      "D. Send emails to students"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "Word processing is useful in journalism because it allows journalists to:",
+    "options": [
+      "A. Perform complex calculations",
+      "B. Design graphic images",
+      "C. Write and edit news articles easily",
+      "D. Manage database records"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "In MS Word, the operation of creating a document involves:",
+    "options": [
+      "A. Opening an existing file",
+      "B. Printing a file on paper",
+      "C. Deleting a file permanently",
+      "D. Starting a new blank file"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "In MS Word, the operation of editing a document involves:",
+    "options": [
+      "A. Making changes to existing text",
+      "B. Printing the document",
+      "C. Saving the document",
+      "D. Closing the application"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "The operation of printing a document in a word processor produces:",
+    "options": [
+      "A. A new blank document",
+      "B. A physical copy on paper",
+      "C. A saved file on disk",
+      "D. A deleted file"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "In MS Word, copying text means:",
+    "options": [
+      "A. Removing the text from its position",
+      "B. Deleting the text permanently",
+      "C. Making a duplicate of the text",
+      "D. Printing the text on paper"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "In MS Word, cutting text means:",
+    "options": [
+      "A. Making a duplicate of the text",
+      "B. Printing the text on paper",
+      "C. Saving the text to disk",
+      "D. Removing the text for use elsewhere"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "Justifying text in a word processor means:",
+    "options": [
+      "A. Aligning text evenly to both margins",
+      "B. Aligning text to the left margin only",
+      "C. Aligning text to the right margin only",
+      "D. Centering text on the page"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "A spreadsheet program is best described as software used to:",
+    "options": [
+      "A. Create and edit text documents",
+      "B. Organise data in rows and columns",
+      "C. Design graphic images",
+      "D. Send email messages"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "Which of the following is an example of a spreadsheet program?",
+    "options": ["A. MS Word", "B. MS Access", "C. MS Excel", "D. CorelDraw"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "question": "Spreadsheet programs are commonly used in accounting for:",
+    "options": [
+      "A. Designing logos and banners",
+      "B. Writing news articles",
+      "C. Managing patient records",
+      "D. Preparing financial statements and calculations"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "In MS Excel, the menu bar is used to:",
+    "options": [
+      "A. Access commands organised in menus",
+      "B. Enter formulas into cells",
+      "C. Display the status of operations",
+      "D. Show the name of the workbook"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "In MS Excel, a workbook is best described as a:",
+    "options": [
+      "A. Single cell in a worksheet",
+      "B. File containing one or more worksheets",
+      "C. Type of chart",
+      "D. Built-in function"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "In MS Excel, the type of data entered as text is called a:",
+    "options": ["A. Number", "B. Formula", "C. Label", "D. Function"],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "In MS Excel, a formula begins with the symbol:",
+    "options": ["A. +", "B. *", "C. /", "D. ="],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "In MS Excel, the built-in function used to find the highest value in a range is:",
+    "options": ["A. MAX", "B. MIN", "C. SUM", "D. AVERAGE"],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "In MS Excel, formatting cells allows a user to:",
+    "options": [
+      "A. Delete the contents of cells",
+      "B. Change the appearance of cell contents",
+      "C. Create new worksheets",
+      "D. Print the workbook"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "A bar chart in a spreadsheet is used to:",
+    "options": [
+      "A. Show proportions as slices of a circle",
+      "B. Display trends as a continuous line",
+      "C. Compare values using rectangular bars",
+      "D. Show frequency distribution as bars"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "A database management package is used mainly to:",
+    "options": [
+      "A. Create and edit text documents",
+      "B. Perform arithmetic calculations",
+      "C. Design graphic images",
+      "D. Store and manage large amounts of related data"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "The column of a database table contains:",
+    "options": [
+      "A. A specific type of information about a field",
+      "B. Related information about a record",
+      "C. The primary key only",
+      "D. The entire database"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "The row of a database table contains:",
+    "options": [
+      "A. A specific type of information about a field",
+      "B. Related information about a record",
+      "C. The primary key only",
+      "D. The entire database"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Modifying a database involves:",
+    "options": [
+      "A. Creating a new database",
+      "B. Printing all records",
+      "C. Changing existing records",
+      "D. Deleting the database"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "Graphics is best defined as:",
+    "options": [
+      "A. The use of computers to perform calculations",
+      "B. The use of computers to manage databases",
+      "C. The use of computers to type documents",
+      "D. The use of computers to create and edit images"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "Which of the following is an example of a graphics package?",
+    "options": ["A. Paint", "B. MS Word", "C. MS Excel", "D. MS Access"],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 397,
+    "question": "A school logo is a design that can be created using:",
+    "options": [
+      "A. MS Excel",
+      "B. CorelDraw",
+      "C. MS Access",
+      "D. MS Word only"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "A presentation package is used mainly to:",
+    "options": [
+      "A. Perform spreadsheet calculations",
+      "B. Manage database records",
+      "C. Create slides for presentations",
+      "D. Design graphics for advertising"
+    ],
+    "answer": "C",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "MS PowerPoint is an example of a:",
+    "options": [
+      "A. Word processor",
+      "B. Spreadsheet package",
+      "C. Database package",
+      "D. Presentation package"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "In PowerPoint, inserting pictures into a slide is done through the:",
+    "options": [
+      "A. Insert tab",
+      "B. Design tab",
+      "C. Animation tab",
+      "D. Review tab"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "In PowerPoint, saving a presentation allows a user to:",
+    "options": [
+      "A. Delete the presentation permanently",
+      "B. Store the presentation for future use",
+      "C. Print the presentation directly",
+      "D. Close the application immediately"
+    ],
+    "answer": "B",
+    "topic": "Computer Application",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "A field in a computer file is best described as a:",
+    "options": [
+      "A. Collection of related records",
+      "B. Complete set of files",
+      "C. Single item of data about an entity",
+      "D. Physical storage device"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "A numeric data item contains only:",
+    "options": ["A. Letters", "B. Symbols", "C. Images", "D. Numbers"],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "Random file organisation allows records to be accessed:",
+    "options": [
+      "A. Directly without reading preceding records",
+      "B. In the order in which they were stored",
+      "C. Only in sequential order",
+      "D. Only after the file is closed"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 405,
+    "question": "An index file organisation uses an index to:",
+    "options": [
+      "A. Store records sequentially only",
+      "B. Locate records quickly",
+      "C. Delete records automatically",
+      "D. Back up records regularly"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 406,
+    "question": "A master file is usually updated using data from a:",
+    "options": [
+      "A. Reference file",
+      "B. Backup file",
+      "C. Transaction file",
+      "D. Program file"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 407,
+    "question": "The nature of content, organisation method and storage medium are criteria for:",
+    "options": [
+      "A. Booting a computer",
+      "B. Compiling a program",
+      "C. Designing a network",
+      "D. Classifying files"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 408,
+    "question": "Updating a computer file involves:",
+    "options": [
+      "A. Changing the data stored in it",
+      "B. Deleting the file permanently",
+      "C. Renaming the file only",
+      "D. Printing the file contents"
+    ],
+    "answer": "A",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "A consequence of file insecurity is that data becomes:",
+    "options": [
+      "A. Faster to access",
+      "B. Unreliable or corrupted",
+      "C. More secure",
+      "D. Properly backed up"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Using passwords is a method of:",
+    "options": [
+      "A. Increasing file size",
+      "B. Speeding up data transfer",
+      "C. Securing computer files",
+      "D. Formatting storage devices"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "An advantage of computer files is that they are:",
+    "options": [
+      "A. Expensive to set up",
+      "B. Dependent on electricity",
+      "C. Difficult to back up",
+      "D. Fast to access and search"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "Booting is best described as the process of:",
+    "options": [
+      "A. Starting up a computer system",
+      "B. Shutting down a computer system",
+      "C. Formatting a hard disk",
+      "D. Printing a document"
+    ],
+    "answer": "A",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 413,
+    "question": "A cold boot is performed when the computer is:",
+    "options": [
+      "A. Already powered on",
+      "B. Completely switched off",
+      "C. In sleep mode only",
+      "D. Connected to the Internet"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "An address in computing refers to a:",
+    "options": [
+      "A. Type of network cable",
+      "B. Program for editing documents",
+      "C. Location in memory",
+      "D. Device for printing documents"
+    ],
+    "answer": "C",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "The fetch-execute cycle is not required in the syllabus, but it describes how the CPU:",
+    "options": [
+      "A. Stores data permanently",
+      "B. Displays output on screen",
+      "C. Prints documents on paper",
+      "D. Retrieves and processes instructions"
+    ],
+    "answer": "D",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 416,
+    "question": "Data conversion in a computer produces information through:",
+    "options": [
+      "A. Input, processing and output",
+      "B. Output, input and processing",
+      "C. Processing, output and input",
+      "D. Input, output and processing"
+    ],
+    "answer": "A",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "A wider data bus allows the transfer of:",
+    "options": [
+      "A. Fewer bits at the same time",
+      "B. More bits at the same time",
+      "C. No data at all",
+      "D. Only audio data"
+    ],
+    "answer": "B",
+    "topic": "Basic Computer Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 418,
+    "question": "Which of the following is an example of a broadcasting ICT?",
+    "options": [
+      "A. Mobile phone system",
+      "B. The Internet",
+      "C. Radio broadcasting",
+      "D. GPS"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "A circuit switched packet telephone system is an example of:",
+    "options": [
+      "A. Broadcasting",
+      "B. Information system",
+      "C. Data network",
+      "D. Telecommunication"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 420,
+    "question": "A fixed wireless telephone system is an example of:",
+    "options": [
+      "A. Telecommunication",
+      "B. Broadcasting",
+      "C. Information system",
+      "D. Data network"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 421,
+    "question": "A data processing system is an example of:",
+    "options": [
+      "A. A broadcasting system",
+      "B. An information system",
+      "C. A network topology",
+      "D. A programming language"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "Messaging as an application of ICT involves:",
+    "options": [
+      "A. Designing graphic images",
+      "B. Performing spreadsheet calculations",
+      "C. Sending and receiving messages electronically",
+      "D. Managing database records"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "A dispensing machine is an ICT-based gadget used mainly to:",
+    "options": [
+      "A. Print documents remotely",
+      "B. Design graphic images",
+      "C. Manage database records",
+      "D. Release products automatically"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "A radio set is an ICT-based gadget used to:",
+    "options": [
+      "A. Receive broadcast audio signals",
+      "B. Perform arithmetic calculations",
+      "C. Manage database records",
+      "D. Print documents on paper"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "Browsing on the Internet means:",
+    "options": [
+      "A. Printing web pages on paper",
+      "B. Navigating through web pages",
+      "C. Designing web pages",
+      "D. Storing web pages on disk"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "A chatroom is a place on the Internet where users can:",
+    "options": [
+      "A. Design web pages",
+      "B. Store files permanently",
+      "C. Exchange messages in real time",
+      "D. Print documents remotely"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "An Internet Service Provider (ISP) is necessary for:",
+    "options": [
+      "A. Designing graphic images",
+      "B. Performing spreadsheet calculations",
+      "C. Managing database records",
+      "D. Connecting to the Internet"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "Netscape Navigator is an example of an early:",
+    "options": [
+      "A. Web browser",
+      "B. Spreadsheet package",
+      "C. Database package",
+      "D. Graphics package"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "The menu bar of a web browser is used to:",
+    "options": [
+      "A. Display the title of the page",
+      "B. Access commands organised in menus",
+      "C. Enter the URL of a website",
+      "D. Display the status of downloads"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "Usenet is an Internet service that allows users to:",
+    "options": [
+      "A. Transfer files between computers",
+      "B. Display web pages",
+      "C. Participate in discussion groups",
+      "D. Perform arithmetic calculations"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 431,
+    "question": "An e-mail discussion group allows users to:",
+    "options": [
+      "A. Design web pages",
+      "B. Transfer files between disks",
+      "C. Perform spreadsheet calculations",
+      "D. Exchange messages on a shared topic"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "Instant messaging allows users to:",
+    "options": [
+      "A. Communicate in real time over the Internet",
+      "B. Store files permanently",
+      "C. Print documents remotely",
+      "D. Design database tables"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "Creating an e-mail account requires a user to provide:",
+    "options": [
+      "A. A printer and scanner",
+      "B. A username and password",
+      "C. A database and spreadsheet",
+      "D. A router and switch"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Opening a mailbox allows a user to:",
+    "options": [
+      "A. Design web pages",
+      "B. Print documents remotely",
+      "C. Access received e-mail messages",
+      "D. Perform arithmetic calculations"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "Sending an e-mail message involves:",
+    "options": [
+      "A. Designing a web page",
+      "B. Formatting a hard disk",
+      "C. Compiling a program",
+      "D. Composing and transmitting the message"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "A computer network is best defined as:",
+    "options": [
+      "A. Two or more computers connected together",
+      "B. A single computer in a laboratory",
+      "C. A type of software package",
+      "D. A device for printing documents"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "A Metropolitan Area Network (MAN) typically covers:",
+    "options": [
+      "A. A single room",
+      "B. A city or large town",
+      "C. A whole country",
+      "D. The entire world"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "In a star topology, if the central device fails:",
+    "options": [
+      "A. Only one computer is affected",
+      "B. No computer is affected",
+      "C. The whole network is affected",
+      "D. The network becomes faster"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 439,
+    "question": "A hub in a network is used to:",
+    "options": [
+      "A. Convert analog signals to digital",
+      "B. Store data permanently",
+      "C. Print documents over a network",
+      "D. Connect multiple devices together"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "A modem is used to:",
+    "options": [
+      "A. Modulate and demodulate signals",
+      "B. Connect devices within a LAN only",
+      "C. Store files permanently",
+      "D. Print documents on paper"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "The World Wide Web is an Internet service that provides:",
+    "options": [
+      "A. Printing of documents remotely",
+      "B. Access to linked hypertext documents",
+      "C. Storage of files on disks",
+      "D. Performance of arithmetic calculations"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "A protocol in networking is best described as a:",
+    "options": [
+      "A. Type of network cable",
+      "B. Device for printing documents",
+      "C. Set of rules for communication",
+      "D. Program for editing text"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "HTTP is an example of a:",
+    "options": [
+      "A. Type of network cable",
+      "B. Database package",
+      "C. Graphics package",
+      "D. Network protocol"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "A difference between an e-mail address and a website address is that an e-mail address contains:",
+    "options": [
+      "A. The @ symbol",
+      "B. The www prefix",
+      "C. The http protocol",
+      "D. The .org domain only"
+    ],
+    "answer": "A",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 445,
+    "question": "FrontPage is an example of software used for:",
+    "options": [
+      "A. Spreadsheet calculations",
+      "B. Web development",
+      "C. Database management",
+      "D. Graphic design"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "Coaxial cable is an example of a:",
+    "options": [
+      "A. Power cable",
+      "B. USB cable",
+      "C. Network cable",
+      "D. Monitor cable"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "A male connector is characterised by having:",
+    "options": [
+      "A. Holes that receive pins",
+      "B. Wireless transmission only",
+      "C. No connection point at all",
+      "D. Pins that fit into a socket"
+    ],
+    "answer": "D",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 448,
+    "question": "Machine language instructions are written using:",
+    "options": [
+      "A. Binary digits 0 and 1",
+      "B. English words and phrases",
+      "C. Assembly mnemonics only",
+      "D. High level syntax only"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "One advantage of assembly language over machine language is that it is:",
+    "options": [
+      "A. Executed without translation",
+      "B. Easier for humans to read",
+      "C. Written entirely in binary",
+      "D. Independent of the CPU"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "One disadvantage of high level languages is that they:",
+    "options": [
+      "A. Are difficult for humans to read",
+      "B. Are written entirely in binary",
+      "C. Require translation before execution",
+      "D. Cannot be used for large programs"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "Artificial intelligence languages are designed mainly to:",
+    "options": [
+      "A. Perform business data processing",
+      "B. Manipulate text characters only",
+      "C. Design graphic images",
+      "D. Simulate human reasoning and learning"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 452,
+    "question": "A general-purpose high level language is one that can be used to:",
+    "options": [
+      "A. Solve a wide variety of problems",
+      "B. Solve only scientific problems",
+      "C. Solve only business problems",
+      "D. Solve only text processing problems"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "An algorithm must be unambiguous, meaning that it:",
+    "options": [
+      "A. Can run forever without stopping",
+      "B. Has clear and precise instructions",
+      "C. Requires no input at all",
+      "D. Contains no steps at all"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "An algorithm is finite, meaning that it must:",
+    "options": [
+      "A. Run forever without stopping",
+      "B. Require unlimited resources",
+      "C. Terminate after a limited number of steps",
+      "D. Contain no instructions"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "The flowchart symbol for input/output is a:",
+    "options": ["A. Rectangle", "B. Diamond", "C. Oval", "D. Parallelogram"],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "A flowchart for computing the average of numbers would include:",
+    "options": [
+      "A. Input, sum, division and output steps",
+      "B. Only input and output steps",
+      "C. Only a decision step",
+      "D. Only a loop step"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 457,
+    "question": "In BASIC, a constant is a value that:",
+    "options": [
+      "A. Changes with each iteration",
+      "B. Does not change during program execution",
+      "C. Is always a string",
+      "D. Is always zero"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "In BASIC, a variable is used to store a value that:",
+    "options": [
+      "A. Remains constant always",
+      "B. Is always numeric only",
+      "C. Can change during program execution",
+      "D. Is always a keyword"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "The BASIC arithmetic operator for division is:",
+    "options": ["A. *", "B. +", "C. -", "D. /"],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "The BASIC statement LPRINT is used to:",
+    "options": [
+      "A. Send output to a printer",
+      "B. Display output on the screen",
+      "C. Accept input from a user",
+      "D. Define an array variable"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "The BASIC statement DATA is used to:",
+    "options": [
+      "A. Display values on the screen",
+      "B. Store values for READ statements",
+      "C. Accept input from a user",
+      "D. Define an array size"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "A simple BASIC program to calculate the average of three numbers requires:",
+    "options": [
+      "A. Multiplying the numbers and dividing by two",
+      "B. Adding the numbers and multiplying by three",
+      "C. Adding the numbers and dividing by three",
+      "D. Subtracting the numbers and adding three"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "The BASIC built-in function COS(X) returns the:",
+    "options": [
+      "A. Sine of X",
+      "B. Tangent of X",
+      "C. Square of X",
+      "D. Cosine of X"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "The BASIC built-in function TAN(X) returns the:",
+    "options": [
+      "A. Tangent of X",
+      "B. Cosine of X",
+      "C. Sine of X",
+      "D. Logarithm of X"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "The BASIC notation -(X-Y)/(X+Y) means:",
+    "options": [
+      "A. The negative of (X plus Y) divided by (X minus Y)",
+      "B. The negative of (X minus Y) divided by (X plus Y)",
+      "C. (X minus Y) multiplied by (X plus Y)",
+      "D. (X plus Y) divided by (X minus Y)"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 466,
+    "question": "A program to find the square root of a number in BASIC uses the function:",
+    "options": ["A. ABS", "B. INT", "C. SQR", "D. RND"],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "The FOR-NEXT loop in BASIC is useful for:",
+    "options": [
+      "A. Defining a database structure",
+      "B. Accepting input from a user once",
+      "C. Printing a constant value once",
+      "D. Repeating a block of instructions a set number of times"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "Operating on array elements in BASIC includes:",
+    "options": [
+      "A. Input, output and arithmetic operations",
+      "B. Only input operations",
+      "C. Only output operations",
+      "D. Only deletion operations"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "A BASIC program to compute the sum of the first 100 integers would use:",
+    "options": [
+      "A. A single PRINT statement only",
+      "B. A loop to add the integers",
+      "C. A single INPUT statement only",
+      "D. A single REM statement only"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 470,
+    "question": "A system development cycle is important because it:",
+    "options": [
+      "A. Increases the cost of hardware",
+      "B. Reduces the need for testing",
+      "C. Provides a structured approach to building systems",
+      "D. Eliminates the need for documentation"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "The implementation stage of system development involves:",
+    "options": [
+      "A. Conducting the preliminary study",
+      "B. Assessing project feasibility",
+      "C. Analysing the current system",
+      "D. Putting the new system into operation"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 472,
+    "question": "Study review in system development involves:",
+    "options": [
+      "A. Evaluating the system after implementation",
+      "B. Writing the first version of code",
+      "C. Conducting the preliminary study",
+      "D. Drawing the system flowchart"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 473,
+    "question": "A characteristic of a good program is accuracy, which means it:",
+    "options": [
+      "A. Is very long and complex",
+      "B. Produces correct results",
+      "C. Contains many errors",
+      "D. Is difficult to understand"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "Maintainability as a characteristic of a good program means it is:",
+    "options": [
+      "A. Impossible to change",
+      "B. Written in machine code",
+      "C. Easy to modify and update",
+      "D. Very long and complex"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "Clarity as a characteristic of a good program means it is:",
+    "options": [
+      "A. Written in machine code",
+      "B. Very long and complex",
+      "C. Difficult to maintain",
+      "D. Easy to read and understand"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Program testing in program development is done to:",
+    "options": [
+      "A. Find and correct errors",
+      "B. Write the first version of code",
+      "C. Draw the program flowchart",
+      "D. Document the program"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "Program compilation converts a program written in a high level language into:",
+    "options": [
+      "A. Natural language",
+      "B. Machine language",
+      "C. Assembly language",
+      "D. Graphic language"
+    ],
+    "answer": "B",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Program documentation provides information about the program for:",
+    "options": [
+      "A. Printers only",
+      "B. Network cables only",
+      "C. Users and programmers",
+      "D. Monitors only"
+    ],
+    "answer": "C",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "A flow diagram showing how a compiler works is required in the syllabus to illustrate:",
+    "options": [
+      "A. How printers produce documents",
+      "B. How networks transmit data",
+      "C. How databases store records",
+      "D. How source code becomes machine code"
+    ],
+    "answer": "D",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 480,
+    "question": "A flow diagram showing how an interpreter works is required in the syllabus to illustrate:",
+    "options": [
+      "A. How source code is executed line by line",
+      "B. How printers produce documents",
+      "C. How networks transmit data",
+      "D. How databases store records"
+    ],
+    "answer": "A",
+    "topic": "Developing Problem-Solving Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 481,
+    "question": "A computer is accurate because it:",
+    "options": [
+      "A. Changes results each time",
+      "B. Gives consistent correct results",
+      "C. Requires manual calculation",
+      "D. Cannot store data"
+    ],
+    "answer": "B",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "A computer is interactive because it:",
+    "options": [
+      "A. Operates without any input",
+      "B. Cannot store data",
+      "C. Responds to user input",
+      "D. Requires manual calculation"
+    ],
+    "answer": "C",
+    "topic": "Fundamentals of Computing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "An example of a hardware device used for processing is the:",
+    "options": ["A. Keyboard", "B. Monitor", "C. Printer", "D. CPU"],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 484,
+    "question": "An example of a hardware device used for storage is the:",
+    "options": ["A. Hard disk", "B. Mouse", "C. Monitor", "D. Speaker"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "An example of a software program used for typing documents is:",
+    "options": ["A. MS Excel", "B. MS Word", "C. MS Access", "D. CorelDraw"],
+    "answer": "B",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "An example of a software program used for calculations is:",
+    "options": [
+      "A. MS Word",
+      "B. CorelDraw",
+      "C. MS Excel",
+      "D. MS PowerPoint"
+    ],
+    "answer": "C",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "An example of a software program used for managing data is:",
+    "options": [
+      "A. MS Word",
+      "B. CorelDraw",
+      "C. MS PowerPoint",
+      "D. MS Access"
+    ],
+    "answer": "D",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "An example of a software program used for designing images is:",
+    "options": ["A. CorelDraw", "B. MS Word", "C. MS Excel", "D. MS Access"],
+    "answer": "A",
+    "topic": "Computer Software",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "A file name extension such as .docx indicates the:",
+    "options": [
+      "A. Size of the hard disk",
+      "B. Type of file",
+      "C. Speed of the processor",
+      "D. Colour of the monitor"
+    ],
+    "answer": "B",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "A folder in a computer is used to:",
+    "options": [
+      "A. Print documents on paper",
+      "B. Speed up the processor",
+      "C. Organise files into groups",
+      "D. Connect to the Internet"
+    ],
+    "answer": "C",
+    "topic": "Managing Computer Files",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 491,
+    "question": "One benefit of using computer files instead of manual files is that computer files:",
+    "options": [
+      "A. Require no electricity",
+      "B. Are always free to maintain",
+      "C. Cannot be damaged",
+      "D. Allow quick searching and retrieval"
+    ],
+    "answer": "D",
+    "topic": "Managing Computer Files",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "A computer virus can be prevented from spreading by:",
+    "options": [
+      "A. Using updated antivirus software",
+      "B. Opening all email attachments",
+      "C. Disabling firewalls",
+      "D. Sharing passwords online"
+    ],
+    "answer": "A",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "A firewall is an example of:",
+    "options": [
+      "A. A storage device",
+      "B. A security measure",
+      "C. An input device",
+      "D. A network cable"
+    ],
+    "answer": "B",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "Cyber crime includes offences such as:",
+    "options": [
+      "A. Formatting a hard disk",
+      "B. Installing antivirus software",
+      "C. Identity theft and internet fraud",
+      "D. Backing up computer files"
+    ],
+    "answer": "C",
+    "topic": "Computer Ethics and Human Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "The most appropriate storage medium for transferring files between computers is a:",
+    "options": ["A. Monitor", "B. Keyboard", "C. Printer", "D. Flash disk"],
+    "answer": "D",
+    "topic": "Computer Hardware",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "The unit of storage that comes immediately after a byte is the:",
+    "options": ["A. Kilobyte", "B. Nibble", "C. Megabyte", "D. Bit"],
+    "answer": "A",
+    "topic": "Computer Hardware",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "A network is useful in an office because it allows:",
+    "options": [
+      "A. Increased cost of hardware",
+      "B. Sharing of printers and files",
+      "C. Slower data transfer",
+      "D. Reduced data security"
+    ],
+    "answer": "B",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The best way to send a document to a distant office quickly is through:",
+    "options": [
+      "A. Printed letter",
+      "B. Hard disk drive",
+      "C. Electronic mail",
+      "D. Monitor display"
+    ],
+    "answer": "C",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "A spreadsheet is most useful for tasks involving:",
+    "options": [
+      "A. Typing letters and memos",
+      "B. Designing logos and banners",
+      "C. Managing large relational databases",
+      "D. Numerical calculations and data analysis"
+    ],
+    "answer": "D",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "A database package is most useful for tasks involving:",
+    "options": [
+      "A. Storing and retrieving large amounts of structured data",
+      "B. Typing letters and memos",
+      "C. Designing logos and banners",
+      "D. Performing arithmetic calculations only"
+    ],
+    "answer": "A",
+    "topic": "Computer Application",
+    "difficulty": "Medium"
+  }
+]

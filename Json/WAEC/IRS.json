@@ -1,0 +1,4752 @@
+[
+  {
+    "id": 1,
+    "question": "The period of ignorance before the advent of Islam is known as",
+    "options": ["A. Fatrah", "B. Hijrah", "C. Jahiliyyah", "D. Sunnah"],
+    "answer": "C",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following was a major idol worshipped by the Quraysh in Makkah?",
+    "options": ["A. Al-Lat", "B. Al-Khidr", "C. Al-Amin", "D. Al-Fatihah"],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Prophet Muhammad (SAW) was born in the year",
+    "options": ["A. 610 CE", "B. 632 CE", "C. 570 CE", "D. 622 CE"],
+    "answer": "D",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The migration of the Prophet from Makkah to Madinah is termed",
+    "options": ["A. Isra", "B. Hijrah", "C. Mi'raj", "D. Hajj"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "The first Caliph of Islam was",
+    "options": ["A. Abu Bakr", "B. Umar", "C. Uthman", "D. Ali"],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The spread of Islam in West Africa was greatly aided by",
+    "options": [
+      "A. military conquest",
+      "B. colonial powers",
+      "C. slave trade",
+      "D. Muslim traders and scholars"
+    ],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "The first revelation came to the Prophet at the age of",
+    "options": ["A. 25", "B. 40", "C. 50", "D. 63"],
+    "answer": "B",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The standardization of the Qur'an was completed during the caliphate of",
+    "options": ["A. Abu Bakr", "B. Umar", "C. Uthman", "D. Ali"],
+    "answer": "C",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Which Surah is recited in every unit of the Salat?",
+    "options": ["A. Al-Ikhlas", "B. Al-Falaq", "C. An-Nas", "D. Al-Fatihah"],
+    "answer": "D",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is explicitly prohibited in the Qur'an?",
+    "options": ["A. Trading", "B. Gambling", "C. Marriage", "D. Traveling"],
+    "answer": "B",
+    "topic": "Moral Lessons from the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The term 'Hadith' literally means",
+    "options": ["A. law", "B. tradition", "C. news", "D. wisdom"],
+    "answer": "C",
+    "topic": "Definition of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "The first hadith in An-Nawawi's collection is about",
+    "options": ["A. intention", "B. charity", "C. prayer", "D. fasting"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "How many articles of faith are there in Islam?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 4"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "Associating partners with Allah is referred to as",
+    "options": ["A. Kufr", "B. Nifaq", "C. Shirk", "D. Fisq"],
+    "answer": "C",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "The ritual purification before prayer is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "How many times a day are Muslims obligated to pray?",
+    "options": ["A. 3", "B. 4", "C. 6", "D. 5"],
+    "answer": "D",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Fasting from dawn to sunset during Ramadan is called",
+    "options": ["A. Hajj", "B. Zakat", "C. Sawm", "D. Salat"],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "The minimum amount of wealth that makes Zakat obligatory is called",
+    "options": ["A. Nisab", "B. Sadaqah", "C. Kaffarah", "D. Fitrah"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "The annual pilgrimage to Makkah is known as",
+    "options": ["A. Umrah", "B. Ziyarah", "C. Tawaf", "D. Hajj"],
+    "answer": "D",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The primary source of Islamic law is",
+    "options": ["A. Ijma", "B. Qur'an", "C. Qiyas", "D. Sunnah"],
+    "answer": "B",
+    "topic": "Shari'ah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "In pre-Islamic Arabia, the system of government was mainly",
+    "options": [
+      "A. democratic",
+      "B. monarchical",
+      "C. tribal",
+      "D. theocratic"
+    ],
+    "answer": "C",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following was a practice of the Jahiliyyah that Islam abolished?",
+    "options": [
+      "A. Female infanticide",
+      "B. Trade caravans",
+      "C. Poetry recitation",
+      "D. Idol worship"
+    ],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "The Prophet's first marriage was to",
+    "options": ["A. Aisha", "B. Hafsa", "C. Zainab", "D. Khadijah"],
+    "answer": "D",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The Battle of Badr was fought in the year",
+    "options": ["A. 2 AH", "B. 3 AH", "C. 5 AH", "D. 8 AH"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Umar ibn al-Khattab was known for his",
+    "options": ["A. wealth", "B. poetry", "C. justice", "D. trading"],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The ancient empire of Mali was famous for its",
+    "options": [
+      "A. gold trade",
+      "B. silk production",
+      "C. naval power",
+      "D. iron smelting"
+    ],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "The first revelation consisted of verses from Surah",
+    "options": ["A. Al-Fatihah", "B. Al-Alaq", "C. Al-Muzzammil", "D. Al-Qadr"],
+    "answer": "B",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "The Qur'an was revealed over a period of about",
+    "options": ["A. 10 years", "B. 15 years", "C. 23 years", "D. 30 years"],
+    "answer": "C",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Surah Al-Duha was revealed to",
+    "options": [
+      "A. warn the disbelievers",
+      "B. comfort the Prophet",
+      "C. prescribe laws",
+      "D. narrate history"
+    ],
+    "answer": "D",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "The Surah that emphasizes the unity of Allah is",
+    "options": ["A. Al-Ikhlas", "B. Al-Falaq", "C. An-Nas", "D. Al-Nasr"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The Sunnah refers to the",
+    "options": [
+      "A. sayings and actions of the Prophet",
+      "B. consensus of scholars",
+      "C. analogical reasoning",
+      "D. words of the companions"
+    ],
+    "answer": "A",
+    "topic": "Definition of Hadith",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "The chain of narrators in a Hadith is called",
+    "options": ["A. Matn", "B. Rawi", "C. Isnad", "D. Sahih"],
+    "answer": "C",
+    "topic": "Parts of the Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "A Hadith classified as Sahih is",
+    "options": ["A. weak", "B. authentic", "C. good", "D. fabricated"],
+    "answer": "B",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "The six sound collections of Hadith are known as",
+    "options": [
+      "A. Sihaus-Sittah",
+      "B. Kutub al-Arba'ah",
+      "C. Musnad",
+      "D. Muwatta"
+    ],
+    "answer": "A",
+    "topic": "Six Sound Collections",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The Hadith on the authority of An-Nawawi that mentions 'actions are judged by intentions' is number",
+    "options": ["A. 1", "B. 5", "C. 7", "D. 9"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Belief in Allah includes the concept of",
+    "options": ["A. Trinity", "B. Tawhid", "C. Shirk", "D. Kufr"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The Kalimatush-Shahadah is a declaration of",
+    "options": ["A. charity", "B. prayer", "C. faith", "D. fasting"],
+    "answer": "C",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Worshipping idols is a form of",
+    "options": ["A. Iman", "B. Tawbah", "C. Shukr", "D. Shirk"],
+    "answer": "D",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "Tayammum is performed using",
+    "options": ["A. water", "B. clean earth", "C. oil", "D. milk"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "The prostration of forgetfulness in Salat is called",
+    "options": [
+      "A. Sujudus-Sahwi",
+      "B. Sujudut-Tilawah",
+      "C. Sujudus-Shukr",
+      "D. Ruku"
+    ],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following acts invalidates the fast?",
+    "options": [
+      "A. Sleeping",
+      "B. Bathing",
+      "C. Eating intentionally",
+      "D. Brushing teeth"
+    ],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Zakat on agricultural produce is paid when the harvest reaches",
+    "options": ["A. 5 wasaq", "B. 10 wasaq", "C. 20 wasaq", "D. 40 wasaq"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 43,
+    "question": "The beneficiaries of Zakat are mentioned in the Qur'an in Surah",
+    "options": ["A. Al-Baqarah", "B. At-Tawbah", "C. Al-Nisa", "D. Al-Ma'idah"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "One of the prerequisites for Hajj is",
+    "options": [
+      "A. being young",
+      "B. being male",
+      "C. having the means",
+      "D. being married"
+    ],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The type of Hajj where a pilgrim performs Umrah and Hajj together is",
+    "options": ["A. Ifrad", "B. Tamattu'", "C. Qiran", "D. Mufrad"],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "The second source of Islamic law after the Qur'an is",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "C",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The marriage contract in Islam is called",
+    "options": ["A. Talaq", "B. Nikah", "C. Khul'", "D. Zihar"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "The waiting period for a divorced woman is known as",
+    "options": ["A. Iddah", "B. Rida'ah", "C. Nafaqah", "D. Mahr"],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The Jahiliyyah Arabs believed in",
+    "options": ["A. one God", "B. many gods", "C. no God", "D. Allah only"],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "The Prophet Muhammad (SAW) received his first revelation in the cave of",
+    "options": ["A. Thawr", "B. Uhud", "C. Hira", "D. Safa"],
+    "answer": "C",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "The treaty of Hudaybiyyah was signed between the Muslims and the",
+    "options": [
+      "A. Jews of Madinah",
+      "B. Quraysh of Makkah",
+      "C. Romans",
+      "D. Persians"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The Battle of Uhud was a setback for the Muslims mainly due to",
+    "options": [
+      "A. lack of weapons",
+      "B. disobedience of some archers",
+      "C. numerical superiority of enemies",
+      "D. poor strategy"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Uthman ibn Affan was known for his",
+    "options": [
+      "A. bravery in battle",
+      "B. generosity",
+      "C. poetry",
+      "D. farming"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "Ali ibn Abi Talib was the",
+    "options": [
+      "A. first Caliph",
+      "B. second Caliph",
+      "C. third Caliph",
+      "D. fourth Caliph"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "The Murabitun in West Africa were",
+    "options": ["A. traders", "B. scholars", "C. warriors", "D. kings"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The capital of the ancient Mali empire was",
+    "options": ["A. Timbuktu", "B. Gao", "C. Niani", "D. Kumbi Saleh"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The Makkan Surahs are generally characterized by",
+    "options": [
+      "A. legal rulings",
+      "B. emphasis on Tawhid",
+      "C. stories of prophets",
+      "D. laws of inheritance"
+    ],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "The Qur'an is divided into how many chapters?",
+    "options": ["A. 114", "B. 120", "C. 100", "D. 110"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Surah Al-Qadr discusses the",
+    "options": [
+      "A. night of power",
+      "B. battle of Badr",
+      "C. creation of man",
+      "D. day of judgment"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "Surah An-Nasr signifies the",
+    "options": [
+      "A. victory of the Muslims",
+      "B. defeat of the Muslims",
+      "C. birth of the Prophet",
+      "D. migration to Madinah"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The Hadith is classified into Sahih, Hasan, and",
+    "options": ["A. Da'if", "B. Marfu'", "C. Mauquf", "D. Qudsi"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "The compiler of the Muwatta is",
+    "options": ["A. Bukhari", "B. Muslim", "C. Malik", "D. Tirmidhi"],
+    "answer": "C",
+    "topic": "Six Sound Collections",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "The Hadith on the authority of An-Nawawi that mentions 'Islam is built upon five pillars' is number",
+    "options": ["A. 1", "B. 5", "C. 7", "D. 9"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "The belief in the angels is an article of",
+    "options": ["A. Iman", "B. Islam", "C. Ihsan", "D. Shirk"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "The concept of Trinity is rejected in Islam because it contradicts",
+    "options": ["A. Tawhid", "B. Nabuwwah", "C. Akhirah", "D. Qadar"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Ancestor worship is a form of",
+    "options": ["A. Tawhid", "B. Shirk", "C. Iman", "D. Taqwa"],
+    "answer": "B",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "Wudu is invalidated by",
+    "options": ["A. sleeping deeply", "B. eating", "C. drinking", "D. talking"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Ghusl is obligatory after",
+    "options": ["A. eating", "B. sleeping", "C. menstruation", "D. traveling"],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "The Friday congregational prayer is called",
+    "options": ["A. Jum'ah", "B. 'Idayn", "C. Janazah", "D. Tarawih"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "Salat on a journey is called",
+    "options": [
+      "A. Salatul-Jum'ah",
+      "B. Salatus-Safar",
+      "C. Salatul-Khusuf",
+      "D. Salatul-Istisqa"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "The pre-dawn meal before fasting is called",
+    "options": ["A. Iftar", "B. Suhoor", "C. Tarawih", "D. Zakat"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "Zakatul-Fitr is paid at the end of",
+    "options": ["A. Hajj", "B. Ramadan", "C. Muharram", "D. Shawwal"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "The Ka'bah is located in",
+    "options": ["A. Madinah", "B. Jerusalem", "C. Makkah", "D. Ta'if"],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "The type of Hajj where a pilgrim performs Umrah first and then Hajj is",
+    "options": ["A. Ifrad", "B. Tamattu'", "C. Qiran", "D. Mufrad"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The consensus of Islamic scholars is known as",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The marriage gift given to the bride is called",
+    "options": ["A. Mahr", "B. Nafaqah", "C. Iddah", "D. Khul'"],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "The divorce initiated by the wife is called",
+    "options": ["A. Talaq", "B. Khul'", "C. Zihar", "D. Li'an"],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The pre-Islamic Arabs were mostly",
+    "options": ["A. Christians", "B. Jews", "C. idolaters", "D. monotheists"],
+    "answer": "C",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "The first revelation occurred in the month of",
+    "options": ["A. Muharram", "B. Ramadan", "C. Shawwal", "D. Rajab"],
+    "answer": "B",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "The Prophet's farewell pilgrimage took place in the year",
+    "options": ["A. 8 AH", "B. 9 AH", "C. 10 AH", "D. 11 AH"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Abu Bakr was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "Umar ibn al-Khattab was assassinated by",
+    "options": ["A. a Roman", "B. a Persian slave", "C. a Jew", "D. an Arab"],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "The city of Timbuktu became a center of learning during the",
+    "options": [
+      "A. Ghana empire",
+      "B. Mali empire",
+      "C. Songhai empire",
+      "D. Kanem-Borno empire"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "The Sufi orders in West Africa emphasized",
+    "options": [
+      "A. holy war",
+      "B. spiritual purification",
+      "C. trade",
+      "D. politics"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The Madinan Surahs are generally characterized by",
+    "options": [
+      "A. short verses",
+      "B. legal rulings",
+      "C. emphasis on Tawhid",
+      "D. stories of past nations"
+    ],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "Surah Al-'Alaq begins with the word",
+    "options": ["A. Iqra", "B. Qul", "C. Inna", "D. Alhamdu"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Surah Al-Kafirun emphasizes",
+    "options": [
+      "A. charity",
+      "B. prayer",
+      "C. religious tolerance",
+      "D. fasting"
+    ],
+    "answer": "C",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "The Hadith that says 'None of you truly believes until he loves for his brother what he loves for himself' is number",
+    "options": ["A. 1", "B. 5", "C. 7", "D. 13"],
+    "answer": "D",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "The text of the Hadith is called",
+    "options": ["A. Isnad", "B. Matn", "C. Rawi", "D. Sanad"],
+    "answer": "B",
+    "topic": "Parts of the Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "A Hadith with a continuous chain of reliable narrators is",
+    "options": ["A. Sahih", "B. Hasan", "C. Da'if", "D. Mawdu'"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "The prophet who received the Zabur is",
+    "options": ["A. Musa", "B. Isa", "C. Dawud", "D. Ibrahim"],
+    "answer": "C",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The day of resurrection is also known as",
+    "options": [
+      "A. Yawm al-Din",
+      "B. Yawm al-Jumu'ah",
+      "C. Yawm al-Arafah",
+      "D. Yawm al-Nahr"
+    ],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "The sin of idol worship is mentioned in the Qur'an in Surah",
+    "options": ["A. Al-Fatihah", "B. Al-Luqman", "C. Al-Ikhlas", "D. Al-Falaq"],
+    "answer": "B",
+    "topic": "Shirk",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "Al-Istinja' refers to purification after",
+    "options": [
+      "A. eating",
+      "B. sleeping",
+      "C. relieving oneself",
+      "D. traveling"
+    ],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "The call to prayer is known as",
+    "options": ["A. Iqamah", "B. Adhan", "C. Takbir", "D. Tasbih"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "The night prayer performed during Ramadan is called",
+    "options": ["A. Witr", "B. Tarawih", "C. Duha", "D. Istikhara"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Those exempted from fasting include",
+    "options": ["A. travelers", "B. students", "C. teachers", "D. traders"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "Zakat is paid on gold and silver when they reach the nisab of",
+    "options": [
+      "A. 20 dinars",
+      "B. 40 dinars",
+      "C. 50 dinars",
+      "D. 100 dinars"
+    ],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "The Station of Ibrahim is located near the",
+    "options": [
+      "A. Ka'bah",
+      "B. Prophet's Mosque",
+      "C. Al-Aqsa Mosque",
+      "D. Mount Arafat"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "The act of running between Safa and Marwa is called",
+    "options": ["A. Tawaf", "B. Sa'i", "C. Wuquf", "D. Ramy"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Analogical reasoning in Islamic law is known as",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "B",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "Marriage in Islam is considered",
+    "options": [
+      "A. a burden",
+      "B. half of faith",
+      "C. optional",
+      "D. disliked"
+    ],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "The period of waiting for a widow is",
+    "options": [
+      "A. 3 months",
+      "B. 4 months 10 days",
+      "C. 2 months",
+      "D. 1 year"
+    ],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 104,
+    "question": "In the Jahiliyyah period, women were",
+    "options": [
+      "A. highly respected",
+      "B. treated as property",
+      "C. leaders of tribes",
+      "D. scholars"
+    ],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "The Prophet's uncle who supported him was",
+    "options": ["A. Abu Lahab", "B. Abu Talib", "C. Abbas", "D. Hamza"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "The treaty of Hudaybiyyah was a",
+    "options": [
+      "A. military victory",
+      "B. diplomatic success",
+      "C. defeat",
+      "D. trade agreement"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The compilation of the Qur'an into a single book was first done by",
+    "options": ["A. Uthman", "B. Abu Bakr", "C. Umar", "D. Ali"],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Surah Al-Falaq seeks refuge from",
+    "options": ["A. darkness", "B. enemies", "C. magic", "D. poverty"],
+    "answer": "C",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The Hadith that says 'Religion is sincere advice' is number",
+    "options": ["A. 5", "B. 7", "C. 9", "D. 13"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "The narrators of Hadith are evaluated based on their",
+    "options": ["A. wealth", "B. memory and character", "C. age", "D. tribe"],
+    "answer": "B",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "The belief in the prophets is an article of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "The Qur'an describes Allah as",
+    "options": ["A. one", "B. three", "C. two", "D. many"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Wudu is performed using",
+    "options": ["A. clean water", "B. sand", "C. milk", "D. oil"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "The two Eid prayers are examples of",
+    "options": [
+      "A. obligatory prayers",
+      "B. special prayers",
+      "C. voluntary prayers",
+      "D. missed prayers"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "The fast of Ramadan is obligatory on",
+    "options": ["A. children", "B. the sick", "C. adults", "D. travelers"],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "The beneficiaries of Zakat are how many in number?",
+    "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+    "answer": "C",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "The types of Hajj are",
+    "options": [
+      "A. Ifrad, Tamattu', Qiran",
+      "B. Umrah, Ziyarah, Tawaf",
+      "C. Sa'i, Wuquf, Ramy",
+      "D. Ihram, Talbiyah, Tawaf"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "The four sources of Shari'ah are",
+    "options": [
+      "A. Qur'an, Sunnah, Ijma, Qiyas",
+      "B. Qur'an, Hadith, Ijma, Urf",
+      "C. Qur'an, Sunnah, Fatwa, Qiyas",
+      "D. Sunnah, Ijma, Qiyas, Adat"
+    ],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "The prohibited categories of marriage are mentioned in Surah",
+    "options": ["A. Al-Baqarah", "B. An-Nisa", "C. Al-Ma'idah", "D. Al-A'raf"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "The divorce by mutual consent is called",
+    "options": ["A. Talaq", "B. Khul'", "C. Mubara'ah", "D. Zihar"],
+    "answer": "C",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "The Jahiliyyah Arabs practiced",
+    "options": [
+      "A. monotheism",
+      "B. idol worship",
+      "C. Christianity",
+      "D. Judaism"
+    ],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "The Battle of Khandaq is also known as the Battle of",
+    "options": ["A. Trench", "B. Badr", "C. Uhud", "D. Hunayn"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "The Prophet's sermon at Arafat emphasized",
+    "options": ["A. trade", "B. human rights", "C. warfare", "D. poetry"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "The first martyr in Islam was",
+    "options": ["A. Hamza", "B. Sumayyah", "C. Bilal", "D. Ammar"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Umar ibn al-Khattab established the",
+    "options": [
+      "A. Islamic calendar",
+      "B. postal system",
+      "C. first university",
+      "D. first hospital"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "The Kanem-Borno empire was located in",
+    "options": [
+      "A. West Africa",
+      "B. North Africa",
+      "C. East Africa",
+      "D. South Africa"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "The Qur'anic term for abrogation is",
+    "options": ["A. Naskh", "B. Tafsir", "C. Tajwid", "D. Qira'ah"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Surah At-Tin swears by",
+    "options": [
+      "A. the fig and the olive",
+      "B. the sun and the moon",
+      "C. the wind and the rain",
+      "D. the earth and the sky"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "The Hadith that says 'He who believes in Allah and the Last Day should speak good or remain silent' is number",
+    "options": ["A. 5", "B. 7", "C. 15", "D. 16"],
+    "answer": "C",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The science of Hadith criticism is called",
+    "options": ["A. Jarh wa Ta'dil", "B. Tafsir", "C. Fiqh", "D. Aqidah"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Belief in the Day of Judgment is an article of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The Qur'an states that Allah is free from",
+    "options": [
+      "A. perfection",
+      "B. having partners",
+      "C. mercy",
+      "D. knowledge"
+    ],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Istinja' is performed after",
+    "options": [
+      "A. eating",
+      "B. sleeping",
+      "C. using the toilet",
+      "D. praying"
+    ],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The Janazah prayer is performed for",
+    "options": [
+      "A. the sick",
+      "B. the deceased",
+      "C. travelers",
+      "D. newlyweds"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "question": "The voluntary fast on Mondays and Thursdays is",
+    "options": [
+      "A. compulsory",
+      "B. recommended",
+      "C. disliked",
+      "D. forbidden"
+    ],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "Zakat on money is paid at the rate of",
+    "options": ["A. 2.5%", "B. 5%", "C. 10%", "D. 20%"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The state of ritual purity for Hajj is called",
+    "options": ["A. Ihram", "B. Talbiyah", "C. Tawaf", "D. Sa'i"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "The punishment for theft in Islam is mentioned in the",
+    "options": ["A. Sunnah", "B. Ijma", "C. Qur'an", "D. Qiyas"],
+    "answer": "C",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "The prohibition of ill-treatment of wives is found in Surah",
+    "options": ["A. An-Nisa", "B. At-Talaq", "C. Al-Baqarah", "D. Al-Ma'idah"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "The oath of condemnation between spouses is called",
+    "options": ["A. Zihar", "B. Li'an", "C. Ila", "D. Khul'"],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "The economic life of the Jahiliyyah Arabs depended mainly on",
+    "options": ["A. agriculture", "B. trade", "C. fishing", "D. mining"],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "The Prophet Muhammad (SAW) was known for his",
+    "options": ["A. wealth", "B. honesty", "C. poetry", "D. fighting skills"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "The hypocrites in Madinah were led by",
+    "options": [
+      "A. Abu Bakr",
+      "B. Abdullah ibn Ubayy",
+      "C. Abu Sufyan",
+      "D. Khalid ibn Walid"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "The Prophet's daughter who was married to Ali was",
+    "options": ["A. Aisha", "B. Hafsa", "C. Fatimah", "D. Zainab"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "Uthman ibn Affan was given the title",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "Ali ibn Abi Talib moved the capital of the caliphate to",
+    "options": ["A. Makkah", "B. Madinah", "C. Kufah", "D. Damascus"],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "The Songhai empire was known for its",
+    "options": ["A. gold trade", "B. university", "C. navy", "D. iron works"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The role of Hajj in the spread of Islam in West Africa was",
+    "options": [
+      "A. military",
+      "B. cultural exchange",
+      "C. economic",
+      "D. political"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Surah Al-Ikhlas summarizes the concept of",
+    "options": ["A. Tawhid", "B. Nabuwwah", "C. Akhirah", "D. Qadar"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "Surah An-Nas seeks refuge from",
+    "options": ["A. the devil", "B. hunger", "C. poverty", "D. illness"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "The Hadith that says 'Fear Allah in private and public' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 19"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 152,
+    "question": "The Hadith that says 'Allah has prescribed excellence in all things' is number",
+    "options": ["A. 15", "B. 16", "C. 17", "D. 18"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "The belief in predestination is called",
+    "options": ["A. Qada' and Qadar", "B. Iman", "C. Islam", "D. Ihsan"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "The Qur'an describes the Trinity as",
+    "options": ["A. true", "B. false", "C. optional", "D. unknown"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Tayammum is allowed when",
+    "options": [
+      "A. water is available",
+      "B. water is scarce",
+      "C. one is healthy",
+      "D. one is traveling"
+    ],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Salat is obligatory on every",
+    "options": ["A. child", "B. adult Muslim", "C. traveler", "D. sick person"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "The fast of Shawwal is",
+    "options": ["A. compulsory", "B. voluntary", "C. disliked", "D. forbidden"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Zakat on livestock is paid when the animals reach a specific",
+    "options": ["A. color", "B. age and number", "C. weight", "D. breed"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "The stoning of the devil during Hajj is called",
+    "options": ["A. Ramy", "B. Tawaf", "C. Sa'i", "D. Wuquf"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "The primary source of Shari'ah is the",
+    "options": ["A. Qur'an", "B. Sunnah", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "The rights of the husband over the wife include",
+    "options": ["A. obedience", "B. wealth", "C. beauty", "D. education"],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "The waiting period for a divorced woman who is pregnant ends when",
+    "options": [
+      "A. 3 months pass",
+      "B. she gives birth",
+      "C. 4 months pass",
+      "D. she remarries"
+    ],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "The social life of the Jahiliyyah Arabs was characterized by",
+    "options": [
+      "A. tribal loyalty",
+      "B. national unity",
+      "C. democracy",
+      "D. equality"
+    ],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The first person to accept Islam was",
+    "options": ["A. Abu Bakr", "B. Ali", "C. Khadijah", "D. Zaid"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "The Prophet's migration to Madinah took place in the year",
+    "options": ["A. 610 CE", "B. 622 CE", "C. 630 CE", "D. 632 CE"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "The treaty of Hudaybiyyah was broken by the",
+    "options": ["A. Muslims", "B. Quraysh", "C. Jews", "D. Romans"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Abu Bakr was the first to",
+    "options": [
+      "A. compile the Qur'an",
+      "B. establish the calendar",
+      "C. expand the mosque",
+      "D. fight the apostates"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "The ancient Ghana empire was located in present-day",
+    "options": ["A. Mali", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The Makkan Surahs are generally",
+    "options": ["A. long", "B. short", "C. legal", "D. historical"],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Surah Al-Fatihah is also known as",
+    "options": [
+      "A. the mother of the book",
+      "B. the heart of the Qur'an",
+      "C. the light",
+      "D. the guidance"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "The Hadith that says 'Modesty is part of faith' is number",
+    "options": ["A. 18", "B. 19", "C. 20", "D. 21"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 172,
+    "question": "The Hadith that says 'Whoever relieves a believer of a distress in this world, Allah will relieve him of a distress on the Day of Judgment' is number",
+    "options": ["A. 34", "B. 35", "C. 36", "D. 41"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "The belief in the books of Allah includes the",
+    "options": ["A. Qur'an", "B. Hadith", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "The Qur'anic verse 'Say He is Allah the One' is from Surah",
+    "options": ["A. Al-Ikhlas", "B. Al-Falaq", "C. An-Nas", "D. Al-Fatihah"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "Using clean earth for purification is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "The prostration in Salat is called",
+    "options": ["A. Ruku", "B. Sujud", "C. Qiyam", "D. Jalsa"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "The fast of Ramadan was made obligatory in the year",
+    "options": ["A. 1 AH", "B. 2 AH", "C. 3 AH", "D. 4 AH"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "The poor due is another name for",
+    "options": ["A. Zakat", "B. Sadaqah", "C. Kaffarah", "D. Fitrah"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The pilgrimage to Makkah during the month of Dhul-Hijjah is",
+    "options": ["A. Umrah", "B. Hajj", "C. Ziyarah", "D. Tawaf"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 180,
+    "question": "The term 'Shari'ah' literally means",
+    "options": ["A. a path", "B. a law", "C. a book", "D. a teacher"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "The consent of both parties is a condition for the validity of",
+    "options": ["A. trade", "B. marriage", "C. travel", "D. prayer"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The divorce pronounced three times is called",
+    "options": [
+      "A. Talaq Raj'i",
+      "B. Talaq Ba'in",
+      "C. Talaq Mughallazah",
+      "D. Khul'"
+    ],
+    "answer": "C",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "The political system of the Jahiliyyah Arabs was based on",
+    "options": ["A. tribal chiefs", "B. kings", "C. presidents", "D. councils"],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "The Prophet's night journey to Jerusalem is called",
+    "options": ["A. Hijrah", "B. Isra", "C. Mi'raj", "D. Hajj"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "The Constitution of Madinah established",
+    "options": [
+      "A. a monarchy",
+      "B. a federation of tribes",
+      "C. a theocracy",
+      "D. a democracy"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "The Prophet's last sermon was delivered at",
+    "options": ["A. Arafat", "B. Madinah", "C. Makkah", "D. Mina"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Umar ibn al-Khattab was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "The impact of Islam on West African languages was the",
+    "options": [
+      "A. introduction of Arabic script",
+      "B. loss of local languages",
+      "C. banning of local languages",
+      "D. creation of new alphabets"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "The Qur'an was revealed in",
+    "options": ["A. Arabic", "B. Hebrew", "C. Greek", "D. Latin"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "Surah Al-Duha was revealed after a period of",
+    "options": [
+      "A. war",
+      "B. pause in revelation",
+      "C. fasting",
+      "D. traveling"
+    ],
+    "answer": "B",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The Hadith that says 'Let him who believes in Allah and the Last Day be generous to his neighbor' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 15"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "The Hadith that says 'Part of the perfection of one's Islam is his leaving that which does not concern him' is number",
+    "options": ["A. 15", "B. 16", "C. 15", "D. 18"],
+    "answer": "C",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "The angels are created from",
+    "options": ["A. fire", "B. light", "C. clay", "D. water"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "The Qur'an describes Jesus as",
+    "options": ["A. God", "B. a prophet", "C. a companion", "D. an angel"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Wudu is broken by",
+    "options": ["A. laughter", "B. passing wind", "C. crying", "D. talking"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "The Qiblah is the direction of",
+    "options": [
+      "A. the Ka'bah",
+      "B. the Prophet's tomb",
+      "C. Jerusalem",
+      "D. Madinah"
+    ],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "The fast is broken at sunset with",
+    "options": ["A. Iftar", "B. Suhoor", "C. Tarawih", "D. Zakat"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "Zakat is not paid on",
+    "options": [
+      "A. gold",
+      "B. silver",
+      "C. livestock",
+      "D. personal residence"
+    ],
+    "answer": "D",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The standing at Arafat during Hajj is called",
+    "options": ["A. Wuquf", "B. Tawaf", "C. Sa'i", "D. Ramy"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The secondary source of Shari'ah is the",
+    "options": ["A. Sunnah", "B. Ijma", "C. Qiyas", "D. Urf"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "The waiting period for a divorced woman is to",
+    "options": [
+      "A. ensure paternity",
+      "B. delay marriage",
+      "C. punish her",
+      "D. please her family"
+    ],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "The marriage of the Prophet to Khadijah took place when he was",
+    "options": ["A. 20", "B. 25", "C. 30", "D. 40"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The first mosque built in Madinah was",
+    "options": ["A. Quba", "B. Nabawi", "C. Qiblatayn", "D. Aqsa"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "The Battle of Badr was a",
+    "options": ["A. defeat", "B. victory", "C. draw", "D. retreat"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "Uthman ibn Affan was a",
+    "options": [
+      "A. scribe of the Qur'an",
+      "B. judge",
+      "C. general",
+      "D. teacher"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "The spread of Islam in West Africa was facilitated by the",
+    "options": [
+      "A. Songhai empire",
+      "B. colonial powers",
+      "C. slave trade",
+      "D. European explorers"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "The Qur'anic term for a verse is",
+    "options": ["A. Ayah", "B. Surah", "C. Juz'", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "Surah Al-'Alaq is the",
+    "options": [
+      "A. first revelation",
+      "B. last revelation",
+      "C. longest surah",
+      "D. shortest surah"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The Hadith that says 'Allah will not look at a person who drags his garment out of pride' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "The Hadith that says 'The blood of a Muslim is not lawful except in three cases' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The belief in the Last Day includes belief in",
+    "options": ["A. resurrection", "B. trade", "C. marriage", "D. travel"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The Qur'an rejects the idea of",
+    "options": ["A. Tawhid", "B. Trinity", "C. prophethood", "D. angels"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The ritual washing of the whole body is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "The Friday prayer is preceded by a",
+    "options": ["A. sermon", "B. meal", "C. bath", "D. journey"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "question": "The month of fasting is",
+    "options": ["A. Ramadan", "B. Shawwal", "C. Muharram", "D. Rajab"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "Zakat is a pillar of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "The sa'y during Hajj commemorates",
+    "options": [
+      "A. Hajar's search for water",
+      "B. Ibrahim's sacrifice",
+      "C. Muhammad's migration",
+      "D. Adam's descent"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "The term 'Qiyas' in Islamic law refers to",
+    "options": ["A. analogy", "B. consensus", "C. custom", "D. reasoning"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The rights of the wife include",
+    "options": [
+      "A. maintenance",
+      "B. servitude",
+      "C. obedience to others",
+      "D. silence"
+    ],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The waiting period for a divorced woman who is not pregnant is",
+    "options": ["A. 3 months", "B. 4 months", "C. 5 months", "D. 6 months"],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "The Jahiliyyah Arabs inherited property through",
+    "options": [
+      "A. male heirs",
+      "B. female heirs",
+      "C. all children",
+      "D. the wife"
+    ],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The Prophet's first trade journey was to",
+    "options": ["A. Syria", "B. Yemen", "C. Egypt", "D. Iraq"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The Battle of Khandaq was fought in the year",
+    "options": ["A. 3 AH", "B. 5 AH", "C. 7 AH", "D. 9 AH"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "The conquest of Makkah took place in the year",
+    "options": ["A. 5 AH", "B. 6 AH", "C. 8 AH", "D. 10 AH"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "Ali ibn Abi Talib was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "The impact of Islam on the socio-political life of West Africa was the",
+    "options": [
+      "A. introduction of Islamic law",
+      "B. banning of traditional titles",
+      "C. abolition of kingship",
+      "D. creation of new tribes"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The Qur'anic term for a chapter is",
+    "options": ["A. Surah", "B. Ayah", "C. Juz'", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "question": "Surah Al-Qadr describes the night of",
+    "options": ["A. power", "B. ascension", "C. migration", "D. victory"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "The Hadith that says 'Every person's joint is due a charity every day' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 230,
+    "question": "The Hadith that says 'Allah has prescribed excellence in all things' is number",
+    "options": ["A. 15", "B. 16", "C. 17", "D. 18"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 231,
+    "question": "The belief in the prophets includes belief in",
+    "options": ["A. Muhammad", "B. Hadith", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "The Qur'anic verse 'Allah is the Light of the heavens and the earth' is from Surah",
+    "options": ["A. An-Nur", "B. Al-Fatihah", "C. Al-Ikhlas", "D. Al-Falaq"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "The ritual purification after menstruation is",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "The night prayer is called",
+    "options": ["A. Witr", "B. Duha", "C. Tarawih", "D. Jum'ah"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The day of Eid al-Fitr marks the end of",
+    "options": ["A. Hajj", "B. Ramadan", "C. Muharram", "D. Shawwal"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "Zakat is paid on crops when the harvest reaches",
+    "options": ["A. 5 wasaq", "B. 10 wasaq", "C. 20 wasaq", "D. 40 wasaq"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "The pilgrimage to Makkah outside the Hajj season is",
+    "options": ["A. Umrah", "B. Hajj", "C. Ziyarah", "D. Tawaf"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "The term 'Ijma' in Islamic law refers to",
+    "options": ["A. consensus", "B. analogy", "C. custom", "D. reasoning"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "The Prophet's farewell sermon emphasized the",
+    "options": [
+      "A. equality of all believers",
+      "B. superiority of Arabs",
+      "C. wealth of the rich",
+      "D. power of leaders"
+    ],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "The marriage of the Prophet to Aisha took place in",
+    "options": ["A. Makkah", "B. Madinah", "C. Ta'if", "D. Jerusalem"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "The Battle of Uhud took place in the year",
+    "options": ["A. 2 AH", "B. 3 AH", "C. 5 AH", "D. 8 AH"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Abu Bakr was known for his",
+    "options": ["A. wealth", "B. poetry", "C. bravery", "D. justice"],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The spread of Islam in West Africa was facilitated by the",
+    "options": [
+      "A. Mali empire",
+      "B. colonial powers",
+      "C. slave trade",
+      "D. European explorers"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The Qur'anic term for a part of the Qur'an is",
+    "options": ["A. Juz'", "B. Surah", "C. Ayah", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "Surah Al-Kafirun emphasizes",
+    "options": [
+      "A. religious tolerance",
+      "B. charity",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "The Hadith that says 'None of you truly believes until he loves for his brother what he loves for himself' is number",
+    "options": ["A. 13", "B. 14", "C. 15", "D. 16"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "The Hadith that says 'The lawful is clear and the unlawful is clear' is number",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 248,
+    "question": "The belief in the angels includes belief in their",
+    "options": ["A. existence", "B. wealth", "C. tribes", "D. language"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "The Qur'anic verse 'Say He is Allah the One' is from Surah",
+    "options": ["A. Al-Ikhlas", "B. Al-Falaq", "C. An-Nas", "D. Al-Fatihah"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "The ritual purification before prayer is",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "The number of obligatory prayers in a day is",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "C",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "The fast of Ramadan is obligatory on",
+    "options": ["A. children", "B. the sick", "C. adults", "D. travelers"],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "The beneficiaries of Zakat are how many?",
+    "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+    "answer": "C",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "The types of Hajj are",
+    "options": [
+      "A. Ifrad, Tamattu', Qiran",
+      "B. Umrah, Ziyarah, Tawaf",
+      "C. Sa'i, Wuquf, Ramy",
+      "D. Ihram, Talbiyah, Tawaf"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "The four sources of Shari'ah are",
+    "options": [
+      "A. Qur'an, Sunnah, Ijma, Qiyas",
+      "B. Qur'an, Hadith, Ijma, Urf",
+      "C. Qur'an, Sunnah, Fatwa, Qiyas",
+      "D. Sunnah, Ijma, Qiyas, Adat"
+    ],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "The Jahiliyyah Arabs practiced",
+    "options": [
+      "A. monotheism",
+      "B. idol worship",
+      "C. Christianity",
+      "D. Judaism"
+    ],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "The Prophet's uncle who supported him was",
+    "options": ["A. Abu Lahab", "B. Abu Talib", "C. Abbas", "D. Hamza"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "The treaty of Hudaybiyyah was a",
+    "options": [
+      "A. military victory",
+      "B. diplomatic success",
+      "C. defeat",
+      "D. trade agreement"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The compilation of the Qur'an into a single book was first done by",
+    "options": ["A. Uthman", "B. Abu Bakr", "C. Umar", "D. Ali"],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 260,
+    "question": "Surah Al-Falaq seeks refuge from",
+    "options": ["A. darkness", "B. enemies", "C. magic", "D. poverty"],
+    "answer": "C",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "The Hadith that says 'Religion is sincere advice' is number",
+    "options": ["A. 5", "B. 7", "C. 9", "D. 13"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 262,
+    "question": "The narrators of Hadith are evaluated based on their",
+    "options": ["A. wealth", "B. memory and character", "C. age", "D. tribe"],
+    "answer": "B",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "The belief in the prophets is an article of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "The Qur'an describes Allah as",
+    "options": ["A. one", "B. three", "C. two", "D. many"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "Wudu is performed using",
+    "options": ["A. clean water", "B. sand", "C. milk", "D. oil"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "The two Eid prayers are examples of",
+    "options": [
+      "A. obligatory prayers",
+      "B. special prayers",
+      "C. voluntary prayers",
+      "D. missed prayers"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "The fast of Ramadan is obligatory on",
+    "options": ["A. children", "B. the sick", "C. adults", "D. travelers"],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "The beneficiaries of Zakat are how many in number?",
+    "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+    "answer": "C",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "The types of Hajj are",
+    "options": [
+      "A. Ifrad, Tamattu', Qiran",
+      "B. Umrah, Ziyarah, Tawaf",
+      "C. Sa'i, Wuquf, Ramy",
+      "D. Ihram, Talbiyah, Tawaf"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "The four sources of Shari'ah are",
+    "options": [
+      "A. Qur'an, Sunnah, Ijma, Qiyas",
+      "B. Qur'an, Hadith, Ijma, Urf",
+      "C. Qur'an, Sunnah, Fatwa, Qiyas",
+      "D. Sunnah, Ijma, Qiyas, Adat"
+    ],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The prohibited categories of marriage are mentioned in Surah",
+    "options": ["A. Al-Baqarah", "B. An-Nisa", "C. Al-Ma'idah", "D. Al-A'raf"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "The divorce by mutual consent is called",
+    "options": ["A. Talaq", "B. Khul'", "C. Mubara'ah", "D. Zihar"],
+    "answer": "C",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "The Jahiliyyah Arabs practiced",
+    "options": [
+      "A. monotheism",
+      "B. idol worship",
+      "C. Christianity",
+      "D. Judaism"
+    ],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "The Battle of Khandaq is also known as the Battle of",
+    "options": ["A. Trench", "B. Badr", "C. Uhud", "D. Hunayn"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "The Prophet's sermon at Arafat emphasized",
+    "options": ["A. trade", "B. human rights", "C. warfare", "D. poetry"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "The first martyr in Islam was",
+    "options": ["A. Hamza", "B. Sumayyah", "C. Bilal", "D. Ammar"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "Umar ibn al-Khattab established the",
+    "options": [
+      "A. Islamic calendar",
+      "B. postal system",
+      "C. first university",
+      "D. first hospital"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "The Kanem-Borno empire was located in",
+    "options": [
+      "A. West Africa",
+      "B. North Africa",
+      "C. East Africa",
+      "D. South Africa"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The Qur'anic term for abrogation is",
+    "options": ["A. Naskh", "B. Tafsir", "C. Tajwid", "D. Qira'ah"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 280,
+    "question": "Surah At-Tin swears by",
+    "options": [
+      "A. the fig and the olive",
+      "B. the sun and the moon",
+      "C. the wind and the rain",
+      "D. the earth and the sky"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "The Hadith that says 'He who believes in Allah and the Last Day should speak good or remain silent' is number",
+    "options": ["A. 5", "B. 7", "C. 15", "D. 16"],
+    "answer": "C",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "The science of Hadith criticism is called",
+    "options": ["A. Jarh wa Ta'dil", "B. Tafsir", "C. Fiqh", "D. Aqidah"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 283,
+    "question": "Belief in the Day of Judgment is an article of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 284,
+    "question": "The Qur'an states that Allah is free from",
+    "options": [
+      "A. perfection",
+      "B. having partners",
+      "C. mercy",
+      "D. knowledge"
+    ],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Istinja' is performed after",
+    "options": [
+      "A. eating",
+      "B. sleeping",
+      "C. using the toilet",
+      "D. praying"
+    ],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "The Janazah prayer is performed for",
+    "options": [
+      "A. the sick",
+      "B. the deceased",
+      "C. travelers",
+      "D. newlyweds"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The voluntary fast on Mondays and Thursdays is",
+    "options": [
+      "A. compulsory",
+      "B. recommended",
+      "C. disliked",
+      "D. forbidden"
+    ],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Zakat on money is paid at the rate of",
+    "options": ["A. 2.5%", "B. 5%", "C. 10%", "D. 20%"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "The state of ritual purity for Hajj is called",
+    "options": ["A. Ihram", "B. Talbiyah", "C. Tawaf", "D. Sa'i"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "The punishment for theft in Islam is mentioned in the",
+    "options": ["A. Sunnah", "B. Ijma", "C. Qur'an", "D. Qiyas"],
+    "answer": "C",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "The prohibition of ill-treatment of wives is found in Surah",
+    "options": ["A. An-Nisa", "B. At-Talaq", "C. Al-Baqarah", "D. Al-Ma'idah"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "The oath of condemnation between spouses is called",
+    "options": ["A. Zihar", "B. Li'an", "C. Ila", "D. Khul'"],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The economic life of the Jahiliyyah Arabs depended mainly on",
+    "options": ["A. agriculture", "B. trade", "C. fishing", "D. mining"],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "The Prophet Muhammad (SAW) was known for his",
+    "options": ["A. wealth", "B. honesty", "C. poetry", "D. fighting skills"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "The hypocrites in Madinah were led by",
+    "options": [
+      "A. Abu Bakr",
+      "B. Abdullah ibn Ubayy",
+      "C. Abu Sufyan",
+      "D. Khalid ibn Walid"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "The Prophet's daughter who was married to Ali was",
+    "options": ["A. Aisha", "B. Hafsa", "C. Fatimah", "D. Zainab"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "Uthman ibn Affan was given the title",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "Ali ibn Abi Talib moved the capital of the caliphate to",
+    "options": ["A. Makkah", "B. Madinah", "C. Kufah", "D. Damascus"],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "The Songhai empire was known for its",
+    "options": ["A. gold trade", "B. university", "C. navy", "D. iron works"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "The role of Hajj in the spread of Islam in West Africa was",
+    "options": [
+      "A. military",
+      "B. cultural exchange",
+      "C. economic",
+      "D. political"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "Surah Al-Ikhlas summarizes the concept of",
+    "options": ["A. Tawhid", "B. Nabuwwah", "C. Akhirah", "D. Qadar"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "Surah An-Nas seeks refuge from",
+    "options": ["A. the devil", "B. hunger", "C. poverty", "D. illness"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "The Hadith that says 'Fear Allah in private and public' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 19"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "question": "The Hadith that says 'Allah has prescribed excellence in all things' is number",
+    "options": ["A. 15", "B. 16", "C. 17", "D. 18"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "The belief in predestination is called",
+    "options": ["A. Qada' and Qadar", "B. Iman", "C. Islam", "D. Ihsan"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The Qur'an describes the Trinity as",
+    "options": ["A. true", "B. false", "C. optional", "D. unknown"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "Tayammum is allowed when",
+    "options": [
+      "A. water is available",
+      "B. water is scarce",
+      "C. one is healthy",
+      "D. one is traveling"
+    ],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Salat is obligatory on every",
+    "options": ["A. child", "B. adult Muslim", "C. traveler", "D. sick person"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "The fast of Shawwal is",
+    "options": ["A. compulsory", "B. voluntary", "C. disliked", "D. forbidden"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Zakat on livestock is paid when the animals reach a specific",
+    "options": ["A. color", "B. age and number", "C. weight", "D. breed"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "The stoning of the devil during Hajj is called",
+    "options": ["A. Ramy", "B. Tawaf", "C. Sa'i", "D. Wuquf"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "The primary source of Shari'ah is the",
+    "options": ["A. Qur'an", "B. Sunnah", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "The rights of the husband over the wife include",
+    "options": ["A. obedience", "B. wealth", "C. beauty", "D. education"],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "The waiting period for a divorced woman who is pregnant ends when",
+    "options": [
+      "A. 3 months pass",
+      "B. she gives birth",
+      "C. 4 months pass",
+      "D. she remarries"
+    ],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "The social life of the Jahiliyyah Arabs was characterized by",
+    "options": [
+      "A. tribal loyalty",
+      "B. national unity",
+      "C. democracy",
+      "D. equality"
+    ],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The first person to accept Islam was",
+    "options": ["A. Abu Bakr", "B. Ali", "C. Khadijah", "D. Zaid"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "The Prophet's migration to Madinah took place in the year",
+    "options": ["A. 610 CE", "B. 622 CE", "C. 630 CE", "D. 632 CE"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "The treaty of Hudaybiyyah was broken by the",
+    "options": ["A. Muslims", "B. Quraysh", "C. Jews", "D. Romans"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "Abu Bakr was the first to",
+    "options": [
+      "A. compile the Qur'an",
+      "B. establish the calendar",
+      "C. expand the mosque",
+      "D. fight the apostates"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "The ancient Ghana empire was located in present-day",
+    "options": ["A. Mali", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "The Makkan Surahs are generally",
+    "options": ["A. long", "B. short", "C. legal", "D. historical"],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Surah Al-Fatihah is also known as",
+    "options": [
+      "A. the mother of the book",
+      "B. the heart of the Qur'an",
+      "C. the light",
+      "D. the guidance"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "The Hadith that says 'Modesty is part of faith' is number",
+    "options": ["A. 18", "B. 19", "C. 20", "D. 21"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 324,
+    "question": "The Hadith that says 'Whoever relieves a believer of a distress in this world, Allah will relieve him of a distress on the Day of Judgment' is number",
+    "options": ["A. 34", "B. 35", "C. 36", "D. 41"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "The belief in the books of Allah includes the",
+    "options": ["A. Qur'an", "B. Hadith", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "The Qur'anic verse 'Say He is Allah the One' is from Surah",
+    "options": ["A. Al-Ikhlas", "B. Al-Falaq", "C. An-Nas", "D. Al-Fatihah"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "Using clean earth for purification is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The prostration in Salat is called",
+    "options": ["A. Ruku", "B. Sujud", "C. Qiyam", "D. Jalsa"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "The fast of Ramadan was made obligatory in the year",
+    "options": ["A. 1 AH", "B. 2 AH", "C. 3 AH", "D. 4 AH"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "The poor due is another name for",
+    "options": ["A. Zakat", "B. Sadaqah", "C. Kaffarah", "D. Fitrah"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "The pilgrimage to Makkah during the month of Dhul-Hijjah is",
+    "options": ["A. Umrah", "B. Hajj", "C. Ziyarah", "D. Tawaf"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "The term 'Shari'ah' literally means",
+    "options": ["A. a path", "B. a law", "C. a book", "D. a teacher"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The consent of both parties is a condition for the validity of",
+    "options": ["A. trade", "B. marriage", "C. travel", "D. prayer"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "The divorce pronounced three times is called",
+    "options": [
+      "A. Talaq Raj'i",
+      "B. Talaq Ba'in",
+      "C. Talaq Mughallazah",
+      "D. Khul'"
+    ],
+    "answer": "C",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 335,
+    "question": "The political system of the Jahiliyyah Arabs was based on",
+    "options": ["A. tribal chiefs", "B. kings", "C. presidents", "D. councils"],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "The Prophet's night journey to Jerusalem is called",
+    "options": ["A. Hijrah", "B. Isra", "C. Mi'raj", "D. Hajj"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "The Constitution of Madinah established",
+    "options": [
+      "A. a monarchy",
+      "B. a federation of tribes",
+      "C. a theocracy",
+      "D. a democracy"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "The Prophet's last sermon was delivered at",
+    "options": ["A. Arafat", "B. Madinah", "C. Makkah", "D. Mina"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "Umar ibn al-Khattab was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "The impact of Islam on West African languages was the",
+    "options": [
+      "A. introduction of Arabic script",
+      "B. loss of local languages",
+      "C. banning of local languages",
+      "D. creation of new alphabets"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "The Qur'an was revealed in",
+    "options": ["A. Arabic", "B. Hebrew", "C. Greek", "D. Latin"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "Surah Al-Duha was revealed after a period of",
+    "options": [
+      "A. war",
+      "B. pause in revelation",
+      "C. fasting",
+      "D. traveling"
+    ],
+    "answer": "B",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "The Hadith that says 'Let him who believes in Allah and the Last Day be generous to his neighbor' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 15"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "The Hadith that says 'Part of the perfection of one's Islam is his leaving that which does not concern him' is number",
+    "options": ["A. 15", "B. 16", "C. 15", "D. 18"],
+    "answer": "C",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "question": "The angels are created from",
+    "options": ["A. fire", "B. light", "C. clay", "D. water"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The Qur'an describes Jesus as",
+    "options": ["A. God", "B. a prophet", "C. a companion", "D. an angel"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "Wudu is broken by",
+    "options": ["A. laughter", "B. passing wind", "C. crying", "D. talking"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "The Qiblah is the direction of",
+    "options": [
+      "A. the Ka'bah",
+      "B. the Prophet's tomb",
+      "C. Jerusalem",
+      "D. Madinah"
+    ],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 349,
+    "question": "The fast is broken at sunset with",
+    "options": ["A. Iftar", "B. Suhoor", "C. Tarawih", "D. Zakat"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "Zakat is not paid on",
+    "options": [
+      "A. gold",
+      "B. silver",
+      "C. livestock",
+      "D. personal residence"
+    ],
+    "answer": "D",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "The standing at Arafat during Hajj is called",
+    "options": ["A. Wuquf", "B. Tawaf", "C. Sa'i", "D. Ramy"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "The secondary source of Shari'ah is the",
+    "options": ["A. Sunnah", "B. Ijma", "C. Qiyas", "D. Urf"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "question": "The waiting period for a divorced woman is to",
+    "options": [
+      "A. ensure paternity",
+      "B. delay marriage",
+      "C. punish her",
+      "D. please her family"
+    ],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "The marriage of the Prophet to Khadijah took place when he was",
+    "options": ["A. 20", "B. 25", "C. 30", "D. 40"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "The first mosque built in Madinah was",
+    "options": ["A. Quba", "B. Nabawi", "C. Qiblatayn", "D. Aqsa"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "The Battle of Badr was a",
+    "options": ["A. defeat", "B. victory", "C. draw", "D. retreat"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "Uthman ibn Affan was a",
+    "options": [
+      "A. scribe of the Qur'an",
+      "B. judge",
+      "C. general",
+      "D. teacher"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The spread of Islam in West Africa was facilitated by the",
+    "options": [
+      "A. Songhai empire",
+      "B. colonial powers",
+      "C. slave trade",
+      "D. European explorers"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "The Qur'anic term for a verse is",
+    "options": ["A. Ayah", "B. Surah", "C. Juz'", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "question": "Surah Al-'Alaq is the",
+    "options": [
+      "A. first revelation",
+      "B. last revelation",
+      "C. longest surah",
+      "D. shortest surah"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "The Hadith that says 'Allah will not look at a person who drags his garment out of pride' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 362,
+    "question": "The Hadith that says 'The blood of a Muslim is not lawful except in three cases' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 363,
+    "question": "The belief in the Last Day includes belief in",
+    "options": ["A. resurrection", "B. trade", "C. marriage", "D. travel"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "The Qur'an rejects the idea of",
+    "options": ["A. Tawhid", "B. Trinity", "C. prophethood", "D. angels"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "The ritual washing of the whole body is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "The Friday prayer is preceded by a",
+    "options": ["A. sermon", "B. meal", "C. bath", "D. journey"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "The month of fasting is",
+    "options": ["A. Ramadan", "B. Shawwal", "C. Muharram", "D. Rajab"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "Zakat is a pillar of",
+    "options": ["A. Islam", "B. Iman", "C. Ihsan", "D. Shirk"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "The sa'y during Hajj commemorates",
+    "options": [
+      "A. Hajar's search for water",
+      "B. Ibrahim's sacrifice",
+      "C. Muhammad's migration",
+      "D. Adam's descent"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "question": "The term 'Qiyas' in Islamic law refers to",
+    "options": ["A. analogy", "B. consensus", "C. custom", "D. reasoning"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "The rights of the wife include",
+    "options": [
+      "A. maintenance",
+      "B. servitude",
+      "C. obedience to others",
+      "D. silence"
+    ],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "The waiting period for a divorced woman who is not pregnant is",
+    "options": ["A. 3 months", "B. 4 months", "C. 5 months", "D. 6 months"],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "The Jahiliyyah Arabs inherited property through",
+    "options": [
+      "A. male heirs",
+      "B. female heirs",
+      "C. all children",
+      "D. the wife"
+    ],
+    "answer": "A",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "The Prophet's first trade journey was to",
+    "options": ["A. Syria", "B. Yemen", "C. Egypt", "D. Iraq"],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "The Battle of Khandaq was fought in the year",
+    "options": ["A. 3 AH", "B. 5 AH", "C. 7 AH", "D. 9 AH"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "The conquest of Makkah took place in the year",
+    "options": ["A. 5 AH", "B. 6 AH", "C. 8 AH", "D. 10 AH"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Ali ibn Abi Talib was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "The impact of Islam on the socio-political life of West Africa was the",
+    "options": [
+      "A. introduction of Islamic law",
+      "B. banning of traditional titles",
+      "C. abolition of kingship",
+      "D. creation of new tribes"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "The Qur'anic term for a chapter is",
+    "options": ["A. Surah", "B. Ayah", "C. Juz'", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "Surah Al-Qadr describes the night of",
+    "options": ["A. power", "B. ascension", "C. migration", "D. victory"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "The Hadith that says 'Every person's joint is due a charity every day' is number",
+    "options": ["A. 15", "B. 16", "C. 18", "D. 34"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "The Hadith that says 'Allah has prescribed excellence in all things' is number",
+    "options": ["A. 15", "B. 16", "C. 17", "D. 18"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 383,
+    "question": "The belief in the prophets includes belief in",
+    "options": ["A. Muhammad", "B. Hadith", "C. Ijma", "D. Qiyas"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "The Qur'anic verse 'Allah is the Light of the heavens and the earth' is from Surah",
+    "options": ["A. An-Nur", "B. Al-Fatihah", "C. Al-Ikhlas", "D. Al-Falaq"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "The ritual purification after menstruation is",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 386,
+    "question": "The night prayer is called",
+    "options": ["A. Witr", "B. Duha", "C. Tarawih", "D. Jum'ah"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "The day of Eid al-Fitr marks the end of",
+    "options": ["A. Hajj", "B. Ramadan", "C. Muharram", "D. Shawwal"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "Zakat is paid on crops when the harvest reaches",
+    "options": ["A. 5 wasaq", "B. 10 wasaq", "C. 20 wasaq", "D. 40 wasaq"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 389,
+    "question": "The pilgrimage to Makkah outside the Hajj season is",
+    "options": ["A. Umrah", "B. Hajj", "C. Ziyarah", "D. Tawaf"],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "The term 'Ijma' in Islamic law refers to",
+    "options": ["A. consensus", "B. analogy", "C. custom", "D. reasoning"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "The Prophet's farewell sermon emphasized the",
+    "options": [
+      "A. equality of all believers",
+      "B. superiority of Arabs",
+      "C. wealth of the rich",
+      "D. power of leaders"
+    ],
+    "answer": "A",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "The marriage of the Prophet to Aisha took place in",
+    "options": ["A. Makkah", "B. Madinah", "C. Ta'if", "D. Jerusalem"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "The Battle of Uhud took place in the year",
+    "options": ["A. 2 AH", "B. 3 AH", "C. 5 AH", "D. 8 AH"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Abu Bakr was known for his",
+    "options": ["A. wealth", "B. poetry", "C. bravery", "D. justice"],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "The spread of Islam in West Africa was facilitated by the",
+    "options": [
+      "A. Mali empire",
+      "B. colonial powers",
+      "C. slave trade",
+      "D. European explorers"
+    ],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The Qur'anic term for a part of the Qur'an is",
+    "options": ["A. Juz'", "B. Surah", "C. Ayah", "D. Hizb"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Surah Al-Kafirun emphasizes",
+    "options": [
+      "A. religious tolerance",
+      "B. charity",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "The Hadith that says 'None of you truly believes until he loves for his brother what he loves for himself' is number",
+    "options": ["A. 13", "B. 14", "C. 15", "D. 16"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "The Hadith that says 'The lawful is clear and the unlawful is clear' is number",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 400,
+    "question": "The belief in the angels includes belief in their",
+    "options": ["A. existence", "B. wealth", "C. tribes", "D. language"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "question": "The term 'Taharah' in Islam means",
+    "options": ["A. purity", "B. prayer", "C. charity", "D. fasting"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "The ritual washing before prayer is called",
+    "options": ["A. Wudu", "B. Ghusl", "C. Tayammum", "D. Istinja"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "question": "Salat is the second pillar of",
+    "options": ["A. Iman", "B. Islam", "C. Ihsan", "D. Shirk"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "The fast of Ramadan is the",
+    "options": [
+      "A. first pillar",
+      "B. second pillar",
+      "C. third pillar",
+      "D. fourth pillar"
+    ],
+    "answer": "D",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "Zakat is the",
+    "options": [
+      "A. first pillar",
+      "B. second pillar",
+      "C. third pillar",
+      "D. fourth pillar"
+    ],
+    "answer": "C",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "Hajj is the",
+    "options": [
+      "A. first pillar",
+      "B. second pillar",
+      "C. third pillar",
+      "D. fifth pillar"
+    ],
+    "answer": "D",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "The Shahadah is the",
+    "options": [
+      "A. first pillar",
+      "B. second pillar",
+      "C. third pillar",
+      "D. fourth pillar"
+    ],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "question": "The term 'Shirk' means",
+    "options": [
+      "A. associating partners with Allah",
+      "B. believing in Allah",
+      "C. praying five times",
+      "D. fasting Ramadan"
+    ],
+    "answer": "A",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "The first Caliph was elected by",
+    "options": [
+      "A. the Prophet",
+      "B. the companions",
+      "C. the Quraysh",
+      "D. the Romans"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Umar ibn al-Khattab was the",
+    "options": [
+      "A. first Caliph",
+      "B. second Caliph",
+      "C. third Caliph",
+      "D. fourth Caliph"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "Uthman ibn Affan was the",
+    "options": [
+      "A. first Caliph",
+      "B. second Caliph",
+      "C. third Caliph",
+      "D. fourth Caliph"
+    ],
+    "answer": "C",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "The Prophet's farewell pilgrimage was in",
+    "options": ["A. 8 AH", "B. 9 AH", "C. 10 AH", "D. 11 AH"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "The Prophet died in the year",
+    "options": ["A. 8 AH", "B. 9 AH", "C. 10 AH", "D. 11 AH"],
+    "answer": "D",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "question": "The Prophet was buried in",
+    "options": ["A. Makkah", "B. Madinah", "C. Ta'if", "D. Jerusalem"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 415,
+    "question": "The Qur'an is divided into how many parts?",
+    "options": ["A. 30", "B. 40", "C. 50", "D. 60"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "The Hadith is the",
+    "options": [
+      "A. first source of law",
+      "B. second source of law",
+      "C. third source of law",
+      "D. fourth source of law"
+    ],
+    "answer": "B",
+    "topic": "Definition of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "The term 'Matn' refers to the",
+    "options": [
+      "A. chain of narrators",
+      "B. text of the hadith",
+      "C. narrator",
+      "D. classification"
+    ],
+    "answer": "B",
+    "topic": "Parts of the Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "A weak hadith is called",
+    "options": ["A. Sahih", "B. Hasan", "C. Da'if", "D. Mawdu'"],
+    "answer": "C",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "The compiler of Sahih Bukhari is",
+    "options": ["A. Muslim", "B. Bukhari", "C. Tirmidhi", "D. Abu Dawud"],
+    "answer": "B",
+    "topic": "Six Sound Collections",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "The compiler of Sahih Muslim is",
+    "options": ["A. Muslim", "B. Bukhari", "C. Tirmidhi", "D. Abu Dawud"],
+    "answer": "A",
+    "topic": "Six Sound Collections",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "The Hadith number 1 in An-Nawawi's collection is about",
+    "options": ["A. intention", "B. charity", "C. prayer", "D. fasting"],
+    "answer": "A",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "The Hadith number 5 in An-Nawawi's collection is about",
+    "options": ["A. intention", "B. innovation", "C. prayer", "D. fasting"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 423,
+    "question": "The Hadith number 7 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. religion as advice",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 424,
+    "question": "The Hadith number 9 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. avoiding doubtful things",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 425,
+    "question": "The Hadith number 13 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. loving for your brother",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 426,
+    "question": "The Hadith number 15 in An-Nawawi's collection is about",
+    "options": ["A. intention", "B. speaking good", "C. prayer", "D. fasting"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 427,
+    "question": "The Hadith number 16 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. not getting angry",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 428,
+    "question": "The Hadith number 18 in An-Nawawi's collection is about",
+    "options": ["A. intention", "B. fearing Allah", "C. prayer", "D. fasting"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 429,
+    "question": "The Hadith number 34 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. forbidding evil",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 430,
+    "question": "The Hadith number 41 in An-Nawawi's collection is about",
+    "options": [
+      "A. intention",
+      "B. following the Sunnah",
+      "C. prayer",
+      "D. fasting"
+    ],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 431,
+    "question": "The belief in Allah includes the concept of",
+    "options": ["A. Trinity", "B. Tawhid", "C. Shirk", "D. Kufr"],
+    "answer": "B",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 432,
+    "question": "The Kalimatush-Shahadah is a declaration of",
+    "options": ["A. charity", "B. prayer", "C. faith", "D. fasting"],
+    "answer": "C",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "Worshipping idols is a form of",
+    "options": ["A. Iman", "B. Tawbah", "C. Shukr", "D. Shirk"],
+    "answer": "D",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 434,
+    "question": "Tayammum is performed using",
+    "options": ["A. water", "B. clean earth", "C. oil", "D. milk"],
+    "answer": "B",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "The prostration of forgetfulness in Salat is called",
+    "options": [
+      "A. Sujudus-Sahwi",
+      "B. Sujudut-Tilawah",
+      "C. Sujudus-Shukr",
+      "D. Ruku"
+    ],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "Which of the following acts invalidates the fast?",
+    "options": [
+      "A. Sleeping",
+      "B. Bathing",
+      "C. Eating intentionally",
+      "D. Brushing teeth"
+    ],
+    "answer": "C",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "Zakat on agricultural produce is paid when the harvest reaches",
+    "options": ["A. 5 wasaq", "B. 10 wasaq", "C. 20 wasaq", "D. 40 wasaq"],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 438,
+    "question": "The beneficiaries of Zakat are mentioned in the Qur'an in Surah",
+    "options": ["A. Al-Baqarah", "B. At-Tawbah", "C. Al-Nisa", "D. Al-Ma'idah"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "One of the prerequisites for Hajj is",
+    "options": [
+      "A. being young",
+      "B. being male",
+      "C. having the means",
+      "D. being married"
+    ],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 440,
+    "question": "The type of Hajj where a pilgrim performs Umrah and Hajj together is",
+    "options": ["A. Ifrad", "B. Tamattu'", "C. Qiran", "D. Mufrad"],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 441,
+    "question": "The second source of Islamic law after the Qur'an is",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "C",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "The marriage contract in Islam is called",
+    "options": ["A. Talaq", "B. Nikah", "C. Khul'", "D. Zihar"],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "The waiting period for a divorced woman is known as",
+    "options": ["A. Iddah", "B. Rida'ah", "C. Nafaqah", "D. Mahr"],
+    "answer": "A",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "The Jahiliyyah Arabs believed in",
+    "options": ["A. one God", "B. many gods", "C. no God", "D. Allah only"],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "The Prophet Muhammad (SAW) received his first revelation in the cave of",
+    "options": ["A. Thawr", "B. Uhud", "C. Hira", "D. Safa"],
+    "answer": "C",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "The treaty of Hudaybiyyah was signed between the Muslims and the",
+    "options": [
+      "A. Jews of Madinah",
+      "B. Quraysh of Makkah",
+      "C. Romans",
+      "D. Persians"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "The Battle of Uhud was a setback for the Muslims mainly due to",
+    "options": [
+      "A. lack of weapons",
+      "B. disobedience of some archers",
+      "C. numerical superiority of enemies",
+      "D. poor strategy"
+    ],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "Uthman ibn Affan was known for his",
+    "options": [
+      "A. bravery in battle",
+      "B. generosity",
+      "C. poetry",
+      "D. farming"
+    ],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "Ali ibn Abi Talib was the",
+    "options": [
+      "A. first Caliph",
+      "B. second Caliph",
+      "C. third Caliph",
+      "D. fourth Caliph"
+    ],
+    "answer": "D",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "The Murabitun in West Africa were",
+    "options": ["A. traders", "B. scholars", "C. warriors", "D. kings"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "The capital of the ancient Mali empire was",
+    "options": ["A. Timbuktu", "B. Gao", "C. Niani", "D. Kumbi Saleh"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 452,
+    "question": "The Makkan Surahs are generally characterized by",
+    "options": [
+      "A. legal rulings",
+      "B. emphasis on Tawhid",
+      "C. stories of prophets",
+      "D. laws of inheritance"
+    ],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "The Qur'an is divided into how many chapters?",
+    "options": ["A. 114", "B. 120", "C. 100", "D. 110"],
+    "answer": "A",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "Surah Al-Qadr discusses the",
+    "options": [
+      "A. night of power",
+      "B. battle of Badr",
+      "C. creation of man",
+      "D. day of judgment"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "Surah An-Nasr signifies the",
+    "options": [
+      "A. victory of the Muslims",
+      "B. defeat of the Muslims",
+      "C. birth of the Prophet",
+      "D. migration to Madinah"
+    ],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "The Hadith is classified into Sahih, Hasan, and",
+    "options": ["A. Da'if", "B. Marfu'", "C. Mauquf", "D. Qudsi"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "The compiler of the Muwatta is",
+    "options": ["A. Bukhari", "B. Muslim", "C. Malik", "D. Tirmidhi"],
+    "answer": "C",
+    "topic": "Six Sound Collections",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The Hadith on the authority of An-Nawawi that mentions 'Islam is built upon five pillars' is number",
+    "options": ["A. 1", "B. 5", "C. 7", "D. 9"],
+    "answer": "B",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 459,
+    "question": "The belief in the angels is an article of",
+    "options": ["A. Iman", "B. Islam", "C. Ihsan", "D. Shirk"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "The concept of Trinity is rejected in Islam because it contradicts",
+    "options": ["A. Tawhid", "B. Nabuwwah", "C. Akhirah", "D. Qadar"],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "Ancestor worship is a form of",
+    "options": ["A. Tawhid", "B. Shirk", "C. Iman", "D. Taqwa"],
+    "answer": "B",
+    "topic": "Shirk",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "Wudu is invalidated by",
+    "options": ["A. sleeping deeply", "B. eating", "C. drinking", "D. talking"],
+    "answer": "A",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "Ghusl is obligatory after",
+    "options": ["A. eating", "B. sleeping", "C. menstruation", "D. traveling"],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "The Friday congregational prayer is called",
+    "options": ["A. Jum'ah", "B. 'Idayn", "C. Janazah", "D. Tarawih"],
+    "answer": "A",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "Salat on a journey is called",
+    "options": [
+      "A. Salatul-Jum'ah",
+      "B. Salatus-Safar",
+      "C. Salatul-Khusuf",
+      "D. Salatul-Istisqa"
+    ],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "The pre-dawn meal before fasting is called",
+    "options": ["A. Iftar", "B. Suhoor", "C. Tarawih", "D. Zakat"],
+    "answer": "B",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 467,
+    "question": "Zakatul-Fitr is paid at the end of",
+    "options": ["A. Hajj", "B. Ramadan", "C. Muharram", "D. Shawwal"],
+    "answer": "B",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "The Ka'bah is located in",
+    "options": ["A. Madinah", "B. Jerusalem", "C. Makkah", "D. Ta'if"],
+    "answer": "C",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "The type of Hajj where a pilgrim performs Umrah first and then Hajj is",
+    "options": ["A. Ifrad", "B. Tamattu'", "C. Qiran", "D. Mufrad"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 470,
+    "question": "The consensus of Islamic scholars is known as",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "A",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "The marriage gift given to the bride is called",
+    "options": ["A. Mahr", "B. Nafaqah", "C. Iddah", "D. Khul'"],
+    "answer": "A",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "The divorce initiated by the wife is called",
+    "options": ["A. Talaq", "B. Khul'", "C. Zihar", "D. Li'an"],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "The pre-Islamic Arabs were mostly",
+    "options": ["A. Christians", "B. Jews", "C. idolaters", "D. monotheists"],
+    "answer": "C",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "The first revelation occurred in the month of",
+    "options": ["A. Muharram", "B. Ramadan", "C. Shawwal", "D. Rajab"],
+    "answer": "B",
+    "topic": "Revelation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "The Prophet's farewell pilgrimage took place in the year",
+    "options": ["A. 8 AH", "B. 9 AH", "C. 10 AH", "D. 11 AH"],
+    "answer": "C",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Abu Bakr was known as",
+    "options": [
+      "A. As-Siddiq",
+      "B. Al-Faruq",
+      "C. Dhun-Nurayn",
+      "D. Al-Murtada"
+    ],
+    "answer": "A",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "Umar ibn al-Khattab was assassinated by",
+    "options": ["A. a Roman", "B. a Persian slave", "C. a Jew", "D. an Arab"],
+    "answer": "B",
+    "topic": "The Khulafa'ur-Rashidun",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 478,
+    "question": "The city of Timbuktu became a center of learning during the",
+    "options": [
+      "A. Ghana empire",
+      "B. Mali empire",
+      "C. Songhai empire",
+      "D. Kanem-Borno empire"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "The Sufi orders in West Africa emphasized",
+    "options": [
+      "A. holy war",
+      "B. spiritual purification",
+      "C. trade",
+      "D. politics"
+    ],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "The Madinan Surahs are generally characterized by",
+    "options": [
+      "A. short verses",
+      "B. legal rulings",
+      "C. emphasis on Tawhid",
+      "D. stories of past nations"
+    ],
+    "answer": "B",
+    "topic": "Preservation of the Qur'an",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "Surah Al-'Alaq begins with the word",
+    "options": ["A. Iqra", "B. Qul", "C. Inna", "D. Alhamdu"],
+    "answer": "A",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "Surah Al-Kafirun emphasizes",
+    "options": [
+      "A. charity",
+      "B. prayer",
+      "C. religious tolerance",
+      "D. fasting"
+    ],
+    "answer": "C",
+    "topic": "Qur'anic Surahs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "The Hadith that says 'None of you truly believes until he loves for his brother what he loves for himself' is number",
+    "options": ["A. 1", "B. 5", "C. 7", "D. 13"],
+    "answer": "D",
+    "topic": "An-Nawawi's Collection",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 484,
+    "question": "The text of the Hadith is called",
+    "options": ["A. Isnad", "B. Matn", "C. Rawi", "D. Sanad"],
+    "answer": "B",
+    "topic": "Parts of the Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "A Hadith with a continuous chain of reliable narrators is",
+    "options": ["A. Sahih", "B. Hasan", "C. Da'if", "D. Mawdu'"],
+    "answer": "A",
+    "topic": "Classification of Hadith",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "The prophet who received the Zabur is",
+    "options": ["A. Musa", "B. Isa", "C. Dawud", "D. Ibrahim"],
+    "answer": "C",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "The day of resurrection is also known as",
+    "options": [
+      "A. Yawm al-Din",
+      "B. Yawm al-Jumu'ah",
+      "C. Yawm al-Arafah",
+      "D. Yawm al-Nahr"
+    ],
+    "answer": "A",
+    "topic": "Iman (Faith)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "The sin of idol worship is mentioned in the Qur'an in Surah",
+    "options": ["A. Al-Fatihah", "B. Al-Luqman", "C. Al-Ikhlas", "D. Al-Falaq"],
+    "answer": "B",
+    "topic": "Shirk",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 489,
+    "question": "Al-Istinja' refers to purification after",
+    "options": [
+      "A. eating",
+      "B. sleeping",
+      "C. relieving oneself",
+      "D. traveling"
+    ],
+    "answer": "C",
+    "topic": "Taharah (Purification)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "The call to prayer is known as",
+    "options": ["A. Iqamah", "B. Adhan", "C. Takbir", "D. Tasbih"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 491,
+    "question": "The night prayer performed during Ramadan is called",
+    "options": ["A. Witr", "B. Tarawih", "C. Duha", "D. Istikhara"],
+    "answer": "B",
+    "topic": "Salat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "Those exempted from fasting include",
+    "options": ["A. travelers", "B. students", "C. teachers", "D. traders"],
+    "answer": "A",
+    "topic": "Sawm (Fasting)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "Zakat is paid on gold and silver when they reach the nisab of",
+    "options": [
+      "A. 20 dinars",
+      "B. 40 dinars",
+      "C. 50 dinars",
+      "D. 100 dinars"
+    ],
+    "answer": "A",
+    "topic": "Zakat (Charity)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 494,
+    "question": "The Station of Ibrahim is located near the",
+    "options": [
+      "A. Ka'bah",
+      "B. Prophet's Mosque",
+      "C. Al-Aqsa Mosque",
+      "D. Mount Arafat"
+    ],
+    "answer": "A",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "The act of running between Safa and Marwa is called",
+    "options": ["A. Tawaf", "B. Sa'i", "C. Wuquf", "D. Ramy"],
+    "answer": "B",
+    "topic": "Hajj (Pilgrimage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "Analogical reasoning in Islamic law is known as",
+    "options": ["A. Ijma", "B. Qiyas", "C. Sunnah", "D. Urf"],
+    "answer": "B",
+    "topic": "Shari'ah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "Marriage in Islam is considered",
+    "options": [
+      "A. a burden",
+      "B. half of faith",
+      "C. optional",
+      "D. disliked"
+    ],
+    "answer": "B",
+    "topic": "Nikah (Marriage)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The period of waiting for a widow is",
+    "options": [
+      "A. 3 months",
+      "B. 4 months 10 days",
+      "C. 2 months",
+      "D. 1 year"
+    ],
+    "answer": "B",
+    "topic": "Talaq (Divorce)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 499,
+    "question": "In the Jahiliyyah period, women were",
+    "options": [
+      "A. highly respected",
+      "B. treated as property",
+      "C. leaders of tribes",
+      "D. scholars"
+    ],
+    "answer": "B",
+    "topic": "The Jahiliyyah",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "The Prophet's uncle who supported him was",
+    "options": ["A. Abu Lahab", "B. Abu Talib", "C. Abbas", "D. Hamza"],
+    "answer": "B",
+    "topic": "The life of Prophet Muhammad",
+    "difficulty": "Medium"
+  }
+]

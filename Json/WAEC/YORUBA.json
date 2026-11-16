@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "Kí ni iye fáwẹ́lì tí ó wà nínú èdè Yorùbá?",
+    "options": ["A. 5", "B. 7", "C. 9", "D. 12"],
+    "answer": "B",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Kí ni iye kọ́ńsónáǹtì tí ó wà nínú èdè Yorùbá?",
+    "options": ["A. 18", "B. 20", "C. 24", "D. 30"],
+    "answer": "C",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Ẹ̀wọ̀n méjì ni fáwẹ́lì èdè Yorùbá pín sí. Àwọn ni:",
+    "options": ["A. Ìró-ẹnu àti Ìró-ọ̀nà", "B. Fáwẹ́lì-àárín àti Fáwẹ́lì-ẹ̀yìn", "C. Fáwẹ́lì-ìwájú àti Fáwẹ́lì-ẹ̀yìn", "D. Fáwẹ́lì-ẹnu àti Fáwẹ́lì-ìfọ́n"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "Bọ́lá rà ọkọ̀. Kí ni ọ̀rọ̀-ìṣe nínú gbólóhùn yìí?",
+    "options": ["A. Bọ́lá", "B. rà", "C. ọkọ̀", "D. kò sí"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Ẹ wo irú ọ̀rọ̀ tí 'púpọ̀' jẹ́ nínú èdè Yorùbá?",
+    "options": ["A. Ọ̀rọ̀-orúkọ", "B. Ọ̀rọ̀-arọ́pò-orúkọ", "C. Ọ̀rọ̀-àpèjúwe", "D. Ọ̀rọ̀-ìṣe"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Ta ni òǹkọ̀wé ìwé ìtàn àròsọ 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Akínwùmí Ìṣọlá", "C. Olúṣọlá Fádíyà", "D. Adébóyè Babalọlá"],
+    "answer": "B",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Kí ni wọ́n ń pè ní 'Ìsọmọlórúkọ' nínú àṣà Yorùbá?",
+    "options": ["A. Àsè ìgbéyàwó", "B. Àsè ìsìnkú", "C. Àsè ọjọ́-ìbí", "D. Àsè sísọ ọmọ lórúkọ"],
+    "answer": "D",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Ẹ wo irú ọ̀rọ̀-ìṣe tí ó wà nínú gbólóhùn 'Àwọn ọmọ náà ń jó'?",
+    "options": ["A. Ọ̀rọ̀-ìṣe àìgbọ́n-ṣe", "B. Ọ̀rọ̀-ìṣe àbá", "C. Ọ̀rọ̀-ìṣe ìṣẹ̀lẹ̀", "D. Ọ̀rọ̀-ìṣe ìgbà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Olúfẹ́mi Adéwọlé"],
+    "answer": "B",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Kí ni ìtumọ̀ àkànlò-èdè 'Ó gbé ààrò'?",
+    "options": ["A. Ó gbé ìdì", "B. Ó kú", "C. Ó ṣàìsàn", "D. Ó lọ sí ìrìnàjò"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "Àpólà orúkọ nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín' ni:",
+    "options": ["A. Ọmọ", "B. rẹ́rìn-ín", "C. Ọmọ náà", "D. náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Kí ni ìró ohùn tí ó wà lórí 'à' nínú ọ̀rọ̀ 'àwa'?",
+    "options": ["A. Ìró ohùn òkè", "B. Ìró ohùn ìsàlẹ̀", "C. Ìró ohùn àárín", "D. Kò ní ìró ohùn"],
+    "answer": "B",
+    "topic": "Sound System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "Ọ̀rọ̀ 'ẹ̀wá' jẹ́ irú ọ̀rọ̀ kí ni nínú gírámà?",
+    "options": ["A. Ọ̀rọ̀-orúkọ", "B. Ọ̀rọ̀-arọ́pò-orúkọ", "C. Ọ̀rọ̀-ìṣe", "D. Ọ̀rọ̀-àpèjúwe"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Kí ni wọ́n ń pè ní 'Ẹ̀kọ́ ìwé' nínú lítírésọ̀?",
+    "options": ["A. Àwọn ohun tí a kọ́ nínú ìwé", "B. Àwọn ẹ̀ka tí ìwé pín sí", "C. Àwọn àwòrán inú ìwé", "D. Àwọn ẹ̀dá inú ìwé"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "Kí ni orúkọ ìwé ìtàn àròsọ àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kinní)", "B. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Eégún Aláré"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Nínú eré oníṣe 'Eégún Aláré', ta ni òǹkọ̀wé rẹ̀?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Àkànnó Fáṣínà Agboọlá"],
+    "answer": "A",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Kí ni ìtumọ̀ òwe Yorùbá 'Bí a bá ní ìwà, a á ní ọlá'?",
+    "options": ["A. Ọlá ni ìwà", "B. Ìwà ni ọlá", "C. Ìwà àti ọlá jọ jẹ́", "D. Ọlá kò ní í wá pẹ̀lú ìwà"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Ìró tí wọ́n ń pè ní 'syllabic nasal' nínú èdè Yorùbá ni:",
+    "options": ["A. N, M, Ng", "B. B, M, P", "C. A, E, Ẹ", "D. G, B, K"],
+    "answer": "A",
+    "topic": "Sound System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Ẹ̀ka lítírésọ̀ tí ó ń sọ nípa àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ ní àkókò kan náà ni:",
+    "options": ["A. Eré oníṣe", "B. Ìtàn àròsọ", "C. Ewì", "D. Ìtàn àròsọ àti ewì"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 22,
+    "question": "Ta ni aṣáájú nínú eré 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Ọ̀ṣẹ́", "B. Oyè", "C. Ọba", "D. Ìyá àgbà"],
+    "answer": "B",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "Kí ni orúkọ ìlú tí wọ́n ti ń ṣe ìgbéyàwó nínú ìtàn 'Ogún Ọmọdé'?",
+    "options": ["A. Ìbàdàn", "B. Abẹ́òkúta", "C. Ọ̀yọ́", "D. Ìjẹ̀bú"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Kí ni 'ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Ẹ wo irú àpólà tí 'nínú ilé' jẹ́?",
+    "options": ["A. Àpólà ọ̀rọ̀-ìṣe", "B. Àpólà orúkọ", "C. Àpólà ọ̀rọ̀-àpèjúwe", "D. Àpólà ọ̀rọ̀-àsopọ̀"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 26,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Èjì Ogbè'?",
+    "options": ["A. Orúkọ ìlú", "B. Orúkọ ènìyàn", "C. Orúkọ Odù Ifá", "D. Orúkọ ẹranko"],
+    "answer": "C",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Kí ni wọ́n ń pè ní 'Ìròyìn' nínú àṣà Yorùbá?",
+    "options": ["A. Ìròyìn ìgbéyàwó", "B. Ìròyìn ìsìnkú", "C. Ìròyìn ìbí ọmọ", "D. Ìròyìn ìsọmọlórúkọ"],
+    "answer": "A",
+    "topic": "Customs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "Kí ni ìtumọ̀ ọ̀rọ̀ 'Àròfọ' nínú ewì Yorùbá?",
+    "options": ["A. Ọ̀rọ̀ àsopọ̀", "B. Ọ̀rọ̀ àfiwé", "C. Ọ̀rọ̀ àpèjúwe", "D. Ọ̀rọ̀ àfòmọ́"],
+    "answer": "C",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Kí ni ìyàtọ̀ láàrin 'ìwé ìtàn àròsọ' àti 'ìwé ìtàn àròsọ àlọ́'?",
+    "options": ["A. Ìtàn àròsọ jẹ́ ti àkọsílẹ̀, àlọ́ jẹ́ ti ẹnu", "B. Ìtàn àròsọ jẹ́ ti ẹnu, àlọ́ jẹ́ ti àkọsílẹ̀", "C. Àwọn méjèèjì jẹ́ ti ẹnu", "D. Àwọn méjèèjì jẹ́ ti àkọsílẹ̀"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Kí ni a máa ń pè ní 'Ẹ̀yà' nínú ìtàn àròsọ?",
+    "options": ["A. Àwọn ènìyàn tí wọ́n kópa nínú ìtàn", "B. Àwọn ibi tí ìtàn ti ṣẹlẹ̀", "C. Àwọn ohun tí wọ́n ń ṣe nínú ìtàn", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú ìtàn"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', ta ni ìyá àgbà?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Ìyá Bọ́lá", "D. Bàbá Ọlá"],
+    "answer": "B",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Kí ni ìtumọ̀ 'Àlọ́' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Kí ni ìró ohùn tí ó wà lórí 'a' nínú ọ̀rọ̀ 'àwa'?",
+    "options": ["A. Ìró ohùn òkè", "B. Ìró ohùn àárín", "C. Ìró ohùn ìsàlẹ̀", "D. Kò ní ìró ohùn"],
+    "answer": "C",
+    "topic": "Sound System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 159,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 204,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 254,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 285,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 296,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 306,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 309,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 317,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 318,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 327,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 339,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 346,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 348,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 351,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 360,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 369,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 380,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 390,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 393,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 401,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 405,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 411,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 413,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 414,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 422,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 423,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 432,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 434,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 435,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 443,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 444,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 447,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 453,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 455,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 456,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 464,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 465,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 468,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 474,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 476,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 477,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ojúlówó Oríkì Ifá'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Àkànnó Fáṣínà Agboọlá", "C. Láwuyì Ògúnníran", "D. Olúṣọlá Fádíyà"],
+    "answer": "B",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "Bí a bá sọ pé 'Ọmọ náà gbọ́n', 'gbọ́n' jẹ́ ọ̀rọ̀-ìṣe tàbí ọ̀rọ̀-àpèjúwe?",
+    "options": ["A. Ọ̀rọ̀-ìṣe", "B. Ọ̀rọ̀-àpèjúwe", "C. Ọ̀rọ̀-orúkọ", "D. Ọ̀rọ̀-arọ́pò"],
+    "answer": "B",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "Kí ni 'Ẹ̀kọ́-ìwé' nínú lítírésọ̀?",
+    "options": ["A. Ẹ̀kọ́ tí wọ́n ń kọ́ nínú ilé-ìwé", "B. Ẹ̀ka tí ìwé pín sí bíi orí", "C. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa ìwà ọmọ", "D. Ẹ̀kọ́ tí wọ́n ń kọ́ nípa èdè"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "Ẹ wo ọ̀rọ̀ tí kì í ṣe ọ̀rọ̀-arọ́pò-orúkọ nínú àwọn wọ̀nyí?",
+    "options": ["A. Èmi", "B. Ìwọ", "C. Òun", "D. Bọ́lá"],
+    "answer": "D",
+    "topic": "Grammar",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 484,
+    "question": "Nínú ìwé 'Ogún Ọmọdé', kí ni orúkọ ẹni tí ó kú nínú ìtàn?",
+    "options": ["A. Ọlá", "B. Àkànkẹ́", "C. Bọ́lá", "D. Ṣadé"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 485,
+    "question": "Kí ni 'Àpólà ọ̀rọ̀-ìṣe' nínú gírámà?",
+    "options": ["A. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí ọ̀rọ̀-ìṣe", "B. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí orúkọ", "C. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àpèjúwe", "D. Àkójọpọ̀ ọ̀rọ̀ tí ó ń ṣiṣẹ́ bí àsopọ̀"],
+    "answer": "A",
+    "topic": "Grammar",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 486,
+    "question": "Kí ni ìtumọ̀ 'Àkànlò-èdè'?",
+    "options": ["A. Ọ̀rọ̀ tí ó ní ìtumọ̀ tí ó yàtọ̀ sí ti gbogbo ènìyàn", "B. Ọ̀rọ̀ tí ó ní ìtumọ̀ kan ṣoṣo", "C. Ọ̀rọ̀ tí a kò lè lò nínú èdè", "D. Ọ̀rọ̀ tí ó ti èdè àjèjì wá"],
+    "answer": "A",
+    "topic": "Composition",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Eégún Aláré'?",
+    "options": ["A. Olúṣọlá Fádíyà", "B. Láwuyì Ògúnníran", "C. Adébóyè Babalọlá", "D. Akínwùmí Ìṣọlá"],
+    "answer": "B",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Kí ni 'Àṣà' nínú ẹ̀kọ́ Yorùbá?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú ìlú", "B. Àwọn ìwà àti ìṣe tí ó jẹ́ ti ẹ̀yà kan", "C. Àwọn orin ìbílẹ̀", "D. Àwọn ìtàn àròsọ"],
+    "answer": "B",
+    "topic": "Customs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "Ta ni òǹkọ̀wé ìwé 'Ogún Ọmọdé'?",
+    "options": ["A. Olúfẹ́mi Adéwọlé", "B. Olúṣọlá Fádíyà", "C. Akínwùmí Ìṣọlá", "D. Adébóyè Babalọlá"],
+    "answer": "C",
+    "topic": "Written Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "Kí ni orúkọ ìwé ewì àpílẹ̀kọ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Ojúlówó Oríkì Ifá", "B. Èdè Abínibí àti Àwọn Àròfọ Mìíràn", "C. Akowe ko wura", "D. Awon Oju Odu Mereerindinlogun"],
+    "answer": "B",
+    "topic": "Written Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "Nínú ìwé 'Ojúlówó Oríkì Ifá', kí ni 'Òyèkú Méjì'?",
+    "options": ["A. Orúkọ ẹranko", "B. Orúkọ ènìyàn", "C. Orúkọ ìlú", "D. Orúkọ Odù Ifá"],
+    "answer": "D",
+    "topic": "Oral Literature (Poetry)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "Kí ni ìtumọ̀ 'Àló' nínú àṣà Yorùbá?",
+    "options": ["A. Ìtàn tí wọ́n ń sọ ní ẹnu", "B. Ìtàn tí wọ́n kọ sínú ìwé", "C. Orin ìbílẹ̀", "D. Òwe"],
+    "answer": "A",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "Ta ni òǹkọ̀wé eré onítàn 'Ọ̀ṣẹ́ Oyè'?",
+    "options": ["A. Láwuyì Ògúnníran", "B. Olúfẹ́mi Adéwọlé", "C. Akínwùmí Ìṣọlá", "D. Olúṣọlá Fádíyà"],
+    "answer": "D",
+    "topic": "Written Literature (Drama)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "Ẹ wo ìtumọ̀ àkànlò-èdè 'Ó gbé orí rẹ̀ sórí ẹ̀yìn'?",
+    "options": ["A. Ó gbé orí rẹ̀ sí ẹ̀yìn", "B. Ó kú", "C. Ó sá", "D. Ó ṣe àṣìṣe"],
+    "answer": "C",
+    "topic": "Composition",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 495,
+    "question": "Nínú gbólóhùn 'Ọmọ náà rẹ́rìn-ín', kí ni àpólà ọ̀rọ̀-ìṣe?",
+    "options": ["A. Ọmọ", "B. náà", "C. rẹ́rìn-ín", "D. Ọmọ náà"],
+    "answer": "C",
+    "topic": "Grammar",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "Kí ni 'Ìró ohùn' nínú èdè Yorùbá?",
+    "options": ["A. Bí a ṣe ń sọ ọ̀rọ̀", "B. Bí a ṣe ń gbọ́ ọ̀rọ̀", "C. Bí a ṣe ń kọ ọ̀rọ̀", "D. Bí ohùn ṣe ń gòkè tàbí sọ̀kalẹ̀"],
+    "answer": "D",
+    "topic": "Sound System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 497,
+    "question": "Ta ni ológun nínú eré 'Eégún Aláré'?",
+    "options": ["A. Aláré", "B. Eégún", "C. Ọba", "D. Jagun"],
+    "answer": "D",
+    "topic": "Oral Literature (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 498,
+    "question": "Kí ni 'Ẹ̀dá' nínú eré oníṣe?",
+    "options": ["A. Àwọn ohun tí wọ́n ń ṣe nínú eré", "B. Àwọn ènìyàn tí wọ́n kópa nínú eré", "C. Àwọn ibi tí wọ́n ti ń ṣe eré", "D. Àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú eré"],
+    "answer": "B",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "Kí ni orúkọ ìwé àlọ́ tí wọ́n yàn fún 2026-2030?",
+    "options": ["A. Àkójọpọ̀ Àlọ́ Ìjàpá (Apá Kìíní)", "B. Àkójọp̀ọ̀ Àlọ́ Ìjàpá (Apá Kejì)", "C. Ìjàpá Tiroko Oko Yannibo", "D. Àlọ́ àwọn ẹranko"],
+    "answer": "B",
+    "topic": "Oral Literature (Prose)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Kí ni ìtumọ̀ 'Àfiwé' nínú lítírésọ̀?",
+    "options": ["A. Ìfiwéra ohun méjì tí ó jọra", "B. Ìfiwéra ohun méjì tí ó yàtọ̀", "C. Ìṣàpèjúwe ohun kan", "D. Ìtẹ̀numọ́ ohun kan"],
+    "answer": "A",
+    "topic": "Basic Principles of Literary Appreciation",
+    "difficulty": "Medium"
+  }
+]

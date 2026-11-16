@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best defines economics?",
+    "options": [
+      "A. The study of how scarce resources are allocated",
+      "B. The study of how to maximize profit in business",
+      "C. The study of government revenue and expenditure",
+      "D. The study of money and banking operations"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The fundamental economic problem of scarcity arises because:",
+    "options": [
+      "A. Resources are unlimited but wants are limited",
+      "B. Government controls all economic activities",
+      "C. Wants are unlimited but resources are limited",
+      "D. Producers always aim to maximize profit"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "A list of wants arranged in order of importance is called:",
+    "options": [
+      "A. Opportunity cost",
+      "B. Production possibility curve",
+      "C. Demand schedule",
+      "D. Scale of preference"
+    ],
+    "answer": "D",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The value of the next best alternative forgone is known as:",
+    "options": [
+      "A. Money cost",
+      "B. Opportunity cost",
+      "C. Average cost",
+      "D. Social cost"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "A production possibility curve illustrates:",
+    "options": [
+      "A. The relationship between price and quantity demanded",
+      "B. The total cost of producing a single good",
+      "C. The maximum combination of two goods producible",
+      "D. The distribution of income among consumers"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "The production possibility curve is concave to the origin because of:",
+    "options": [
+      "A. Constant opportunity cost",
+      "B. Increasing opportunity cost",
+      "C. Decreasing opportunity cost",
+      "D. Zero opportunity cost"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Which economic activity involves the creation of goods and services?",
+    "options": [
+      "A. Distribution",
+      "B. Consumption",
+      "C. Exchange",
+      "D. Production"
+    ],
+    "answer": "D",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The primary sector of an economy includes:",
+    "options": [
+      "A. Banking and insurance",
+      "B. Agriculture and mining",
+      "C. Manufacturing and construction",
+      "D. Transport and communication"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which sector contributes most to employment in West Africa?",
+    "options": [
+      "A. Tertiary sector",
+      "B. Secondary sector",
+      "C. Primary sector",
+      "D. Quaternary sector"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "The tertiary sector is mainly concerned with:",
+    "options": [
+      "A. Extraction of raw materials",
+      "B. Processing of raw materials",
+      "C. Manufacturing of goods",
+      "D. Provision of services"
+    ],
+    "answer": "D",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "A movement along a production possibility curve implies:",
+    "options": [
+      "A. Economic growth has occurred",
+      "B. Resources are unemployed",
+      "C. Reallocation of resources between goods",
+      "D. Technological improvement"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 12,
+    "question": "A point inside the production possibility curve indicates:",
+    "options": [
+      "A. Underutilization of resources",
+      "B. Full employment of resources",
+      "C. Unattainable production combination",
+      "D. Efficient resource allocation"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a factor of production?",
+    "options": [
+      "A. Money",
+      "B. Bank loan",
+      "C. Labour",
+      "D. Shares"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The reward for entrepreneurship is:",
+    "options": [
+      "A. Rent",
+      "B. Wages",
+      "C. Interest",
+      "D. Profit"
+    ],
+    "answer": "D",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which factor of production is fixed in the short run?",
+    "options": [
+      "A. Labour",
+      "B. Land",
+      "C. Capital",
+      "D. Entrepreneurship"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "The reward for capital as a factor of production is:",
+    "options": [
+      "A. Profit",
+      "B. Rent",
+      "C. Interest",
+      "D. Wages"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Labour as a factor of production is unique because it is:",
+    "options": [
+      "A. Fixed in supply",
+      "B. Always unskilled",
+      "C. Not subject to demand",
+      "D. Inseparable from the labourer"
+    ],
+    "answer": "D",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "The reward for land as a factor of production is:",
+    "options": [
+      "A. Rent",
+      "B. Profit",
+      "C. Interest",
+      "D. Wages"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is NOT a characteristic of land?",
+    "options": [
+      "A. It is fixed in supply",
+      "B. It is geographically immobile",
+      "C. It has derived demand",
+      "D. It is subject to diminishing returns"
+    ],
+    "answer": "C",
+    "topic": "Factors of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "Entrepreneurship involves:",
+    "options": [
+      "A. Only supplying capital to a business",
+      "B. Coordinating other factors and bearing risk",
+      "C. Providing labour services to firms",
+      "D. Renting land to producers"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "An economic system where the means of production are privately owned is:",
+    "options": [
+      "A. Socialism",
+      "B. Communism",
+      "C. Capitalism",
+      "D. Mixed economy"
+    ],
+    "answer": "C",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "In a socialist economy, resources are allocated mainly by:",
+    "options": [
+      "A. The price mechanism",
+      "B. Private entrepreneurs",
+      "C. Consumer sovereignty",
+      "D. The central planning authority"
+    ],
+    "answer": "D",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "A mixed economy is characterized by:",
+    "options": [
+      "A. Only private ownership of resources",
+      "B. Both private and public ownership",
+      "C. Only government ownership of resources",
+      "D. Absence of any government regulation"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The price mechanism solves the economic problem in a:",
+    "options": [
+      "A. Socialist economy",
+      "B. Capitalist economy",
+      "C. Command economy",
+      "D. Traditional economy"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "One disadvantage of capitalism is that it:",
+    "options": [
+      "A. Ensures efficient resource allocation",
+      "B. Guarantees full employment",
+      "C. Leads to income inequality",
+      "D. Promotes consumer sovereignty"
+    ],
+    "answer": "C",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Which economic system is most likely to experience consumer sovereignty?",
+    "options": [
+      "A. Capitalism",
+      "B. Socialism",
+      "C. Communism",
+      "D. Command economy"
+    ],
+    "answer": "A",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "In a mixed economy, the government intervenes mainly to:",
+    "options": [
+      "A. Eliminate private enterprise entirely",
+      "B. Fix prices of all goods and services",
+      "C. Abolish the price mechanism completely",
+      "D. Correct market failures and provide public goods"
+    ],
+    "answer": "D",
+    "topic": "Economic Systems",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "A major advantage of socialism is that it:",
+    "options": [
+      "A. Encourages profit maximization",
+      "B. Reduces income inequality",
+      "C. Promotes individual initiative",
+      "D. Allows free entry into business"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "The economic problem of 'what to produce' is solved in a capitalist economy by:",
+    "options": [
+      "A. Government decree",
+      "B. Traditional custom",
+      "C. Consumer demand and price signals",
+      "D. Central planning"
+    ],
+    "answer": "C",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a basic feature of a socialist economy?",
+    "options": [
+      "A. Private ownership of property",
+      "B. Public ownership of key industries",
+      "C. Freedom of enterprise",
+      "D. Profit as the main motive"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The arithmetic mean of 4, 6, 8, 10 and 12 is:",
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 8",
+      "D. 10"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "The median of the numbers 3, 5, 7, 9 and 11 is:",
+    "options": [
+      "A. 5",
+      "B. 9",
+      "C. 11",
+      "D. 7"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "The mode of the data set 2, 3, 3, 4, 5, 5, 5 is:",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "A graph showing the relationship between two variables is called a:",
+    "options": [
+      "A. Bar chart",
+      "B. Pie chart",
+      "C. Histogram",
+      "D. Line graph"
+    ],
+    "answer": "D",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Which measure of central tendency is most affected by extreme values?",
+    "options": [
+      "A. Median",
+      "B. Mode",
+      "C. Arithmetic mean",
+      "D. Range"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "A pie chart is most suitable for showing:",
+    "options": [
+      "A. Trend of prices over time",
+      "B. Proportions of a whole",
+      "C. Relationship between two variables",
+      "D. Frequency distribution"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "If the mean of 5 numbers is 10, their total sum is:",
+    "options": [
+      "A. 50",
+      "B. 2",
+      "C. 15",
+      "D. 100"
+    ],
+    "answer": "A",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The median of 12, 8, 15, 6 and 10 is:",
+    "options": [
+      "A. 8",
+      "B. 10",
+      "C. 12",
+      "D. 15"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "A frequency distribution with two modes is described as:",
+    "options": [
+      "A. Unimodal",
+      "B. Trimodal",
+      "C. Bimodal",
+      "D. Multimodal"
+    ],
+    "answer": "C",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a disadvantage of using tables to present data?",
+    "options": [
+      "A. They allow precise numerical comparison",
+      "B. They can be difficult to interpret at a glance",
+      "C. They present data in a compact form",
+      "D. They facilitate further statistical analysis"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 41,
+    "question": "The law of demand states that, all things being equal, as price rises:",
+    "options": [
+      "A. Quantity demanded rises",
+      "B. Quantity supplied falls",
+      "C. Demand remains constant",
+      "D. Quantity demanded falls"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "A demand schedule shows the relationship between:",
+    "options": [
+      "A. Price and quantity supplied",
+      "B. Price and quantity demanded",
+      "C. Income and quantity supplied",
+      "D. Cost and quantity produced"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "An exceptional demand curve slopes upward because:",
+    "options": [
+      "A. Consumers expect future price increases",
+      "B. The good is a normal good",
+      "C. The law of demand always holds",
+      "D. Supply exceeds demand"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "Demand for bread and butter is an example of:",
+    "options": [
+      "A. Competitive demand",
+      "B. Composite demand",
+      "C. Joint demand",
+      "D. Derived demand"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "The demand for labour is best described as:",
+    "options": [
+      "A. Joint demand",
+      "B. Derived demand",
+      "C. Composite demand",
+      "D. Competitive demand"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "A movement along a demand curve is caused by a change in:",
+    "options": [
+      "A. Consumer income",
+      "B. Taste and preference",
+      "C. Price of the commodity",
+      "D. Population size"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "An increase in consumer income will cause the demand curve for a normal good to:",
+    "options": [
+      "A. Shift to the left",
+      "B. Remain unchanged",
+      "C. Become vertical",
+      "D. Shift to the right"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Price elasticity of demand measures the responsiveness of quantity demanded to a change in:",
+    "options": [
+      "A. Consumer income",
+      "B. Price of the commodity",
+      "C. Price of related goods",
+      "D. Population size"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "If a 10% rise in price leads to a 20% fall in quantity demanded, demand is:",
+    "options": [
+      "A. Inelastic",
+      "B. Unitary elastic",
+      "C. Elastic",
+      "D. Perfectly inelastic"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Demand is said to be perfectly inelastic when the elasticity coefficient is:",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Infinity",
+      "D. Greater than one"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Cross elasticity of demand between substitutes is:",
+    "options": [
+      "A. Negative",
+      "B. Zero",
+      "C. Infinite",
+      "D. Positive"
+    ],
+    "answer": "D",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "Income elasticity of demand for an inferior good is:",
+    "options": [
+      "A. Negative",
+      "B. Positive",
+      "C. Zero",
+      "D. Unity"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 53,
+    "question": "A giffen good is one whose demand curve:",
+    "options": [
+      "A. Slopes downward",
+      "B. Slopes upward",
+      "C. Is vertical",
+      "D. Is horizontal"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "The demand for salt is generally inelastic because salt:",
+    "options": [
+      "A. Has many substitutes",
+      "B. Is a luxury good",
+      "C. Has few substitutes and is a necessity",
+      "D. Takes a large share of consumer income"
+    ],
+    "answer": "C",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "If the price of tea rises and the demand for coffee increases, the two goods are:",
+    "options": [
+      "A. Complements",
+      "B. Substitutes",
+      "C. Inferior goods",
+      "D. Giffen goods"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The law of supply states that, all things being equal, as price rises:",
+    "options": [
+      "A. Quantity supplied falls",
+      "B. Quantity demanded rises",
+      "C. Quantity supplied rises",
+      "D. Supply remains constant"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "A supply curve normally slopes:",
+    "options": [
+      "A. Downward from left to right",
+      "B. Upward from left to right",
+      "C. Vertically upward",
+      "D. Horizontally"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "An increase in the cost of raw materials will cause the supply curve to:",
+    "options": [
+      "A. Shift to the right",
+      "B. Remain unchanged",
+      "C. Become horizontal",
+      "D. Shift to the left"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "A movement along a supply curve is caused by a change in:",
+    "options": [
+      "A. Technology",
+      "B. Input prices",
+      "C. Price of the commodity",
+      "D. Climatic conditions"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "The supply of a commodity is said to be elastic when:",
+    "options": [
+      "A. Quantity supplied responds greatly to price change",
+      "B. Quantity supplied does not respond to price change",
+      "C. Supply is fixed in the short run",
+      "D. Price remains constant"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following factors will shift the supply curve to the right?",
+    "options": [
+      "A. Increase in input prices",
+      "B. Bad weather conditions",
+      "C. Improvement in technology",
+      "D. Increase in taxes on producers"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "Supply of a commodity is perfectly inelastic when the elasticity coefficient is:",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Infinity",
+      "D. Greater than one"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 63,
+    "question": "The supply of agricultural products is often inelastic in the short run because:",
+    "options": [
+      "A. Farmers can easily change output",
+      "B. Prices are always stable",
+      "C. Demand is perfectly elastic",
+      "D. Production depends on biological processes"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Composite supply refers to supply of:",
+    "options": [
+      "A. Goods that are jointly demanded",
+      "B. A good that has multiple uses",
+      "C. Goods that are substitutes",
+      "D. Goods that are complements"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "An improvement in technology will generally cause:",
+    "options": [
+      "A. A leftward shift of the supply curve",
+      "B. An upward movement along the supply curve",
+      "C. A downward movement along the supply curve",
+      "D. A rightward shift of the supply curve"
+    ],
+    "answer": "D",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Total utility is:",
+    "options": [
+      "A. The additional satisfaction from consuming one more unit",
+      "B. The total satisfaction from consuming a given quantity",
+      "C. The satisfaction per unit consumed",
+      "D. The satisfaction from the last unit consumed"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "Marginal utility is the:",
+    "options": [
+      "A. Total satisfaction from all units consumed",
+      "B. Satisfaction per unit consumed",
+      "C. Additional satisfaction from consuming one more unit",
+      "D. Average satisfaction from all units"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "The law of diminishing marginal utility states that as more units are consumed:",
+    "options": [
+      "A. Total utility increases at an increasing rate",
+      "B. Marginal utility eventually declines",
+      "C. Marginal utility always increases",
+      "D. Total utility becomes negative immediately"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "A consumer is in equilibrium when:",
+    "options": [
+      "A. Total utility is zero",
+      "B. Marginal utility is at its maximum",
+      "C. Total utility is decreasing",
+      "D. Marginal utility per naira spent is equal for all goods"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "When marginal utility is zero, total utility is:",
+    "options": [
+      "A. At its maximum",
+      "B. At its minimum",
+      "C. Zero",
+      "D. Negative"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "The relationship between marginal utility and the demand curve is that:",
+    "options": [
+      "A. They are unrelated concepts",
+      "B. Marginal utility determines supply only",
+      "C. The demand curve is derived from marginal utility",
+      "D. Demand curve is always upward sloping"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Average utility is calculated as:",
+    "options": [
+      "A. Total utility multiplied by quantity",
+      "B. Total utility divided by quantity consumed",
+      "C. Change in total utility divided by change in quantity",
+      "D. Total utility minus marginal utility"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "If total utility from 3 units is 30 and from 4 units is 36, the marginal utility of the 4th unit is:",
+    "options": [
+      "A. 4",
+      "B. 9",
+      "C. 36",
+      "D. 6"
+    ],
+    "answer": "D",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The law of diminishing marginal utility assumes that:",
+    "options": [
+      "A. Consumer income is unlimited",
+      "B. Consumer tastes remain constant",
+      "C. Prices of goods are rising",
+      "D. Goods are consumed in large quantities"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "Consumer surplus is the difference between:",
+    "options": [
+      "A. What a consumer pays and what he is willing to pay",
+      "B. Total utility and marginal utility",
+      "C. Price and cost of production",
+      "D. Income and expenditure"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Equilibrium price is determined where:",
+    "options": [
+      "A. Demand exceeds supply",
+      "B. Supply exceeds demand",
+      "C. Quantity demanded equals quantity supplied",
+      "D. Price is highest"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "A market surplus occurs when:",
+    "options": [
+      "A. Demand equals supply",
+      "B. Price is above equilibrium price",
+      "C. Price is below equilibrium price",
+      "D. Demand is perfectly elastic"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "A shortage in the market occurs when price is:",
+    "options": [
+      "A. At equilibrium level",
+      "B. Above equilibrium level",
+      "C. Below equilibrium level",
+      "D. Fixed by government"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Maximum price legislation is usually imposed to:",
+    "options": [
+      "A. Protect producers from low prices",
+      "B. Increase government revenue",
+      "C. Encourage imports",
+      "D. Protect consumers from high prices"
+    ],
+    "answer": "D",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "A likely consequence of maximum price legislation is:",
+    "options": [
+      "A. Market surplus",
+      "B. Black market activities",
+      "C. Increased supply",
+      "D. Reduced demand"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Minimum price legislation is often used in agriculture to:",
+    "options": [
+      "A. Keep food prices low for consumers",
+      "B. Discourage agricultural production",
+      "C. Guarantee farmers a minimum income",
+      "D. Increase food imports"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "If demand increases while supply remains constant, equilibrium price will:",
+    "options": [
+      "A. Fall",
+      "B. Rise",
+      "C. Remain unchanged",
+      "D. Become zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "If supply increases while demand remains constant, equilibrium quantity will:",
+    "options": [
+      "A. Rise",
+      "B. Fall",
+      "C. Remain unchanged",
+      "D. Become zero"
+    ],
+    "answer": "A",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Rationing is a method used to:",
+    "options": [
+      "A. Increase the supply of goods",
+      "B. Raise the price of goods",
+      "C. Encourage black market activities",
+      "D. Allocate scarce goods among consumers"
+    ],
+    "answer": "D",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "In a regulated market where price is fixed below equilibrium, the result is:",
+    "options": [
+      "A. Excess supply",
+      "B. Excess demand",
+      "C. Market equilibrium",
+      "D. Zero demand"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "Division of labour leads to:",
+    "options": [
+      "A. Reduced productivity",
+      "B. Increased specialization and output",
+      "C. Higher production costs",
+      "D. Decreased efficiency"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "The law of variable proportions is a short-run concept involving:",
+    "options": [
+      "A. All factors of production varying",
+      "B. Only fixed factors of production",
+      "C. One variable factor with fixed factors",
+      "D. Long-run production decisions"
+    ],
+    "answer": "C",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Total product is maximized when marginal product is:",
+    "options": [
+      "A. At its maximum",
+      "B. Zero",
+      "C. Negative",
+      "D. Rising"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "Internal economies of scale are cost advantages that arise from:",
+    "options": [
+      "A. Expansion of the firm's own size",
+      "B. Growth of the entire industry",
+      "C. Government subsidies",
+      "D. Lower input prices in the market"
+    ],
+    "answer": "A",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "External diseconomies of scale occur when:",
+    "options": [
+      "A. A firm grows larger internally",
+      "B. A firm reduces its workforce",
+      "C. Government reduces taxes on firms",
+      "D. The industry expands causing higher costs for firms"
+    ],
+    "answer": "D",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 91,
+    "question": "Average product is calculated as:",
+    "options": [
+      "A. Total product divided by number of workers",
+      "B. Change in output divided by change in input",
+      "C. Total product multiplied by number of workers",
+      "D. Total revenue divided by output"
+    ],
+    "answer": "A",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "When marginal product is greater than average product, average product is:",
+    "options": [
+      "A. Falling",
+      "B. Rising",
+      "C. Constant",
+      "D. Zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Specialization in production is beneficial because it:",
+    "options": [
+      "A. Reduces total output",
+      "B. Increases the cost of production",
+      "C. Increases efficiency and total output",
+      "D. Eliminates the need for exchange"
+    ],
+    "answer": "C",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The stage of production where marginal product is negative is:",
+    "options": [
+      "A. Stage of increasing returns",
+      "B. Stage of diminishing returns",
+      "C. Stage of constant returns",
+      "D. Stage of negative returns"
+    ],
+    "answer": "D",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "A firm's total cost is the sum of:",
+    "options": [
+      "A. Fixed and variable costs",
+      "B. Average and marginal costs",
+      "C. Fixed and marginal costs",
+      "D. Average and variable costs"
+    ],
+    "answer": "A",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is a fixed cost?",
+    "options": [
+      "A. Cost of raw materials",
+      "B. Wages of casual workers",
+      "C. Rent on factory building",
+      "D. Electricity used in production"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "Marginal cost is the:",
+    "options": [
+      "A. Cost per unit of output",
+      "B. Total cost divided by output",
+      "C. Fixed cost per unit of output",
+      "D. Additional cost of producing one more unit"
+    ],
+    "answer": "D",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "The economist's view of cost differs from the accountant's view because the economist includes:",
+    "options": [
+      "A. Only explicit money costs",
+      "B. Opportunity costs",
+      "C. Only fixed costs",
+      "D. Only variable costs"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Average fixed cost:",
+    "options": [
+      "A. Increases as output increases",
+      "B. Remains constant at all output levels",
+      "C. Decreases as output increases",
+      "D. Is always zero"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "A firm's profit is maximized when:",
+    "options": [
+      "A. Total revenue equals total cost",
+      "B. Average revenue equals average cost",
+      "C. Total revenue is zero",
+      "D. Marginal revenue equals marginal cost"
+    ],
+    "answer": "D",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 101,
+    "question": "Total revenue is calculated as:",
+    "options": [
+      "A. Price multiplied by quantity sold",
+      "B. Price divided by quantity sold",
+      "C. Total cost plus profit",
+      "D. Average revenue minus marginal revenue"
+    ],
+    "answer": "A",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Marginal revenue is the:",
+    "options": [
+      "A. Revenue per unit sold",
+      "B. Total revenue from all units sold",
+      "C. Additional revenue from selling one more unit",
+      "D. Revenue divided by number of units"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "In the long run, all costs are:",
+    "options": [
+      "A. Fixed costs",
+      "B. Variable costs",
+      "C. Sunk costs",
+      "D. Marginal costs only"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "If total cost of producing 5 units is ₦100 and 6 units is ₦120, marginal cost is:",
+    "options": [
+      "A. ₦10",
+      "B. ₦20",
+      "C. ₦100",
+      "D. ₦120"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "The shape of the average variable cost curve is:",
+    "options": [
+      "A. Always downward sloping",
+      "B. U-shaped",
+      "C. Always upward sloping",
+      "D. Horizontal"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "A market structure with many buyers and sellers, homogeneous products and free entry is:",
+    "options": [
+      "A. Monopoly",
+      "B. Oligopoly",
+      "C. Perfect competition",
+      "D. Monopolistic competition"
+    ],
+    "answer": "C",
+    "topic": "Market Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "A single seller controlling the entire market supply is a:",
+    "options": [
+      "A. Duopoly",
+      "B. Monopoly",
+      "C. Oligopoly",
+      "D. Perfect competition"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "In perfect competition, a firm is a price:",
+    "options": [
+      "A. Maker",
+      "B. Setter",
+      "C. Leader",
+      "D. Taker"
+    ],
+    "answer": "D",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Product differentiation is a key feature of:",
+    "options": [
+      "A. Perfect competition",
+      "B. Monopoly",
+      "C. Monopolistic competition",
+      "D. Oligopoly"
+    ],
+    "answer": "C",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Price discrimination involves:",
+    "options": [
+      "A. Charging the same price to all buyers",
+      "B. Charging different prices to different buyers",
+      "C. Setting prices above equilibrium",
+      "D. Selling at a loss"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "A monopolist faces a demand curve that is:",
+    "options": [
+      "A. Perfectly elastic",
+      "B. Perfectly inelastic",
+      "C. Downward sloping",
+      "D. Horizontal"
+    ],
+    "answer": "C",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "In perfect competition, the demand curve facing the individual firm is:",
+    "options": [
+      "A. Downward sloping",
+      "B. Perfectly elastic",
+      "C. Upward sloping",
+      "D. Perfectly inelastic"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "Oligopoly is a market structure characterized by:",
+    "options": [
+      "A. Many small firms",
+      "B. A single firm",
+      "C. No competition",
+      "D. A few large firms"
+    ],
+    "answer": "D",
+    "topic": "Market Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "A firm under perfect competition maximizes profit where:",
+    "options": [
+      "A. Price equals marginal cost",
+      "B. Price is above marginal cost",
+      "C. Price is below marginal cost",
+      "D. Marginal cost is zero"
+    ],
+    "answer": "A",
+    "topic": "Market Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Which market structure is most likely to engage in price discrimination?",
+    "options": [
+      "A. Perfect competition",
+      "B. Monopoly",
+      "C. Oligopoly",
+      "D. Monopolistic competition"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "A business owned and managed by one person is called:",
+    "options": [
+      "A. Partnership",
+      "B. Joint-stock company",
+      "C. Sole proprietorship",
+      "D. Co-operative society"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "A major disadvantage of a sole proprietorship is:",
+    "options": [
+      "A. Unlimited liability",
+      "B. Easy decision making",
+      "C. Retention of all profits",
+      "D. Small capital base"
+    ],
+    "answer": "A",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "In a partnership, partners generally have:",
+    "options": [
+      "A. Limited liability",
+      "B. Unlimited liability",
+      "C. No liability",
+      "D. Government liability"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "A private limited liability company has a maximum of how many shareholders?",
+    "options": [
+      "A. 10",
+      "B. 20",
+      "C. 50",
+      "D. Unlimited"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "A key feature of a public limited liability company is that its shares are:",
+    "options": [
+      "A. Not transferable",
+      "B. Owned only by the government",
+      "C. Held by a single individual",
+      "D. Traded on the stock exchange"
+    ],
+    "answer": "D",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Co-operative societies are owned and controlled by:",
+    "options": [
+      "A. Government",
+      "B. Shareholders",
+      "C. Members",
+      "D. Creditors"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "Privatization involves the transfer of ownership from:",
+    "options": [
+      "A. Private to public sector",
+      "B. Public to private sector",
+      "C. Foreign to local investors",
+      "D. Individuals to government"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Commercialization of public enterprises means:",
+    "options": [
+      "A. Selling them to private individuals",
+      "B. Nationalizing them",
+      "C. Making them operate on profit-making basis",
+      "D. Closing them down permanently"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "A statutory corporation is established by:",
+    "options": [
+      "A. A group of private investors",
+      "B. An act of parliament",
+      "C. A co-operative society",
+      "D. A partnership agreement"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "One major source of funds for a joint-stock company is:",
+    "options": [
+      "A. Sale of shares",
+      "B. Personal savings of one owner",
+      "C. Government subvention only",
+      "D. Donations from friends"
+    ],
+    "answer": "A",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "The chain of distribution typically begins with:",
+    "options": [
+      "A. The consumer",
+      "B. The producer",
+      "C. The retailer",
+      "D. The wholesaler"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "A wholesaler performs the function of:",
+    "options": [
+      "A. Selling directly to final consumers",
+      "B. Producing goods for the market",
+      "C. Breaking bulk and supplying retailers",
+      "D. Providing credit to consumers"
+    ],
+    "answer": "C",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "A retailer links the wholesaler to the:",
+    "options": [
+      "A. Producer",
+      "B. Government",
+      "C. Importer",
+      "D. Consumer"
+    ],
+    "answer": "D",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "One major problem of distribution in West Africa is:",
+    "options": [
+      "A. Efficient transport network",
+      "B. Poor transport and storage facilities",
+      "C. Excess supply of goods",
+      "D. Low consumer demand"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "The role of government agencies in product distribution includes:",
+    "options": [
+      "A. Increasing hoarding by traders",
+      "B. Eliminating all middlemen",
+      "C. Regulating prices and ensuring availability",
+      "D. Producing all consumer goods"
+    ],
+    "answer": "C",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "A co-operative in distributive trade is owned by:",
+    "options": [
+      "A. The government",
+      "B. Its members",
+      "C. Foreign investors",
+      "D. The wholesalers only"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "Hoarding of goods by traders leads to:",
+    "options": [
+      "A. Lower prices for consumers",
+      "B. Increased supply in the market",
+      "C. Government surplus",
+      "D. Artificial scarcity and higher prices"
+    ],
+    "answer": "D",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "The main function of a commodity board is to:",
+    "options": [
+      "A. Manufacture export goods",
+      "B. Market agricultural produce",
+      "C. Regulate the banking sector",
+      "D. Provide consumer credit"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "One way to improve product distribution in West Africa is:",
+    "options": [
+      "A. Increasing the number of middlemen",
+      "B. Banning all retail trade",
+      "C. Improving transport and storage infrastructure",
+      "D. Reducing agricultural production"
+    ],
+    "answer": "C",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The channel of distribution that involves no middlemen is:",
+    "options": [
+      "A. Producer to wholesaler to retailer to consumer",
+      "B. Producer directly to consumer",
+      "C. Producer to retailer to consumer",
+      "D. Importer to wholesaler to consumer"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Population growth is determined mainly by:",
+    "options": [
+      "A. Birth rate and death rate",
+      "B. Only birth rate",
+      "C. Only death rate",
+      "D. Government policies alone"
+    ],
+    "answer": "A",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Rural-urban migration is mainly caused by:",
+    "options": [
+      "A. Better rural amenities",
+      "B. High agricultural productivity",
+      "C. Search for better economic opportunities in cities",
+      "D. Rural overemployment"
+    ],
+    "answer": "C",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "The Malthusian theory of population states that:",
+    "options": [
+      "A. Population grows geometrically while food supply grows arithmetically",
+      "B. Population always decreases over time",
+      "C. Food supply grows faster than population",
+      "D. Population growth has no effect on food supply"
+    ],
+    "answer": "A",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Optimum population is the population that:",
+    "options": [
+      "A. Exceeds available resources",
+      "B. Is below available resources",
+      "C. Has the highest birth rate",
+      "D. Maximizes output per head"
+    ],
+    "answer": "D",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Over-population occurs when population:",
+    "options": [
+      "A. Is below available resources",
+      "B. Exceeds available resources",
+      "C. Exactly matches available resources",
+      "D. Is evenly distributed"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "The labour force consists of persons who are:",
+    "options": [
+      "A. All persons in the country",
+      "B. Only those employed in the public sector",
+      "C. Employed and unemployed but seeking work",
+      "D. Only those above 60 years"
+    ],
+    "answer": "C",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Human capital refers to:",
+    "options": [
+      "A. The number of workers in a country",
+      "B. Machines used in production",
+      "C. Natural resources available",
+      "D. The skills and knowledge embodied in people"
+    ],
+    "answer": "D",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Occupational mobility of labour refers to the ease with which labour can:",
+    "options": [
+      "A. Move from one geographical location to another",
+      "B. Change from one occupation to another",
+      "C. Migrate to another country",
+      "D. Retire from work"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "A trade union's main objective is to:",
+    "options": [
+      "A. Maximize company profits",
+      "B. Increase government taxes",
+      "C. Protect members' wages and working conditions",
+      "D. Reduce employment opportunities"
+    ],
+    "answer": "C",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "Underemployment occurs when a person:",
+    "options": [
+      "A. Has no job and is not seeking work",
+      "B. Earns a high income",
+      "C. Is retired from active service",
+      "D. Works below their skill level or full capacity"
+    ],
+    "answer": "D",
+    "topic": "Population and Labour Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 146,
+    "question": "A census is important because it provides data on:",
+    "options": [
+      "A. Only birth rates",
+      "B. Population size and characteristics",
+      "C. Only death rates",
+      "D. Only government revenue"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Which factor is most likely to increase the size of the labour force?",
+    "options": [
+      "A. An increase in retirement age",
+      "B. A decline in population",
+      "C. A rise in school leaving age",
+      "D. Increase in death rate"
+    ],
+    "answer": "A",
+    "topic": "Population and Labour Market",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "The age structure of a population refers to the:",
+    "options": [
+      "A. Distribution of people by sex",
+      "B. Distribution of people by occupation",
+      "C. Distribution of people by age groups",
+      "D. Distribution of people by location"
+    ],
+    "answer": "C",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "One major problem of census in West Africa is:",
+    "options": [
+      "A. Lack of adequate manpower and funding",
+      "B. Excessive accuracy of data",
+      "C. Absence of population growth",
+      "D. Low birth rate"
+    ],
+    "answer": "A",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "Wages are determined mainly by the interaction of:",
+    "options": [
+      "A. Government and trade unions",
+      "B. Employers' associations only",
+      "C. Households and consumers",
+      "D. Supply of and demand for labour"
+    ],
+    "answer": "D",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Agriculture is important to West African economies because it:",
+    "options": [
+      "A. Employs a large proportion of the population",
+      "B. Contributes little to national income",
+      "C. Is solely for export purposes",
+      "D. Requires no government support"
+    ],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Peasant farming is characterized by:",
+    "options": [
+      "A. Large-scale mechanized production",
+      "B. Small-scale subsistence production",
+      "C. State ownership of all land",
+      "D. Exclusive use of modern inputs"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The marketing of agricultural products is often handled by:",
+    "options": [
+      "A. Commercial banks",
+      "B. Insurance companies",
+      "C. Commodity boards",
+      "D. Development banks"
+    ],
+    "answer": "C",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "A major problem of agriculture in West Africa is:",
+    "options": [
+      "A. Excessive mechanization",
+      "B. Overproduction of food crops",
+      "C. High level of capital investment",
+      "D. Poor storage and processing facilities"
+    ],
+    "answer": "D",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Minimum agricultural price policies are designed to:",
+    "options": [
+      "A. Keep food prices low for consumers",
+      "B. Guarantee farmers a stable income",
+      "C. Discourage local food production",
+      "D. Increase food imports"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "State farming refers to agricultural production owned by:",
+    "options": [
+      "A. Private individuals",
+      "B. Co-operative societies",
+      "C. The government",
+      "D. Foreign investors"
+    ],
+    "answer": "C",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "One remedy for the problems of agriculture in West Africa is:",
+    "options": [
+      "A. Reducing government spending on agriculture",
+      "B. Banning all food imports",
+      "C. Decreasing the number of extension workers",
+      "D. Providing improved seeds and credit to farmers"
+    ],
+    "answer": "D",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Export crops in West Africa include:",
+    "options": [
+      "A. Cassava and yam",
+      "B. Cocoa and groundnut",
+      "C. Rice and beans",
+      "D. Maize and millet"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "The system of agriculture where farmers pool resources together is:",
+    "options": [
+      "A. Peasant farming",
+      "B. Commercial farming",
+      "C. Co-operative farming",
+      "D. State farming"
+    ],
+    "answer": "C",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Agricultural extension services are meant to:",
+    "options": [
+      "A. Collect taxes from farmers",
+      "B. Educate farmers on improved methods",
+      "C. Supply farm machinery only",
+      "D. Market farm produce abroad"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "An industry is best defined as a group of firms producing:",
+    "options": [
+      "A. Different products",
+      "B. Agricultural products only",
+      "C. Similar products",
+      "D. Services only"
+    ],
+    "answer": "C",
+    "topic": "Industrialization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 162,
+    "question": "Industrialization is important because it:",
+    "options": [
+      "A. Reduces employment opportunities",
+      "B. Creates employment and increases output",
+      "C. Decreases national income",
+      "D. Increases dependence on primary products"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "A major factor influencing the location of an industry is:",
+    "options": [
+      "A. Availability of raw materials",
+      "B. The colour of factory buildings",
+      "C. Number of shareholders",
+      "D. Age of the entrepreneur"
+    ],
+    "answer": "A",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Industrial estates are areas where:",
+    "options": [
+      "A. Only agricultural activities take place",
+      "B. Government offices are concentrated",
+      "C. Residential houses are built",
+      "D. Several industries are located together"
+    ],
+    "answer": "D",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "One problem of industrialization in West Africa is:",
+    "options": [
+      "A. Adequate capital supply",
+      "B. Shortage of skilled manpower",
+      "C. Excess infrastructure",
+      "D. Low demand for manufactured goods"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "The link between agriculture and industry is that agriculture:",
+    "options": [
+      "A. Has no relationship with industry",
+      "B. Competes with industry for exports",
+      "C. Supplies raw materials to industry",
+      "D. Replaces industrial production"
+    ],
+    "answer": "C",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Localization of industry refers to the concentration of industries in:",
+    "options": [
+      "A. Many different regions",
+      "B. A particular area or region",
+      "C. Foreign countries only",
+      "D. Rural areas only"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "A strategy of industrialization that focuses on replacing imported goods is:",
+    "options": [
+      "A. Export promotion",
+      "B. Primary production",
+      "C. Trade liberalization",
+      "D. Import substitution"
+    ],
+    "answer": "D",
+    "topic": "Industrialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The term 'plant' in industrial economics refers to:",
+    "options": [
+      "A. A single factory or production unit",
+      "B. The entire industry",
+      "C. A group of firms",
+      "D. The head office of a firm"
+    ],
+    "answer": "A",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Export promotion as an industrialization strategy aims at:",
+    "options": [
+      "A. Producing mainly for the domestic market",
+      "B. Restricting all imports",
+      "C. Producing goods for foreign markets",
+      "D. Banning foreign investment"
+    ],
+    "answer": "C",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "Gross Domestic Product (GDP) measures:",
+    "options": [
+      "A. Total value of goods and services produced within a country",
+      "B. Total income of citizens abroad",
+      "C. Total government expenditure",
+      "D. Total value of imports"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "Gross National Product (GNP) equals GDP plus:",
+    "options": [
+      "A. Depreciation",
+      "B. Net factor income from abroad",
+      "C. Indirect taxes",
+      "D. Subsidies"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Net National Product is obtained by subtracting from GNP:",
+    "options": [
+      "A. Net factor income",
+      "B. Indirect taxes",
+      "C. Depreciation",
+      "D. Subsidies"
+    ],
+    "answer": "C",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "One method of measuring national income is the:",
+    "options": [
+      "A. Balance of payments approach",
+      "B. Exchange rate approach",
+      "C. Budget approach",
+      "D. Income approach"
+    ],
+    "answer": "D",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "A problem associated with measuring national income in West Africa is:",
+    "options": [
+      "A. Adequate statistical data",
+      "B. Inadequate and unreliable data",
+      "C. Absence of economic activity",
+      "D. Over-reporting of output"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "One use of national income data is to:",
+    "options": [
+      "A. Determine the number of political parties",
+      "B. Fix the retirement age",
+      "C. Compare living standards between countries",
+      "D. Regulate religious activities"
+    ],
+    "answer": "C",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "A limitation of using national income data for comparison is that it:",
+    "options": [
+      "A. Ignores income distribution",
+      "B. Includes all underground activities",
+      "C. Accounts for leisure time",
+      "D. Measures environmental damage"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Per capita income is calculated as:",
+    "options": [
+      "A. Population divided by national income",
+      "B. National income multiplied by population",
+      "C. Total government revenue divided by population",
+      "D. National income divided by population"
+    ],
+    "answer": "D",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "Which of the following is excluded from national income calculations?",
+    "options": [
+      "A. Sale of new cars",
+      "B. Sale of second-hand goods",
+      "C. Payment for services",
+      "D. Agricultural production"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "The expenditure approach to measuring national income sums:",
+    "options": [
+      "A. All incomes earned by factors",
+      "B. All value added in production",
+      "C. All spending on final goods and services",
+      "D. All government taxes collected"
+    ],
+    "answer": "C",
+    "topic": "National Income",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 181,
+    "question": "Money is best defined as:",
+    "options": [
+      "A. Anything generally acceptable as a medium of exchange",
+      "B. Only coins and currency notes",
+      "C. A store of gold in the central bank",
+      "D. The total wealth of a country"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "The barter system faced a major problem of:",
+    "options": [
+      "A. Too much money supply",
+      "B. Double coincidence of wants",
+      "C. High inflation rates",
+      "D. Bank failures"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "One function of money is to serve as a:",
+    "options": [
+      "A. Source of government revenue",
+      "B. Factor of production",
+      "C. Store of value",
+      "D. Means of taxation"
+    ],
+    "answer": "C",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The value of money is inversely related to:",
+    "options": [
+      "A. Money supply only",
+      "B. Interest rate only",
+      "C. Government revenue",
+      "D. The price level"
+    ],
+    "answer": "D",
+    "topic": "Money and Inflation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Inflation is defined as:",
+    "options": [
+      "A. A persistent rise in the general price level",
+      "B. A fall in the general price level",
+      "C. A rise in the value of money",
+      "D. A decrease in money supply"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "Demand-pull inflation is caused by:",
+    "options": [
+      "A. Rise in production costs",
+      "B. Excess demand over available supply",
+      "C. Increase in money supply only",
+      "D. Government price controls"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Cost-push inflation is caused by:",
+    "options": [
+      "A. Excess aggregate demand",
+      "B. Increase in exports only",
+      "C. Rise in production costs",
+      "D. Reduction in taxes"
+    ],
+    "answer": "C",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "One effect of inflation is that it:",
+    "options": [
+      "A. Increases the purchasing power of money",
+      "B. Benefits fixed-income earners",
+      "C. Encourages saving",
+      "D. Reduces the purchasing power of money"
+    ],
+    "answer": "D",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Inflation can be controlled through:",
+    "options": [
+      "A. Increasing money supply",
+      "B. Reducing government expenditure",
+      "C. Decreasing interest rates",
+      "D. Printing more currency"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "Hyper-inflation is characterized by:",
+    "options": [
+      "A. Very rapid and uncontrolled price increases",
+      "B. A gradual rise in prices",
+      "C. A fall in prices over time",
+      "D. Stable price levels"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "The apex financial institution in a country is the:",
+    "options": [
+      "A. Commercial bank",
+      "B. Merchant bank",
+      "C. Central bank",
+      "D. Development bank"
+    ],
+    "answer": "C",
+    "topic": "Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "One function of the central bank is to:",
+    "options": [
+      "A. Accept deposits from the public",
+      "B. Grant loans to individuals",
+      "C. Operate current accounts for customers",
+      "D. Issue currency notes and coins"
+    ],
+    "answer": "D",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Commercial banks create money through:",
+    "options": [
+      "A. Printing currency notes",
+      "B. Credit creation",
+      "C. Selling government bonds",
+      "D. Minting coins"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Development banks are mainly established to:",
+    "options": [
+      "A. Accept savings from small savers",
+      "B. Issue currency notes",
+      "C. Provide long-term loans for development projects",
+      "D. Regulate the banking sector"
+    ],
+    "answer": "C",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "The money market deals with:",
+    "options": [
+      "A. Long-term securities",
+      "B. Short-term funds and securities",
+      "C. Foreign exchange only",
+      "D. Real estate transactions"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "The capital market is a market for:",
+    "options": [
+      "A. Short-term loans",
+      "B. Consumer goods",
+      "C. Agricultural produce",
+      "D. Long-term securities"
+    ],
+    "answer": "D",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Insurance companies perform the function of:",
+    "options": [
+      "A. Accepting deposits",
+      "B. Risk pooling and indemnification",
+      "C. Issuing currency",
+      "D. Granting development loans"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "Building societies specialize in:",
+    "options": [
+      "A. Financing house construction",
+      "B. Providing agricultural loans",
+      "C. Issuing currency notes",
+      "D. Regulating insurance companies"
+    ],
+    "answer": "A",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The central bank controls the money supply mainly through:",
+    "options": [
+      "A. Accepting deposits from the public",
+      "B. Granting loans to individuals",
+      "C. Open market operations",
+      "D. Operating savings accounts"
+    ],
+    "answer": "C",
+    "topic": "Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 200,
+    "question": "A merchant bank is primarily concerned with:",
+    "options": [
+      "A. Small-scale retail banking",
+      "B. Wholesale banking and corporate finance",
+      "C. Issuing currency notes",
+      "D. Regulating the stock exchange"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 201,
+    "question": "Public finance deals mainly with:",
+    "options": [
+      "A. Government revenue and expenditure",
+      "B. Private business profits",
+      "C. Household consumption patterns",
+      "D. Foreign trade balances"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "Fiscal policy refers to the use of:",
+    "options": [
+      "A. Interest rates to control the economy",
+      "B. Exchange rates to control imports",
+      "C. Government taxation and spending to influence the economy",
+      "D. Open market operations to control money supply"
+    ],
+    "answer": "C",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "A major source of government revenue in West Africa is:",
+    "options": [
+      "A. Taxes",
+      "B. Gifts from foreign governments",
+      "C. Church offerings",
+      "D. Private donations"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "An example of indirect tax is:",
+    "options": [
+      "A. Personal income tax",
+      "B. Company income tax",
+      "C. Capital gains tax",
+      "D. Value added tax"
+    ],
+    "answer": "D",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "A progressive tax is one where:",
+    "options": [
+      "A. The tax rate decreases as income increases",
+      "B. The tax rate increases as income increases",
+      "C. The tax rate is constant for all incomes",
+      "D. Everyone pays the same amount"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "A regressive tax is one where:",
+    "options": [
+      "A. The tax rate increases with income",
+      "B. The tax rate is constant for all incomes",
+      "C. The tax rate decreases as income increases",
+      "D. Only the rich are taxed"
+    ],
+    "answer": "C",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "The incidence of a tax refers to:",
+    "options": [
+      "A. The final resting place of the tax burden",
+      "B. The method of tax collection",
+      "C. The total tax revenue collected",
+      "D. The tax rate structure"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "Recurrent expenditure of government includes:",
+    "options": [
+      "A. Building new roads",
+      "B. Construction of new hospitals",
+      "C. Purchase of new machinery",
+      "D. Payment of salaries and wages"
+    ],
+    "answer": "D",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "A budget deficit occurs when:",
+    "options": [
+      "A. Government revenue exceeds expenditure",
+      "B. Government expenditure exceeds revenue",
+      "C. Revenue equals expenditure",
+      "D. Taxes are reduced"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "The national debt refers to:",
+    "options": [
+      "A. Money owed by citizens to government",
+      "B. Debts owed by private companies",
+      "C. Total borrowings of the government",
+      "D. Foreign aid received by government"
+    ],
+    "answer": "C",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "Economic growth refers to:",
+    "options": [
+      "A. An increase in real national output over time",
+      "B. A change in the structure of the economy",
+      "C. An improvement in welfare",
+      "D. A reduction in population growth"
+    ],
+    "answer": "A",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "Economic development is broader than economic growth because it includes:",
+    "options": [
+      "A. Only increased output",
+      "B. Only population increase",
+      "C. Improved welfare and structural changes",
+      "D. Only foreign investment"
+    ],
+    "answer": "C",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "A characteristic of developing countries is:",
+    "options": [
+      "A. High per capita income",
+      "B. Low per capita income",
+      "C. Advanced technology",
+      "D. Low population growth"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "One problem of development planning in West Africa is:",
+    "options": [
+      "A. Adequate data availability",
+      "B. Excess skilled manpower",
+      "C. Low population growth",
+      "D. Inadequate statistical data"
+    ],
+    "answer": "D",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "A rolling plan is one that:",
+    "options": [
+      "A. Is fixed for a long period",
+      "B. Is reviewed and updated regularly",
+      "C. Covers only one year",
+      "D. Is prepared once for all"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "The main objective of development planning is to:",
+    "options": [
+      "A. Increase government control over all resources",
+      "B. Reduce international trade",
+      "C. Achieve rapid economic and social development",
+      "D. Eliminate private enterprise"
+    ],
+    "answer": "C",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "A long-term development plan is also called:",
+    "options": [
+      "A. Short-term plan",
+      "B. Perspective plan",
+      "C. Annual plan",
+      "D. Rolling plan"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "One obstacle to economic development in West Africa is:",
+    "options": [
+      "A. Abundant capital",
+      "B. Advanced technology",
+      "C. High savings rate",
+      "D. Political instability"
+    ],
+    "answer": "D",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The difference between economic growth and development is that growth is:",
+    "options": [
+      "A. Qualitative while development is quantitative",
+      "B. Quantitative while development is qualitative",
+      "C. The same as development",
+      "D. Only about population"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "A short-term development plan usually covers a period of:",
+    "options": [
+      "A. 1 to 2 years",
+      "B. 5 to 10 years",
+      "C. 15 to 20 years",
+      "D. 25 to 30 years"
+    ],
+    "answer": "A",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "International trade differs from domestic trade because it involves:",
+    "options": [
+      "A. Only one currency",
+      "B. Different currencies and trade barriers",
+      "C. No transportation costs",
+      "D. Only government buyers"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The principle of comparative cost advantage states that a country should specialize in producing goods in which it has:",
+    "options": [
+      "A. The highest opportunity cost",
+      "B. No production capability",
+      "C. The lowest opportunity cost",
+      "D. The highest absolute cost"
+    ],
+    "answer": "C",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "Terms of trade is the ratio of:",
+    "options": [
+      "A. Export prices to import prices",
+      "B. Import prices to export prices",
+      "C. Export volume to import volume",
+      "D. Tariffs to subsidies"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "A tariff is a:",
+    "options": [
+      "A. Tax on exports",
+      "B. Subsidy on exports",
+      "C. Quota on imports",
+      "D. Tax on imports"
+    ],
+    "answer": "D",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "The balance of payments is a record of:",
+    "options": [
+      "A. All economic transactions with the rest of the world",
+      "B. Only imports and exports of goods",
+      "C. Only government foreign borrowing",
+      "D. Only foreign direct investment"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "The current account of the balance of payments includes:",
+    "options": [
+      "A. Foreign direct investment",
+      "B. Trade in goods and services",
+      "C. Portfolio investment",
+      "D. Changes in reserves"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "A balance of payments deficit means:",
+    "options": [
+      "A. Receipts exceed payments",
+      "B. Trade is balanced",
+      "C. Payments exceed receipts",
+      "D. There is no trade"
+    ],
+    "answer": "C",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "One measure to correct a balance of payments deficit is:",
+    "options": [
+      "A. Devaluation of the currency",
+      "B. Increasing imports",
+      "C. Reducing exports",
+      "D. Increasing government spending"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "Devaluation of a currency makes exports:",
+    "options": [
+      "A. Dearer and imports cheaper",
+      "B. Unaffected in price",
+      "C. Illegal",
+      "D. Cheaper and imports dearer"
+    ],
+    "answer": "D",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "Absolute cost advantage occurs when a country produces a good:",
+    "options": [
+      "A. At a lower absolute cost than another country",
+      "B. At a higher absolute cost than another country",
+      "C. At the same cost as another country",
+      "D. With no cost at all"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "Economic integration is best defined as:",
+    "options": [
+      "A. The separation of national economies",
+      "B. The merging of economies of different countries",
+      "C. The banning of international trade",
+      "D. The imposition of trade barriers"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "ECOWAS stands for:",
+    "options": [
+      "A. East Coast of West African States",
+      "B. Economic Council of West African States",
+      "C. Economic Community of West African States",
+      "D. European Community of West African States"
+    ],
+    "answer": "C",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "A free trade area is characterized by:",
+    "options": [
+      "A. Common external tariffs",
+      "B. Free movement of all factors of production",
+      "C. A single currency",
+      "D. Removal of trade barriers among members"
+    ],
+    "answer": "D",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "A common market differs from a customs union because it allows:",
+    "options": [
+      "A. Only free trade in goods",
+      "B. Free movement of labour and capital",
+      "C. No trade with non-members",
+      "D. A single currency"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 235,
+    "question": "One objective of ECOWAS is to:",
+    "options": [
+      "A. Promote economic integration among member states",
+      "B. Restrict trade among member states",
+      "C. Impose taxes on all exports",
+      "D. Ban migration within the region"
+    ],
+    "answer": "A",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "A major problem of economic integration in West Africa is:",
+    "options": [
+      "A. Excessive uniformity in policies",
+      "B. Absence of natural resources",
+      "C. Differences in political and economic policies",
+      "D. Low population growth"
+    ],
+    "answer": "C",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "A customs union differs from a free trade area by having:",
+    "options": [
+      "A. No common external tariff",
+      "B. A common external tariff",
+      "C. A single currency",
+      "D. Free movement of labour only"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "The ultimate stage of economic integration is:",
+    "options": [
+      "A. Free trade area",
+      "B. Customs union",
+      "C. Common market",
+      "D. Economic union"
+    ],
+    "answer": "D",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 239,
+    "question": "ECOWAS was established primarily to promote:",
+    "options": [
+      "A. Political integration of West Africa",
+      "B. Economic development and integration in West Africa",
+      "C. Military cooperation in West Africa",
+      "D. Cultural exchange in West Africa"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "One challenge facing ECOWAS member states is:",
+    "options": [
+      "A. Excessive economic equality",
+      "B. Uniform economic policies",
+      "C. Differences in currency and language",
+      "D. Low population growth"
+    ],
+    "answer": "C",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "OPEC was formed mainly to:",
+    "options": [
+      "A. Coordinate petroleum policies among member countries",
+      "B. Promote agricultural exports",
+      "C. Regulate international monetary system",
+      "D. Provide development loans"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "The International Monetary Fund (IMF) aims to:",
+    "options": [
+      "A. Build infrastructure in developing countries",
+      "B. Promote international monetary cooperation",
+      "C. Regulate international trade in goods",
+      "D. Provide military assistance"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The International Bank for Reconstruction and Development (IBRD) provides:",
+    "options": [
+      "A. Short-term trade loans",
+      "B. Emergency food aid",
+      "C. Long-term development loans",
+      "D. Military equipment"
+    ],
+    "answer": "C",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The African Development Bank (AfDB) is concerned with:",
+    "options": [
+      "A. Regulating African stock markets",
+      "B. Issuing African currency",
+      "C. Promoting African literature",
+      "D. Financing development projects in Africa"
+    ],
+    "answer": "D",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "UNCTAD was established to promote:",
+    "options": [
+      "A. International trade and development",
+      "B. International military cooperation",
+      "C. International sports competitions",
+      "D. International tourism"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "The Economic Commission for Africa (ECA) is a body of the:",
+    "options": [
+      "A. African Union",
+      "B. United Nations",
+      "C. World Bank",
+      "D. European Union"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "One role of OPEC is to influence:",
+    "options": [
+      "A. World food prices",
+      "B. World gold prices",
+      "C. World oil prices",
+      "D. World cotton prices"
+    ],
+    "answer": "C",
+    "topic": "International Economic Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "A major benefit of IMF to West African countries is:",
+    "options": [
+      "A. Balance of payments support",
+      "B. Supply of agricultural inputs",
+      "C. Construction of rural roads",
+      "D. Provision of military aid"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "The IBRD is part of the:",
+    "options": [
+      "A. International Monetary Fund",
+      "B. African Union",
+      "C. OPEC",
+      "D. World Bank Group"
+    ],
+    "answer": "D",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "The relevance of ECA to West African countries is that it:",
+    "options": [
+      "A. Supports economic research and policy analysis",
+      "B. Provides military protection",
+      "C. Issues currency for member states",
+      "D. Sets interest rates for all African countries"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 251,
+    "question": "Petroleum is a major natural resource in:",
+    "options": [
+      "A. Ghana only",
+      "B. Nigeria",
+      "C. Liberia",
+      "D. Burkina Faso"
+    ],
+    "answer": "B",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "One positive effect of natural resource extraction in West Africa is:",
+    "options": [
+      "A. Generation of foreign exchange earnings",
+      "B. Increase in environmental pollution",
+      "C. Depletion of natural resources",
+      "D. Destruction of farmlands"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "A negative effect of natural resource extraction is:",
+    "options": [
+      "A. Increased foreign exchange earnings",
+      "B. Creation of employment",
+      "C. Environmental degradation",
+      "D. Growth in infrastructure"
+    ],
+    "answer": "C",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "Gold mining in West Africa is prominent in:",
+    "options": [
+      "A. Niger",
+      "B. Gambia",
+      "C. Cape Verde",
+      "D. Ghana"
+    ],
+    "answer": "D",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "One problem associated with over-dependence on a single natural resource is:",
+    "options": [
+      "A. Exposure to price fluctuations",
+      "B. Stable export earnings",
+      "C. Diversified economic base",
+      "D. Reduced import dependence"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Timber is a major natural resource in:",
+    "options": [
+      "A. Niger",
+      "B. Côte d'Ivoire",
+      "C. Mali",
+      "D. Burkina Faso"
+    ],
+    "answer": "B",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "The discovery of petroleum in an economy can lead to the neglect of:",
+    "options": [
+      "A. Agricultural sector",
+      "B. Financial sector",
+      "C. Educational sector",
+      "D. Health sector"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "Groundnut production is historically important in:",
+    "options": [
+      "A. Liberia",
+      "B. Togo",
+      "C. Senegal",
+      "D. Benin"
+    ],
+    "answer": "C",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "Diamond mining is a significant economic activity in:",
+    "options": [
+      "A. Mauritania",
+      "B. Guinea-Bissau",
+      "C. Niger",
+      "D. Sierra Leone"
+    ],
+    "answer": "D",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "One way West African countries can benefit more from natural resources is by:",
+    "options": [
+      "A. Exporting raw materials only",
+      "B. Processing resources locally before export",
+      "C. Reducing local processing capacity",
+      "D. Increasing raw material exports"
+    ],
+    "answer": "B",
+    "topic": "Major Natural Resources",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "The basic economic problem of scarcity means that:",
+    "options": [
+      "A. All wants can be satisfied",
+      "B. Only poor people face scarcity",
+      "C. Resources are limited relative to wants",
+      "D. Government must satisfy all wants"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "A rational consumer will allocate income to maximize:",
+    "options": [
+      "A. Total expenditure",
+      "B. Total utility",
+      "C. Marginal utility only",
+      "D. Average utility only"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Production possibility curve can shift outward due to:",
+    "options": [
+      "A. Unemployment of resources",
+      "B. Decrease in resources",
+      "C. Reduction in capital",
+      "D. Improvement in technology"
+    ],
+    "answer": "D",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "If the price of a good falls and quantity demanded rises, this illustrates:",
+    "options": [
+      "A. Law of demand",
+      "B. Law of supply",
+      "C. Law of diminishing returns",
+      "D. Law of variable proportions"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "The demand curve for a normal good shifts to the right when:",
+    "options": [
+      "A. Consumer income increases",
+      "B. Price of the good rises",
+      "C. Consumer income falls",
+      "D. Price of the good falls"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "Price elasticity of demand is calculated as:",
+    "options": [
+      "A. Percentage change in quantity demanded divided by percentage change in price",
+      "B. Percentage change in price divided by percentage change in quantity demanded",
+      "C. Change in quantity divided by change in price",
+      "D. Change in price divided by change in quantity"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "Demand for a necessity like salt is usually:",
+    "options": [
+      "A. Elastic",
+      "B. Inelastic",
+      "C. Perfectly elastic",
+      "D. Unitary elastic"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "If the price of a good rises and total revenue falls, demand is:",
+    "options": [
+      "A. Inelastic",
+      "B. Elastic",
+      "C. Unitary elastic",
+      "D. Perfectly inelastic"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "Supply curve will shift to the left if:",
+    "options": [
+      "A. Technology improves",
+      "B. Input prices rise",
+      "C. Subsidies increase",
+      "D. Weather improves"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Equilibrium price is the price at which:",
+    "options": [
+      "A. Demand exceeds supply",
+      "B. Supply exceeds demand",
+      "C. Quantity demanded equals quantity supplied",
+      "D. Government fixes prices"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "A price ceiling set below equilibrium price will cause:",
+    "options": [
+      "A. Surplus",
+      "B. Shortage",
+      "C. Equilibrium",
+      "D. Increased supply"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "A price floor set above equilibrium price will cause:",
+    "options": [
+      "A. Shortage",
+      "B. Surplus",
+      "C. Equilibrium",
+      "D. Increased demand"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The law of diminishing marginal utility explains why the demand curve:",
+    "options": [
+      "A. Slopes upward",
+      "B. Slopes downward",
+      "C. Is vertical",
+      "D. Is horizontal"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "Total utility is maximum when marginal utility is:",
+    "options": [
+      "A. Positive",
+      "B. Negative",
+      "C. Zero",
+      "D. Increasing"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "The additional output from employing one more worker is called:",
+    "options": [
+      "A. Average product",
+      "B. Marginal product",
+      "C. Total product",
+      "D. Marginal cost"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "In the short run, a firm's fixed cost is:",
+    "options": [
+      "A. Zero",
+      "B. Constant at all output levels",
+      "C. Increasing with output",
+      "D. Decreasing with output"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Marginal revenue for a perfectly competitive firm equals:",
+    "options": [
+      "A. Price",
+      "B. Average cost",
+      "C. Marginal cost",
+      "D. Fixed cost"
+    ],
+    "answer": "A",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "A monopolist restricts output in order to:",
+    "options": [
+      "A. Lower prices",
+      "B. Raise prices and maximize profit",
+      "C. Increase consumer surplus",
+      "D. Encourage competition"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "A sole proprietorship is easily formed because it requires:",
+    "options": [
+      "A. Complex legal documentation",
+      "B. Large capital",
+      "C. Minimal legal formalities",
+      "D. Many shareholders"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "One advantage of a partnership over a sole proprietorship is:",
+    "options": [
+      "A. Unlimited liability",
+      "B. Larger capital base",
+      "C. Easier decision making",
+      "D. Less government regulation"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Privatization of public enterprises is intended to:",
+    "options": [
+      "A. Increase government control",
+      "B. Improve efficiency through private ownership",
+      "C. Eliminate private businesses",
+      "D. Increase government revenue only"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "The main function of a retailer in the chain of distribution is to:",
+    "options": [
+      "A. Manufacture goods",
+      "B. Sell in small quantities to consumers",
+      "C. Import goods from abroad",
+      "D. Provide raw materials to producers"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "question": "One problem of distribution in West Africa is:",
+    "options": [
+      "A. Efficient road network",
+      "B. Poor storage facilities",
+      "C. Excess supply of goods",
+      "D. Low consumer demand"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Population growth can be measured by the difference between:",
+    "options": [
+      "A. Birth rate and death rate",
+      "B. Immigration and emigration only",
+      "C. Birth rate and immigration",
+      "D. Death rate and emigration"
+    ],
+    "answer": "A",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "The Malthusian theory predicted that population growth would outstrip food supply because:",
+    "options": [
+      "A. Population grows arithmetically",
+      "B. Food supply grows geometrically",
+      "C. Population grows geometrically while food grows arithmetically",
+      "D. Food supply is unlimited"
+    ],
+    "answer": "C",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Under-population occurs when:",
+    "options": [
+      "A. Population exceeds resources",
+      "B. Population is below optimum level",
+      "C. Population equals resources",
+      "D. Birth rate is high"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "One cause of unemployment in West Africa is:",
+    "options": [
+      "A. High level of industrialization",
+      "B. Inadequate skills and education",
+      "C. Low population growth",
+      "D. Excess capital"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The role of agriculture in economic development includes:",
+    "options": [
+      "A. Providing food and raw materials",
+      "B. Increasing imports",
+      "C. Reducing foreign exchange earnings",
+      "D. Decreasing employment"
+    ],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "A major problem of agriculture in West Africa is:",
+    "options": [
+      "A. Excessive mechanization",
+      "B. Poor storage facilities",
+      "C. Overproduction",
+      "D. Excess capital"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "One solution to agricultural problems in West Africa is:",
+    "options": [
+      "A. Reducing access to credit",
+      "B. Providing improved seeds and fertilizers",
+      "C. Banning agricultural extension services",
+      "D. Decreasing investment in research"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Industrialization contributes to economic development by:",
+    "options": [
+      "A. Creating employment and increasing output",
+      "B. Reducing national income",
+      "C. Increasing dependence on primary products",
+      "D. Decreasing foreign exchange earnings"
+    ],
+    "answer": "A",
+    "topic": "Industrialization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "One factor that hinders industrialization in West Africa is:",
+    "options": [
+      "A. Abundant capital",
+      "B. Inadequate infrastructure",
+      "C. Advanced technology",
+      "D. Skilled manpower surplus"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "Import substitution strategy aims to:",
+    "options": [
+      "A. Promote exports",
+      "B. Replace imported goods with local production",
+      "C. Increase imports",
+      "D. Reduce local production"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "National income is the total value of:",
+    "options": [
+      "A. Goods and services produced in a country in a year",
+      "B. Government revenue in a year",
+      "C. Imports in a year",
+      "D. Money supply in a year"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "GNP differs from GDP by including:",
+    "options": [
+      "A. Depreciation",
+      "B. Net factor income from abroad",
+      "C. Indirect taxes",
+      "D. Subsidies"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "One limitation of national income data is that it:",
+    "options": [
+      "A. Ignores income distribution",
+      "B. Includes all economic activities",
+      "C. Accounts for leisure",
+      "D. Measures environmental quality"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "The barter system was inefficient mainly because of:",
+    "options": [
+      "A. Excess money supply",
+      "B. Double coincidence of wants",
+      "C. High inflation",
+      "D. Bank failures"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "The primary function of money is to serve as a:",
+    "options": [
+      "A. Store of value",
+      "B. Medium of exchange",
+      "C. Unit of account",
+      "D. Standard of deferred payment"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "Inflation reduces the purchasing power of money because:",
+    "options": [
+      "A. Prices rise",
+      "B. Prices fall",
+      "C. Money supply falls",
+      "D. Interest rates rise"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "One measure to control inflation is:",
+    "options": [
+      "A. Increasing money supply",
+      "B. Reducing government expenditure",
+      "C. Decreasing interest rates",
+      "D. Printing more money"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The central bank of a country is responsible for:",
+    "options": [
+      "A. Accepting deposits from the public",
+      "B. Issuing currency and controlling money supply",
+      "C. Granting loans to individuals",
+      "D. Operating current accounts"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "Commercial banks create money through:",
+    "options": [
+      "A. Printing currency notes",
+      "B. Credit creation",
+      "C. Selling government bonds",
+      "D. Minting coins"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "The capital market deals in:",
+    "options": [
+      "A. Short-term securities",
+      "B. Long-term securities",
+      "C. Consumer goods",
+      "D. Agricultural produce"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "Insurance companies help individuals and firms to:",
+    "options": [
+      "A. Avoid all risks",
+      "B. Pool and transfer risks",
+      "C. Eliminate taxes",
+      "D. Increase profits"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "Fiscal policy involves the use of:",
+    "options": [
+      "A. Interest rates",
+      "B. Taxation and government spending",
+      "C. Exchange rates",
+      "D. Open market operations"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "An example of direct tax is:",
+    "options": [
+      "A. Value added tax",
+      "B. Personal income tax",
+      "C. Import duty",
+      "D. Excise duty"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "A proportional tax is one where:",
+    "options": [
+      "A. The tax rate varies with income",
+      "B. The tax rate is constant for all income levels",
+      "C. The tax rate decreases as income rises",
+      "D. Only the rich pay tax"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Government recurrent expenditure includes:",
+    "options": [
+      "A. Construction of roads",
+      "B. Payment of salaries",
+      "C. Purchase of machinery",
+      "D. Building of hospitals"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "A budget surplus occurs when:",
+    "options": [
+      "A. Revenue exceeds expenditure",
+      "B. Expenditure exceeds revenue",
+      "C. Revenue equals expenditure",
+      "D. Taxes are reduced"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Economic development is distinguished from economic growth by:",
+    "options": [
+      "A. Increase in output only",
+      "B. Improvement in welfare and structural change",
+      "C. Increase in population",
+      "D. Increase in foreign investment"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "A characteristic of developing countries is:",
+    "options": [
+      "A. Low per capita income",
+      "B. High level of technology",
+      "C. Low population growth",
+      "D. High level of industrialization"
+    ],
+    "answer": "A",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "One problem of development planning is:",
+    "options": [
+      "A. Adequate data",
+      "B. Inadequate statistical data",
+      "C. Excess capital",
+      "D. Low population"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "A perspective plan is also known as a:",
+    "options": [
+      "A. Short-term plan",
+      "B. Long-term plan",
+      "C. Annual plan",
+      "D. Rolling plan"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "The basis of international trade is:",
+    "options": [
+      "A. Equal cost of production",
+      "B. Comparative cost advantage",
+      "C. Absolute disadvantage",
+      "D. Trade barriers"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "A tariff is a tax on:",
+    "options": [
+      "A. Exports",
+      "B. Imports",
+      "C. Domestic goods",
+      "D. Services only"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "The balance of payments records:",
+    "options": [
+      "A. Only imports",
+      "B. Only exports",
+      "C. All international transactions",
+      "D. Only government transactions"
+    ],
+    "answer": "C",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "Devaluation of currency makes exports:",
+    "options": [
+      "A. Cheaper",
+      "B. Dearer",
+      "C. Unchanged",
+      "D. Illegal"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Terms of trade is expressed as the ratio of:",
+    "options": [
+      "A. Export prices to import prices",
+      "B. Import prices to export prices",
+      "C. Export volume to import volume",
+      "D. Tariffs to quotas"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "ECOWAS is an example of:",
+    "options": [
+      "A. Economic integration",
+      "B. Military alliance",
+      "C. Political union",
+      "D. Cultural association"
+    ],
+    "answer": "A",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "One problem of ECOWAS is:",
+    "options": [
+      "A. Uniform currencies",
+      "B. Differences in political and economic policies",
+      "C. Excessive integration",
+      "D. Absence of natural resources"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "The IMF provides:",
+    "options": [
+      "A. Long-term development loans",
+      "B. Short-term balance of payments support",
+      "C. Military assistance",
+      "D. Agricultural inputs"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "OPEC is an organization of:",
+    "options": [
+      "A. Oil exporting countries",
+      "B. Agricultural countries",
+      "C. Developing countries",
+      "D. European countries"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "The African Development Bank provides:",
+    "options": [
+      "A. Military aid",
+      "B. Development loans",
+      "C. Food aid only",
+      "D. Currency notes"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "Petroleum is a major natural resource in:",
+    "options": [
+      "A. Nigeria",
+      "B. Burkina Faso",
+      "C. Mali",
+      "D. Niger"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "Environmental degradation is a negative effect of:",
+    "options": [
+      "A. Natural resource extraction",
+      "B. Agricultural extension",
+      "C. Banking services",
+      "D. Education"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "The law of demand states that, all things being equal, price and quantity demanded are:",
+    "options": [
+      "A. Directly related",
+      "B. Inversely related",
+      "C. Not related",
+      "D. Equal"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "If demand is perfectly inelastic, the elasticity coefficient is:",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Infinity",
+      "D. Greater than one"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "Cross elasticity of demand between complements is:",
+    "options": [
+      "A. Positive",
+      "B. Negative",
+      "C. Zero",
+      "D. Infinite"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 329,
+    "question": "Supply is said to be elastic when:",
+    "options": [
+      "A. Quantity supplied responds greatly to price changes",
+      "B. Quantity supplied is fixed",
+      "C. Price remains constant",
+      "D. Demand is perfectly elastic"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "A shift in the supply curve is caused by a change in:",
+    "options": [
+      "A. Price of the commodity",
+      "B. Technology or input prices",
+      "C. Quantity supplied",
+      "D. Demand"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Equilibrium quantity is determined at the point where:",
+    "options": [
+      "A. Demand exceeds supply",
+      "B. Supply exceeds demand",
+      "C. Demand equals supply",
+      "D. Price is highest"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "Black market is a likely result of:",
+    "options": [
+      "A. Equilibrium pricing",
+      "B. Maximum price legislation",
+      "C. Minimum price legislation",
+      "D. Free market pricing"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The law of diminishing marginal utility states that as consumption increases:",
+    "options": [
+      "A. Marginal utility rises",
+      "B. Marginal utility falls",
+      "C. Total utility falls",
+      "D. Average utility rises"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "question": "Total utility is the sum of:",
+    "options": [
+      "A. Average utilities",
+      "B. Marginal utilities",
+      "C. Fixed costs",
+      "D. Variable costs"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "The law of variable proportions is a short-run concept involving:",
+    "options": [
+      "A. All factors varying",
+      "B. One variable factor with fixed factors",
+      "C. Only fixed factors",
+      "D. Long-run production"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Average product is maximized when it equals:",
+    "options": [
+      "A. Total product",
+      "B. Marginal product",
+      "C. Fixed cost",
+      "D. Marginal cost"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 337,
+    "question": "In the short run, total cost equals:",
+    "options": [
+      "A. Fixed cost only",
+      "B. Variable cost only",
+      "C. Fixed plus variable costs",
+      "D. Marginal cost only"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 338,
+    "question": "The economist's concept of cost includes:",
+    "options": [
+      "A. Only money cost",
+      "B. Opportunity cost",
+      "C. Only fixed cost",
+      "D. Only variable cost"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "A perfectly competitive firm is a price taker because:",
+    "options": [
+      "A. It controls the market price",
+      "B. Its output is too small to affect price",
+      "C. It produces differentiated products",
+      "D. There are few sellers"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "A monopoly is characterized by:",
+    "options": [
+      "A. Many sellers",
+      "B. A single seller",
+      "C. Homogeneous products",
+      "D. Free entry"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "question": "A major disadvantage of a sole proprietorship is:",
+    "options": [
+      "A. Limited liability",
+      "B. Unlimited liability",
+      "C. Easy decision making",
+      "D. Retention of profits"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "A public limited company is owned by:",
+    "options": [
+      "A. The government",
+      "B. Shareholders",
+      "C. A single individual",
+      "D. Partners"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "The main function of a wholesaler is to:",
+    "options": [
+      "A. Sell directly to consumers",
+      "B. Break bulk and supply retailers",
+      "C. Produce goods",
+      "D. Provide credit to consumers"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "One solution to distribution problems in West Africa is:",
+    "options": [
+      "A. Improving transport infrastructure",
+      "B. Increasing the number of middlemen",
+      "C. Banning retail trade",
+      "D. Reducing agricultural production"
+    ],
+    "answer": "A",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "Optimum population is the population that:",
+    "options": [
+      "A. Exceeds available resources",
+      "B. Maximizes output per head",
+      "C. Is below available resources",
+      "D. Has the highest birth rate"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The labour force consists of:",
+    "options": [
+      "A. All citizens",
+      "B. Employed and unemployed seeking work",
+      "C. Only employed persons",
+      "D. Only unemployed persons"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "Agriculture is important because it:",
+    "options": [
+      "A. Employs a large proportion of the population",
+      "B. Contributes little to national income",
+      "C. Is only for export",
+      "D. Requires no government support"
+    ],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "One problem of agriculture in West Africa is:",
+    "options": [
+      "A. Excessive mechanization",
+      "B. Poor storage facilities",
+      "C. Overproduction",
+      "D. Excess capital"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Industrialization contributes to economic development by:",
+    "options": [
+      "A. Creating employment",
+      "B. Reducing national income",
+      "C. Increasing dependence on primary products",
+      "D. Decreasing foreign exchange earnings"
+    ],
+    "answer": "A",
+    "topic": "Industrialization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "One factor hindering industrialization in West Africa is:",
+    "options": [
+      "A. Abundant capital",
+      "B. Inadequate infrastructure",
+      "C. Advanced technology",
+      "D. Skilled manpower surplus"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "GDP is the total value of goods and services produced:",
+    "options": [
+      "A. Within a country's borders",
+      "B. By citizens abroad",
+      "C. By government only",
+      "D. By foreign firms only"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "One problem of measuring national income is:",
+    "options": [
+      "A. Adequate data",
+      "B. Inadequate statistical data",
+      "C. Absence of economic activity",
+      "D. Over-reporting"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Money serves as a store of value when it is:",
+    "options": [
+      "A. Used for daily transactions",
+      "B. Saved for future use",
+      "C. Used as a unit of account",
+      "D. Used for deferred payment"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "Cost-push inflation is caused by:",
+    "options": [
+      "A. Excess demand",
+      "B. Rising production costs",
+      "C. Increased exports",
+      "D. Reduced taxes"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "The central bank controls money supply through:",
+    "options": [
+      "A. Open market operations",
+      "B. Accepting deposits",
+      "C. Granting loans",
+      "D. Operating savings accounts"
+    ],
+    "answer": "A",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A development bank provides:",
+    "options": [
+      "A. Short-term loans",
+      "B. Long-term development loans",
+      "C. Consumer credit",
+      "D. Currency notes"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "An example of indirect tax is:",
+    "options": [
+      "A. Personal income tax",
+      "B. Company tax",
+      "C. Value added tax",
+      "D. Capital gains tax"
+    ],
+    "answer": "C",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "A regressive tax takes a:",
+    "options": [
+      "A. Larger proportion of low incomes",
+      "B. Larger proportion of high incomes",
+      "C. Same proportion of all incomes",
+      "D. Zero proportion of all incomes"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "Economic growth is measured by:",
+    "options": [
+      "A. Increase in real national output",
+      "B. Change in economic structure",
+      "C. Improvement in welfare",
+      "D. Reduction in population"
+    ],
+    "answer": "A",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "A rolling plan is reviewed:",
+    "options": [
+      "A. Once for all",
+      "B. Regularly",
+      "C. Never",
+      "D. After 20 years"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "Comparative cost advantage means a country should produce goods in which it has:",
+    "options": [
+      "A. Highest opportunity cost",
+      "B. Lowest opportunity cost",
+      "C. No capability",
+      "D. Highest absolute cost"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 362,
+    "question": "A balance of payments deficit occurs when:",
+    "options": [
+      "A. Receipts exceed payments",
+      "B. Payments exceed receipts",
+      "C. Trade is balanced",
+      "D. There is no trade"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "ECOWAS aims to promote:",
+    "options": [
+      "A. Economic integration in West Africa",
+      "B. Political union in West Africa",
+      "C. Military cooperation in West Africa",
+      "D. Cultural exchange in West Africa"
+    ],
+    "answer": "A",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "A common market allows:",
+    "options": [
+      "A. Only free trade in goods",
+      "B. Free movement of labour and capital",
+      "C. No trade with non-members",
+      "D. A single currency"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 365,
+    "question": "The IMF provides:",
+    "options": [
+      "A. Long-term development loans",
+      "B. Short-term balance of payments support",
+      "C. Military assistance",
+      "D. Agricultural inputs"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "OPEC is an organization of:",
+    "options": [
+      "A. Oil exporting countries",
+      "B. Agricultural countries",
+      "C. Developing countries",
+      "D. European countries"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "One positive effect of natural resources is:",
+    "options": [
+      "A. Foreign exchange earnings",
+      "B. Environmental pollution",
+      "C. Resource depletion",
+      "D. Farmland destruction"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "One negative effect of natural resource extraction is:",
+    "options": [
+      "A. Foreign exchange earnings",
+      "B. Environmental degradation",
+      "C. Employment creation",
+      "D. Infrastructure growth"
+    ],
+    "answer": "B",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "Opportunity cost is best defined as:",
+    "options": [
+      "A. Money paid for a good",
+      "B. The next best alternative forgone",
+      "C. Total cost of production",
+      "D. Average cost of a good"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "The production possibility curve shows:",
+    "options": [
+      "A. Maximum combination of two goods",
+      "B. Price and quantity relationship",
+      "C. Total cost of production",
+      "D. Income distribution"
+    ],
+    "answer": "A",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "The primary sector includes:",
+    "options": [
+      "A. Banking",
+      "B. Agriculture",
+      "C. Manufacturing",
+      "D. Transport"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "question": "The tertiary sector is concerned with:",
+    "options": [
+      "A. Extraction of raw materials",
+      "B. Processing of raw materials",
+      "C. Provision of services",
+      "D. Manufacturing of goods"
+    ],
+    "answer": "C",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "question": "The reward for labour is:",
+    "options": [
+      "A. Rent",
+      "B. Wages",
+      "C. Interest",
+      "D. Profit"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "Land is fixed in supply because:",
+    "options": [
+      "A. It can be increased easily",
+      "B. Its quantity is limited",
+      "C. It is man-made",
+      "D. It has no uses"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "In a capitalist economy, resources are allocated by:",
+    "options": [
+      "A. Central planning",
+      "B. Price mechanism",
+      "C. Traditional custom",
+      "D. Government decree"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "A mixed economy combines features of:",
+    "options": [
+      "A. Capitalism and socialism",
+      "B. Only capitalism",
+      "C. Only socialism",
+      "D. Traditional and command economies"
+    ],
+    "answer": "A",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "The median of 2, 4, 6, 8, 10 is:",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 8",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "The mode of 1, 2, 2, 3, 4 is:",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "Joint demand occurs when goods are:",
+    "options": [
+      "A. Substitutes",
+      "B. Complements",
+      "C. Independent",
+      "D. Inferior"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "An increase in the price of a substitute will cause demand for the good to:",
+    "options": [
+      "A. Fall",
+      "B. Rise",
+      "C. Remain constant",
+      "D. Become zero"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "Supply is perfectly inelastic when elasticity is:",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Infinity",
+      "D. Greater than one"
+    ],
+    "answer": "A",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "An increase in technology will cause the supply curve to:",
+    "options": [
+      "A. Shift left",
+      "B. Shift right",
+      "C. Remain unchanged",
+      "D. Become vertical"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Maximum price legislation is imposed to:",
+    "options": [
+      "A. Protect producers",
+      "B. Protect consumers",
+      "C. Increase revenue",
+      "D. Encourage imports"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "A surplus occurs when price is:",
+    "options": [
+      "A. At equilibrium",
+      "B. Above equilibrium",
+      "C. Below equilibrium",
+      "D. Fixed by government"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Marginal utility becomes negative when:",
+    "options": [
+      "A. Total utility is rising",
+      "B. Total utility is maximum",
+      "C. Total utility is falling",
+      "D. Total utility is zero"
+    ],
+    "answer": "C",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "Consumer equilibrium is achieved when:",
+    "options": [
+      "A. Marginal utility is maximum",
+      "B. Marginal utility per naira spent is equal for all goods",
+      "C. Total utility is zero",
+      "D. Marginal utility is negative"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "question": "Average product is calculated as:",
+    "options": [
+      "A. Total product divided by input",
+      "B. Change in output divided by change in input",
+      "C. Total product multiplied by input",
+      "D. Total revenue divided by output"
+    ],
+    "answer": "A",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "When marginal product is negative, total product is:",
+    "options": [
+      "A. Rising",
+      "B. Falling",
+      "C. Constant",
+      "D. Zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Average fixed cost:",
+    "options": [
+      "A. Increases with output",
+      "B. Decreases with output",
+      "C. Remains constant",
+      "D. Is always zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "Profit is maximized when:",
+    "options": [
+      "A. Total revenue equals total cost",
+      "B. Marginal revenue equals marginal cost",
+      "C. Average revenue equals average cost",
+      "D. Total revenue is zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "In perfect competition, the demand curve facing the firm is:",
+    "options": [
+      "A. Downward sloping",
+      "B. Perfectly elastic",
+      "C. Upward sloping",
+      "D. Perfectly inelastic"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "Product differentiation is a feature of:",
+    "options": [
+      "A. Perfect competition",
+      "B. Monopoly",
+      "C. Monopolistic competition",
+      "D. Oligopoly"
+    ],
+    "answer": "C",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "A private limited company has a maximum of:",
+    "options": [
+      "A. 10 shareholders",
+      "B. 20 shareholders",
+      "C. 50 shareholders",
+      "D. Unlimited shareholders"
+    ],
+    "answer": "C",
+    "topic": "Business Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 394,
+    "question": "Commercialization of public enterprises means:",
+    "options": [
+      "A. Selling them to private individuals",
+      "B. Making them profit-oriented",
+      "C. Nationalizing them",
+      "D. Closing them down"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "Hoarding of goods leads to:",
+    "options": [
+      "A. Lower prices",
+      "B. Artificial scarcity",
+      "C. Increased supply",
+      "D. Government surplus"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The channel of distribution with no middlemen is:",
+    "options": [
+      "A. Producer to wholesaler to retailer to consumer",
+      "B. Producer directly to consumer",
+      "C. Producer to retailer to consumer",
+      "D. Importer to wholesaler to consumer"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "Over-population occurs when population:",
+    "options": [
+      "A. Is below resources",
+      "B. Exceeds resources",
+      "C. Equals resources",
+      "D. Is evenly distributed"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "Occupational mobility of labour refers to:",
+    "options": [
+      "A. Geographical movement",
+      "B. Change of occupation",
+      "C. Migration abroad",
+      "D. Retirement"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "Minimum agricultural price policies are designed to:",
+    "options": [
+      "A. Keep food prices low",
+      "B. Guarantee farmers a stable income",
+      "C. Discourage production",
+      "D. Increase imports"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "Co-operative farming involves:",
+    "options": [
+      "A. Individual ownership only",
+      "B. Pooling resources together",
+      "C. Government ownership",
+      "D. Foreign ownership"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "Localization of industry refers to concentration in:",
+    "options": [
+      "A. Many regions",
+      "B. A particular area",
+      "C. Foreign countries",
+      "D. Rural areas only"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "Import substitution strategy aims to:",
+    "options": [
+      "A. Promote exports",
+      "B. Replace imports with local production",
+      "C. Increase imports",
+      "D. Reduce local production"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "Per capita income is:",
+    "options": [
+      "A. National income divided by population",
+      "B. Population divided by national income",
+      "C. National income multiplied by population",
+      "D. Government revenue divided by population"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "Which is excluded from national income?",
+    "options": [
+      "A. Sale of new cars",
+      "B. Sale of second-hand goods",
+      "C. Payment for services",
+      "D. Agricultural production"
+    ],
+    "answer": "B",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "The value of money is inversely related to:",
+    "options": [
+      "A. Price level",
+      "B. Money supply only",
+      "C. Interest rate only",
+      "D. Government revenue"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 406,
+    "question": "Demand-pull inflation is caused by:",
+    "options": [
+      "A. Excess demand",
+      "B. Rising costs",
+      "C. Increased money supply only",
+      "D. Price controls"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "The money market deals with:",
+    "options": [
+      "A. Long-term securities",
+      "B. Short-term funds",
+      "C. Foreign exchange only",
+      "D. Real estate"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "A merchant bank is primarily concerned with:",
+    "options": [
+      "A. Retail banking",
+      "B. Wholesale banking",
+      "C. Issuing currency",
+      "D. Regulating stock exchange"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 409,
+    "question": "A progressive tax is one where:",
+    "options": [
+      "A. Tax rate increases with income",
+      "B. Tax rate decreases with income",
+      "C. Tax rate is constant",
+      "D. Everyone pays same amount"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "The incidence of a tax refers to:",
+    "options": [
+      "A. Final resting place of tax burden",
+      "B. Method of collection",
+      "C. Total revenue collected",
+      "D. Tax rate structure"
+    ],
+    "answer": "A",
+    "topic": "Public Finance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 411,
+    "question": "Economic development includes:",
+    "options": [
+      "A. Only increased output",
+      "B. Improved welfare and structural change",
+      "C. Only population increase",
+      "D. Only foreign investment"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "One obstacle to development in West Africa is:",
+    "options": [
+      "A. Abundant capital",
+      "B. Political instability",
+      "C. Advanced technology",
+      "D. High savings rate"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "Terms of trade is the ratio of:",
+    "options": [
+      "A. Export prices to import prices",
+      "B. Import prices to export prices",
+      "C. Export volume to import volume",
+      "D. Tariffs to subsidies"
+    ],
+    "answer": "A",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "A tariff is a tax on:",
+    "options": [
+      "A. Exports",
+      "B. Imports",
+      "C. Domestic goods",
+      "D. Services only"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 415,
+    "question": "ECOWAS was established to promote:",
+    "options": [
+      "A. Economic integration",
+      "B. Political integration",
+      "C. Military cooperation",
+      "D. Cultural exchange"
+    ],
+    "answer": "A",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "One problem of ECOWAS is:",
+    "options": [
+      "A. Uniform currencies",
+      "B. Differences in policies",
+      "C. Excessive integration",
+      "D. Absence of resources"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "The IMF aims to promote:",
+    "options": [
+      "A. International monetary cooperation",
+      "B. Infrastructure development",
+      "C. Trade in goods",
+      "D. Military assistance"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The IBRD provides:",
+    "options": [
+      "A. Short-term trade loans",
+      "B. Long-term development loans",
+      "C. Emergency food aid",
+      "D. Military equipment"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "Gold mining is prominent in:",
+    "options": [
+      "A. Ghana",
+      "B. Niger",
+      "C. Gambia",
+      "D. Cape Verde"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "Over-dependence on one natural resource exposes a country to:",
+    "options": [
+      "A. Price fluctuations",
+      "B. Stable earnings",
+      "C. Diversified economy",
+      "D. Reduced imports"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "The central problem of economics is:",
+    "options": [
+      "A. Inflation",
+      "B. Scarcity",
+      "C. Unemployment",
+      "D. Taxation"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "A production possibility curve shifts outward when:",
+    "options": [
+      "A. Resources are unemployed",
+      "B. Technology improves",
+      "C. Resources decrease",
+      "D. Capital falls"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "Capital as a factor of production includes:",
+    "options": [
+      "A. Land",
+      "B. Machinery",
+      "C. Labour",
+      "D. Entrepreneurship"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "Entrepreneurship involves:",
+    "options": [
+      "A. Only supplying capital",
+      "B. Coordinating factors and bearing risk",
+      "C. Providing labour",
+      "D. Renting land"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "In a socialist economy, resources are allocated by:",
+    "options": [
+      "A. Price mechanism",
+      "B. Central planning",
+      "C. Private entrepreneurs",
+      "D. Consumer sovereignty"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "A disadvantage of capitalism is:",
+    "options": [
+      "A. Efficient allocation",
+      "B. Income inequality",
+      "C. Full employment",
+      "D. Consumer sovereignty"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "The arithmetic mean of 2, 4, 6, 8 is:",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "A pie chart is used to show:",
+    "options": [
+      "A. Trend over time",
+      "B. Proportions of a whole",
+      "C. Relationship between variables",
+      "D. Frequency distribution"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "An exceptional demand curve slopes upward because:",
+    "options": [
+      "A. Consumers expect future price increases",
+      "B. Good is normal",
+      "C. Law of demand holds",
+      "D. Supply exceeds demand"
+    ],
+    "answer": "A",
+    "topic": "Demand",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 430,
+    "question": "Demand for labour is:",
+    "options": [
+      "A. Joint demand",
+      "B. Derived demand",
+      "C. Composite demand",
+      "D. Competitive demand"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "An increase in input prices will cause supply curve to:",
+    "options": [
+      "A. Shift right",
+      "B. Shift left",
+      "C. Remain unchanged",
+      "D. Become horizontal"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "Composite supply refers to supply of:",
+    "options": [
+      "A. Jointly demanded goods",
+      "B. A good with multiple uses",
+      "C. Substitute goods",
+      "D. Complementary goods"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 433,
+    "question": "A shortage occurs when price is:",
+    "options": [
+      "A. At equilibrium",
+      "B. Above equilibrium",
+      "C. Below equilibrium",
+      "D. Fixed by government"
+    ],
+    "answer": "C",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Rationing is used to:",
+    "options": [
+      "A. Increase supply",
+      "B. Allocate scarce goods",
+      "C. Raise prices",
+      "D. Encourage black market"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "When marginal utility is zero, total utility is:",
+    "options": [
+      "A. Maximum",
+      "B. Minimum",
+      "C. Zero",
+      "D. Negative"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "The demand curve is derived from:",
+    "options": [
+      "A. Marginal utility",
+      "B. Total utility",
+      "C. Average utility",
+      "D. Fixed utility"
+    ],
+    "answer": "A",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 437,
+    "question": "Total product is maximized when marginal product is:",
+    "options": [
+      "A. Maximum",
+      "B. Zero",
+      "C. Negative",
+      "D. Rising"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "Internal economies of scale arise from:",
+    "options": [
+      "A. Expansion of firm's size",
+      "B. Growth of industry",
+      "C. Government subsidies",
+      "D. Lower input prices"
+    ],
+    "answer": "A",
+    "topic": "Theory of Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 439,
+    "question": "Marginal cost is the:",
+    "options": [
+      "A. Cost per unit",
+      "B. Total cost divided by output",
+      "C. Additional cost of one more unit",
+      "D. Fixed cost per unit"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "In the long run, all costs are:",
+    "options": [
+      "A. Fixed",
+      "B. Variable",
+      "C. Sunk",
+      "D. Marginal"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "A monopolist faces a demand curve that is:",
+    "options": [
+      "A. Perfectly elastic",
+      "B. Downward sloping",
+      "C. Perfectly inelastic",
+      "D. Horizontal"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Price discrimination involves:",
+    "options": [
+      "A. Same price to all",
+      "B. Different prices to different buyers",
+      "C. Price above equilibrium",
+      "D. Selling at a loss"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "A statutory corporation is established by:",
+    "options": [
+      "A. Private investors",
+      "B. Act of parliament",
+      "C. Co-operative society",
+      "D. Partnership"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "One source of funds for a joint-stock company is:",
+    "options": [
+      "A. Sale of shares",
+      "B. Personal savings",
+      "C. Government subvention",
+      "D. Donations"
+    ],
+    "answer": "A",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "A wholesaler breaks bulk and supplies:",
+    "options": [
+      "A. Consumers",
+      "B. Retailers",
+      "C. Producers",
+      "D. Government"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "One problem of distribution in West Africa is:",
+    "options": [
+      "A. Efficient transport",
+      "B. Poor storage",
+      "C. Excess supply",
+      "D. Low demand"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "The labour force consists of:",
+    "options": [
+      "A. All citizens",
+      "B. Employed and unemployed seeking work",
+      "C. Only employed",
+      "D. Only unemployed"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "Human capital refers to:",
+    "options": [
+      "A. Number of workers",
+      "B. Skills and knowledge of people",
+      "C. Machines",
+      "D. Natural resources"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "Agriculture is important because it:",
+    "options": [
+      "A. Employs many people",
+      "B. Contributes little to income",
+      "C. Is only for export",
+      "D. Requires no support"
+    ],
+    "answer": "A",
+    "topic": "Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "One problem of agriculture is:",
+    "options": [
+      "A. Excessive mechanization",
+      "B. Poor storage",
+      "C. Overproduction",
+      "D. Excess capital"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "Industrialization contributes to development by:",
+    "options": [
+      "A. Creating employment",
+      "B. Reducing national income",
+      "C. Increasing dependence on primary products",
+      "D. Decreasing foreign exchange"
+    ],
+    "answer": "A",
+    "topic": "Industrialization",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 452,
+    "question": "One factor hindering industrialization is:",
+    "options": [
+      "A. Abundant capital",
+      "B. Inadequate infrastructure",
+      "C. Advanced technology",
+      "D. Skilled manpower surplus"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "GDP measures:",
+    "options": [
+      "A. Total output within a country",
+      "B. Total income of citizens abroad",
+      "C. Government expenditure",
+      "D. Total imports"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "GNP equals GDP plus:",
+    "options": [
+      "A. Net factor income from abroad",
+      "B. Depreciation",
+      "C. Indirect taxes",
+      "D. Subsidies"
+    ],
+    "answer": "A",
+    "topic": "National Income",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "Money serves as a medium of exchange when it is:",
+    "options": [
+      "A. Saved",
+      "B. Used to buy goods",
+      "C. Used as a unit of account",
+      "D. Used for deferred payment"
+    ],
+    "answer": "B",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "Inflation is a persistent rise in:",
+    "options": [
+      "A. General price level",
+      "B. Money supply",
+      "C. Interest rate",
+      "D. Exchange rate"
+    ],
+    "answer": "A",
+    "topic": "Money and Inflation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "The central bank issues:",
+    "options": [
+      "A. Currency notes and coins",
+      "B. Shares",
+      "C. Bonds",
+      "D. Treasury bills"
+    ],
+    "answer": "A",
+    "topic": "Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 458,
+    "question": "Commercial banks create money through:",
+    "options": [
+      "A. Printing notes",
+      "B. Credit creation",
+      "C. Selling bonds",
+      "D. Minting coins"
+    ],
+    "answer": "B",
+    "topic": "Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "Fiscal policy involves:",
+    "options": [
+      "A. Interest rates",
+      "B. Taxation and spending",
+      "C. Exchange rates",
+      "D. Open market operations"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "An example of direct tax is:",
+    "options": [
+      "A. VAT",
+      "B. Personal income tax",
+      "C. Import duty",
+      "D. Excise duty"
+    ],
+    "answer": "B",
+    "topic": "Public Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "Economic growth refers to:",
+    "options": [
+      "A. Increase in real output",
+      "B. Change in structure",
+      "C. Improvement in welfare",
+      "D. Reduction in population"
+    ],
+    "answer": "A",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "One problem of development planning is:",
+    "options": [
+      "A. Adequate data",
+      "B. Inadequate data",
+      "C. Excess capital",
+      "D. Low population"
+    ],
+    "answer": "B",
+    "topic": "Economic Development and Planning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "International trade differs from domestic trade because it involves:",
+    "options": [
+      "A. One currency",
+      "B. Different currencies",
+      "C. No transport cost",
+      "D. Only government buyers"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "The basis of international trade is:",
+    "options": [
+      "A. Equal cost",
+      "B. Comparative cost advantage",
+      "C. Absolute disadvantage",
+      "D. Trade barriers"
+    ],
+    "answer": "B",
+    "topic": "International Trade and Balance of Payments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "ECOWAS is an example of:",
+    "options": [
+      "A. Economic integration",
+      "B. Military alliance",
+      "C. Political union",
+      "D. Cultural association"
+    ],
+    "answer": "A",
+    "topic": "Economic Integration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "A free trade area is characterized by:",
+    "options": [
+      "A. Common external tariffs",
+      "B. Removal of trade barriers among members",
+      "C. Free movement of all factors",
+      "D. Single currency"
+    ],
+    "answer": "B",
+    "topic": "Economic Integration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 467,
+    "question": "OPEC was formed to:",
+    "options": [
+      "A. Coordinate petroleum policies",
+      "B. Promote agriculture",
+      "C. Regulate monetary system",
+      "D. Provide development loans"
+    ],
+    "answer": "A",
+    "topic": "International Economic Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 468,
+    "question": "The IMF provides:",
+    "options": [
+      "A. Long-term loans",
+      "B. Short-term balance of payments support",
+      "C. Military aid",
+      "D. Agricultural inputs"
+    ],
+    "answer": "B",
+    "topic": "International Economic Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "Petroleum is a major resource in:",
+    "options": [
+      "A. Nigeria",
+      "B. Burkina Faso",
+      "C. Mali",
+      "D. Niger"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 470,
+    "question": "Environmental degradation is a negative effect of:",
+    "options": [
+      "A. Resource extraction",
+      "B. Agricultural extension",
+      "C. Banking",
+      "D. Education"
+    ],
+    "answer": "A",
+    "topic": "Major Natural Resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "Scale of preference is a list of wants arranged in order of:",
+    "options": [
+      "A. Price",
+      "B. Importance",
+      "C. Quantity",
+      "D. Quality"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "A point on the production possibility curve indicates:",
+    "options": [
+      "A. Underutilization",
+      "B. Full employment",
+      "C. Unattainable combination",
+      "D. Inefficiency"
+    ],
+    "answer": "B",
+    "topic": "Definition and Scope of Economics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "The reward for land is:",
+    "options": [
+      "A. Rent",
+      "B. Profit",
+      "C. Interest",
+      "D. Wages"
+    ],
+    "answer": "A",
+    "topic": "Factors of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "Labour is unique because it is:",
+    "options": [
+      "A. Fixed in supply",
+      "B. Inseparable from the labourer",
+      "C. Always unskilled",
+      "D. Not subject to demand"
+    ],
+    "answer": "B",
+    "topic": "Factors of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "In a capitalist economy, the price mechanism solves:",
+    "options": [
+      "A. Only production problems",
+      "B. The economic problem",
+      "C. Only distribution problems",
+      "D. Only consumption problems"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "One advantage of socialism is:",
+    "options": [
+      "A. Profit maximization",
+      "B. Reduced income inequality",
+      "C. Individual initiative",
+      "D. Free entry"
+    ],
+    "answer": "B",
+    "topic": "Economic Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "The mode of 3, 4, 4, 5, 6 is:",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "The mean of 5, 10, 15 is:",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 15",
+      "D. 30"
+    ],
+    "answer": "B",
+    "topic": "Basic Tools of Economic Analysis",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 479,
+    "question": "A movement along a demand curve is caused by a change in:",
+    "options": [
+      "A. Income",
+      "B. Price of the commodity",
+      "C. Taste",
+      "D. Population"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "An increase in income shifts the demand curve for a normal good to the:",
+    "options": [
+      "A. Left",
+      "B. Right",
+      "C. Same position",
+      "D. Vertical"
+    ],
+    "answer": "B",
+    "topic": "Demand",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A movement along a supply curve is caused by a change in:",
+    "options": [
+      "A. Technology",
+      "B. Input prices",
+      "C. Price of the commodity",
+      "D. Weather"
+    ],
+    "answer": "C",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "An improvement in technology shifts the supply curve to the:",
+    "options": [
+      "A. Left",
+      "B. Right",
+      "C. Same position",
+      "D. Vertical"
+    ],
+    "answer": "B",
+    "topic": "Supply",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "Minimum price legislation is used to:",
+    "options": [
+      "A. Keep prices low",
+      "B. Guarantee minimum income",
+      "C. Discourage production",
+      "D. Increase imports"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "If demand increases and supply is constant, equilibrium price will:",
+    "options": [
+      "A. Fall",
+      "B. Rise",
+      "C. Remain unchanged",
+      "D. Become zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Price Determination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "Average utility is:",
+    "options": [
+      "A. Total utility times quantity",
+      "B. Total utility divided by quantity",
+      "C. Change in total utility",
+      "D. Total utility minus marginal utility"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "If total utility from 3 units is 30 and 4 units is 36, marginal utility of 4th unit is:",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 9",
+      "D. 36"
+    ],
+    "answer": "B",
+    "topic": "Theory of Consumer Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "Division of labour leads to:",
+    "options": [
+      "A. Reduced productivity",
+      "B. Increased specialization",
+      "C. Higher costs",
+      "D. Decreased efficiency"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "When marginal product is greater than average product, average product is:",
+    "options": [
+      "A. Falling",
+      "B. Rising",
+      "C. Constant",
+      "D. Zero"
+    ],
+    "answer": "B",
+    "topic": "Theory of Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "Which is a fixed cost?",
+    "options": [
+      "A. Raw materials",
+      "B. Casual wages",
+      "C. Rent",
+      "D. Electricity"
+    ],
+    "answer": "C",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "If total cost of 5 units is ₦100 and 6 units is ₦120, marginal cost is:",
+    "options": [
+      "A. ₦10",
+      "B. ₦20",
+      "C. ₦100",
+      "D. ₦120"
+    ],
+    "answer": "B",
+    "topic": "Theory of Cost and Revenue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "In perfect competition, a firm is a:",
+    "options": [
+      "A. Price maker",
+      "B. Price taker",
+      "C. Price setter",
+      "D. Price leader"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "A single seller controlling the market is a:",
+    "options": [
+      "A. Duopoly",
+      "B. Monopoly",
+      "C. Oligopoly",
+      "D. Perfect competition"
+    ],
+    "answer": "B",
+    "topic": "Market Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "A sole proprietorship is owned by:",
+    "options": [
+      "A. Many shareholders",
+      "B. One person",
+      "C. Partners",
+      "D. Government"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "Privatization involves transfer from:",
+    "options": [
+      "A. Private to public",
+      "B. Public to private",
+      "C. Foreign to local",
+      "D. Individual to government"
+    ],
+    "answer": "B",
+    "topic": "Business Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "A retailer sells to:",
+    "options": [
+      "A. Wholesalers",
+      "B. Consumers",
+      "C. Producers",
+      "D. Government"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "A commodity board markets:",
+    "options": [
+      "A. Manufactured goods",
+      "B. Agricultural produce",
+      "C. Banking services",
+      "D. Consumer credit"
+    ],
+    "answer": "B",
+    "topic": "Distributive Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "Rural-urban migration is caused by:",
+    "options": [
+      "A. Better rural amenities",
+      "B. Search for better opportunities",
+      "C. High agricultural productivity",
+      "D. Rural overemployment"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "A trade union's main objective is to:",
+    "options": [
+      "A. Maximize profits",
+      "B. Protect members' wages and conditions",
+      "C. Increase taxes",
+      "D. Reduce employment"
+    ],
+    "answer": "B",
+    "topic": "Population and Labour Market",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 499,
+    "question": "Peasant farming is characterized by:",
+    "options": [
+      "A. Large-scale mechanized production",
+      "B. Small-scale subsistence production",
+      "C. State ownership",
+      "D. Modern inputs"
+    ],
+    "answer": "B",
+    "topic": "Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Industrial estates are areas where:",
+    "options": [
+      "A. Only agriculture takes place",
+      "B. Several industries are located",
+      "C. Government offices are concentrated",
+      "D. Residential houses are built"
+    ],
+    "answer": "B",
+    "topic": "Industrialization",
+    "difficulty": "Medium"
+  }
+]

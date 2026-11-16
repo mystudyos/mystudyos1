@@ -1,0 +1,5997 @@
+[
+  {
+    "id": 1,
+    "question": "A map is best defined as a",
+    "options": [
+      "A. drawing of the earth's surface to scale",
+      "B. three-dimensional model of the earth",
+      "C. photograph taken from an aircraft",
+      "D. written description of a place"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a type of map?",
+    "options": ["A. Atlas map", "B. Bar chart", "C. Pie chart", "D. Histogram"],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Topographic maps are used mainly to show",
+    "options": [
+      "A. population distribution only",
+      "B. climate data only",
+      "C. economic activities only",
+      "D. relief and cultural features"
+    ],
+    "answer": "D",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "A map scale of 1:50,000 means that one centimetre represents",
+    "options": [
+      "A. 50 kilometres on the ground",
+      "B. 500 metres on the ground",
+      "C. 5 kilometres on the ground",
+      "D. 50 metres on the ground"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a use of maps?",
+    "options": [
+      "A. Showing distribution of resources",
+      "B. Measuring atmospheric pressure",
+      "C. Planning urban development",
+      "D. Guiding travellers to destinations"
+    ],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Large-scale maps are those that show",
+    "options": [
+      "A. small areas in great detail",
+      "B. large areas in little detail",
+      "C. only physical features",
+      "D. only cultural features"
+    ],
+    "answer": "D",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "The type of map that shows political boundaries is called a",
+    "options": [
+      "A. physical map",
+      "B. political map",
+      "C. climatic map",
+      "D. relief map"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "A sketch map is different from a conventional map because it",
+    "options": [
+      "A. is drawn to exact scale",
+      "B. shows only physical features",
+      "C. uses standard symbols only",
+      "D. is not drawn to scale"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Which map type is most suitable for showing vegetation zones?",
+    "options": [
+      "A. Political map",
+      "B. Road map",
+      "C. Topographic map",
+      "D. Thematic map"
+    ],
+    "answer": "D",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "The main advantage of a map over a photograph is that a map",
+    "options": [
+      "A. is more colourful",
+      "B. shows features to scale",
+      "C. is easier to take",
+      "D. requires no skills"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "A representative fraction scale of 1:100,000 is expressed as",
+    "options": [
+      "A. 1 cm to 1 km",
+      "B. 1 cm to 10 km",
+      "C. 1 cm to 100 km",
+      "D. 1 cm to 100 m"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Which instrument is used to measure distances on a map?",
+    "options": [
+      "A. Dividers",
+      "B. Barometer",
+      "C. Hygrometer",
+      "D. Anemometer"
+    ],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Maps that show the shape of the land using contour lines are called",
+    "options": [
+      "A. political maps",
+      "B. thematic maps",
+      "C. sketch maps",
+      "D. relief maps"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "The scale of a map is important because it",
+    "options": [
+      "A. shows the direction of north",
+      "B. indicates colours used",
+      "C. relates map distance to ground distance",
+      "D. shows the title of the map"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "A small-scale map is likely to show",
+    "options": [
+      "A. a large area with little detail",
+      "B. a small area with much detail",
+      "C. only rivers and roads",
+      "D. only settlements and markets"
+    ],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "A map's key is important because it",
+    "options": [
+      "A. gives the title of the map",
+      "B. shows the scale of the map",
+      "C. indicates the direction of north",
+      "D. explains the symbols used"
+    ],
+    "answer": "D",
+    "topic": "Map work",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a cultural feature on a topographic map?",
+    "options": [
+      "A. Contour line",
+      "B. Trigonometrical station",
+      "C. Settlement",
+      "D. Spot height"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "The bearing of a point is measured",
+    "options": [
+      "A. clockwise from north",
+      "B. anticlockwise from north",
+      "C. clockwise from south",
+      "D. anticlockwise from south"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "A bearing of 090° indicates a direction of",
+    "options": ["A. north", "B. west", "C. east", "D. south"],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "The gradient of a slope is calculated as",
+    "options": [
+      "A. horizontal distance divided by vertical interval",
+      "B. vertical interval divided by horizontal distance",
+      "C. vertical interval multiplied by horizontal distance",
+      "D. horizontal distance multiplied by vertical interval"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Contour lines that are close together indicate",
+    "options": [
+      "A. a gentle slope",
+      "B. a flat plain",
+      "C. a steep slope",
+      "D. a river valley"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "A spur is a landform that",
+    "options": [
+      "A. projects outward from a hill",
+      "B. is a depression between hills",
+      "C. is a flat-topped hill",
+      "D. is a narrow ridge"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "The V-shape of contour lines pointing upstream indicates a",
+    "options": ["A. spur", "B. ridge", "C. plateau", "D. valley"],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "Map reduction involves",
+    "options": [
+      "A. enlarging the map scale",
+      "B. changing the map projection",
+      "C. changing the map title",
+      "D. reducing the map scale"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "A cross profile is used to show",
+    "options": [
+      "A. the shape of the land along a line",
+      "B. the distribution of settlements",
+      "C. the direction of rivers",
+      "D. the types of crops grown"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Inter-visibility between two points depends mainly on",
+    "options": [
+      "A. the distance between the points",
+      "B. the height of the points and intervening relief",
+      "C. the scale of the map",
+      "D. the type of settlement"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "A dendritic drainage pattern is characterized by",
+    "options": [
+      "A. streams flowing in parallel lines",
+      "B. streams radiating from a centre",
+      "C. a tree-like branching pattern",
+      "D. streams forming a rectangular pattern"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "A trellised drainage pattern is commonly found in areas of",
+    "options": [
+      "A. uniform rock resistance",
+      "B. folded sedimentary rocks",
+      "C. volcanic plateaus",
+      "D. flat plains"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 29,
+    "question": "The gradient of a slope is usually expressed as",
+    "options": [
+      "A. a ratio or percentage",
+      "B. a bearing in degrees",
+      "C. a contour interval",
+      "D. a scale fraction"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Settlement patterns on a map can be described as",
+    "options": [
+      "A. dispersed, linear or nucleated",
+      "B. steep, gentle or flat",
+      "C. north, south or east",
+      "D. high, medium or low"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "A nucleated settlement is one in which buildings are",
+    "options": [
+      "A. scattered widely apart",
+      "B. arranged in a line",
+      "C. clustered closely together",
+      "D. built along a river"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Map enlargement involves",
+    "options": [
+      "A. reducing the size of the map",
+      "B. changing the map symbols",
+      "C. removing map details",
+      "D. increasing the size of the map"
+    ],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "A linear settlement commonly develops along",
+    "options": [
+      "A. a road or river",
+      "B. a hilltop",
+      "C. a market square",
+      "D. a lake shore"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Spot heights on a map are used to indicate",
+    "options": [
+      "A. the depth of rivers",
+      "B. the height of points above sea level",
+      "C. the direction of slopes",
+      "D. the distance between features"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The technique of showing relief by shading is called",
+    "options": [
+      "A. hachuring",
+      "B. contouring",
+      "C. spot heighting",
+      "D. hill shading"
+    ],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "A trigonometrical station is shown on a map as a",
+    "options": [
+      "A. small triangle",
+      "B. small circle",
+      "C. small square",
+      "D. small cross"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The main purpose of map interpretation is to",
+    "options": [
+      "A. draw the map accurately",
+      "B. explain the features shown on the map",
+      "C. measure the map scale",
+      "D. calculate the map area"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "A ridge on a map is best identified by contour lines that",
+    "options": [
+      "A. form a V-shape pointing downstream",
+      "B. are closely spaced",
+      "C. form a U-shape",
+      "D. are widely spaced"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "The drainage pattern in which rivers radiate from a central highland is called",
+    "options": ["A. dendritic", "B. trellised", "C. radial", "D. rectangular"],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Surveying is best defined as the science of",
+    "options": [
+      "A. drawing maps from photographs",
+      "B. measuring the earth's surface",
+      "C. studying rocks and minerals",
+      "D. predicting weather changes"
+    ],
+    "answer": "C",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "The instrument used to measure horizontal and vertical angles in surveying is the",
+    "options": [
+      "A. chain",
+      "B. prismatic compass",
+      "C. theodolite",
+      "D. ranging pole"
+    ],
+    "answer": "D",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "A chain survey is suitable for",
+    "options": [
+      "A. large areas with many obstacles",
+      "B. small areas with few obstacles",
+      "C. areas with dense vegetation",
+      "D. areas with steep slopes"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "A prismatic compass is used in surveying to",
+    "options": [
+      "A. measure distances",
+      "B. measure angles and bearings",
+      "C. measure heights",
+      "D. measure areas"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Plotting a traverse involves",
+    "options": [
+      "A. drawing the surveyed points to scale",
+      "B. measuring the angles of a polygon",
+      "C. calculating the area of a field",
+      "D. determining the height of a hill"
+    ],
+    "answer": "A",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Obstacles in the field during surveying can be avoided by",
+    "options": [
+      "A. abandoning the survey",
+      "B. using indirect measurement methods",
+      "C. guessing the distances",
+      "D. using a shorter chain"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "A ranging pole is used in surveying to",
+    "options": [
+      "A. measure angles",
+      "B. mark points along a line",
+      "C. measure heights",
+      "D. record data"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The main advantage of chain survey is that it is",
+    "options": [
+      "A. suitable for all terrains",
+      "B. very accurate for large areas",
+      "C. simple and inexpensive",
+      "D. useful in dense forests"
+    ],
+    "answer": "C",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "GIS stands for",
+    "options": [
+      "A. Geographic Information System",
+      "B. Global Information Service",
+      "C. Geographical Internet System",
+      "D. General Information Survey"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a component of GIS?",
+    "options": [
+      "A. Hardware",
+      "B. Barometer",
+      "C. Hygrometer",
+      "D. Anemometer"
+    ],
+    "answer": "B",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The sources of data for GIS include all EXCEPT",
+    "options": [
+      "A. remote sensing",
+      "B. map digitizing",
+      "C. field investigation",
+      "D. weather forecasting"
+    ],
+    "answer": "C",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "GIS is used in agriculture mainly for",
+    "options": [
+      "A. predicting rainfall",
+      "B. mapping land use and crop distribution",
+      "C. measuring soil pH",
+      "D. planting crops"
+    ],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "A major problem of GIS in West Africa is",
+    "options": [
+      "A. lack of skilled personnel",
+      "B. too much rainfall",
+      "C. high population density",
+      "D. poor soil fertility"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "The component of GIS that refers to the people who operate the system is",
+    "options": ["A. hardware", "B. software", "C. data", "D. experts"],
+    "answer": "B",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Remote sensing involves",
+    "options": [
+      "A. measuring distances on the ground",
+      "B. collecting data from a distance",
+      "C. drawing maps by hand",
+      "D. interviewing people"
+    ],
+    "answer": "C",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "GIS is useful in urban development for",
+    "options": [
+      "A. planting trees",
+      "B. building roads",
+      "C. predicting earthquakes",
+      "D. land use planning"
+    ],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Map digitizing involves",
+    "options": [
+      "A. converting paper maps to digital form",
+      "B. printing digital maps",
+      "C. measuring map scales",
+      "D. drawing maps manually"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The component of GIS that refers to the instructions that run the system is",
+    "options": ["A. hardware", "B. data", "C. experts", "D. software"],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "A bar graph is used to represent",
+    "options": [
+      "A. continuous data",
+      "B. discrete data",
+      "C. proportional data",
+      "D. spatial data"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "A line graph is most suitable for showing",
+    "options": [
+      "A. distribution of rainfall over time",
+      "B. proportion of ethnic groups",
+      "C. density of population",
+      "D. location of towns"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "A pie chart is used to show",
+    "options": [
+      "A. changes over time",
+      "B. proportional distribution",
+      "C. spatial distribution",
+      "D. density of features"
+    ],
+    "answer": "B",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "A dot map is used to show",
+    "options": [
+      "A. continuous variables",
+      "B. proportional relationships",
+      "C. distribution of features",
+      "D. changes over time"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "Proportional circles are used to represent",
+    "options": [
+      "A. continuous data",
+      "B. proportional values",
+      "C. density of population",
+      "D. spatial patterns"
+    ],
+    "answer": "B",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "An isopleth map shows",
+    "options": [
+      "A. lines joining points of equal value",
+      "B. distribution of population",
+      "C. proportional circles",
+      "D. flow lines"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "A flow chart is used to show",
+    "options": [
+      "A. continuous data",
+      "B. proportion of data",
+      "C. density of population",
+      "D. movement of goods or people"
+    ],
+    "answer": "D",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "The main advantage of a bar graph is that it",
+    "options": [
+      "A. shows proportions clearly",
+      "B. shows changes over time",
+      "C. compares quantities easily",
+      "D. shows spatial distribution"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "A density map shows",
+    "options": [
+      "A. the number of features per unit area",
+      "B. the proportion of features",
+      "C. the movement of features",
+      "D. the value of features"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is NOT a statistical diagram?",
+    "options": [
+      "A. Bar graph",
+      "B. Pie chart",
+      "C. Topographic map",
+      "D. Line graph"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "The earth is best described as a",
+    "options": [
+      "A. perfect sphere",
+      "B. flat disc",
+      "C. cylinder",
+      "D. sphere flattened at the poles"
+    ],
+    "answer": "D",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "The earth revolves around the sun once in about",
+    "options": ["A. 24 hours", "B. 365 days", "C. 30 days", "D. 12 hours"],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "The earth rotates on its axis once in about",
+    "options": ["A. 24 hours", "B. 365 days", "C. 12 hours", "D. 30 days"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "The rotation of the earth causes",
+    "options": [
+      "A. the seasons",
+      "B. day and night",
+      "C. the equinoxes",
+      "D. the solstices"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "The revolution of the earth causes",
+    "options": [
+      "A. day and night",
+      "B. the seasons",
+      "C. high and low tides",
+      "D. ocean currents"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Longitude is measured in degrees east or west of the",
+    "options": [
+      "A. equator",
+      "B. prime meridian",
+      "C. tropic of cancer",
+      "D. arctic circle"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Latitude is measured in degrees north or south of the",
+    "options": [
+      "A. prime meridian",
+      "B. equator",
+      "C. tropic of capricorn",
+      "D. antarctic circle"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "The time difference between two places 15° apart in longitude is",
+    "options": ["A. 1 hour", "B. 2 hours", "C. 3 hours", "D. 4 hours"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The earth's crust is also known as the",
+    "options": [
+      "A. mantle",
+      "B. outer core",
+      "C. inner core",
+      "D. lithosphere"
+    ],
+    "answer": "D",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "The layer of the earth between the crust and the core is the",
+    "options": [
+      "A. mantle",
+      "B. lithosphere",
+      "C. atmosphere",
+      "D. hydrosphere"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The standard time of a country is usually based on its",
+    "options": [
+      "A. latitude",
+      "B. central meridian",
+      "C. capital city",
+      "D. equator"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The angle of the earth's tilt on its axis is",
+    "options": ["A. 23.5°", "B. 45°", "C. 66.5°", "D. 90°"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "The international date line is approximately along the",
+    "options": [
+      "A. 0° meridian",
+      "B. 90° meridian",
+      "C. 180° meridian",
+      "D. 270° meridian"
+    ],
+    "answer": "C",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is NOT an effect of the earth's rotation?",
+    "options": [
+      "A. Day and night",
+      "B. Deflection of winds",
+      "C. Occurrence of seasons",
+      "D. Difference in time"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The summer solstice occurs when the sun is overhead at the",
+    "options": [
+      "A. equator",
+      "B. tropic of cancer",
+      "C. tropic of capricorn",
+      "D. arctic circle"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 83,
+    "question": "An equinox occurs when the sun is overhead at the",
+    "options": [
+      "A. equator",
+      "B. tropic of cancer",
+      "C. tropic of capricorn",
+      "D. prime meridian"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "The earth is divided into how many time zones?",
+    "options": ["A. 12", "B. 24", "C. 36", "D. 48"],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The layer of the earth's atmosphere where weather occurs is the",
+    "options": [
+      "A. stratosphere",
+      "B. mesosphere",
+      "C. troposphere",
+      "D. thermosphere"
+    ],
+    "answer": "C",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "Salinity of ocean water is mainly affected by",
+    "options": [
+      "A. evaporation and precipitation",
+      "B. wind and waves",
+      "C. tides and currents",
+      "D. depth and temperature"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Ocean currents are mainly caused by",
+    "options": [
+      "A. rotation of the earth and winds",
+      "B. salinity and temperature",
+      "C. tides and waves",
+      "D. depth and pressure"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Warm ocean currents raise the temperature of adjacent coastlands by",
+    "options": [
+      "A. transporting heat from low latitudes",
+      "B. transporting heat from high latitudes",
+      "C. reflecting sunlight",
+      "D. absorbing rainfall"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "A lake formed by tectonic movements is called a",
+    "options": [
+      "A. oxbow lake",
+      "B. rift valley lake",
+      "C. crater lake",
+      "D. glacial lake"
+    ],
+    "answer": "B",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "A lagoon is a body of water separated from the sea by",
+    "options": [
+      "A. a mountain",
+      "B. a river",
+      "C. a sand bar or reef",
+      "D. a plateau"
+    ],
+    "answer": "C",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "The main source of water for rivers is",
+    "options": [
+      "A. ocean water",
+      "B. underground water",
+      "C. atmospheric precipitation",
+      "D. lake water"
+    ],
+    "answer": "C",
+    "topic": "Hydrosphere",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is an environmental resource?",
+    "options": ["A. Water", "B. Money", "C. Buildings", "D. Vehicles"],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "The three main types of rocks are",
+    "options": [
+      "A. igneous, sedimentary and metamorphic",
+      "B. igneous, volcanic and plutonic",
+      "C. sedimentary, limestone and sandstone",
+      "D. metamorphic, marble and slate"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "Igneous rocks are formed by",
+    "options": [
+      "A. cooling and solidification of magma",
+      "B. deposition of sediments",
+      "C. alteration by heat and pressure",
+      "D. weathering of rocks"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "Sedimentary rocks are formed by",
+    "options": [
+      "A. cooling of magma",
+      "B. deposition and compaction of sediments",
+      "C. alteration by heat",
+      "D. weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "Metamorphic rocks are formed by",
+    "options": [
+      "A. cooling of magma",
+      "B. deposition of sediments",
+      "C. alteration by heat and pressure",
+      "D. weathering of rocks"
+    ],
+    "answer": "C",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is a sedimentary rock?",
+    "options": ["A. Granite", "B. Limestone", "C. Marble", "D. Basalt"],
+    "answer": "B",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is an igneous rock?",
+    "options": ["A. Limestone", "B. Shale", "C. Granite", "D. Sandstone"],
+    "answer": "C",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is a metamorphic rock?",
+    "options": ["A. Granite", "B. Limestone", "C. Shale", "D. Marble"],
+    "answer": "D",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Rocks are useful in agriculture mainly for",
+    "options": [
+      "A. formation of soil",
+      "B. providing rainfall",
+      "C. attracting animals",
+      "D. providing sunlight"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Vulcanicity refers to",
+    "options": [
+      "A. the movement of tectonic plates",
+      "B. the intrusion and extrusion of magma",
+      "C. the weathering of rocks",
+      "D. the deposition of sediments"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "An earthquake is caused by",
+    "options": [
+      "A. volcanic eruption",
+      "B. sudden movement of the earth's crust",
+      "C. weathering of rocks",
+      "D. deposition of sediments"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "A fold mountain is formed by",
+    "options": [
+      "A. folding of sedimentary rocks",
+      "B. deposition of sediments",
+      "C. weathering of rocks",
+      "D. volcanic eruption"
+    ],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "A block mountain is formed by",
+    "options": [
+      "A. folding of rocks",
+      "B. faulting and uplift of the earth's crust",
+      "C. volcanic eruption",
+      "D. weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "A volcanic mountain is formed by",
+    "options": [
+      "A. folding of rocks",
+      "B. faulting of rocks",
+      "C. accumulation of lava and ash",
+      "D. weathering of rocks"
+    ],
+    "answer": "C",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "The point of origin of an earthquake is called the",
+    "options": ["A. epicentre", "B. focus", "C. fault line", "D. seismic wave"],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The point on the earth's surface directly above the earthquake focus is the",
+    "options": ["A. epicentre", "B. fault line", "C. seismic wave", "D. focus"],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "Karst landscapes are associated with the solution of",
+    "options": ["A. granite", "B. limestone", "C. basalt", "D. shale"],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Coastal landforms include all EXCEPT",
+    "options": ["A. beaches", "B. cliffs", "C. spits", "D. spurs"],
+    "answer": "D",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is a landform of volcanic origin?",
+    "options": ["A. Crater", "B. Delta", "C. Beach", "D. Cliff"],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Weathering is best defined as",
+    "options": [
+      "A. the breakdown of rocks in situ",
+      "B. the transportation of rock materials",
+      "C. the deposition of rock materials",
+      "D. the formation of rocks"
+    ],
+    "answer": "A",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Which of the following is a type of physical weathering?",
+    "options": [
+      "A. Carbonation",
+      "B. Oxidation",
+      "C. Frost action",
+      "D. Hydrolysis"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Chemical weathering is most active in",
+    "options": [
+      "A. hot and dry conditions",
+      "B. hot and wet conditions",
+      "C. cold and dry conditions",
+      "D. cold and wet conditions"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Mass movement refers to",
+    "options": [
+      "A. the movement of people",
+      "B. the downslope movement of earth materials",
+      "C. the movement of rivers",
+      "D. the movement of winds"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "A landslide is a type of",
+    "options": [
+      "A. erosion",
+      "B. weathering",
+      "C. mass movement",
+      "D. deposition"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Running water is an important agent of",
+    "options": [
+      "A. weathering",
+      "B. erosion and deposition",
+      "C. mass movement",
+      "D. metamorphism"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "Wind erosion is most active in",
+    "options": [
+      "A. humid regions",
+      "B. arid regions",
+      "C. temperate regions",
+      "D. polar regions"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "Wave erosion is most active along",
+    "options": ["A. coasts", "B. plateaus", "C. mountains", "D. valleys"],
+    "answer": "A",
+    "topic": "Denudational processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "Underground water is an important agent of",
+    "options": [
+      "A. wind erosion",
+      "B. chemical weathering and erosion",
+      "C. mass movement",
+      "D. tectonic activity"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "A cirque is a landform associated with",
+    "options": [
+      "A. river erosion",
+      "B. wind erosion",
+      "C. glacial erosion",
+      "D. wave erosion"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "Weather is best defined as the",
+    "options": [
+      "A. average condition of the atmosphere over a long period",
+      "B. condition of the atmosphere at a particular time",
+      "C. study of the atmosphere",
+      "D. movement of air masses"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "Climate is best defined as the",
+    "options": [
+      "A. condition of the atmosphere at a particular time",
+      "B. average condition of the atmosphere over a long period",
+      "C. study of the atmosphere",
+      "D. movement of air masses"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "The instrument used to measure rainfall is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "C",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "The instrument used to measure atmospheric pressure is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "The instrument used to measure humidity is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "D",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "The instrument used to measure wind direction is the",
+    "options": [
+      "A. wind vane",
+      "B. anemometer",
+      "C. barometer",
+      "D. hygrometer"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "The Stevenson screen is used to",
+    "options": [
+      "A. measure rainfall",
+      "B. house weather instruments",
+      "C. measure wind speed",
+      "D. measure sunshine"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The Stevenson screen is painted white to",
+    "options": [
+      "A. attract sunlight",
+      "B. reflect sunlight",
+      "C. absorb heat",
+      "D. prevent rust"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "The instrument used to measure sunshine duration is the",
+    "options": [
+      "A. sunshine recorder",
+      "B. barometer",
+      "C. hygrometer",
+      "D. anemometer"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Temperature generally decreases with increase in",
+    "options": [
+      "A. latitude",
+      "B. longitude",
+      "C. altitude",
+      "D. distance from the sea"
+    ],
+    "answer": "C",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "The factor that affects climate due to the distance from the sea is called",
+    "options": [
+      "A. altitude",
+      "B. continentality",
+      "C. latitude",
+      "D. ocean currents"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Land and sea breezes are caused by",
+    "options": [
+      "A. differences in heating of land and sea",
+      "B. rotation of the earth",
+      "C. ocean currents",
+      "D. altitude"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "A sea breeze blows from the sea to the land during the",
+    "options": ["A. night", "B. day", "C. morning", "D. evening"],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "A land breeze blows from the land to the sea during the",
+    "options": ["A. night", "B. day", "C. afternoon", "D. morning"],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The hot and wet climate of the equatorial region is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "The tropical continental climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The desert climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "The Koppen classification of climate is based on",
+    "options": [
+      "A. temperature and rainfall",
+      "B. latitude and longitude",
+      "C. altitude and relief",
+      "D. ocean currents and winds"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "The Greek classification of climate is based on",
+    "options": [
+      "A. temperature and rainfall",
+      "B. latitude and sunshine",
+      "C. altitude and relief",
+      "D. ocean currents and winds"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "The temperate climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. moderate temperature and moderate rainfall",
+      "C. low temperature and low rainfall",
+      "D. high temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "The equatorial climate is found in areas between",
+    "options": [
+      "A. 0° and 10° latitude",
+      "B. 10° and 20° latitude",
+      "C. 20° and 30° latitude",
+      "D. 30° and 40° latitude"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "The tropical continental climate is also known as the",
+    "options": [
+      "A. savanna climate",
+      "B. desert climate",
+      "C. equatorial climate",
+      "D. monsoon climate"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Climate change refers to",
+    "options": [
+      "A. short-term changes in weather",
+      "B. long-term changes in climate patterns",
+      "C. seasonal changes in rainfall",
+      "D. daily changes in temperature"
+    ],
+    "answer": "B",
+    "topic": "Climate change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "A major cause of climate change is",
+    "options": [
+      "A. deforestation",
+      "B. afforestation",
+      "C. irrigation",
+      "D. crop rotation"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "An effect of climate change is",
+    "options": [
+      "A. rising sea levels",
+      "B. decreasing temperatures",
+      "C. increasing rainfall everywhere",
+      "D. decreasing desertification"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "A remedy for climate change is",
+    "options": [
+      "A. increasing deforestation",
+      "B. reducing greenhouse gas emissions",
+      "C. burning fossil fuels",
+      "D. increasing industrial activities"
+    ],
+    "answer": "B",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "The greenhouse effect is caused by",
+    "options": [
+      "A. accumulation of greenhouse gases in the atmosphere",
+      "B. depletion of the ozone layer",
+      "C. volcanic eruptions only",
+      "D. ocean currents"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Tropical rainforest is characterized by",
+    "options": [
+      "A. tall trees with dense canopy",
+      "B. short grasses and scattered trees",
+      "C. sparse vegetation",
+      "D. only shrubs and herbs"
+    ],
+    "answer": "A",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Tropical grassland is also known as",
+    "options": ["A. rainforest", "B. savanna", "C. desert", "D. tundra"],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "The main factor affecting the distribution of vegetation is",
+    "options": [
+      "A. soil type",
+      "B. climate",
+      "C. altitude",
+      "D. human activity"
+    ],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Vegetation is an important environmental resource because it",
+    "options": [
+      "A. provides food and timber",
+      "B. causes soil erosion",
+      "C. reduces rainfall",
+      "D. increases pollution"
+    ],
+    "answer": "A",
+    "topic": "Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Conservation of vegetation resources involves",
+    "options": [
+      "A. indiscriminate felling of trees",
+      "B. controlled harvesting and afforestation",
+      "C. bush burning",
+      "D. overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The type of vegetation found in the desert is",
+    "options": [
+      "A. rainforest",
+      "B. savanna",
+      "C. xerophytic vegetation",
+      "D. temperate woodland"
+    ],
+    "answer": "C",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Soil is best defined as",
+    "options": [
+      "A. the loose surface material of the earth's crust",
+      "B. the solid rock beneath the earth",
+      "C. the water in the ground",
+      "D. the air above the earth"
+    ],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "The factors of soil formation include all EXCEPT",
+    "options": [
+      "A. parent rock",
+      "B. climate",
+      "C. organisms",
+      "D. ocean currents"
+    ],
+    "answer": "D",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "The soil profile is divided into layers called",
+    "options": ["A. horizons", "B. textures", "C. structures", "D. aggregates"],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Soil erosion is best defined as",
+    "options": [
+      "A. the formation of soil",
+      "B. the removal of topsoil by agents of erosion",
+      "C. the deposition of soil",
+      "D. the weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "A method of soil conservation is",
+    "options": [
+      "A. bush burning",
+      "B. overgrazing",
+      "C. terracing",
+      "D. deforestation"
+    ],
+    "answer": "C",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "The most fertile soil horizon is the",
+    "options": ["A. A-horizon", "B. B-horizon", "C. C-horizon", "D. D-horizon"],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Soil texture refers to the",
+    "options": [
+      "A. arrangement of soil particles",
+      "B. relative proportions of sand, silt and clay",
+      "C. colour of the soil",
+      "D. depth of the soil"
+    ],
+    "answer": "B",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "Environmental resources are classified into",
+    "options": [
+      "A. renewable and non-renewable",
+      "B. living and non-living",
+      "C. natural and artificial",
+      "D. physical and human"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["A. Petroleum", "B. Coal", "C. Vegetation", "D. Natural gas"],
+    "answer": "C",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is a non-renewable resource?",
+    "options": ["A. Water", "B. Soil", "C. Vegetation", "D. Petroleum"],
+    "answer": "D",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The importance of water as an environmental resource includes",
+    "options": [
+      "A. domestic and industrial use",
+      "B. causing pollution",
+      "C. increasing erosion",
+      "D. destroying vegetation"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Minerals are important environmental resources because they",
+    "options": [
+      "A. provide raw materials for industries",
+      "B. cause soil erosion",
+      "C. reduce rainfall",
+      "D. increase pollution"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "Environmental hazards include all EXCEPT",
+    "options": [
+      "A. flooding",
+      "B. drought",
+      "C. pollution",
+      "D. afforestation"
+    ],
+    "answer": "D",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Flooding is caused by",
+    "options": [
+      "A. excessive rainfall and poor drainage",
+      "B. low rainfall",
+      "C. high temperature",
+      "D. strong winds"
+    ],
+    "answer": "A",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Drought is caused by",
+    "options": [
+      "A. excessive rainfall",
+      "B. prolonged period of low rainfall",
+      "C. high humidity",
+      "D. strong winds"
+    ],
+    "answer": "B",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "Desert encroachment is a problem associated with",
+    "options": [
+      "A. humid regions",
+      "B. arid and semi-arid regions",
+      "C. temperate regions",
+      "D. polar regions"
+    ],
+    "answer": "B",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Soil erosion can be prevented by",
+    "options": [
+      "A. bush burning",
+      "B. overgrazing",
+      "C. planting cover crops",
+      "D. deforestation"
+    ],
+    "answer": "C",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "Environmental conservation means",
+    "options": [
+      "A. the wise use and protection of natural resources",
+      "B. the destruction of natural resources",
+      "C. the exploitation of resources",
+      "D. the pollution of resources"
+    ],
+    "answer": "A",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "A method of environmental conservation is",
+    "options": [
+      "A. deforestation",
+      "B. afforestation",
+      "C. bush burning",
+      "D. overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "The importance of environmental conservation includes",
+    "options": [
+      "A. maintaining ecological balance",
+      "B. increasing pollution",
+      "C. destroying habitats",
+      "D. depleting resources"
+    ],
+    "answer": "A",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "World population growth is affected by",
+    "options": [
+      "A. birth rate, death rate and migration",
+      "B. rainfall and temperature",
+      "C. soil and vegetation",
+      "D. relief and drainage"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "Population distribution is affected by",
+    "options": [
+      "A. physical and human factors",
+      "B. only physical factors",
+      "C. only human factors",
+      "D. only economic factors"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "A high population growth rate can lead to",
+    "options": [
+      "A. pressure on resources",
+      "B. abundant resources",
+      "C. low unemployment",
+      "D. high living standards"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "Population movement from rural to urban areas is called",
+    "options": [
+      "A. rural-urban migration",
+      "B. urban-rural migration",
+      "C. international migration",
+      "D. seasonal migration"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "A settlement is best defined as",
+    "options": [
+      "A. a place where people live",
+      "B. a place where people work",
+      "C. a place where people worship",
+      "D. a place where people trade"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "Rural settlements are characterized by",
+    "options": [
+      "A. high population density",
+      "B. agricultural activities",
+      "C. industrial activities",
+      "D. commercial activities"
+    ],
+    "answer": "B",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "Urban settlements are characterized by",
+    "options": [
+      "A. agricultural activities",
+      "B. low population density",
+      "C. commercial and industrial activities",
+      "D. scattered buildings"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "A nucleated settlement pattern is one in which buildings are",
+    "options": [
+      "A. scattered",
+      "B. arranged in a line",
+      "C. clustered together",
+      "D. built along a river"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "A dispersed settlement pattern is one in which buildings are",
+    "options": [
+      "A. clustered together",
+      "B. scattered widely apart",
+      "C. arranged in a line",
+      "D. built around a market"
+    ],
+    "answer": "B",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "A linear settlement pattern develops along",
+    "options": [
+      "A. a road or river",
+      "B. a hilltop",
+      "C. a market square",
+      "D. a lake shore"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "The main function of a rural settlement is",
+    "options": [
+      "A. agriculture",
+      "B. manufacturing",
+      "C. administration",
+      "D. tourism"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "The main function of an urban settlement is",
+    "options": [
+      "A. agriculture",
+      "B. fishing",
+      "C. administration and commerce",
+      "D. lumbering"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Transportation is important for economic development because it",
+    "options": [
+      "A. facilitates movement of goods and people",
+      "B. increases pollution",
+      "C. causes accidents",
+      "D. reduces trade"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "Which mode of transport is most suitable for bulky goods over long distances?",
+    "options": ["A. Air", "B. Rail", "C. Road", "D. Pipeline"],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Which mode of transport is the fastest?",
+    "options": ["A. Rail", "B. Road", "C. Water", "D. Air"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "Pipeline transport is mainly used for",
+    "options": [
+      "A. transporting people",
+      "B. transporting petroleum products",
+      "C. transporting food items",
+      "D. transporting livestock"
+    ],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "A problem of road transportation in West Africa is",
+    "options": [
+      "A. poor road maintenance",
+      "B. adequate road network",
+      "C. low vehicle population",
+      "D. efficient traffic management"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "Water transport is important for",
+    "options": [
+      "A. moving bulky goods",
+      "B. moving perishable goods",
+      "C. moving people quickly",
+      "D. moving goods by air"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "Industry is classified into",
+    "options": [
+      "A. primary, secondary and tertiary",
+      "B. heavy, light and medium",
+      "C. rural, urban and suburban",
+      "D. local, national and international"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Primary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Secondary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "B",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Tertiary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "C",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A factor of industrial location is",
+    "options": [
+      "A. availability of raw materials",
+      "B. ocean currents",
+      "C. soil type",
+      "D. vegetation type"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Heavy industries are those that",
+    "options": [
+      "A. use large amounts of raw materials and energy",
+      "B. use small amounts of raw materials",
+      "C. produce light goods",
+      "D. employ few workers"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "Trade is best defined as",
+    "options": [
+      "A. the exchange of goods and services",
+      "B. the production of goods",
+      "C. the consumption of goods",
+      "D. the storage of goods"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "National trade involves exchange of goods within",
+    "options": [
+      "A. a country",
+      "B. two countries",
+      "C. many countries",
+      "D. a continent"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "International trade involves exchange of goods between",
+    "options": [
+      "A. regions within a country",
+      "B. different countries",
+      "C. local markets",
+      "D. villages"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Tourism is best defined as",
+    "options": [
+      "A. the movement of people for leisure or business",
+      "B. the movement of goods",
+      "C. the production of goods",
+      "D. the consumption of goods"
+    ],
+    "answer": "A",
+    "topic": "Tourism",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "A reason for tourism is",
+    "options": [
+      "A. leisure and recreation",
+      "B. manufacturing",
+      "C. mining",
+      "D. fishing"
+    ],
+    "answer": "A",
+    "topic": "Tourism",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "A problem of tourism in West Africa is",
+    "options": [
+      "A. inadequate infrastructure",
+      "B. abundant wildlife",
+      "C. good roads",
+      "D. stable government"
+    ],
+    "answer": "A",
+    "topic": "Tourism",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "Nigeria is located in which part of West Africa?",
+    "options": ["A. East", "B. North", "C. South", "D. West"],
+    "answer": "D",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "The capital of Nigeria is",
+    "options": ["A. Lagos", "B. Kano", "C. Abuja", "D. Ibadan"],
+    "answer": "C",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "question": "Nigeria shares a border with all EXCEPT",
+    "options": ["A. Benin", "B. Niger", "C. Chad", "D. Ghana"],
+    "answer": "D",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "The largest river in Nigeria is the",
+    "options": ["A. Niger", "B. Benue", "C. Kaduna", "D. Ogun"],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "The highest point in Nigeria is",
+    "options": [
+      "A. Chappal Waddi",
+      "B. Zuma Rock",
+      "C. Olumo Rock",
+      "D. Oban Hills"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Petroleum is mainly found in Nigeria in the",
+    "options": [
+      "A. Niger Delta",
+      "B. Jos Plateau",
+      "C. Sokoto Basin",
+      "D. Chad Basin"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "The major cash crop of Nigeria is",
+    "options": ["A. cocoa", "B. millet", "C. sorghum", "D. yam"],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "The vegetation of southern Nigeria is mainly",
+    "options": ["A. rainforest", "B. savanna", "C. desert", "D. tundra"],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "The vegetation of northern Nigeria is mainly",
+    "options": ["A. rainforest", "B. savanna", "C. desert", "D. tundra"],
+    "answer": "B",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "Nigeria operates a system of government known as",
+    "options": [
+      "A. federal system",
+      "B. unitary system",
+      "C. confederal system",
+      "D. monarchical system"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Community of West African States",
+      "B. Economic Council of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "A",
+    "topic": "ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "question": "ECOWAS was established in",
+    "options": ["A. 1960", "B. 1965", "C. 1975", "D. 1980"],
+    "answer": "C",
+    "topic": "ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "The headquarters of ECOWAS is in",
+    "options": ["A. Lagos", "B. Accra", "C. Abuja", "D. Lome"],
+    "answer": "C",
+    "topic": "ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "A purpose of ECOWAS is to",
+    "options": [
+      "A. promote economic integration",
+      "B. promote political division",
+      "C. restrict trade",
+      "D. increase tariffs"
+    ],
+    "answer": "A",
+    "topic": "ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "A problem of ECOWAS is",
+    "options": [
+      "A. political instability in member states",
+      "B. too much integration",
+      "C. low tariffs",
+      "D. free movement"
+    ],
+    "answer": "A",
+    "topic": "ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Ghana is located in which part of West Africa?",
+    "options": ["A. East", "B. North", "C. South", "D. West"],
+    "answer": "D",
+    "topic": "Regional geography of Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "question": "The capital of Ghana is",
+    "options": ["A. Lagos", "B. Accra", "C. Kano", "D. Ibadan"],
+    "answer": "B",
+    "topic": "Regional geography of Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "The Akosombo Dam is located in",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "B",
+    "topic": "Regional geography of Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The main mineral export of Ghana is",
+    "options": ["A. petroleum", "B. gold", "C. tin", "D. coal"],
+    "answer": "B",
+    "topic": "Regional geography of Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Sierra Leone is located in which part of West Africa?",
+    "options": ["A. East", "B. North", "C. South", "D. West"],
+    "answer": "D",
+    "topic": "Regional geography of Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "The capital of Sierra Leone is",
+    "options": ["A. Freetown", "B. Monrovia", "C. Conakry", "D. Banjul"],
+    "answer": "A",
+    "topic": "Regional geography of Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "Liberia is located in which part of West Africa?",
+    "options": ["A. East", "B. North", "C. South", "D. West"],
+    "answer": "D",
+    "topic": "Regional geography of Liberia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "The capital of Liberia is",
+    "options": ["A. Freetown", "B. Monrovia", "C. Conakry", "D. Banjul"],
+    "answer": "B",
+    "topic": "Regional geography of Liberia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "Senegambia refers to the union of",
+    "options": [
+      "A. Senegal and Gambia",
+      "B. Senegal and Guinea",
+      "C. Gambia and Guinea",
+      "D. Senegal and Mali"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Senegambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "The capital of Senegal is",
+    "options": ["A. Dakar", "B. Banjul", "C. Conakry", "D. Freetown"],
+    "answer": "A",
+    "topic": "Regional geography of Senegambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "The capital of The Gambia is",
+    "options": ["A. Dakar", "B. Banjul", "C. Conakry", "D. Freetown"],
+    "answer": "B",
+    "topic": "Regional geography of Senegambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "Africa is the second largest continent in the world after",
+    "options": ["A. Asia", "B. Europe", "C. North America", "D. South America"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "The largest desert in Africa is the",
+    "options": ["A. Sahara", "B. Kalahari", "C. Namib", "D. Danakil"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "The longest river in Africa is the",
+    "options": ["A. Nile", "B. Niger", "C. Congo", "D. Zambezi"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "The highest mountain in Africa is",
+    "options": [
+      "A. Mount Kilimanjaro",
+      "B. Mount Kenya",
+      "C. Mount Cameroon",
+      "D. Mount Elgon"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "Irrigation agriculture in Africa is practiced in the",
+    "options": [
+      "A. Nile Basin",
+      "B. Sahara Desert",
+      "C. Kalahari Desert",
+      "D. Namib Desert"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "Plantation agriculture in West Africa is associated with",
+    "options": [
+      "A. cocoa and oil palm",
+      "B. wheat and barley",
+      "C. tea and coffee",
+      "D. rubber and sisal"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Oil production in Africa is carried out in",
+    "options": [
+      "A. Nigeria, Ghana and Libya",
+      "B. Nigeria, Ghana and Kenya",
+      "C. Nigeria, Libya and Egypt",
+      "D. Nigeria, Ghana and South Africa"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "Lumbering in Equatorial Africa is practiced in",
+    "options": [
+      "A. Cote d'Ivoire and Zaire",
+      "B. Nigeria and Ghana",
+      "C. Kenya and Tanzania",
+      "D. Egypt and Libya"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Gold mining in Africa is best developed in",
+    "options": ["A. South Africa", "B. Nigeria", "C. Ghana", "D. Kenya"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Copper mining in Africa is carried out in",
+    "options": [
+      "A. Zambia and Zaire",
+      "B. Nigeria and Ghana",
+      "C. Kenya and Tanzania",
+      "D. Egypt and Libya"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Fieldwork is important in geography because it",
+    "options": [
+      "A. provides first-hand information",
+      "B. replaces classroom learning",
+      "C. increases theoretical knowledge",
+      "D. reduces practical skills"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "A market survey is a type of",
+    "options": [
+      "A. fieldwork",
+      "B. laboratory work",
+      "C. classroom work",
+      "D. library work"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "The main advantage of fieldwork is that it",
+    "options": [
+      "A. makes geography real and practical",
+      "B. replaces textbooks",
+      "C. eliminates the need for maps",
+      "D. reduces student interest"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The main disadvantage of a small-scale map is that it",
+    "options": [
+      "A. shows little detail",
+      "B. shows too much detail",
+      "C. is difficult to draw",
+      "D. is difficult to read"
+    ],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Which type of map is best for showing the distribution of population?",
+    "options": [
+      "A. Topographic map",
+      "B. Political map",
+      "C. Thematic map",
+      "D. Road map"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "A map scale of 1:10,000 means that one centimetre represents",
+    "options": [
+      "A. 1 kilometre",
+      "B. 100 metres",
+      "C. 10 metres",
+      "D. 10 kilometres"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "The direction of a river's flow can be determined on a map using",
+    "options": [
+      "A. contour lines",
+      "B. the V-shape of contours",
+      "C. spot heights",
+      "D. grid lines"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "A slope with widely spaced contour lines is described as",
+    "options": ["A. steep", "B. gentle", "C. vertical", "D. concave"],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The vertical interval between two contour lines is called the",
+    "options": [
+      "A. contour interval",
+      "B. gradient",
+      "C. spot height",
+      "D. cross profile"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "A river valley can be identified on a map by contour lines that",
+    "options": [
+      "A. form a V-shape pointing upstream",
+      "B. form a U-shape",
+      "C. are closely spaced",
+      "D. are widely spaced"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "The scale of a map is expressed as",
+    "options": [
+      "A. a statement, representative fraction or linear scale",
+      "B. only a statement",
+      "C. only a representative fraction",
+      "D. only a linear scale"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "The most accurate method of measuring distance on a map is by using",
+    "options": [
+      "A. a ruler",
+      "B. a piece of string",
+      "C. dividers",
+      "D. the naked eye"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "A bearing of 180° indicates a direction of",
+    "options": ["A. north", "B. south", "C. east", "D. west"],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "Map interpretation requires the ability to",
+    "options": [
+      "A. draw maps",
+      "B. analyse map features",
+      "C. measure map scales",
+      "D. calculate map areas"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "A settlement pattern in which buildings are arranged along a road is called",
+    "options": ["A. dispersed", "B. nucleated", "C. linear", "D. radial"],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "The main factor determining the location of a settlement on a map is",
+    "options": ["A. relief", "B. latitude", "C. longitude", "D. altitude"],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "The term \"relief\" on a map refers to",
+    "options": [
+      "A. the height and shape of the land",
+      "B. the type of vegetation",
+      "C. the pattern of settlement",
+      "D. the type of soil"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "A spur can be distinguished from a valley on a map by the",
+    "options": [
+      "A. direction of the V-shape of contour lines",
+      "B. spacing of contour lines",
+      "C. height of the land",
+      "D. type of vegetation"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "A gradient of 1:5 means that for every 5 units of horizontal distance, the vertical rise is",
+    "options": ["A. 1 unit", "B. 5 units", "C. 10 units", "D. 25 units"],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "Surveying is important in geography because it helps in",
+    "options": [
+      "A. accurate measurement of the earth's surface",
+      "B. prediction of weather",
+      "C. study of rocks",
+      "D. classification of soils"
+    ],
+    "answer": "A",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "The instrument used to measure distances in chain survey is the",
+    "options": ["A. chain", "B. compass", "C. theodolite", "D. ranging pole"],
+    "answer": "A",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "A chain survey is not suitable for",
+    "options": [
+      "A. small areas",
+      "B. areas with few obstacles",
+      "C. flat terrain",
+      "D. areas with many obstacles"
+    ],
+    "answer": "D",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The main advantage of prismatic compass survey is that it",
+    "options": [
+      "A. is simple and fast",
+      "B. is very accurate",
+      "C. requires no equipment",
+      "D. is suitable for all terrains"
+    ],
+    "answer": "A",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "GIS is important in defence for",
+    "options": [
+      "A. mapping and surveillance",
+      "B. planting crops",
+      "C. building houses",
+      "D. measuring rainfall"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "Which of the following is a source of GIS data?",
+    "options": [
+      "A. Remote sensing",
+      "B. Barometer",
+      "C. Hygrometer",
+      "D. Anemometer"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "A major problem of GIS in West Africa is",
+    "options": [
+      "A. inadequate power supply",
+      "B. too much rainfall",
+      "C. high population density",
+      "D. poor soil fertility"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The use of GIS in transportation is mainly for",
+    "options": [
+      "A. route planning and traffic management",
+      "B. planting trees",
+      "C. building roads",
+      "D. measuring rainfall"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "A line graph is most suitable for showing",
+    "options": [
+      "A. distribution of rainfall over time",
+      "B. proportion of ethnic groups",
+      "C. density of population",
+      "D. location of towns"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "A pie chart is used to show",
+    "options": [
+      "A. changes over time",
+      "B. proportional distribution",
+      "C. spatial distribution",
+      "D. density of features"
+    ],
+    "answer": "B",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "A dot map is used to show",
+    "options": [
+      "A. continuous variables",
+      "B. proportional relationships",
+      "C. distribution of features",
+      "D. changes over time"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "The earth's revolution around the sun causes",
+    "options": [
+      "A. day and night",
+      "B. the seasons",
+      "C. high and low tides",
+      "D. ocean currents"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The time difference between two places 30° apart in longitude is",
+    "options": ["A. 1 hour", "B. 2 hours", "C. 3 hours", "D. 4 hours"],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "The layer of the earth between the crust and the core is the",
+    "options": [
+      "A. mantle",
+      "B. lithosphere",
+      "C. atmosphere",
+      "D. hydrosphere"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The angle of the earth's tilt on its axis is",
+    "options": ["A. 23.5°", "B. 45°", "C. 66.5°", "D. 90°"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "The international date line is approximately along the",
+    "options": [
+      "A. 0° meridian",
+      "B. 90° meridian",
+      "C. 180° meridian",
+      "D. 270° meridian"
+    ],
+    "answer": "C",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "Salinity of ocean water is mainly affected by",
+    "options": [
+      "A. evaporation and precipitation",
+      "B. wind and waves",
+      "C. tides and currents",
+      "D. depth and temperature"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Ocean currents are mainly caused by",
+    "options": [
+      "A. rotation of the earth and winds",
+      "B. salinity and temperature",
+      "C. tides and waves",
+      "D. depth and pressure"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "A lake formed by tectonic movements is called a",
+    "options": [
+      "A. oxbow lake",
+      "B. rift valley lake",
+      "C. crater lake",
+      "D. glacial lake"
+    ],
+    "answer": "B",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "The three main types of rocks are",
+    "options": [
+      "A. igneous, sedimentary and metamorphic",
+      "B. igneous, volcanic and plutonic",
+      "C. sedimentary, limestone and sandstone",
+      "D. metamorphic, marble and slate"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "Metamorphic rocks are formed by",
+    "options": [
+      "A. cooling of magma",
+      "B. deposition of sediments",
+      "C. alteration by heat and pressure",
+      "D. weathering of rocks"
+    ],
+    "answer": "C",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "An earthquake is caused by",
+    "options": [
+      "A. volcanic eruption",
+      "B. sudden movement of the earth's crust",
+      "C. weathering of rocks",
+      "D. deposition of sediments"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "A fold mountain is formed by",
+    "options": [
+      "A. folding of sedimentary rocks",
+      "B. deposition of sediments",
+      "C. weathering of rocks",
+      "D. volcanic eruption"
+    ],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Weathering is best defined as",
+    "options": [
+      "A. the breakdown of rocks in situ",
+      "B. the transportation of rock materials",
+      "C. the deposition of rock materials",
+      "D. the formation of rocks"
+    ],
+    "answer": "A",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "Chemical weathering is most active in",
+    "options": [
+      "A. hot and dry conditions",
+      "B. hot and wet conditions",
+      "C. cold and dry conditions",
+      "D. cold and wet conditions"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Mass movement refers to",
+    "options": [
+      "A. the movement of people",
+      "B. the downslope movement of earth materials",
+      "C. the movement of rivers",
+      "D. the movement of winds"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Weather is best defined as the",
+    "options": [
+      "A. average condition of the atmosphere over a long period",
+      "B. condition of the atmosphere at a particular time",
+      "C. study of the atmosphere",
+      "D. movement of air masses"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "The instrument used to measure atmospheric pressure is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The Stevenson screen is painted white to",
+    "options": [
+      "A. attract sunlight",
+      "B. reflect sunlight",
+      "C. absorb heat",
+      "D. prevent rust"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The hot and wet climate of the equatorial region is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Climate change refers to",
+    "options": [
+      "A. short-term changes in weather",
+      "B. long-term changes in climate patterns",
+      "C. seasonal changes in rainfall",
+      "D. daily changes in temperature"
+    ],
+    "answer": "B",
+    "topic": "Climate change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "Tropical rainforest is characterized by",
+    "options": [
+      "A. tall trees with dense canopy",
+      "B. short grasses and scattered trees",
+      "C. sparse vegetation",
+      "D. only shrubs and herbs"
+    ],
+    "answer": "A",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "The main factor affecting the distribution of vegetation is",
+    "options": [
+      "A. soil type",
+      "B. climate",
+      "C. altitude",
+      "D. human activity"
+    ],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "Soil is best defined as",
+    "options": [
+      "A. the loose surface material of the earth's crust",
+      "B. the solid rock beneath the earth",
+      "C. the water in the ground",
+      "D. the air above the earth"
+    ],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 293,
+    "question": "The most fertile soil horizon is the",
+    "options": ["A. A-horizon", "B. B-horizon", "C. C-horizon", "D. D-horizon"],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["A. Petroleum", "B. Coal", "C. Vegetation", "D. Natural gas"],
+    "answer": "C",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "Flooding is caused by",
+    "options": [
+      "A. excessive rainfall and poor drainage",
+      "B. low rainfall",
+      "C. high temperature",
+      "D. strong winds"
+    ],
+    "answer": "A",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Environmental conservation means",
+    "options": [
+      "A. the wise use and protection of natural resources",
+      "B. the destruction of natural resources",
+      "C. the exploitation of resources",
+      "D. the pollution of resources"
+    ],
+    "answer": "A",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "World population growth is affected by",
+    "options": [
+      "A. birth rate, death rate and migration",
+      "B. rainfall and temperature",
+      "C. soil and vegetation",
+      "D. relief and drainage"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "Rural settlements are characterized by",
+    "options": [
+      "A. high population density",
+      "B. agricultural activities",
+      "C. industrial activities",
+      "D. commercial activities"
+    ],
+    "answer": "B",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "Which mode of transport is the fastest?",
+    "options": ["A. Rail", "B. Road", "C. Water", "D. Air"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "Primary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "Trade is best defined as",
+    "options": [
+      "A. the exchange of goods and services",
+      "B. the production of goods",
+      "C. the consumption of goods",
+      "D. the storage of goods"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "Tourism is best defined as",
+    "options": [
+      "A. the movement of people for leisure or business",
+      "B. the movement of goods",
+      "C. the production of goods",
+      "D. the consumption of goods"
+    ],
+    "answer": "A",
+    "topic": "Tourism",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "The capital of Nigeria is",
+    "options": ["A. Lagos", "B. Kano", "C. Abuja", "D. Ibadan"],
+    "answer": "C",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "The largest river in Nigeria is the",
+    "options": ["A. Niger", "B. Benue", "C. Kaduna", "D. Ogun"],
+    "answer": "A",
+    "topic": "Regional geography of Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Community of West African States",
+      "B. Economic Council of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "A",
+    "topic": "ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 306,
+    "question": "The Akosombo Dam is located in",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "B",
+    "topic": "Regional geography of Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The capital of Sierra Leone is",
+    "options": ["A. Freetown", "B. Monrovia", "C. Conakry", "D. Banjul"],
+    "answer": "A",
+    "topic": "Regional geography of Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "question": "The capital of Liberia is",
+    "options": ["A. Freetown", "B. Monrovia", "C. Conakry", "D. Banjul"],
+    "answer": "B",
+    "topic": "Regional geography of Liberia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "Senegambia refers to the union of",
+    "options": [
+      "A. Senegal and Gambia",
+      "B. Senegal and Guinea",
+      "C. Gambia and Guinea",
+      "D. Senegal and Mali"
+    ],
+    "answer": "A",
+    "topic": "Regional geography of Senegambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Africa is the second largest continent in the world after",
+    "options": ["A. Asia", "B. Europe", "C. North America", "D. South America"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "question": "The largest desert in Africa is the",
+    "options": ["A. Sahara", "B. Kalahari", "C. Namib", "D. Danakil"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "The longest river in Africa is the",
+    "options": ["A. Nile", "B. Niger", "C. Congo", "D. Zambezi"],
+    "answer": "A",
+    "topic": "Regional geography of Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Fieldwork is important in geography because it",
+    "options": [
+      "A. provides first-hand information",
+      "B. replaces classroom learning",
+      "C. increases theoretical knowledge",
+      "D. reduces practical skills"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "A market survey is a type of",
+    "options": [
+      "A. fieldwork",
+      "B. laboratory work",
+      "C. classroom work",
+      "D. library work"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "The main advantage of fieldwork is that it",
+    "options": [
+      "A. makes geography real and practical",
+      "B. replaces textbooks",
+      "C. eliminates the need for maps",
+      "D. reduces student interest"
+    ],
+    "answer": "A",
+    "topic": "Fieldwork",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The main disadvantage of a small-scale map is that it",
+    "options": [
+      "A. shows little detail",
+      "B. shows too much detail",
+      "C. is difficult to draw",
+      "D. is difficult to read"
+    ],
+    "answer": "A",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "Which type of map is best for showing the distribution of population?",
+    "options": [
+      "A. Topographic map",
+      "B. Political map",
+      "C. Thematic map",
+      "D. Road map"
+    ],
+    "answer": "C",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "A map scale of 1:10,000 means that one centimetre represents",
+    "options": [
+      "A. 1 kilometre",
+      "B. 100 metres",
+      "C. 10 metres",
+      "D. 10 kilometres"
+    ],
+    "answer": "B",
+    "topic": "Map work",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "The direction of a river's flow can be determined on a map using",
+    "options": [
+      "A. contour lines",
+      "B. the V-shape of contours",
+      "C. spot heights",
+      "D. grid lines"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "A slope with widely spaced contour lines is described as",
+    "options": ["A. steep", "B. gentle", "C. vertical", "D. concave"],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "A bearing of 270° indicates a direction of",
+    "options": ["A. north", "B. south", "C. east", "D. west"],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Contour lines that are close together indicate",
+    "options": [
+      "A. a gentle slope",
+      "B. a flat plain",
+      "C. a steep slope",
+      "D. a river valley"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "A spur is a landform that",
+    "options": [
+      "A. projects outward from a hill",
+      "B. is a depression between hills",
+      "C. is a flat-topped hill",
+      "D. is a narrow ridge"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "Map reduction involves",
+    "options": [
+      "A. enlarging the map scale",
+      "B. changing the map projection",
+      "C. changing the map title",
+      "D. reducing the map scale"
+    ],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "A cross profile is used to show",
+    "options": [
+      "A. the shape of the land along a line",
+      "B. the distribution of settlements",
+      "C. the direction of rivers",
+      "D. the types of crops grown"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Inter-visibility between two points depends mainly on",
+    "options": [
+      "A. the distance between the points",
+      "B. the height of the points and intervening relief",
+      "C. the scale of the map",
+      "D. the type of settlement"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 327,
+    "question": "A dendritic drainage pattern is characterized by",
+    "options": [
+      "A. streams flowing in parallel lines",
+      "B. streams radiating from a centre",
+      "C. a tree-like branching pattern",
+      "D. streams forming a rectangular pattern"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 328,
+    "question": "The gradient of a slope is usually expressed as",
+    "options": [
+      "A. a ratio or percentage",
+      "B. a bearing in degrees",
+      "C. a contour interval",
+      "D. a scale fraction"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "Settlement patterns on a map can be described as",
+    "options": [
+      "A. dispersed, linear or nucleated",
+      "B. steep, gentle or flat",
+      "C. north, south or east",
+      "D. high, medium or low"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "A nucleated settlement is one in which buildings are",
+    "options": [
+      "A. scattered widely apart",
+      "B. arranged in a line",
+      "C. clustered closely together",
+      "D. built along a river"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Map enlargement involves",
+    "options": [
+      "A. reducing the size of the map",
+      "B. changing the map symbols",
+      "C. removing map details",
+      "D. increasing the size of the map"
+    ],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "A linear settlement commonly develops along",
+    "options": [
+      "A. a road or river",
+      "B. a hilltop",
+      "C. a market square",
+      "D. a lake shore"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "Spot heights on a map are used to indicate",
+    "options": [
+      "A. the depth of rivers",
+      "B. the height of points above sea level",
+      "C. the direction of slopes",
+      "D. the distance between features"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "The technique of showing relief by shading is called",
+    "options": [
+      "A. hachuring",
+      "B. contouring",
+      "C. spot heighting",
+      "D. hill shading"
+    ],
+    "answer": "D",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "A trigonometrical station is shown on a map as a",
+    "options": [
+      "A. small triangle",
+      "B. small circle",
+      "C. small square",
+      "D. small cross"
+    ],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "The main purpose of map interpretation is to",
+    "options": [
+      "A. draw the map accurately",
+      "B. explain the features shown on the map",
+      "C. measure the map scale",
+      "D. calculate the map area"
+    ],
+    "answer": "B",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "A ridge on a map is best identified by contour lines that",
+    "options": [
+      "A. form a V-shape pointing downstream",
+      "B. are closely spaced",
+      "C. form a U-shape",
+      "D. are widely spaced"
+    ],
+    "answer": "C",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 338,
+    "question": "The drainage pattern in which rivers radiate from a central highland is called",
+    "options": ["A. dendritic", "B. trellised", "C. radial", "D. rectangular"],
+    "answer": "A",
+    "topic": "Map reading and interpretation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 339,
+    "question": "Surveying is best defined as the science of",
+    "options": [
+      "A. drawing maps from photographs",
+      "B. measuring the earth's surface",
+      "C. studying rocks and minerals",
+      "D. predicting weather changes"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "The instrument used to measure horizontal and vertical angles in surveying is the",
+    "options": [
+      "A. chain",
+      "B. prismatic compass",
+      "C. theodolite",
+      "D. ranging pole"
+    ],
+    "answer": "C",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "A chain survey is suitable for",
+    "options": [
+      "A. large areas with many obstacles",
+      "B. small areas with few obstacles",
+      "C. areas with dense vegetation",
+      "D. areas with steep slopes"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "A prismatic compass is used in surveying to",
+    "options": [
+      "A. measure distances",
+      "B. measure angles and bearings",
+      "C. measure heights",
+      "D. measure areas"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Plotting a traverse involves",
+    "options": [
+      "A. drawing the surveyed points to scale",
+      "B. measuring the angles of a polygon",
+      "C. calculating the area of a field",
+      "D. determining the height of a hill"
+    ],
+    "answer": "A",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "Obstacles in the field during surveying can be avoided by",
+    "options": [
+      "A. abandoning the survey",
+      "B. using indirect measurement methods",
+      "C. guessing the distances",
+      "D. using a shorter chain"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "question": "A ranging pole is used in surveying to",
+    "options": [
+      "A. measure angles",
+      "B. mark points along a line",
+      "C. measure heights",
+      "D. record data"
+    ],
+    "answer": "B",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The main advantage of chain survey is that it is",
+    "options": [
+      "A. suitable for all terrains",
+      "B. very accurate for large areas",
+      "C. simple and inexpensive",
+      "D. useful in dense forests"
+    ],
+    "answer": "C",
+    "topic": "Principles of elementary surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "GIS stands for",
+    "options": [
+      "A. Geographic Information System",
+      "B. Global Information Service",
+      "C. Geographical Internet System",
+      "D. General Information Survey"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "Which of the following is a component of GIS?",
+    "options": [
+      "A. Hardware",
+      "B. Barometer",
+      "C. Hygrometer",
+      "D. Anemometer"
+    ],
+    "answer": "B",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "The sources of data for GIS include all EXCEPT",
+    "options": [
+      "A. remote sensing",
+      "B. map digitizing",
+      "C. field investigation",
+      "D. weather forecasting"
+    ],
+    "answer": "C",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "GIS is used in agriculture mainly for",
+    "options": [
+      "A. predicting rainfall",
+      "B. mapping land use and crop distribution",
+      "C. measuring soil pH",
+      "D. planting crops"
+    ],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "A major problem of GIS in West Africa is",
+    "options": [
+      "A. lack of skilled personnel",
+      "B. too much rainfall",
+      "C. high population density",
+      "D. poor soil fertility"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "The component of GIS that refers to the people who operate the system is",
+    "options": ["A. hardware", "B. software", "C. data", "D. experts"],
+    "answer": "B",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Remote sensing involves",
+    "options": [
+      "A. measuring distances on the ground",
+      "B. collecting data from a distance",
+      "C. drawing maps by hand",
+      "D. interviewing people"
+    ],
+    "answer": "C",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "GIS is useful in urban development for",
+    "options": [
+      "A. planting trees",
+      "B. building roads",
+      "C. predicting earthquakes",
+      "D. land use planning"
+    ],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Map digitizing involves",
+    "options": [
+      "A. converting paper maps to digital form",
+      "B. printing digital maps",
+      "C. measuring map scales",
+      "D. drawing maps manually"
+    ],
+    "answer": "A",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "The component of GIS that refers to the instructions that run the system is",
+    "options": ["A. hardware", "B. data", "C. experts", "D. software"],
+    "answer": "D",
+    "topic": "Geographic Information System",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "A bar graph is used to represent",
+    "options": [
+      "A. continuous data",
+      "B. discrete data",
+      "C. proportional data",
+      "D. spatial data"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "A line graph is most suitable for showing",
+    "options": [
+      "A. distribution of rainfall over time",
+      "B. proportion of ethnic groups",
+      "C. density of population",
+      "D. location of towns"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "A pie chart is used to show",
+    "options": [
+      "A. changes over time",
+      "B. proportional distribution",
+      "C. spatial distribution",
+      "D. density of features"
+    ],
+    "answer": "B",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "A dot map is used to show",
+    "options": [
+      "A. continuous variables",
+      "B. proportional relationships",
+      "C. distribution of features",
+      "D. changes over time"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "Proportional circles are used to represent",
+    "options": [
+      "A. continuous data",
+      "B. proportional values",
+      "C. density of population",
+      "D. spatial patterns"
+    ],
+    "answer": "B",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "An isopleth map shows",
+    "options": [
+      "A. lines joining points of equal value",
+      "B. distribution of population",
+      "C. proportional circles",
+      "D. flow lines"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "A flow chart is used to show",
+    "options": [
+      "A. continuous data",
+      "B. proportion of data",
+      "C. density of population",
+      "D. movement of goods or people"
+    ],
+    "answer": "D",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The main advantage of a bar graph is that it",
+    "options": [
+      "A. shows proportions clearly",
+      "B. shows changes over time",
+      "C. compares quantities easily",
+      "D. shows spatial distribution"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "A density map shows",
+    "options": [
+      "A. the number of features per unit area",
+      "B. the proportion of features",
+      "C. the movement of features",
+      "D. the value of features"
+    ],
+    "answer": "A",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "Which of the following is NOT a statistical diagram?",
+    "options": [
+      "A. Bar graph",
+      "B. Pie chart",
+      "C. Topographic map",
+      "D. Line graph"
+    ],
+    "answer": "C",
+    "topic": "Statistical maps and diagrams",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "The earth is best described as a",
+    "options": [
+      "A. perfect sphere",
+      "B. flat disc",
+      "C. cylinder",
+      "D. sphere flattened at the poles"
+    ],
+    "answer": "D",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "The earth revolves around the sun once in about",
+    "options": ["A. 24 hours", "B. 365 days", "C. 30 days", "D. 12 hours"],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "The earth rotates on its axis once in about",
+    "options": ["A. 24 hours", "B. 365 days", "C. 12 hours", "D. 30 days"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "The rotation of the earth causes",
+    "options": [
+      "A. the seasons",
+      "B. day and night",
+      "C. the equinoxes",
+      "D. the solstices"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "The revolution of the earth causes",
+    "options": [
+      "A. day and night",
+      "B. the seasons",
+      "C. high and low tides",
+      "D. ocean currents"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "Longitude is measured in degrees east or west of the",
+    "options": [
+      "A. equator",
+      "B. prime meridian",
+      "C. tropic of cancer",
+      "D. arctic circle"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Latitude is measured in degrees north or south of the",
+    "options": [
+      "A. prime meridian",
+      "B. equator",
+      "C. tropic of capricorn",
+      "D. antarctic circle"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "The time difference between two places 15° apart in longitude is",
+    "options": ["A. 1 hour", "B. 2 hours", "C. 3 hours", "D. 4 hours"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "The earth's crust is also known as the",
+    "options": [
+      "A. mantle",
+      "B. outer core",
+      "C. inner core",
+      "D. lithosphere"
+    ],
+    "answer": "D",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "The layer of the earth between the crust and the core is the",
+    "options": [
+      "A. mantle",
+      "B. lithosphere",
+      "C. atmosphere",
+      "D. hydrosphere"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "The standard time of a country is usually based on its",
+    "options": [
+      "A. latitude",
+      "B. central meridian",
+      "C. capital city",
+      "D. equator"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "The angle of the earth's tilt on its axis is",
+    "options": ["A. 23.5°", "B. 45°", "C. 66.5°", "D. 90°"],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "The international date line is approximately along the",
+    "options": [
+      "A. 0° meridian",
+      "B. 90° meridian",
+      "C. 180° meridian",
+      "D. 270° meridian"
+    ],
+    "answer": "C",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "Which of the following is NOT an effect of the earth's rotation?",
+    "options": [
+      "A. Day and night",
+      "B. Deflection of winds",
+      "C. Occurrence of seasons",
+      "D. Difference in time"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 381,
+    "question": "The summer solstice occurs when the sun is overhead at the",
+    "options": [
+      "A. equator",
+      "B. tropic of cancer",
+      "C. tropic of capricorn",
+      "D. arctic circle"
+    ],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "An equinox occurs when the sun is overhead at the",
+    "options": [
+      "A. equator",
+      "B. tropic of cancer",
+      "C. tropic of capricorn",
+      "D. prime meridian"
+    ],
+    "answer": "A",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "The earth is divided into how many time zones?",
+    "options": ["A. 12", "B. 24", "C. 36", "D. 48"],
+    "answer": "B",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "The layer of the earth's atmosphere where weather occurs is the",
+    "options": [
+      "A. stratosphere",
+      "B. mesosphere",
+      "C. troposphere",
+      "D. thermosphere"
+    ],
+    "answer": "C",
+    "topic": "Earth as a planet",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Salinity of ocean water is mainly affected by",
+    "options": [
+      "A. evaporation and precipitation",
+      "B. wind and waves",
+      "C. tides and currents",
+      "D. depth and temperature"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Ocean currents are mainly caused by",
+    "options": [
+      "A. rotation of the earth and winds",
+      "B. salinity and temperature",
+      "C. tides and waves",
+      "D. depth and pressure"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Warm ocean currents raise the temperature of adjacent coastlands by",
+    "options": [
+      "A. transporting heat from low latitudes",
+      "B. transporting heat from high latitudes",
+      "C. reflecting sunlight",
+      "D. absorbing rainfall"
+    ],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "A lake formed by tectonic movements is called a",
+    "options": [
+      "A. oxbow lake",
+      "B. rift valley lake",
+      "C. crater lake",
+      "D. glacial lake"
+    ],
+    "answer": "B",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "A lagoon is a body of water separated from the sea by",
+    "options": [
+      "A. a mountain",
+      "B. a river",
+      "C. a sand bar or reef",
+      "D. a plateau"
+    ],
+    "answer": "C",
+    "topic": "Hydrosphere",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "The main source of water for rivers is",
+    "options": [
+      "A. ocean water",
+      "B. underground water",
+      "C. atmospheric precipitation",
+      "D. lake water"
+    ],
+    "answer": "C",
+    "topic": "Hydrosphere",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "question": "Which of the following is an environmental resource?",
+    "options": ["A. Water", "B. Money", "C. Buildings", "D. Vehicles"],
+    "answer": "A",
+    "topic": "Hydrosphere",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "The three main types of rocks are",
+    "options": [
+      "A. igneous, sedimentary and metamorphic",
+      "B. igneous, volcanic and plutonic",
+      "C. sedimentary, limestone and sandstone",
+      "D. metamorphic, marble and slate"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "question": "Igneous rocks are formed by",
+    "options": [
+      "A. cooling and solidification of magma",
+      "B. deposition of sediments",
+      "C. alteration by heat and pressure",
+      "D. weathering of rocks"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 394,
+    "question": "Sedimentary rocks are formed by",
+    "options": [
+      "A. cooling of magma",
+      "B. deposition and compaction of sediments",
+      "C. alteration by heat",
+      "D. weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "Metamorphic rocks are formed by",
+    "options": [
+      "A. cooling of magma",
+      "B. deposition of sediments",
+      "C. alteration by heat and pressure",
+      "D. weathering of rocks"
+    ],
+    "answer": "C",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "Which of the following is a sedimentary rock?",
+    "options": ["A. Granite", "B. Limestone", "C. Marble", "D. Basalt"],
+    "answer": "B",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Which of the following is an igneous rock?",
+    "options": ["A. Limestone", "B. Shale", "C. Granite", "D. Sandstone"],
+    "answer": "C",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Which of the following is a metamorphic rock?",
+    "options": ["A. Granite", "B. Limestone", "C. Shale", "D. Marble"],
+    "answer": "D",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "Rocks are useful in agriculture mainly for",
+    "options": [
+      "A. formation of soil",
+      "B. providing rainfall",
+      "C. attracting animals",
+      "D. providing sunlight"
+    ],
+    "answer": "A",
+    "topic": "Rocks",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "Vulcanicity refers to",
+    "options": [
+      "A. the movement of tectonic plates",
+      "B. the intrusion and extrusion of magma",
+      "C. the weathering of rocks",
+      "D. the deposition of sediments"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "An earthquake is caused by",
+    "options": [
+      "A. volcanic eruption",
+      "B. sudden movement of the earth's crust",
+      "C. weathering of rocks",
+      "D. deposition of sediments"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 402,
+    "question": "A fold mountain is formed by",
+    "options": [
+      "A. folding of sedimentary rocks",
+      "B. deposition of sediments",
+      "C. weathering of rocks",
+      "D. volcanic eruption"
+    ],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "A block mountain is formed by",
+    "options": [
+      "A. folding of rocks",
+      "B. faulting and uplift of the earth's crust",
+      "C. volcanic eruption",
+      "D. weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "A volcanic mountain is formed by",
+    "options": [
+      "A. folding of rocks",
+      "B. faulting of rocks",
+      "C. accumulation of lava and ash",
+      "D. weathering of rocks"
+    ],
+    "answer": "C",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "The point of origin of an earthquake is called the",
+    "options": ["A. epicentre", "B. focus", "C. fault line", "D. seismic wave"],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "The point on the earth's surface directly above the earthquake focus is the",
+    "options": ["A. epicentre", "B. fault line", "C. seismic wave", "D. focus"],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "Karst landscapes are associated with the solution of",
+    "options": ["A. granite", "B. limestone", "C. basalt", "D. shale"],
+    "answer": "B",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "Coastal landforms include all EXCEPT",
+    "options": ["A. beaches", "B. cliffs", "C. spits", "D. spurs"],
+    "answer": "D",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "Which of the following is a landform of volcanic origin?",
+    "options": ["A. Crater", "B. Delta", "C. Beach", "D. Cliff"],
+    "answer": "A",
+    "topic": "Tectonic processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Weathering is best defined as",
+    "options": [
+      "A. the breakdown of rocks in situ",
+      "B. the transportation of rock materials",
+      "C. the deposition of rock materials",
+      "D. the formation of rocks"
+    ],
+    "answer": "A",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "Which of the following is a type of physical weathering?",
+    "options": [
+      "A. Carbonation",
+      "B. Oxidation",
+      "C. Frost action",
+      "D. Hydrolysis"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "Chemical weathering is most active in",
+    "options": [
+      "A. hot and dry conditions",
+      "B. hot and wet conditions",
+      "C. cold and dry conditions",
+      "D. cold and wet conditions"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "Mass movement refers to",
+    "options": [
+      "A. the movement of people",
+      "B. the downslope movement of earth materials",
+      "C. the movement of rivers",
+      "D. the movement of winds"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "A landslide is a type of",
+    "options": [
+      "A. erosion",
+      "B. weathering",
+      "C. mass movement",
+      "D. deposition"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "question": "Running water is an important agent of",
+    "options": [
+      "A. weathering",
+      "B. erosion and deposition",
+      "C. mass movement",
+      "D. metamorphism"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "Wind erosion is most active in",
+    "options": [
+      "A. humid regions",
+      "B. arid regions",
+      "C. temperate regions",
+      "D. polar regions"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "Wave erosion is most active along",
+    "options": ["A. coasts", "B. plateaus", "C. mountains", "D. valleys"],
+    "answer": "A",
+    "topic": "Denudational processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 418,
+    "question": "Underground water is an important agent of",
+    "options": [
+      "A. wind erosion",
+      "B. chemical weathering and erosion",
+      "C. mass movement",
+      "D. tectonic activity"
+    ],
+    "answer": "B",
+    "topic": "Denudational processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "A cirque is a landform associated with",
+    "options": [
+      "A. river erosion",
+      "B. wind erosion",
+      "C. glacial erosion",
+      "D. wave erosion"
+    ],
+    "answer": "C",
+    "topic": "Denudational processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 420,
+    "question": "Weather is best defined as the",
+    "options": [
+      "A. average condition of the atmosphere over a long period",
+      "B. condition of the atmosphere at a particular time",
+      "C. study of the atmosphere",
+      "D. movement of air masses"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "Climate is best defined as the",
+    "options": [
+      "A. condition of the atmosphere at a particular time",
+      "B. average condition of the atmosphere over a long period",
+      "C. study of the atmosphere",
+      "D. movement of air masses"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "The instrument used to measure rainfall is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "C",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 423,
+    "question": "The instrument used to measure atmospheric pressure is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "The instrument used to measure humidity is the",
+    "options": [
+      "A. thermometer",
+      "B. barometer",
+      "C. rain gauge",
+      "D. hygrometer"
+    ],
+    "answer": "D",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "The instrument used to measure wind direction is the",
+    "options": [
+      "A. wind vane",
+      "B. anemometer",
+      "C. barometer",
+      "D. hygrometer"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "The Stevenson screen is used to",
+    "options": [
+      "A. measure rainfall",
+      "B. house weather instruments",
+      "C. measure wind speed",
+      "D. measure sunshine"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "The Stevenson screen is painted white to",
+    "options": [
+      "A. attract sunlight",
+      "B. reflect sunlight",
+      "C. absorb heat",
+      "D. prevent rust"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "The instrument used to measure sunshine duration is the",
+    "options": [
+      "A. sunshine recorder",
+      "B. barometer",
+      "C. hygrometer",
+      "D. anemometer"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "Temperature generally decreases with increase in",
+    "options": [
+      "A. latitude",
+      "B. longitude",
+      "C. altitude",
+      "D. distance from the sea"
+    ],
+    "answer": "C",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "The factor that affects climate due to the distance from the sea is called",
+    "options": [
+      "A. altitude",
+      "B. continentality",
+      "C. latitude",
+      "D. ocean currents"
+    ],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "Land and sea breezes are caused by",
+    "options": [
+      "A. differences in heating of land and sea",
+      "B. rotation of the earth",
+      "C. ocean currents",
+      "D. altitude"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "A sea breeze blows from the sea to the land during the",
+    "options": ["A. night", "B. day", "C. morning", "D. evening"],
+    "answer": "B",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "A land breeze blows from the land to the sea during the",
+    "options": ["A. night", "B. day", "C. afternoon", "D. morning"],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "The hot and wet climate of the equatorial region is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "A",
+    "topic": "Weather and climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "The tropical continental climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "The desert climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. high temperature and low rainfall",
+      "C. low temperature and high rainfall",
+      "D. low temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "The Koppen classification of climate is based on",
+    "options": [
+      "A. temperature and rainfall",
+      "B. latitude and longitude",
+      "C. altitude and relief",
+      "D. ocean currents and winds"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "The Greek classification of climate is based on",
+    "options": [
+      "A. temperature and rainfall",
+      "B. latitude and sunshine",
+      "C. altitude and relief",
+      "D. ocean currents and winds"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 439,
+    "question": "The temperate climate is characterized by",
+    "options": [
+      "A. high temperature and high rainfall",
+      "B. moderate temperature and moderate rainfall",
+      "C. low temperature and low rainfall",
+      "D. high temperature and low rainfall"
+    ],
+    "answer": "B",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "The equatorial climate is found in areas between",
+    "options": [
+      "A. 0° and 10° latitude",
+      "B. 10° and 20° latitude",
+      "C. 20° and 30° latitude",
+      "D. 30° and 40° latitude"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "The tropical continental climate is also known as the",
+    "options": [
+      "A. savanna climate",
+      "B. desert climate",
+      "C. equatorial climate",
+      "D. monsoon climate"
+    ],
+    "answer": "A",
+    "topic": "Climate classification",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Climate change refers to",
+    "options": [
+      "A. short-term changes in weather",
+      "B. long-term changes in climate patterns",
+      "C. seasonal changes in rainfall",
+      "D. daily changes in temperature"
+    ],
+    "answer": "B",
+    "topic": "Climate change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 443,
+    "question": "A major cause of climate change is",
+    "options": [
+      "A. deforestation",
+      "B. afforestation",
+      "C. irrigation",
+      "D. crop rotation"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "An effect of climate change is",
+    "options": [
+      "A. rising sea levels",
+      "B. decreasing temperatures",
+      "C. increasing rainfall everywhere",
+      "D. decreasing desertification"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "A remedy for climate change is",
+    "options": [
+      "A. increasing deforestation",
+      "B. reducing greenhouse gas emissions",
+      "C. burning fossil fuels",
+      "D. increasing industrial activities"
+    ],
+    "answer": "B",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "The greenhouse effect is caused by",
+    "options": [
+      "A. accumulation of greenhouse gases in the atmosphere",
+      "B. depletion of the ozone layer",
+      "C. volcanic eruptions only",
+      "D. ocean currents"
+    ],
+    "answer": "A",
+    "topic": "Climate change",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "Tropical rainforest is characterized by",
+    "options": [
+      "A. tall trees with dense canopy",
+      "B. short grasses and scattered trees",
+      "C. sparse vegetation",
+      "D. only shrubs and herbs"
+    ],
+    "answer": "A",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "Tropical grassland is also known as",
+    "options": ["A. rainforest", "B. savanna", "C. desert", "D. tundra"],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "The main factor affecting the distribution of vegetation is",
+    "options": [
+      "A. soil type",
+      "B. climate",
+      "C. altitude",
+      "D. human activity"
+    ],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "Vegetation is an important environmental resource because it",
+    "options": [
+      "A. provides food and timber",
+      "B. causes soil erosion",
+      "C. reduces rainfall",
+      "D. increases pollution"
+    ],
+    "answer": "A",
+    "topic": "Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "Conservation of vegetation resources involves",
+    "options": [
+      "A. indiscriminate felling of trees",
+      "B. controlled harvesting and afforestation",
+      "C. bush burning",
+      "D. overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "The type of vegetation found in the desert is",
+    "options": [
+      "A. rainforest",
+      "B. savanna",
+      "C. xerophytic vegetation",
+      "D. temperate woodland"
+    ],
+    "answer": "C",
+    "topic": "Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "Soil is best defined as",
+    "options": [
+      "A. the loose surface material of the earth's crust",
+      "B. the solid rock beneath the earth",
+      "C. the water in the ground",
+      "D. the air above the earth"
+    ],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "The factors of soil formation include all EXCEPT",
+    "options": [
+      "A. parent rock",
+      "B. climate",
+      "C. organisms",
+      "D. ocean currents"
+    ],
+    "answer": "D",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "The soil profile is divided into layers called",
+    "options": ["A. horizons", "B. textures", "C. structures", "D. aggregates"],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "Soil erosion is best defined as",
+    "options": [
+      "A. the formation of soil",
+      "B. the removal of topsoil by agents of erosion",
+      "C. the deposition of soil",
+      "D. the weathering of rocks"
+    ],
+    "answer": "B",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "A method of soil conservation is",
+    "options": [
+      "A. bush burning",
+      "B. overgrazing",
+      "C. terracing",
+      "D. deforestation"
+    ],
+    "answer": "C",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The most fertile soil horizon is the",
+    "options": ["A. A-horizon", "B. B-horizon", "C. C-horizon", "D. D-horizon"],
+    "answer": "A",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "Soil texture refers to the",
+    "options": [
+      "A. arrangement of soil particles",
+      "B. relative proportions of sand, silt and clay",
+      "C. colour of the soil",
+      "D. depth of the soil"
+    ],
+    "answer": "B",
+    "topic": "Soil",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Environmental resources are classified into",
+    "options": [
+      "A. renewable and non-renewable",
+      "B. living and non-living",
+      "C. natural and artificial",
+      "D. physical and human"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["A. Petroleum", "B. Coal", "C. Vegetation", "D. Natural gas"],
+    "answer": "C",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "Which of the following is a non-renewable resource?",
+    "options": ["A. Water", "B. Soil", "C. Vegetation", "D. Petroleum"],
+    "answer": "D",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "The importance of water as an environmental resource includes",
+    "options": [
+      "A. domestic and industrial use",
+      "B. causing pollution",
+      "C. increasing erosion",
+      "D. destroying vegetation"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "Minerals are important environmental resources because they",
+    "options": [
+      "A. provide raw materials for industries",
+      "B. cause soil erosion",
+      "C. reduce rainfall",
+      "D. increase pollution"
+    ],
+    "answer": "A",
+    "topic": "Environmental resources",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "Environmental hazards include all EXCEPT",
+    "options": [
+      "A. flooding",
+      "B. drought",
+      "C. pollution",
+      "D. afforestation"
+    ],
+    "answer": "D",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Flooding is caused by",
+    "options": [
+      "A. excessive rainfall and poor drainage",
+      "B. low rainfall",
+      "C. high temperature",
+      "D. strong winds"
+    ],
+    "answer": "A",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "Drought is caused by",
+    "options": [
+      "A. excessive rainfall",
+      "B. prolonged period of low rainfall",
+      "C. high humidity",
+      "D. strong winds"
+    ],
+    "answer": "B",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "Desert encroachment is a problem associated with",
+    "options": [
+      "A. humid regions",
+      "B. arid and semi-arid regions",
+      "C. temperate regions",
+      "D. polar regions"
+    ],
+    "answer": "B",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "Soil erosion can be prevented by",
+    "options": [
+      "A. bush burning",
+      "B. overgrazing",
+      "C. planting cover crops",
+      "D. deforestation"
+    ],
+    "answer": "C",
+    "topic": "Environmental problems and hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "Environmental conservation means",
+    "options": [
+      "A. the wise use and protection of natural resources",
+      "B. the destruction of natural resources",
+      "C. the exploitation of resources",
+      "D. the pollution of resources"
+    ],
+    "answer": "A",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "A method of environmental conservation is",
+    "options": [
+      "A. deforestation",
+      "B. afforestation",
+      "C. bush burning",
+      "D. overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "The importance of environmental conservation includes",
+    "options": [
+      "A. maintaining ecological balance",
+      "B. increasing pollution",
+      "C. destroying habitats",
+      "D. depleting resources"
+    ],
+    "answer": "A",
+    "topic": "Environmental conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "World population growth is affected by",
+    "options": [
+      "A. birth rate, death rate and migration",
+      "B. rainfall and temperature",
+      "C. soil and vegetation",
+      "D. relief and drainage"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "Population distribution is affected by",
+    "options": [
+      "A. physical and human factors",
+      "B. only physical factors",
+      "C. only human factors",
+      "D. only economic factors"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "A high population growth rate can lead to",
+    "options": [
+      "A. pressure on resources",
+      "B. abundant resources",
+      "C. low unemployment",
+      "D. high living standards"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Population movement from rural to urban areas is called",
+    "options": [
+      "A. rural-urban migration",
+      "B. urban-rural migration",
+      "C. international migration",
+      "D. seasonal migration"
+    ],
+    "answer": "A",
+    "topic": "World population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "A settlement is best defined as",
+    "options": [
+      "A. a place where people live",
+      "B. a place where people work",
+      "C. a place where people worship",
+      "D. a place where people trade"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "Rural settlements are characterized by",
+    "options": [
+      "A. high population density",
+      "B. agricultural activities",
+      "C. industrial activities",
+      "D. commercial activities"
+    ],
+    "answer": "B",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "Urban settlements are characterized by",
+    "options": [
+      "A. agricultural activities",
+      "B. low population density",
+      "C. commercial and industrial activities",
+      "D. scattered buildings"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "A nucleated settlement pattern is one in which buildings are",
+    "options": [
+      "A. scattered",
+      "B. arranged in a line",
+      "C. clustered together",
+      "D. built along a river"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A dispersed settlement pattern is one in which buildings are",
+    "options": [
+      "A. clustered together",
+      "B. scattered widely apart",
+      "C. arranged in a line",
+      "D. built around a market"
+    ],
+    "answer": "B",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "A linear settlement pattern develops along",
+    "options": [
+      "A. a road or river",
+      "B. a hilltop",
+      "C. a market square",
+      "D. a lake shore"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "The main function of a rural settlement is",
+    "options": [
+      "A. agriculture",
+      "B. manufacturing",
+      "C. administration",
+      "D. tourism"
+    ],
+    "answer": "A",
+    "topic": "Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 484,
+    "question": "The main function of an urban settlement is",
+    "options": [
+      "A. agriculture",
+      "B. fishing",
+      "C. administration and commerce",
+      "D. lumbering"
+    ],
+    "answer": "C",
+    "topic": "Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "Transportation is important for economic development because it",
+    "options": [
+      "A. facilitates movement of goods and people",
+      "B. increases pollution",
+      "C. causes accidents",
+      "D. reduces trade"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "Which mode of transport is most suitable for bulky goods over long distances?",
+    "options": ["A. Air", "B. Rail", "C. Road", "D. Pipeline"],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "Which mode of transport is the fastest?",
+    "options": ["A. Rail", "B. Road", "C. Water", "D. Air"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "Pipeline transport is mainly used for",
+    "options": [
+      "A. transporting people",
+      "B. transporting petroleum products",
+      "C. transporting food items",
+      "D. transporting livestock"
+    ],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "A problem of road transportation in West Africa is",
+    "options": [
+      "A. poor road maintenance",
+      "B. adequate road network",
+      "C. low vehicle population",
+      "D. efficient traffic management"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "Water transport is important for",
+    "options": [
+      "A. moving bulky goods",
+      "B. moving perishable goods",
+      "C. moving people quickly",
+      "D. moving goods by air"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "Industry is classified into",
+    "options": [
+      "A. primary, secondary and tertiary",
+      "B. heavy, light and medium",
+      "C. rural, urban and suburban",
+      "D. local, national and international"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "Primary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "Secondary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "B",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "Tertiary industry involves",
+    "options": [
+      "A. extraction of raw materials",
+      "B. manufacturing of goods",
+      "C. provision of services",
+      "D. distribution of goods"
+    ],
+    "answer": "C",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "A factor of industrial location is",
+    "options": [
+      "A. availability of raw materials",
+      "B. ocean currents",
+      "C. soil type",
+      "D. vegetation type"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "Heavy industries are those that",
+    "options": [
+      "A. use large amounts of raw materials and energy",
+      "B. use small amounts of raw materials",
+      "C. produce light goods",
+      "D. employ few workers"
+    ],
+    "answer": "A",
+    "topic": "Industry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "Trade is best defined as",
+    "options": [
+      "A. the exchange of goods and services",
+      "B. the production of goods",
+      "C. the consumption of goods",
+      "D. the storage of goods"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 498,
+    "question": "National trade involves exchange of goods within",
+    "options": [
+      "A. a country",
+      "B. two countries",
+      "C. many countries",
+      "D. a continent"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 499,
+    "question": "International trade involves exchange of goods between",
+    "options": [
+      "A. regions within a country",
+      "B. different countries",
+      "C. local markets",
+      "D. villages"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Tourism is best defined as",
+    "options": [
+      "A. the movement of people for leisure or business",
+      "B. the movement of goods",
+      "C. the production of goods",
+      "D. the consumption of goods"
+    ],
+    "answer": "A",
+    "topic": "Tourism",
+    "difficulty": "Easy"
+  }
+]

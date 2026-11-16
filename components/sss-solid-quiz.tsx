@@ -30,7 +30,33 @@ import necoEconomicsJson from "../Json/NECO/Economics.json"
 import necoEnglishJson from "../Json/NECO/English.json"
 import necoGovernmentJson from "../Json/NECO/Government.json"
 import necoHealthEduJson from "../Json/NECO/HealthEdu.json"
+import necoMathematicsJson from "../Json/NECO/Mathematics.json"
 import necoNutritionJson from "../Json/NECO/Nutrition.json"
+import necoPhysicsJson from "../Json/NECO/Physics.json"
+import necoVirtualArtJson from "../Json/NECO/VirtualArt.json"
+import waecAccountingJson from "../Json/WAEC/FINANCIAL ACCOUNTS.json"
+import waecAgricJson from "../Json/WAEC/AGRIC.json"
+import waecAnimalHusbandryJson from "../Json/WAEC/ANIMAL HUSBANDRY.json"
+import waecBiologyJson from "../Json/WAEC/BIOLOGY.json"
+import waecChemistryJson from "../Json/WAEC/CHEMISTRY.json"
+import waecCivicJson from "../Json/WAEC/CIVIC EDUCATION.json"
+import waecCommerceJson from "../Json/WAEC/COMMERCE.json"
+import waecComputerJson from "../Json/WAEC/COMPUTER.json"
+import waecCrsJson from "../Json/WAEC/CRS.json"
+import waecDataProcessingJson from "../Json/WAEC/DATA PROCESSING.json"
+import waecEconomicsJson from "../Json/WAEC/ECONOMICS.json"
+import waecEnglishJson from "../Json/WAEC/ENGLISH.json"
+import waecFrenchJson from "../Json/WAEC/FRENCH.json"
+import waecGeographyJson from "../Json/WAEC/GEOGRAPHY.json"
+import waecGovernmentJson from "../Json/WAEC/GOVERNMENT.json"
+import waecHistoryJson from "../Json/WAEC/HISTORY.json"
+import waecIctJson from "../Json/WAEC/ICT.json"
+import waecIrkJson from "../Json/WAEC/IRS.json"
+import waecLiteratureJson from "../Json/WAEC/LITERATURE.json"
+import waecMarketingJson from "../Json/WAEC/MARKETING.json"
+import waecMathematicsJson from "../Json/WAEC/MATHEMATICS.json"
+import waecPhysicsJson from "../Json/WAEC/PHYSICS.json"
+import waecYorubaJson from "../Json/WAEC/YORUBA.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -78,7 +104,7 @@ function mapNecoJsonToQuestions(
       options: shuffledOptions,
       correctIndex: newCorrectIndex >= 0 ? newCorrectIndex : 0,
       explanation: `The correct answer is ${shuffledOptions[newCorrectIndex] || ""}.`,
-      usesLatex: false,
+      usesLatex: subjectKey === "mathematics",
     }
   })
 }
@@ -96,7 +122,36 @@ const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
   english: necoEnglishJson as RawJsonQuestion[],
   government: necoGovernmentJson as RawJsonQuestion[],
   healthedu: necoHealthEduJson as RawJsonQuestion[],
+  mathematics: necoMathematicsJson as RawJsonQuestion[],
   nutrition: necoNutritionJson as RawJsonQuestion[],
+  physics: necoPhysicsJson as RawJsonQuestion[],
+  visualart: necoVirtualArtJson as RawJsonQuestion[],
+}
+
+const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
+  accounting: waecAccountingJson as RawJsonQuestion[],
+  agriculture: waecAgricJson as RawJsonQuestion[],
+  animalhusbandry: waecAnimalHusbandryJson as RawJsonQuestion[],
+  biology: waecBiologyJson as RawJsonQuestion[],
+  chemistry: waecChemistryJson as RawJsonQuestion[],
+  civiledu: waecCivicJson as RawJsonQuestion[],
+  commerce: waecCommerceJson as RawJsonQuestion[],
+  computer: waecComputerJson as RawJsonQuestion[],
+  crk: waecCrsJson as RawJsonQuestion[],
+  dataprocessing: waecDataProcessingJson as RawJsonQuestion[],
+  economics: waecEconomicsJson as RawJsonQuestion[],
+  english: waecEnglishJson as RawJsonQuestion[],
+  englishlit: waecLiteratureJson as RawJsonQuestion[],
+  french: waecFrenchJson as RawJsonQuestion[],
+  geography: waecGeographyJson as RawJsonQuestion[],
+  government: waecGovernmentJson as RawJsonQuestion[],
+  history: waecHistoryJson as RawJsonQuestion[],
+  ict: waecIctJson as RawJsonQuestion[],
+  irk: waecIrkJson as RawJsonQuestion[],
+  marketing: waecMarketingJson as RawJsonQuestion[],
+  mathematics: waecMathematicsJson as RawJsonQuestion[],
+  physics: waecPhysicsJson as RawJsonQuestion[],
+  yoruba: waecYorubaJson as RawJsonQuestion[],
 }
 
 interface SSSSolidQuizProps {
@@ -133,10 +188,15 @@ export function SSSSolidQuiz({
   const topicLabel = `${examLabel} ${paperLabel} — Full Syllabus`
 
   const questions = useMemo(() => {
-    if (examType !== "neco" || paperType !== "objective") {
+    if (paperType !== "objective") {
       return []
     }
-    const rawPool = NECO_JSON_POOLS[subjectKey]
+    const rawPool =
+      examType === "neco"
+        ? NECO_JSON_POOLS[subjectKey]
+        : examType === "wassce"
+          ? WAEC_JSON_POOLS[subjectKey]
+          : undefined
     if (!rawPool || rawPool.length === 0) {
       return []
     }

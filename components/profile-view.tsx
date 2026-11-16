@@ -42,11 +42,12 @@ interface ProfileViewProps {
   onOpenChat: () => void
   onShowSurveys?: () => void
   currentCategory?: "JSS" | "SSS"
+  onCategoryChange?: (category: "JSS" | "SSS") => void
 }
 
 
 
-export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, onShowLeaderboard, onShowHistory, onOpenChat, onShowSurveys, currentCategory = "JSS" }: ProfileViewProps) {
+export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, onShowLeaderboard, onShowHistory, onOpenChat, onShowSurveys, currentCategory = "JSS", onCategoryChange }: ProfileViewProps) {
   const displayName = user?.displayName || "User"
   const email = user?.email || "No email"
   const photoURL = user?.photoURL
@@ -496,8 +497,10 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
                   } finally {
                     setMovingCategory(false)
                     setShowCategoryModal(false)
-                    if (typeof window !== "undefined") {
-                      window.location.href = selectedCategory === "SSS" ? "/sss" : "/"
+                    if (onCategoryChange) {
+                      onCategoryChange(selectedCategory)
+                    } else if (typeof window !== "undefined") {
+                      window.location.href = "/"
                     }
                   }
                 }}

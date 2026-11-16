@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "Convert \\(1101_{2}\\) to base 10.",
+    "options": [
+      "A. 11",
+      "B. 12",
+      "C. 14",
+      "D. 13"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Convert \\(25_{10}\\) to base 2.",
+    "options": [
+      "A. \\(11001_{2}\\)",
+      "B. \\(11010_{2}\\)",
+      "C. \\(10101_{2}\\)",
+      "D. \\(10011_{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Evaluate \\(23_{4} + 12_{4}\\).",
+    "options": [
+      "A. \\(35_{4}\\)",
+      "B. \\(101_{4}\\)",
+      "C. \\(111_{4}\\)",
+      "D. \\(41_{4}\\)"
+    ],
+    "answer": "B",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "Simplify 5 + 4 (mod 6).",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "If today is Monday, what day of the week will it be in 100 days?",
+    "options": [
+      "A. Wednesday",
+      "B. Tuesday",
+      "C. Thursday",
+      "D. Friday"
+    ],
+    "answer": "A",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Simplify \\(\\frac{3}{4} + \\frac{2}{5}\\).",
+    "options": [
+      "A. \\(\\frac{5}{9}\\)",
+      "B. \\(\\frac{6}{20}\\)",
+      "C. \\(1\\frac{3}{20}\\)",
+      "D. \\(1\\frac{1}{20}\\)"
+    ],
+    "answer": "C",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "Express 0.000045 in standard form.",
+    "options": [
+      "A. \\(45 \\times 10^{-6}\\)",
+      "B. \\(4.5 \\times 10^{5}\\)",
+      "C. \\(0.45 \\times 10^{-4}\\)",
+      "D. \\(4.5 \\times 10^{-5}\\)"
+    ],
+    "answer": "D",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "Simplify \\(2^{3} \\times 2^{4}\\).",
+    "options": [
+      "A. \\(2^{12}\\)",
+      "B. \\(2^{7}\\)",
+      "C. \\(4^{7}\\)",
+      "D. \\(2^{1}\\)"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Simplify \\(5^{0} + 3^{-1}\\).",
+    "options": [
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{4}{3}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. 1"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "Evaluate \\(log_{10}\\) 1000.",
+    "options": [
+      "A. 10",
+      "B. 100",
+      "C. 1",
+      "D. 3"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Simplify \\(log_{10} 2 + log_{10}\\) 5.",
+    "options": [
+      "A. 1",
+      "B. 7",
+      "C. 10",
+      "D. 0"
+    ],
+    "answer": "A",
+    "topic": "Logarithms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Find the 10th term of the AP: 3, 7, 11, ...",
+    "options": [
+      "A. 35",
+      "B. 43",
+      "C. 39",
+      "D. 40"
+    ],
+    "answer": "C",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "If A = \\(\\{1,2,3\\}\\) and B = \\(\\{2,3,4\\}\\), find A \\(\\cap\\) B.",
+    "options": [
+      "A. \\(\\{1,2,3,4\\}\\)",
+      "B. \\(\\{1,4\\}\\)",
+      "C. \\(\\{2,3\\}\\)",
+      "D. \\(\\{1\\}\\)"
+    ],
+    "answer": "C",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "If P = \\(\\{a,b,c\\}\\), how many subsets does P have?",
+    "options": [
+      "A. 3",
+      "B. 8",
+      "C. 6",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Sets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "What is the negation of 'All students are brilliant'?",
+    "options": [
+      "A. All students are dull",
+      "B. Some students are brilliant",
+      "C. No students are brilliant",
+      "D. Some students are not brilliant"
+    ],
+    "answer": "D",
+    "topic": "Logical Reasoning",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "Simplify \\(\\sqrt{50.}\\)",
+    "options": [
+      "A. \\(5\\sqrt{2}\\)",
+      "B. \\(2\\sqrt{5}\\)",
+      "C. \\(10\\sqrt{5}\\)",
+      "D. \\(25\\sqrt{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Rationalize 1/\\(\\sqrt{3.}\\)",
+    "options": [
+      "A. \\(\\sqrt{\\frac{3}{3}}\\)",
+      "B. 3/\\(\\sqrt{3}\\)",
+      "C. \\(\\sqrt{3}\\)",
+      "D. \\(\\frac{1}{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 10",
+      "B. 4",
+      "C. 2",
+      "D. -2"
+    ],
+    "answer": "D",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Express 45% as a fraction in its lowest term.",
+    "options": [
+      "A. \\(\\frac{45}{100}\\)",
+      "B. \\(\\frac{4}{5}\\)",
+      "C. \\(\\frac{9}{20}\\)",
+      "D. \\(\\frac{5}{9}\\)"
+    ],
+    "answer": "C",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "A trader bought an item for ₦500 and sold it for ₦600. Find the profit percentage.",
+    "options": [
+      "A. 10%",
+      "B. 20%",
+      "C. 25%",
+      "D. 30%"
+    ],
+    "answer": "B",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "If y varies directly as x and y=10 when x=2, find y when x=5.",
+    "options": [
+      "A. 15",
+      "B. 20",
+      "C. 50",
+      "D. 25"
+    ],
+    "answer": "D",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Factorize \\(x^{2} -\\) 9.",
+    "options": [
+      "A. (x-3)(x+3)",
+      "B. (x-9)(x+1)",
+      "C. \\((x-3)^{2}\\)",
+      "D. \\((x+3)^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Expand (x+3)(x-2).",
+    "options": [
+      "A. \\(x^{2} -\\) x - 6",
+      "B. \\(x^{2} +\\) x - 6",
+      "C. \\(x^{2} +\\) 5x - 6",
+      "D. \\(x^{2} -\\) 5x + 6"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "Solve for x: 2x + 5 = 15.",
+    "options": [
+      "A. 2",
+      "B. 10",
+      "C. 5",
+      "D. 7"
+    ],
+    "answer": "C",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "Solve the simultaneous equations: x + y = 10, x - y = 4.",
+    "options": [
+      "A. x=7, y=3",
+      "B. x=3, y=7",
+      "C. x=6, y=4",
+      "D. x=5, y=5"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Make x the subject of the formula y = mx + c.",
+    "options": [
+      "A. \\(x = \\frac{y}{m} -\\) c",
+      "B. x = m(y-c)",
+      "C. \\(x = \\frac{y-c}{m}\\)",
+      "D. \\(x = y + \\frac{c}{m}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Solve the quadratic equation \\(x^{2} -\\) 5x + 6 = 0.",
+    "options": [
+      "A. x = -2 or -3",
+      "B. x = 1 or 6",
+      "C. x = -1 or 6",
+      "D. x = 2 or 3"
+    ],
+    "answer": "D",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "What is the gradient of the line y = 3x - 2?",
+    "options": [
+      "A. -2",
+      "B. 3",
+      "C. 2",
+      "D. -3"
+    ],
+    "answer": "B",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "Solve the inequality 3x - 5 < 10.",
+    "options": [
+      "A. x > 5",
+      "B. x < 5",
+      "C. x > -5",
+      "D. x < -5"
+    ],
+    "answer": "B",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Simplify \\(\\frac{x^{2} - 4}{x - 2}\\).",
+    "options": [
+      "A. x - 2",
+      "B. \\(x^{2}\\)",
+      "C. x - 4",
+      "D. x + 2"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a one-to-one function?",
+    "options": [
+      "A. f(x) = 2x + 1",
+      "B. \\(f(x) = x^{2}\\)",
+      "C. f(x) = |x|",
+      "D. f(x) = sin x"
+    ],
+    "answer": "A",
+    "topic": "Functions and Relations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Find the perimeter of a rectangle with length 10cm and width 6cm.",
+    "options": [
+      "A. 60cm",
+      "B. 16cm",
+      "C. 32cm",
+      "D. 30cm"
+    ],
+    "answer": "C",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "Find the area of a triangle with base 8cm and height 5cm.",
+    "options": [
+      "A. \\(40\\,\\text{cm}^{2}\\)",
+      "B. \\(13\\,\\text{cm}^{2}\\)",
+      "C. \\(20\\,\\text{cm}^{2}\\)",
+      "D. \\(80\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Areas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Find the volume of a cube of side 4cm.",
+    "options": [
+      "A. \\(16\\,\\text{cm}^{3}\\)",
+      "B. \\(64\\,\\text{cm}^{3}\\)",
+      "C. \\(12\\,\\text{cm}^{3}\\)",
+      "D. \\(48\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Volumes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Angles on a straight line add up to how many degrees?",
+    "options": [
+      "A. \\(360^{\\circ}\\)",
+      "B. \\(90^{\\circ}\\)",
+      "C. \\(270^{\\circ}\\)",
+      "D. \\(180^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "If two parallel lines are cut by a transversal, alternate angles are",
+    "options": [
+      "A. equal",
+      "B. supplementary",
+      "C. complementary",
+      "D. vertically opposite"
+    ],
+    "answer": "A",
+    "topic": "Angles and intercepts on parallel lines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "Find the sum of interior angles of a pentagon.",
+    "options": [
+      "A. \\(540^{\\circ}\\)",
+      "B. \\(360^{\\circ}\\)",
+      "C. \\(720^{\\circ}\\)",
+      "D. \\(180^{\\circ}\\)"
+    ],
+    "answer": "A",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The angle subtended by an arc at the centre is",
+    "options": [
+      "A. equal to",
+      "B. half of",
+      "C. three times",
+      "D. twice"
+    ],
+    "answer": "D",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Find the midpoint of the line joining (2,3) and (4,7).",
+    "options": [
+      "A. (6,10)",
+      "B. (2,4)",
+      "C. (3,5)",
+      "D. (1,2)"
+    ],
+    "answer": "C",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "In a right triangle, if opposite=3 and hypotenuse=5, find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{4}{5}\\)",
+      "B. \\(\\frac{3}{5}\\)",
+      "C. \\(\\frac{5}{3}\\)",
+      "D. \\(\\frac{3}{4}\\)"
+    ],
+    "answer": "B",
+    "topic": "Trigonometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "The angle of elevation of the top of a building from a point on the ground is \\(30^{\\circ}\\). If the building is 50m high, find the distance from the point to the base.",
+    "options": [
+      "A. 50m",
+      "B. 25m",
+      "C. 50/\\(\\sqrt{3}\\)",
+      "D. \\(50\\sqrt{3}\\)"
+    ],
+    "answer": "D",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "The bearing of B from A is \\(060^{\\circ}\\). What is the bearing of A from B?",
+    "options": [
+      "A. \\(240^{\\circ}\\)",
+      "B. \\(060^{\\circ}\\)",
+      "C. \\(120^{\\circ}\\)",
+      "D. \\(300^{\\circ}\\)"
+    ],
+    "answer": "A",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Find the derivative of y = \\(x^{3}\\).",
+    "options": [
+      "A. \\(x^{2}\\)",
+      "B. \\(3x^{2}\\)",
+      "C. 3x",
+      "D. \\(x^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "Find the mean of 2, 4, 6, 8, 10.",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "Find the median of 3, 7, 1, 9, 5.",
+    "options": [
+      "A. 3",
+      "B. 7",
+      "C. 1",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "Find the mode of 2, 3, 3, 4, 5, 3.",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "What is the probability of getting a head when tossing a fair coin?",
+    "options": [
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{1}{4}\\)",
+      "C. 1",
+      "D. 0"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "If vector a = (3,4), find |a|.",
+    "options": [
+      "A. 7",
+      "B. 25",
+      "C. 1",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "What is the image of point (2,3) under reflection in the x-axis?",
+    "options": [
+      "A. (-2,3)",
+      "B. (-2,-3)",
+      "C. (2,-3)",
+      "D. (3,2)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Convert \\(345_{6}\\) to base 10.",
+    "options": [
+      "A. 135",
+      "B. 137",
+      "C. 141",
+      "D. 127"
+    ],
+    "answer": "B",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Evaluate 4 \\(\\times\\) 3 (mod 5).",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 4",
+      "D. 2"
+    ],
+    "answer": "D",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Simplify 0.25 \\(\\times\\) 0.04.",
+    "options": [
+      "A. 0.01",
+      "B. 0.1",
+      "C. 0.001",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Simplify \\((a^{2}\\)\\()^{3}\\).",
+    "options": [
+      "A. \\(a^{5}\\)",
+      "B. \\(a^{6}\\)",
+      "C. \\(a^{8}\\)",
+      "D. a"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "Evaluate \\(log_{2}\\) 8.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 3",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "Find the sum of the first 10 terms of the AP: 2, 5, 8, ...",
+    "options": [
+      "A. 155",
+      "B. 145",
+      "C. 165",
+      "D. 135"
+    ],
+    "answer": "A",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "If A = \\(\\{1,2,3,4\\}\\) and B = \\(\\{3,4,5\\}\\), find A \\(\\cup\\) B.",
+    "options": [
+      "A. \\(\\{3,4\\}\\)",
+      "B. \\(\\{1,2\\}\\)",
+      "C. \\(\\{1,2,3,4,5\\}\\)",
+      "D. \\(\\{5\\}\\)"
+    ],
+    "answer": "C",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Simplify \\(\\sqrt{18} + \\sqrt{8.}\\)",
+    "options": [
+      "A. \\(5\\sqrt{4}\\)",
+      "B. \\(\\sqrt{26}\\)",
+      "C. \\(13\\sqrt{2}\\)",
+      "D. \\(5\\sqrt{2}\\)"
+    ],
+    "answer": "D",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "If A = \\(\\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\), find the determinant.",
+    "options": [
+      "A. 11",
+      "B. 5",
+      "C. -5",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Express 0.75 as a percentage.",
+    "options": [
+      "A. 7.5%",
+      "B. 75%",
+      "C. 0.75%",
+      "D. 750%"
+    ],
+    "answer": "B",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "If y varies inversely as x and y=4 when x=3, find y when x=6.",
+    "options": [
+      "A. 8",
+      "B. 12",
+      "C. 6",
+      "D. 2"
+    ],
+    "answer": "D",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Factorize \\(x^{2} +\\) 5x + 6.",
+    "options": [
+      "A. (x+2)(x+3)",
+      "B. (x+1)(x+6)",
+      "C. (x-2)(x-3)",
+      "D. (x+5)(x+1)"
+    ],
+    "answer": "A",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "Expand (2x - 1)(x + 3).",
+    "options": [
+      "A. \\(2x^{2} -\\) 5x - 3",
+      "B. \\(2x^{2} +\\) 5x + 3",
+      "C. \\(2x^{2} +\\) 5x - 3",
+      "D. \\(2x^{2} -\\) 5x + 3"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Solve for x: 3x - 7 = 11.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Solve the simultaneous equations: 2x + y = 7, x - y = 2.",
+    "options": [
+      "A. x=2, y=3",
+      "B. x=3, y=1",
+      "C. x=1, y=5",
+      "D. x=4, y=-1"
+    ],
+    "answer": "B",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "Make r the subject of the formula V = (\\(\\frac{4}{3} ) \\pi\\)\\(r^{3}\\).",
+    "options": [
+      "A. \\(r = \\frac{3V}{4}\\)\\(\\pi\\)",
+      "B. \\(r = \\sqrt{\\frac{3V}{4} \\pi}\\)",
+      "C. \\(r = \\frac{4 \\pi V}{3}\\)",
+      "D. \\(r = \\sqrt[3]{\\frac{3V}{4} \\pi}\\)"
+    ],
+    "answer": "D",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Form a quadratic equation whose roots are 2 and -3.",
+    "options": [
+      "A. \\(x^{2} +\\) x - 6 = 0",
+      "B. \\(x^{2} -\\) x - 6 = 0",
+      "C. \\(x^{2} +\\) x + 6 = 0",
+      "D. \\(x^{2} -\\) x + 6 = 0"
+    ],
+    "answer": "A",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "What is the y-intercept of the line y = 2x - 5?",
+    "options": [
+      "A. -5",
+      "B. 2",
+      "C. 5",
+      "D. -2"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Solve the inequality 2x + 3 \\(\\ge\\) 9.",
+    "options": [
+      "A. x \\(\\le\\) 3",
+      "B. x < 3",
+      "C. x > 3",
+      "D. x \\(\\ge\\) 3"
+    ],
+    "answer": "D",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Simplify \\(\\frac{x^{2} - 1}{x + 1}\\).",
+    "options": [
+      "A. x + 1",
+      "B. \\(x^{2}\\)",
+      "C. x - 1",
+      "D. x"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "If f(x) = 3x + 2, find f(4).",
+    "options": [
+      "A. 12",
+      "B. 14",
+      "C. 10",
+      "D. 16"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Find the circumference of a circle with radius 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. 154cm",
+      "B. 22cm",
+      "C. 14cm",
+      "D. 44cm"
+    ],
+    "answer": "D",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "Find the area of a circle with radius 5cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(78.5\\,\\text{cm}^{2}\\)",
+      "B. \\(31.4\\,\\text{cm}^{2}\\)",
+      "C. \\(15.7\\,\\text{cm}^{2}\\)",
+      "D. \\(157\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Find the volume of a cylinder with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(66\\,\\text{cm}^{3}\\)",
+      "B. \\(198\\,\\text{cm}^{3}\\)",
+      "C. \\(99\\,\\text{cm}^{3}\\)",
+      "D. \\(63\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Volumes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The sum of angles at a point is",
+    "options": [
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(270^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "If a triangle has angles \\(50^{\\circ}\\) and \\(60^{\\circ}\\), find the third angle.",
+    "options": [
+      "A. \\(50^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(70^{\\circ}\\)",
+      "D. \\(80^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "The angle in a semicircle is",
+    "options": [
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(90^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Circles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Find the distance between (1,2) and (4,6).",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 25",
+      "D. \\(\\sqrt{5}\\)"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "If cos \\(\\theta = \\frac{4}{5}\\), find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{4}{3}\\)",
+      "B. \\(\\frac{3}{5}\\)",
+      "C. \\(\\frac{5}{4}\\)",
+      "D. \\(\\frac{3}{4}\\)"
+    ],
+    "answer": "B",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "A ladder leans against a wall making an angle of \\(60^{\\circ}\\) with the ground. If the foot of the ladder is 3m from the wall, find the length of the ladder.",
+    "options": [
+      "A. 3m",
+      "B. \\(6\\sqrt{3}\\) m",
+      "C. \\(3\\sqrt{3}\\) m",
+      "D. 6m"
+    ],
+    "answer": "D",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "A point P is on a bearing of \\(090^{\\circ}\\) from Q. What is the bearing of Q from P?",
+    "options": [
+      "A. \\(270^{\\circ}\\)",
+      "B. \\(090^{\\circ}\\)",
+      "C. \\(180^{\\circ}\\)",
+      "D. \\(000^{\\circ}\\)"
+    ],
+    "answer": "A",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "Find the derivative of y = \\(4x^{2} +\\) 2x.",
+    "options": [
+      "A. 8x",
+      "B. 8x + 2",
+      "C. 4x + 2",
+      "D. 2x + 2"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Find the mean of 5, 7, 9, 11, 13.",
+    "options": [
+      "A. 9",
+      "B. 8",
+      "C. 10",
+      "D. 7"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "Find the median of 2, 5, 8, 3, 9, 1.",
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 4",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Find the mode of 4, 5, 6, 4, 7, 4, 8.",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 4"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "What is the probability of rolling a 4 on a fair die?",
+    "options": [
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{1}{4}\\)"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "If a = (2,5) and b = (3,1), find a + b.",
+    "options": [
+      "A. (5,4)",
+      "B. (6,5)",
+      "C. (1,4)",
+      "D. (5,6)"
+    ],
+    "answer": "D",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "What is the image of (3,4) under a \\(90^{\\circ}\\) clockwise rotation about the origin?",
+    "options": [
+      "A. (-3,4)",
+      "B. (3,-4)",
+      "C. (4,-3)",
+      "D. (-4,3)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 88,
+    "question": "Convert \\(1011_{2}\\) to base 10.",
+    "options": [
+      "A. 9",
+      "B. 11",
+      "C. 13",
+      "D. 15"
+    ],
+    "answer": "B",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Evaluate 15 mod 4.",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 4",
+      "D. 7"
+    ],
+    "answer": "B",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "Simplify 3.2 \\(\\times\\) 0.05.",
+    "options": [
+      "A. 0.016",
+      "B. 1.6",
+      "C. 0.0016",
+      "D. 0.16"
+    ],
+    "answer": "D",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "Simplify \\((2a^{3}\\)\\()^{2}\\).",
+    "options": [
+      "A. \\(4a^{6}\\)",
+      "B. \\(2a^{6}\\)",
+      "C. \\(4a^{5}\\)",
+      "D. \\(2a^{5}\\)"
+    ],
+    "answer": "A",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "Evaluate \\(log_{3}\\) 81.",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 4",
+      "D. 27"
+    ],
+    "answer": "C",
+    "topic": "Logarithms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Find the 8th term of the GP: 2, 6, 18, ...",
+    "options": [
+      "A. 1458",
+      "B. 729",
+      "C. 4374",
+      "D. 13122"
+    ],
+    "answer": "C",
+    "topic": "Sequence and Series",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "If A = \\(\\{1,2,3\\}\\) and B = \\(\\{3,4\\}\\), find A - B.",
+    "options": [
+      "A. \\(\\{3\\}\\)",
+      "B. \\(\\{1,2\\}\\)",
+      "C. \\(\\{4\\}\\)",
+      "D. \\(\\{1,2,3,4\\}\\)"
+    ],
+    "answer": "B",
+    "topic": "Sets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Simplify \\(\\sqrt{75.}\\)",
+    "options": [
+      "A. \\(3\\sqrt{5}\\)",
+      "B. \\(15\\sqrt{3}\\)",
+      "C. \\(25\\sqrt{3}\\)",
+      "D. \\(5\\sqrt{3}\\)"
+    ],
+    "answer": "D",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\), what type of matrix is A?",
+    "options": [
+      "A. Identity matrix",
+      "B. Zero matrix",
+      "C. Scalar matrix",
+      "D. Diagonal matrix"
+    ],
+    "answer": "A",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "Express \\(\\frac{3}{8}\\) as a decimal.",
+    "options": [
+      "A. 0.375",
+      "B. 0.38",
+      "C. 0.3",
+      "D. 0.3750"
+    ],
+    "answer": "A",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "If y varies directly as \\(x^{2}\\) and y=8 when x=2, find y when x=3.",
+    "options": [
+      "A. 12",
+      "B. 24",
+      "C. 9",
+      "D. 18"
+    ],
+    "answer": "D",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "Factorize \\(2x^{2} -\\) 8.",
+    "options": [
+      "A. \\(2(x^{2}-4)\\)",
+      "B. (2x-4)(x+2)",
+      "C. 2(x-2)(x+2)",
+      "D. 2(x-4)(x+1)"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Expand (x+\\(5)^{2}\\).",
+    "options": [
+      "A. \\(x^{2} +\\) 25",
+      "B. \\(x^{2} +\\) 10x + 25",
+      "C. \\(x^{2} +\\) 5x + 25",
+      "D. \\(x^{2} -\\) 10x + 25"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "Solve for x: 5x - 3 = 2x + 9.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. 4"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Solve the simultaneous equations: 3x + 2y = 12, x - 2y = 4.",
+    "options": [
+      "A. x=4, y=0",
+      "B. x=2, y=3",
+      "C. x=3, y=1.5",
+      "D. x=0, y=6"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "Make y the subject of the formula x = \\(\\frac{y+3}{2}\\).",
+    "options": [
+      "A. y = 2x + 3",
+      "B. y = 2x - 3",
+      "C. \\(y = \\frac{x-3}{2}\\)",
+      "D. \\(y = \\frac{x}{2} -\\) 3"
+    ],
+    "answer": "B",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Solve the quadratic equation \\(x^{2} -\\) 4x = 0.",
+    "options": [
+      "A. x = 2 or 2",
+      "B. x = -4 or 0",
+      "C. x = 0 or 4",
+      "D. x = 1 or 4"
+    ],
+    "answer": "C",
+    "topic": "Quadratic Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "What is the gradient of the line passing through (1,2) and (3,6)?",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 1",
+      "D. 3"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "Solve the inequality -2x < 8.",
+    "options": [
+      "A. x < -4",
+      "B. x > 4",
+      "C. x > -4",
+      "D. x < 4"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Simplify \\(\\frac{x^{2} + 3x}{x}\\).",
+    "options": [
+      "A. x + 3x",
+      "B. \\(x^{2} +\\) 3",
+      "C. x + 3",
+      "D. 1 + 3x"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "If f(x) = \\(x^{2} -\\) 1, find f(3).",
+    "options": [
+      "A. 9",
+      "B. 8",
+      "C. 6",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 109,
+    "question": "Find the perimeter of a square with side 7cm.",
+    "options": [
+      "A. 14cm",
+      "B. 49cm",
+      "C. 21cm",
+      "D. 28cm"
+    ],
+    "answer": "D",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "Find the area of a trapezium with parallel sides 6cm and 10cm, and height 4cm.",
+    "options": [
+      "A. \\(32\\,\\text{cm}^{2}\\)",
+      "B. \\(60\\,\\text{cm}^{2}\\)",
+      "C. \\(24\\,\\text{cm}^{2}\\)",
+      "D. \\(48\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Find the volume of a cone with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(198\\,\\text{cm}^{3}\\)",
+      "B. \\(66\\,\\text{cm}^{3}\\)",
+      "C. \\(99\\,\\text{cm}^{3}\\)",
+      "D. \\(132\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Volumes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Vertically opposite angles are",
+    "options": [
+      "A. supplementary",
+      "B. equal",
+      "C. complementary",
+      "D. adjacent"
+    ],
+    "answer": "B",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The exterior angle of a triangle is equal to",
+    "options": [
+      "A. sum of all interior angles",
+      "B. difference of two interior angles",
+      "C. sum of two opposite interior angles",
+      "D. product of two interior angles"
+    ],
+    "answer": "C",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Angles in the same segment of a circle are",
+    "options": [
+      "A. supplementary",
+      "B. equal",
+      "C. complementary",
+      "D. proportional"
+    ],
+    "answer": "B",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "Find the equation of the line with gradient 2 passing through (1,3).",
+    "options": [
+      "A. y = 2x - 1",
+      "B. y = 2x + 3",
+      "C. y = 2x - 5",
+      "D. y = 2x + 1"
+    ],
+    "answer": "D",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "If tan \\(\\theta = \\frac{3}{4}\\), find cos \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{4}{5}\\)",
+      "B. \\(\\frac{3}{5}\\)",
+      "C. \\(\\frac{5}{4}\\)",
+      "D. \\(\\frac{5}{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "From the top of a cliff 100m high, the angle of depression of a boat is \\(30^{\\circ}\\). Find the distance of the boat from the foot of the cliff.",
+    "options": [
+      "A. \\(100\\sqrt{3}\\) m",
+      "B. 100/\\(\\sqrt{3}\\) m",
+      "C. 50 m",
+      "D. 200 m"
+    ],
+    "answer": "A",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "A bearing of N\\(30^{\\circ}\\)E is equivalent to",
+    "options": [
+      "A. \\(120^{\\circ}\\)",
+      "B. \\(150^{\\circ}\\)",
+      "C. \\(210^{\\circ}\\)",
+      "D. \\(030^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Find the derivative of y = \\(5x^{4}\\).",
+    "options": [
+      "A. \\(5x^{3}\\)",
+      "B. \\(4x^{3}\\)",
+      "C. \\(20x^{3}\\)",
+      "D. \\(20x^{4}\\)"
+    ],
+    "answer": "C",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Find the mean of 4, 6, 8, 10, 12.",
+    "options": [
+      "A. 10",
+      "B. 8",
+      "C. 9",
+      "D. 7"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "Find the median of 4, 1, 7, 3, 9, 2.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 3.5"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "Find the mode of 2, 3, 4, 4, 5, 6, 4.",
+    "options": [
+      "A. 4",
+      "B. 3",
+      "C. 5",
+      "D. 2"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "What is the probability of getting an even number when rolling a fair die?",
+    "options": [
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{1}{6}\\)"
+    ],
+    "answer": "B",
+    "topic": "Probability",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "If a = 3i + 4j, find the magnitude of a.",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 25",
+      "D. 1"
+    ],
+    "answer": "B",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "What is the image of (2,3) under a translation vector (1,2)?",
+    "options": [
+      "A. (1,1)",
+      "B. (2,5)",
+      "C. (3,5)",
+      "D. (3,1)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "Convert \\(111_{2}\\) to base 10.",
+    "options": [
+      "A. 3",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "Evaluate 7 \\(\\times\\) 2 (mod 5).",
+    "options": [
+      "A. 4",
+      "B. 2",
+      "C. 3",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "Simplify 1.25 + 0.75.",
+    "options": [
+      "A. 1.0",
+      "B. 2.0",
+      "C. 1.5",
+      "D. 2.5"
+    ],
+    "answer": "B",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "Simplify \\(x^{5} \\div x^{2}\\).",
+    "options": [
+      "A. \\(x^{7}\\)",
+      "B. \\(x^{2}\\)",
+      "C. \\(x^{3}\\)",
+      "D. \\(x^{10}\\)"
+    ],
+    "answer": "C",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "Evaluate \\(log_{10}\\) 0.001.",
+    "options": [
+      "A. 3",
+      "B. -2",
+      "C. -3",
+      "D. 0.1"
+    ],
+    "answer": "C",
+    "topic": "Logarithms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Find the sum of the first 20 terms of the AP: 5, 8, 11, ...",
+    "options": [
+      "A. 670",
+      "B. 650",
+      "C. 680",
+      "D. 660"
+    ],
+    "answer": "A",
+    "topic": "Sequence and Series",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "If A = {x: x is an integer, \\(1 \\le x \\le\\) 5}, find n(A).",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "Rationalize 2/\\(\\sqrt{5.}\\)",
+    "options": [
+      "A. \\(\\sqrt{5}\\)",
+      "B. 5/\\(\\sqrt{5}\\)",
+      "C. \\(2\\sqrt{\\frac{5}{5}}\\)",
+      "D. \\(\\frac{2}{5}\\)"
+    ],
+    "answer": "C",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "If A = \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}\\), find \\(A^{\\top}\\).",
+    "options": [
+      "A. \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 4 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 1 & 4 \\\\ 2 & 3 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\)"
+    ],
+    "answer": "D",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Express 20% as a decimal.",
+    "options": [
+      "A. 2.0",
+      "B. 0.2",
+      "C. 0.02",
+      "D. 0.002"
+    ],
+    "answer": "B",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "If y varies inversely as \\(x^{2}\\) and y=3 when x=2, find y when x=3.",
+    "options": [
+      "A. \\(\\frac{4}{3}\\)",
+      "B. \\(\\frac{3}{4}\\)",
+      "C. 4",
+      "D. 3"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Factorize \\(x^{2} -\\) 16.",
+    "options": [
+      "A. (x-8)(x+2)",
+      "B. (x-2)(x+8)",
+      "C. \\((x-4)^{2}\\)",
+      "D. (x-4)(x+4)"
+    ],
+    "answer": "D",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "Expand (a+b)(a-b).",
+    "options": [
+      "A. \\(a^{2} - b^{2}\\)",
+      "B. \\(a^{2} + b^{2}\\)",
+      "C. \\(a^{2} + 2ab + b^{2}\\)",
+      "D. \\(a^{2} - 2ab + b^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "Solve for x: \\((\\frac{x}{3}) + 2\\) = 5.",
+    "options": [
+      "A. 6",
+      "B. 9",
+      "C. 12",
+      "D. 3"
+    ],
+    "answer": "B",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "Solve the simultaneous equations: 2x - y = 3, x + y = 6.",
+    "options": [
+      "A. x=2, y=4",
+      "B. x=4, y=2",
+      "C. x=3, y=3",
+      "D. x=1, y=5"
+    ],
+    "answer": "C",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Make x the subject of the formula y = 3x - 5.",
+    "options": [
+      "A. \\(x = \\frac{y-5}{3}\\)",
+      "B. \\(x = \\frac{y+5}{3}\\)",
+      "C. \\(x = \\frac{y}{3} -\\) 5",
+      "D. x = 3(y+5)"
+    ],
+    "answer": "B",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Form a quadratic equation whose roots are 1 and 4.",
+    "options": [
+      "A. \\(x^{2} +\\) 5x + 4 = 0",
+      "B. \\(x^{2} -\\) 3x + 4 = 0",
+      "C. \\(x^{2} +\\) 3x + 4 = 0",
+      "D. \\(x^{2} -\\) 5x + 4 = 0"
+    ],
+    "answer": "D",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "What is the equation of a line with gradient 3 and y-intercept 2?",
+    "options": [
+      "A. y = 3x + 2",
+      "B. y = 2x + 3",
+      "C. y = 3x - 2",
+      "D. y = -3x + 2"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "Solve the inequality 5 - 2x \\(\\le\\) 1.",
+    "options": [
+      "A. x \\(\\le\\) 2",
+      "B. x < 2",
+      "C. x \\(\\ge\\) 2",
+      "D. x > 2"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Simplify \\(\\frac{2x^{2} - 8}{x - 2}\\).",
+    "options": [
+      "A. 2x - 4",
+      "B. 2x",
+      "C. x + 4",
+      "D. 2x + 4"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "If g(x) = 2x - 3, find g(-1).",
+    "options": [
+      "A. -5",
+      "B. -1",
+      "C. 1",
+      "D. 5"
+    ],
+    "answer": "A",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Find the area of a rectangle with length 12cm and width 5cm.",
+    "options": [
+      "A. \\(34\\,\\text{cm}^{2}\\)",
+      "B. \\(60\\,\\text{cm}^{2}\\)",
+      "C. \\(17\\,\\text{cm}^{2}\\)",
+      "D. \\(120\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "B",
+    "topic": "Areas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "Find the area of a parallelogram with base 8cm and height 5cm.",
+    "options": [
+      "A. \\(13\\,\\text{cm}^{2}\\)",
+      "B. \\(20\\,\\text{cm}^{2}\\)",
+      "C. \\(40\\,\\text{cm}^{2}\\)",
+      "D. \\(80\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Areas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "Find the volume of a sphere with radius 3cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(113.04\\,\\text{cm}^{3}\\)",
+      "B. \\(37.68\\,\\text{cm}^{3}\\)",
+      "C. \\(84.78\\,\\text{cm}^{3}\\)",
+      "D. \\(28.26\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Volumes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 150,
+    "question": "Adjacent angles on a straight line are",
+    "options": [
+      "A. equal",
+      "B. supplementary",
+      "C. complementary",
+      "D. vertically opposite"
+    ],
+    "answer": "B",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "The sum of interior angles of a quadrilateral is",
+    "options": [
+      "A. \\(180^{\\circ}\\)",
+      "B. \\(270^{\\circ}\\)",
+      "C. \\(540^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "The angle between a tangent and a radius at the point of contact is",
+    "options": [
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(90^{\\circ}\\)",
+      "D. \\(180^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Circles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "Find the distance between (0,0) and (3,4).",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 25",
+      "D. 12"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "If sin \\(\\theta = \\frac{3}{5}\\), find tan \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{3}{4}\\)",
+      "B. \\(\\frac{4}{3}\\)",
+      "C. \\(\\frac{3}{5}\\)",
+      "D. \\(\\frac{4}{5}\\)"
+    ],
+    "answer": "A",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The angle of elevation of the top of a tower from a point 40m away is \\(45^{\\circ}\\). Find the height of the tower.",
+    "options": [
+      "A. 20m",
+      "B. \\(40\\sqrt{2}\\) m",
+      "C. 40m",
+      "D. 80m"
+    ],
+    "answer": "C",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "The bearing of a point Q from P is \\(120^{\\circ}\\). What is the bearing of P from Q?",
+    "options": [
+      "A. \\(240^{\\circ}\\)",
+      "B. \\(120^{\\circ}\\)",
+      "C. \\(060^{\\circ}\\)",
+      "D. \\(300^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Find the derivative of y = \\(2x^{3} -\\) 3x.",
+    "options": [
+      "A. \\(6x^{2} -\\) 3",
+      "B. \\(2x^{2} -\\) 3",
+      "C. 6x - 3",
+      "D. \\(3x^{2} -\\) 3"
+    ],
+    "answer": "A",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Find the mean of 3, 5, 7, 9, 11.",
+    "options": [
+      "A. 5",
+      "B. 7",
+      "C. 9",
+      "D. 6"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "Find the median of 5, 2, 8, 4, 9.",
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 5",
+      "D. 9"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 160,
+    "question": "Find the mode of 1, 2, 2, 3, 4, 2.",
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "What is the probability of getting a number greater than 4 when rolling a fair die?",
+    "options": [
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{2}{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "If p = (1,2) and q = (3,4), find p - q.",
+    "options": [
+      "A. (4,6)",
+      "B. (-2,2)",
+      "C. (2,2)",
+      "D. (-2,-2)"
+    ],
+    "answer": "D",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "What is the image of (1,2) under an enlargement with centre (0,0) and scale factor 2?",
+    "options": [
+      "A. (2,4)",
+      "B. (1,2)",
+      "C. \\((\\frac{1}{2},1)\\)",
+      "D. (4,2)"
+    ],
+    "answer": "A",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Convert \\(144_{5}\\) to base 10.",
+    "options": [
+      "A. 45",
+      "B. 47",
+      "C. 49",
+      "D. 51"
+    ],
+    "answer": "C",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "Evaluate 8 + 9 (mod 6).",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Round 3.14159 to 2 decimal places.",
+    "options": [
+      "A. 3.14",
+      "B. 3.15",
+      "C. 3.1",
+      "D. 3.142"
+    ],
+    "answer": "A",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "question": "Simplify \\((3x^{2} y) \\times (2xy^{3}\\)).",
+    "options": [
+      "A. \\(6x^{2}\\)\\(y^{3}\\)",
+      "B. \\(6x^{3}\\)\\(y^{4}\\)",
+      "C. \\(5x^{3}\\)\\(y^{4}\\)",
+      "D. \\(6x^{2}\\)\\(y^{4}\\)"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Evaluate \\(log_{4}\\) 16.",
+    "options": [
+      "A. 1",
+      "B. 4",
+      "C. 2",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "Find the 12th term of the AP: 1, 4, 7, ...",
+    "options": [
+      "A. 31",
+      "B. 37",
+      "C. 33",
+      "D. 34"
+    ],
+    "answer": "D",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "In a class of 30 students, 18 play football, 15 play basketball, and 8 play both. How many play neither?",
+    "options": [
+      "A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Sets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 171,
+    "question": "Simplify \\(\\sqrt{27} - \\sqrt{12.}\\)",
+    "options": [
+      "A. \\(\\sqrt{3}\\)",
+      "B. \\(5\\sqrt{3}\\)",
+      "C. \\(3\\sqrt{3}\\)",
+      "D. \\(\\sqrt{15}\\)"
+    ],
+    "answer": "A",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\), find 2A.",
+    "options": [
+      "A. \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 2 & 2 \\\\ 6 & 8 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 2 & 4 \\\\ 3 & 8 \\end{pmatrix}\\)"
+    ],
+    "answer": "C",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Express \\(\\frac{5}{8}\\) as a percentage.",
+    "options": [
+      "A. 58%",
+      "B. 60%",
+      "C. 60.5%",
+      "D. 62.5%"
+    ],
+    "answer": "D",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "If y varies directly as \\(\\sqrt{x}\\) and y=6 when x=4, find y when x=9.",
+    "options": [
+      "A. 6",
+      "B. 9",
+      "C. 12",
+      "D. 18"
+    ],
+    "answer": "B",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "Factorize \\(3x^{2} -\\) 12.",
+    "options": [
+      "A. \\(3(x^{2}-4)\\)",
+      "B. (3x-6)(x+2)",
+      "C. (3x-12)(x+1)",
+      "D. 3(x-2)(x+2)"
+    ],
+    "answer": "D",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Expand (2x+1)(x+3).",
+    "options": [
+      "A. \\(2x^{2} +\\) 5x + 3",
+      "B. \\(2x^{2} +\\) 7x + 3",
+      "C. \\(2x^{2} +\\) 6x + 3",
+      "D. \\(2x^{2} +\\) 7x - 3"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "Solve for x: 4x + 7 = 3x + 12.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "C",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "Solve the simultaneous equations: 3x + y = 10, x - y = 2.",
+    "options": [
+      "A. x=3, y=1",
+      "B. x=1, y=3",
+      "C. x=2, y=4",
+      "D. x=4, y=2"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "Make y the subject of the formula x = \\(\\sqrt{y+1}\\).",
+    "options": [
+      "A. y = x - 1",
+      "B. \\(y = x^{2} +\\) 1",
+      "C. \\(y = \\sqrt{x} -\\) 1",
+      "D. \\(y = x^{2} -\\) 1"
+    ],
+    "answer": "D",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "Solve the quadratic equation \\(x^{2} -\\) 3x - 10 = 0.",
+    "options": [
+      "A. x = 2 or -5",
+      "B. x = 5 or -2",
+      "C. x = -5 or -2",
+      "D. x = 5 or 2"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Find the gradient of the line 2y = 4x + 6.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 3",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "Solve the inequality 4x - 3 > 5x - 7.",
+    "options": [
+      "A. x > 4",
+      "B. x > -4",
+      "C. x < 4",
+      "D. x < -4"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "Simplify \\(\\frac{x^{2} - 9}{x^{2} - x - 6}\\).",
+    "options": [
+      "A. \\(\\frac{x-3}{x+2}\\)",
+      "B. \\(\\frac{x+3}{x-2}\\)",
+      "C. \\(\\frac{x-3}{x-2}\\)",
+      "D. \\(\\frac{x+3}{x+2}\\)"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 184,
+    "question": "If h(x) = \\(x^{2} +\\) 2x, find h(2).",
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 6",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "Find the perimeter of a regular pentagon with side 6cm.",
+    "options": [
+      "A. 24cm",
+      "B. 36cm",
+      "C. 30cm",
+      "D. 18cm"
+    ],
+    "answer": "C",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "Find the area of a circle with diameter 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(154\\,\\text{cm}^{2}\\)",
+      "B. \\(44\\,\\text{cm}^{2}\\)",
+      "C. \\(77\\,\\text{cm}^{2}\\)",
+      "D. \\(308\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Find the volume of a cuboid with length 5cm, width 3cm, height 2cm.",
+    "options": [
+      "A. \\(10\\,\\text{cm}^{3}\\)",
+      "B. \\(15\\,\\text{cm}^{3}\\)",
+      "C. \\(20\\,\\text{cm}^{3}\\)",
+      "D. \\(30\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "D",
+    "topic": "Volumes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "If two angles are complementary, their sum is",
+    "options": [
+      "A. \\(180^{\\circ}\\)",
+      "B. \\(360^{\\circ}\\)",
+      "C. \\(90^{\\circ}\\)",
+      "D. \\(270^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "If a triangle is isosceles, then the angles opposite the equal sides are",
+    "options": [
+      "A. supplementary",
+      "B. equal",
+      "C. complementary",
+      "D. right angles"
+    ],
+    "answer": "B",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The angle in the alternate segment is equal to the angle between the tangent and the",
+    "options": [
+      "A. radius",
+      "B. diameter",
+      "C. secant",
+      "D. chord"
+    ],
+    "answer": "D",
+    "topic": "Circles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "Find the midpoint of (1,2) and (5,8).",
+    "options": [
+      "A. (6,10)",
+      "B. (3,5)",
+      "C. (2,3)",
+      "D. (4,6)"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "If sin \\(\\theta = \\frac{5}{13}\\), find cos \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{5}{12}\\)",
+      "B. \\(\\frac{13}{12}\\)",
+      "C. \\(\\frac{12}{13}\\)",
+      "D. \\(\\frac{13}{5}\\)"
+    ],
+    "answer": "C",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "A man 1.8m tall casts a shadow 2.4m long. Find the angle of elevation of the sun.",
+    "options": [
+      "A. \\(36.9^{\\circ}\\)",
+      "B. \\(53.1^{\\circ}\\)",
+      "C. \\(30.0^{\\circ}\\)",
+      "D. \\(45.0^{\\circ}\\)"
+    ],
+    "answer": "A",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "The bearing of \\(135^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. N\\(45^{\\circ}\\)E",
+      "B. S\\(45^{\\circ}\\)W",
+      "C. S\\(45^{\\circ}\\)E",
+      "D. N\\(45^{\\circ}\\)W"
+    ],
+    "answer": "C",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Find the derivative of y = 7x.",
+    "options": [
+      "A. 7x",
+      "B. 7",
+      "C. x",
+      "D. 0"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "Find the mean of 2, 4, 4, 6, 9.",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 4.5",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "Find the median of 1, 3, 5, 7, 9, 11, 13.",
+    "options": [
+      "A. 7",
+      "B. 6",
+      "C. 8",
+      "D. 5"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "Find the mode of 3, 5, 5, 7, 8, 5.",
+    "options": [
+      "A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "If two coins are tossed, what is the probability of getting two heads?",
+    "options": [
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{1}{3}\\)",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "If a = (3,-4), find |a|.",
+    "options": [
+      "A. 7",
+      "B. 25",
+      "C. 5",
+      "D. 1"
+    ],
+    "answer": "C",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "What is the image of (2,3) under reflection in the line y = x?",
+    "options": [
+      "A. (2,-3)",
+      "B. (3,2)",
+      "C. (-2,3)",
+      "D. (-3,-2)"
+    ],
+    "answer": "B",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Convert \\(101_{2} + 11_{2}\\).",
+    "options": [
+      "A. \\(110_{2}\\)",
+      "B. \\(111_{2}\\)",
+      "C. \\(1000_{2}\\)",
+      "D. \\(1000_{2}\\)"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "Evaluate 17 mod 5.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 5",
+      "D. 12"
+    ],
+    "answer": "A",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "Express 0.00025 in standard form.",
+    "options": [
+      "A. \\(25 \\times 10^{-5}\\)",
+      "B. \\(2.5 \\times 10^{4}\\)",
+      "C. \\(2.5 \\times 10^{-4}\\)",
+      "D. \\(0.25 \\times 10^{-3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "Simplify \\(3^{-2}\\).",
+    "options": [
+      "A. 9",
+      "B. \\(\\frac{1}{9}\\)",
+      "C. \\(\\frac{1}{3}\\)",
+      "D. -9"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "question": "Evaluate \\(log_{10}\\) 1.",
+    "options": [
+      "A. 1",
+      "B. 10",
+      "C. -1",
+      "D. 0"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "question": "Find the 10th term of the sequence: 2, 4, 6, 8, ...",
+    "options": [
+      "A. 20",
+      "B. 18",
+      "C. 22",
+      "D. 24"
+    ],
+    "answer": "A",
+    "topic": "Sequence and Series",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "If A = \\(\\{2,4,6,8\\}\\) and B = \\(\\{1,2,3,4\\}\\), find A \\(\\cap\\) B.",
+    "options": [
+      "A. \\(\\{1,2,3,4,6,8\\}\\)",
+      "B. \\(\\{1,3\\}\\)",
+      "C. \\(\\{2,4\\}\\)",
+      "D. \\(\\{6,8\\}\\)"
+    ],
+    "answer": "C",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 209,
+    "question": "Simplify \\(\\sqrt{20.}\\)",
+    "options": [
+      "A. \\(4\\sqrt{5}\\)",
+      "B. \\(5\\sqrt{4}\\)",
+      "C. \\(2\\sqrt{5}\\)",
+      "D. \\(10\\sqrt{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "If A = \\(\\begin{pmatrix} 3 & 1 \\\\ 2 & 4 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 12",
+      "B. 10",
+      "C. 14",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "Express 40% as a ratio in its lowest term.",
+    "options": [
+      "A. 4:10",
+      "B. 40:100",
+      "C. 2:5",
+      "D. 5:2"
+    ],
+    "answer": "C",
+    "topic": "Ratio, Proportions and Rates",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "If y varies jointly as x and z, and y=12 when x=2 and z=3, find y when x=4 and z=5.",
+    "options": [
+      "A. 20",
+      "B. 24",
+      "C. 48",
+      "D. 40"
+    ],
+    "answer": "D",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 213,
+    "question": "Factorize \\(a^{2} - 4b^{2}\\).",
+    "options": [
+      "A. \\((a-2b)^{2}\\)",
+      "B. (a-2b)(a+2b)",
+      "C. (a-4b)(a+b)",
+      "D. \\((a+2b)^{2}\\)"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Expand (3x-\\(2)^{2}\\).",
+    "options": [
+      "A. \\(9x^{2} -\\) 12x + 4",
+      "B. \\(9x^{2} +\\) 12x + 4",
+      "C. \\(9x^{2} -\\) 6x + 4",
+      "D. \\(9x^{2} -\\) 12x - 4"
+    ],
+    "answer": "A",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Solve for x: 2(x-3) = 10.",
+    "options": [
+      "A. 5",
+      "B. 8",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "B",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "Solve the simultaneous equations: 4x + 3y = 18, 2x - 3y = 6.",
+    "options": [
+      "A. x=4, \\(y=\\frac{2}{3}\\)",
+      "B. x=3, y=2",
+      "C. x=2, \\(y=\\frac{10}{3}\\)",
+      "D. x=5, \\(y=-\\frac{2}{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "Make x the subject of the formula y = 5 - 2x.",
+    "options": [
+      "A. \\(x = \\frac{y-5}{2}\\)",
+      "B. x = 2y - 5",
+      "C. \\(x = \\frac{5-y}{2}\\)",
+      "D. \\(x = \\frac{5y}{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "Find the quadratic equation whose roots are -1 and -2.",
+    "options": [
+      "A. \\(x^{2} -\\) 3x + 2 = 0",
+      "B. \\(x^{2} +\\) 3x + 2 = 0",
+      "C. \\(x^{2} +\\) 3x - 2 = 0",
+      "D. \\(x^{2} -\\) 3x - 2 = 0"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Find the gradient of the line passing through (-2,3) and (4,-1).",
+    "options": [
+      "A. \\(\\frac{2}{3}\\)",
+      "B. \\(\\frac{3}{2}\\)",
+      "C. \\(-\\frac{3}{2}\\)",
+      "D. \\(-\\frac{2}{3}\\)"
+    ],
+    "answer": "D",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "Solve the inequality 2x + 5 > 3x - 1.",
+    "options": [
+      "A. x > 6",
+      "B. x > -6",
+      "C. x < 6",
+      "D. x < -6"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "Simplify \\(\\frac{x^{2} - 16}{x^{2} + 4x}\\).",
+    "options": [
+      "A. \\(\\frac{x-4}{x}\\)",
+      "B. \\(\\frac{x+4}{x}\\)",
+      "C. \\(\\frac{x-4}{x+4}\\)",
+      "D. \\(\\frac{x+4}{x-4}\\)"
+    ],
+    "answer": "A",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "If f(x) = \\(2x^{2} -\\) 3x + 1, find f(2).",
+    "options": [
+      "A. 1",
+      "B. 3",
+      "C. 5",
+      "D. 7"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Find the circumference of a circle with diameter 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. 28cm",
+      "B. 154cm",
+      "C. 44cm",
+      "D. 22cm"
+    ],
+    "answer": "C",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "Find the area of a triangle with sides 5cm, 12cm, and included angle \\(90^{\\circ}\\).",
+    "options": [
+      "A. \\(60\\,\\text{cm}^{2}\\)",
+      "B. \\(17\\,\\text{cm}^{2}\\)",
+      "C. \\(13\\,\\text{cm}^{2}\\)",
+      "D. \\(30\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "D",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "Find the volume of a pyramid with base area \\(36\\,\\text{cm}^{2}\\) and height 5cm.",
+    "options": [
+      "A. \\(60\\,\\text{cm}^{3}\\)",
+      "B. \\(180\\,\\text{cm}^{3}\\)",
+      "C. \\(90\\,\\text{cm}^{3}\\)",
+      "D. \\(120\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Volumes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "If two angles are supplementary, their sum is",
+    "options": [
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(270^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
+    ],
+    "answer": "B",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "The sum of exterior angles of any polygon is",
+    "options": [
+      "A. \\(180^{\\circ}\\)",
+      "B. \\(270^{\\circ}\\)",
+      "C. \\(540^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Angles in opposite segments of a circle are",
+    "options": [
+      "A. equal",
+      "B. complementary",
+      "C. supplementary",
+      "D. vertically opposite"
+    ],
+    "answer": "C",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "Find the distance between (2,-1) and (5,3).",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 25",
+      "D. \\(\\sqrt{5}\\)"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "If cos \\(\\theta = \\frac{8}{17}\\), find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{15}{17}\\)",
+      "B. \\(\\frac{17}{15}\\)",
+      "C. \\(\\frac{8}{15}\\)",
+      "D. \\(\\frac{15}{8}\\)"
+    ],
+    "answer": "A",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "A tree 20m tall casts a shadow 20m long. Find the angle of elevation of the sun.",
+    "options": [
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "The bearing of \\(225^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. N\\(45^{\\circ}\\)E",
+      "B. S\\(45^{\\circ}\\)E",
+      "C. N\\(45^{\\circ}\\)W",
+      "D. S\\(45^{\\circ}\\)W"
+    ],
+    "answer": "D",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "Find the derivative of y = \\(x^{2} +\\) 5x + 6.",
+    "options": [
+      "A. 2x",
+      "B. 2x + 5",
+      "C. x + 5",
+      "D. 2x + 6"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "Find the mean of 10, 20, 30, 40, 50.",
+    "options": [
+      "A. 30",
+      "B. 25",
+      "C. 35",
+      "D. 40"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "Find the median of 2, 7, 4, 9, 5, 3.",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 4.5",
+      "D. 7"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Find the mode of 1, 2, 2, 3, 3, 3, 4.",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 3"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "If a die is rolled, what is the probability of getting a prime number?",
+    "options": [
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{1}{6}\\)"
+    ],
+    "answer": "B",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "If u = 2i - 3j and v = i + 4j, find u + v.",
+    "options": [
+      "A. 3i + j",
+      "B. i - 7j",
+      "C. 3i - j",
+      "D. -i - 7j"
+    ],
+    "answer": "A",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "What is the image of (4,1) under a \\(180^{\\circ}\\) rotation about the origin?",
+    "options": [
+      "A. (4,-1)",
+      "B. (-4,1)",
+      "C. (-4,-1)",
+      "D. (1,4)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 240,
+    "question": "Convert \\(1000_{2}\\) to base 10.",
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 10",
+      "D. 16"
+    ],
+    "answer": "B",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "Evaluate 3 \\(\\times\\) 4 (mod 7).",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "Simplify 2.5 \\(\\times\\) 0.4.",
+    "options": [
+      "A. 1.0",
+      "B. 10.0",
+      "C. 0.1",
+      "D. 0.01"
+    ],
+    "answer": "A",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "Simplify \\((x^{2}\\)\\()^{4}\\).",
+    "options": [
+      "A. \\(x^{6}\\)",
+      "B. \\(x^{2}\\)",
+      "C. \\(x^{8}\\)",
+      "D. \\(x^{16}\\)"
+    ],
+    "answer": "C",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "Evaluate \\(log_{2}\\) 32.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 16",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Find the sum of the first 15 terms of the AP: 3, 6, 9, ...",
+    "options": [
+      "A. 360",
+      "B. 340",
+      "C. 380",
+      "D. 320"
+    ],
+    "answer": "A",
+    "topic": "Sequence and Series",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "If A = \\(\\{a,b,c,d\\}\\), find the number of subsets of A.",
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 16",
+      "D. 32"
+    ],
+    "answer": "C",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "Simplify \\(\\sqrt{45.}\\)",
+    "options": [
+      "A. \\(5\\sqrt{3}\\)",
+      "B. \\(3\\sqrt{5}\\)",
+      "C. \\(15\\sqrt{3}\\)",
+      "D. \\(9\\sqrt{5}\\)"
+    ],
+    "answer": "B",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\) and B = \\(\\begin{pmatrix} 2 & 0 \\\\ 1 & 3 \\end{pmatrix}\\), find A + B.",
+    "options": [
+      "A. \\(\\begin{pmatrix} 2 & 2 \\\\ 4 & 7 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 3 & 2 \\\\ 3 & 7 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 3 & 0 \\\\ 4 & 7 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 3 & 2 \\\\ 4 & 7 \\end{pmatrix}\\)"
+    ],
+    "answer": "D",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Express 12.5% as a fraction.",
+    "options": [
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{5}\\)",
+      "C. \\(\\frac{1}{8}\\)",
+      "D. \\(\\frac{1}{10}\\)"
+    ],
+    "answer": "C",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "If y varies inversely as x and y=6 when x=2, find x when y=4.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Factorize \\(x^{2} -\\) 7x + 12.",
+    "options": [
+      "A. (x-2)(x-6)",
+      "B. (x-3)(x-4)",
+      "C. (x+3)(x+4)",
+      "D. (x-1)(x-12)"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "Expand (x-2)(x+5).",
+    "options": [
+      "A. \\(x^{2} -\\) 3x - 10",
+      "B. \\(x^{2} +\\) 3x + 10",
+      "C. \\(x^{2} +\\) 3x - 10",
+      "D. \\(x^{2} -\\) 3x + 10"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "Solve for x: 3(2x-1) = 15.",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 3"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Solve the simultaneous equations: x + 2y = 8, 2x - y = 6.",
+    "options": [
+      "A. x=4, y=2",
+      "B. x=2, y=4",
+      "C. x=6, y=1",
+      "D. x=5, y=1.5"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "Make b the subject of the formula a = \\(\\frac{b+c}{2}\\).",
+    "options": [
+      "A. b = 2a + c",
+      "B. b = a - 2c",
+      "C. b = 2a - c",
+      "D. \\(b = \\frac{a-c}{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Form a quadratic equation whose roots are 3 and 3.",
+    "options": [
+      "A. \\(x^{2} +\\) 6x + 9 = 0",
+      "B. \\(x^{2} -\\) 6x + 9 = 0",
+      "C. \\(x^{2} -\\) 6x - 9 = 0",
+      "D. \\(x^{2} +\\) 6x - 9 = 0"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "What is the y-intercept of the line 3x + 2y = 6?",
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. -3",
+      "D. 6"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "Solve the inequality 3 - 2x < 7.",
+    "options": [
+      "A. x < -2",
+      "B. x > 2",
+      "C. x < 2",
+      "D. x > -2"
+    ],
+    "answer": "D",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "Simplify \\(\\frac{x^{2} - 4x}{x^{2} - 16}\\).",
+    "options": [
+      "A. \\(\\frac{x}{x-4}\\)",
+      "B. \\(\\frac{x}{x+4}\\)",
+      "C. \\(\\frac{x-4}{x+4}\\)",
+      "D. \\(\\frac{1}{x+4}\\)"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "If f(x) = 3x - 2 and g(x) = x + 1, find f(g(2)).",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Functions and Relations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "Find the perimeter of a regular hexagon with side 5cm.",
+    "options": [
+      "A. 20cm",
+      "B. 25cm",
+      "C. 35cm",
+      "D. 30cm"
+    ],
+    "answer": "D",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "Find the area of a sector of a circle with radius 7cm and angle \\(90^{\\circ}\\)\\(. (\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(38.5\\,\\text{cm}^{2}\\)",
+      "B. \\(77\\,\\text{cm}^{2}\\)",
+      "C. \\(154\\,\\text{cm}^{2}\\)",
+      "D. \\(19.25\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "Find the volume of a hemisphere with radius 3cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(113.04\\,\\text{cm}^{3}\\)",
+      "B. \\(56.52\\,\\text{cm}^{3}\\)",
+      "C. \\(28.26\\,\\text{cm}^{3}\\)",
+      "D. \\(84.78\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Volumes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "The exterior angle of a regular polygon is \\(30^{\\circ}\\). How many sides does the polygon have?",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 10",
+      "D. 12"
+    ],
+    "answer": "D",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "The angle at the centre of a circle is \\(80^{\\circ}\\). What is the angle at the circumference subtended by the same arc?",
+    "options": [
+      "A. \\(80^{\\circ}\\)",
+      "B. \\(160^{\\circ}\\)",
+      "C. \\(40^{\\circ}\\)",
+      "D. \\(20^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "Find the equation of a line passing through (2,3) and (4,7).",
+    "options": [
+      "A. y = 2x + 1",
+      "B. y = 2x - 1",
+      "C. y = 3x - 3",
+      "D. y = 2x + 7"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "If tan \\(\\theta = \\frac{5}{12}\\), find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{12}{13}\\)",
+      "B. \\(\\frac{13}{5}\\)",
+      "C. \\(\\frac{12}{5}\\)",
+      "D. \\(\\frac{5}{13}\\)"
+    ],
+    "answer": "D",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "From a point 30m from the base of a building, the angle of elevation of the top is \\(60^{\\circ}\\). Find the height.",
+    "options": [
+      "A. \\(30\\sqrt{3}\\) m",
+      "B. 30/\\(\\sqrt{3}\\) m",
+      "C. 60 m",
+      "D. \\(15\\sqrt{3}\\) m"
+    ],
+    "answer": "A",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "The bearing of a ship from a port is \\(040^{\\circ}\\). What is the bearing of the port from the ship?",
+    "options": [
+      "A. \\(040^{\\circ}\\)",
+      "B. \\(140^{\\circ}\\)",
+      "C. \\(220^{\\circ}\\)",
+      "D. \\(320^{\\circ}\\)"
+    ],
+    "answer": "C",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Find the derivative of y = \\(6x^{2}\\).",
+    "options": [
+      "A. 6x",
+      "B. 12x",
+      "C. \\(12x^{2}\\)",
+      "D. 2x"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "Find the mean of 1, 2, 3, 4, 5, 6, 7.",
+    "options": [
+      "A. 3",
+      "B. 5",
+      "C. 6",
+      "D. 4"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "Find the median of 8, 3, 5, 1, 9.",
+    "options": [
+      "A. 3",
+      "B. 8",
+      "C. 5",
+      "D. 9"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "Find the mode of 2, 4, 4, 6, 7, 4, 9.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 6",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "If two dice are rolled, what is the probability of getting a sum of 7?",
+    "options": [
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{1}{12}\\)",
+      "C. \\(\\frac{5}{36}\\)",
+      "D. \\(\\frac{1}{9}\\)"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "If a = (4,3), find 2a.",
+    "options": [
+      "A. (4,3)",
+      "B. (2,1.5)",
+      "C. (8,6)",
+      "D. (6,8)"
+    ],
+    "answer": "C",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "What is the image of (3,5) under reflection in the y-axis?",
+    "options": [
+      "A. (-3,5)",
+      "B. (3,-5)",
+      "C. (-3,-5)",
+      "D. (5,3)"
+    ],
+    "answer": "A",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Convert \\(21_{4}\\) to base 10.",
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 11",
+      "D. 5"
+    ],
+    "answer": "B",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "Evaluate 13 mod 6.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 5",
+      "D. 1"
+    ],
+    "answer": "D",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "Express 0.0003 in standard form.",
+    "options": [
+      "A. \\(3 \\times 10^{-4}\\)",
+      "B. \\(3 \\times 10^{4}\\)",
+      "C. \\(0.3 \\times 10^{-3}\\)",
+      "D. \\(30 \\times 10^{-5}\\)"
+    ],
+    "answer": "A",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "Simplify \\((2^{3}\\)\\()^{2}\\).",
+    "options": [
+      "A. \\(2^{5}\\)",
+      "B. \\(2^{9}\\)",
+      "C. 64",
+      "D. 32"
+    ],
+    "answer": "C",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "Evaluate \\(log_{5}\\) 125.",
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 25",
+      "D. 15"
+    ],
+    "answer": "B",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Find the 6th term of the GP: 3, 6, 12, ...",
+    "options": [
+      "A. 48",
+      "B. 72",
+      "C. 84",
+      "D. 96"
+    ],
+    "answer": "D",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "In a survey of 50 people, 30 like tea, 25 like coffee, and 10 like both. How many like neither?",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 15",
+      "D. 20"
+    ],
+    "answer": "A",
+    "topic": "Sets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "Simplify \\(\\sqrt{48.}\\)",
+    "options": [
+      "A. \\(3\\sqrt{4}\\)",
+      "B. \\(2\\sqrt{12}\\)",
+      "C. \\(4\\sqrt{3}\\)",
+      "D. \\(6\\sqrt{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "If A = \\(\\begin{pmatrix} 2 & 5 \\\\ 1 & 3 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 11",
+      "B. 1",
+      "C. -1",
+      "D. 5"
+    ],
+    "answer": "B",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "Express \\(\\frac{3}{5}\\) as a percentage.",
+    "options": [
+      "A. 35%",
+      "B. 53%",
+      "C. 65%",
+      "D. 60%"
+    ],
+    "answer": "D",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "If y varies directly as x and y=15 when x=3, find x when y=25.",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Factorize \\(4x^{2} -\\) 9.",
+    "options": [
+      "A. (4x-3)(x+3)",
+      "B. (2x-9)(2x+1)",
+      "C. (2x-3)(2x+3)",
+      "D. \\((2x-3)^{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Expand (x+4)(x-4).",
+    "options": [
+      "A. \\(x^{2} +\\) 16",
+      "B. \\(x^{2} -\\) 16",
+      "C. \\(x^{2} -\\) 8x + 16",
+      "D. \\(x^{2} +\\) 8x + 16"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "Solve for x: \\((\\frac{2x}{3}) - 1\\) = 3.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "Solve the simultaneous equations: x + y = 7, x - y = 1.",
+    "options": [
+      "A. x=4, y=3",
+      "B. x=3, y=4",
+      "C. x=5, y=2",
+      "D. x=6, y=1"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Make t the subject of the formula v = u + at.",
+    "options": [
+      "A. \\(t = v-\\frac{u}{a}\\)",
+      "B. t = a(v-u)",
+      "C. \\(t = \\frac{v-u}{a}\\)",
+      "D. \\(t = \\frac{u-v}{a}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "Solve the quadratic equation \\(x^{2} +\\) x - 12 = 0.",
+    "options": [
+      "A. x = 4 or -3",
+      "B. x = -4 or 3",
+      "C. x = -4 or -3",
+      "D. x = 4 or 3"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Find the gradient of the line y = -2x + 5.",
+    "options": [
+      "A. -2",
+      "B. 2",
+      "C. 5",
+      "D. -5"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "Solve the inequality 5x - 2 \\(\\ge 3x\\) + 4.",
+    "options": [
+      "A. x \\(\\le\\) 3",
+      "B. x < 3",
+      "C. x > 3",
+      "D. x \\(\\ge\\) 3"
+    ],
+    "answer": "D",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Simplify \\(\\frac{x^{2} + 5x + 6}{x + 2}\\).",
+    "options": [
+      "A. x + 2",
+      "B. x + 1",
+      "C. x + 3",
+      "D. x + 4"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "If f(x) = \\(x^{2} +\\) 3, find f(-2).",
+    "options": [
+      "A. 1",
+      "B. 7",
+      "C. -1",
+      "D. 5"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "Find the area of a square with perimeter 20cm.",
+    "options": [
+      "A. \\(25\\,\\text{cm}^{2}\\)",
+      "B. \\(20\\,\\text{cm}^{2}\\)",
+      "C. \\(100\\,\\text{cm}^{2}\\)",
+      "D. \\(16\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "Find the area of a circle with radius 10cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(31.4\\,\\text{cm}^{2}\\)",
+      "B. \\(62.8\\,\\text{cm}^{2}\\)",
+      "C. \\(314\\,\\text{cm}^{2}\\)",
+      "D. \\(100\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "Find the volume of a cylinder with radius 2cm and height 10cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(62.8\\,\\text{cm}^{3}\\)",
+      "B. \\(125.6\\,\\text{cm}^{3}\\)",
+      "C. \\(40\\,\\text{cm}^{3}\\)",
+      "D. \\(251.2\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Volumes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The sum of angles of a triangle is",
+    "options": [
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(270^{\\circ}\\)",
+      "C. \\(360^{\\circ}\\)",
+      "D. \\(180^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "In a parallelogram, opposite angles are",
+    "options": [
+      "A. equal",
+      "B. supplementary",
+      "C. complementary",
+      "D. right angles"
+    ],
+    "answer": "A",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "The perpendicular from the centre of a circle to a chord",
+    "options": [
+      "A. is equal to the chord",
+      "B. is parallel to the chord",
+      "C. bisects the chord",
+      "D. is twice the chord"
+    ],
+    "answer": "C",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "Find the distance between (-1,2) and (3,5).",
+    "options": [
+      "A. 7",
+      "B. 5",
+      "C. 25",
+      "D. \\(\\sqrt{7}\\)"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "If sin \\(\\theta = \\frac{7}{25}\\), find cos \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{7}{24}\\)",
+      "B. \\(\\frac{25}{24}\\)",
+      "C. \\(\\frac{24}{7}\\)",
+      "D. \\(\\frac{24}{25}\\)"
+    ],
+    "answer": "D",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The angle of depression of a boat from the top of a cliff 60m high is \\(30^{\\circ}\\). Find the distance of the boat from the foot of the cliff.",
+    "options": [
+      "A. \\(60\\sqrt{3}\\) m",
+      "B. 60/\\(\\sqrt{3}\\) m",
+      "C. 30 m",
+      "D. 120 m"
+    ],
+    "answer": "A",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 307,
+    "question": "The bearing of \\(270^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. North",
+      "B. South",
+      "C. West",
+      "D. East"
+    ],
+    "answer": "C",
+    "topic": "Bearings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "question": "Find the derivative of y = \\(3x^{2} +\\) 2x - 1.",
+    "options": [
+      "A. 6x",
+      "B. 6x + 2",
+      "C. 3x + 2",
+      "D. 6x - 1"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "Find the mean of 12, 14, 16, 18, 20.",
+    "options": [
+      "A. 16",
+      "B. 15",
+      "C. 17",
+      "D. 18"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "question": "Find the median of 3, 8, 5, 2, 9, 4.",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 4.5",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Find the mode of 3, 4, 4, 5, 5, 5, 6.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "A bag contains 3 red and 5 blue balls. What is the probability of picking a red ball?",
+    "options": [
+      "A. \\(\\frac{5}{8}\\)",
+      "B. \\(\\frac{3}{8}\\)",
+      "C. \\(\\frac{1}{3}\\)",
+      "D. \\(\\frac{1}{5}\\)"
+    ],
+    "answer": "B",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "If a = 3i + 4j and b = 2i - j, find a - b.",
+    "options": [
+      "A. i + 5j",
+      "B. 5i + 3j",
+      "C. i + 3j",
+      "D. 5i + 5j"
+    ],
+    "answer": "A",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "What is the image of (2,5) under a translation vector (-1,3)?",
+    "options": [
+      "A. (3,2)",
+      "B. (-2,15)",
+      "C. (1,8)",
+      "D. (1,2)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "Convert \\(1111_{2}\\) to base 10.",
+    "options": [
+      "A. 7",
+      "B. 11",
+      "C. 13",
+      "D. 15"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Evaluate 5 \\(\\times\\) 5 (mod 6).",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 5",
+      "D. 7"
+    ],
+    "answer": "A",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "Simplify 4.5 \\(\\div\\) 0.09.",
+    "options": [
+      "A. 0.5",
+      "B. 5",
+      "C. 50",
+      "D. 500"
+    ],
+    "answer": "C",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Simplify \\((a^{3}\\)\\()^{4}\\).",
+    "options": [
+      "A. \\(a^{7}\\)",
+      "B. \\(a^{12}\\)",
+      "C. \\(a^{34}\\)",
+      "D. \\(a^{64}\\)"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "Evaluate \\(log_{7}\\) 49.",
+    "options": [
+      "A. 7",
+      "B. 1",
+      "C. 14",
+      "D. 2"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "Find the sum of the first 12 terms of the AP: 4, 7, 10, ...",
+    "options": [
+      "A. 246",
+      "B. 252",
+      "C. 240",
+      "D. 234"
+    ],
+    "answer": "A",
+    "topic": "Sequence and Series",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "question": "If A = \\(\\{1,2,3,4,5\\}\\) and B = \\(\\{4,5,6,7\\}\\), find A \\(\\cup\\) B.",
+    "options": [
+      "A. \\(\\{4,5\\}\\)",
+      "B. \\(\\{1,2,3\\}\\)",
+      "C. \\(\\{1,2,3,4,5,6,7\\}\\)",
+      "D. \\(\\{6,7\\}\\)"
+    ],
+    "answer": "C",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "Simplify \\(\\sqrt{12} + \\sqrt{27.}\\)",
+    "options": [
+      "A. \\(5\\sqrt{6}\\)",
+      "B. \\(5\\sqrt{3}\\)",
+      "C. \\(13\\sqrt{3}\\)",
+      "D. \\(3\\sqrt{5}\\)"
+    ],
+    "answer": "B",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "If A = \\(\\begin{pmatrix} 3 & 2 \\\\ 1 & 4 \\end{pmatrix}\\), find the determinant.",
+    "options": [
+      "A. 12",
+      "B. 14",
+      "C. 8",
+      "D. 10"
+    ],
+    "answer": "D",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "Express 0.6 as a fraction in its lowest term.",
+    "options": [
+      "A. \\(\\frac{6}{10}\\)",
+      "B. \\(\\frac{2}{3}\\)",
+      "C. \\(\\frac{3}{5}\\)",
+      "D. \\(\\frac{5}{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "If y varies inversely as x and y=8 when x=3, find y when x=4.",
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 12",
+      "D. 4"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Factorize \\(x^{2} +\\) 7x + 12.",
+    "options": [
+      "A. (x+2)(x+6)",
+      "B. (x+3)(x+4)",
+      "C. (x+1)(x+12)",
+      "D. (x-3)(x-4)"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "Expand (2x-3)(x+4).",
+    "options": [
+      "A. \\(2x^{2} -\\) 5x - 12",
+      "B. \\(2x^{2} +\\) 5x + 12",
+      "C. \\(2x^{2} +\\) 5x - 12",
+      "D. \\(2x^{2} -\\) 5x + 12"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "Solve for x: \\((\\frac{x}{4}) + 3\\) = 7.",
+    "options": [
+      "A. 8",
+      "B. 12",
+      "C. 4",
+      "D. 16"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "Solve the simultaneous equations: 5x + 2y = 16, 3x - y = 5.",
+    "options": [
+      "A. \\(x=\\frac{26}{11}\\), \\(y=\\frac{23}{11}\\)",
+      "B. x=2, y=3",
+      "C. x=3, y=1",
+      "D. x=4, y=-2"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "Make a the subject of the formula \\(v^{2} = u^{2} +\\) 2as.",
+    "options": [
+      "A. \\(a = \\frac{v^{2}+u^{2}}{2s}\\)",
+      "B. \\(a = 2s(v^{2} - u^{2}\\))",
+      "C. \\(a = \\frac{v^{2}-u^{2}}{2s}\\)",
+      "D. \\(a = \\frac{u^{2}-v^{2}}{2s}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Form a quadratic equation whose roots are -2 and 5.",
+    "options": [
+      "A. \\(x^{2} +\\) 3x - 10 = 0",
+      "B. \\(x^{2} -\\) 3x - 10 = 0",
+      "C. \\(x^{2} -\\) 3x + 10 = 0",
+      "D. \\(x^{2} +\\) 3x + 10 = 0"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "Find the x-intercept of the line y = 2x - 4.",
+    "options": [
+      "A. -4",
+      "B. 4",
+      "C. -2",
+      "D. 2"
+    ],
+    "answer": "D",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "Solve the inequality 7 - 3x > 1.",
+    "options": [
+      "A. x < 2",
+      "B. x > 2",
+      "C. x < -2",
+      "D. x > -2"
+    ],
+    "answer": "A",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "Simplify \\(\\frac{x^{2} - x - 6}{x - 3}\\).",
+    "options": [
+      "A. x - 2",
+      "B. x + 3",
+      "C. x + 2",
+      "D. x - 3"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "If f(x) = 5x + 1, find f(0).",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "question": "Find the perimeter of a rectangle with length 15cm and width 8cm.",
+    "options": [
+      "A. 46cm",
+      "B. 120cm",
+      "C. 23cm",
+      "D. 60cm"
+    ],
+    "answer": "A",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "Find the area of a triangle with base 10cm and height 7cm.",
+    "options": [
+      "A. \\(70\\,\\text{cm}^{2}\\)",
+      "B. \\(17\\,\\text{cm}^{2}\\)",
+      "C. \\(140\\,\\text{cm}^{2}\\)",
+      "D. \\(35\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "D",
+    "topic": "Areas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 338,
+    "question": "Find the volume of a cube with side 5cm.",
+    "options": [
+      "A. \\(25\\,\\text{cm}^{3}\\)",
+      "B. \\(15\\,\\text{cm}^{3}\\)",
+      "C. \\(125\\,\\text{cm}^{3}\\)",
+      "D. \\(100\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Volumes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "The diagonals of a parallelogram",
+    "options": [
+      "A. are equal",
+      "B. bisect each other",
+      "C. are perpendicular",
+      "D. bisect at right angles"
+    ],
+    "answer": "B",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "The angle subtended at the circumference by a diameter is",
+    "options": [
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(180^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Circles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "question": "Find the midpoint of (3,-2) and (7,4).",
+    "options": [
+      "A. (5,1)",
+      "B. (4,1)",
+      "C. (10,2)",
+      "D. (2,3)"
+    ],
+    "answer": "A",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "If tan \\(\\theta = \\frac{8}{15}\\), find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{15}{17}\\)",
+      "B. \\(\\frac{17}{8}\\)",
+      "C. \\(\\frac{8}{17}\\)",
+      "D. \\(\\frac{15}{8}\\)"
+    ],
+    "answer": "C",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "A ladder 10m long leans against a wall making an angle of \\(30^{\\circ}\\) with the wall. How far is the foot of the ladder from the wall?",
+    "options": [
+      "A. 10m",
+      "B. 5m",
+      "C. \\(5\\sqrt{3}\\) m",
+      "D. \\(10\\sqrt{3}\\) m"
+    ],
+    "answer": "B",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "The bearing of \\(180^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. North",
+      "B. East",
+      "C. West",
+      "D. South"
+    ],
+    "answer": "D",
+    "topic": "Bearings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "Find the derivative of y = \\(2x^{4}\\).",
+    "options": [
+      "A. \\(2x^{3}\\)",
+      "B. \\(8x^{3}\\)",
+      "C. \\(8x^{4}\\)",
+      "D. \\(4x^{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "Find the mean of 6, 8, 10, 12, 14.",
+    "options": [
+      "A. 10",
+      "B. 9",
+      "C. 11",
+      "D. 12"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "Find the median of 7, 3, 9, 1, 5.",
+    "options": [
+      "A. 3",
+      "B. 7",
+      "C. 5",
+      "D. 9"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "Find the mode of 2, 3, 5, 5, 6, 5, 8.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 349,
+    "question": "If a card is picked from a standard deck, what is the probability of getting a king?",
+    "options": [
+      "A. \\(\\frac{1}{13}\\)",
+      "B. \\(\\frac{1}{4}\\)",
+      "C. \\(\\frac{4}{13}\\)",
+      "D. \\(\\frac{1}{52}\\)"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "If a = (5,0) and b = (0,3), find a + b.",
+    "options": [
+      "A. (5,0)",
+      "B. (0,3)",
+      "C. (5,3)",
+      "D. (0,0)"
+    ],
+    "answer": "C",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "What is the image of (1,1) under a \\(90^{\\circ}\\) anticlockwise rotation about the origin?",
+    "options": [
+      "A. (1,-1)",
+      "B. (-1,1)",
+      "C. (-1,-1)",
+      "D. (1,1)"
+    ],
+    "answer": "B",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "Convert \\(202_{3}\\) to base 10.",
+    "options": [
+      "A. 18",
+      "B. 22",
+      "C. 24",
+      "D. 20"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "question": "Evaluate 15 mod 8.",
+    "options": [
+      "A. 1",
+      "B. 5",
+      "C. 7",
+      "D. 8"
+    ],
+    "answer": "C",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "Round 5.678 to 1 decimal place.",
+    "options": [
+      "A. 5.6",
+      "B. 5.7",
+      "C. 5.68",
+      "D. 6.0"
+    ],
+    "answer": "B",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 355,
+    "question": "Simplify \\((2x^{2}\\)\\()^{3}\\).",
+    "options": [
+      "A. \\(8x^{6}\\)",
+      "B. \\(6x^{6}\\)",
+      "C. \\(8x^{5}\\)",
+      "D. \\(2x^{6}\\)"
+    ],
+    "answer": "A",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "Evaluate \\(log_{3} \\frac{1}{9}\\).",
+    "options": [
+      "A. 2",
+      "B. -1",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. -2"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "Find the 9th term of the AP: 5, 9, 13, ...",
+    "options": [
+      "A. 33",
+      "B. 35",
+      "C. 37",
+      "D. 39"
+    ],
+    "answer": "C",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "If A = \\(\\{2,3,4\\}\\) and B = \\(\\{4,5,6\\}\\), find n(A \\(\\cup\\) B).",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 4",
+      "D. 3"
+    ],
+    "answer": "A",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "Simplify \\(\\sqrt{98.}\\)",
+    "options": [
+      "A. \\(2\\sqrt{7}\\)",
+      "B. \\(7\\sqrt{2}\\)",
+      "C. \\(14\\sqrt{2}\\)",
+      "D. \\(49\\sqrt{2}\\)"
+    ],
+    "answer": "B",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 2 & 1 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 3",
+      "B. 1",
+      "C. 5",
+      "D. -3"
+    ],
+    "answer": "D",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "Express \\(\\frac{7}{20}\\) as a decimal.",
+    "options": [
+      "A. 0.7",
+      "B. 0.27",
+      "C. 0.35",
+      "D. 0.45"
+    ],
+    "answer": "C",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "If y varies directly as x and y=21 when x=7, find y when x=10.",
+    "options": [
+      "A. 30",
+      "B. 21",
+      "C. 15",
+      "D. 35"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Factorize \\(5x^{2} -\\) 20.",
+    "options": [
+      "A. 5(x-4)(x+1)",
+      "B. (5x-10)(x+2)",
+      "C. 5(x-2)(x+2)",
+      "D. \\(5(x-2)^{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "Expand (3a - b)(3a + b).",
+    "options": [
+      "A. \\(9a^{2} + b^{2}\\)",
+      "B. \\(9a^{2} - b^{2}\\)",
+      "C. \\(6a^{2} - b^{2}\\)",
+      "D. \\(3a^{2} - b^{2}\\)"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "Solve for x: 2x + 7 = 3x - 2.",
+    "options": [
+      "A. 5",
+      "B. 7",
+      "C. 11",
+      "D. 9"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "Solve the simultaneous equations: 2x + 3y = 13, x - y = 1.",
+    "options": [
+      "A. \\(x=\\frac{16}{5}\\), \\(y=\\frac{11}{5}\\)",
+      "B. x=2, y=3",
+      "C. x=3, y=2",
+      "D. x=5, y=1"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "question": "Make r the subject of the formula A = \\(\\pi\\)\\(r^{2}\\).",
+    "options": [
+      "A. \\(r = \\frac{A}{\\pi}\\)",
+      "B. \\(r = \\pi\\)\\(A^{2}\\)",
+      "C. \\(r = \\sqrt{A/ \\pi}\\)",
+      "D. \\(r = \\frac{A^{2}}{\\pi}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "Solve the quadratic equation \\(x^{2} -\\) 8x + 15 = 0.",
+    "options": [
+      "A. x = -3 or -5",
+      "B. x = 3 or 5",
+      "C. x = -3 or 5",
+      "D. x = 3 or -5"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "Find the gradient of the line 4x - 2y = 6.",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. -2",
+      "D. \\(\\frac{1}{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Solve the inequality 3x + 4 < 5x - 2.",
+    "options": [
+      "A. x < 3",
+      "B. x > -3",
+      "C. x < -3",
+      "D. x > 3"
+    ],
+    "answer": "D",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "Simplify \\(\\frac{x^{2} - 25}{x^{2} - 5x}\\).",
+    "options": [
+      "A. \\(\\frac{x-5}{x}\\)",
+      "B. \\(\\frac{x+5}{x-5}\\)",
+      "C. \\(\\frac{x+5}{x}\\)",
+      "D. \\(\\frac{x-5}{x+5}\\)"
+    ],
+    "answer": "C",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 372,
+    "question": "If g(x) = \\(x^{2} -\\) 2x, find g(3).",
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 6",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "question": "Find the area of a sector of a circle with radius 14cm and angle \\(45^{\\circ}\\)\\(. (\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(77\\,\\text{cm}^{2}\\)",
+      "B. \\(154\\,\\text{cm}^{2}\\)",
+      "C. \\(38.5\\,\\text{cm}^{2}\\)",
+      "D. \\(308\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 374,
+    "question": "Find the volume of a cone with base radius 7cm and height 9cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(1386\\,\\text{cm}^{3}\\)",
+      "B. \\(154\\,\\text{cm}^{3}\\)",
+      "C. \\(462\\,\\text{cm}^{3}\\)",
+      "D. \\(693\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Volumes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "The opposite sides of a parallelogram are",
+    "options": [
+      "A. equal only",
+      "B. parallel only",
+      "C. perpendicular",
+      "D. equal and parallel"
+    ],
+    "answer": "D",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "The tangent to a circle is perpendicular to the radius at the",
+    "options": [
+      "A. point of contact",
+      "B. centre",
+      "C. diameter",
+      "D. circumference"
+    ],
+    "answer": "A",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Find the distance between (3,4) and (6,8).",
+    "options": [
+      "A. 7",
+      "B. 3",
+      "C. 5",
+      "D. 25"
+    ],
+    "answer": "C",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "If cos \\(\\theta = \\frac{3}{5}\\), find tan \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{3}{4}\\)",
+      "B. \\(\\frac{4}{3}\\)",
+      "C. \\(\\frac{5}{4}\\)",
+      "D. \\(\\frac{5}{3}\\)"
+    ],
+    "answer": "B",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "A man stands 50m from a tower. The angle of elevation of the top of the tower is \\(45^{\\circ}\\). Find the height of the tower.",
+    "options": [
+      "A. 50m",
+      "B. 25m",
+      "C. \\(50\\sqrt{2}\\) m",
+      "D. 100m"
+    ],
+    "answer": "A",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "The bearing of \\(045^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. S\\(45^{\\circ}\\)W",
+      "B. S\\(45^{\\circ}\\)E",
+      "C. N\\(45^{\\circ}\\)W",
+      "D. N\\(45^{\\circ}\\)E"
+    ],
+    "answer": "D",
+    "topic": "Bearings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "Find the derivative of y = \\(4x^{3} -\\) 2x + 7.",
+    "options": [
+      "A. \\(12x^{2} +\\) 2",
+      "B. \\(12x^{2} -\\) 2",
+      "C. 12x - 2",
+      "D. \\(4x^{2} -\\) 2"
+    ],
+    "answer": "B",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "Find the mean of 5, 10, 15, 20, 25.",
+    "options": [
+      "A. 10",
+      "B. 20",
+      "C. 15",
+      "D. 25"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "question": "Find the median of 6, 2, 8, 4, 10.",
+    "options": [
+      "A. 6",
+      "B. 4",
+      "C. 8",
+      "D. 2"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "Find the mode of 7, 8, 8, 9, 10, 8.",
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 10",
+      "D. 8"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "question": "If two coins are tossed, what is the probability of getting at least one head?",
+    "options": [
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{4}\\)",
+      "D. 1"
+    ],
+    "answer": "C",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "If a = (2,1) and b = (1,3), find a + b.",
+    "options": [
+      "A. (3,4)",
+      "B. (1,2)",
+      "C. (2,3)",
+      "D. (4,3)"
+    ],
+    "answer": "A",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "question": "What is the image of (5,2) under an enlargement with scale factor 3 and centre (0,0)?",
+    "options": [
+      "A. (8,5)",
+      "B. (15,6)",
+      "C. \\((\\frac{5}{3} , \\frac{2}{3}\\))",
+      "D. (2,5)"
+    ],
+    "answer": "B",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Convert \\(100_{2} \\times 11_{2}\\).",
+    "options": [
+      "A. \\(1000_{2}\\)",
+      "B. \\(1010_{2}\\)",
+      "C. \\(1100_{2}\\)",
+      "D. \\(1110_{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Evaluate 9 \\(\\times\\) 3 (mod 5).",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "Simplify 0.02 \\(\\times\\) 0.3.",
+    "options": [
+      "A. 0.06",
+      "B. 0.6",
+      "C. 0.0006",
+      "D. 0.006"
+    ],
+    "answer": "D",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "question": "Simplify \\((4a^{2}\\)\\()^{0}\\).",
+    "options": [
+      "A. \\(4a^{2}\\)",
+      "B. 1",
+      "C. 0",
+      "D. 4"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "Evaluate \\(log_{10}\\) 100000.",
+    "options": [
+      "A. 4",
+      "B. 10",
+      "C. 100",
+      "D. 5"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "question": "Find the 7th term of the GP: 1, 3, 9, ...",
+    "options": [
+      "A. 243",
+      "B. 2187",
+      "C. 729",
+      "D. 81"
+    ],
+    "answer": "C",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "If A = \\(\\{1,2,3,4,5,6\\}\\) and B = \\(\\{2,4,6,8\\}\\), find A \\(\\cap\\) B.",
+    "options": [
+      "A. \\(\\{1,3,5\\}\\)",
+      "B. \\(\\{2,4,6\\}\\)",
+      "C. \\(\\{8\\}\\)",
+      "D. \\(\\{1,2,3,4,5,6,8\\}\\)"
+    ],
+    "answer": "B",
+    "topic": "Sets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "Simplify \\(\\sqrt{8} \\times \\sqrt{2.}\\)",
+    "options": [
+      "A. 4",
+      "B. 16",
+      "C. \\(2\\sqrt{2}\\)",
+      "D. 8"
+    ],
+    "answer": "A",
+    "topic": "Surds",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "question": "If A = \\(\\begin{pmatrix} 2 & 1 \\\\ 1 & 2 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 5",
+      "B. 1",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 397,
+    "question": "Express 15% as a fraction in its lowest term.",
+    "options": [
+      "A. \\(\\frac{15}{100}\\)",
+      "B. \\(\\frac{1}{5}\\)",
+      "C. \\(\\frac{5}{20}\\)",
+      "D. \\(\\frac{3}{20}\\)"
+    ],
+    "answer": "D",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "If y varies jointly as x and z, and y=24 when x=3 and z=4, find y when x=5 and z=2.",
+    "options": [
+      "A. 20",
+      "B. 24",
+      "C. 30",
+      "D. 10"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 399,
+    "question": "Factorize \\(x^{2} -\\) x - 20.",
+    "options": [
+      "A. (x+5)(x+4)",
+      "B. (x-5)(x-4)",
+      "C. (x-5)(x+4)",
+      "D. (x+5)(x-4)"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "Expand (x+7)(x-3).",
+    "options": [
+      "A. \\(x^{2} -\\) 4x - 21",
+      "B. \\(x^{2} +\\) 4x - 21",
+      "C. \\(x^{2} +\\) 4x + 21",
+      "D. \\(x^{2} -\\) 4x + 21"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "Solve for x: \\((\\frac{3x}{2}) + 1\\) = 7.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. 4"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 402,
+    "question": "Solve the simultaneous equations: x + 3y = 10, 2x - y = 6.",
+    "options": [
+      "A. x=4, y=2",
+      "B. x=2, y=4",
+      "C. x=5, y=1",
+      "D. x=1, y=3"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "Make h the subject of the formula A = (\\(\\frac{1}{2}\\))bh.",
+    "options": [
+      "A. \\(h = \\frac{A}{2b}\\)",
+      "B. \\(h = \\frac{2b}{A}\\)",
+      "C. \\(h = \\frac{2A}{b}\\)",
+      "D. \\(h = \\frac{Ab}{2}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "Form a quadratic equation whose roots are -5 and 2.",
+    "options": [
+      "A. \\(x^{2} -\\) 3x - 10 = 0",
+      "B. \\(x^{2} +\\) 3x - 10 = 0",
+      "C. \\(x^{2} +\\) 3x + 10 = 0",
+      "D. \\(x^{2} -\\) 3x + 10 = 0"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "What is the y-intercept of the line y = -3x + 7?",
+    "options": [
+      "A. 7",
+      "B. -3",
+      "C. 3",
+      "D. -7"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "Solve the inequality 2 - 5x \\(\\le\\) 12.",
+    "options": [
+      "A. x \\(\\le -2\\)",
+      "B. x \\(\\ge\\) 2",
+      "C. x \\(\\ge -2\\)",
+      "D. x \\(\\le\\) 2"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "Simplify \\(\\frac{x^{2} + 2x}{x}\\).",
+    "options": [
+      "A. x",
+      "B. x + 2x",
+      "C. \\(x^{2} +\\) 2",
+      "D. x + 2"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "question": "If f(x) = 4x - 1, find f(-2).",
+    "options": [
+      "A. -7",
+      "B. -9",
+      "C. 7",
+      "D. 9"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "Find the perimeter of an equilateral triangle with side 9cm.",
+    "options": [
+      "A. 18cm",
+      "B. 36cm",
+      "C. 27cm",
+      "D. 81cm"
+    ],
+    "answer": "C",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 410,
+    "question": "Find the area of a circle with radius 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(616\\,\\text{cm}^{2}\\)",
+      "B. \\(88\\,\\text{cm}^{2}\\)",
+      "C. \\(308\\,\\text{cm}^{2}\\)",
+      "D. \\(154\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "Find the volume of a sphere with radius 6cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(452.16\\,\\text{cm}^{3}\\)",
+      "B. \\(226.08\\,\\text{cm}^{3}\\)",
+      "C. \\(678.24\\,\\text{cm}^{3}\\)",
+      "D. \\(904.32\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "D",
+    "topic": "Volumes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 412,
+    "question": "The sum of interior angles of a hexagon is",
+    "options": [
+      "A. \\(540^{\\circ}\\)",
+      "B. \\(720^{\\circ}\\)",
+      "C. \\(900^{\\circ}\\)",
+      "D. \\(1080^{\\circ}\\)"
+    ],
+    "answer": "B",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "Angles in the same segment of a circle are",
+    "options": [
+      "A. equal",
+      "B. supplementary",
+      "C. complementary",
+      "D. right angles"
+    ],
+    "answer": "A",
+    "topic": "Circles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "question": "Find the equation of the line with gradient 4 passing through (1,2).",
+    "options": [
+      "A. y = 4x + 2",
+      "B. y = 4x + 6",
+      "C. y = 4x - 2",
+      "D. y = 4x - 6"
+    ],
+    "answer": "C",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "question": "If sin \\(\\theta = \\frac{1}{2}\\), find \\(\\theta\\).",
+    "options": [
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(30^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
+    ],
+    "answer": "B",
+    "topic": "Trigonometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "The angle of depression of a car from the top of a building 80m high is \\(45^{\\circ}\\). Find the distance from the car to the base.",
+    "options": [
+      "A. 40m",
+      "B. \\(80\\sqrt{2}\\) m",
+      "C. 160m",
+      "D. 80m"
+    ],
+    "answer": "D",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "A bearing of \\(315^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. N\\(45^{\\circ}\\)E",
+      "B. S\\(45^{\\circ}\\)E",
+      "C. N\\(45^{\\circ}\\)W",
+      "D. S\\(45^{\\circ}\\)W"
+    ],
+    "answer": "C",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Find the derivative of y = \\(8x^{3}\\).",
+    "options": [
+      "A. \\(24x^{2}\\)",
+      "B. \\(8x^{2}\\)",
+      "C. \\(24x^{3}\\)",
+      "D. \\(3x^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Introductory Calculus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 419,
+    "question": "Find the mean of 15, 25, 35, 45, 55.",
+    "options": [
+      "A. 30",
+      "B. 35",
+      "C. 40",
+      "D. 45"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "Find the median of 2, 6, 10, 14, 18.",
+    "options": [
+      "A. 6",
+      "B. 14",
+      "C. 10",
+      "D. 18"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "Find the mode of 4, 6, 6, 8, 10, 6.",
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 10",
+      "D. 6"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "If a die is rolled, what is the probability of getting a number less than 3?",
+    "options": [
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{2}{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "If p = 4i + j and q = i - 3j, find p + q.",
+    "options": [
+      "A. 3i + 4j",
+      "B. 5i - 2j",
+      "C. 5i + 4j",
+      "D. 3i - 2j"
+    ],
+    "answer": "B",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "What is the image of (2,7) under a translation vector (3,-1)?",
+    "options": [
+      "A. (-1,8)",
+      "B. (5,8)",
+      "C. (5,6)",
+      "D. (6,5)"
+    ],
+    "answer": "C",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "Convert \\(121_{5}\\) to base 10.",
+    "options": [
+      "A. 36",
+      "B. 32",
+      "C. 40",
+      "D. 28"
+    ],
+    "answer": "A",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "Evaluate 4 \\(\\times\\) 8 (mod 10).",
+    "options": [
+      "A. 8",
+      "B. 4",
+      "C. 6",
+      "D. 2"
+    ],
+    "answer": "D",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "Simplify 0.5 \\(\\div\\) 0.25.",
+    "options": [
+      "A. 2",
+      "B. 0.2",
+      "C. 0.5",
+      "D. 5"
+    ],
+    "answer": "A",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "Simplify \\((3x^{2}\\)\\(y^{3}\\)\\()^{2}\\).",
+    "options": [
+      "A. \\(3x^{4}\\)\\(y^{6}\\)",
+      "B. \\(9x^{2}\\)\\(y^{5}\\)",
+      "C. \\(9x^{4}\\)\\(y^{6}\\)",
+      "D. \\(6x^{4}\\)\\(y^{6}\\)"
+    ],
+    "answer": "C",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "Evaluate \\(log_{6}\\) 216.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. 36"
+    ],
+    "answer": "B",
+    "topic": "Logarithms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "Find the sum of the first 25 terms of the AP: 2, 4, 6, ...",
+    "options": [
+      "A. 600",
+      "B. 625",
+      "C. 675",
+      "D. 650"
+    ],
+    "answer": "D",
+    "topic": "Sequence and Series",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 431,
+    "question": "If A = \\(\\{1,2,3,4\\}\\) and B = \\(\\{3,4,5,6\\}\\), find A - B.",
+    "options": [
+      "A. \\(\\{1,2\\}\\)",
+      "B. \\(\\{3,4\\}\\)",
+      "C. \\(\\{5,6\\}\\)",
+      "D. \\(\\{1,2,5,6\\}\\)"
+    ],
+    "answer": "A",
+    "topic": "Sets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "Simplify \\(\\sqrt{32.}\\)",
+    "options": [
+      "A. \\(2\\sqrt{4}\\)",
+      "B. \\(8\\sqrt{2}\\)",
+      "C. \\(4\\sqrt{2}\\)",
+      "D. \\(2\\sqrt{8}\\)"
+    ],
+    "answer": "C",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "If A = \\(\\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix}\\), find \\(A^{\\top}\\).",
+    "options": [
+      "A. \\(\\begin{pmatrix} 1 & 3 \\\\ 2 & 4 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 4 & 3 \\\\ 2 & 1 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 4 & 2 \\\\ 3 & 1 \\end{pmatrix}\\)"
+    ],
+    "answer": "B",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Express 0.125 as a fraction.",
+    "options": [
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{5}\\)",
+      "C. \\(\\frac{1}{10}\\)",
+      "D. \\(\\frac{1}{8}\\)"
+    ],
+    "answer": "D",
+    "topic": "Fractions, Decimals and Approximations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "If y varies inversely as \\(\\sqrt{x}\\) and y=4 when x=9, find y when x=16.",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 6",
+      "D. 2"
+    ],
+    "answer": "A",
+    "topic": "Variation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 436,
+    "question": "Factorize \\(x^{2} +\\) 2x - 15.",
+    "options": [
+      "A. (x-5)(x+3)",
+      "B. (x+5)(x+3)",
+      "C. (x+5)(x-3)",
+      "D. (x-5)(x-3)"
+    ],
+    "answer": "C",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "Expand (a-3)(a+3).",
+    "options": [
+      "A. \\(a^{2} +\\) 9",
+      "B. \\(a^{2} -\\) 9",
+      "C. \\(a^{2} -\\) 6a + 9",
+      "D. \\(a^{2} +\\) 6a + 9"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 438,
+    "question": "Solve for x: 5x - 2 = 3x + 8.",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 3",
+      "D. 6"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 439,
+    "question": "Solve the simultaneous equations: 3x + 4y = 18, x + 2y = 8.",
+    "options": [
+      "A. x=3, y=2",
+      "B. x=4, y=1",
+      "C. x=5, y=1.5",
+      "D. x=2, y=3"
+    ],
+    "answer": "D",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "Make v the subject of the formula \\(\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}\\).",
+    "options": [
+      "A. \\(v = f-\\frac{u}{u}\\)",
+      "B. \\(v = \\frac{fu}{u+f}\\)",
+      "C. \\(v = \\frac{fu}{u-f}\\)",
+      "D. \\(v = \\frac{u-f}{fu}\\)"
+    ],
+    "answer": "C",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 441,
+    "question": "Solve the quadratic equation \\(x^{2} -\\) 6x + 8 = 0.",
+    "options": [
+      "A. x = -2 or -4",
+      "B. x = 2 or 4",
+      "C. x = 2 or -4",
+      "D. x = -2 or 4"
+    ],
+    "answer": "B",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Find the gradient of the line 5x + 2y = 10.",
+    "options": [
+      "A. -2.5",
+      "B. 2.5",
+      "C. 5",
+      "D. -5"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "Solve the inequality 4 - 3x > -5.",
+    "options": [
+      "A. x > 3",
+      "B. x > -3",
+      "C. x < 3",
+      "D. x < -3"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "Simplify \\(\\frac{x^{2} - 6x + 9}{x - 3}\\).",
+    "options": [
+      "A. x + 3",
+      "B. \\(x^{2} -\\) 3",
+      "C. x + 9",
+      "D. x - 3"
+    ],
+    "answer": "D",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "If f(x) = 2x + 5, find f(3).",
+    "options": [
+      "A. 6",
+      "B. 11",
+      "C. 8",
+      "D. 13"
+    ],
+    "answer": "B",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "Find the area of a trapezium with parallel sides 8cm and 12cm, height 5cm.",
+    "options": [
+      "A. \\(50\\,\\text{cm}^{2}\\)",
+      "B. \\(100\\,\\text{cm}^{2}\\)",
+      "C. \\(40\\,\\text{cm}^{2}\\)",
+      "D. \\(60\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "Find the volume of a hemisphere with radius 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. \\(1437.33\\,\\text{cm}^{3}\\)",
+      "B. \\(1078\\,\\text{cm}^{3}\\)",
+      "C. \\(718.67\\,\\text{cm}^{3}\\)",
+      "D. \\(359.33\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Volumes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 448,
+    "question": "The sum of exterior angles of a pentagon is",
+    "options": [
+      "A. \\(180^{\\circ}\\)",
+      "B. \\(270^{\\circ}\\)",
+      "C. \\(540^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "The angle between a tangent and a chord at the point of contact is equal to the angle in the",
+    "options": [
+      "A. same segment",
+      "B. alternate segment",
+      "C. major segment",
+      "D. minor segment"
+    ],
+    "answer": "B",
+    "topic": "Circles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 450,
+    "question": "Find the midpoint of (-2,4) and (6,0).",
+    "options": [
+      "A. (2,2)",
+      "B. (4,4)",
+      "C. (2,4)",
+      "D. (4,2)"
+    ],
+    "answer": "A",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "If cos \\(\\theta = \\frac{12}{13}\\), find sin \\(\\theta\\).",
+    "options": [
+      "A. \\(\\frac{12}{5}\\)",
+      "B. \\(\\frac{13}{5}\\)",
+      "C. \\(\\frac{5}{13}\\)",
+      "D. \\(\\frac{13}{12}\\)"
+    ],
+    "answer": "C",
+    "topic": "Trigonometry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "A tree casts a shadow 15m long when the angle of elevation of the sun is \\(30^{\\circ}\\). Find the height of the tree.",
+    "options": [
+      "A. 15m",
+      "B. 30m",
+      "C. \\(15\\sqrt{3}\\) m",
+      "D. \\(5\\sqrt{3}\\) m"
+    ],
+    "answer": "D",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 453,
+    "question": "The bearing of \\(120^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. N\\(60^{\\circ}\\)E",
+      "B. S\\(60^{\\circ}\\)E",
+      "C. S\\(30^{\\circ}\\)E",
+      "D. N\\(30^{\\circ}\\)E"
+    ],
+    "answer": "B",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "Find the derivative of y = \\(9x^{2} -\\) 4x.",
+    "options": [
+      "A. 18x - 4",
+      "B. 18x + 4",
+      "C. 9x - 4",
+      "D. \\(18x^{2} -\\) 4"
+    ],
+    "answer": "A",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "Find the mean of 8, 12, 16, 20, 24.",
+    "options": [
+      "A. 12",
+      "B. 20",
+      "C. 16",
+      "D. 24"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "Find the median of 9, 5, 1, 7, 3.",
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 7",
+      "D. 1"
+    ],
+    "answer": "A",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "Find the mode of 10, 12, 12, 14, 16, 12.",
+    "options": [
+      "A. 10",
+      "B. 14",
+      "C. 16",
+      "D. 12"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 458,
+    "question": "If a bag contains 4 white and 6 black balls, what is the probability of picking a black ball?",
+    "options": [
+      "A. \\(\\frac{2}{5}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{5}\\)",
+      "D. \\(\\frac{4}{5}\\)"
+    ],
+    "answer": "C",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "If a = (3,2) and b = (1,4), find a - b.",
+    "options": [
+      "A. (4,6)",
+      "B. (2,-2)",
+      "C. (-2,2)",
+      "D. (2,2)"
+    ],
+    "answer": "B",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "What is the image of (3,1) under reflection in the x-axis?",
+    "options": [
+      "A. (3,-1)",
+      "B. (-3,1)",
+      "C. (-3,-1)",
+      "D. (1,3)"
+    ],
+    "answer": "A",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "Convert \\(210_{3}\\) to base 10.",
+    "options": [
+      "A. 15",
+      "B. 18",
+      "C. 24",
+      "D. 21"
+    ],
+    "answer": "D",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "Evaluate 11 mod 4.",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "C",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 463,
+    "question": "Express 0.0045 in standard form.",
+    "options": [
+      "A. \\(4.5 \\times 10^{-3}\\)",
+      "B. \\(4.5 \\times 10^{3}\\)",
+      "C. \\(45 \\times 10^{-4}\\)",
+      "D. \\(0.45 \\times 10^{-2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Indices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "Simplify \\(2^{-3}\\).",
+    "options": [
+      "A. -8",
+      "B. \\(\\frac{1}{8}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. 8"
+    ],
+    "answer": "B",
+    "topic": "Indices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "Evaluate \\(log_{10}\\) 10.",
+    "options": [
+      "A. 0",
+      "B. 10",
+      "C. -1",
+      "D. 1"
+    ],
+    "answer": "D",
+    "topic": "Logarithms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "Find the 15th term of the AP: 7, 10, 13, ...",
+    "options": [
+      "A. 46",
+      "B. 52",
+      "C. 49",
+      "D. 55"
+    ],
+    "answer": "C",
+    "topic": "Sequence and Series",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "In a class of 40 students, 25 like Maths, 20 like Physics, and 10 like both. How many like neither?",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 15",
+      "D. 20"
+    ],
+    "answer": "A",
+    "topic": "Sets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 468,
+    "question": "Simplify \\(\\sqrt{125.}\\)",
+    "options": [
+      "A. \\(25\\sqrt{5}\\)",
+      "B. \\(5\\sqrt{25}\\)",
+      "C. \\(15\\sqrt{5}\\)",
+      "D. \\(5\\sqrt{5}\\)"
+    ],
+    "answer": "D",
+    "topic": "Surds",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "If A = \\(\\begin{pmatrix} 4 & 2 \\\\ 3 & 1 \\end{pmatrix}\\), find |A|.",
+    "options": [
+      "A. 2",
+      "B. -2",
+      "C. 6",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Matrices and Determinants",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 470,
+    "question": "Express \\(\\frac{5}{25}\\) as a percentage.",
+    "options": [
+      "A. 20%",
+      "B. 25%",
+      "C. 5%",
+      "D. 10%"
+    ],
+    "answer": "A",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 471,
+    "question": "If y varies directly as x and y=12 when x=4, find y when x=7.",
+    "options": [
+      "A. 15",
+      "B. 18",
+      "C. 21",
+      "D. 24"
+    ],
+    "answer": "C",
+    "topic": "Variation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Factorize \\(6x^{2} -\\) 15x.",
+    "options": [
+      "A. \\(3(2x^{2}-5x)\\)",
+      "B. 3x(2x-5)",
+      "C. 3x(2x+5)",
+      "D. x(6x-15)"
+    ],
+    "answer": "B",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "Expand (x+\\(2)^{3}\\).",
+    "options": [
+      "A. \\(x^{3} +\\) 8",
+      "B. \\(x^{3} + 6x^{2} +\\) 8",
+      "C. \\(x^{3} +\\) 12x + 8",
+      "D. \\(x^{3} + 6x^{2} +\\) 12x + 8"
+    ],
+    "answer": "D",
+    "topic": "Simple operations on algebraic expressions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 474,
+    "question": "Solve for x: 4x - 5 = 2x + 7.",
+    "options": [
+      "A. 6",
+      "B. 4",
+      "C. 8",
+      "D. 3"
+    ],
+    "answer": "A",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "Solve the simultaneous equations: 2x + 5y = 16, 3x - 2y = 5.",
+    "options": [
+      "A. x=4, y=1",
+      "B. x=5, y=0",
+      "C. x=3, y=2",
+      "D. x=1, y=3"
+    ],
+    "answer": "C",
+    "topic": "Solution of Linear Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 476,
+    "question": "Make R the subject of the formula I = \\(\\frac{PRT}{100}\\).",
+    "options": [
+      "A. \\(R = \\frac{I}{PT}\\)",
+      "B. \\(R = \\frac{100I}{PT}\\)",
+      "C. R = 100PT/I",
+      "D. \\(R = \\frac{PT}{100I}\\)"
+    ],
+    "answer": "B",
+    "topic": "Change of Subject of a Formula",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "Form a quadratic equation whose roots are 0 and 5.",
+    "options": [
+      "A. \\(x^{2} +\\) 5x = 0",
+      "B. \\(x^{2} -\\) 5 = 0",
+      "C. \\(x^{2} +\\) 5 = 0",
+      "D. \\(x^{2} -\\) 5x = 0"
+    ],
+    "answer": "D",
+    "topic": "Quadratic Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Find the gradient of the line passing through (0,0) and (3,6).",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. \\(\\frac{1}{2}\\)"
+    ],
+    "answer": "A",
+    "topic": "Graphs of Linear and Quadratic functions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 479,
+    "question": "Solve the inequality 8x - 3 \\(\\ge 5x\\) + 9.",
+    "options": [
+      "A. x \\(\\le\\) 4",
+      "B. x > 4",
+      "C. x \\(\\ge\\) 4",
+      "D. x < 4"
+    ],
+    "answer": "C",
+    "topic": "Linear Inequalities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "Simplify \\(\\frac{2x^{2} - 8}{x + 2}\\).",
+    "options": [
+      "A. 2x + 4",
+      "B. 2x - 4",
+      "C. 2x",
+      "D. x - 4"
+    ],
+    "answer": "B",
+    "topic": "Algebraic Fractions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "If h(x) = \\(x^{2} -\\) 4, find h(5).",
+    "options": [
+      "A. 25",
+      "B. 20",
+      "C. 9",
+      "D. 21"
+    ],
+    "answer": "D",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "Find the perimeter of a square with area \\(64\\,\\text{cm}^{2}\\).",
+    "options": [
+      "A. 32cm",
+      "B. 16cm",
+      "C. 24cm",
+      "D. 64cm"
+    ],
+    "answer": "A",
+    "topic": "Lengths and Perimeters",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "Find the area of a circle with diameter 20cm. \\((\\pi\\)=3.14)",
+    "options": [
+      "A. \\(1256\\,\\text{cm}^{2}\\)",
+      "B. \\(314\\,\\text{cm}^{2}\\)",
+      "C. \\(62.8\\,\\text{cm}^{2}\\)",
+      "D. \\(400\\,\\text{cm}^{2}\\)"
+    ],
+    "answer": "B",
+    "topic": "Areas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "Find the volume of a cuboid with dimensions 6cm by 4cm by 3cm.",
+    "options": [
+      "A. \\(24\\,\\text{cm}^{3}\\)",
+      "B. \\(48\\,\\text{cm}^{3}\\)",
+      "C. \\(72\\,\\text{cm}^{3}\\)",
+      "D. \\(36\\,\\text{cm}^{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Volumes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "The sum of angles of a quadrilateral is",
+    "options": [
+      "A. \\(360^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(270^{\\circ}\\)",
+      "D. \\(540^{\\circ}\\)"
+    ],
+    "answer": "A",
+    "topic": "Angles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "The diagonals of a rhombus",
+    "options": [
+      "A. are equal",
+      "B. are parallel",
+      "C. bisect each other at right angles",
+      "D. bisect each other"
+    ],
+    "answer": "C",
+    "topic": "Triangles and Polygons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "The angle subtended at the centre of a circle is \\(100^{\\circ}\\). What is the angle at the circumference?",
+    "options": [
+      "A. \\(100^{\\circ}\\)",
+      "B. \\(200^{\\circ}\\)",
+      "C. \\(25^{\\circ}\\)",
+      "D. \\(50^{\\circ}\\)"
+    ],
+    "answer": "D",
+    "topic": "Circles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Find the distance between (1,-2) and (4,2).",
+    "options": [
+      "A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 25"
+    ],
+    "answer": "B",
+    "topic": "Coordinate Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "If tan \\(\\theta =\\) 1, find \\(\\theta\\).",
+    "options": [
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(45^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
+    ],
+    "answer": "B",
+    "topic": "Trigonometry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "From a point 100m from the base of a building, the angle of elevation of the top is \\(30^{\\circ}\\). Find the height.",
+    "options": [
+      "A. \\(100\\sqrt{3}\\) m",
+      "B. \\(50\\sqrt{3}\\) m",
+      "C. 50 m",
+      "D. \\(100\\sqrt{\\frac{3}{3}}\\) m"
+    ],
+    "answer": "D",
+    "topic": "Angles of elevation and depression",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 491,
+    "question": "The bearing of \\(210^{\\circ}\\) is equivalent to",
+    "options": [
+      "A. S\\(30^{\\circ}\\)W",
+      "B. S\\(30^{\\circ}\\)E",
+      "C. N\\(30^{\\circ}\\)E",
+      "D. N\\(30^{\\circ}\\)W"
+    ],
+    "answer": "A",
+    "topic": "Bearings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "Find the derivative of y = \\(10x^{2} +\\) 3x - 5.",
+    "options": [
+      "A. 20x - 3",
+      "B. 10x + 3",
+      "C. 20x + 3",
+      "D. 20x"
+    ],
+    "answer": "C",
+    "topic": "Introductory Calculus",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "Find the mean of 20, 30, 40, 50, 60.",
+    "options": [
+      "A. 30",
+      "B. 50",
+      "C. 40",
+      "D. 45"
+    ],
+    "answer": "C",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "Find the median of 12, 8, 4, 16, 20.",
+    "options": [
+      "A. 8",
+      "B. 12",
+      "C. 16",
+      "D. 10"
+    ],
+    "answer": "B",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "Find the mode of 5, 6, 7, 8, 7, 9.",
+    "options": [
+      "A. 5",
+      "B. 8",
+      "C. 9",
+      "D. 7"
+    ],
+    "answer": "D",
+    "topic": "Statistics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "A die is rolled. What is the probability of getting an odd number?",
+    "options": [
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{2}{3}\\)"
+    ],
+    "answer": "A",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "If u = (1,2) and v = (2,1), find u + v.",
+    "options": [
+      "A. (3,3)",
+      "B. (1,1)",
+      "C. (2,2)",
+      "D. (3,1)"
+    ],
+    "answer": "A",
+    "topic": "Vectors in a Plane",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 498,
+    "question": "What is the image of (2,3) under an enlargement with scale factor \\(\\frac{1}{2}\\) and centre (0,0)?",
+    "options": [
+      "A. (4,6)",
+      "B. (2,3)",
+      "C. (1.5,1)",
+      "D. (1,1.5)"
+    ],
+    "answer": "D",
+    "topic": "Transformation in the Cartesian Plane",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "Convert \\(11_{3} + 12_{3}\\).",
+    "options": [
+      "A. \\(23_{3}\\)",
+      "B. \\(20_{3}\\)",
+      "C. \\(100_{3}\\)",
+      "D. \\(110_{3}\\)"
+    ],
+    "answer": "C",
+    "topic": "Number bases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Evaluate 7 \\(\\times\\) 7 (mod 10).",
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 3",
+      "D. 1"
+    ],
+    "answer": "B",
+    "topic": "Modular Arithmetic",
+    "difficulty": "Easy"
+  }
+]

@@ -1,0 +1,6272 @@
+[
+  {
+    "id": 1,
+    "question": "Marketing is best defined as the process of...",
+    "options": [
+      "A. Selling goods at the highest possible price",
+      "B. Creating and delivering value to satisfy needs",
+      "C. Advertising products through mass media",
+      "D. Producing goods in large quantities"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "A state of felt deprivation is known as a...",
+    "options": ["A. want", "B. demand", "C. need", "D. desire"],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "A need that is shaped by culture and personality is called a...",
+    "options": ["A. want", "B. demand", "C. necessity", "D. drive"],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "A want that is backed by purchasing power is known as a...",
+    "options": ["A. need", "B. desire", "C. demand", "D. wish"],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "The act of obtaining a desired object from someone by offering something in return is called...",
+    "options": ["A. transaction", "B. exchange", "C. transfer", "D. trade"],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "A trade between two parties that involves at least two things of value is a...",
+    "options": ["A. exchange", "B. transaction", "C. bargain", "D. barter"],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a function of marketing?",
+    "options": [
+      "A. Manufacturing products",
+      "B. Creating utility",
+      "C. Auditing accounts",
+      "D. Recruiting staff"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The history of marketing in Nigeria is closely linked to the development of...",
+    "options": [
+      "A. the oil industry",
+      "B. trade and commerce",
+      "C. agriculture",
+      "D. education"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a basic marketing term?",
+    "options": ["A. Need", "B. Want", "C. Audit", "D. Market"],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "A market can be defined as...",
+    "options": [
+      "A. A physical place where goods are sold",
+      "B. A set of actual and potential buyers",
+      "C. A building for storage of goods",
+      "D. A group of producers only"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "The production concept holds that consumers will favor products that are...",
+    "options": [
+      "A. widely available and inexpensive",
+      "B. of the highest quality",
+      "C. heavily advertised",
+      "D. environmentally friendly"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "The product concept focuses on...",
+    "options": [
+      "A. aggressive selling",
+      "B. continuous product improvement",
+      "C. societal welfare",
+      "D. low pricing"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "The selling concept assumes that consumers will not buy enough unless...",
+    "options": [
+      "A. prices are low",
+      "B. products are of high quality",
+      "C. large-scale selling and promotion is undertaken",
+      "D. the product is environmentally safe"
+    ],
+    "answer": "C",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 14,
+    "question": "The marketing concept is based on...",
+    "options": [
+      "A. producing more goods",
+      "B. understanding customer needs",
+      "C. aggressive advertising",
+      "D. reducing production costs"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "The societal marketing concept adds which dimension to the marketing concept?",
+    "options": [
+      "A. Profit maximization",
+      "B. Customer satisfaction",
+      "C. Social and ethical welfare",
+      "D. Product quality"
+    ],
+    "answer": "C",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "Which concept holds that consumers prefer products that are available and affordable?",
+    "options": [
+      "A. Selling concept",
+      "B. Product concept",
+      "C. Production concept",
+      "D. Marketing concept"
+    ],
+    "answer": "C",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "The marketing mix consists of the...",
+    "options": ["A. 3 Ps", "B. 4 Ps", "C. 5 Ps", "D. 7 Ps"],
+    "answer": "B",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is NOT one of the 4 Ps of marketing?",
+    "options": ["A. Product", "B. Price", "C. People", "D. Place"],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "The element of the marketing mix that refers to the amount of money charged for a product is...",
+    "options": ["A. product", "B. price", "C. place", "D. promotion"],
+    "answer": "B",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The element of the marketing mix that refers to making the product available is...",
+    "options": ["A. product", "B. price", "C. place", "D. promotion"],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a factor in the marketing environment?",
+    "options": [
+      "A. Political factors",
+      "B. Cultural factors",
+      "C. Technological factors",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "The marketing environment factor that includes beliefs and values is...",
+    "options": [
+      "A. political",
+      "B. cultural",
+      "C. economic",
+      "D. technological"
+    ],
+    "answer": "B",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Changes in government policies affect the marketing environment through...",
+    "options": [
+      "A. cultural factors",
+      "B. political factors",
+      "C. religious factors",
+      "D. social factors"
+    ],
+    "answer": "B",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "Inflation and interest rates are examples of...",
+    "options": [
+      "A. technological factors",
+      "B. political factors",
+      "C. economic factors",
+      "D. cultural factors"
+    ],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "A product can be defined as...",
+    "options": [
+      "A. A physical good only",
+      "B. Anything offered to a market to satisfy a need",
+      "C. A service only",
+      "D. A brand name"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "Goods that are purchased for personal or family use are called...",
+    "options": [
+      "A. industrial goods",
+      "B. consumer goods",
+      "C. primary products",
+      "D. secondary products"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "Goods that are used in the production of other goods are called...",
+    "options": [
+      "A. consumer goods",
+      "B. industrial goods",
+      "C. primary products",
+      "D. luxury goods"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is an example of a primary product?",
+    "options": [
+      "A. Processed juice",
+      "B. Crude oil",
+      "C. Bread",
+      "D. Furniture"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "A service is best described as...",
+    "options": [
+      "A. A tangible good",
+      "B. An intangible activity that provides satisfaction",
+      "C. A manufactured product",
+      "D. A raw material"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a characteristic of services?",
+    "options": [
+      "A. Tangibility",
+      "B. Inseparability",
+      "C. Storability",
+      "D. Perishability"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a consumer market?",
+    "options": [
+      "A. Government market",
+      "B. Reseller market",
+      "C. Industrial market",
+      "D. Market for household goods"
+    ],
+    "answer": "D",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "An organizational market includes all of the following EXCEPT...",
+    "options": [
+      "A. industrial market",
+      "B. reseller market",
+      "C. government market",
+      "D. household market"
+    ],
+    "answer": "D",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "Reseller markets consist of...",
+    "options": [
+      "A. final consumers",
+      "B. wholesalers and retailers",
+      "C. government agencies",
+      "D. manufacturers only"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "The government market refers to...",
+    "options": [
+      "A. markets where individuals buy goods",
+      "B. markets where government agencies purchase goods",
+      "C. markets for resale",
+      "D. markets for raw materials"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Consumer behaviour is the study of...",
+    "options": [
+      "A. how organizations buy goods",
+      "B. how individuals and households buy goods",
+      "C. how governments procure goods",
+      "D. how resellers operate"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a factor influencing consumer behaviour?",
+    "options": [
+      "A. Culture",
+      "B. Social class",
+      "C. Psychological factors",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The first stage in the consumer decision process is...",
+    "options": [
+      "A. information search",
+      "B. need recognition",
+      "C. purchase decision",
+      "D. post-purchase behaviour"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The stage of consumer decision process where the consumer evaluates alternatives is...",
+    "options": [
+      "A. need recognition",
+      "B. information search",
+      "C. evaluation of alternatives",
+      "D. purchase decision"
+    ],
+    "answer": "C",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Organizational buying behaviour is influenced by...",
+    "options": [
+      "A. individual preferences only",
+      "B. economic and organizational factors",
+      "C. cultural factors only",
+      "D. social factors only"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Marketing planning is defined as the process of...",
+    "options": [
+      "A. selling products",
+      "B. developing a systematic plan for marketing activities",
+      "C. advertising products",
+      "D. pricing products"
+    ],
+    "answer": "B",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is an element of marketing planning?",
+    "options": [
+      "A. Setting objectives",
+      "B. Identifying target markets",
+      "C. Developing the marketing mix",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Marketing research is important because it provides...",
+    "options": [
+      "A. entertainment",
+      "B. information for decision making",
+      "C. employment opportunities",
+      "D. legal advice"
+    ],
+    "answer": "B",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "Feedback in marketing planning is used to...",
+    "options": [
+      "A. set prices",
+      "B. evaluate performance and adjust plans",
+      "C. produce goods",
+      "D. hire staff"
+    ],
+    "answer": "B",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Marketing research is important for all of the following reasons EXCEPT...",
+    "options": [
+      "A. understanding customer needs",
+      "B. identifying market opportunities",
+      "C. reducing production costs",
+      "D. evaluating marketing effectiveness"
+    ],
+    "answer": "C",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Price can be defined as the...",
+    "options": [
+      "A. cost of producing a product",
+      "B. amount of money charged for a product",
+      "C. value of a product to the seller",
+      "D. profit margin on a product"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "A pricing strategy where price is set by bargaining between buyer and seller is called...",
+    "options": [
+      "A. cost-plus pricing",
+      "B. haggling",
+      "C. demand pricing",
+      "D. competition pricing"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Cost-plus pricing involves adding a standard markup to the...",
+    "options": [
+      "A. competitor's price",
+      "B. cost of the product",
+      "C. market demand price",
+      "D. retail price"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "A firm that sets prices primarily based on competitors' prices is using...",
+    "options": [
+      "A. cost-plus pricing",
+      "B. demand pricing",
+      "C. competition pricing",
+      "D. haggling"
+    ],
+    "answer": "C",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a price determinant?",
+    "options": [
+      "A. Cost of production",
+      "B. Level of demand",
+      "C. Competition",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Pricing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "Advertising is best defined as...",
+    "options": [
+      "A. personal selling of goods",
+      "B. any paid form of non-personal promotion",
+      "C. free publicity for products",
+      "D. sales promotion activities"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is a function of advertising?",
+    "options": [
+      "A. Informing consumers about products",
+      "B. Persuading consumers to buy",
+      "C. Creating brand awareness",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a mass media advertising medium?",
+    "options": [
+      "A. Personal selling",
+      "B. Television",
+      "C. Sales promotion",
+      "D. Direct mail"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "A disadvantage of television advertising is...",
+    "options": [
+      "A. high cost",
+      "B. low reach",
+      "C. limited creative options",
+      "D. short exposure time"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "An advantage of newspaper advertising is...",
+    "options": [
+      "A. high cost",
+      "B. wide reach and timeliness",
+      "C. long shelf life",
+      "D. audio-visual impact"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Sales promotion is defined as...",
+    "options": [
+      "A. long-term advertising",
+      "B. short-term incentives to encourage purchase",
+      "C. personal selling",
+      "D. public relations"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is a form of sales promotion?",
+    "options": [
+      "A. Coupons",
+      "B. Premium offers",
+      "C. Loyalty schemes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "A price-off promotion involves...",
+    "options": [
+      "A. increasing the price",
+      "B. reducing the price temporarily",
+      "C. offering free samples",
+      "D. giving coupons"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "A trade-in-allowance is a sales promotion form where...",
+    "options": [
+      "A. customers receive a discount for trading in an old product",
+      "B. customers receive free samples",
+      "C. retailers receive training",
+      "D. salesmen compete for prizes"
+    ],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 59,
+    "question": "Merchandising is defined as...",
+    "options": [
+      "A. the process of selling goods",
+      "B. the promotion of goods at the point of sale",
+      "C. the transportation of goods",
+      "D. the storage of goods"
+    ],
+    "answer": "B",
+    "topic": "Merchandising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "Which of the following is an element of merchandising?",
+    "options": [
+      "A. Packaging",
+      "B. Branding",
+      "C. Labeling",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 61,
+    "question": "Packaging is important because it...",
+    "options": [
+      "A. protects the product",
+      "B. provides information",
+      "C. attracts customers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "Branding is the process of...",
+    "options": [
+      "A. making a product",
+      "B. giving a product a name and identity",
+      "C. pricing a product",
+      "D. distributing a product"
+    ],
+    "answer": "B",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "Labeling a product provides...",
+    "options": [
+      "A. product information",
+      "B. brand name",
+      "C. price only",
+      "D. advertisement only"
+    ],
+    "answer": "A",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "A channel of distribution is defined as...",
+    "options": [
+      "A. the path a product takes from producer to consumer",
+      "B. the advertising route",
+      "C. the pricing strategy",
+      "D. the production process"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is a type of distribution channel?",
+    "options": [
+      "A. Direct channel",
+      "B. Indirect channel",
+      "C. Both A and B",
+      "D. Neither A nor B"
+    ],
+    "answer": "C",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "A factor influencing the choice of distribution channel is...",
+    "options": [
+      "A. nature of the product",
+      "B. market characteristics",
+      "C. company resources",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "A function of channel members is to...",
+    "options": [
+      "A. manufacture products",
+      "B. move products to consumers",
+      "C. set government policy",
+      "D. provide free goods"
+    ],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Transportation in marketing is defined as...",
+    "options": [
+      "A. the storage of goods",
+      "B. the movement of goods from one place to another",
+      "C. the pricing of goods",
+      "D. the advertising of goods"
+    ],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is a mode of transportation?",
+    "options": ["A. Road", "B. Rail", "C. Air", "D. All of the above"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "A document used in transportation is a...",
+    "options": [
+      "A. invoice",
+      "B. bill of lading",
+      "C. receipt",
+      "D. quotation"
+    ],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": [
+      "A. cost",
+      "B. nature of goods",
+      "C. distance",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "Warehousing is defined as...",
+    "options": [
+      "A. the movement of goods",
+      "B. the storage of goods until needed",
+      "C. the selling of goods",
+      "D. the pricing of goods"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is a type of warehouse?",
+    "options": [
+      "A. Private warehouse",
+      "B. Public warehouse",
+      "C. Bonded warehouse",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "A function of warehousing is to...",
+    "options": [
+      "A. stabilize prices",
+      "B. store goods",
+      "C. protect goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Market unions are defined as...",
+    "options": [
+      "A. associations of traders in a market",
+      "B. government agencies",
+      "C. consumer groups",
+      "D. manufacturing companies"
+    ],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is a role of market unions?",
+    "options": [
+      "A. Regulating prices",
+      "B. Settling disputes among members",
+      "C. Protecting members' interests",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Market facilitators are...",
+    "options": [
+      "A. traders in the market",
+      "B. individuals or agencies that assist in the marketing process",
+      "C. government officials",
+      "D. consumers"
+    ],
+    "answer": "B",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "International marketing is defined as...",
+    "options": [
+      "A. marketing within a country",
+      "B. marketing across national boundaries",
+      "C. marketing of imported goods only",
+      "D. marketing of exported goods only"
+    ],
+    "answer": "B",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "A reason for engaging in international marketing is...",
+    "options": [
+      "A. to access larger markets",
+      "B. to reduce competition",
+      "C. to increase domestic sales",
+      "D. to avoid taxes"
+    ],
+    "answer": "A",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "A method of engaging in international marketing is...",
+    "options": [
+      "A. exporting",
+      "B. importing",
+      "C. licensing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "A factor influencing international marketing is...",
+    "options": [
+      "A. political stability",
+      "B. cultural differences",
+      "C. economic conditions",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "E-marketing is defined as...",
+    "options": [
+      "A. marketing using electronic media",
+      "B. marketing of electronics",
+      "C. marketing by email only",
+      "D. marketing of electronic products"
+    ],
+    "answer": "A",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "An importance of e-marketing is...",
+    "options": [
+      "A. wider reach",
+      "B. lower cost",
+      "C. convenience",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "An ethical issue in e-marketing is...",
+    "options": [
+      "A. spamming",
+      "B. privacy invasion",
+      "C. misleading advertising",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Entrepreneurship is defined as...",
+    "options": [
+      "A. the process of starting and running a business",
+      "B. the process of working for a company",
+      "C. the process of investing in stocks",
+      "D. the process of government regulation"
+    ],
+    "answer": "A",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "An entrepreneur is a person who...",
+    "options": [
+      "A. works for the government",
+      "B. organizes and manages a business, taking risks",
+      "C. only invests in shares",
+      "D. provides free services"
+    ],
+    "answer": "B",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "A source of funds for an entrepreneur is...",
+    "options": [
+      "A. personal savings",
+      "B. bank loans",
+      "C. grants",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. availability of customers",
+      "B. cost of rent",
+      "C. accessibility",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Selling and bargaining skills are important in...",
+    "options": [
+      "A. marketing management",
+      "B. production",
+      "C. accounting",
+      "D. auditing"
+    ],
+    "answer": "A",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "The management of market outlets involves...",
+    "options": [
+      "A. purchasing goods",
+      "B. supplying goods",
+      "C. selling goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is a basic term in marketing?",
+    "options": ["A. Need", "B. Production", "C. Audit", "D. Ledger"],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "A market where goods are sold directly to consumers is called...",
+    "options": [
+      "A. industrial market",
+      "B. consumer market",
+      "C. government market",
+      "D. reseller market"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "The production concept is most useful when...",
+    "options": [
+      "A. demand exceeds supply",
+      "B. supply exceeds demand",
+      "C. competition is high",
+      "D. customers are demanding"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "The marketing mix element that includes advertising is...",
+    "options": ["A. product", "B. price", "C. place", "D. promotion"],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "A tangible product is known as a...",
+    "options": ["A. service", "B. good", "C. idea", "D. experience"],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "The process of dividing a market into distinct groups is called...",
+    "options": [
+      "A. market segmentation",
+      "B. market targeting",
+      "C. market positioning",
+      "D. market research"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The consumer decision process stage where the consumer seeks information is...",
+    "options": [
+      "A. need recognition",
+      "B. information search",
+      "C. evaluation of alternatives",
+      "D. purchase decision"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "Marketing planning is important because it...",
+    "options": [
+      "A. provides direction",
+      "B. reduces uncertainty",
+      "C. coordinates activities",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "A pricing strategy where price is set based on demand is...",
+    "options": [
+      "A. cost-plus pricing",
+      "B. demand pricing",
+      "C. competition pricing",
+      "D. haggling"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "A disadvantage of radio advertising is...",
+    "options": [
+      "A. audio only",
+      "B. high cost",
+      "C. low reach",
+      "D. long production time"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "A sales promotion technique where customers receive a small free sample is...",
+    "options": [
+      "A. coupon",
+      "B. sampling",
+      "C. premium offer",
+      "D. loyalty scheme"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Packaging protects a product during...",
+    "options": [
+      "A. storage",
+      "B. transportation",
+      "C. display",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "A distribution channel that involves no intermediaries is a...",
+    "options": [
+      "A. direct channel",
+      "B. indirect channel",
+      "C. wholesale channel",
+      "D. retail channel"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "A bill of lading is a document used in...",
+    "options": [
+      "A. warehousing",
+      "B. transportation",
+      "C. advertising",
+      "D. pricing"
+    ],
+    "answer": "B",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "A bonded warehouse is used to store...",
+    "options": [
+      "A. goods on which duty has not been paid",
+      "B. free goods",
+      "C. perishable goods only",
+      "D. government goods only"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "Market unions help to...",
+    "options": [
+      "A. regulate prices",
+      "B. protect members",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "A guiding rule in international marketing is...",
+    "options": [
+      "A. respect for local laws",
+      "B. cultural sensitivity",
+      "C. fair trade practices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "An abuse of e-marketing is...",
+    "options": [
+      "A. spamming",
+      "B. online advertising",
+      "C. email marketing",
+      "D. social media marketing"
+    ],
+    "answer": "A",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "A management function of a market outlet is...",
+    "options": [
+      "A. purchasing goods",
+      "B. supplying goods",
+      "C. selling goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "A marketing function that involves moving goods is...",
+    "options": ["A. transportation", "B. storage", "C. selling", "D. buying"],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "The production concept is criticized because it...",
+    "options": [
+      "A. focuses too much on customers",
+      "B. neglects product quality",
+      "C. ignores competition",
+      "D. is too expensive"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The marketing environment includes...",
+    "options": [
+      "A. internal and external factors",
+      "B. only internal factors",
+      "C. only external factors",
+      "D. only economic factors"
+    ],
+    "answer": "A",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is a secondary product?",
+    "options": [
+      "A. Cotton wool",
+      "B. Crude oil",
+      "C. Processed cotton fabric",
+      "D. Coal"
+    ],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "A market where existing products are offered to new markets is called...",
+    "options": [
+      "A. market penetration",
+      "B. market development",
+      "C. product development",
+      "D. diversification"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "A factor influencing organizational buying is...",
+    "options": [
+      "A. personal taste",
+      "B. organizational objectives",
+      "C. family preferences",
+      "D. fashion"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Marketing research involves...",
+    "options": [
+      "A. collecting data",
+      "B. analyzing data",
+      "C. interpreting data",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "Price skimming is a strategy where...",
+    "options": [
+      "A. a high price is set initially",
+      "B. a low price is set initially",
+      "C. price equals cost",
+      "D. price follows competitors"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "A disadvantage of newspaper advertising is...",
+    "options": [
+      "A. short shelf life",
+      "B. high cost",
+      "C. poor reproduction quality",
+      "D. limited reach"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "A loyalty scheme is a form of...",
+    "options": [
+      "A. advertising",
+      "B. sales promotion",
+      "C. personal selling",
+      "D. public relations"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "question": "A brand name is a...",
+    "options": [
+      "A. word or symbol identifying a product",
+      "B. type of packaging",
+      "C. label",
+      "D. price tag"
+    ],
+    "answer": "A",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "A factor that influences the choice of a distribution channel is...",
+    "options": [
+      "A. product perishability",
+      "B. market size",
+      "C. company resources",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "A bill of lading serves as...",
+    "options": [
+      "A. a receipt for goods shipped",
+      "B. a contract of carriage",
+      "C. a document of title",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 123,
+    "question": "Warehousing creates which type of utility?",
+    "options": [
+      "A. Time utility",
+      "B. Place utility",
+      "C. Form utility",
+      "D. Possession utility"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "A role of market facilitators is to...",
+    "options": [
+      "A. provide services that aid marketing",
+      "B. buy and sell goods",
+      "C. produce goods",
+      "D. regulate prices"
+    ],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "A method of international market entry is...",
+    "options": [
+      "A. joint venture",
+      "B. exporting",
+      "C. franchising",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "E-marketing allows businesses to...",
+    "options": [
+      "A. reach global customers",
+      "B. reduce costs",
+      "C. operate 24/7",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "An entrepreneur should possess...",
+    "options": [
+      "A. risk-taking ability",
+      "B. innovation skills",
+      "C. leadership skills",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "The process of creating utility in marketing includes...",
+    "options": [
+      "A. form utility",
+      "B. place utility",
+      "C. time utility",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "The marketing concept emerged as a response to...",
+    "options": [
+      "A. increased competition",
+      "B. production shortages",
+      "C. government regulations",
+      "D. high tariffs"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "The 4 Ps of marketing are product, price, place and...",
+    "options": [
+      "A. promotion",
+      "B. people",
+      "C. process",
+      "D. physical evidence"
+    ],
+    "answer": "A",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "question": "Which of the following is a mineral product?",
+    "options": ["A. Cocoa", "B. Crude oil", "C. Cotton", "D. Timber"],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "A reseller market includes...",
+    "options": [
+      "A. wholesalers",
+      "B. retailers",
+      "C. both A and B",
+      "D. neither A nor B"
+    ],
+    "answer": "C",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "A factor that affects consumer behaviour is...",
+    "options": [
+      "A. motivation",
+      "B. perception",
+      "C. learning",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The final stage in the consumer decision process is...",
+    "options": [
+      "A. purchase decision",
+      "B. post-purchase behaviour",
+      "C. evaluation of alternatives",
+      "D. information search"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "A marketing information system is used to...",
+    "options": [
+      "A. gather and analyze data",
+      "B. produce goods",
+      "C. sell products",
+      "D. advertise products"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "A pricing objective is...",
+    "options": [
+      "A. profit maximization",
+      "B. sales maximization",
+      "C. market share",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Pricing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following is an advertising medium?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "A salesman competition is a form of...",
+    "options": [
+      "A. advertising",
+      "B. sales promotion",
+      "C. personal selling",
+      "D. public relations"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "A label on a product provides...",
+    "options": [
+      "A. product information",
+      "B. brand identification",
+      "C. usage instructions",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "question": "An indirect distribution channel involves...",
+    "options": [
+      "A. intermediaries",
+      "B. no intermediaries",
+      "C. only the producer",
+      "D. only the consumer"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": ["A. cost", "B. speed", "C. reliability", "D. All of the above"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "A private warehouse is owned by...",
+    "options": [
+      "A. the government",
+      "B. an individual or company",
+      "C. a cooperative",
+      "D. the public"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "A type of market union is...",
+    "options": [
+      "A. trade association",
+      "B. cooperative society",
+      "C. commodity association",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "A challenge of international marketing is...",
+    "options": [
+      "A. cultural differences",
+      "B. legal differences",
+      "C. currency fluctuations",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "An ICT tool used in marketing is...",
+    "options": [
+      "A. email",
+      "B. social media",
+      "C. websites",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "A management skill required by an entrepreneur is...",
+    "options": [
+      "A. planning",
+      "B. organizing",
+      "C. controlling",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Marketing creates which type of utility by making goods available when needed?",
+    "options": [
+      "A. Form utility",
+      "B. Place utility",
+      "C. Time utility",
+      "D. Possession utility"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The selling concept is most likely to be used for...",
+    "options": [
+      "A. unsought goods",
+      "B. convenience goods",
+      "C. shopping goods",
+      "D. specialty goods"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "A micro-environmental factor is...",
+    "options": [
+      "A. the company itself",
+      "B. suppliers",
+      "C. customers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "A non-durable consumer good is...",
+    "options": [
+      "A. a refrigerator",
+      "B. a car",
+      "C. food items",
+      "D. furniture"
+    ],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "A market can be segmented by...",
+    "options": [
+      "A. demographics",
+      "B. geography",
+      "C. psychographics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "A social factor influencing consumer behaviour is...",
+    "options": [
+      "A. family",
+      "B. reference groups",
+      "C. social class",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "A component of a marketing plan is...",
+    "options": [
+      "A. executive summary",
+      "B. situation analysis",
+      "C. marketing strategies",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "A pricing strategy where a low price is set to gain market share is...",
+    "options": [
+      "A. price skimming",
+      "B. penetration pricing",
+      "C. premium pricing",
+      "D. cost-plus pricing"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "An advertising objective is to...",
+    "options": ["A. inform", "B. persuade", "C. remind", "D. All of the above"],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "A premium offer is a form of...",
+    "options": [
+      "A. advertising",
+      "B. sales promotion",
+      "C. personal selling",
+      "D. public relations"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "A function of packaging is to...",
+    "options": [
+      "A. protect the product",
+      "B. promote the product",
+      "C. provide information",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "question": "A channel member that buys from producers and sells to retailers is a...",
+    "options": ["A. retailer", "B. wholesaler", "C. agent", "D. broker"],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "A document used in transportation that shows the details of goods is a...",
+    "options": [
+      "A. consignment note",
+      "B. bill of lading",
+      "C. delivery note",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "A public warehouse is owned by...",
+    "options": [
+      "A. the government",
+      "B. private individuals",
+      "C. a company",
+      "D. a cooperative"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "A market facilitator is...",
+    "options": [
+      "A. a trader",
+      "B. an agency that aids marketing",
+      "C. a consumer",
+      "D. a producer"
+    ],
+    "answer": "B",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "An advantage of international marketing is...",
+    "options": [
+      "A. increased sales",
+      "B. market diversification",
+      "C. economies of scale",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "A use of ICT in marketing is...",
+    "options": [
+      "A. online advertising",
+      "B. e-commerce",
+      "C. customer relationship management",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "A factor to consider when locating a market outlet is...",
+    "options": [
+      "A. proximity to customers",
+      "B. cost of premises",
+      "C. competition",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Marketing is important to the economy because it...",
+    "options": [
+      "A. creates employment",
+      "B. facilitates exchange",
+      "C. improves standards of living",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "The societal marketing concept considers...",
+    "options": [
+      "A. consumer wants",
+      "B. company profits",
+      "C. society's long-term interests",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "A macro-environmental factor is...",
+    "options": [
+      "A. demographic forces",
+      "B. economic forces",
+      "C. natural forces",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "A durable consumer good is...",
+    "options": ["A. milk", "B. bread", "C. a washing machine", "D. soap"],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 169,
+    "question": "A target market is...",
+    "options": [
+      "A. all potential customers",
+      "B. a specific group of customers a firm aims to serve",
+      "C. the mass market",
+      "D. the international market"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 170,
+    "question": "A psychological factor influencing consumer behaviour is...",
+    "options": [
+      "A. motivation",
+      "B. perception",
+      "C. attitudes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "A SWOT analysis is part of...",
+    "options": [
+      "A. marketing planning",
+      "B. advertising",
+      "C. pricing",
+      "D. distribution"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Price elasticity of demand measures...",
+    "options": [
+      "A. how demand changes with price",
+      "B. how supply changes with price",
+      "C. production costs",
+      "D. competitor prices"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "A public relations activity is...",
+    "options": [
+      "A. advertising",
+      "B. sales promotion",
+      "C. press releases",
+      "D. personal selling"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "A form of sales promotion aimed at retailers is...",
+    "options": [
+      "A. coupons",
+      "B. trade allowance",
+      "C. samples",
+      "D. premiums"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 175,
+    "question": "A function of branding is to...",
+    "options": [
+      "A. differentiate a product",
+      "B. build customer loyalty",
+      "C. simplify purchasing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "A distribution channel is also known as a...",
+    "options": [
+      "A. trade route",
+      "B. marketing channel",
+      "C. supply chain",
+      "D. logistics network"
+    ],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "An importance of transportation in marketing is...",
+    "options": [
+      "A. it creates place utility",
+      "B. it creates time utility",
+      "C. it creates form utility",
+      "D. it creates possession utility"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "A type of warehouse that stores goods until they are needed is a...",
+    "options": [
+      "A. distribution warehouse",
+      "B. storage warehouse",
+      "C. bonded warehouse",
+      "D. public warehouse"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "A function of market unions is to...",
+    "options": [
+      "A. fix prices",
+      "B. regulate entry into the market",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 180,
+    "question": "A factor that promotes international marketing is...",
+    "options": [
+      "A. trade liberalization",
+      "B. improved transportation",
+      "C. communication technology",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "An ethical issue in e-marketing is...",
+    "options": [
+      "A. invasion of privacy",
+      "B. misleading claims",
+      "C. spamming",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "A function of an entrepreneur is to...",
+    "options": [
+      "A. take risks",
+      "B. organize resources",
+      "C. make decisions",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "A marketing function that involves communication with customers is...",
+    "options": ["A. selling", "B. transportation", "C. storage", "D. grading"],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The product concept is most likely to be used when...",
+    "options": [
+      "A. competition is low",
+      "B. customers value quality",
+      "C. production costs are high",
+      "D. demand is low"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "The marketing mix element that includes distribution is...",
+    "options": ["A. product", "B. price", "C. place", "D. promotion"],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "A specialty consumer good is...",
+    "options": [
+      "A. a convenience good",
+      "B. a shopping good",
+      "C. a product with unique characteristics",
+      "D. an unsought good"
+    ],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "A market where a firm sells to government agencies is a...",
+    "options": [
+      "A. consumer market",
+      "B. reseller market",
+      "C. government market",
+      "D. industrial market"
+    ],
+    "answer": "C",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "The stage of consumer decision process where the consumer actually buys is...",
+    "options": [
+      "A. need recognition",
+      "B. information search",
+      "C. evaluation of alternatives",
+      "D. purchase decision"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "A reason for marketing research is to...",
+    "options": [
+      "A. reduce risk",
+      "B. identify opportunities",
+      "C. understand customers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "A pricing method that considers both cost and demand is...",
+    "options": [
+      "A. cost-plus pricing",
+      "B. target pricing",
+      "C. flexible pricing",
+      "D. competitive pricing"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 191,
+    "question": "A disadvantage of magazine advertising is...",
+    "options": [
+      "A. long lead time",
+      "B. high cost",
+      "C. limited reach",
+      "D. short shelf life"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "A sample in sales promotion is...",
+    "options": [
+      "A. a small free trial of a product",
+      "B. a coupon",
+      "C. a premium",
+      "D. a trade-in"
+    ],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "A label that provides nutritional information is an example of a...",
+    "options": [
+      "A. brand label",
+      "B. descriptive label",
+      "C. grade label",
+      "D. price label"
+    ],
+    "answer": "B",
+    "topic": "Merchandising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "A factor influencing the choice of distribution channel is...",
+    "options": [
+      "A. product characteristics",
+      "B. market characteristics",
+      "C. company characteristics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "question": "A disadvantage of air transport is...",
+    "options": [
+      "A. high cost",
+      "B. slow speed",
+      "C. limited accessibility",
+      "D. unsuitable for perishables"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A function of warehousing is...",
+    "options": [
+      "A. price stabilization",
+      "B. storage of goods",
+      "C. protection of goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "A market facilitator that provides transportation services is a...",
+    "options": ["A. transporter", "B. wholesaler", "C. retailer", "D. agent"],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "A guiding rule in international marketing is...",
+    "options": [
+      "A. compliance with local laws",
+      "B. understanding local culture",
+      "C. fair pricing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "An ICT tool that enables online payments is...",
+    "options": ["A. e-wallet", "B. email", "C. website", "D. social media"],
+    "answer": "A",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "A source of funds for a small business is...",
+    "options": [
+      "A. personal savings",
+      "B. family and friends",
+      "C. microfinance loans",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "The process of moving goods from producer to consumer is called...",
+    "options": [
+      "A. production",
+      "B. distribution",
+      "C. consumption",
+      "D. promotion"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "The marketing concept focuses on...",
+    "options": [
+      "A. customer satisfaction",
+      "B. product quality",
+      "C. aggressive selling",
+      "D. mass production"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following is a macro-environmental factor?",
+    "options": [
+      "A. Competitors",
+      "B. Suppliers",
+      "C. Demographic trends",
+      "D. Intermediaries"
+    ],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "An industrial good is used...",
+    "options": [
+      "A. for personal consumption",
+      "B. in the production of other goods",
+      "C. for household use",
+      "D. for resale only"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "A market with many buyers and sellers is...",
+    "options": [
+      "A. monopolistic",
+      "B. oligopolistic",
+      "C. competitive",
+      "D. monopolistic competition"
+    ],
+    "answer": "C",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "A cultural factor influencing consumer behaviour is...",
+    "options": [
+      "A. subculture",
+      "B. social class",
+      "C. reference group",
+      "D. family"
+    ],
+    "answer": "A",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "A marketing audit is part of...",
+    "options": [
+      "A. marketing planning",
+      "B. advertising",
+      "C. pricing",
+      "D. distribution"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "A pricing strategy used for new products is...",
+    "options": [
+      "A. price skimming",
+      "B. penetration pricing",
+      "C. psychological pricing",
+      "D. promotional pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "An advantage of online advertising is...",
+    "options": [
+      "A. wide reach",
+      "B. low cost",
+      "C. measurable results",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "question": "A coupon in sales promotion is...",
+    "options": [
+      "A. a certificate that gives a discount",
+      "B. a free sample",
+      "C. a premium",
+      "D. a loyalty card"
+    ],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "A function of labeling is to...",
+    "options": [
+      "A. identify the product",
+      "B. describe the product",
+      "C. promote the product",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "A channel of distribution that involves agents is a...",
+    "options": [
+      "A. direct channel",
+      "B. indirect channel",
+      "C. retail channel",
+      "D. wholesale channel"
+    ],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "question": "An importance of transportation is...",
+    "options": [
+      "A. it widens the market",
+      "B. it creates place utility",
+      "C. it stabilizes prices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 214,
+    "question": "A bonded warehouse is supervised by...",
+    "options": [
+      "A. the government",
+      "B. a private company",
+      "C. a cooperative",
+      "D. an individual"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "A type of market union in local markets is...",
+    "options": [
+      "A. commodity association",
+      "B. trade association",
+      "C. cooperative",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "A disadvantage of international marketing is...",
+    "options": [
+      "A. cultural barriers",
+      "B. legal complexities",
+      "C. currency risks",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "A benefit of e-marketing is...",
+    "options": [
+      "A. global reach",
+      "B. low cost",
+      "C. convenience",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. availability of raw materials",
+      "B. proximity to customers",
+      "C. government policy",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 219,
+    "question": "Marketing involves...",
+    "options": [
+      "A. buying and selling",
+      "B. transportation and storage",
+      "C. advertising and promotion",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 220,
+    "question": "The selling concept is most suitable for...",
+    "options": [
+      "A. products consumers actively seek",
+      "B. products consumers do not normally think of buying",
+      "C. convenience goods",
+      "D. luxury goods"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "A technological factor in the marketing environment includes...",
+    "options": [
+      "A. new production techniques",
+      "B. new communication tools",
+      "C. automation",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "A convenience consumer good is...",
+    "options": [
+      "A. a product bought frequently with minimal effort",
+      "B. a product bought after comparison",
+      "C. a unique product",
+      "D. an unsought product"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "A market where a firm sells to wholesalers and retailers is a...",
+    "options": [
+      "A. consumer market",
+      "B. reseller market",
+      "C. government market",
+      "D. industrial market"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "A post-purchase behaviour of a consumer includes...",
+    "options": [
+      "A. need recognition",
+      "B. information search",
+      "C. cognitive dissonance",
+      "D. purchase decision"
+    ],
+    "answer": "C",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 225,
+    "question": "A feedback mechanism in marketing planning helps to...",
+    "options": [
+      "A. set objectives",
+      "B. monitor performance",
+      "C. make adjustments",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "Psychological pricing is based on...",
+    "options": [
+      "A. cost of production",
+      "B. consumer perception",
+      "C. competitor prices",
+      "D. market demand"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "A type of advertising that aims to create demand for a new product is...",
+    "options": [
+      "A. informative advertising",
+      "B. persuasive advertising",
+      "C. reminder advertising",
+      "D. institutional advertising"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "A trade-in-allowance is a reduction in price given when...",
+    "options": [
+      "A. a customer buys in bulk",
+      "B. a customer trades in an old item",
+      "C. a customer pays cash",
+      "D. a customer is a loyal buyer"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "A brand mark is...",
+    "options": [
+      "A. a symbol or design that identifies a brand",
+      "B. the brand name",
+      "C. a label",
+      "D. a trademark"
+    ],
+    "answer": "A",
+    "topic": "Merchandising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "A factor that influences the choice of distribution channel is...",
+    "options": [
+      "A. product life cycle stage",
+      "B. market size",
+      "C. company objectives",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "A document that shows the details of goods being transported is a...",
+    "options": [
+      "A. consignment note",
+      "B. waybill",
+      "C. bill of lading",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "A public warehouse is licensed to...",
+    "options": [
+      "A. store goods for the public",
+      "B. sell goods",
+      "C. manufacture goods",
+      "D. transport goods"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "A role of market facilitators in local markets is to...",
+    "options": [
+      "A. provide credit",
+      "B. provide transport",
+      "C. provide storage",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "An objective of international marketing is...",
+    "options": [
+      "A. market expansion",
+      "B. profit growth",
+      "C. competitive advantage",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "An abuse of e-marketing is...",
+    "options": [
+      "A. sending unsolicited emails",
+      "B. online advertising",
+      "C. social media marketing",
+      "D. email newsletters"
+    ],
+    "answer": "A",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "A function of a market outlet manager is...",
+    "options": [
+      "A. purchasing goods",
+      "B. pricing goods",
+      "C. selling goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "The marketing function of standardization and grading involves...",
+    "options": [
+      "A. setting quality standards",
+      "B. sorting products",
+      "C. classifying products",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "The marketing concept is most likely to succeed when...",
+    "options": [
+      "A. customer needs are understood",
+      "B. production is efficient",
+      "C. competition is low",
+      "D. prices are high"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "A cultural factor in the marketing environment includes...",
+    "options": [
+      "A. language",
+      "B. beliefs",
+      "C. values",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "A shopping consumer good is...",
+    "options": [
+      "A. bought frequently",
+      "B. bought after comparing alternatives",
+      "C. a unique product",
+      "D. an unsought product"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "A market with only one seller is a...",
+    "options": [
+      "A. monopoly",
+      "B. oligopoly",
+      "C. perfect competition",
+      "D. monopolistic competition"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "A social factor influencing consumer behaviour is...",
+    "options": [
+      "A. roles and status",
+      "B. family",
+      "C. reference groups",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "A marketing plan should include...",
+    "options": [
+      "A. objectives",
+      "B. strategies",
+      "C. budgets",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 244,
+    "question": "Price is the only element of the marketing mix that...",
+    "options": [
+      "A. generates revenue",
+      "B. creates utility",
+      "C. communicates value",
+      "D. delivers satisfaction"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 245,
+    "question": "A type of advertising that reminds consumers about a product is...",
+    "options": [
+      "A. informative advertising",
+      "B. persuasive advertising",
+      "C. reminder advertising",
+      "D. institutional advertising"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "A training scheme as a sales promotion is aimed at...",
+    "options": [
+      "A. consumers",
+      "B. retailers and sales staff",
+      "C. wholesalers only",
+      "D. manufacturers"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "A function of packaging is to...",
+    "options": [
+      "A. contain the product",
+      "B. protect the product",
+      "C. promote the product",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "A direct distribution channel is suitable for...",
+    "options": [
+      "A. perishable goods",
+      "B. industrial goods",
+      "C. expensive goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": [
+      "A. nature of goods",
+      "B. cost",
+      "C. urgency",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "A warehouse that is owned by a company and used for its own goods is a...",
+    "options": [
+      "A. public warehouse",
+      "B. private warehouse",
+      "C. bonded warehouse",
+      "D. cooperative warehouse"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "A type of market facilitator is...",
+    "options": [
+      "A. a transporter",
+      "B. a bank",
+      "C. an insurer",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "A factor influencing international marketing is...",
+    "options": [
+      "A. exchange rates",
+      "B. trade policies",
+      "C. cultural differences",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "E-marketing is also known as...",
+    "options": [
+      "A. internet marketing",
+      "B. digital marketing",
+      "C. online marketing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. population density",
+      "B. income level",
+      "C. competition",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 255,
+    "question": "The marketing function of risk bearing involves...",
+    "options": [
+      "A. taking risks associated with marketing",
+      "B. insuring goods",
+      "C. storing goods",
+      "D. transporting goods"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 256,
+    "question": "The marketing concept requires a firm to...",
+    "options": [
+      "A. produce first and sell later",
+      "B. determine customer needs and satisfy them",
+      "C. focus on selling only",
+      "D. maximize production"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "A political factor in the marketing environment includes...",
+    "options": [
+      "A. government regulations",
+      "B. political stability",
+      "C. trade policies",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "An unsought consumer good is...",
+    "options": [
+      "A. a product consumers know about but do not actively seek",
+      "B. a convenience good",
+      "C. a shopping good",
+      "D. a specialty good"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "A market with few sellers is an...",
+    "options": [
+      "A. monopoly",
+      "B. oligopoly",
+      "C. perfect competition",
+      "D. monopsony"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "A personal factor influencing consumer behaviour is...",
+    "options": [
+      "A. age",
+      "B. occupation",
+      "C. lifestyle",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "Marketing research is a systematic process of...",
+    "options": [
+      "A. gathering information",
+      "B. analyzing information",
+      "C. reporting findings",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "Price discrimination involves...",
+    "options": [
+      "A. charging different prices to different customers",
+      "B. charging the same price to all",
+      "C. setting price below cost",
+      "D. matching competitor prices"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "A function of advertising is to...",
+    "options": ["A. inform", "B. persuade", "C. remind", "D. All of the above"],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "Merchandising incentives are aimed at...",
+    "options": [
+      "A. consumers",
+      "B. retailers",
+      "C. wholesalers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "A product mix refers to...",
+    "options": [
+      "A. the set of all products a firm offers",
+      "B. a single product",
+      "C. product pricing",
+      "D. product promotion"
+    ],
+    "answer": "A",
+    "topic": "Merchandising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "A channel of distribution that involves both wholesalers and retailers is a...",
+    "options": [
+      "A. direct channel",
+      "B. indirect channel",
+      "C. zero-level channel",
+      "D. one-level channel"
+    ],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "An importance of transportation to marketing is...",
+    "options": [
+      "A. it creates place utility",
+      "B. it creates time utility",
+      "C. it reduces prices",
+      "D. it increases production"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "A function of warehousing is...",
+    "options": [
+      "A. production of goods",
+      "B. storage of goods",
+      "C. consumption of goods",
+      "D. pricing of goods"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "A function of market unions is to...",
+    "options": [
+      "A. promote members' welfare",
+      "B. regulate market activities",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "International marketing is important because it...",
+    "options": [
+      "A. increases sales",
+      "B. diversifies risk",
+      "C. promotes economic growth",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 271,
+    "question": "A challenge of e-marketing is...",
+    "options": [
+      "A. security concerns",
+      "B. privacy issues",
+      "C. digital divide",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "A skill required for selling is...",
+    "options": [
+      "A. communication",
+      "B. persuasion",
+      "C. negotiation",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "The marketing function that involves making goods available in the right quantity is...",
+    "options": [
+      "A. buying",
+      "B. selling",
+      "C. standardization",
+      "D. risk bearing"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "The marketing concept differs from the selling concept because it focuses on...",
+    "options": [
+      "A. selling what is produced",
+      "B. producing what can be sold",
+      "C. aggressive advertising",
+      "D. reducing costs"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 275,
+    "question": "An economic factor in the marketing environment includes...",
+    "options": [
+      "A. inflation",
+      "B. income levels",
+      "C. interest rates",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "A product can be a...",
+    "options": [
+      "A. physical good",
+      "B. service",
+      "C. idea",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 277,
+    "question": "A market segment is...",
+    "options": [
+      "A. a group of consumers with similar needs",
+      "B. all consumers",
+      "C. a single consumer",
+      "D. a retailer"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "A buyer's decision process is influenced by...",
+    "options": [
+      "A. marketing stimuli",
+      "B. environmental stimuli",
+      "C. buyer characteristics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "A marketing plan is a...",
+    "options": [
+      "A. document outlining marketing activities",
+      "B. financial statement",
+      "C. production schedule",
+      "D. legal contract"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "A pricing tactic used to attract customers is...",
+    "options": [
+      "A. promotional pricing",
+      "B. cost-plus pricing",
+      "C. target pricing",
+      "D. value-based pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "A type of advertising that promotes a company's image is...",
+    "options": [
+      "A. product advertising",
+      "B. institutional advertising",
+      "C. informative advertising",
+      "D. persuasive advertising"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 282,
+    "question": "A form of sales promotion that encourages repeat purchases is...",
+    "options": [
+      "A. coupon",
+      "B. loyalty scheme",
+      "C. sampling",
+      "D. trade-in-allowance"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "question": "A benefit of branding is...",
+    "options": [
+      "A. product differentiation",
+      "B. customer loyalty",
+      "C. easier product identification",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 284,
+    "question": "A direct channel of distribution is also called a...",
+    "options": [
+      "A. zero-level channel",
+      "B. one-level channel",
+      "C. two-level channel",
+      "D. three-level channel"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "A document that must accompany goods in transit is a...",
+    "options": ["A. waybill", "B. invoice", "C. receipt", "D. purchase order"],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "A characteristic of a warehouse is...",
+    "options": [
+      "A. it provides storage space",
+      "B. it protects goods",
+      "C. it facilitates distribution",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "A role of market facilitators is to...",
+    "options": [
+      "A. bridge the gap between producers and consumers",
+      "B. produce goods",
+      "C. consume goods",
+      "D. regulate prices"
+    ],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "An advantage of international marketing is...",
+    "options": [
+      "A. larger market",
+      "B. economies of scale",
+      "C. diversification",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "A benefit of ICT in marketing is...",
+    "options": [
+      "A. improved customer service",
+      "B. efficient operations",
+      "C. wider reach",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. traffic flow",
+      "B. parking facilities",
+      "C. visibility",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "Marketing is important because it...",
+    "options": [
+      "A. creates awareness of products",
+      "B. facilitates exchange",
+      "C. creates employment",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "The marketing concept is a...",
+    "options": [
+      "A. production philosophy",
+      "B. customer-oriented philosophy",
+      "C. sales-oriented philosophy",
+      "D. product-oriented philosophy"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "A micro-environmental factor is...",
+    "options": [
+      "A. the company",
+      "B. suppliers",
+      "C. marketing intermediaries",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "A secondary product is...",
+    "options": [
+      "A. a raw material",
+      "B. a processed good",
+      "C. a service",
+      "D. a natural resource"
+    ],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "A market with many sellers of similar products is...",
+    "options": [
+      "A. perfect competition",
+      "B. monopoly",
+      "C. oligopoly",
+      "D. monopsony"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "A belief that influences consumer behaviour is a...",
+    "options": [
+      "A. cultural factor",
+      "B. social factor",
+      "C. psychological factor",
+      "D. personal factor"
+    ],
+    "answer": "C",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "A marketing information system consists of...",
+    "options": [
+      "A. people",
+      "B. equipment",
+      "C. procedures",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "A pricing strategy that sets a high price for a new product is...",
+    "options": [
+      "A. price skimming",
+      "B. penetration pricing",
+      "C. going-rate pricing",
+      "D. sealed-bid pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "A medium of advertising that uses sound is...",
+    "options": ["A. radio", "B. newspaper", "C. magazine", "D. billboard"],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "A sales promotion technique where customers collect points for rewards is a...",
+    "options": ["A. coupon", "B. loyalty scheme", "C. sample", "D. premium"],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "A package that protects a product from damage is providing...",
+    "options": [
+      "A. storage function",
+      "B. protection function",
+      "C. promotional function",
+      "D. informational function"
+    ],
+    "answer": "B",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "A function performed by channel members is...",
+    "options": [
+      "A. physical distribution",
+      "B. financing",
+      "C. risk taking",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "A factor that affects the choice of transportation is...",
+    "options": [
+      "A. value of goods",
+      "B. distance",
+      "C. speed required",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "An activity in a warehouse is...",
+    "options": [
+      "A. receiving goods",
+      "B. storing goods",
+      "C. dispatching goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 305,
+    "question": "A type of market union is a...",
+    "options": [
+      "A. trade association",
+      "B. labour union",
+      "C. cooperative",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "A method of engaging in international marketing is...",
+    "options": [
+      "A. direct investment",
+      "B. joint venture",
+      "C. exporting",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "An ethical issue in e-marketing is...",
+    "options": [
+      "A. online fraud",
+      "B. identity theft",
+      "C. spam",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "A source of funds for an entrepreneur is...",
+    "options": [
+      "A. venture capital",
+      "B. angel investors",
+      "C. crowdfunding",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The marketing function of financing involves...",
+    "options": [
+      "A. providing credit",
+      "B. managing cash flow",
+      "C. securing funds",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "The marketing concept is most likely to lead to...",
+    "options": [
+      "A. customer satisfaction",
+      "B. repeat purchases",
+      "C. long-term profitability",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "A natural factor in the marketing environment includes...",
+    "options": [
+      "A. weather",
+      "B. climate change",
+      "C. natural disasters",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "An example of a service is...",
+    "options": ["A. a car", "B. a haircut", "C. a phone", "D. a book"],
+    "answer": "B",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Market segmentation is important because it helps a firm to...",
+    "options": [
+      "A. identify target customers",
+      "B. tailor products to specific needs",
+      "C. allocate resources effectively",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "An internal factor influencing consumer behaviour is...",
+    "options": [
+      "A. perception",
+      "B. learning",
+      "C. motivation",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "A marketing plan should be...",
+    "options": [
+      "A. flexible",
+      "B. realistic",
+      "C. measurable",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "A pricing strategy based on the perceived value of a product is...",
+    "options": [
+      "A. value-based pricing",
+      "B. cost-plus pricing",
+      "C. going-rate pricing",
+      "D. predatory pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 317,
+    "question": "A medium of advertising that has a long shelf life is...",
+    "options": ["A. radio", "B. television", "C. magazine", "D. billboard"],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "A form of sales promotion that offers a free gift is a...",
+    "options": ["A. coupon", "B. premium", "C. sample", "D. trade-in"],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "A function of a brand is to...",
+    "options": [
+      "A. identify the product",
+      "B. differentiate the product",
+      "C. build loyalty",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "A channel of distribution that involves only the producer and consumer is a...",
+    "options": [
+      "A. direct channel",
+      "B. indirect channel",
+      "C. wholesale channel",
+      "D. retail channel"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "A disadvantage of rail transport is...",
+    "options": [
+      "A. limited routes",
+      "B. high cost",
+      "C. slow speed",
+      "D. small capacity"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "A cooperative warehouse is owned by...",
+    "options": [
+      "A. a cooperative society",
+      "B. the government",
+      "C. a company",
+      "D. an individual"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "A role of market unions is to...",
+    "options": [
+      "A. maintain standards",
+      "B. protect members",
+      "C. regulate prices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "A factor that facilitates international marketing is...",
+    "options": [
+      "A. trade agreements",
+      "B. common currencies",
+      "C. improved logistics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "An importance of e-marketing is...",
+    "options": [
+      "A. it enables personalized marketing",
+      "B. it reduces costs",
+      "C. it provides measurable results",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "A function of an entrepreneur in marketing is to...",
+    "options": [
+      "A. identify market opportunities",
+      "B. organize resources",
+      "C. take risks",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "The marketing function of buying involves...",
+    "options": [
+      "A. purchasing goods for resale",
+      "B. selling goods",
+      "C. transporting goods",
+      "D. storing goods"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The production concept is most effective when...",
+    "options": [
+      "A. demand exceeds supply",
+      "B. supply exceeds demand",
+      "C. competition is intense",
+      "D. customers are sophisticated"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A demographic factor in the marketing environment includes...",
+    "options": ["A. age", "B. gender", "C. income", "D. All of the above"],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 330,
+    "question": "A product line is...",
+    "options": [
+      "A. a group of related products",
+      "B. a single product",
+      "C. a brand",
+      "D. a package"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Market positioning is...",
+    "options": [
+      "A. arranging a product in the minds of consumers",
+      "B. placing a product on a shelf",
+      "C. pricing a product",
+      "D. promoting a product"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "A situational factor influencing consumer behaviour is...",
+    "options": [
+      "A. time",
+      "B. mood",
+      "C. physical environment",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "A marketing objective should be...",
+    "options": [
+      "A. specific",
+      "B. measurable",
+      "C. achievable",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 334,
+    "question": "A pricing strategy where a firm sets a low price to enter a new market is...",
+    "options": [
+      "A. penetration pricing",
+      "B. price skimming",
+      "C. premium pricing",
+      "D. psychological pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "An advantage of television advertising is...",
+    "options": [
+      "A. audio-visual impact",
+      "B. low cost",
+      "C. long shelf life",
+      "D. high selectivity"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "A form of sales promotion aimed at sales staff is...",
+    "options": [
+      "A. coupons",
+      "B. salesmen competition",
+      "C. samples",
+      "D. premiums"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "A characteristic of a good brand name is...",
+    "options": [
+      "A. easy to remember",
+      "B. easy to pronounce",
+      "C. distinctive",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 338,
+    "question": "A factor to consider when choosing a distribution channel is...",
+    "options": [
+      "A. desired market coverage",
+      "B. cost of channel",
+      "C. control",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "An importance of transportation is that it...",
+    "options": [
+      "A. creates place utility",
+      "B. creates time utility",
+      "C. stabilizes prices",
+      "D. increases production"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "A type of warehouse that is used for storage of goods for a short period is a...",
+    "options": [
+      "A. storage warehouse",
+      "B. distribution warehouse",
+      "C. bonded warehouse",
+      "D. private warehouse"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "A market facilitator that provides insurance services is an...",
+    "options": ["A. insurer", "B. transporter", "C. wholesaler", "D. agent"],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "A disadvantage of international marketing is...",
+    "options": [
+      "A. increased competition",
+      "B. trade barriers",
+      "C. cultural differences",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "A type of e-marketing is...",
+    "options": [
+      "A. email marketing",
+      "B. social media marketing",
+      "C. search engine marketing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. availability of skilled labor",
+      "B. government incentives",
+      "C. personal preference",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "The marketing function of selling involves...",
+    "options": [
+      "A. persuading customers to buy",
+      "B. providing information",
+      "C. negotiating terms",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 346,
+    "question": "The marketing concept is a business philosophy that...",
+    "options": [
+      "A. puts the customer at the center of business",
+      "B. focuses on production efficiency",
+      "C. relies on aggressive selling",
+      "D. emphasizes product quality"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "A micro-environmental factor that directly affects a firm is...",
+    "options": [
+      "A. competitors",
+      "B. suppliers",
+      "C. customers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "A product item is...",
+    "options": [
+      "A. a single product",
+      "B. a product line",
+      "C. a product mix",
+      "D. a brand"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "Market targeting is...",
+    "options": [
+      "A. selecting one or more market segments to serve",
+      "B. dividing the market",
+      "C. positioning the product",
+      "D. pricing the product"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "An external factor influencing consumer behaviour is...",
+    "options": [
+      "A. culture",
+      "B. social class",
+      "C. reference groups",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "A marketing audit is...",
+    "options": [
+      "A. a review of marketing activities",
+      "B. a financial audit",
+      "C. a production audit",
+      "D. a sales audit"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "A pricing method that considers competitors' prices is...",
+    "options": [
+      "A. going-rate pricing",
+      "B. cost-plus pricing",
+      "C. value-based pricing",
+      "D. target pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "A disadvantage of outdoor advertising is...",
+    "options": [
+      "A. low recall",
+      "B. high cost",
+      "C. limited creativity",
+      "D. short exposure"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "A sales promotion technique that offers a refund is a...",
+    "options": ["A. coupon", "B. rebate", "C. sample", "D. premium"],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "A function of labeling is to...",
+    "options": [
+      "A. provide product information",
+      "B. identify the product",
+      "C. promote the product",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 356,
+    "question": "A direct channel of distribution is most suitable for...",
+    "options": [
+      "A. perishable goods",
+      "B. industrial goods",
+      "C. expensive goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": [
+      "A. nature of goods",
+      "B. cost",
+      "C. speed",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "A function of warehousing is to...",
+    "options": [
+      "A. stabilize prices",
+      "B. store goods",
+      "C. protect goods",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "A role of market unions in local markets is to...",
+    "options": [
+      "A. regulate market activities",
+      "B. protect members' interests",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "question": "A factor influencing international marketing is...",
+    "options": [
+      "A. political environment",
+      "B. legal environment",
+      "C. economic environment",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "A benefit of e-marketing is...",
+    "options": [
+      "A. cost reduction",
+      "B. wider reach",
+      "C. convenience",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "A skill required for managing a market outlet is...",
+    "options": [
+      "A. inventory management",
+      "B. customer service",
+      "C. financial management",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "The marketing function of market information involves...",
+    "options": [
+      "A. collecting data",
+      "B. analyzing data",
+      "C. disseminating information",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The societal marketing concept is criticized because it...",
+    "options": [
+      "A. is difficult to implement",
+      "B. ignores customer needs",
+      "C. reduces profits",
+      "D. is too expensive"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 365,
+    "question": "A macro-environmental factor that affects marketing is...",
+    "options": [
+      "A. technological change",
+      "B. demographic shifts",
+      "C. cultural trends",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "A product mix width refers to...",
+    "options": [
+      "A. the number of product lines",
+      "B. the number of items in a line",
+      "C. the total number of products",
+      "D. the depth of a line"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 367,
+    "question": "A niche market is...",
+    "options": [
+      "A. a small, specialized market segment",
+      "B. the mass market",
+      "C. a declining market",
+      "D. a global market"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "A family influence on consumer behaviour is a...",
+    "options": [
+      "A. cultural factor",
+      "B. social factor",
+      "C. personal factor",
+      "D. psychological factor"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "A marketing plan should be based on...",
+    "options": [
+      "A. market research",
+      "B. intuition",
+      "C. guesswork",
+      "D. tradition"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "A pricing tactic used to increase sales in the short term is...",
+    "options": [
+      "A. promotional pricing",
+      "B. everyday low pricing",
+      "C. high-low pricing",
+      "D. value pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "A medium of advertising that is highly selective is...",
+    "options": ["A. direct mail", "B. television", "C. radio", "D. newspaper"],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "A form of sales promotion aimed at encouraging trial is...",
+    "options": ["A. sampling", "B. coupon", "C. premium", "D. loyalty scheme"],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "A function of packaging is to...",
+    "options": [
+      "A. facilitate storage",
+      "B. facilitate transportation",
+      "C. facilitate identification",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "An indirect channel of distribution involves...",
+    "options": [
+      "A. intermediaries",
+      "B. no intermediaries",
+      "C. only producers",
+      "D. only consumers"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "question": "An importance of transportation is...",
+    "options": [
+      "A. it creates place utility",
+      "B. it widens the market",
+      "C. it stabilizes prices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "A public warehouse provides...",
+    "options": [
+      "A. storage services to the public",
+      "B. free storage",
+      "C. manufacturing services",
+      "D. retail services"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "A market facilitator that provides banking services is a...",
+    "options": ["A. bank", "B. transporter", "C. wholesaler", "D. retailer"],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "A guiding rule in international marketing is...",
+    "options": [
+      "A. compliance with local laws",
+      "B. respect for local customs",
+      "C. fair competition",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "An abuse of e-marketing is...",
+    "options": [
+      "A. sending spam emails",
+      "B. online advertising",
+      "C. social media marketing",
+      "D. search engine optimization"
+    ],
+    "answer": "A",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. availability of customers",
+      "B. availability of suppliers",
+      "C. cost of premises",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "The marketing function of grading involves...",
+    "options": [
+      "A. sorting products by quality",
+      "B. pricing products",
+      "C. transporting products",
+      "D. storing products"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "The marketing concept is most likely to be adopted by...",
+    "options": [
+      "A. customer-centric firms",
+      "B. production-oriented firms",
+      "C. sales-oriented firms",
+      "D. product-oriented firms"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "A factor in the marketing environment that affects consumer buying power is...",
+    "options": [
+      "A. economic factors",
+      "B. political factors",
+      "C. cultural factors",
+      "D. technological factors"
+    ],
+    "answer": "A",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "A product's core benefit is...",
+    "options": [
+      "A. the fundamental need it satisfies",
+      "B. its packaging",
+      "C. its brand name",
+      "D. its price"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Market penetration strategy involves...",
+    "options": [
+      "A. increasing sales of existing products in existing markets",
+      "B. selling new products in new markets",
+      "C. selling existing products in new markets",
+      "D. selling new products in existing markets"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "A consumer's post-purchase evaluation is influenced by...",
+    "options": [
+      "A. expectations",
+      "B. performance",
+      "C. satisfaction",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "question": "A marketing plan should be reviewed...",
+    "options": [
+      "A. regularly",
+      "B. never",
+      "C. only when problems arise",
+      "D. only at the end of the year"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "question": "A pricing strategy that sets a price just below a round number is...",
+    "options": [
+      "A. psychological pricing",
+      "B. cost-plus pricing",
+      "C. value-based pricing",
+      "D. going-rate pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "A medium of advertising that is suitable for local businesses is...",
+    "options": [
+      "A. local newspaper",
+      "B. national television",
+      "C. international magazine",
+      "D. satellite radio"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "A sales promotion technique where customers receive a discount for buying in bulk is a...",
+    "options": ["A. quantity discount", "B. coupon", "C. sample", "D. premium"],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "A function of a label is to...",
+    "options": [
+      "A. provide instructions",
+      "B. warn of dangers",
+      "C. provide nutritional information",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "question": "A channel of distribution that involves a wholesaler and a retailer is a...",
+    "options": [
+      "A. two-level channel",
+      "B. one-level channel",
+      "C. zero-level channel",
+      "D. three-level channel"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": [
+      "A. reliability",
+      "B. flexibility",
+      "C. safety",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 394,
+    "question": "A function of a bonded warehouse is to...",
+    "options": [
+      "A. store goods until duty is paid",
+      "B. sell goods",
+      "C. manufacture goods",
+      "D. transport goods"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "A type of market union is a...",
+    "options": [
+      "A. cooperative",
+      "B. trade association",
+      "C. commodity board",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "A method of international market entry that involves low risk is...",
+    "options": [
+      "A. exporting",
+      "B. direct investment",
+      "C. joint venture",
+      "D. wholly owned subsidiary"
+    ],
+    "answer": "A",
+    "topic": "International Marketing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "A benefit of e-marketing is...",
+    "options": [
+      "A. global reach",
+      "B. cost efficiency",
+      "C. personalization",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "A function of a market outlet manager is...",
+    "options": [
+      "A. stock control",
+      "B. customer service",
+      "C. staff supervision",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "The marketing function that creates form utility is...",
+    "options": [
+      "A. production",
+      "B. transportation",
+      "C. storage",
+      "D. selling"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The marketing concept requires a firm to...",
+    "options": [
+      "A. focus on customer satisfaction",
+      "B. integrate all marketing activities",
+      "C. achieve long-term profitability",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "A technological factor in the marketing environment includes...",
+    "options": [
+      "A. new product innovations",
+      "B. new communication channels",
+      "C. automation",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "An augmented product includes...",
+    "options": [
+      "A. warranty",
+      "B. after-sales service",
+      "C. delivery",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Products",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 403,
+    "question": "A product development strategy involves...",
+    "options": [
+      "A. selling new products to existing markets",
+      "B. selling existing products to new markets",
+      "C. selling existing products to existing markets",
+      "D. selling new products to new markets"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 404,
+    "question": "A motive that influences consumer behaviour is a...",
+    "options": [
+      "A. cultural factor",
+      "B. psychological factor",
+      "C. social factor",
+      "D. personal factor"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "A marketing plan is important because it...",
+    "options": [
+      "A. provides direction",
+      "B. coordinates activities",
+      "C. reduces uncertainty",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "A pricing strategy that sets prices based on what customers are willing to pay is...",
+    "options": [
+      "A. demand-based pricing",
+      "B. cost-plus pricing",
+      "C. competition-based pricing",
+      "D. break-even pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "A medium of advertising that allows for demonstration of products is...",
+    "options": ["A. television", "B. radio", "C. newspaper", "D. billboard"],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "A sales promotion technique that offers a chance to win a prize is a...",
+    "options": ["A. sweepstakes", "B. coupon", "C. sample", "D. premium"],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "A function of a package is to...",
+    "options": [
+      "A. protect the product",
+      "B. promote the product",
+      "C. provide information",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 410,
+    "question": "A factor that influences the choice of a distribution channel is...",
+    "options": [
+      "A. product characteristics",
+      "B. market characteristics",
+      "C. company characteristics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "An advantage of road transport is...",
+    "options": [
+      "A. flexibility",
+      "B. door-to-door delivery",
+      "C. low cost for short distances",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "A function of warehousing is to...",
+    "options": [
+      "A. create time utility",
+      "B. create place utility",
+      "C. create form utility",
+      "D. create possession utility"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "A role of market facilitators is to...",
+    "options": [
+      "A. facilitate the flow of goods",
+      "B. provide market information",
+      "C. reduce transaction costs",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "An advantage of international marketing is...",
+    "options": [
+      "A. increased market share",
+      "B. economies of scale",
+      "C. risk diversification",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 415,
+    "question": "A use of ICT in marketing is...",
+    "options": [
+      "A. customer relationship management",
+      "B. supply chain management",
+      "C. online advertising",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "A factor to consider when locating a market outlet is...",
+    "options": [
+      "A. customer accessibility",
+      "B. competition",
+      "C. cost of premises",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "question": "The marketing function of standardization involves...",
+    "options": [
+      "A. setting quality standards",
+      "B. grading products",
+      "C. sorting products",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The marketing concept is a shift from...",
+    "options": [
+      "A. production orientation to customer orientation",
+      "B. customer orientation to production orientation",
+      "C. sales orientation to production orientation",
+      "D. product orientation to sales orientation"
+    ],
+    "answer": "A",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 419,
+    "question": "A religious factor in the marketing environment includes...",
+    "options": [
+      "A. beliefs",
+      "B. practices",
+      "C. holidays",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 420,
+    "question": "A potential product is...",
+    "options": [
+      "A. a product that may be offered in the future",
+      "B. an existing product",
+      "C. a discontinued product",
+      "D. a competitor's product"
+    ],
+    "answer": "A",
+    "topic": "Products",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 421,
+    "question": "Diversification strategy involves...",
+    "options": [
+      "A. selling new products in new markets",
+      "B. selling existing products in existing markets",
+      "C. selling existing products in new markets",
+      "D. selling new products in existing markets"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 422,
+    "question": "A reference group influence on consumer behaviour is a...",
+    "options": [
+      "A. cultural factor",
+      "B. social factor",
+      "C. personal factor",
+      "D. psychological factor"
+    ],
+    "answer": "B",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "A marketing plan should include...",
+    "options": [
+      "A. situation analysis",
+      "B. marketing objectives",
+      "C. marketing strategies",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "A pricing strategy that sets a high price to maximize short-term profits is...",
+    "options": [
+      "A. price skimming",
+      "B. penetration pricing",
+      "C. going-rate pricing",
+      "D. promotional pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "An advantage of magazine advertising is...",
+    "options": [
+      "A. high quality reproduction",
+      "B. long shelf life",
+      "C. targeted audience",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "A sales promotion technique that offers a free product sample is...",
+    "options": ["A. sampling", "B. coupon", "C. premium", "D. loyalty scheme"],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "A function of branding is to...",
+    "options": [
+      "A. identify the product",
+      "B. differentiate the product",
+      "C. build customer loyalty",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "A factor that influences the choice of a distribution channel is...",
+    "options": [
+      "A. product life cycle",
+      "B. market size",
+      "C. company resources",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 429,
+    "question": "A document used in transportation that serves as a contract is a...",
+    "options": [
+      "A. bill of lading",
+      "B. invoice",
+      "C. receipt",
+      "D. purchase order"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "A type of warehouse that is used to store goods for export is a...",
+    "options": [
+      "A. bonded warehouse",
+      "B. private warehouse",
+      "C. public warehouse",
+      "D. cooperative warehouse"
+    ],
+    "answer": "A",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "A market facilitator that provides advertising services is an...",
+    "options": [
+      "A. advertising agency",
+      "B. insurer",
+      "C. bank",
+      "D. transporter"
+    ],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 432,
+    "question": "A method of engaging in international marketing is...",
+    "options": [
+      "A. licensing",
+      "B. franchising",
+      "C. joint venture",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 433,
+    "question": "A type of e-marketing is...",
+    "options": [
+      "A. affiliate marketing",
+      "B. content marketing",
+      "C. social media marketing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "A factor affecting the management of a market outlet is...",
+    "options": [
+      "A. inventory control",
+      "B. staff management",
+      "C. customer relations",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "The marketing function of risk bearing is important because...",
+    "options": [
+      "A. it reduces uncertainty",
+      "B. it protects against losses",
+      "C. it facilitates trade",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "The marketing concept is most likely to result in...",
+    "options": [
+      "A. customer loyalty",
+      "B. repeat purchases",
+      "C. long-term profitability",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "A social factor in the marketing environment includes...",
+    "options": [
+      "A. family structure",
+      "B. education levels",
+      "C. population trends",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 438,
+    "question": "A product's actual product includes...",
+    "options": [
+      "A. design",
+      "B. quality",
+      "C. brand name",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "Market development strategy involves...",
+    "options": [
+      "A. selling existing products in new markets",
+      "B. selling new products in existing markets",
+      "C. selling new products in new markets",
+      "D. selling existing products in existing markets"
+    ],
+    "answer": "A",
+    "topic": "Markets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 440,
+    "question": "A lifestyle influence on consumer behaviour is a...",
+    "options": [
+      "A. cultural factor",
+      "B. social factor",
+      "C. personal factor",
+      "D. psychological factor"
+    ],
+    "answer": "C",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "A marketing plan should be...",
+    "options": [
+      "A. documented",
+      "B. communicated",
+      "C. flexible",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "A pricing strategy that sets prices below cost to drive competitors out is...",
+    "options": [
+      "A. predatory pricing",
+      "B. penetration pricing",
+      "C. cost-plus pricing",
+      "D. value-based pricing"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 443,
+    "question": "A disadvantage of television advertising is...",
+    "options": [
+      "A. high production cost",
+      "B. short exposure",
+      "C. low selectivity",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "A sales promotion technique that offers a free gift is a...",
+    "options": ["A. premium", "B. coupon", "C. sample", "D. loyalty scheme"],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 445,
+    "question": "A function of labeling is to...",
+    "options": [
+      "A. provide product information",
+      "B. identify the product",
+      "C. promote the product",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 446,
+    "question": "A factor that influences the choice of a distribution channel is...",
+    "options": [
+      "A. nature of the product",
+      "B. market size",
+      "C. company objectives",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 447,
+    "question": "A factor affecting the choice of transportation is...",
+    "options": ["A. cost", "B. speed", "C. reliability", "D. All of the above"],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "A function of warehousing is to...",
+    "options": [
+      "A. store goods",
+      "B. protect goods",
+      "C. stabilize prices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "A role of market unions is to...",
+    "options": [
+      "A. regulate prices",
+      "B. protect members",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "A factor influencing international marketing is...",
+    "options": [
+      "A. political stability",
+      "B. cultural differences",
+      "C. economic conditions",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "An importance of e-marketing is...",
+    "options": [
+      "A. wider reach",
+      "B. lower cost",
+      "C. convenience",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 452,
+    "question": "A factor affecting the location of a market outlet is...",
+    "options": [
+      "A. availability of customers",
+      "B. cost of rent",
+      "C. accessibility",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 453,
+    "question": "The marketing function of communication involves...",
+    "options": [
+      "A. advertising",
+      "B. personal selling",
+      "C. sales promotion",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 454,
+    "question": "The marketing concept is based on...",
+    "options": [
+      "A. understanding customer needs",
+      "B. satisfying customers",
+      "C. building long-term relationships",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "A macro-environmental factor that affects marketing is...",
+    "options": [
+      "A. natural forces",
+      "B. demographic forces",
+      "C. technological forces",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "A product can be...",
+    "options": [
+      "A. a good",
+      "B. a service",
+      "C. an idea",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "A market segment should be...",
+    "options": [
+      "A. measurable",
+      "B. accessible",
+      "C. substantial",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Markets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "A situational influence on consumer behaviour includes...",
+    "options": [
+      "A. time",
+      "B. mood",
+      "C. physical surroundings",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 459,
+    "question": "Marketing research is important for...",
+    "options": [
+      "A. understanding customers",
+      "B. identifying opportunities",
+      "C. reducing risks",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "A pricing strategy that considers costs, demand and competition is...",
+    "options": [
+      "A. balanced pricing",
+      "B. value-based pricing",
+      "C. cost-plus pricing",
+      "D. target pricing"
+    ],
+    "answer": "D",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 461,
+    "question": "An advantage of radio advertising is...",
+    "options": [
+      "A. wide reach",
+      "B. low cost",
+      "C. flexibility",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "A form of sales promotion aimed at consumers is...",
+    "options": [
+      "A. coupons",
+      "B. salesmen competition",
+      "C. trade allowance",
+      "D. dealer incentives"
+    ],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "A function of packaging is to...",
+    "options": [
+      "A. protect the product",
+      "B. promote the product",
+      "C. provide information",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "A direct channel of distribution is also known as a...",
+    "options": [
+      "A. zero-level channel",
+      "B. one-level channel",
+      "C. two-level channel",
+      "D. three-level channel"
+    ],
+    "answer": "A",
+    "topic": "Distribution",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "An importance of transportation is...",
+    "options": [
+      "A. it creates place utility",
+      "B. it widens the market",
+      "C. it stabilizes prices",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Transportation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "A public warehouse is...",
+    "options": [
+      "A. owned by the government",
+      "B. available for public use",
+      "C. used for government goods only",
+      "D. free of charge"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "A market facilitator is...",
+    "options": [
+      "A. an intermediary who assists in the marketing process",
+      "B. a producer",
+      "C. a consumer",
+      "D. a regulator"
+    ],
+    "answer": "A",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "A guiding rule in international marketing is...",
+    "options": [
+      "A. respect for local laws",
+      "B. cultural sensitivity",
+      "C. fair trade",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "An ethical issue in e-marketing is...",
+    "options": [
+      "A. spamming",
+      "B. privacy invasion",
+      "C. misleading advertising",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "A management skill required by an entrepreneur is...",
+    "options": [
+      "A. planning",
+      "B. organizing",
+      "C. controlling",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 471,
+    "question": "Marketing is important because it...",
+    "options": [
+      "A. creates employment",
+      "B. facilitates exchange",
+      "C. improves standards of living",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "The societal marketing concept considers...",
+    "options": [
+      "A. consumer wants",
+      "B. company profits",
+      "C. society's long-term interests",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "A macro-environmental factor is...",
+    "options": [
+      "A. demographic forces",
+      "B. economic forces",
+      "C. natural forces",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "A durable consumer good is...",
+    "options": ["A. milk", "B. bread", "C. a washing machine", "D. soap"],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "A target market is...",
+    "options": [
+      "A. all potential customers",
+      "B. a specific group of customers a firm aims to serve",
+      "C. the mass market",
+      "D. the international market"
+    ],
+    "answer": "B",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 476,
+    "question": "A psychological factor influencing consumer behaviour is...",
+    "options": [
+      "A. motivation",
+      "B. perception",
+      "C. attitudes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "A SWOT analysis is part of...",
+    "options": [
+      "A. marketing planning",
+      "B. advertising",
+      "C. pricing",
+      "D. distribution"
+    ],
+    "answer": "A",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Price elasticity of demand measures...",
+    "options": [
+      "A. how demand changes with price",
+      "B. how supply changes with price",
+      "C. production costs",
+      "D. competitor prices"
+    ],
+    "answer": "A",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 479,
+    "question": "A public relations activity is...",
+    "options": [
+      "A. advertising",
+      "B. sales promotion",
+      "C. press releases",
+      "D. personal selling"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "A form of sales promotion aimed at retailers is...",
+    "options": [
+      "A. coupons",
+      "B. trade allowance",
+      "C. samples",
+      "D. premiums"
+    ],
+    "answer": "B",
+    "topic": "Sales Promotion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 481,
+    "question": "A function of branding is to...",
+    "options": [
+      "A. differentiate a product",
+      "B. build customer loyalty",
+      "C. simplify purchasing",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Merchandising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "A distribution channel is also known as a...",
+    "options": [
+      "A. trade route",
+      "B. marketing channel",
+      "C. supply chain",
+      "D. logistics network"
+    ],
+    "answer": "B",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "An importance of transportation in marketing is...",
+    "options": [
+      "A. it creates place utility",
+      "B. it creates time utility",
+      "C. it creates form utility",
+      "D. it creates possession utility"
+    ],
+    "answer": "A",
+    "topic": "Transportation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "A type of warehouse that stores goods until they are needed is a...",
+    "options": [
+      "A. distribution warehouse",
+      "B. storage warehouse",
+      "C. bonded warehouse",
+      "D. public warehouse"
+    ],
+    "answer": "B",
+    "topic": "Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "A function of market unions is to...",
+    "options": [
+      "A. fix prices",
+      "B. regulate entry into the market",
+      "C. settle disputes",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Market Unions and Facilitators",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 486,
+    "question": "A factor that promotes international marketing is...",
+    "options": [
+      "A. trade liberalization",
+      "B. improved transportation",
+      "C. communication technology",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "International Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "An ethical issue in e-marketing is...",
+    "options": [
+      "A. invasion of privacy",
+      "B. misleading claims",
+      "C. spamming",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "ICT in Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "A function of an entrepreneur is to...",
+    "options": [
+      "A. take risks",
+      "B. organize resources",
+      "C. make decisions",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Entrepreneurship in Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "A marketing function that involves communication with customers is...",
+    "options": ["A. selling", "B. transportation", "C. storage", "D. grading"],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "The product concept is most likely to be used when...",
+    "options": [
+      "A. competition is low",
+      "B. customers value quality",
+      "C. production costs are high",
+      "D. demand is low"
+    ],
+    "answer": "B",
+    "topic": "Marketing Concepts",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 491,
+    "question": "The marketing mix element that includes distribution is...",
+    "options": ["A. product", "B. price", "C. place", "D. promotion"],
+    "answer": "C",
+    "topic": "Marketing Mix and Marketing Environment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "A specialty consumer good is...",
+    "options": [
+      "A. a convenience good",
+      "B. a shopping good",
+      "C. a product with unique characteristics",
+      "D. an unsought good"
+    ],
+    "answer": "C",
+    "topic": "Products",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "A market where a firm sells to government agencies is a...",
+    "options": [
+      "A. consumer market",
+      "B. reseller market",
+      "C. government market",
+      "D. industrial market"
+    ],
+    "answer": "C",
+    "topic": "Markets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "The stage of consumer decision process where the consumer actually buys is...",
+    "options": [
+      "A. need recognition",
+      "B. information search",
+      "C. evaluation of alternatives",
+      "D. purchase decision"
+    ],
+    "answer": "D",
+    "topic": "Consumer and Organizational Behaviour",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "A reason for marketing research is to...",
+    "options": [
+      "A. reduce risk",
+      "B. identify opportunities",
+      "C. understand customers",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Marketing Planning and Research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "A pricing method that considers both cost and demand is...",
+    "options": [
+      "A. cost-plus pricing",
+      "B. target pricing",
+      "C. flexible pricing",
+      "D. competitive pricing"
+    ],
+    "answer": "B",
+    "topic": "Pricing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 497,
+    "question": "A disadvantage of magazine advertising is...",
+    "options": [
+      "A. long lead time",
+      "B. high cost",
+      "C. limited reach",
+      "D. short shelf life"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "A sample in sales promotion is...",
+    "options": [
+      "A. a small free trial of a product",
+      "B. a coupon",
+      "C. a premium",
+      "D. a trade-in"
+    ],
+    "answer": "A",
+    "topic": "Sales Promotion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 499,
+    "question": "A label that provides nutritional information is an example of a...",
+    "options": [
+      "A. brand label",
+      "B. descriptive label",
+      "C. grade label",
+      "D. price label"
+    ],
+    "answer": "B",
+    "topic": "Merchandising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "A factor influencing the choice of distribution channel is...",
+    "options": [
+      "A. product characteristics",
+      "B. market characteristics",
+      "C. company characteristics",
+      "D. All of the above"
+    ],
+    "answer": "D",
+    "topic": "Distribution",
+    "difficulty": "Easy"
+  }
+]

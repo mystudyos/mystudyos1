@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "Choisissez la forme correcte : Hier, elle ______ au marché avec sa mère.",
+    "options": [
+      "A. va",
+      "B. est allée",
+      "C. allait",
+      "D. ira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Complétez : Nous ______ nos devoirs avant de sortir.",
+    "options": [
+      "A. avons fini",
+      "B. sommes finis",
+      "C. finissons",
+      "D. finirons"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le féminin de « heureux » ?",
+    "options": [
+      "A. heureuxe",
+      "B. heureuse",
+      "C. heureus",
+      "D. heureuses"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Choisissez l'article correct : Je voudrais ______ eau, s'il vous plaît.",
+    "options": [
+      "A. le",
+      "B. la",
+      "C. de l'",
+      "D. une"
+    ],
+    "answer": "C",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Complétez avec le pronom relatif : Le livre ______ je lis est intéressant.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "Transformez à la voix passive : Le chat mange la souris.",
+    "options": [
+      "A. La souris est mangée par le chat.",
+      "B. La souris mange le chat.",
+      "C. Le chat est mangé par la souris.",
+      "D. La souris a mangé le chat."
+    ],
+    "answer": "A",
+    "topic": "Voice",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "question": "Quelle expression signifie « avoir faim » ?",
+    "options": [
+      "A. avoir soif",
+      "B. avoir faim",
+      "C. avoir peur",
+      "D. avoir tort"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Choisissez la négation correcte : Je ______ comprends pas.",
+    "options": [
+      "A. ne",
+      "B. pas",
+      "C. rien",
+      "D. jamais"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Complétez : Il est parti ______ deux heures.",
+    "options": [
+      "A. depuis",
+      "B. pendant",
+      "C. pour",
+      "D. dans"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la figure de style dans « Il est fort comme un lion » ?",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Choisissez le bon adverbe : Elle parle ______.",
+    "options": [
+      "A. lent",
+      "B. lentement",
+      "C. lente",
+      "D. lenteur"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Complétez : ______ tu veux venir avec nous ?",
+    "options": [
+      "A. Est-ce que",
+      "B. Qui",
+      "C. Quel",
+      "D. Comment"
+    ],
+    "answer": "A",
+    "topic": "Sentence patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Rapportez la phrase : Il dit : « Je suis malade. »",
+    "options": [
+      "A. Il dit qu'il est malade.",
+      "B. Il dit qu'il était malade.",
+      "C. Il dit je suis malade.",
+      "D. Il a dit je suis malade."
+    ],
+    "answer": "A",
+    "topic": "Direct speech/reported speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "Quel est le contraire de « riche » ?",
+    "options": [
+      "A. beau",
+      "B. fort",
+      "C. pauvre",
+      "D. grand"
+    ],
+    "answer": "C",
+    "topic": "Context and meaning",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Complétez avec la conjonction : Je reste à la maison ______ il pleut.",
+    "options": [
+      "A. mais",
+      "B. parce que",
+      "C. donc",
+      "D. ou"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Choisissez la forme correcte : ______ enfants jouent dans le parc.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. Un"
+    ],
+    "answer": "C",
+    "topic": "Articles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "Complétez : Elle ______ une lettre quand je suis arrivé.",
+    "options": [
+      "A. écrit",
+      "B. écrivait",
+      "C. a écrit",
+      "D. écrira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 18,
+    "question": "Quel pronom remplace « à mon frère » ?",
+    "options": [
+      "A. le",
+      "B. lui",
+      "C. leur",
+      "D. elle"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Choisissez l'adjectif démonstratif correct : ______ homme est mon père.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Complétez : Nous ______ au cinéma ce soir.",
+    "options": [
+      "A. allons",
+      "B. allez",
+      "C. vont",
+      "D. aller"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Quelle est la préposition correcte : Il habite ______ Lagos.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Exprimez la surprise : ______ ! Je ne savais pas !",
+    "options": [
+      "A. Quel dommage",
+      "B. Mon Dieu",
+      "C. Tant pis",
+      "D. Bien sûr"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Choisissez la forme négative correcte : Elle ne mange ______ de viande.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 24,
+    "question": "Complétez : ______ est ton nom ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Comment"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Identifiez la figure de style : « J'ai attendu une éternité. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. oxymore"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Choisissez la forme correcte du verbe : Ils ______ au stade demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Complétez : C'est la fille ______ parle français.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Quel adverbe signifie « rapidement » ?",
+    "options": [
+      "A. lentement",
+      "B. vite",
+      "C. mal",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "Choisissez l'article partitif : Elle boit ______ lait chaque matin.",
+    "options": [
+      "A. le",
+      "B. du",
+      "C. de la",
+      "D. un"
+    ],
+    "answer": "B",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "Exprimez le regret : ______ je n'ai pas étudié !",
+    "options": [
+      "A. Heureusement",
+      "B. Si seulement",
+      "C. Bien sûr",
+      "D. Tant mieux"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 31,
+    "question": "Complétez : Il ______ de Paris la semaine dernière.",
+    "options": [
+      "A. vient",
+      "B. est venu",
+      "C. venait",
+      "D. viendra"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Choisissez le pronom possessif correct : Ce stylo est ______.",
+    "options": [
+      "A. mon",
+      "B. le mien",
+      "C. moi",
+      "D. ma"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Complétez : ______ belle maison !",
+    "options": [
+      "A. Quel",
+      "B. Quelle",
+      "C. Quels",
+      "D. Quelles"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Quelle conjonction exprime l'opposition ?",
+    "options": [
+      "A. et",
+      "B. mais",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Choisissez la forme correcte : ______ étudiants sont intelligents.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "D",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Complétez : Nous nous sommes ______ à huit heures.",
+    "options": [
+      "A. levé",
+      "B. levés",
+      "C. lever",
+      "D. levée"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "Quelle préposition complète : Elle est ______ Nigeria.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "Exprimez la déception : ______, j'ai échoué à l'examen.",
+    "options": [
+      "A. Tant mieux",
+      "B. Quel dommage",
+      "C. Bien sûr",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Choisissez la négation correcte : Personne ______ venu.",
+    "options": [
+      "A. n'est",
+      "B. ne sont",
+      "C. n'a",
+      "D. ne"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Identifiez la figure de style : « La lune sourit aux étoiles. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. personnification",
+      "D. hyperbole"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Complétez : Elle a ______ ses devoirs.",
+    "options": [
+      "A. fait",
+      "B. faire",
+      "C. fais",
+      "D. faite"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Choisissez l'adverbe correct : Il conduit ______.",
+    "options": [
+      "A. dangereux",
+      "B. dangereusement",
+      "C. danger",
+      "D. dangereuse"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Complétez : C'est l'homme ______ je parle.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 44,
+    "question": "Choisissez l'article correct : ______ France est un beau pays.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "B",
+    "topic": "Articles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "Transformez au discours indirect : Elle demande : « Où est la gare ? »",
+    "options": [
+      "A. Elle demande où est la gare.",
+      "B. Elle demande où était la gare.",
+      "C. Elle demande où la gare est.",
+      "D. Elle demande où est-ce la gare."
+    ],
+    "answer": "A",
+    "topic": "Direct speech/reported speech",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Complétez : Si j'avais de l'argent, je ______ un livre.",
+    "options": [
+      "A. achète",
+      "B. achèterais",
+      "C. achetais",
+      "D. achèterai"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 47,
+    "question": "Quel est le sens de « avoir le coup de foudre » ?",
+    "options": [
+      "A. être en colère",
+      "B. tomber amoureux",
+      "C. avoir peur",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Choisissez la forme correcte : ______ est la capitale du Ghana ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "Complétez : Je ______ à la plage quand il pleuvait.",
+    "options": [
+      "A. suis allé",
+      "B. allais",
+      "C. irai",
+      "D. vais"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Quelle est la préposition correcte : Il vient ______ Accra.",
+    "options": [
+      "A. à",
+      "B. de",
+      "C. en",
+      "D. au"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Choisissez le pronom correct : ______ tu préfères, le thé ou le café ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "Exprimez le plaisir : ______ de te revoir !",
+    "options": [
+      "A. Quel dommage",
+      "B. Quel plaisir",
+      "C. Tant pis",
+      "D. Mon Dieu"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Complétez : Elle ne boit ______ de café.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "D",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "Quelle figure de style : « Il est mort de fatigue. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. litote"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Complétez : Les enfants ______ dans le jardin.",
+    "options": [
+      "A. joue",
+      "B. jouent",
+      "C. jouons",
+      "D. jouer"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "Choisissez l'adjectif correct : Elle porte une robe ______.",
+    "options": [
+      "A. bleu",
+      "B. bleue",
+      "C. bleus",
+      "D. bleues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Complétez : ______ vas-tu ce week-end ?",
+    "options": [
+      "A. Où",
+      "B. Quand",
+      "C. Comment",
+      "D. Pourquoi"
+    ],
+    "answer": "A",
+    "topic": "Sentence patterns",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "Quelle conjonction exprime la conséquence ?",
+    "options": [
+      "A. mais",
+      "B. donc",
+      "C. ou",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Complétez : Il ______ que tu viennes.",
+    "options": [
+      "A. faut",
+      "B. fait",
+      "C. est",
+      "D. a"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Choisissez le pronom correct : Donne-______ le livre.",
+    "options": [
+      "A. moi",
+      "B. me",
+      "C. je",
+      "D. mien"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Complétez : ______ appartement est grand.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "Quel adverbe signifie « bien » ?",
+    "options": [
+      "A. mal",
+      "B. bien",
+      "C. vite",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "Complétez : Elle est ______ que sa sœur.",
+    "options": [
+      "A. plus grande",
+      "B. plus grand",
+      "C. plus grandes",
+      "D. plus grands"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 64,
+    "question": "Choisissez la préposition correcte : Le livre est ______ la table.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "Quel est le sens de « avoir le cafard » ?",
+    "options": [
+      "A. être content",
+      "B. être triste",
+      "C. avoir faim",
+      "D. avoir peur"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Complétez : Nous ______ le dîner quand il est arrivé.",
+    "options": [
+      "A. préparons",
+      "B. préparions",
+      "C. avons préparé",
+      "D. préparerons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 67,
+    "question": "Choisissez la forme correcte : ______ est ta couleur préférée ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Complétez : Je ne veux ______ de sucre.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Transformez au pluriel : Le cheval est rapide.",
+    "options": [
+      "A. Les chevals sont rapides.",
+      "B. Les chevaux sont rapides.",
+      "C. Les chevaux est rapide.",
+      "D. Le chevaux sont rapides."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Quelle figure de style : « Je meurs de faim. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Complétez : Elle ______ au téléphone quand je suis entré.",
+    "options": [
+      "A. parle",
+      "B. parlait",
+      "C. a parlé",
+      "D. parlera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "Choisissez le pronom possessif correct : Cette voiture est ______.",
+    "options": [
+      "A. notre",
+      "B. la nôtre",
+      "C. nous",
+      "D. nos"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 73,
+    "question": "Complétez : ______ est la date de ton anniversaire ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Quelle est la préposition correcte : Il va ______ école.",
+    "options": [
+      "A. au",
+      "B. à l'",
+      "C. en",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Complétez : Si tu étudies, tu ______.",
+    "options": [
+      "A. réussis",
+      "B. réussirais",
+      "C. réussissais",
+      "D. réussiras"
+    ],
+    "answer": "D",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 76,
+    "question": "Choisissez l'article correct : ______ amour est beau.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Quel est le sens de « avoir du pain sur la planche » ?",
+    "options": [
+      "A. avoir faim",
+      "B. avoir beaucoup de travail",
+      "C. être riche",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Complétez : Elle a ______ la porte.",
+    "options": [
+      "A. ouvri",
+      "B. ouvert",
+      "C. ouvre",
+      "D. ouvrir"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. doux",
+      "B. doucement",
+      "C. douce",
+      "D. douceur"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Complétez : C'est le jour ______ je suis né.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "Exprimez le dégoût : ______ ! C'est horrible !",
+    "options": [
+      "A. Beurk",
+      "B. Bravo",
+      "C. Hourra",
+      "D. Bien sûr"
+    ],
+    "answer": "A",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "Complétez : Elle ne mange ______ de légumes.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "Quelle figure de style : « Il est sage comme une image. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "Complétez : Les livres ______ sur la table.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "Choisissez l'adjectif correct : Elle a les yeux ______.",
+    "options": [
+      "A. bleu",
+      "B. bleus",
+      "C. bleue",
+      "D. bleues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "Complétez : ______ veux-tu manger ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Quelle conjonction exprime la cause ?",
+    "options": [
+      "A. donc",
+      "B. car",
+      "C. ou",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Choisissez le pronom correct : ______ est-ce qui a fait cela ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "Complétez : ______ maison est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "Quel adverbe signifie « mal » ?",
+    "options": [
+      "A. bien",
+      "B. mal",
+      "C. vite",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Complétez : Il est ______ que son frère.",
+    "options": [
+      "A. plus grand",
+      "B. plus grande",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "Choisissez la préposition correcte : Il est ______ la maison.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "Quel est le sens de « avoir le bras long » ?",
+    "options": [
+      "A. être fort",
+      "B. avoir de l'influence",
+      "C. être grand",
+      "D. avoir mal"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Choisissez la forme correcte : ______ est ton plat préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Complétez : Je ne bois ______ de thé.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "Transformez au féminin : Le directeur est gentil.",
+    "options": [
+      "A. La directrice est gentille.",
+      "B. La directeur est gentille.",
+      "C. La directrice est gentil.",
+      "D. Le directrice est gentille."
+    ],
+    "answer": "A",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "Quelle figure de style : « Il est un lion au combat. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "Complétez : ______ est la raison de ton retard ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "Quelle est la préposition correcte : Il est ______ Ghana.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Complétez : Si elle venait, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 105,
+    "question": "Choisissez l'article correct : ______ histoire est intéressante.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "Quel est le sens de « avoir le coeur sur la main » ?",
+    "options": [
+      "A. être méchant",
+      "B. être généreux",
+      "C. être timide",
+      "D. être fort"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Complétez : Elle a ______ la vérité.",
+    "options": [
+      "A. dit",
+      "B. dire",
+      "C. dis",
+      "D. dise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "Choisissez l'adverbe correct : Il travaille ______.",
+    "options": [
+      "A. sérieux",
+      "B. sérieusement",
+      "C. sérieuse",
+      "D. sérieux"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "Complétez : C'est la raison ______ je suis parti.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 110,
+    "question": "Exprimez l'approbation : ______, c'est une bonne idée !",
+    "options": [
+      "A. Non",
+      "B. Absolument",
+      "C. Jamais",
+      "D. Hélas"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "Complétez : Elle ne dit ______ de mal.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "C",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "Quelle figure de style : « Il est lent comme une tortue. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "Complétez : Les filles ______ intelligentes.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "Choisissez l'adjectif correct : Elle a les cheveux ______.",
+    "options": [
+      "A. long",
+      "B. longs",
+      "C. longue",
+      "D. longues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "Complétez : ______ partez-vous en vacances ?",
+    "options": [
+      "A. Où",
+      "B. Quand",
+      "C. Comment",
+      "D. Pourquoi"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Quelle conjonction exprime le but ?",
+    "options": [
+      "A. parce que",
+      "B. pour que",
+      "C. donc",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 117,
+    "question": "Complétez : Nous ______ le dîner quand il est arrivé.",
+    "options": [
+      "A. préparons",
+      "B. préparions",
+      "C. avons préparé",
+      "D. préparerons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "Choisissez le pronom correct : ______ a cassé la vitre ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "Complétez : ______ voiture est rapide.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "question": "Quel adverbe signifie « beaucoup » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "Complétez : Elle est ______ que sa sœur.",
+    "options": [
+      "A. plus intelligente",
+      "B. plus intelligent",
+      "C. plus intelligents",
+      "D. plus intelligentes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Choisissez la préposition correcte : Le chat est ______ la chaise.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "Quel est le sens de « avoir le coup de main » ?",
+    "options": [
+      "A. être maladroit",
+      "B. être habile",
+      "C. avoir mal",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "Complétez : Ils ______ quand je suis entré.",
+    "options": [
+      "A. parlent",
+      "B. parlaient",
+      "C. ont parlé",
+      "D. parleront"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "Choisissez la forme correcte : ______ est ton école ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Complétez : Je ne mange ______ de viande.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "Transformez au pluriel : L'animal est sauvage.",
+    "options": [
+      "A. Les animals sont sauvages.",
+      "B. Les animaux sont sauvages.",
+      "C. Les animaux est sauvage.",
+      "D. L'animaux sont sauvages."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Quelle figure de style : « Je suis mort de rire. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. litote"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "Complétez : Elle ______ au cinéma hier.",
+    "options": [
+      "A. va",
+      "B. est allée",
+      "C. allait",
+      "D. ira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "Choisissez le pronom possessif correct : Ce livre est ______.",
+    "options": [
+      "A. ton",
+      "B. le tien",
+      "C. toi",
+      "D. ta"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Complétez : ______ est la meilleure solution ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "Quelle est la préposition correcte : Il est ______ France.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "Complétez : Si j'étais riche, je ______ le monde.",
+    "options": [
+      "A. voyage",
+      "B. voyagerais",
+      "C. voyageais",
+      "D. voyagerai"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "Choisissez l'article correct : ______ école est grande.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Quel est le sens de « avoir le vent en poupe » ?",
+    "options": [
+      "A. avoir des difficultés",
+      "B. réussir",
+      "C. être malade",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Complétez : Elle a ______ le livre.",
+    "options": [
+      "A. lu",
+      "B. lire",
+      "C. lis",
+      "D. lise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "Choisissez l'adverbe correct : Il répond ______.",
+    "options": [
+      "A. poli",
+      "B. poliment",
+      "C. polie",
+      "D. politesse"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Complétez : C'est l'endroit ______ nous nous sommes rencontrés.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "Exprimez la déception : ______, ce n'est pas ce que je voulais.",
+    "options": [
+      "A. Tant mieux",
+      "B. Hélas",
+      "C. Bien sûr",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Complétez : Elle ne parle ______ anglais.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "Quelle figure de style : « Il est rusé comme un renard. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "Complétez : Les étudiants ______ dans la bibliothèque.",
+    "options": [
+      "A. étudie",
+      "B. étudient",
+      "C. étudions",
+      "D. étudier"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "Choisissez l'adjectif correct : Elle a une robe ______.",
+    "options": [
+      "A. rouge",
+      "B. rouges",
+      "C. rouges",
+      "D. rouge"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "Complétez : ______ mangez-vous au petit déjeuner ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Quelle conjonction exprime l'alternative ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "Complétez : Nous ______ à Paris l'année dernière.",
+    "options": [
+      "A. allons",
+      "B. sommes allés",
+      "C. allions",
+      "D. irons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Choisissez le pronom correct : ______ as-tu vu hier ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Complétez : ______ enfants sont dans la cour.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "D",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "Quel adverbe signifie « peu » ?",
+    "options": [
+      "A. beaucoup",
+      "B. très",
+      "C. peu",
+      "D. trop"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "Complétez : Elle est ______ que lui.",
+    "options": [
+      "A. plus âgée",
+      "B. plus âgé",
+      "C. plus âgés",
+      "D. plus âgées"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Choisissez la préposition correcte : Le stylo est ______ la table.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Quel est le sens de « avoir le sommeil léger » ?",
+    "options": [
+      "A. dormir profondément",
+      "B. se réveiller facilement",
+      "C. être fatigué",
+      "D. avoir peur"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "Complétez : Elle ______ quand je suis parti.",
+    "options": [
+      "A. dort",
+      "B. dormait",
+      "C. a dormi",
+      "D. dormira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 154,
+    "question": "Choisissez la forme correcte : ______ est ton adresse ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "Complétez : Je ne veux ______ de gâteau.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Transformez au pluriel : Le journal est intéressant.",
+    "options": [
+      "A. Les journals sont intéressants.",
+      "B. Les journaux sont intéressants.",
+      "C. Les journaux est intéressant.",
+      "D. Le journaux sont intéressants."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Quelle figure de style : « Il est fort comme un boeuf. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "question": "Complétez : Elle ______ au marché demain.",
+    "options": [
+      "A. va",
+      "B. ira",
+      "C. allait",
+      "D. est allée"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Choisissez le pronom possessif correct : Ces livres sont ______.",
+    "options": [
+      "A. votre",
+      "B. le vôtre",
+      "C. les vôtres",
+      "D. vous"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "Complétez : ______ est ton livre préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "Quelle est la préposition correcte : Il est ______ Sénégal.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Complétez : Si tu venais, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "Choisissez l'article correct : ______ homme est grand.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Quel est le sens de « avoir le mot juste » ?",
+    "options": [
+      "A. parler beaucoup",
+      "B. trouver les bons mots",
+      "C. être timide",
+      "D. être méchant"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "Complétez : Elle a ______ le gâteau.",
+    "options": [
+      "A. mangé",
+      "B. manger",
+      "C. mange",
+      "D. mangée"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. calme",
+      "B. calmement",
+      "C. calme",
+      "D. calmes"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "Complétez : C'est l'ami ______ je t'ai parlé.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Exprimez la surprise : ______ ! C'est incroyable !",
+    "options": [
+      "A. Bien sûr",
+      "B. Ça alors",
+      "C. Tant pis",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "Complétez : Elle ne mange ______ de fruits.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "D",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "Quelle figure de style : « Il est bavard comme une pie. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "Complétez : Les enfants ______ dans le jardin.",
+    "options": [
+      "A. joue",
+      "B. jouent",
+      "C. jouons",
+      "D. jouer"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "Choisissez l'adjectif correct : Elle a une voiture ______.",
+    "options": [
+      "A. noire",
+      "B. noir",
+      "C. noirs",
+      "D. noires"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Complétez : ______ est ton sport préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Quelle conjonction exprime l'addition ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "A",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "Choisissez le pronom correct : ______ est-ce que tu attends ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "Complétez : ______ voiture est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "Quel adverbe signifie « trop » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "Complétez : Elle est ______ que sa mère.",
+    "options": [
+      "A. plus grande",
+      "B. plus grand",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "Choisissez la préposition correcte : Le chat est ______ le lit.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "Quel est le sens de « avoir le temps long » ?",
+    "options": [
+      "A. être pressé",
+      "B. s'ennuyer",
+      "C. être fatigué",
+      "D. avoir faim"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Choisissez la forme correcte : ______ est ton professeur ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "A",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Complétez : Je ne bois ______ de lait.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "Transformez au pluriel : Le château est vieux.",
+    "options": [
+      "A. Les châteaus sont vieux.",
+      "B. Les châteaux sont vieux.",
+      "C. Les châteaux est vieux.",
+      "D. Le châteaux sont vieux."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Quelle figure de style : « Il est riche comme Crésus. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 189,
+    "question": "Complétez : ______ est la date de ton anniversaire ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "Quelle est la préposition correcte : Il va ______ école.",
+    "options": [
+      "A. au",
+      "B. à l'",
+      "C. en",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "question": "Complétez : Si tu étudies, tu ______.",
+    "options": [
+      "A. réussis",
+      "B. réussirais",
+      "C. réussissais",
+      "D. réussiras"
+    ],
+    "answer": "D",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "Choisissez l'article correct : ______ amour est beau.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "Quel est le sens de « avoir du pain sur la planche » ?",
+    "options": [
+      "A. avoir faim",
+      "B. avoir beaucoup de travail",
+      "C. être riche",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Complétez : Elle a ______ la porte.",
+    "options": [
+      "A. ouvri",
+      "B. ouvert",
+      "C. ouvre",
+      "D. ouvrir"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. doux",
+      "B. doucement",
+      "C. douce",
+      "D. douceur"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "Complétez : C'est le jour ______ je suis né.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "Exprimez le dégoût : ______ ! C'est horrible !",
+    "options": [
+      "A. Beurk",
+      "B. Bravo",
+      "C. Hourra",
+      "D. Bien sûr"
+    ],
+    "answer": "A",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "Complétez : Elle ne mange ______ de légumes.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Quelle figure de style : « Il est sage comme une image. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "Complétez : Les livres ______ sur la table.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "Choisissez l'adjectif correct : Elle a les yeux ______.",
+    "options": [
+      "A. bleu",
+      "B. bleus",
+      "C. bleue",
+      "D. bleues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Complétez : ______ veux-tu manger ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "Quelle conjonction exprime la cause ?",
+    "options": [
+      "A. donc",
+      "B. car",
+      "C. ou",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "Choisissez le pronom correct : ______ est-ce qui a fait cela ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 206,
+    "question": "Complétez : ______ maison est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "question": "Quel adverbe signifie « mal » ?",
+    "options": [
+      "A. bien",
+      "B. mal",
+      "C. vite",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "Complétez : Il est ______ que son frère.",
+    "options": [
+      "A. plus grand",
+      "B. plus grande",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "Choisissez la préposition correcte : Il est ______ la maison.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "question": "Quel est le sens de « avoir le bras long » ?",
+    "options": [
+      "A. être fort",
+      "B. avoir de l'influence",
+      "C. être grand",
+      "D. avoir mal"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 212,
+    "question": "Choisissez la forme correcte : ______ est ton plat préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "Complétez : Je ne bois ______ de thé.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "Transformez au féminin : Le directeur est gentil.",
+    "options": [
+      "A. La directrice est gentille.",
+      "B. La directeur est gentille.",
+      "C. La directrice est gentil.",
+      "D. Le directrice est gentille."
+    ],
+    "answer": "A",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Quelle figure de style : « Il est un lion au combat. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "Complétez : ______ est la raison de ton retard ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Quelle est la préposition correcte : Il est ______ Ghana.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "Complétez : Si elle venait, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "Choisissez l'article correct : ______ histoire est intéressante.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "Quel est le sens de « avoir le coeur sur la main » ?",
+    "options": [
+      "A. être méchant",
+      "B. être généreux",
+      "C. être timide",
+      "D. être fort"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Complétez : Elle a ______ la vérité.",
+    "options": [
+      "A. dit",
+      "B. dire",
+      "C. dis",
+      "D. dise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "Choisissez l'adverbe correct : Il travaille ______.",
+    "options": [
+      "A. sérieux",
+      "B. sérieusement",
+      "C. sérieuse",
+      "D. sérieux"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "Complétez : C'est la raison ______ je suis parti.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Exprimez l'approbation : ______, c'est une bonne idée !",
+    "options": [
+      "A. Non",
+      "B. Absolument",
+      "C. Jamais",
+      "D. Hélas"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "Complétez : Elle ne dit ______ de mal.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "C",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "Quelle figure de style : « Il est lent comme une tortue. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "Complétez : Les filles ______ intelligentes.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "Choisissez l'adjectif correct : Elle a les cheveux ______.",
+    "options": [
+      "A. long",
+      "B. longs",
+      "C. longue",
+      "D. longues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "Complétez : ______ partez-vous en vacances ?",
+    "options": [
+      "A. Où",
+      "B. Quand",
+      "C. Comment",
+      "D. Pourquoi"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "Quelle conjonction exprime le but ?",
+    "options": [
+      "A. parce que",
+      "B. pour que",
+      "C. donc",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "Complétez : Nous ______ le dîner quand il est arrivé.",
+    "options": [
+      "A. préparons",
+      "B. préparions",
+      "C. avons préparé",
+      "D. préparerons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "Choisissez le pronom correct : ______ a cassé la vitre ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "Complétez : ______ voiture est rapide.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "Quel adverbe signifie « beaucoup » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "Complétez : Elle est ______ que sa sœur.",
+    "options": [
+      "A. plus intelligente",
+      "B. plus intelligent",
+      "C. plus intelligents",
+      "D. plus intelligentes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 238,
+    "question": "Choisissez la préposition correcte : Le chat est ______ la chaise.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "Quel est le sens de « avoir le coup de main » ?",
+    "options": [
+      "A. être maladroit",
+      "B. être habile",
+      "C. avoir mal",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Complétez : Ils ______ quand je suis entré.",
+    "options": [
+      "A. parlent",
+      "B. parlaient",
+      "C. ont parlé",
+      "D. parleront"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "Choisissez la forme correcte : ______ est ton école ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Complétez : Je ne mange ______ de viande.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "Transformez au pluriel : L'animal est sauvage.",
+    "options": [
+      "A. Les animals sont sauvages.",
+      "B. Les animaux sont sauvages.",
+      "C. Les animaux est sauvage.",
+      "D. L'animaux sont sauvages."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Quelle figure de style : « Je suis mort de rire. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. litote"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Complétez : Elle ______ au cinéma hier.",
+    "options": [
+      "A. va",
+      "B. est allée",
+      "C. allait",
+      "D. ira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 246,
+    "question": "Choisissez le pronom possessif correct : Ce livre est ______.",
+    "options": [
+      "A. ton",
+      "B. le tien",
+      "C. toi",
+      "D. ta"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "Complétez : ______ est la meilleure solution ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "Quelle est la préposition correcte : Il est ______ France.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "Complétez : Si j'étais riche, je ______ le monde.",
+    "options": [
+      "A. voyage",
+      "B. voyagerais",
+      "C. voyageais",
+      "D. voyagerai"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Choisissez l'article correct : ______ école est grande.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Quel est le sens de « avoir le vent en poupe » ?",
+    "options": [
+      "A. avoir des difficultés",
+      "B. réussir",
+      "C. être malade",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 252,
+    "question": "Complétez : Elle a ______ le livre.",
+    "options": [
+      "A. lu",
+      "B. lire",
+      "C. lis",
+      "D. lise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Choisissez l'adverbe correct : Il répond ______.",
+    "options": [
+      "A. poli",
+      "B. poliment",
+      "C. polie",
+      "D. politesse"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Complétez : C'est l'endroit ______ nous nous sommes rencontrés.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 255,
+    "question": "Exprimez la déception : ______, ce n'est pas ce que je voulais.",
+    "options": [
+      "A. Tant mieux",
+      "B. Hélas",
+      "C. Bien sûr",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Complétez : Elle ne parle ______ anglais.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "Quelle figure de style : « Il est rusé comme un renard. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "Complétez : Les étudiants ______ dans la bibliothèque.",
+    "options": [
+      "A. étudie",
+      "B. étudient",
+      "C. étudions",
+      "D. étudier"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "question": "Choisissez l'adjectif correct : Elle a une robe ______.",
+    "options": [
+      "A. rouge",
+      "B. rouges",
+      "C. rouges",
+      "D. rouge"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "Complétez : ______ mangez-vous au petit déjeuner ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "Quelle conjonction exprime l'alternative ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "Complétez : Nous ______ à Paris l'année dernière.",
+    "options": [
+      "A. allons",
+      "B. sommes allés",
+      "C. allions",
+      "D. irons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Choisissez le pronom correct : ______ as-tu vu hier ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "Complétez : ______ enfants sont dans la cour.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "D",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "Quel adverbe signifie « peu » ?",
+    "options": [
+      "A. beaucoup",
+      "B. très",
+      "C. peu",
+      "D. trop"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "Complétez : Elle est ______ que lui.",
+    "options": [
+      "A. plus âgée",
+      "B. plus âgé",
+      "C. plus âgés",
+      "D. plus âgées"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "Choisissez la préposition correcte : Le stylo est ______ la table.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "Quel est le sens de « avoir le sommeil léger » ?",
+    "options": [
+      "A. dormir profondément",
+      "B. se réveiller facilement",
+      "C. être fatigué",
+      "D. avoir peur"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "Complétez : Elle ______ quand je suis parti.",
+    "options": [
+      "A. dort",
+      "B. dormait",
+      "C. a dormi",
+      "D. dormira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 270,
+    "question": "Choisissez la forme correcte : ______ est ton adresse ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "Complétez : Je ne veux ______ de gâteau.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Transformez au pluriel : Le journal est intéressant.",
+    "options": [
+      "A. Les journals sont intéressants.",
+      "B. Les journaux sont intéressants.",
+      "C. Les journaux est intéressant.",
+      "D. Le journaux sont intéressants."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "Quelle figure de style : « Il est fort comme un boeuf. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "Complétez : Elle ______ au marché demain.",
+    "options": [
+      "A. va",
+      "B. ira",
+      "C. allait",
+      "D. est allée"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "Choisissez le pronom possessif correct : Ces livres sont ______.",
+    "options": [
+      "A. votre",
+      "B. le vôtre",
+      "C. les vôtres",
+      "D. vous"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "Complétez : ______ est ton livre préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Quelle est la préposition correcte : Il est ______ Sénégal.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "Complétez : Si tu venais, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 279,
+    "question": "Choisissez l'article correct : ______ homme est grand.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "Quel est le sens de « avoir le mot juste » ?",
+    "options": [
+      "A. parler beaucoup",
+      "B. trouver les bons mots",
+      "C. être timide",
+      "D. être méchant"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Complétez : Elle a ______ le gâteau.",
+    "options": [
+      "A. mangé",
+      "B. manger",
+      "C. mange",
+      "D. mangée"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. calme",
+      "B. calmement",
+      "C. calme",
+      "D. calmes"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "Complétez : C'est l'ami ______ je t'ai parlé.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "Exprimez la surprise : ______ ! C'est incroyable !",
+    "options": [
+      "A. Bien sûr",
+      "B. Ça alors",
+      "C. Tant pis",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Complétez : Elle ne mange ______ de fruits.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "D",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 286,
+    "question": "Quelle figure de style : « Il est bavard comme une pie. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "Complétez : Les enfants ______ dans le jardin.",
+    "options": [
+      "A. joue",
+      "B. jouent",
+      "C. jouons",
+      "D. jouer"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 288,
+    "question": "Choisissez l'adjectif correct : Elle a une voiture ______.",
+    "options": [
+      "A. noire",
+      "B. noir",
+      "C. noirs",
+      "D. noires"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "Complétez : ______ est ton sport préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "Quelle conjonction exprime l'addition ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "A",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Choisissez le pronom correct : ______ est-ce que tu attends ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "Complétez : ______ voiture est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "question": "Quel adverbe signifie « trop » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "Complétez : Elle est ______ que sa mère.",
+    "options": [
+      "A. plus grande",
+      "B. plus grand",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Choisissez la préposition correcte : Le chat est ______ le lit.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "Quel est le sens de « avoir le temps long » ?",
+    "options": [
+      "A. être pressé",
+      "B. s'ennuyer",
+      "C. être fatigué",
+      "D. avoir faim"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 298,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Choisissez la forme correcte : ______ est ton professeur ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "A",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "Complétez : Je ne bois ______ de lait.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 301,
+    "question": "Transformez au pluriel : Le château est vieux.",
+    "options": [
+      "A. Les châteaus sont vieux.",
+      "B. Les châteaux sont vieux.",
+      "C. Les châteaux est vieux.",
+      "D. Le châteaux sont vieux."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "Quelle figure de style : « Il est riche comme Crésus. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "Complétez : ______ est la date de ton anniversaire ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "Quelle est la préposition correcte : Il va ______ école.",
+    "options": [
+      "A. au",
+      "B. à l'",
+      "C. en",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "Complétez : Si tu étudies, tu ______.",
+    "options": [
+      "A. réussis",
+      "B. réussirais",
+      "C. réussissais",
+      "D. réussiras"
+    ],
+    "answer": "D",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 308,
+    "question": "Choisissez l'article correct : ______ amour est beau.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "Quel est le sens de « avoir du pain sur la planche » ?",
+    "options": [
+      "A. avoir faim",
+      "B. avoir beaucoup de travail",
+      "C. être riche",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Complétez : Elle a ______ la porte.",
+    "options": [
+      "A. ouvri",
+      "B. ouvert",
+      "C. ouvre",
+      "D. ouvrir"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. doux",
+      "B. doucement",
+      "C. douce",
+      "D. douceur"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "Complétez : C'est le jour ______ je suis né.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 313,
+    "question": "Exprimez le dégoût : ______ ! C'est horrible !",
+    "options": [
+      "A. Beurk",
+      "B. Bravo",
+      "C. Hourra",
+      "D. Bien sûr"
+    ],
+    "answer": "A",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "Complétez : Elle ne mange ______ de légumes.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Quelle figure de style : « Il est sage comme une image. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Complétez : Les livres ______ sur la table.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "Choisissez l'adjectif correct : Elle a les yeux ______.",
+    "options": [
+      "A. bleu",
+      "B. bleus",
+      "C. bleue",
+      "D. bleues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Complétez : ______ veux-tu manger ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "Quelle conjonction exprime la cause ?",
+    "options": [
+      "A. donc",
+      "B. car",
+      "C. ou",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "Choisissez le pronom correct : ______ est-ce qui a fait cela ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 322,
+    "question": "Complétez : ______ maison est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "Quel adverbe signifie « mal » ?",
+    "options": [
+      "A. bien",
+      "B. mal",
+      "C. vite",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "Complétez : Il est ______ que son frère.",
+    "options": [
+      "A. plus grand",
+      "B. plus grande",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "Choisissez la préposition correcte : Il est ______ la maison.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "Quel est le sens de « avoir le bras long » ?",
+    "options": [
+      "A. être fort",
+      "B. avoir de l'influence",
+      "C. être grand",
+      "D. avoir mal"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 327,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 328,
+    "question": "Choisissez la forme correcte : ______ est ton plat préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "Complétez : Je ne bois ______ de thé.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "Transformez au féminin : Le directeur est gentil.",
+    "options": [
+      "A. La directrice est gentille.",
+      "B. La directeur est gentille.",
+      "C. La directrice est gentil.",
+      "D. Le directrice est gentille."
+    ],
+    "answer": "A",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Quelle figure de style : « Il est un lion au combat. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 334,
+    "question": "Complétez : ______ est la raison de ton retard ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "Quelle est la préposition correcte : Il est ______ Ghana.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Complétez : Si elle venait, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 337,
+    "question": "Choisissez l'article correct : ______ histoire est intéressante.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "Quel est le sens de « avoir le coeur sur la main » ?",
+    "options": [
+      "A. être méchant",
+      "B. être généreux",
+      "C. être timide",
+      "D. être fort"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "Complétez : Elle a ______ la vérité.",
+    "options": [
+      "A. dit",
+      "B. dire",
+      "C. dis",
+      "D. dise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "Choisissez l'adverbe correct : Il travaille ______.",
+    "options": [
+      "A. sérieux",
+      "B. sérieusement",
+      "C. sérieuse",
+      "D. sérieux"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "Complétez : C'est la raison ______ je suis parti.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "Exprimez l'approbation : ______, c'est une bonne idée !",
+    "options": [
+      "A. Non",
+      "B. Absolument",
+      "C. Jamais",
+      "D. Hélas"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "Complétez : Elle ne dit ______ de mal.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "C",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "Quelle figure de style : « Il est lent comme une tortue. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "Complétez : Les filles ______ intelligentes.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 346,
+    "question": "Choisissez l'adjectif correct : Elle a les cheveux ______.",
+    "options": [
+      "A. long",
+      "B. longs",
+      "C. longue",
+      "D. longues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "Complétez : ______ partez-vous en vacances ?",
+    "options": [
+      "A. Où",
+      "B. Quand",
+      "C. Comment",
+      "D. Pourquoi"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "Quelle conjonction exprime le but ?",
+    "options": [
+      "A. parce que",
+      "B. pour que",
+      "C. donc",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "question": "Complétez : Nous ______ le dîner quand il est arrivé.",
+    "options": [
+      "A. préparons",
+      "B. préparions",
+      "C. avons préparé",
+      "D. préparerons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 350,
+    "question": "Choisissez le pronom correct : ______ a cassé la vitre ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "Complétez : ______ voiture est rapide.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "Quel adverbe signifie « beaucoup » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 353,
+    "question": "Complétez : Elle est ______ que sa sœur.",
+    "options": [
+      "A. plus intelligente",
+      "B. plus intelligent",
+      "C. plus intelligents",
+      "D. plus intelligentes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 354,
+    "question": "Choisissez la préposition correcte : Le chat est ______ la chaise.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 355,
+    "question": "Quel est le sens de « avoir le coup de main » ?",
+    "options": [
+      "A. être maladroit",
+      "B. être habile",
+      "C. avoir mal",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "Complétez : Ils ______ quand je suis entré.",
+    "options": [
+      "A. parlent",
+      "B. parlaient",
+      "C. ont parlé",
+      "D. parleront"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 357,
+    "question": "Choisissez la forme correcte : ______ est ton école ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "Complétez : Je ne mange ______ de viande.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "Transformez au pluriel : L'animal est sauvage.",
+    "options": [
+      "A. Les animals sont sauvages.",
+      "B. Les animaux sont sauvages.",
+      "C. Les animaux est sauvage.",
+      "D. L'animaux sont sauvages."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "Quelle figure de style : « Je suis mort de rire. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. litote"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "Complétez : Elle ______ au cinéma hier.",
+    "options": [
+      "A. va",
+      "B. est allée",
+      "C. allait",
+      "D. ira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "Choisissez le pronom possessif correct : Ce livre est ______.",
+    "options": [
+      "A. ton",
+      "B. le tien",
+      "C. toi",
+      "D. ta"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 363,
+    "question": "Complétez : ______ est la meilleure solution ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "Quelle est la préposition correcte : Il est ______ France.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "Complétez : Si j'étais riche, je ______ le monde.",
+    "options": [
+      "A. voyage",
+      "B. voyagerais",
+      "C. voyageais",
+      "D. voyagerai"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 366,
+    "question": "Choisissez l'article correct : ______ école est grande.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "Quel est le sens de « avoir le vent en poupe » ?",
+    "options": [
+      "A. avoir des difficultés",
+      "B. réussir",
+      "C. être malade",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 368,
+    "question": "Complétez : Elle a ______ le livre.",
+    "options": [
+      "A. lu",
+      "B. lire",
+      "C. lis",
+      "D. lise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "Choisissez l'adverbe correct : Il répond ______.",
+    "options": [
+      "A. poli",
+      "B. poliment",
+      "C. polie",
+      "D. politesse"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Complétez : C'est l'endroit ______ nous nous sommes rencontrés.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 371,
+    "question": "Exprimez la déception : ______, ce n'est pas ce que je voulais.",
+    "options": [
+      "A. Tant mieux",
+      "B. Hélas",
+      "C. Bien sûr",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "Complétez : Elle ne parle ______ anglais.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Quelle figure de style : « Il est rusé comme un renard. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "Complétez : Les étudiants ______ dans la bibliothèque.",
+    "options": [
+      "A. étudie",
+      "B. étudient",
+      "C. étudions",
+      "D. étudier"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "question": "Choisissez l'adjectif correct : Elle a une robe ______.",
+    "options": [
+      "A. rouge",
+      "B. rouges",
+      "C. rouges",
+      "D. rouge"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "Complétez : ______ mangez-vous au petit déjeuner ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Quelle conjonction exprime l'alternative ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "Complétez : Nous ______ à Paris l'année dernière.",
+    "options": [
+      "A. allons",
+      "B. sommes allés",
+      "C. allions",
+      "D. irons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "Choisissez le pronom correct : ______ as-tu vu hier ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "Complétez : ______ enfants sont dans la cour.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "D",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "Quel adverbe signifie « peu » ?",
+    "options": [
+      "A. beaucoup",
+      "B. très",
+      "C. peu",
+      "D. trop"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "question": "Complétez : Elle est ______ que lui.",
+    "options": [
+      "A. plus âgée",
+      "B. plus âgé",
+      "C. plus âgés",
+      "D. plus âgées"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Choisissez la préposition correcte : Le stylo est ______ la table.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "Quel est le sens de « avoir le sommeil léger » ?",
+    "options": [
+      "A. dormir profondément",
+      "B. se réveiller facilement",
+      "C. être fatigué",
+      "D. avoir peur"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Complétez : Elle ______ quand je suis parti.",
+    "options": [
+      "A. dort",
+      "B. dormait",
+      "C. a dormi",
+      "D. dormira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "Choisissez la forme correcte : ______ est ton adresse ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "Complétez : Je ne veux ______ de gâteau.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Transformez au pluriel : Le journal est intéressant.",
+    "options": [
+      "A. Les journals sont intéressants.",
+      "B. Les journaux sont intéressants.",
+      "C. Les journaux est intéressant.",
+      "D. Le journaux sont intéressants."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Quelle figure de style : « Il est fort comme un boeuf. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "Complétez : Elle ______ au marché demain.",
+    "options": [
+      "A. va",
+      "B. ira",
+      "C. allait",
+      "D. est allée"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "Choisissez le pronom possessif correct : Ces livres sont ______.",
+    "options": [
+      "A. votre",
+      "B. le vôtre",
+      "C. les vôtres",
+      "D. vous"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "Complétez : ______ est ton livre préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "Quelle est la préposition correcte : Il est ______ Sénégal.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Complétez : Si tu venais, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "Choisissez l'article correct : ______ homme est grand.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "Quel est le sens de « avoir le mot juste » ?",
+    "options": [
+      "A. parler beaucoup",
+      "B. trouver les bons mots",
+      "C. être timide",
+      "D. être méchant"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "Complétez : Elle a ______ le gâteau.",
+    "options": [
+      "A. mangé",
+      "B. manger",
+      "C. mange",
+      "D. mangée"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 398,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. calme",
+      "B. calmement",
+      "C. calme",
+      "D. calmes"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "Complétez : C'est l'ami ______ je t'ai parlé.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 400,
+    "question": "Exprimez la surprise : ______ ! C'est incroyable !",
+    "options": [
+      "A. Bien sûr",
+      "B. Ça alors",
+      "C. Tant pis",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "Complétez : Elle ne mange ______ de fruits.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "D",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "Quelle figure de style : « Il est bavard comme une pie. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "question": "Complétez : Les enfants ______ dans le jardin.",
+    "options": [
+      "A. joue",
+      "B. jouent",
+      "C. jouons",
+      "D. jouer"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "Choisissez l'adjectif correct : Elle a une voiture ______.",
+    "options": [
+      "A. noire",
+      "B. noir",
+      "C. noirs",
+      "D. noires"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 405,
+    "question": "Complétez : ______ est ton sport préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "Quelle conjonction exprime l'addition ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "A",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 407,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 408,
+    "question": "Choisissez le pronom correct : ______ est-ce que tu attends ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "Complétez : ______ voiture est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 410,
+    "question": "Quel adverbe signifie « trop » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "Complétez : Elle est ______ que sa mère.",
+    "options": [
+      "A. plus grande",
+      "B. plus grand",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "Choisissez la préposition correcte : Le chat est ______ le lit.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 413,
+    "question": "Quel est le sens de « avoir le temps long » ?",
+    "options": [
+      "A. être pressé",
+      "B. s'ennuyer",
+      "C. être fatigué",
+      "D. avoir faim"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 414,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "Choisissez la forme correcte : ______ est ton professeur ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "A",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "Complétez : Je ne bois ______ de lait.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 417,
+    "question": "Transformez au pluriel : Le château est vieux.",
+    "options": [
+      "A. Les châteaus sont vieux.",
+      "B. Les châteaux sont vieux.",
+      "C. Les châteaux est vieux.",
+      "D. Le châteaux sont vieux."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Quelle figure de style : « Il est riche comme Crésus. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 421,
+    "question": "Complétez : ______ est la date de ton anniversaire ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "Quelle est la préposition correcte : Il va ______ école.",
+    "options": [
+      "A. au",
+      "B. à l'",
+      "C. en",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 423,
+    "question": "Complétez : Si tu étudies, tu ______.",
+    "options": [
+      "A. réussis",
+      "B. réussirais",
+      "C. réussissais",
+      "D. réussiras"
+    ],
+    "answer": "D",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 424,
+    "question": "Choisissez l'article correct : ______ amour est beau.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "Quel est le sens de « avoir du pain sur la planche » ?",
+    "options": [
+      "A. avoir faim",
+      "B. avoir beaucoup de travail",
+      "C. être riche",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "Complétez : Elle a ______ la porte.",
+    "options": [
+      "A. ouvri",
+      "B. ouvert",
+      "C. ouvre",
+      "D. ouvrir"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "Choisissez l'adverbe correct : Il parle ______.",
+    "options": [
+      "A. doux",
+      "B. doucement",
+      "C. douce",
+      "D. douceur"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "Complétez : C'est le jour ______ je suis né.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 429,
+    "question": "Exprimez le dégoût : ______ ! C'est horrible !",
+    "options": [
+      "A. Beurk",
+      "B. Bravo",
+      "C. Hourra",
+      "D. Bien sûr"
+    ],
+    "answer": "A",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "Complétez : Elle ne mange ______ de légumes.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "Quelle figure de style : « Il est sage comme une image. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 432,
+    "question": "Complétez : Les livres ______ sur la table.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 433,
+    "question": "Choisissez l'adjectif correct : Elle a les yeux ______.",
+    "options": [
+      "A. bleu",
+      "B. bleus",
+      "C. bleue",
+      "D. bleues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Complétez : ______ veux-tu manger ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "Quelle conjonction exprime la cause ?",
+    "options": [
+      "A. donc",
+      "B. car",
+      "C. ou",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "Complétez : Nous ______ le film hier soir.",
+    "options": [
+      "A. regardons",
+      "B. avons regardé",
+      "C. regardions",
+      "D. regarderons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "Choisissez le pronom correct : ______ est-ce qui a fait cela ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 438,
+    "question": "Complétez : ______ maison est très belle.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 439,
+    "question": "Quel adverbe signifie « mal » ?",
+    "options": [
+      "A. bien",
+      "B. mal",
+      "C. vite",
+      "D. fort"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 440,
+    "question": "Complétez : Il est ______ que son frère.",
+    "options": [
+      "A. plus grand",
+      "B. plus grande",
+      "C. plus grands",
+      "D. plus grandes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "Choisissez la préposition correcte : Il est ______ la maison.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "Quel est le sens de « avoir le bras long » ?",
+    "options": [
+      "A. être fort",
+      "B. avoir de l'influence",
+      "C. être grand",
+      "D. avoir mal"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 443,
+    "question": "Complétez : Elle ______ quand je suis arrivé.",
+    "options": [
+      "A. chante",
+      "B. chantait",
+      "C. a chanté",
+      "D. chantera"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 444,
+    "question": "Choisissez la forme correcte : ______ est ton plat préféré ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quel",
+      "D. Quelle"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "Complétez : Je ne bois ______ de thé.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 446,
+    "question": "Transformez au féminin : Le directeur est gentil.",
+    "options": [
+      "A. La directrice est gentille.",
+      "B. La directeur est gentille.",
+      "C. La directrice est gentil.",
+      "D. Le directrice est gentille."
+    ],
+    "answer": "A",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "Quelle figure de style : « Il est un lion au combat. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "Complétez : Ils ______ au parc demain.",
+    "options": [
+      "A. vont",
+      "B. iront",
+      "C. allaient",
+      "D. sont allés"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "Choisissez le pronom possessif correct : Ces clés sont ______.",
+    "options": [
+      "A. leur",
+      "B. les leurs",
+      "C. eux",
+      "D. leurs"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 450,
+    "question": "Complétez : ______ est la raison de ton retard ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "Quelle est la préposition correcte : Il est ______ Ghana.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Complétez : Si elle venait, je ______ content.",
+    "options": [
+      "A. serais",
+      "B. suis",
+      "C. serai",
+      "D. étais"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 453,
+    "question": "Choisissez l'article correct : ______ histoire est intéressante.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "Quel est le sens de « avoir le coeur sur la main » ?",
+    "options": [
+      "A. être méchant",
+      "B. être généreux",
+      "C. être timide",
+      "D. être fort"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "Complétez : Elle a ______ la vérité.",
+    "options": [
+      "A. dit",
+      "B. dire",
+      "C. dis",
+      "D. dise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 456,
+    "question": "Choisissez l'adverbe correct : Il travaille ______.",
+    "options": [
+      "A. sérieux",
+      "B. sérieusement",
+      "C. sérieuse",
+      "D. sérieux"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "Complétez : C'est la raison ______ je suis parti.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "C",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 458,
+    "question": "Exprimez l'approbation : ______, c'est une bonne idée !",
+    "options": [
+      "A. Non",
+      "B. Absolument",
+      "C. Jamais",
+      "D. Hélas"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 459,
+    "question": "Complétez : Elle ne dit ______ de mal.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "C",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 460,
+    "question": "Quelle figure de style : « Il est lent comme une tortue. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "Complétez : Les filles ______ intelligentes.",
+    "options": [
+      "A. est",
+      "B. sont",
+      "C. a",
+      "D. ont"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "Choisissez l'adjectif correct : Elle a les cheveux ______.",
+    "options": [
+      "A. long",
+      "B. longs",
+      "C. longue",
+      "D. longues"
+    ],
+    "answer": "B",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "Complétez : ______ partez-vous en vacances ?",
+    "options": [
+      "A. Où",
+      "B. Quand",
+      "C. Comment",
+      "D. Pourquoi"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "Quelle conjonction exprime le but ?",
+    "options": [
+      "A. parce que",
+      "B. pour que",
+      "C. donc",
+      "D. mais"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 465,
+    "question": "Complétez : Nous ______ le dîner quand il est arrivé.",
+    "options": [
+      "A. préparons",
+      "B. préparions",
+      "C. avons préparé",
+      "D. préparerons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 466,
+    "question": "Choisissez le pronom correct : ______ a cassé la vitre ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "Complétez : ______ voiture est rapide.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "C",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 468,
+    "question": "Quel adverbe signifie « beaucoup » ?",
+    "options": [
+      "A. peu",
+      "B. très",
+      "C. trop",
+      "D. assez"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 469,
+    "question": "Complétez : Elle est ______ que sa sœur.",
+    "options": [
+      "A. plus intelligente",
+      "B. plus intelligent",
+      "C. plus intelligents",
+      "D. plus intelligentes"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 470,
+    "question": "Choisissez la préposition correcte : Le chat est ______ la chaise.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "C",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 471,
+    "question": "Quel est le sens de « avoir le coup de main » ?",
+    "options": [
+      "A. être maladroit",
+      "B. être habile",
+      "C. avoir mal",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Complétez : Ils ______ quand je suis entré.",
+    "options": [
+      "A. parlent",
+      "B. parlaient",
+      "C. ont parlé",
+      "D. parleront"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 473,
+    "question": "Choisissez la forme correcte : ______ est ton école ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "Complétez : Je ne mange ______ de viande.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "B",
+    "topic": "Negatives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 475,
+    "question": "Transformez au pluriel : L'animal est sauvage.",
+    "options": [
+      "A. Les animals sont sauvages.",
+      "B. Les animaux sont sauvages.",
+      "C. Les animaux est sauvage.",
+      "D. L'animaux sont sauvages."
+    ],
+    "answer": "B",
+    "topic": "Nouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Quelle figure de style : « Je suis mort de rire. »",
+    "options": [
+      "A. comparaison",
+      "B. métaphore",
+      "C. hyperbole",
+      "D. litote"
+    ],
+    "answer": "C",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 477,
+    "question": "Complétez : Elle ______ au cinéma hier.",
+    "options": [
+      "A. va",
+      "B. est allée",
+      "C. allait",
+      "D. ira"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "Choisissez le pronom possessif correct : Ce livre est ______.",
+    "options": [
+      "A. ton",
+      "B. le tien",
+      "C. toi",
+      "D. ta"
+    ],
+    "answer": "B",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 479,
+    "question": "Complétez : ______ est la meilleure solution ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quelle",
+      "D. Quel"
+    ],
+    "answer": "C",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "Quelle est la préposition correcte : Il est ______ France.",
+    "options": [
+      "A. au",
+      "B. en",
+      "C. à",
+      "D. de"
+    ],
+    "answer": "B",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 481,
+    "question": "Complétez : Si j'étais riche, je ______ le monde.",
+    "options": [
+      "A. voyage",
+      "B. voyagerais",
+      "C. voyageais",
+      "D. voyagerai"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 482,
+    "question": "Choisissez l'article correct : ______ école est grande.",
+    "options": [
+      "A. Le",
+      "B. La",
+      "C. Les",
+      "D. L'"
+    ],
+    "answer": "D",
+    "topic": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "Quel est le sens de « avoir le vent en poupe » ?",
+    "options": [
+      "A. avoir des difficultés",
+      "B. réussir",
+      "C. être malade",
+      "D. être fatigué"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 484,
+    "question": "Complétez : Elle a ______ le livre.",
+    "options": [
+      "A. lu",
+      "B. lire",
+      "C. lis",
+      "D. lise"
+    ],
+    "answer": "A",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "Choisissez l'adverbe correct : Il répond ______.",
+    "options": [
+      "A. poli",
+      "B. poliment",
+      "C. polie",
+      "D. politesse"
+    ],
+    "answer": "B",
+    "topic": "Adverbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "Complétez : C'est l'endroit ______ nous nous sommes rencontrés.",
+    "options": [
+      "A. que",
+      "B. qui",
+      "C. dont",
+      "D. où"
+    ],
+    "answer": "D",
+    "topic": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 487,
+    "question": "Exprimez la déception : ______, ce n'est pas ce que je voulais.",
+    "options": [
+      "A. Tant mieux",
+      "B. Hélas",
+      "C. Bien sûr",
+      "D. Heureusement"
+    ],
+    "answer": "B",
+    "topic": "Structures of major Acte de Parole",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Complétez : Elle ne parle ______ anglais.",
+    "options": [
+      "A. pas",
+      "B. jamais",
+      "C. rien",
+      "D. plus"
+    ],
+    "answer": "A",
+    "topic": "Negatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "Quelle figure de style : « Il est rusé comme un renard. »",
+    "options": [
+      "A. métaphore",
+      "B. comparaison",
+      "C. hyperbole",
+      "D. personnification"
+    ],
+    "answer": "B",
+    "topic": "Common figures of speech",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "Complétez : Les étudiants ______ dans la bibliothèque.",
+    "options": [
+      "A. étudie",
+      "B. étudient",
+      "C. étudions",
+      "D. étudier"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 491,
+    "question": "Choisissez l'adjectif correct : Elle a une robe ______.",
+    "options": [
+      "A. rouge",
+      "B. rouges",
+      "C. rouges",
+      "D. rouge"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "Complétez : ______ mangez-vous au petit déjeuner ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "B",
+    "topic": "Sentence patterns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "Quelle conjonction exprime l'alternative ?",
+    "options": [
+      "A. et",
+      "B. ou",
+      "C. donc",
+      "D. car"
+    ],
+    "answer": "B",
+    "topic": "Conjunctions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "Complétez : Nous ______ à Paris l'année dernière.",
+    "options": [
+      "A. allons",
+      "B. sommes allés",
+      "C. allions",
+      "D. irons"
+    ],
+    "answer": "B",
+    "topic": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "Choisissez le pronom correct : ______ as-tu vu hier ?",
+    "options": [
+      "A. Qui",
+      "B. Que",
+      "C. Quoi",
+      "D. Quel"
+    ],
+    "answer": "A",
+    "topic": "Pronouns",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "Complétez : ______ enfants sont dans la cour.",
+    "options": [
+      "A. Ce",
+      "B. Cet",
+      "C. Cette",
+      "D. Ces"
+    ],
+    "answer": "D",
+    "topic": "Adjectives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 497,
+    "question": "Quel adverbe signifie « peu » ?",
+    "options": [
+      "A. beaucoup",
+      "B. très",
+      "C. peu",
+      "D. trop"
+    ],
+    "answer": "C",
+    "topic": "Adverbs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 498,
+    "question": "Complétez : Elle est ______ que lui.",
+    "options": [
+      "A. plus âgée",
+      "B. plus âgé",
+      "C. plus âgés",
+      "D. plus âgées"
+    ],
+    "answer": "A",
+    "topic": "Adjectives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "Choisissez la préposition correcte : Le stylo est ______ la table.",
+    "options": [
+      "A. sur",
+      "B. dans",
+      "C. sous",
+      "D. entre"
+    ],
+    "answer": "A",
+    "topic": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 500,
+    "question": "Quel est le sens de « avoir le sommeil léger » ?",
+    "options": [
+      "A. dormir profondément",
+      "B. se réveiller facilement",
+      "C. être fatigué",
+      "D. avoir peur"
+    ],
+    "answer": "B",
+    "topic": "Idiomatic expressions & proverbs",
+    "difficulty": "Medium"
+  }
+]

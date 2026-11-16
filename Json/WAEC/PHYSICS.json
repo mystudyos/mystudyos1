@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a fundamental quantity?",
+    "options": ["A. Force", "B. Mass", "C. Velocity", "D. Pressure"],
+    "answer": "B",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The S.I. unit of electric current is the:",
+    "options": ["A. Coulomb", "B. Volt", "C. Ampere", "D. Ohm"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a derived quantity?",
+    "options": ["A. Time", "B. Temperature", "C. Density", "D. Length"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The S.I. unit of luminous intensity is the:",
+    "options": ["A. Lux", "B. Lumen", "C. Candela", "D. Watt"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "How many fundamental quantities are there in the S.I. system?",
+    "options": ["A. Five", "B. Six", "C. Seven", "D. Eight"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The dimension of density is:",
+    "options": ["A. ML⁻³", "B. ML³", "C. M⁻¹L³", "D. ML⁻²"],
+    "answer": "A",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "The S.I. unit of the amount of substance is the:",
+    "options": ["A. Gram", "B. Mole", "C. Kelvin", "D. Kilogram"],
+    "answer": "B",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a fundamental unit?",
+    "options": ["A. Metre", "B. Kilogram", "C. Newton", "D. Second"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "The dimension of force is:",
+    "options": ["A. MLT⁻²", "B. MLT⁻¹", "C. ML²T⁻²", "D. ML⁻¹T⁻²"],
+    "answer": "A",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "The unit of thermodynamic temperature is the:",
+    "options": ["A. Celsius", "B. Fahrenheit", "C. Kelvin", "D. Joule"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a scalar quantity?",
+    "options": ["A. Displacement", "B. Velocity", "C. Force", "D. Speed"],
+    "answer": "D",
+    "topic": "Scalars and Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a vector quantity?",
+    "options": ["A. Mass", "B. Distance", "C. Weight", "D. Speed"],
+    "answer": "C",
+    "topic": "Scalars and Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The S.I. unit of weight is the:",
+    "options": ["A. Kilogram", "B. Newton", "C. Joule", "D. Watt"],
+    "answer": "B",
+    "topic": "Mass and Weight",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The dimension of power is:",
+    "options": ["A. ML²T⁻³", "B. ML²T⁻²", "C. MLT⁻³", "D. ML²T⁻¹"],
+    "answer": "A",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "Which instrument is used to measure the mass of a body?",
+    "options": ["A. Spring balance", "B. Beam balance", "C. Vernier caliper", "D. Micrometer"],
+    "answer": "B",
+    "topic": "Mass and Weight",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The accuracy of a measurement is best described as:",
+    "options": ["A. The smallest unit on the instrument", "B. How close it is to the true value", "C. The consistency of repeated measurements", "D. The number of significant figures"],
+    "answer": "B",
+    "topic": "Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "A vernier caliper reads to the nearest:",
+    "options": ["A. 0.1 cm", "B. 0.01 cm", "C. 0.001 cm", "D. 0.0001 cm"],
+    "answer": "B",
+    "topic": "Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "The dimension of energy is the same as that of:",
+    "options": ["A. Force", "B. Power", "C. Work", "D. Momentum"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a derived unit?",
+    "options": ["A. Metre", "B. Second", "C. Kilogram", "D. Joule"],
+    "answer": "D",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "The S.I. unit of pressure is the:",
+    "options": ["A. Joule", "B. Newton", "C. Pascal", "D. Watt"],
+    "answer": "C",
+    "topic": "Fundamental and Derived Quantities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Distance is a ______ quantity.",
+    "options": ["A. Vector", "B. Scalar", "C. Derived", "D. Fundamental"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Displacement is a ______ quantity.",
+    "options": ["A. Scalar", "B. Vector", "C. Derived", "D. Fundamental"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "A body moves 3 m east and then 4 m north. Its displacement is:",
+    "options": ["A. 7 m", "B. 5 m", "C. 1 m", "D. 12 m"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "A body moves 3 m east, then 4 m north, then 3 m west. Its displacement is:",
+    "options": ["A. 10 m", "B. 4 m", "C. 5 m", "D. 7 m"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "A body moving from a point to another 5 m away and back has covered a distance of:",
+    "options": ["A. 5 m", "B. 10 m", "C. 0 m", "D. 25 m"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The direction of a vector is best represented by:",
+    "options": ["A. A straight line", "B. An arrow", "C. A circle", "D. A dot"],
+    "answer": "B",
+    "topic": "Scalars and Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "A bearing of 090° corresponds to:",
+    "options": ["A. North", "B. East", "C. South", "D. West"],
+    "answer": "B",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "A bearing of 180° corresponds to:",
+    "options": ["A. North", "B. East", "C. South", "D. West"],
+    "answer": "C",
+    "topic": "Position, Distance and Displacement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "The S.I. unit of time is the:",
+    "options": ["A. Minute", "B. Hour", "C. Second", "D. Day"],
+    "answer": "C",
+    "topic": "Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "A stopwatch is used to measure:",
+    "options": ["A. Mass", "B. Length", "C. Time interval", "D. Temperature"],
+    "answer": "C",
+    "topic": "Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "The pressure at a depth h in a liquid of density ρ is given by:",
+    "options": ["A. ρgh", "B. ρg/h", "C. ρh/g", "D. gh/ρ"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "The pressure at a point in a fluid depends on:",
+    "options": ["A. The shape of the container", "B. The volume of the fluid", "C. The depth below the surface", "D. The surface area"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "A hydraulic press works on the principle of:",
+    "options": ["A. Archimedes", "B. Pascal", "C. Bernoulli", "D. Boyle"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Archimedes' principle states that the upthrust on a body equals the:",
+    "options": ["A. Weight of the body", "B. Weight of fluid displaced", "C. Volume of the body", "D. Density of the body"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "A body floats in a liquid when its weight is:",
+    "options": ["A. Greater than the upthrust", "B. Equal to the upthrust", "C. Less than the upthrust", "D. Independent of upthrust"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "The relative density of a substance is the ratio of its density to that of:",
+    "options": ["A. Mercury", "B. Water", "C. Air", "D. Alcohol"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The atmospheric pressure at sea level is approximately:",
+    "options": ["A. 1.0 × 10³ Pa", "B. 1.0 × 10⁴ Pa", "C. 1.0 × 10⁵ Pa", "D. 1.0 × 10⁶ Pa"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "A hydrometer is used to measure the:",
+    "options": ["A. Pressure of a gas", "B. Relative density of a liquid", "C. Temperature of a liquid", "D. Humidity of the air"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "question": "The upthrust on a body immersed in a fluid acts:",
+    "options": ["A. Downwards", "B. Upwards", "C. Sideways", "D. Diagonally"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "In a U-tube with two immiscible liquids, the heights are inversely proportional to their:",
+    "options": ["A. Volumes", "B. Masses", "C. Densities", "D. Surface areas"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "A manometer is used to measure:",
+    "options": ["A. Atmospheric pressure", "B. Gas pressure", "C. Relative density", "D. Viscosity"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "The pressure in a liquid at a given depth depends on:",
+    "options": ["A. Density and depth", "B. Shape of container", "C. Surface area of liquid", "D. Volume of liquid"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "A balloon rises in air because:",
+    "options": ["A. It contains air", "B. Its weight is less than upthrust", "C. Wind pushes it", "D. Its density is greater than air"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "A submarine dives by:",
+    "options": ["A. Increasing speed", "B. Taking in water ballast", "C. Reducing volume", "D. Changing shape"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The pressure in a fluid at rest is:",
+    "options": ["A. Same at all points", "B. Greater at greater depths", "C. Greater at the surface", "D. Zero at the bottom"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "A siphon works on the principle of:",
+    "options": ["A. Bernoulli", "B. Archimedes", "C. Atmospheric pressure", "D. Pascal"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The relative density of a liquid can be determined using a:",
+    "options": ["A. Hygrometer", "B. Hydrometer", "C. Barometer", "D. Thermometer"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "The pressure at the bottom of a container is independent of:",
+    "options": ["A. Depth of liquid", "B. Density of liquid", "C. Acceleration due to gravity", "D. Shape of container"],
+    "answer": "D",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "A body of weight 50 N floats in water. The upthrust on it is:",
+    "options": ["A. 10 N", "B. 50 N", "C. 40 N", "D. 60 N"],
+    "answer": "B",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "A body weighs 30 N in air and 20 N in water. The upthrust is:",
+    "options": ["A. 10 N", "B. 20 N", "C. 30 N", "D. 50 N"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "Speed is defined as the rate of change of:",
+    "options": ["A. Displacement with time", "B. Distance with time", "C. Velocity with time", "D. Acceleration with time"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Velocity is the rate of change of:",
+    "options": ["A. Distance with time", "B. Displacement with time", "C. Acceleration with time", "D. Momentum with time"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Acceleration is the rate of change of:",
+    "options": ["A. Distance", "B. Displacement", "C. Speed", "D. Velocity"],
+    "answer": "D",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "The S.I. unit of acceleration is:",
+    "options": ["A. m/s", "B. m/s²", "C. N", "D. J"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "The area under a velocity-time graph gives:",
+    "options": ["A. Acceleration", "B. Displacement", "C. Speed", "D. Force"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The gradient of a displacement-time graph gives:",
+    "options": ["A. Acceleration", "B. Velocity", "C. Distance", "D. Speed"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The gradient of a velocity-time graph gives:",
+    "options": ["A. Acceleration", "B. Velocity", "C. Distance", "D. Speed"],
+    "answer": "A",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "A body moves with uniform velocity. Its acceleration is:",
+    "options": ["A. Zero", "B. Constant and non-zero", "C. Increasing", "D. Decreasing"],
+    "answer": "A",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "A car accelerates uniformly from rest to 20 m/s in 5 s. The acceleration is:",
+    "options": ["A. 2 m/s²", "B. 4 m/s²", "C. 5 m/s²", "D. 100 m/s²"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "A body moving at 10 m/s is brought to rest in 2 s. The deceleration is:",
+    "options": ["A. 2 m/s²", "B. 5 m/s²", "C. 10 m/s²", "D. 20 m/s²"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The equation v = u + at applies to motion with:",
+    "options": ["A. Any acceleration", "B. Uniform acceleration", "C. Variable acceleration", "D. Zero acceleration"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The equation s = ut + ½at² is valid when acceleration is:",
+    "options": ["A. Constant", "B. Zero", "C. Increasing", "D. Decreasing"],
+    "answer": "A",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "A body falling freely near the earth's surface has an acceleration of approximately:",
+    "options": ["A. 5 m/s²", "B. 9.8 m/s²", "C. 10 m/s²", "D. 20 m/s²"],
+    "answer": "B",
+    "topic": "Motion under Gravity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "A stone dropped from 20 m reaches the ground in (g = 10 m/s²):",
+    "options": ["A. 1 s", "B. 2 s", "C. 4 s", "D. 10 s"],
+    "answer": "B",
+    "topic": "Motion under Gravity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "A stone thrown vertically upwards at 20 m/s reaches a maximum height of (g = 10 m/s²):",
+    "options": ["A. 10 m", "B. 20 m", "C. 40 m", "D. 200 m"],
+    "answer": "B",
+    "topic": "Motion under Gravity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "In projectile motion, the horizontal component of velocity:",
+    "options": ["A. Changes with time", "B. Remains constant", "C. Decreases", "D. Increases"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "In projectile motion, the vertical component of velocity:",
+    "options": ["A. Remains constant", "B. Changes uniformly", "C. Is always zero", "D. Increases only"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "The maximum range of a projectile is obtained at an angle of:",
+    "options": ["A. 30°", "B. 45°", "C. 60°", "D. 90°"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "A body moves in a circle at constant speed. Its acceleration is directed:",
+    "options": ["A. Zero", "B. Towards the centre", "C. Away from the centre", "D. Along the tangent"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "The centripetal force on a body of mass m, speed v, radius r is:",
+    "options": ["A. mv²/r", "B. mv/r", "C. mr²/v", "D. mv²r"],
+    "answer": "A",
+    "topic": "Circular Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Angular speed is measured in:",
+    "options": ["A. m/s", "B. rad/s", "C. rev/s", "D. m/s²"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "The relationship between angular speed ω and linear speed v is:",
+    "options": ["A. v = ωr", "B. v = ω/r", "C. v = ωr²", "D. v = ω²r"],
+    "answer": "A",
+    "topic": "Circular Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Friction between two surfaces in contact depends on the:",
+    "options": ["A. Area of contact", "B. Normal reaction", "C. Speed of motion", "D. Volume of the bodies"],
+    "answer": "B",
+    "topic": "Friction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "The coefficient of friction is the ratio of limiting friction to:",
+    "options": ["A. Normal reaction", "B. Weight", "C. Area", "D. Volume"],
+    "answer": "A",
+    "topic": "Friction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "A method of reducing friction is the use of:",
+    "options": ["A. More weight", "B. Ball bearings", "C. Rough surfaces", "D. Larger contact area"],
+    "answer": "B",
+    "topic": "Friction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "Viscosity is a measure of a fluid's:",
+    "options": ["A. Density", "B. Resistance to flow", "C. Compressibility", "D. Temperature"],
+    "answer": "B",
+    "topic": "Viscosity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Terminal velocity is reached when the net force on a falling body is:",
+    "options": ["A. Maximum", "B. Zero", "C. Minimum", "D. Constant"],
+    "answer": "B",
+    "topic": "Viscosity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "A body in circular motion at constant speed has:",
+    "options": ["A. Constant velocity", "B. Changing velocity", "C. Zero acceleration", "D. Constant acceleration"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The force keeping a body in circular motion is called:",
+    "options": ["A. Centrifugal force", "B. Centripetal force", "C. Gravitational force", "D. Frictional force"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Banking of roads is done to provide:",
+    "options": ["A. Increased speed", "B. Centripetal force", "C. Reduced friction", "D. Increased weight"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "A car of mass 1000 kg moves at 20 m/s around a curve of radius 100 m. The centripetal force is:",
+    "options": ["A. 200 N", "B. 2000 N", "C. 4000 N", "D. 20000 N"],
+    "answer": "C",
+    "topic": "Circular Motion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is a type of motion?",
+    "options": ["A. Random motion", "B. Rectilinear motion", "C. Circular motion", "D. All of the above"],
+    "answer": "D",
+    "topic": "Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "A body moving uniformly in a circle has:",
+    "options": ["A. Uniform velocity", "B. Changing velocity direction", "C. No acceleration", "D. Constant acceleration"],
+    "answer": "B",
+    "topic": "Circular Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "The S.I. unit of speed is:",
+    "options": ["A. m/s²", "B. m/s", "C. km/h", "D. cm/s"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 85,
+    "question": "A speed of 72 km/h is equivalent to:",
+    "options": ["A. 10 m/s", "B. 20 m/s", "C. 72 m/s", "D. 100 m/s"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "A body covers 100 m in 10 s. Its average speed is:",
+    "options": ["A. 5 m/s", "B. 10 m/s", "C. 20 m/s", "D. 100 m/s"],
+    "answer": "B",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "A body starts from rest and accelerates at 5 m/s² for 4 s. The distance covered is:",
+    "options": ["A. 20 m", "B. 40 m", "C. 80 m", "D. 100 m"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "A body moves at a constant velocity of 5 m/s for 10 s. The distance covered is:",
+    "options": ["A. 2 m", "B. 5 m", "C. 50 m", "D. 100 m"],
+    "answer": "C",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "The velocity-time graph of a uniformly accelerating body is a:",
+    "options": ["A. Line parallel to time axis", "B. Line inclined to time axis", "C. Curve", "D. Circle"],
+    "answer": "B",
+    "topic": "Rectilinear Acceleration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "The displacement-time graph of a body at rest is:",
+    "options": ["A. Line parallel to time axis", "B. Line inclined to time axis", "C. Curve", "D. Point"],
+    "answer": "A",
+    "topic": "Speed and Velocity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "The resultant of two forces of 3 N and 4 N at right angles is:",
+    "options": ["A. 1 N", "B. 5 N", "C. 7 N", "D. 12 N"],
+    "answer": "B",
+    "topic": "Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "Two equal forces F act at 120° to each other. The resultant is:",
+    "options": ["A. F", "B. 2F", "C. F√3", "D. F/2"],
+    "answer": "A",
+    "topic": "Vectors",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The moment of a force about a point is:",
+    "options": ["A. Force × distance", "B. Force / distance", "C. Force × velocity", "D. Force × mass"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The principle of moments states that for equilibrium, the sum of:",
+    "options": ["A. Clockwise moments equals anticlockwise moments", "B. Forces equals zero", "C. Clockwise moments exceeds anticlockwise", "D. Forces exceeds moments"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "The centre of gravity of a body is the point where:",
+    "options": ["A. Total weight acts", "B. Total mass is zero", "C. Body is in equilibrium", "D. Body rotates"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "A body is in stable equilibrium when its centre of gravity is:",
+    "options": ["A. Raised when displaced", "B. Lowered when displaced", "C. Unchanged when displaced", "D. At the base"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "A body is in neutral equilibrium when its centre of gravity:",
+    "options": ["A. Is raised when displaced", "B. Is lowered when displaced", "C. Remains at same height", "D. Is at the base"],
+    "answer": "C",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "A metre rule pivoted at 50 cm has 200 g at the 40 cm mark. To balance, 100 g should be at the:",
+    "options": ["A. 60 cm mark", "B. 70 cm mark", "C. 80 cm mark", "D. 90 cm mark"],
+    "answer": "B",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "The maximum resultant of forces 3 N, 4 N and 5 N is:",
+    "options": ["A. 5 N", "B. 7 N", "C. 12 N", "D. 20 N"],
+    "answer": "C",
+    "topic": "Vectors",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "The minimum resultant of two forces 5 N and 3 N is:",
+    "options": ["A. 2 N", "B. 5 N", "C. 8 N", "D. 15 N"],
+    "answer": "A",
+    "topic": "Vectors",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "The horizontal component of force F at angle θ is:",
+    "options": ["A. F sin θ", "B. F cos θ", "C. F tan θ", "D. F sec θ"],
+    "answer": "B",
+    "topic": "Vectors",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "A force of 10 N acts at 30° to the horizontal. Its vertical component is:",
+    "options": ["A. 5 N", "B. 8.66 N", "C. 10 N", "D. 20 N"],
+    "answer": "A",
+    "topic": "Vectors",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "A body in equilibrium under three forces has the forces:",
+    "options": ["A. Coplanar and concurrent", "B. Non-coplanar", "C. Parallel", "D. Non-concurrent"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "A couple is formed by two equal and opposite parallel forces that are:",
+    "options": ["A. Not in the same line", "B. In the same line", "C. Perpendicular", "D. Intersecting"],
+    "answer": "A",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "The S.I. unit of moment of a force is:",
+    "options": ["A. N", "B. Nm", "C. J", "D. W"],
+    "answer": "B",
+    "topic": "Equilibrium of Forces",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "Simple harmonic motion is characterized by acceleration that is:",
+    "options": ["A. Constant", "B. Proportional to displacement", "C. Zero", "D. Uniform"],
+    "answer": "B",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "The period of a simple pendulum depends on its:",
+    "options": ["A. Mass", "B. Length", "C. Amplitude", "D. Material"],
+    "answer": "B",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "The period T of a simple pendulum of length l is:",
+    "options": ["A. 2π√(l/g)", "B. 2π√(g/l)", "C. 2πl/g", "D. 2πg/l"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The frequency of a simple pendulum is:",
+    "options": ["A. Reciprocal of period", "B. Product of period and amplitude", "C. Square of period", "D. Time for one oscillation"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "The amplitude of a body in SHM is:",
+    "options": ["A. Maximum displacement from equilibrium", "B. Total distance traveled", "C. Time for one oscillation", "D. Frequency of oscillation"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "question": "At the equilibrium position in SHM, the velocity is:",
+    "options": ["A. Zero", "B. Maximum", "C. Minimum", "D. Constant"],
+    "answer": "B",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "At the extreme position in SHM, the acceleration is:",
+    "options": ["A. Zero", "B. Maximum", "C. Minimum", "D. Constant"],
+    "answer": "B",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "The energy of a body in SHM is:",
+    "options": ["A. Only potential", "B. Only kinetic", "C. Partly potential and partly kinetic", "D. Zero"],
+    "answer": "C",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "A helical spring of force constant k has a period T given by:",
+    "options": ["A. 2π√(m/k)", "B. 2π√(k/m)", "C. 2πm/k", "D. 2πk/m"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "The acceleration of a body in SHM is directed:",
+    "options": ["A. Towards equilibrium", "B. Away from equilibrium", "C. Always zero", "D. Constant"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "Newton's first law is also known as the law of:",
+    "options": ["A. Inertia", "B. Momentum", "C. Action and reaction", "D. Acceleration"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "question": "Newton's second law states that the rate of change of momentum is proportional to the:",
+    "options": ["A. Applied force", "B. Mass", "C. Velocity", "D. Displacement"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "Newton's third law states that action and reaction are:",
+    "options": ["A. Equal and opposite", "B. Equal and same direction", "C. Unequal and opposite", "D. Unequal and same direction"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "The impulse of a force is equal to the change in:",
+    "options": ["A. Momentum", "B. Velocity", "C. Acceleration", "D. Displacement"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "The S.I. unit of impulse is the:",
+    "options": ["A. N", "B. Ns", "C. N/s", "D. Nm"],
+    "answer": "B",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "A force of 10 N acts on a 2 kg body. The acceleration is:",
+    "options": ["A. 2 m/s²", "B. 5 m/s²", "C. 10 m/s²", "D. 20 m/s²"],
+    "answer": "B",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "The momentum of a 5 kg body moving at 4 m/s is:",
+    "options": ["A. 1.25 kg·m/s", "B. 9 kg·m/s", "C. 20 kg·m/s", "D. 80 kg·m/s"],
+    "answer": "C",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "The law of conservation of momentum applies when:",
+    "options": ["A. External force is zero", "B. External force is maximum", "C. Collision is elastic", "D. Collision is inelastic"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "A rocket moves forward due to:",
+    "options": ["A. Air pressure", "B. Conservation of momentum", "C. Gravity", "D. Friction"],
+    "answer": "B",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "The recoil of a gun is an example of Newton's:",
+    "options": ["A. First law", "B. Second law", "C. Third law", "D. Law of gravitation"],
+    "answer": "C",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "question": "The inertia of a body depends on its:",
+    "options": ["A. Velocity", "B. Mass", "C. Acceleration", "D. Momentum"],
+    "answer": "B",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "A 2 kg body at 3 m/s collides with a 4 kg body at rest. If they stick together, the common velocity is:",
+    "options": ["A. 1 m/s", "B. 1.5 m/s", "C. 2 m/s", "D. 3 m/s"],
+    "answer": "A",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 128,
+    "question": "Work is defined as:",
+    "options": ["A. Force × distance", "B. Force / distance", "C. Force × time", "D. Force × velocity"],
+    "answer": "A",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "The S.I. unit of work is the:",
+    "options": ["A. Newton", "B. Joule", "C. Watt", "D. Pascal"],
+    "answer": "B",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "The kinetic energy of a body of mass m at velocity v is:",
+    "options": ["A. mv", "B. ½mv²", "C. mv²", "D. ½mv"],
+    "answer": "B",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 131,
+    "question": "The potential energy of a body of mass m at height h is:",
+    "options": ["A. mgh", "B. ½mgh", "C. mgh²", "D. mg/h"],
+    "answer": "A",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "Power is defined as:",
+    "options": ["A. Work per unit time", "B. Work per unit distance", "C. Force per unit area", "D. Energy per unit distance"],
+    "answer": "A",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "question": "The S.I. unit of power is the:",
+    "options": ["A. Joule", "B. Newton", "C. Watt", "D. Pascal"],
+    "answer": "C",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The law of conservation of energy states that energy can be:",
+    "options": ["A. Created", "B. Destroyed", "C. Transformed", "D. Multiplied"],
+    "answer": "C",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "question": "A machine with mechanical advantage 5 and velocity ratio 10 has efficiency:",
+    "options": ["A. 50%", "B. 2%", "C. 15%", "D. 100%"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "The efficiency of a machine is given by:",
+    "options": ["A. MA/VR × 100%", "B. VR/MA × 100%", "C. MA × VR × 100%", "D. MA + VR"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "A first-class lever has the fulcrum:",
+    "options": ["A. Between load and effort", "B. At one end", "C. At the load", "D. At the effort"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "question": "A pulley system has VR 5 and efficiency 80%. Its mechanical advantage is:",
+    "options": ["A. 4", "B. 5", "C. 6.25", "D. 0.8"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 139,
+    "question": "An inclined plane of length 10 m and height 2 m has a velocity ratio of:",
+    "options": ["A. 5", "B. 2", "C. 10", "D. 0.2"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "A screw jack is an example of a:",
+    "options": ["A. Lever", "B. Pulley", "C. Simple machine", "D. Gear"],
+    "answer": "C",
+    "topic": "Machines",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "The velocity ratio of a wheel and axle with radii R and r is:",
+    "options": ["A. R/r", "B. r/R", "C. R + r", "D. R × r"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "The energy possessed by a body due to its position is:",
+    "options": ["A. Kinetic energy", "B. Potential energy", "C. Chemical energy", "D. Electrical energy"],
+    "answer": "B",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "A 10 kg body lifted 5 m gains potential energy (g = 10 m/s²):",
+    "options": ["A. 50 J", "B. 100 J", "C. 250 J", "D. 500 J"],
+    "answer": "D",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "question": "A 4 kg body at 5 m/s has kinetic energy:",
+    "options": ["A. 20 J", "B. 50 J", "C. 100 J", "D. 200 J"],
+    "answer": "B",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "A machine does 500 J of work in 5 s. Its power output is:",
+    "options": ["A. 100 W", "B. 250 W", "C. 500 W", "D. 2500 W"],
+    "answer": "A",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is a renewable energy source?",
+    "options": ["A. Coal", "B. Petroleum", "C. Solar", "D. Natural gas"],
+    "answer": "C",
+    "topic": "Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following is a non-renewable energy source?",
+    "options": ["A. Wind", "B. Solar", "C. Tidal", "D. Coal"],
+    "answer": "D",
+    "topic": "Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "Temperature is a measure of the:",
+    "options": ["A. Total heat in a body", "B. Degree of hotness or coldness", "C. Internal energy of a body", "D. Heat capacity of a body"],
+    "answer": "B",
+    "topic": "Heat Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "The S.I. unit of temperature is the:",
+    "options": ["A. Celsius", "B. Fahrenheit", "C. Kelvin", "D. Joule"],
+    "answer": "C",
+    "topic": "Heat Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "The absolute zero temperature is:",
+    "options": ["A. 0°C", "B. 273 K", "C. -273°C", "D. 100°C"],
+    "answer": "C",
+    "topic": "Heat Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "A temperature of 27°C is equivalent to:",
+    "options": ["A. 300 K", "B. 273 K", "C. 246 K", "D. 327 K"],
+    "answer": "A",
+    "topic": "Heat Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Linear expansivity is the fractional increase in:",
+    "options": ["A. Length per degree rise", "B. Volume per degree rise", "C. Area per degree rise", "D. Mass per degree rise"],
+    "answer": "A",
+    "topic": "Thermal Expansion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "The S.I. unit of linear expansivity is:",
+    "options": ["A. K", "B. K⁻¹", "C. m", "D. m⁻¹"],
+    "answer": "B",
+    "topic": "Thermal Expansion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "Bimetallic strips are used in:",
+    "options": ["A. Thermometers", "B. Thermostats", "C. Barometers", "D. Hydrometers"],
+    "answer": "B",
+    "topic": "Thermal Expansion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "Water has its maximum density at:",
+    "options": ["A. 0°C", "B. 4°C", "C. 100°C", "D. -4°C"],
+    "answer": "B",
+    "topic": "Thermal Expansion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "The anomalous expansion of water occurs between:",
+    "options": ["A. 0°C and 4°C", "B. 4°C and 100°C", "C. -4°C and 0°C", "D. 100°C and 200°C"],
+    "answer": "A",
+    "topic": "Thermal Expansion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Heat transfer by convection occurs mainly in:",
+    "options": ["A. Solids only", "B. Fluids", "C. Vacuum", "D. Solids and vacuum"],
+    "answer": "B",
+    "topic": "Heat Transfer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 158,
+    "question": "Heat transfer by radiation can occur in:",
+    "options": ["A. Solids only", "B. Fluids only", "C. Vacuum", "D. Gases only"],
+    "answer": "C",
+    "topic": "Heat Transfer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "A vacuum flask reduces heat loss by:",
+    "options": ["A. Conduction only", "B. Convection only", "C. Radiation only", "D. Conduction, convection and radiation"],
+    "answer": "D",
+    "topic": "Heat Transfer",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Boyle's law states that pressure is inversely proportional to volume at constant:",
+    "options": ["A. Temperature", "B. Pressure", "C. Density", "D. Mass"],
+    "answer": "A",
+    "topic": "Gas Laws",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "Charles' law states that volume is directly proportional to absolute temperature at constant:",
+    "options": ["A. Pressure", "B. Volume", "C. Mass", "D. Density"],
+    "answer": "A",
+    "topic": "Gas Laws",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 162,
+    "question": "The pressure law states that pressure is directly proportional to absolute temperature at constant:",
+    "options": ["A. Volume", "B. Pressure", "C. Mass", "D. Density"],
+    "answer": "A",
+    "topic": "Gas Laws",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "The general gas equation is:",
+    "options": ["A. PV = nRT", "B. P/V = nRT", "C. V/T = nRP", "D. P + V = nRT"],
+    "answer": "A",
+    "topic": "Gas Laws",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 164,
+    "question": "Heat capacity is the heat required to raise the temperature of a body by:",
+    "options": ["A. 1 K", "B. 1°C", "C. 10 K", "D. 100 K"],
+    "answer": "A",
+    "topic": "Heat Capacity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Specific heat capacity is the heat required to raise the temperature of:",
+    "options": ["A. 1 kg by 1 K", "B. 1 g by 1 K", "C. A body by 1 K", "D. 1 kg by 1°C"],
+    "answer": "A",
+    "topic": "Heat Capacity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "The S.I. unit of specific heat capacity is:",
+    "options": ["A. J/K", "B. J/(kg·K)", "C. J/kg", "D. J·K/kg"],
+    "answer": "B",
+    "topic": "Heat Capacity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "question": "The specific heat capacity of water is approximately:",
+    "options": ["A. 4200 J/(kg·K)", "B. 420 J/(kg·K)", "C. 42 J/(kg·K)", "D. 4.2 J/(kg·K)"],
+    "answer": "A",
+    "topic": "Heat Capacity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Heat required to raise 2 kg of water by 10 K is (c = 4200 J/(kg·K)):",
+    "options": ["A. 8400 J", "B. 42000 J", "C. 84000 J", "D. 4200 J"],
+    "answer": "C",
+    "topic": "Heat Capacity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "Latent heat of fusion is the heat required to change:",
+    "options": ["A. 1 kg solid to liquid at constant temperature", "B. 1 kg liquid to gas at constant temperature", "C. 1 kg solid to gas", "D. Temperature of 1 kg by 1 K"],
+    "answer": "A",
+    "topic": "Latent Heat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 170,
+    "question": "The specific latent heat of fusion of ice is approximately:",
+    "options": ["A. 3.34 × 10⁵ J/kg", "B. 3.34 × 10⁴ J/kg", "C. 3.34 × 10⁶ J/kg", "D. 3.34 × 10³ J/kg"],
+    "answer": "A",
+    "topic": "Latent Heat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "The specific latent heat of vaporization of water is approximately:",
+    "options": ["A. 2.26 × 10⁶ J/kg", "B. 2.26 × 10⁵ J/kg", "C. 2.26 × 10⁴ J/kg", "D. 2.26 × 10³ J/kg"],
+    "answer": "A",
+    "topic": "Latent Heat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Evaporation occurs when a liquid changes to gas:",
+    "options": ["A. At its boiling point", "B. At any temperature", "C. Below its freezing point", "D. Only in vacuum"],
+    "answer": "B",
+    "topic": "Evaporation and Boiling",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Boiling occurs when a liquid changes to gas:",
+    "options": ["A. At its boiling point", "B. At any temperature", "C. Below its freezing point", "D. Only in vacuum"],
+    "answer": "A",
+    "topic": "Evaporation and Boiling",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "The rate of evaporation increases with:",
+    "options": ["A. Increased humidity", "B. Increased surface area", "C. Decreased temperature", "D. Decreased wind speed"],
+    "answer": "B",
+    "topic": "Evaporation and Boiling",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "Relative humidity is the ratio of actual vapour pressure to:",
+    "options": ["A. Saturated vapour pressure", "B. Atmospheric pressure", "C. Dew point", "D. Boiling point"],
+    "answer": "A",
+    "topic": "Humidity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "The dew point is the temperature at which air:",
+    "options": ["A. Boils", "B. Becomes saturated with water vapour", "C. Freezes", "D. Expands"],
+    "answer": "B",
+    "topic": "Humidity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "A wet and dry bulb hygrometer is used to measure:",
+    "options": ["A. Temperature", "B. Relative humidity", "C. Pressure", "D. Density"],
+    "answer": "B",
+    "topic": "Humidity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "The specific heat capacity of a substance can be determined using the:",
+    "options": ["A. Method of mixtures", "B. Barometer", "C. Hydrometer", "D. Thermometer only"],
+    "answer": "A",
+    "topic": "Heat Capacity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "A pressure cooker cooks food faster because it:",
+    "options": ["A. Increases the boiling point of water", "B. Decreases the boiling point", "C. Increases specific heat", "D. Decreases latent heat"],
+    "answer": "A",
+    "topic": "Evaporation and Boiling",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "When a gas is compressed at constant temperature, its pressure:",
+    "options": ["A. Increases", "B. Decreases", "C. Remains constant", "D. Becomes zero"],
+    "answer": "A",
+    "topic": "Gas Laws",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "A wave is a disturbance that transfers:",
+    "options": ["A. Matter", "B. Energy", "C. Mass", "D. Force"],
+    "answer": "B",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 182,
+    "question": "The S.I. unit of frequency is the:",
+    "options": ["A. Second", "B. Hertz", "C. Metre", "D. Joule"],
+    "answer": "B",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The relationship between wave speed v, frequency f and wavelength λ is:",
+    "options": ["A. v = fλ", "B. v = f/λ", "C. v = λ/f", "D. v = f + λ"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The period T of a wave is related to frequency f by:",
+    "options": ["A. T = 1/f", "B. T = f", "C. T = f²", "D. T = 1/f²"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "A wave of frequency 50 Hz has a period of:",
+    "options": ["A. 0.02 s", "B. 0.2 s", "C. 2 s", "D. 50 s"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "In a transverse wave, particles vibrate:",
+    "options": ["A. Parallel to propagation", "B. Perpendicular to propagation", "C. In a circle", "D. Randomly"],
+    "answer": "B",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "In a longitudinal wave, particles vibrate:",
+    "options": ["A. Parallel to propagation", "B. Perpendicular to propagation", "C. In a circle", "D. Randomly"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "Sound waves are:",
+    "options": ["A. Transverse", "B. Longitudinal", "C. Electromagnetic", "D. Stationary"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "Light waves are:",
+    "options": ["A. Longitudinal", "B. Mechanical", "C. Electromagnetic", "D. Sound waves"],
+    "answer": "C",
+    "topic": "Light Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "The bending of waves around obstacles is called:",
+    "options": ["A. Reflection", "B. Refraction", "C. Diffraction", "D. Interference"],
+    "answer": "C",
+    "topic": "Properties of Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "question": "The change in direction of a wave passing from one medium to another is:",
+    "options": ["A. Reflection", "B. Refraction", "C. Diffraction", "D. Interference"],
+    "answer": "B",
+    "topic": "Properties of Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "The bouncing back of waves from a surface is:",
+    "options": ["A. Reflection", "B. Refraction", "C. Diffraction", "D. Interference"],
+    "answer": "A",
+    "topic": "Properties of Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "Superposition of two waves traveling in opposite directions produces a:",
+    "options": ["A. Progressive wave", "B. Stationary wave", "C. Refracted wave", "D. Diffracted wave"],
+    "answer": "B",
+    "topic": "Properties of Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Points of zero displacement in a stationary wave are called:",
+    "options": ["A. Antinodes", "B. Nodes", "C. Crests", "D. Troughs"],
+    "answer": "B",
+    "topic": "Properties of Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "question": "Points of maximum displacement in a stationary wave are called:",
+    "options": ["A. Nodes", "B. Antinodes", "C. Crests", "D. Troughs"],
+    "answer": "B",
+    "topic": "Properties of Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "The distance between two consecutive nodes in a stationary wave is:",
+    "options": ["A. λ", "B. λ/2", "C. λ/4", "D. 2λ"],
+    "answer": "B",
+    "topic": "Properties of Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "The amplitude of a wave is the:",
+    "options": ["A. Distance between crests", "B. Maximum displacement from equilibrium", "C. Time for one oscillation", "D. Number of oscillations per second"],
+    "answer": "B",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "A wave of wavelength 2 m and frequency 10 Hz has speed:",
+    "options": ["A. 0.2 m/s", "B. 5 m/s", "C. 20 m/s", "D. 100 m/s"],
+    "answer": "C",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "The speed of sound in air at room temperature is approximately:",
+    "options": ["A. 3 × 10⁸ m/s", "B. 340 m/s", "C. 1500 m/s", "D. 5000 m/s"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 200,
+    "question": "The speed of light in vacuum is approximately:",
+    "options": ["A. 3 × 10⁸ m/s", "B. 340 m/s", "C. 1500 m/s", "D. 5000 m/s"],
+    "answer": "A",
+    "topic": "Light Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "Rectilinear propagation of light explains the:",
+    "options": ["A. Formation of shadows", "B. Refraction of light", "C. Dispersion of light", "D. Interference of light"],
+    "answer": "A",
+    "topic": "Light Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "The image formed by a plane mirror is:",
+    "options": ["A. Real and inverted", "B. Virtual and erect", "C. Real and erect", "D. Virtual and inverted"],
+    "answer": "B",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "The angle of reflection is equal to the:",
+    "options": ["A. Angle of incidence", "B. Angle of refraction", "C. Critical angle", "D. Angle of deviation"],
+    "answer": "A",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "A concave mirror is also known as a:",
+    "options": ["A. Diverging mirror", "B. Converging mirror", "C. Plane mirror", "D. Parabolic mirror"],
+    "answer": "B",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "A convex mirror is also known as a:",
+    "options": ["A. Diverging mirror", "B. Converging mirror", "C. Plane mirror", "D. Concave mirror"],
+    "answer": "A",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "question": "The mirror formula is:",
+    "options": ["A. 1/u + 1/v = 1/f", "B. 1/u - 1/v = 1/f", "C. u + v = f", "D. u/v = f"],
+    "answer": "A",
+    "topic": "Reflection of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "The magnification produced by a mirror is given by:",
+    "options": ["A. v/u", "B. u/v", "C. v × u", "D. v + u"],
+    "answer": "A",
+    "topic": "Reflection of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "A concave mirror forms a real image when the object is:",
+    "options": ["A. Between pole and focus", "B. At the focus", "C. Beyond the focus", "D. At the pole"],
+    "answer": "C",
+    "topic": "Reflection of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "A convex mirror always forms a:",
+    "options": ["A. Real and inverted image", "B. Virtual and erect image", "C. Real and erect image", "D. Virtual and inverted image"],
+    "answer": "B",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "question": "The focal length of a concave mirror is 10 cm. Its radius of curvature is:",
+    "options": ["A. 5 cm", "B. 10 cm", "C. 20 cm", "D. 40 cm"],
+    "answer": "C",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "Refraction of light occurs because light travels at different:",
+    "options": ["A. Speeds in different media", "B. Frequencies", "C. Wavelengths", "D. Amplitudes"],
+    "answer": "A",
+    "topic": "Refraction of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The refractive index of a medium is the ratio of speed of light in:",
+    "options": ["A. Vacuum to speed in medium", "B. Medium to speed in vacuum", "C. Air to speed in water", "D. Water to speed in glass"],
+    "answer": "A",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The critical angle is the angle of incidence for which refraction angle is:",
+    "options": ["A. 0°", "B. 45°", "C. 90°", "D. 180°"],
+    "answer": "C",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Total internal reflection occurs when light travels from:",
+    "options": ["A. Less dense to denser medium", "B. Denser to less dense medium", "C. Vacuum to medium", "D. Medium to vacuum at any angle"],
+    "answer": "B",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Optical fibres work on the principle of:",
+    "options": ["A. Refraction", "B. Total internal reflection", "C. Diffraction", "D. Interference"],
+    "answer": "B",
+    "topic": "Refraction of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 216,
+    "question": "A converging lens is also known as a:",
+    "options": ["A. Concave lens", "B. Convex lens", "C. Diverging lens", "D. Plane lens"],
+    "answer": "B",
+    "topic": "Lenses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 217,
+    "question": "A diverging lens is also known as a:",
+    "options": ["A. Concave lens", "B. Convex lens", "C. Converging lens", "D. Plane lens"],
+    "answer": "A",
+    "topic": "Lenses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "question": "The lens formula is:",
+    "options": ["A. 1/u + 1/v = 1/f", "B. 1/u - 1/v = 1/f", "C. u + v = f", "D. u/v = f"],
+    "answer": "A",
+    "topic": "Lenses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The power of a lens is the reciprocal of its:",
+    "options": ["A. Focal length in metres", "B. Focal length in centimetres", "C. Magnification", "D. Object distance"],
+    "answer": "A",
+    "topic": "Lenses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The S.I. unit of the power of a lens is the:",
+    "options": ["A. Metre", "B. Dioptre", "C. Watt", "D. Joule"],
+    "answer": "B",
+    "topic": "Lenses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "A converging lens of focal length 20 cm has a power of:",
+    "options": ["A. 0.05 D", "B. 5 D", "C. 20 D", "D. 0.2 D"],
+    "answer": "B",
+    "topic": "Lenses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The human eye focuses light on the:",
+    "options": ["A. Cornea", "B. Iris", "C. Retina", "D. Pupil"],
+    "answer": "C",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "question": "The defect of the eye in which distant objects are blurred is:",
+    "options": ["A. Myopia", "B. Hypermetropia", "C. Presbyopia", "D. Astigmatism"],
+    "answer": "A",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "Myopia is corrected using a:",
+    "options": ["A. Convex lens", "B. Concave lens", "C. Cylindrical lens", "D. Bifocal lens"],
+    "answer": "B",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 225,
+    "question": "Hypermetropia is corrected using a:",
+    "options": ["A. Convex lens", "B. Concave lens", "C. Cylindrical lens", "D. Bifocal lens"],
+    "answer": "A",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "Dispersion of white light by a prism produces a:",
+    "options": ["A. Single color", "B. Spectrum", "C. Shadow", "D. Reflection"],
+    "answer": "B",
+    "topic": "Dispersion of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "The color of light with the longest wavelength in the visible spectrum is:",
+    "options": ["A. Red", "B. Violet", "C. Green", "D. Blue"],
+    "answer": "A",
+    "topic": "Dispersion of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 228,
+    "question": "The color of light with the shortest wavelength in the visible spectrum is:",
+    "options": ["A. Red", "B. Violet", "C. Green", "D. Yellow"],
+    "answer": "B",
+    "topic": "Dispersion of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "A rainbow is formed due to:",
+    "options": ["A. Reflection and refraction by water droplets", "B. Diffraction of sunlight", "C. Interference of sunlight", "D. Polarization of sunlight"],
+    "answer": "A",
+    "topic": "Dispersion of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "The sky appears blue due to:",
+    "options": ["A. Reflection of light", "B. Scattering of light", "C. Refraction of light", "D. Dispersion of light"],
+    "answer": "B",
+    "topic": "Dispersion of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is an electromagnetic wave?",
+    "options": ["A. Sound wave", "B. Water wave", "C. Light wave", "D. Seismic wave"],
+    "answer": "C",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "Which of the following has the highest frequency?",
+    "options": ["A. Radio waves", "B. Infrared", "C. X-rays", "D. Gamma rays"],
+    "answer": "D",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following has the longest wavelength?",
+    "options": ["A. Gamma rays", "B. X-rays", "C. Ultraviolet", "D. Radio waves"],
+    "answer": "D",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "X-rays are used in:",
+    "options": ["A. Radio communication", "B. Medical imaging", "C. Cooking", "D. TV remote controls"],
+    "answer": "B",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "Infrared radiation is used in:",
+    "options": ["A. Remote controls", "B. Medical imaging", "C. Radio broadcasting", "D. Microwave ovens"],
+    "answer": "A",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "Sound waves require a:",
+    "options": ["A. Vacuum", "B. Material medium", "C. Magnetic field", "D. Electric field"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 237,
+    "question": "The speed of sound is highest in:",
+    "options": ["A. Air", "B. Water", "C. Steel", "D. Vacuum"],
+    "answer": "C",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "The speed of sound in air increases with:",
+    "options": ["A. Decrease in temperature", "B. Increase in temperature", "C. Increase in pressure", "D. Decrease in humidity"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Echoes are due to:",
+    "options": ["A. Refraction of sound", "B. Reflection of sound", "C. Diffraction of sound", "D. Interference of sound"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "The pitch of a sound depends on its:",
+    "options": ["A. Amplitude", "B. Frequency", "C. Speed", "D. Wavelength"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "The loudness of a sound depends on its:",
+    "options": ["A. Amplitude", "B. Frequency", "C. Speed", "D. Wavelength"],
+    "answer": "A",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "The quality of a sound is determined by its:",
+    "options": ["A. Amplitude", "B. Frequency", "C. Harmonics", "D. Speed"],
+    "answer": "C",
+    "topic": "Sound Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The frequency of a vibrating string is given by:",
+    "options": ["A. (1/2L)√(T/m)", "B. (1/2L)√(m/T)", "C. 2L√(T/m)", "D. L√(T/m)"],
+    "answer": "A",
+    "topic": "Vibration in Strings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "In a closed pipe, the fundamental frequency is:",
+    "options": ["A. v/2L", "B. v/4L", "C. v/L", "D. v/3L"],
+    "answer": "B",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "In an open pipe, the fundamental frequency is:",
+    "options": ["A. v/2L", "B. v/4L", "C. v/L", "D. v/3L"],
+    "answer": "A",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "Resonance occurs when the driving frequency equals the:",
+    "options": ["A. Natural frequency", "B. Zero frequency", "C. Maximum frequency", "D. Minimum frequency"],
+    "answer": "A",
+    "topic": "Resonance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "A sonometer is used to demonstrate:",
+    "options": ["A. Speed of light", "B. Vibration of strings", "C. Speed of sound in water", "D. Frequency of light"],
+    "answer": "B",
+    "topic": "Vibration in Strings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "The end correction in a resonance tube is due to the:",
+    "options": ["A. Diameter of the tube", "B. Length of the tube", "C. Temperature of air", "D. Frequency of the fork"],
+    "answer": "A",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 249,
+    "question": "The gravitational field intensity is defined as force per unit:",
+    "options": ["A. Mass", "B. Charge", "C. Volume", "D. Area"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "The S.I. unit of gravitational field intensity is:",
+    "options": ["A. N", "B. N/kg", "C. J/kg", "D. m/s"],
+    "answer": "B",
+    "topic": "Gravitational Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 251,
+    "question": "Newton's law of gravitation states that force is proportional to the:",
+    "options": ["A. Product of masses", "B. Sum of masses", "C. Distance between masses", "D. Difference of masses"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "The gravitational constant G has the unit:",
+    "options": ["A. N·m²/kg²", "B. N·kg²/m²", "C. N·m/kg", "D. N/kg"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "The acceleration due to gravity on the earth's surface is approximately:",
+    "options": ["A. 5 m/s²", "B. 9.8 m/s²", "C. 15 m/s²", "D. 20 m/s²"],
+    "answer": "B",
+    "topic": "Gravitational Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "The escape velocity from the earth is approximately:",
+    "options": ["A. 11.2 km/s", "B. 1.12 km/s", "C. 112 km/s", "D. 0.112 km/s"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "A gravitational field is a region where a:",
+    "options": ["A. Mass experiences a force", "B. Charge experiences a force", "C. Magnet experiences a force", "D. Current experiences a force"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "question": "Electric charge can be produced by:",
+    "options": ["A. Friction", "B. Induction", "C. Contact", "D. All of the above"],
+    "answer": "D",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "The S.I. unit of electric charge is the:",
+    "options": ["A. Ampere", "B. Volt", "C. Coulomb", "D. Ohm"],
+    "answer": "C",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 258,
+    "question": "Like charges:",
+    "options": ["A. Attract each other", "B. Repel each other", "C. Have no effect", "D. Neutralize each other"],
+    "answer": "B",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 259,
+    "question": "Coulomb's law states that force between two charges is proportional to the:",
+    "options": ["A. Product of charges", "B. Sum of charges", "C. Distance between charges", "D. Difference of charges"],
+    "answer": "A",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "Electric field intensity is defined as force per unit:",
+    "options": ["A. Charge", "B. Mass", "C. Distance", "D. Area"],
+    "answer": "A",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 261,
+    "question": "The S.I. unit of electric field intensity is:",
+    "options": ["A. N/C", "B. N/kg", "C. J/C", "D. V/C"],
+    "answer": "A",
+    "topic": "Electric Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 262,
+    "question": "Capacitance is defined as charge per unit:",
+    "options": ["A. Potential difference", "B. Area", "C. Distance", "D. Current"],
+    "answer": "A",
+    "topic": "Capacitance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 263,
+    "question": "The S.I. unit of capacitance is the:",
+    "options": ["A. Volt", "B. Farad", "C. Coulomb", "D. Ohm"],
+    "answer": "B",
+    "topic": "Capacitance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "The energy stored in a charged capacitor is given by:",
+    "options": ["A. ½CV²", "B. CV²", "C. CV", "D. C/V"],
+    "answer": "A",
+    "topic": "Capacitance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Two capacitors of 2 μF and 3 μF in series have effective capacitance:",
+    "options": ["A. 5 μF", "B. 1.2 μF", "C. 6 μF", "D. 1 μF"],
+    "answer": "B",
+    "topic": "Capacitance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 266,
+    "question": "Two capacitors of 2 μF and 3 μF in parallel have effective capacitance:",
+    "options": ["A. 5 μF", "B. 1.2 μF", "C. 6 μF", "D. 1 μF"],
+    "answer": "A",
+    "topic": "Capacitance",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "A magnetic field is a region where a:",
+    "options": ["A. Magnetic pole experiences a force", "B. Electric charge experiences a force", "C. Mass experiences a force", "D. Current experiences no force"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 268,
+    "question": "The S.I. unit of magnetic flux density is the:",
+    "options": ["A. Weber", "B. Tesla", "C. Henry", "D. Farad"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The magnetic field lines around a straight current-carrying conductor are:",
+    "options": ["A. Straight lines", "B. Concentric circles", "C. Ellipses", "D. Parabolas"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "The direction of magnetic field around a current-carrying conductor is given by:",
+    "options": ["A. Fleming's left-hand rule", "B. Fleming's right-hand rule", "C. Right-hand grip rule", "D. Lenz's law"],
+    "answer": "C",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "An electromagnet is made using a coil of wire with a:",
+    "options": ["A. Permanent magnet core", "B. Soft iron core", "C. Steel core", "D. Copper core"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "The earth's magnetic field has:",
+    "options": ["A. North and south poles", "B. Positive and negative charges", "C. High and low temperatures", "D. Strong and weak currents"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "The angle of dip is the angle between the earth's magnetic field and the:",
+    "options": ["A. Horizontal", "B. Vertical", "C. North direction", "D. East direction"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "The force on a charged particle moving in a magnetic field is:",
+    "options": ["A. qvB sin θ", "B. qvB cos θ", "C. qv/B", "D. qB/v"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "A galvanometer is converted to an ammeter by connecting a:",
+    "options": ["A. High resistance in series", "B. Low resistance in parallel", "C. High resistance in parallel", "D. Low resistance in series"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "A galvanometer is converted to a voltmeter by connecting a:",
+    "options": ["A. High resistance in series", "B. Low resistance in parallel", "C. High resistance in parallel", "D. Low resistance in series"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Electric current is the rate of flow of:",
+    "options": ["A. Charge", "B. Voltage", "C. Resistance", "D. Power"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "The S.I. unit of electric current is the:",
+    "options": ["A. Coulomb", "B. Ampere", "C. Volt", "D. Ohm"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "Ohm's law states that current is directly proportional to:",
+    "options": ["A. Potential difference", "B. Resistance", "C. Power", "D. Charge"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "The resistance of a conductor is given by:",
+    "options": ["A. V/I", "B. I/V", "C. VI", "D. V + I"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "The S.I. unit of resistance is the:",
+    "options": ["A. Volt", "B. Ampere", "C. Ohm", "D. Watt"],
+    "answer": "C",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Resistors of 2 Ω and 3 Ω in series have total resistance:",
+    "options": ["A. 1.2 Ω", "B. 5 Ω", "C. 6 Ω", "D. 1 Ω"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "question": "Resistors of 2 Ω and 3 Ω in parallel have total resistance:",
+    "options": ["A. 5 Ω", "B. 1.2 Ω", "C. 6 Ω", "D. 1 Ω"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "The internal resistance of a cell causes:",
+    "options": ["A. Increase in terminal voltage", "B. Drop in terminal voltage", "C. Increase in e.m.f.", "D. Decrease in e.m.f."],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "The e.m.f. of a cell is the potential difference when:",
+    "options": ["A. No current flows", "B. Current flows", "C. Cell is shorted", "D. Cell is heated"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Electrical power is given by:",
+    "options": ["A. VI", "B. V/I", "C. I/V", "D. V + I"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "The S.I. unit of electrical energy is the:",
+    "options": ["A. Watt", "B. Joule", "C. Volt", "D. Ampere"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 288,
+    "question": "The heating effect of current is used in:",
+    "options": ["A. Electric bulbs", "B. Electric motors", "C. Generators", "D. Transformers"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "The resistance of a wire is directly proportional to its:",
+    "options": ["A. Length", "B. Cross-sectional area", "C. Temperature", "D. Voltage"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "The resistivity of a material is measured in:",
+    "options": ["A. Ω", "B. Ω·m", "C. Ω/m", "D. Ω·m²"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "A potentiometer is used to measure:",
+    "options": ["A. Resistance", "B. E.m.f. of a cell", "C. Current", "D. Power"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "A Wheatstone bridge is used to measure:",
+    "options": ["A. Current", "B. Voltage", "C. Resistance", "D. Power"],
+    "answer": "C",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "A metre bridge is a practical form of the:",
+    "options": ["A. Potentiometer", "B. Wheatstone bridge", "C. Ammeter", "D. Voltmeter"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "The kilowatt-hour is a unit of:",
+    "options": ["A. Power", "B. Energy", "C. Current", "D. Voltage"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "A 60 W bulb used for 5 hours consumes energy:",
+    "options": ["A. 0.3 kWh", "B. 3 kWh", "C. 30 kWh", "D. 300 kWh"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "A wire of length 2 m and area 10⁻⁶ m² with resistivity 10⁻⁶ Ω·m has resistance:",
+    "options": ["A. 1 Ω", "B. 2 Ω", "C. 0.5 Ω", "D. 4 Ω"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 297,
+    "question": "A battery of e.m.f. 12 V and internal resistance 1 Ω connected to 5 Ω gives current:",
+    "options": ["A. 2 A", "B. 2.4 A", "C. 12 A", "D. 1.2 A"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "The terminal voltage of a 12 V battery with internal resistance 1 Ω at 2 A is:",
+    "options": ["A. 12 V", "B. 10 V", "C. 14 V", "D. 6 V"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "Which of the following is a non-ohmic conductor?",
+    "options": ["A. Copper wire", "B. Semiconductor diode", "C. Aluminum wire", "D. Silver wire"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "A moving-coil galvanometer works on the principle of:",
+    "options": ["A. Electromagnetic induction", "B. Magnetic force on a current-carrying conductor", "C. Electrostatic force", "D. Heating effect of current"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The model of the atom that proposed a small, dense nucleus is the:",
+    "options": ["A. Thomson model", "B. Rutherford model", "C. Bohr model", "D. Electron-cloud model"],
+    "answer": "B",
+    "topic": "Structure of the Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "The Bohr model proposed that electrons orbit in:",
+    "options": ["A. Any distance", "B. Specific energy levels", "C. Random paths", "D. The nucleus"],
+    "answer": "B",
+    "topic": "Structure of the Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "The energy of an electron in an atom is:",
+    "options": ["A. Continuous", "B. Quantized", "C. Always zero", "D. Always negative"],
+    "answer": "B",
+    "topic": "Structure of the Atom",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "The photoelectric effect provides evidence for the:",
+    "options": ["A. Wave nature of light", "B. Particle nature of light", "C. Dual nature of light", "D. Neither wave nor particle"],
+    "answer": "B",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "The work function is the minimum energy to:",
+    "options": ["A. Remove an electron from a metal surface", "B. Add an electron to a metal", "C. Break a metal", "D. Heat a metal"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The threshold frequency is the minimum frequency that can cause:",
+    "options": ["A. Photoelectric emission", "B. Absorption", "C. Reflection", "D. Transmission"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "Einstein's photoelectric equation is:",
+    "options": ["A. hf = W + ½mv²", "B. hf = W - ½mv²", "C. hf = W × ½mv²", "D. hf = W/½mv²"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "Thermionic emission is emission of electrons from a:",
+    "options": ["A. Cold metal surface", "B. Heated metal surface", "C. Semiconductor", "D. Insulator"],
+    "answer": "B",
+    "topic": "Thermionic Emission",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 309,
+    "question": "X-rays are produced when high-speed electrons strike a:",
+    "options": ["A. Metal target", "B. Gas", "C. Liquid", "D. Plastic"],
+    "answer": "A",
+    "topic": "X-rays",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 310,
+    "question": "The nucleus of an atom contains:",
+    "options": ["A. Protons and electrons", "B. Protons and neutrons", "C. Neutrons and electrons", "D. Only protons"],
+    "answer": "B",
+    "topic": "Structure of the Nucleus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "question": "The atomic number is the number of:",
+    "options": ["A. Protons", "B. Neutrons", "C. Protons and neutrons", "D. Electrons in outer shell"],
+    "answer": "A",
+    "topic": "Structure of the Nucleus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "The mass number is the number of:",
+    "options": ["A. Protons", "B. Neutrons", "C. Protons and neutrons", "D. Electrons"],
+    "answer": "C",
+    "topic": "Structure of the Nucleus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "Isotopes have the same number of protons but different numbers of:",
+    "options": ["A. Protons", "B. Neutrons", "C. Electrons", "D. Charges"],
+    "answer": "B",
+    "topic": "Structure of the Nucleus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "Alpha particles are:",
+    "options": ["A. Electrons", "B. Protons", "C. Helium nuclei", "D. Neutrons"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "Beta particles are:",
+    "options": ["A. Electrons", "B. Protons", "C. Helium nuclei", "D. Neutrons"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Gamma rays are:",
+    "options": ["A. Electromagnetic radiation", "B. Particles with mass", "C. Negatively charged", "D. Positively charged"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "Half-life is the time for:",
+    "options": ["A. All atoms to decay", "B. Half the atoms to decay", "C. Activity to double", "D. Mass to double"],
+    "answer": "B",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "A substance with half-life 5 days. After 15 days, the fraction remaining is:",
+    "options": ["A. 1/2", "B. 1/4", "C. 1/8", "D. 1/16"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "Nuclear fission involves the:",
+    "options": ["A. Splitting of a heavy nucleus", "B. Joining of light nuclei", "C. Emission of electrons", "D. Absorption of gamma rays"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "Nuclear fusion involves the:",
+    "options": ["A. Splitting of a heavy nucleus", "B. Joining of light nuclei", "C. Emission of alpha particles", "D. Absorption of beta particles"],
+    "answer": "B",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "The energy released in a nuclear reaction is given by:",
+    "options": ["A. E = mc²", "B. E = ½mv²", "C. E = mgh", "D. E = hf"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "The mass defect is related to the:",
+    "options": ["A. Binding energy", "B. Charge", "C. Volume", "D. Density"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "A nuclear reactor uses:",
+    "options": ["A. Controlled fission", "B. Uncontrolled fusion", "C. Chemical reactions", "D. Solar energy"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "Radiation hazards can be minimized by:",
+    "options": ["A. Protective clothing", "B. Limiting exposure", "C. Increasing distance", "D. All of the above"],
+    "answer": "D",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "Electron diffraction demonstrates the:",
+    "options": ["A. Wave nature of electrons", "B. Particle nature of electrons", "C. Charge of electrons", "D. Mass of electrons"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "A projectile is an object that is:",
+    "options": ["A. At rest", "B. Thrown into the air", "C. In circular motion", "D. On a straight line"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 327,
+    "question": "The maximum height of a projectile depends on its:",
+    "options": ["A. Initial velocity and angle", "B. Mass", "C. Shape", "D. Color"],
+    "answer": "A",
+    "topic": "Projectile Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "The time of flight of a projectile depends on its:",
+    "options": ["A. Initial vertical velocity", "B. Horizontal velocity", "C. Mass", "D. Density"],
+    "answer": "A",
+    "topic": "Projectile Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A satellite is an object that:",
+    "options": ["A. Orbits a planet", "B. Falls to ground", "C. Escapes gravity", "D. Stays on ground"],
+    "answer": "A",
+    "topic": "Satellites and Rockets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 330,
+    "question": "A geostationary satellite has a period of:",
+    "options": ["A. 1 hour", "B. 24 hours", "C. 1 week", "D. 1 year"],
+    "answer": "B",
+    "topic": "Satellites and Rockets",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "Hooke's law states that extension is proportional to the:",
+    "options": ["A. Applied force", "B. Length", "C. Mass", "D. Temperature"],
+    "answer": "A",
+    "topic": "Elastic Properties of Solids",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "Young's modulus is the ratio of:",
+    "options": ["A. Stress to strain", "B. Strain to stress", "C. Force to area", "D. Extension to length"],
+    "answer": "A",
+    "topic": "Elastic Properties of Solids",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The elastic limit is the point beyond which a material:",
+    "options": ["A. Returns to original shape", "B. Does not return to original shape", "C. Breaks immediately", "D. Melts"],
+    "answer": "B",
+    "topic": "Elastic Properties of Solids",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "A black body is one that:",
+    "options": ["A. Reflects all radiation", "B. Absorbs all radiation", "C. Transmits all radiation", "D. Emits no radiation"],
+    "answer": "B",
+    "topic": "Thermal Conductivity and Black Body Radiation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "Solar energy can be converted directly to electricity using:",
+    "options": ["A. Solar panels", "B. Solar heaters", "C. Wind turbines", "D. Batteries"],
+    "answer": "A",
+    "topic": "Solar Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "question": "Fibre optics works on the principle of:",
+    "options": ["A. Reflection", "B. Refraction", "C. Total internal reflection", "D. Diffraction"],
+    "answer": "C",
+    "topic": "Fibre Optics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "LASER stands for:",
+    "options": ["A. Light Amplification by Stimulated Emission of Radiation", "B. Light Absorption by Stimulated Emission of Radiation", "C. Light Amplification by Spontaneous Emission of Radiation", "D. Light Absorption by Spontaneous Emission of Radiation"],
+    "answer": "A",
+    "topic": "LASER",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "LASER light is:",
+    "options": ["A. Monochromatic", "B. Coherent", "C. Directional", "D. All of the above"],
+    "answer": "D",
+    "topic": "LASER",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "Semiconductors have conductivity:",
+    "options": ["A. Higher than conductors", "B. Lower than conductors but higher than insulators", "C. Lower than insulators", "D. Equal to conductors"],
+    "answer": "B",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "Doping a semiconductor produces:",
+    "options": ["A. Intrinsic semiconductor", "B. Extrinsic semiconductor", "C. Insulator", "D. Conductor"],
+    "answer": "B",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "A p-n junction diode allows current to flow:",
+    "options": ["A. In both directions", "B. In one direction", "C. In neither direction", "D. Only when heated"],
+    "answer": "B",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 342,
+    "question": "A diode can be used for:",
+    "options": ["A. Rectification", "B. Amplification", "C. Oscillation", "D. Modulation"],
+    "answer": "A",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "Full-wave rectification uses:",
+    "options": ["A. One diode", "B. Two diodes", "C. Four diodes", "D. No diodes"],
+    "answer": "C",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 344,
+    "question": "The kinetic theory of matter explains:",
+    "options": ["A. Diffusion", "B. Brownian motion", "C. Gas pressure", "D. All of the above"],
+    "answer": "D",
+    "topic": "Structure of Matter",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 345,
+    "question": "The particle nature of light is demonstrated by the:",
+    "options": ["A. Diffraction", "B. Interference", "C. Photoelectric effect", "D. Polarization"],
+    "answer": "C",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The wave nature of light is demonstrated by:",
+    "options": ["A. Photoelectric effect", "B. Compton scattering", "C. Interference", "D. Blackbody radiation"],
+    "answer": "C",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "The de Broglie wavelength is associated with:",
+    "options": ["A. Light only", "B. Matter particles", "C. Sound waves", "D. Radio waves"],
+    "answer": "B",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "The momentum of a photon is given by:",
+    "options": ["A. h/λ", "B. hλ", "C. hf", "D. h/f"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 349,
+    "question": "The energy of a photon is given by:",
+    "options": ["A. hf", "B. h/λ", "C. hλ", "D. h/f"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "The electron volt is a unit of:",
+    "options": ["A. Charge", "B. Current", "C. Energy", "D. Power"],
+    "answer": "C",
+    "topic": "Structure of the Atom",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "The S.I. unit of magnetic flux is the:",
+    "options": ["A. Tesla", "B. Weber", "C. Henry", "D. Farad"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "The S.I. unit of inductance is the:",
+    "options": ["A. Tesla", "B. Weber", "C. Henry", "D. Farad"],
+    "answer": "C",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "Electromagnetic induction was discovered by:",
+    "options": ["A. Faraday", "B. Newton", "C. Einstein", "D. Bohr"],
+    "answer": "A",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "Faraday's law relates induced e.m.f. to the:",
+    "options": ["A. Rate of change of magnetic flux", "B. Magnetic field strength", "C. Current", "D. Resistance"],
+    "answer": "A",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Lenz's law gives the:",
+    "options": ["A. Magnitude of induced e.m.f.", "B. Direction of induced current", "C. Resistance", "D. Power"],
+    "answer": "B",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A transformer works on the principle of:",
+    "options": ["A. Self-induction", "B. Mutual induction", "C. Electrostatic induction", "D. Magnetic induction"],
+    "answer": "B",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "A step-up transformer:",
+    "options": ["A. Increases voltage", "B. Decreases voltage", "C. Increases current", "D. Decreases power"],
+    "answer": "A",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "A transformer has 100 primary and 500 secondary turns. If primary is 220 V, secondary is:",
+    "options": ["A. 44 V", "B. 110 V", "C. 1100 V", "D. 2200 V"],
+    "answer": "C",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "Eddy currents are reduced by using a:",
+    "options": ["A. Laminated core", "B. Solid core", "C. Higher frequency", "D. Higher voltage"],
+    "answer": "A",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "Power loss in transmission is reduced by:",
+    "options": ["A. Increasing voltage", "B. Decreasing voltage", "C. Increasing current", "D. Decreasing resistance"],
+    "answer": "A",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "In an a.c. circuit, the r.m.s. value of current is the peak value divided by:",
+    "options": ["A. 2", "B. √2", "C. 2√2", "D. 4"],
+    "answer": "B",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "The peak value of a.c. with r.m.s. 10 A is:",
+    "options": ["A. 10 A", "B. 14.14 A", "C. 7.07 A", "D. 20 A"],
+    "answer": "B",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "In a purely resistive a.c. circuit, current and voltage are:",
+    "options": ["A. In phase", "B. 90° out of phase", "C. 180° out of phase", "D. 45° out of phase"],
+    "answer": "A",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "In a purely inductive circuit, current:",
+    "options": ["A. Lags voltage by 90°", "B. Leads voltage by 90°", "C. Is in phase", "D. Leads by 45°"],
+    "answer": "A",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "In a purely capacitive circuit, current:",
+    "options": ["A. Lags voltage by 90°", "B. Leads voltage by 90°", "C. Is in phase", "D. Lags by 45°"],
+    "answer": "B",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "The reactance of an inductor is:",
+    "options": ["A. ωL", "B. 1/ωL", "C. ω/L", "D. L/ω"],
+    "answer": "A",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "The reactance of a capacitor is:",
+    "options": ["A. ωC", "B. 1/ωC", "C. ω/C", "D. C/ω"],
+    "answer": "B",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "Resonance in an a.c. circuit occurs when:",
+    "options": ["A. X_L = X_C", "B. X_L > X_C", "C. X_L < X_C", "D. X_L = 0"],
+    "answer": "A",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "At resonance, the impedance of a series RLC circuit is:",
+    "options": ["A. Maximum", "B. Minimum", "C. Zero", "D. Infinite"],
+    "answer": "B",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 370,
+    "question": "The unit of impedance is the:",
+    "options": ["A. Ohm", "B. Henry", "C. Farad", "D. Tesla"],
+    "answer": "A",
+    "topic": "Simple a.c. Circuits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "A 5 kg body moving at 10 m/s has momentum:",
+    "options": ["A. 2 kg·m/s", "B. 15 kg·m/s", "C. 50 kg·m/s", "D. 500 kg·m/s"],
+    "answer": "C",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "question": "A force of 20 N acts for 5 s. The impulse is:",
+    "options": ["A. 4 Ns", "B. 25 Ns", "C. 100 Ns", "D. 500 Ns"],
+    "answer": "C",
+    "topic": "Newton's Laws of Motion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "question": "A 2 kg body moving at 10 m/s has kinetic energy:",
+    "options": ["A. 10 J", "B. 20 J", "C. 100 J", "D. 200 J"],
+    "answer": "C",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "A machine with VR 4 and efficiency 75% has mechanical advantage:",
+    "options": ["A. 3", "B. 4", "C. 5.33", "D. 0.75"],
+    "answer": "A",
+    "topic": "Machines",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "A 50 kg boy runs up 5 m in 10 s. His power output is (g = 10 m/s²):",
+    "options": ["A. 25 W", "B. 250 W", "C. 2500 W", "D. 5000 W"],
+    "answer": "B",
+    "topic": "Work, Energy and Power",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "A temperature of 300 K in Celsius is:",
+    "options": ["A. 27°C", "B. 300°C", "C. 573°C", "D. 0°C"],
+    "answer": "A",
+    "topic": "Heat Energy",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "A gas at 27°C is heated to 327°C at constant pressure. If initial volume is 2 m³, final is:",
+    "options": ["A. 2 m³", "B. 4 m³", "C. 6 m³", "D. 8 m³"],
+    "answer": "B",
+    "topic": "Gas Laws",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 378,
+    "question": "Heat to raise 5 kg by 20 K (c = 400 J/(kg·K)) is:",
+    "options": ["A. 4000 J", "B. 40000 J", "C. 100000 J", "D. 200000 J"],
+    "answer": "B",
+    "topic": "Heat Capacity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "A wave of speed 300 m/s and wavelength 3 m has frequency:",
+    "options": ["A. 100 Hz", "B. 300 Hz", "C. 900 Hz", "D. 1000 Hz"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "The speed of light in a medium of refractive index 1.5 is:",
+    "options": ["A. 2 × 10⁸ m/s", "B. 3 × 10⁸ m/s", "C. 4.5 × 10⁸ m/s", "D. 1.5 × 10⁸ m/s"],
+    "answer": "A",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "An object 30 cm from a concave mirror of focal length 10 cm has image at:",
+    "options": ["A. 15 cm", "B. 10 cm", "C. 20 cm", "D. 30 cm"],
+    "answer": "A",
+    "topic": "Reflection of Light",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 382,
+    "question": "An object 20 cm from a converging lens of focal length 10 cm has image at:",
+    "options": ["A. 10 cm", "B. 20 cm", "C. 30 cm", "D. 40 cm"],
+    "answer": "B",
+    "topic": "Lenses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 383,
+    "question": "The critical angle for a medium of refractive index 2 is:",
+    "options": ["A. 30°", "B. 45°", "C. 60°", "D. 90°"],
+    "answer": "A",
+    "topic": "Refraction of Light",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 384,
+    "question": "A ray strikes a plane mirror at 30° incidence. The angle of reflection is:",
+    "options": ["A. 15°", "B. 30°", "C. 60°", "D. 90°"],
+    "answer": "B",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 385,
+    "question": "An object at 2F of a converging lens forms an image that is:",
+    "options": ["A. Real, inverted, same size", "B. Real, inverted, magnified", "C. Virtual, erect, magnified", "D. Real, inverted, diminished"],
+    "answer": "A",
+    "topic": "Lenses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "A sound wave of 500 Hz and wavelength 0.68 m has speed:",
+    "options": ["A. 340 m/s", "B. 680 m/s", "C. 170 m/s", "D. 500 m/s"],
+    "answer": "A",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "question": "In a closed pipe, the second harmonic has frequency:",
+    "options": ["A. v/4L", "B. 3v/4L", "C. v/2L", "D. v/L"],
+    "answer": "B",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "The fundamental frequency of an open pipe is 100 Hz. The first overtone is:",
+    "options": ["A. 100 Hz", "B. 200 Hz", "C. 300 Hz", "D. 400 Hz"],
+    "answer": "B",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "The force between 2 μC and 3 μC separated by 0.1 m is (k = 9 × 10⁹):",
+    "options": ["A. 5.4 N", "B. 54 N", "C. 540 N", "D. 5400 N"],
+    "answer": "A",
+    "topic": "Electric Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 390,
+    "question": "The electric field intensity at 0.1 m from 1 μC is:",
+    "options": ["A. 9 × 10⁵ N/C", "B. 9 × 10⁴ N/C", "C. 9 × 10³ N/C", "D. 9 × 10⁶ N/C"],
+    "answer": "A",
+    "topic": "Electric Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "Three resistors 2 Ω, 3 Ω, 6 Ω in parallel have total resistance:",
+    "options": ["A. 1 Ω", "B. 2 Ω", "C. 3 Ω", "D. 6 Ω"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "A current of 2 A flows through 5 Ω for 10 s. The heat produced is:",
+    "options": ["A. 100 J", "B. 200 J", "C. 1000 J", "D. 2000 J"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "A cell of e.m.f. 2 V and internal resistance 0.5 Ω connected to 1.5 Ω gives current:",
+    "options": ["A. 1 A", "B. 2 A", "C. 3 A", "D. 4 A"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "The potential difference across the 1.5 Ω resistor in the above is:",
+    "options": ["A. 1 V", "B. 1.5 V", "C. 2 V", "D. 2.5 V"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "A galvanometer of 10 Ω gives full deflection at 1 mA. To convert to 10 V voltmeter, series resistance is:",
+    "options": ["A. 9990 Ω", "B. 10000 Ω", "C. 999 Ω", "D. 1000 Ω"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 396,
+    "question": "A radioactive element has half-life 10 years. After 30 years, the fraction remaining is:",
+    "options": ["A. 1/2", "B. 1/4", "C. 1/8", "D. 1/16"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "In ²³⁸₉₂U → ²³⁴₉₀Th + X, X is:",
+    "options": ["A. Alpha particle", "B. Beta particle", "C. Gamma ray", "D. Neutron"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "An atom has mass number 23 and atomic number 11. The number of neutrons is:",
+    "options": ["A. 11", "B. 12", "C. 23", "D. 34"],
+    "answer": "B",
+    "topic": "Structure of the Nucleus",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "The work function of a metal is 2 eV. The threshold frequency is (h = 6.6 × 10⁻³⁴):",
+    "options": ["A. 4.8 × 10¹⁴ Hz", "B. 4.8 × 10¹⁵ Hz", "C. 3.2 × 10¹⁴ Hz", "D. 3.2 × 10¹⁵ Hz"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 400,
+    "question": "A photon has energy 3.3 × 10⁻¹⁹ J. Its frequency is:",
+    "options": ["A. 5 × 10¹⁴ Hz", "B. 5 × 10¹⁵ Hz", "C. 2 × 10¹⁴ Hz", "D. 2 × 10¹⁵ Hz"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 401,
+    "question": "The escape velocity from earth is independent of the:",
+    "options": ["A. Mass of the body", "B. Mass of the earth", "C. Radius of the earth", "D. Gravitational constant"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 402,
+    "question": "The gravitational potential at distance r from mass M is:",
+    "options": ["A. -GM/r", "B. GM/r", "C. -GM/r²", "D. GM/r²"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 403,
+    "question": "A satellite at height h has orbital speed:",
+    "options": ["A. √(GM/(R+h))", "B. √(GM/(R+h)²)", "C. √(2GM/(R+h))", "D. √(GM/(R-h))"],
+    "answer": "A",
+    "topic": "Satellites and Rockets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 404,
+    "question": "The period of a satellite in orbit of radius r is:",
+    "options": ["A. 2π√(r³/GM)", "B. 2π√(r/GM)", "C. 2π√(GM/r³)", "D. 2π√(GM/r)"],
+    "answer": "A",
+    "topic": "Satellites and Rockets",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 405,
+    "question": "A geostationary satellite must orbit in the:",
+    "options": ["A. Equatorial plane", "B. Polar plane", "C. Any inclination", "D. Low altitude"],
+    "answer": "A",
+    "topic": "Satellites and Rockets",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "The magnetic force on charge q at velocity v in field B at angle θ is:",
+    "options": ["A. qvB sin θ", "B. qvB cos θ", "C. qv/B sin θ", "D. qB/v sin θ"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "The force on a current-carrying conductor in a magnetic field is:",
+    "options": ["A. Parallel to the field", "B. Perpendicular to field and current", "C. Parallel to current", "D. Zero always"],
+    "answer": "B",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "The direction of force on a current-carrying conductor in a magnetic field is given by:",
+    "options": ["A. Fleming's left-hand rule", "B. Fleming's right-hand rule", "C. Right-hand grip rule", "D. Lenz's law"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "The magnetic flux density at the center of a coil of radius r, N turns, current I is:",
+    "options": ["A. μ₀NI/(2r)", "B. μ₀NI/r", "C. μ₀I/(2rN)", "D. μ₀NIr"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 410,
+    "question": "The magnetic field inside a solenoid of length L, N turns, current I is:",
+    "options": ["A. μ₀NI/L", "B. μ₀N/L", "C. μ₀NI", "D. μ₀I/N"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 411,
+    "question": "A step-down transformer is used in:",
+    "options": ["A. Power transmission", "B. Battery charging", "C. Radio sets", "D. Electric motors"],
+    "answer": "C",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "The efficiency of a transformer is affected by:",
+    "options": ["A. Copper losses", "B. Eddy current losses", "C. Hysteresis losses", "D. All of the above"],
+    "answer": "D",
+    "topic": "Electromagnetic Field",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 413,
+    "question": "The unit of magnetic flux is the:",
+    "options": ["A. Weber", "B. Tesla", "C. Henry", "D. Farad"],
+    "answer": "A",
+    "topic": "Magnetic Field",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "A 10 μF capacitor charged to 100 V stores energy:",
+    "options": ["A. 0.05 J", "B. 0.1 J", "C. 0.5 J", "D. 1 J"],
+    "answer": "A",
+    "topic": "Capacitance",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "Three 3 μF capacitors in series have total capacitance:",
+    "options": ["A. 1 μF", "B. 3 μF", "C. 9 μF", "D. 6 μF"],
+    "answer": "A",
+    "topic": "Capacitance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "The resistivity of a material depends on its:",
+    "options": ["A. Length", "B. Cross-sectional area", "C. Temperature", "D. Shape"],
+    "answer": "C",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "A wire of resistance R is stretched to twice its length. Its new resistance is:",
+    "options": ["A. R/2", "B. R", "C. 2R", "D. 4R"],
+    "answer": "D",
+    "topic": "Current Electricity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 418,
+    "question": "The resistance of a conductor increases with:",
+    "options": ["A. Increase in temperature", "B. Decrease in temperature", "C. Increase in area", "D. Decrease in length"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 419,
+    "question": "A battery of e.m.f. 6 V and internal resistance 1 Ω connected to 2 Ω has terminal voltage:",
+    "options": ["A. 2 V", "B. 4 V", "C. 6 V", "D. 8 V"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "A current of 0.5 A flows for 2 minutes. The charge is:",
+    "options": ["A. 1 C", "B. 30 C", "C. 60 C", "D. 120 C"],
+    "answer": "C",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 421,
+    "question": "The power dissipated in 10 Ω carrying 2 A is:",
+    "options": ["A. 20 W", "B. 40 W", "C. 80 W", "D. 100 W"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "Five 60 W bulbs used 4 hours daily for 30 days consume:",
+    "options": ["A. 3.6 kWh", "B. 36 kWh", "C. 360 kWh", "D. 3600 kWh"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "A fuse is used to:",
+    "options": ["A. Increase current", "B. Protect from overcurrent", "C. Increase voltage", "D. Decrease resistance"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "The earth wire in a plug is for:",
+    "options": ["A. Carrying current", "B. Safety", "C. Increasing power", "D. Reducing voltage"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 425,
+    "question": "The live wire in domestic circuit is:",
+    "options": ["A. Brown", "B. Blue", "C. Green", "D. Yellow"],
+    "answer": "A",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "The neutral wire in domestic circuit is:",
+    "options": ["A. Brown", "B. Blue", "C. Green", "D. Yellow"],
+    "answer": "B",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "The earth wire in domestic circuit is:",
+    "options": ["A. Brown", "B. Blue", "C. Green/Yellow", "D. Red"],
+    "answer": "C",
+    "topic": "Current Electricity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 428,
+    "question": "A 2 kg body dropped from 45 m has velocity just before impact (g = 10):",
+    "options": ["A. 10 m/s", "B. 20 m/s", "C. 30 m/s", "D. 45 m/s"],
+    "answer": "C",
+    "topic": "Motion under Gravity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "A stone thrown horizontally at 10 m/s from 20 m has time of flight (g = 10):",
+    "options": ["A. 1 s", "B. 2 s", "C. 3 s", "D. 4 s"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "The range of the stone in the above is:",
+    "options": ["A. 10 m", "B. 20 m", "C. 30 m", "D. 40 m"],
+    "answer": "B",
+    "topic": "Projectile Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "A body moves in a circle of radius 7 m at 22 m/s. Its centripetal acceleration is:",
+    "options": ["A. 22 m/s²", "B. 44 m/s²", "C. 69.1 m/s²", "D. 154 m/s²"],
+    "answer": "C",
+    "topic": "Circular Motion",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 432,
+    "question": "The period of a simple pendulum of length 1 m is (g = 10):",
+    "options": ["A. 1.0 s", "B. 2.0 s", "C. 3.14 s", "D. 6.28 s"],
+    "answer": "B",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "A spring of force constant 100 N/m stretched by 0.1 m stores energy:",
+    "options": ["A. 0.5 J", "B. 1 J", "C. 5 J", "D. 10 J"],
+    "answer": "A",
+    "topic": "Simple Harmonic Motion",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "The acceleration due to gravity at height equal to earth's radius is (g = 10):",
+    "options": ["A. 2.5 m/s²", "B. 5 m/s²", "C. 10 m/s²", "D. 20 m/s²"],
+    "answer": "A",
+    "topic": "Gravitational Field",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 435,
+    "question": "The weight of 10 kg on moon (g = 1.6) is:",
+    "options": ["A. 16 N", "B. 10 N", "C. 100 N", "D. 1.6 N"],
+    "answer": "A",
+    "topic": "Mass and Weight",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 436,
+    "question": "A substance of density 800 kg/m³ has relative density:",
+    "options": ["A. 0.8", "B. 8", "C. 80", "D. 800"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "A body weighs 60 N in air and 40 N in water. The upthrust is:",
+    "options": ["A. 20 N", "B. 40 N", "C. 60 N", "D. 100 N"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 438,
+    "question": "The pressure at 5 m depth in water (ρ = 1000, g = 10) is:",
+    "options": ["A. 5000 Pa", "B. 10000 Pa", "C. 50000 Pa", "D. 100000 Pa"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "Atmospheric pressure is equivalent to a mercury column of:",
+    "options": ["A. 76 cm", "B. 76 mm", "C. 760 cm", "D. 7.6 m"],
+    "answer": "A",
+    "topic": "Fluid at Rest",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 440,
+    "question": "A hydraulic press has areas 0.01 m² and 0.1 m². Force 100 N on small gives force on large:",
+    "options": ["A. 10 N", "B. 100 N", "C. 1000 N", "D. 10000 N"],
+    "answer": "C",
+    "topic": "Fluid at Rest",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "Gas at 2 × 10⁵ Pa and 0.02 m³ compressed to 0.01 m³ at constant T has pressure:",
+    "options": ["A. 1 × 10⁵ Pa", "B. 2 × 10⁵ Pa", "C. 4 × 10⁵ Pa", "D. 8 × 10⁵ Pa"],
+    "answer": "C",
+    "topic": "Gas Laws",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "A gas at 300 K has volume 0.5 m³. At what T is volume 1.0 m³ at constant P?",
+    "options": ["A. 150 K", "B. 300 K", "C. 600 K", "D. 900 K"],
+    "answer": "C",
+    "topic": "Gas Laws",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "Heat to melt 2 kg ice (L = 3.34 × 10⁵ J/kg) is:",
+    "options": ["A. 3.34 × 10⁵ J", "B. 6.68 × 10⁵ J", "C. 1.67 × 10⁵ J", "D. 6.68 × 10⁴ J"],
+    "answer": "B",
+    "topic": "Latent Heat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "Heat to convert 1 kg water at 100°C to steam (L = 2.26 × 10⁶ J/kg) is:",
+    "options": ["A. 2.26 × 10⁶ J", "B. 4.52 × 10⁶ J", "C. 2.26 × 10⁵ J", "D. 4.52 × 10⁵ J"],
+    "answer": "A",
+    "topic": "Latent Heat",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "A 0.5 kg metal at 100°C in 0.2 kg water at 20°C reaches 30°C. Specific heat of metal is (c_water = 4200):",
+    "options": ["A. 240 J/(kg·K)", "B. 480 J/(kg·K)", "C. 720 J/(kg·K)", "D. 960 J/(kg·K)"],
+    "answer": "A",
+    "topic": "Heat Capacity",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 446,
+    "question": "Relative humidity is 60% at 30°C. If saturated vapour pressure is 4.2 × 10³ Pa, actual is:",
+    "options": ["A. 2.52 × 10³ Pa", "B. 4.2 × 10³ Pa", "C. 1.68 × 10³ Pa", "D. 7.0 × 10³ Pa"],
+    "answer": "A",
+    "topic": "Humidity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "Dew point is the temperature at which air:",
+    "options": ["A. Becomes saturated", "B. Boils", "C. Freezes", "D. Expands"],
+    "answer": "A",
+    "topic": "Humidity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "A wave of frequency 20 Hz has period:",
+    "options": ["A. 0.05 s", "B. 0.2 s", "C. 5 s", "D. 20 s"],
+    "answer": "A",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "Distance between consecutive crests is 0.5 m. Wavelength is:",
+    "options": ["A. 0.25 m", "B. 0.5 m", "C. 1.0 m", "D. 2.0 m"],
+    "answer": "B",
+    "topic": "Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 450,
+    "question": "A 1000 Hz sound travels at 340 m/s. Wavelength is:",
+    "options": ["A. 0.34 m", "B. 0.68 m", "C. 1.0 m", "D. 3.4 m"],
+    "answer": "A",
+    "topic": "Sound Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "Echo heard after 0.5 s. If speed of sound is 340 m/s, distance to reflector is:",
+    "options": ["A. 85 m", "B. 170 m", "C. 340 m", "D. 680 m"],
+    "answer": "A",
+    "topic": "Sound Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Fundamental frequency of closed pipe of 0.5 m (v = 340) is:",
+    "options": ["A. 170 Hz", "B. 340 Hz", "C. 680 Hz", "D. 85 Hz"],
+    "answer": "A",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "Fundamental frequency of open pipe of 0.5 m (v = 340) is:",
+    "options": ["A. 170 Hz", "B. 340 Hz", "C. 680 Hz", "D. 85 Hz"],
+    "answer": "B",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "The speed of sound in a gas is proportional to the square root of its:",
+    "options": ["A. Pressure", "B. Density", "C. Temperature", "D. Volume"],
+    "answer": "C",
+    "topic": "Sound Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "The pitch of a vibrating string can be increased by:",
+    "options": ["A. Increasing length", "B. Decreasing tension", "C. Increasing tension", "D. Increasing mass per length"],
+    "answer": "C",
+    "topic": "Vibration in Strings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "The quality of a musical note is determined by its:",
+    "options": ["A. Fundamental frequency", "B. Harmonics", "C. Amplitude", "D. Speed"],
+    "answer": "B",
+    "topic": "Sound Waves",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "A resonance tube is used to measure the:",
+    "options": ["A. Frequency of a tuning fork", "B. Speed of light", "C. Wavelength of light", "D. Refractive index"],
+    "answer": "A",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The end correction in a resonance tube is given by:",
+    "options": ["A. (l₂ - 3l₁)/2", "B. (l₂ - l₁)/2", "C. (l₁ - l₂)/2", "D. (l₂ + l₁)/2"],
+    "answer": "A",
+    "topic": "Vibration of Air in Pipes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 459,
+    "question": "The image formed by a plane mirror is always:",
+    "options": ["A. Real", "B. Virtual", "C. Inverted", "D. Magnified"],
+    "answer": "B",
+    "topic": "Reflection of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "The angle of deviation of a ray through a prism depends on:",
+    "options": ["A. Angle of incidence", "B. Angle of prism", "C. Refractive index", "D. All of the above"],
+    "answer": "D",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "The minimum deviation for prism angle A and refractive index μ is:",
+    "options": ["A. μ = sin((A+D_m)/2)/sin(A/2)", "B. μ = sin(A/2)/sin((A+D_m)/2)", "C. μ = sin(A)/sin(D_m)", "D. μ = sin(D_m)/sin(A)"],
+    "answer": "A",
+    "topic": "Refraction of Light",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 462,
+    "question": "A mirage is caused by:",
+    "options": ["A. Total internal reflection", "B. Refraction in air of varying density", "C. Diffraction", "D. Interference"],
+    "answer": "B",
+    "topic": "Refraction of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "A periscope uses:",
+    "options": ["A. Two plane mirrors", "B. Two convex lenses", "C. Two concave mirrors", "D. One plane mirror"],
+    "answer": "A",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "Optical fibres are used in:",
+    "options": ["A. Communication", "B. Medicine", "C. Sensing devices", "D. All of the above"],
+    "answer": "D",
+    "topic": "Fibre Optics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 465,
+    "question": "The camera and human eye both use:",
+    "options": ["A. Convex lenses", "B. Concave lenses", "C. Plane mirrors", "D. Prisms"],
+    "answer": "A",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "The part of the eye controlling light entering is the:",
+    "options": ["A. Cornea", "B. Iris", "C. Retina", "D. Optic nerve"],
+    "answer": "B",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 467,
+    "question": "The part of the eye that focuses light is the:",
+    "options": ["A. Cornea and lens", "B. Retina", "C. Iris", "D. Sclera"],
+    "answer": "A",
+    "topic": "Optical Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 468,
+    "question": "Presbyopia is corrected using:",
+    "options": ["A. Convex lenses", "B. Concave lenses", "C. Bifocal lenses", "D. Cylindrical lenses"],
+    "answer": "C",
+    "topic": "Optical Instruments",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "The color of an object is determined by the:",
+    "options": ["A. Color of light it reflects", "B. Color of light it absorbs", "C. Color of light it transmits", "D. All of the above"],
+    "answer": "A",
+    "topic": "Dispersion of Light",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "White light through a prism splits into:",
+    "options": ["A. Seven colors", "B. Two colors", "C. Three colors", "D. Five colors"],
+    "answer": "A",
+    "topic": "Dispersion of Light",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 471,
+    "question": "Recombination of the spectrum can be demonstrated using:",
+    "options": ["A. A prism and lens", "B. Two prisms", "C. A plane mirror", "D. A concave mirror"],
+    "answer": "B",
+    "topic": "Dispersion of Light",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 472,
+    "question": "The electromagnetic spectrum includes:",
+    "options": ["A. Radio waves", "B. X-rays", "C. Gamma rays", "D. All of the above"],
+    "answer": "D",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 473,
+    "question": "The electromagnetic wave with highest frequency is:",
+    "options": ["A. Radio waves", "B. Infrared", "C. Visible light", "D. Gamma rays"],
+    "answer": "D",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "The electromagnetic wave used in radar is:",
+    "options": ["A. Microwaves", "B. Infrared", "C. Ultraviolet", "D. X-rays"],
+    "answer": "A",
+    "topic": "Electromagnetic Waves",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 475,
+    "question": "The energy of a photon of frequency f is:",
+    "options": ["A. hf", "B. h/f", "C. f/h", "D. hf²"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 476,
+    "question": "The momentum of a photon of wavelength λ is:",
+    "options": ["A. h/λ", "B. hλ", "C. λ/h", "D. h/λ²"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "The de Broglie wavelength of a particle of mass m and velocity v is:",
+    "options": ["A. h/(mv)", "B. mv/h", "C. hmv", "D. h/m"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "Electron diffraction demonstrates the:",
+    "options": ["A. Wave nature of electrons", "B. Particle nature of electrons", "C. Charge of electrons", "D. Mass of electrons"],
+    "answer": "A",
+    "topic": "Wave-Particle Paradox",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "The photoelectric effect demonstrates the:",
+    "options": ["A. Wave nature of light", "B. Particle nature of light", "C. Dual nature of light", "D. Neither wave nor particle"],
+    "answer": "B",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "Threshold frequency 5 × 10¹⁴ Hz. Work function is (h = 6.6 × 10⁻³⁴):",
+    "options": ["A. 3.3 × 10⁻¹⁹ J", "B. 6.6 × 10⁻¹⁹ J", "C. 1.32 × 10⁻¹⁸ J", "D. 3.3 × 10⁻¹⁸ J"],
+    "answer": "A",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 481,
+    "question": "Photon of 5 eV strikes metal of work function 2 eV. Max kinetic energy is:",
+    "options": ["A. 2 eV", "B. 3 eV", "C. 5 eV", "D. 7 eV"],
+    "answer": "B",
+    "topic": "Photoelectric Effect",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "The energy equivalent of 1 kg of mass is:",
+    "options": ["A. 3 × 10⁸ J", "B. 9 × 10¹⁶ J", "C. 9 × 10⁸ J", "D. 3 × 10¹⁶ J"],
+    "answer": "B",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "The binding energy of a nucleus is the energy required to:",
+    "options": ["A. Split nucleus into nucleons", "B. Join nucleons", "C. Remove an electron", "D. Add a neutron"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "The mass defect is related to binding energy by:",
+    "options": ["A. E = Δmc²", "B. E = Δm/c²", "C. E = Δm × c", "D. E = Δm²c"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "In a nuclear reactor, the moderator is used to:",
+    "options": ["A. Slow down neutrons", "B. Speed up neutrons", "C. Absorb neutrons", "D. Produce neutrons"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "The control rods in a nuclear reactor are made of:",
+    "options": ["A. Cadmium or boron", "B. Uranium", "C. Plutonium", "D. Graphite"],
+    "answer": "A",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "The main source of energy in the sun is:",
+    "options": ["A. Nuclear fission", "B. Nuclear fusion", "C. Chemical reaction", "D. Gravitational collapse"],
+    "answer": "B",
+    "topic": "Nuclear Reactions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 488,
+    "question": "The radiation that is least penetrating is:",
+    "options": ["A. Alpha particles", "B. Beta particles", "C. Gamma rays", "D. X-rays"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "The radiation that is most penetrating is:",
+    "options": ["A. Alpha particles", "B. Beta particles", "C. Gamma rays", "D. X-rays"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 490,
+    "question": "A radioactive substance has half-life 4 days. After 12 days, fraction remaining is:",
+    "options": ["A. 1/2", "B. 1/4", "C. 1/8", "D. 1/16"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "A source has activity 800 Bq. After 2 half-lives, activity is:",
+    "options": ["A. 400 Bq", "B. 200 Bq", "C. 100 Bq", "D. 50 Bq"],
+    "answer": "B",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "The radiation not deflected by a magnetic field is:",
+    "options": ["A. Alpha particles", "B. Beta particles", "C. Gamma rays", "D. Protons"],
+    "answer": "C",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 493,
+    "question": "The isotope used in cancer treatment is:",
+    "options": ["A. Cobalt-60", "B. Carbon-14", "C. Uranium-235", "D. Iodine-131"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "Carbon-14 is used for:",
+    "options": ["A. Dating archaeological specimens", "B. Treating cancer", "C. Generating electricity", "D. Producing X-rays"],
+    "answer": "A",
+    "topic": "Radioactivity",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "A semiconductor diode conducts when it is:",
+    "options": ["A. Forward biased", "B. Reverse biased", "C. Neither biased", "D. Heated"],
+    "answer": "A",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "The depletion layer in a p-n junction is a region with:",
+    "options": ["A. No mobile charge carriers", "B. Many charge carriers", "C. High conductivity", "D. Low resistance"],
+    "answer": "A",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 497,
+    "question": "A transistor is used as an:",
+    "options": ["A. Amplifier", "B. Rectifier", "C. Oscillator", "D. Transformer"],
+    "answer": "A",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The output of a full-wave rectifier is:",
+    "options": ["A. Pulsating d.c.", "B. Pure d.c.", "C. Pure a.c.", "D. Pulsating a.c."],
+    "answer": "A",
+    "topic": "Electrical Conduction through Materials",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "LASER produces light that is:",
+    "options": ["A. Monochromatic, coherent and directional", "B. Polychromatic, incoherent and diffuse", "C. Monochromatic, incoherent and directional", "D. Polychromatic, coherent and diffuse"],
+    "answer": "A",
+    "topic": "LASER",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Fibre optics works on the principle of:",
+    "options": ["A. Total internal reflection", "B. Refraction", "C. Diffraction", "D. Interference"],
+    "answer": "A",
+    "topic": "Fibre Optics",
+    "difficulty": "Easy"
+  }
+]

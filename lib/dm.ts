@@ -19,6 +19,7 @@ import {
 } from "firebase/firestore"
 import { db } from "./firebase"
 import { ADMIN_EMAIL } from "./constants"
+import { dispatchPushNotification } from "./fcm-client"
 
 export interface DirectChat {
   id: string
@@ -163,19 +164,14 @@ export async function sendDM(
       updateData[`unreadCount.${recipientUid}`] = increment(1)
       updateData[`removedBy.${recipientUid}`] = false
 
-      // Dispatch Web Push Notification asynchronously (like WhatsApp Web)
-      fetch("/api/send-notification", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          type: "dm",
-          senderUid,
-          senderName: displayName,
-          text: trimmed,
-          chatId,
-          recipientUid,
-        }),
-      }).catch((err) => console.warn("[Push] Failed to trigger DM notification:", err))
+      // Dispatch authenticated Web Push Notification asynchronously
+      dispatchPushNotification({
+        type: "dm",
+        senderName: displayName,
+        text: trimmed,
+        chatId,
+        recipientUid,
+      })
     }
 
     await updateDoc(chatRef, updateData)
@@ -292,7 +288,7 @@ export async function sendWeb3FormsNotification(
           "${reason || "No specific reason provided."}"
 
           SYSTEM ADVICE:
-          Please sign in to the Admin Dashboard under 'Safety Reports' to review this user's profile and take action (e.g., Ban User, Send Warning email).
+          Please sign in to the Admin Dashboard under 'Safety Reports' to review this user's profile and take action.
         `,
       }),
     })

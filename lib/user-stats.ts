@@ -13,6 +13,7 @@ import {
   limit,
   getDocs,
   onSnapshot,
+  arrayUnion,
   type Unsubscribe,
 } from "firebase/firestore"
 import { db } from "./firebase"
@@ -866,6 +867,7 @@ export async function saveUserFCMToken(uid: string, token: string): Promise<void
   try {
     await updateDoc(ref, {
       fcmToken: token,
+      fcmTokens: arrayUnion(token),
       updatedAt: serverTimestamp(),
     })
     if (typeof window !== "undefined") {

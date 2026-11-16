@@ -2,7 +2,12 @@
 
 import { useState } from "react"
 import { ArrowLeft, AlertCircle } from "lucide-react"
-import { SSS_SUBJECTS, isSSSSubjectAvailable, type SSSSubjectKey } from "@/lib/sss-config"
+import {
+  SSS_SUBJECTS,
+  getAvailableObjectiveExamLabels,
+  isSSSSubjectAvailable,
+  type SSSSubjectKey,
+} from "@/lib/sss-config"
 
 const LetterIcon = ({ letter }: { letter: string }) => (
   <span className="font-bold text-base leading-none tracking-tight select-none">
@@ -61,7 +66,7 @@ export function SSSSubjectPicker({ onSelect, onBack }: SSSSubjectPickerProps) {
               Solid Q Mode • SSS
             </p>
             <h1 className="text-xl font-bold text-foreground line-clamp-1">
-              Choose a Subject ({SSS_SUBJECTS.length})
+              Choose a Subject
             </h1>
           </div>
         </div>
@@ -80,6 +85,7 @@ export function SSSSubjectPicker({ onSelect, onBack }: SSSSubjectPickerProps) {
       <div className="px-5 space-y-3 lg:grid lg:grid-cols-2 lg:gap-4 lg:space-y-0 max-w-2xl mx-auto w-full">
         {SSS_SUBJECTS.map((subject) => {
           const available = isSSSSubjectAvailable(subject.key)
+          const examLabels = getAvailableObjectiveExamLabels(subject.key)
           return (
             <button
               key={subject.key}
@@ -102,7 +108,7 @@ export function SSSSubjectPicker({ onSelect, onBack }: SSSSubjectPickerProps) {
               <div className="text-left flex-1">
                 <p className="font-semibold text-foreground">{subject.name}</p>
                 <p className="text-xs text-muted-foreground mt-0.5">
-                  {available ? "NECO • Objective" : "Coming Soon"}
+                  {available ? examLabels.join(" • ") : "Coming Soon"}
                 </p>
               </div>
               <ArrowLeft className="w-4 h-4 text-muted-foreground rotate-180" />

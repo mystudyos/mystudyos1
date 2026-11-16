@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "In Shakespeare's Antony and Cleopatra, who is the Roman general who falls in love with the Queen of Egypt?",
+    "options": [
+      "A. Octavius Caesar",
+      "B. Mark Antony",
+      "C. Lepidus",
+      "D. Pompey"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The play Antony and Cleopatra is set mainly in Rome and which other city?",
+    "options": [
+      "A. Athens",
+      "B. Jerusalem",
+      "C. Alexandria",
+      "D. Damascus"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which Roman emperor declares war on Antony and Cleopatra?",
+    "options": [
+      "A. Julius Caesar",
+      "B. Augustus",
+      "C. Tiberius",
+      "D. Octavius Caesar"
+    ],
+    "answer": "D",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "Who is the loyal friend of Antony who eventually deserts him?",
+    "options": [
+      "A. Enobarbus",
+      "B. Eros",
+      "C. Alexas",
+      "D. Mardian"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Cleopatra is the Queen of which country?",
+    "options": [
+      "A. Rome",
+      "B. Greece",
+      "C. Egypt",
+      "D. Syria"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of Antony's Roman wife who dies early in the play?",
+    "options": [
+      "A. Octavia",
+      "B. Fulvia",
+      "C. Valeria",
+      "D. Portia"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Antony marries Octavius Caesar's sister. What is her name?",
+    "options": [
+      "A. Octavia",
+      "B. Fulvia",
+      "C. Cleopatra",
+      "D. Charmian"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "Who is the messenger that brings news of Antony's marriage to Cleopatra?",
+    "options": [
+      "A. Alexas",
+      "B. Thyreus",
+      "C. Eros",
+      "D. Mardian"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "The battle of Actium is fought between Antony's forces and those of whom?",
+    "options": [
+      "A. Pompey",
+      "B. Lepidus",
+      "C. Brutus",
+      "D. Octavius"
+    ],
+    "answer": "D",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "What famous speech does Enobarbus make about Cleopatra's barge?",
+    "options": [
+      "A. The barge she sat in, like a burnish'd throne",
+      "B. Friends, Romans, countrymen",
+      "C. To be or not to be",
+      "D. Uneasy lies the head that wears a crown"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 11,
+    "question": "How does Cleopatra die at the end of the play?",
+    "options": [
+      "A. By the sword",
+      "B. By the asp's bite",
+      "C. By poison",
+      "D. By drowning"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Who is the author of So the Path Does not Die?",
+    "options": [
+      "A. Elma Shaw",
+      "B. Bosede Ademilua-Afolayan",
+      "C. Pede Hollist",
+      "D. Efua Sutherland"
+    ],
+    "answer": "C",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the protagonist in So the Path Does not Die?",
+    "options": [
+      "A. Fina",
+      "B. Baramusu",
+      "C. Cammy",
+      "D. Kizzy"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "Fina flees to which country to escape the ritual of female genital mutilation?",
+    "options": [
+      "A. Nigeria",
+      "B. Sierra Leone",
+      "C. Ghana",
+      "D. Liberia"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "Who is Fina's grandmother in the novel?",
+    "options": [
+      "A. Cammy",
+      "B. Aman",
+      "C. Baramusu",
+      "D. Kizzy"
+    ],
+    "answer": "C",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "What is the main theme explored in So the Path Does not Die?",
+    "options": [
+      "A. The joy of war",
+      "B. Female genital mutilation and tradition",
+      "C. The benefits of colonialism",
+      "D. Wealth accumulation"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "Which country does Fina eventually migrate to?",
+    "options": [
+      "A. United Kingdom",
+      "B. United States",
+      "C. Canada",
+      "D. France"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Who is the author of Redemption Road?",
+    "options": [
+      "A. Elma Shaw",
+      "B. Pede Hollist",
+      "C. S.O.H. Afriyie-Vidza",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the protagonist in Redemption Road?",
+    "options": [
+      "A. Fina",
+      "B. Anansewa",
+      "C. Bendu Lewis",
+      "D. Eva Smith"
+    ],
+    "answer": "C",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Redemption Road is set in which West African country?",
+    "options": [
+      "A. Liberia",
+      "B. Nigeria",
+      "C. Ghana",
+      "D. Sierra Leone"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "Who is the author of To Kill a Mockingbird?",
+    "options": [
+      "A. Harper Lee",
+      "B. Maya Angelou",
+      "C. Susanne Bellefeuille",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Who is the narrator of To Kill a Mockingbird?",
+    "options": [
+      "A. Jem Finch",
+      "B. Atticus Finch",
+      "C. Boo Radley",
+      "D. Scout Finch"
+    ],
+    "answer": "D",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "question": "Atticus Finch is a lawyer who defends which character?",
+    "options": [
+      "A. Bob Ewell",
+      "B. Tom Robinson",
+      "C. Boo Radley",
+      "D. Heck Tate"
+    ],
+    "answer": "B",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the reclusive neighbor in To Kill a Mockingbird?",
+    "options": [
+      "A. Miss Maudie",
+      "B. Calpurnia",
+      "C. Boo Radley",
+      "D. Dill"
+    ],
+    "answer": "C",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Who is the author of Path of Lucas: The Journey He Endured?",
+    "options": [
+      "A. Harper Lee",
+      "B. Susanne Bellefeuille",
+      "C. Elma Shaw",
+      "D. Pede Hollist"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "What central challenge does Lucas face in the novel?",
+    "options": [
+      "A. Poverty",
+      "B. A developmental disability",
+      "C. Blindness",
+      "D. Orphanhood"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Who is the author of Once Upon an Elephant?",
+    "options": [
+      "A. Efua Sutherland",
+      "B. Bosede Ademilua-Afolayan",
+      "C. J.D. Priestley",
+      "D. Robert Bolt"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "In Once Upon an Elephant, who is the female protagonist?",
+    "options": [
+      "A. Anansewa",
+      "B. Cleopatra",
+      "C. Erelu",
+      "D. Sheila"
+    ],
+    "answer": "C",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Who is the author of The Marriage of Anansewa?",
+    "options": [
+      "A. Efua Sutherland",
+      "B. Bosede Ademilua-Afolayan",
+      "C. Wole Soyinka",
+      "D. Niyi Osundare"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "In The Marriage of Anansewa, who is the trickster father?",
+    "options": [
+      "A. Chief-Who-Is-Chief",
+      "B. Ananse",
+      "C. Storyteller",
+      "D. George"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "Who is the author of An Inspector Calls?",
+    "options": [
+      "A. Robert Bolt",
+      "B. J.D. Priestley",
+      "C. William Shakespeare",
+      "D. Geoffrey Chaucer"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "Who is the mysterious inspector who visits the Birling family?",
+    "options": [
+      "A. Inspector Goole",
+      "B. Inspector Javert",
+      "C. Inspector Morse",
+      "D. Inspector Clouseau"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the girl whose death is investigated in An Inspector Calls?",
+    "options": [
+      "A. Daisy Renton",
+      "B. Eva Smith",
+      "C. Sybil Birling",
+      "D. Sheila Birling"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Who is the author of A Man for All Seasons?",
+    "options": [
+      "A. J.D. Priestley",
+      "B. Robert Bolt",
+      "C. Seamus Heaney",
+      "D. Lord Byron"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "Who is the central character in A Man for All Seasons?",
+    "options": [
+      "A. Thomas Cromwell",
+      "B. King Henry VIII",
+      "C. Sir Thomas More",
+      "D. Richard Rich"
+    ],
+    "answer": "C",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Who is the author of the poem Once Upon a Time?",
+    "options": [
+      "A. Gabriel Okara",
+      "B. Wole Soyinka",
+      "C. Niyi Osundare",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "In Once Upon a Time, what does the speaker want to unlearn?",
+    "options": [
+      "A. How to read and write",
+      "B. The muting things of adulthood",
+      "C. The language of his ancestors",
+      "D. How to dance"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "What metaphor does the speaker use to describe his many faces?",
+    "options": [
+      "A. Like masks",
+      "B. Like dresses",
+      "C. Like hats",
+      "D. Like shields"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Who is the author of the poem New Tongue?",
+    "options": [
+      "A. Elizabeth L. A. Kamara",
+      "B. S.O.H. Afriyie-Vidza",
+      "C. Syl Cheney-Coker",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "What is the central theme of the poem New Tongue?",
+    "options": [
+      "A. The joy of learning a new language",
+      "B. The loss of cultural identity",
+      "C. The beauty of nature",
+      "D. The pain of unrequited love"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Who is the author of the poem Night?",
+    "options": [
+      "A. Niyi Osundare",
+      "B. Gabriel Okara",
+      "C. Wole Soyinka",
+      "D. Lord Byron"
+    ],
+    "answer": "C",
+    "topic": "Night",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "In Night, how is the night personified?",
+    "options": [
+      "A. As a gentle mother",
+      "B. As a heavy-handed woman",
+      "C. As a playful child",
+      "D. As a wise old man"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Who is the author of the poem Not my Business?",
+    "options": [
+      "A. Niyi Osundare",
+      "B. Wole Soyinka",
+      "C. Gabriel Okara",
+      "D. Syl Cheney-Coker"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "In Not my Business, what does the speaker refuse to give up?",
+    "options": [
+      "A. His freedom",
+      "B. His yam",
+      "C. His family",
+      "D. His house"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Who is the author of the poem Hearty Garlands?",
+    "options": [
+      "A. Elizabeth L. A. Kamara",
+      "B. Syl Cheney-Coker",
+      "C. S.O.H. Afriyie-Vidza",
+      "D. Niyi Osundare"
+    ],
+    "answer": "C",
+    "topic": "Hearty Garlands",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "question": "What occasion is celebrated in Hearty Garlands?",
+    "options": [
+      "A. A wedding",
+      "B. A funeral",
+      "C. A graduation",
+      "D. An 85th birthday"
+    ],
+    "answer": "D",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "Who is the author of the poem The Breast of the Sea?",
+    "options": [
+      "A. Syl Cheney-Coker",
+      "B. Wole Soyinka",
+      "C. Maya Angelou",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "Which historical event is referenced in The Breast of the Sea?",
+    "options": [
+      "A. The Middle Passage",
+      "B. The American Revolution",
+      "C. The Cold War",
+      "D. The French Revolution"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Who is the author of the poem She Walks in Beauty?",
+    "options": [
+      "A. Lord Byron",
+      "B. Geoffrey Chaucer",
+      "C. Wilfrid Wilson Gibson",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "What does the poet compare the woman's beauty to in She Walks in Beauty?",
+    "options": [
+      "A. A sunrise",
+      "B. A starry night",
+      "C. A flowing river",
+      "D. A blooming flower"
+    ],
+    "answer": "B",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Who is the author of The Nun's Priest's Tale?",
+    "options": [
+      "A. Geoffrey Chaucer",
+      "B. Lord Byron",
+      "C. Maya Angelou",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "What is the name of the rooster in The Nun's Priest's Tale?",
+    "options": [
+      "A. Don Russel",
+      "B. Chanticleer",
+      "C. Pertelote",
+      "D. Molly"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Who is the author of the poem Digging?",
+    "options": [
+      "A. Seamus Heaney",
+      "B. Wilfrid Wilson Gibson",
+      "C. Fleur Adcock",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "In Digging, what does the speaker say he will dig with?",
+    "options": [
+      "A. A spade",
+      "B. His pen",
+      "C. His hands",
+      "D. A shovel"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Who is the author of the poem Still I Rise?",
+    "options": [
+      "A. Maya Angelou",
+      "B. Fleur Adcock",
+      "C. Wilfrid Wilson Gibson",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "What is the central theme of Still I Rise?",
+    "options": [
+      "A. Defeat and despair",
+      "B. Resilience and overcoming oppression",
+      "C. Love and romance",
+      "D. Nature and beauty"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Who is the author of the poem The Telephone Call?",
+    "options": [
+      "A. Fleur Adcock",
+      "B. Maya Angelou",
+      "C. Seamus Heaney",
+      "D. Geoffrey Chaucer"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "What is the caller's company named in The Telephone Call?",
+    "options": [
+      "A. Global Lotteries",
+      "B. Universal Lotteries",
+      "C. International Prizes",
+      "D. Mega Millions"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Who is the author of the poem The Stone?",
+    "options": [
+      "A. Wilfrid Wilson Gibson",
+      "B. Lord Byron",
+      "C. Seamus Heaney",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "What is the main emotion explored in The Stone?",
+    "options": [
+      "A. Joy",
+      "B. Grief",
+      "C. Anger",
+      "D. Fear"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "In Antony and Cleopatra, who is the soothsayer who warns Antony about Caesar?",
+    "options": [
+      "A. Alexas",
+      "B. Mardian",
+      "C. A Soothsayer",
+      "D. Enobarbus"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "How does Antony attempt suicide after losing the battle?",
+    "options": [
+      "A. By poison",
+      "B. By falling on his sword",
+      "C. By hanging",
+      "D. By drowning"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "What does Cleopatra fear Antony will do when he returns to Rome?",
+    "options": [
+      "A. Forget her",
+      "B. Kill her",
+      "C. Imprison her",
+      "D. Divorce her"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "Who is the Roman general who marries Octavia?",
+    "options": [
+      "A. Pompey",
+      "B. Lepidus",
+      "C. Mark Antony",
+      "D. Octavius"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "What is the name of the pirate who allies with Pompey against the triumvirate?",
+    "options": [
+      "A. Menas",
+      "B. Sextus Pompeius",
+      "C. Brutus",
+      "D. Cassius"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "In So the Path Does not Die, what is the name of Fina's close friend who helps her?",
+    "options": [
+      "A. Cammy",
+      "B. Kizzy",
+      "C. Baramusu",
+      "D. Aman"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "What cultural practice is Fina forced to confront in the novel?",
+    "options": [
+      "A. Polygamy",
+      "B. Female Genital Mutilation",
+      "C. Child marriage",
+      "D. Widow inheritance"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "In Redemption Road, what is Bendu struggling to recover from?",
+    "options": [
+      "A. A physical illness",
+      "B. The trauma of civil war",
+      "C. A failed business",
+      "D. A divorce"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "In To Kill a Mockingbird, what does Boo Radley do at the end of the novel?",
+    "options": [
+      "A. Saves Scout and Jem from Bob Ewell",
+      "B. Moves away from Maycomb",
+      "C. Testifies in court",
+      "D. Runs for public office"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "In To Kill a Mockingbird, what is the verdict of Tom Robinson's trial?",
+    "options": [
+      "A. Not guilty",
+      "B. Guilty",
+      "C. Mistrial",
+      "D. Dismissed"
+    ],
+    "answer": "B",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "In Path of Lucas, who is Lucas's primary advocate and caregiver?",
+    "options": [
+      "A. His father",
+      "B. His teacher",
+      "C. His mother, Jeannette",
+      "D. His brother"
+    ],
+    "answer": "C",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "In Once Upon an Elephant, what does Erelu fight against?",
+    "options": [
+      "A. Colonial rule",
+      "B. Patriarchal oppression and tradition",
+      "C. Poverty",
+      "D. Illiteracy"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "In The Marriage of Anansewa, why does Ananse want his daughter to marry the Chief?",
+    "options": [
+      "A. For love",
+      "B. For wealth and status",
+      "C. To save her life",
+      "D. To unite tribes"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "In An Inspector Calls, which member of the Birling family is the first to realize the Inspector's true nature?",
+    "options": [
+      "A. Arthur Birling",
+      "B. Sybil Birling",
+      "C. Sheila Birling",
+      "D. Eric Birling"
+    ],
+    "answer": "C",
+    "topic": "An Inspector Calls",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "In A Man for All Seasons, what position does Sir Thomas More hold that leads to his downfall?",
+    "options": [
+      "A. Lord Chancellor",
+      "B. Archbishop",
+      "C. King's advisor",
+      "D. General"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "In Once Upon a Time, what does the speaker's laugh in the mirror reveal?",
+    "options": [
+      "A. True happiness",
+      "B. Only his teeth, like a snake's fangs",
+      "C. His old age",
+      "D. His childhood memories"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "In New Tongue, what happens to the ties of family and friendship?",
+    "options": [
+      "A. They are strengthened",
+      "B. They are loosened and broken",
+      "C. They are celebrated",
+      "D. They are ignored"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "In Night, what does the speaker say his heart is not like?",
+    "options": [
+      "A. A stone",
+      "B. Mercuric like the clouds",
+      "C. A river",
+      "D. A burning fire"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 79,
+    "question": "In Not my Business, what happens to Chinwe?",
+    "options": [
+      "A. She is arrested",
+      "B. She loses her job",
+      "C. She is beaten",
+      "D. She is deported"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "In Hearty Garlands, what does the poet call the mentor?",
+    "options": [
+      "A. A wondrous mentor of rogues like us",
+      "B. A king among men",
+      "C. A brilliant scholar",
+      "D. A gentle giant"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "In The Breast of the Sea, what does the sea's belly fail to yield?",
+    "options": [
+      "A. Fish",
+      "B. New islands",
+      "C. Pearls",
+      "D. Oil"
+    ],
+    "answer": "B",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "In She Walks in Beauty, what effect does the woman's beauty have on the poet?",
+    "options": [
+      "A. It makes him sad",
+      "B. It brings him peace and innocence",
+      "C. It angers him",
+      "D. It frightens him"
+    ],
+    "answer": "B",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "In The Nun's Priest's Tale, who is the fox that tricks Chanticleer?",
+    "options": [
+      "A. Don Russel",
+      "B. Pertelote",
+      "C. Molly",
+      "D. The Widow"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "In Digging, what does the speaker's father do for a living?",
+    "options": [
+      "A. He is a writer",
+      "B. He is a potato farmer",
+      "C. He is a teacher",
+      "D. He is a fisherman"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "In Still I Rise, what does the speaker say she does like dust?",
+    "options": [
+      "A. She settles",
+      "B. She rises",
+      "C. She blows away",
+      "D. She hides"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "In The Telephone Call, what is the prize the caller supposedly won?",
+    "options": [
+      "A. A new car",
+      "B. A million pounds",
+      "C. A trip around the world",
+      "D. A house"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "In The Stone, how does the lover die?",
+    "options": [
+      "A. In a war",
+      "B. In a quarry accident",
+      "C. By drowning",
+      "D. By disease"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "In Antony and Cleopatra, what does Antony call Cleopatra after the battle of Actium?",
+    "options": [
+      "A. My love",
+      "B. A false soul of Egypt",
+      "C. My queen",
+      "D. A brave warrior"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 89,
+    "question": "In So the Path Does not Die, where does Fina first flee to escape the ritual?",
+    "options": [
+      "A. Freetown",
+      "B. Bo",
+      "C. Kenema",
+      "D. Makeni"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 90,
+    "question": "In Redemption Road, what does Bendu find upon returning to Liberia?",
+    "options": [
+      "A. A prosperous nation",
+      "B. A destroyed and traumatized society",
+      "C. A thriving economy",
+      "D. A peaceful utopia"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "In To Kill a Mockingbird, what does the title refer to?",
+    "options": [
+      "A. It is a sin to kill a mockingbird",
+      "B. A game the children play",
+      "C. A book Atticus reads",
+      "D. A song Scout sings"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "In Path of Lucas, what is the setting of the story?",
+    "options": [
+      "A. A bustling city",
+      "B. A rural farming community",
+      "C. A coastal town",
+      "D. A mountain village"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "In Once Upon an Elephant, what does the title symbolize?",
+    "options": [
+      "A. The strength of the king",
+      "B. The heavy burden of tradition",
+      "C. The beauty of nature",
+      "D. The wealth of the kingdom"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "In The Marriage of Anansewa, how does Ananse trick the Chiefs?",
+    "options": [
+      "A. By pretending his daughter is dead",
+      "B. By promising his daughter to all of them",
+      "C. By stealing their money",
+      "D. By running away with the bride"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "In An Inspector Calls, how does the younger generation react to the Inspector's revelations?",
+    "options": [
+      "A. They deny everything",
+      "B. They accept responsibility",
+      "C. They blame their parents",
+      "D. They run away"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "In A Man for All Seasons, why does More refuse to sign the Act of Supremacy?",
+    "options": [
+      "A. He hates the King",
+      "B. He believes it is against his Catholic faith",
+      "C. He wants to be King",
+      "D. He is paid to refuse"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "In Once Upon a Time, what do people do with their left hands when they shake hands?",
+    "options": [
+      "A. Wave hello",
+      "B. Search empty pockets",
+      "C. Hold a weapon",
+      "D. Touch their hearts"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "In New Tongue, what do the new generation's minds turn towards?",
+    "options": [
+      "A. Outwards",
+      "B. Inwards",
+      "C. Upwards",
+      "D. Downwards"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "In Night, what does the speaker ask the Night to do?",
+    "options": [
+      "A. Leave him alone",
+      "B. Hide him",
+      "C. Bring him peace",
+      "D. Show him the way"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "In Not my Business, what happens to the speaker at the end of the poem?",
+    "options": [
+      "A. He escapes",
+      "B. A jeep waits at his lawn",
+      "C. He fights back",
+      "D. He celebrates"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "In Hearty Garlands, what age is the subject turning?",
+    "options": [
+      "A. 70",
+      "B. 75",
+      "C. 80",
+      "D. 85"
+    ],
+    "answer": "D",
+    "topic": "Hearty Garlands",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "In The Breast of the Sea, which country's suffering is highlighted?",
+    "options": [
+      "A. Nigeria",
+      "B. Liberia",
+      "C. Sierra Leone",
+      "D. Ghana"
+    ],
+    "answer": "C",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "In She Walks in Beauty, what is the woman's mind described as?",
+    "options": [
+      "A. At peace with all below",
+      "B. Troubled by the world",
+      "C. Full of ambition",
+      "D. Restless and wild"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "In The Nun's Priest's Tale, what does Chanticleer dream about?",
+    "options": [
+      "A. A fox catching him",
+      "B. A beautiful hen",
+      "C. A field of corn",
+      "D. The end of the world"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "In Digging, what does the speaker's grandfather cut?",
+    "options": [
+      "A. Wood",
+      "B. Turf",
+      "C. Potatoes",
+      "D. Stone"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "In Still I Rise, what does the speaker compare her sassiness to?",
+    "options": [
+      "A. Oil wells pumping in her living room",
+      "B. A flowing river",
+      "C. A rising sun",
+      "D. A mountain"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "In The Telephone Call, what does the company say they deal in instead of money?",
+    "options": [
+      "A. Cars",
+      "B. Houses",
+      "C. Experiences",
+      "D. Stocks"
+    ],
+    "answer": "C",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "In The Stone, who tells the woman about her lover's death?",
+    "options": [
+      "A. The narrator",
+      "B. Her father",
+      "C. His mother",
+      "D. A fool who sped before the narrator"
+    ],
+    "answer": "D",
+    "topic": "The Stone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 109,
+    "question": "In Antony and Cleopatra, who is Caesar's sister that Antony marries?",
+    "options": [
+      "A. Octavia",
+      "B. Cleopatra",
+      "C. Fulvia",
+      "D. Valeria"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "In So the Path Does not Die, what is Fina's profession?",
+    "options": [
+      "A. Teacher",
+      "B. Nurse",
+      "C. Doctor",
+      "D. Lawyer"
+    ],
+    "answer": "C",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "In Redemption Road, what does Bendu attempt to do upon her return?",
+    "options": [
+      "A. Run for president",
+      "B. Rebuild her life and help others",
+      "C. Leave the country again",
+      "D. Join the military"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "In To Kill a Mockingbird, who is the sheriff of Maycomb?",
+    "options": [
+      "A. Heck Tate",
+      "B. Bob Ewell",
+      "C. Judge Taylor",
+      "D. Mr. Underwood"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 113,
+    "question": "In Path of Lucas, what is the name of Lucas's mother?",
+    "options": [
+      "A. Sarah",
+      "B. Mary",
+      "C. Jeannette",
+      "D. Elizabeth"
+    ],
+    "answer": "C",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "In Once Upon an Elephant, who represents the traditional authority?",
+    "options": [
+      "A. Erelu",
+      "B. The Oba",
+      "C. The Ayaba",
+      "D. The slaves"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 115,
+    "question": "In The Marriage of Anansewa, what is the name of the Chief Anansewa finally marries?",
+    "options": [
+      "A. Chief of the North",
+      "B. Chief-Who-Is-Chief",
+      "C. Chief of the South",
+      "D. Chief of the East"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "In An Inspector Calls, what is Arthur Birling's main concern when the Inspector arrives?",
+    "options": [
+      "A. His daughter's marriage",
+      "B. His reputation and potential knighthood",
+      "C. The health of his wife",
+      "D. The war"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "In A Man for All Seasons, who betrays Sir Thomas More?",
+    "options": [
+      "A. Richard Rich",
+      "B. Thomas Cromwell",
+      "C. The Duke of Norfolk",
+      "D. Cardinal Wolsey"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "In Once Upon a Time, what does the speaker say people's eyes are like?",
+    "options": [
+      "A. Flames",
+      "B. Ice-blocks",
+      "C. Water",
+      "D. Stars"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 119,
+    "question": "In New Tongue, what do the new generation hang on their culture?",
+    "options": [
+      "A. A new lock",
+      "B. The last lock",
+      "C. A broken lock",
+      "D. No lock"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "In Night, what does the speaker say the Night rained through the leaves?",
+    "options": [
+      "A. Water",
+      "B. Serrated shadows",
+      "C. Light",
+      "D. Flowers"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "In Not my Business, what did they do to Akanni?",
+    "options": [
+      "A. Beat him soft like clay",
+      "B. Arrested him",
+      "C. Took his job",
+      "D. Killed him"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "In Hearty Garlands, what does the poet hope the mentor will do at 85?",
+    "options": [
+      "A. Rest and sleep",
+      "B. Watch them strive and beat his chest in pride",
+      "C. Travel the world",
+      "D. Write a book"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "In The Breast of the Sea, what does the poet ask the sea if it has?",
+    "options": [
+      "A. The balm to heal the wound of her children",
+      "B. Gold and silver",
+      "C. Secrets of the universe",
+      "D. Fish for the orphans"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "In She Walks in Beauty, what does the poet say heaven denies to gaudy day?",
+    "options": [
+      "A. The tender light",
+      "B. The starry skies",
+      "C. The raven tress",
+      "D. The smiling cheek"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "In The Nun's Priest's Tale, what does Pertelote advise Chanticleer to do about his dream?",
+    "options": [
+      "A. Ignore it and take a laxative",
+      "B. Pray to God",
+      "C. Run away",
+      "D. Consult a priest"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "In Digging, what does the speaker say the squat pen rests between?",
+    "options": [
+      "A. His finger and thumb",
+      "B. His teeth",
+      "C. His hands",
+      "D. The pages"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "In Still I Rise, what does the speaker say she laughs like?",
+    "options": [
+      "A. She's got gold mines",
+      "B. She's got oil wells",
+      "C. She's got diamonds",
+      "D. She's got a new car"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "In The Telephone Call, what is the name of the module the company uses to select winners?",
+    "options": [
+      "A. Retrospective Chances Module",
+      "B. Random Selection Module",
+      "C. Fair Play Module",
+      "D. Luck Module"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "In The Stone, what happens to the woman after the stone is finished?",
+    "options": [
+      "A. She dies",
+      "B. She breathes his name and leaves",
+      "C. She marries the narrator",
+      "D. She moves away"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "In Antony and Cleopatra, who reports Cleopatra's supposed death to Antony?",
+    "options": [
+      "A. Charmian",
+      "B. Iras",
+      "C. Mardian",
+      "D. Alexas"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "In So the Path Does not Die, what is the name of the secret society that performs the ritual?",
+    "options": [
+      "A. The Bondo Society",
+      "B. The Poro Society",
+      "C. The Ogboni Society",
+      "D. The Ekpe Society"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 132,
+    "question": "In Redemption Road, what is the name of the organization Bendu works with?",
+    "options": [
+      "A. Redemption Road Ministry",
+      "B. Trauma Healing Center",
+      "C. War Victims Relief",
+      "D. Liberian Recovery Fund"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "In To Kill a Mockingbird, who is the judge presiding over Tom Robinson's trial?",
+    "options": [
+      "A. Judge Taylor",
+      "B. Judge Reynolds",
+      "C. Judge Heck Tate",
+      "D. Judge Radley"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 134,
+    "question": "In Path of Lucas, what kind of journey does Lucas endure?",
+    "options": [
+      "A. A physical journey across the country",
+      "B. A journey of acceptance and understanding",
+      "C. A journey into space",
+      "D. A journey of wealth accumulation"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "In Once Upon an Elephant, what is the main conflict in the play?",
+    "options": [
+      "A. A war between two kingdoms",
+      "B. The struggle over succession and tradition",
+      "C. A famine",
+      "D. A natural disaster"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "In The Marriage of Anansewa, who helps Ananse set the trap for the chiefs?",
+    "options": [
+      "A. Christie",
+      "B. Anansewa",
+      "C. The Storyteller",
+      "D. The Chief of the North"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "In An Inspector Calls, how does Eric Birling contribute to Eva Smith's downfall?",
+    "options": [
+      "A. He fires her",
+      "B. He gets her pregnant and steals money",
+      "C. He refuses to serve her in the shop",
+      "D. He evicts her from her home"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "In A Man for All Seasons, what does the Common Man represent?",
+    "options": [
+      "A. The king's power",
+      "B. The ordinary person trying to survive",
+      "C. The church's authority",
+      "D. The nobility"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "In Once Upon a Time, what does the speaker say he has learned to do with his teeth?",
+    "options": [
+      "A. Bite",
+      "B. Laugh",
+      "C. Chew",
+      "D. Whistle"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "In New Tongue, what is the 'new tongue' a symbol of?",
+    "options": [
+      "A. A new language invented by the elders",
+      "B. Borrowed culture and westernization",
+      "C. The language of the gods",
+      "D. A secret code"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "In Night, what does the speaker say his sensations are pained by?",
+    "options": [
+      "A. The moonlight",
+      "B. The warm suffusion of dappled cells",
+      "C. The cold wind",
+      "D. The sound of waves"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "In Not my Business, who was dragged out of his house at night?",
+    "options": [
+      "A. Akanni",
+      "B. Danladi",
+      "C. Chinwe",
+      "D. The speaker"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "In Hearty Garlands, what does the poet call the mentor's chest?",
+    "options": [
+      "A. An iron chest",
+      "B. A mahogany chest",
+      "C. A golden chest",
+      "D. A stone chest"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "In The Breast of the Sea, which poet's work is referenced in the poem?",
+    "options": [
+      "A. Shakespeare",
+      "B. Darwin",
+      "C. Noah",
+      "D. Byron"
+    ],
+    "answer": "B",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "In She Walks in Beauty, what color is the woman's hair?",
+    "options": [
+      "A. Blonde",
+      "B. Raven",
+      "C. Brown",
+      "D. Red"
+    ],
+    "answer": "B",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "In The Nun's Priest's Tale, what does Chanticleer do when the fox grabs him?",
+    "options": [
+      "A. He fights back",
+      "B. He tricks the fox into opening his mouth",
+      "C. He screams for help",
+      "D. He plays dead"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "In Digging, what does the speaker say his father's boot nestled on?",
+    "options": [
+      "A. The lug",
+      "B. The spade",
+      "C. The ground",
+      "D. A stone"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 148,
+    "question": "In Still I Rise, what does the speaker say she dances like?",
+    "options": [
+      "A. A butterfly",
+      "B. She's got diamonds at the meeting of her thighs",
+      "C. A queen",
+      "D. A leaf in the wind"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "In The Telephone Call, how does the call end?",
+    "options": [
+      "A. The caller says goodbye",
+      "B. The line goes dead",
+      "C. The poet hangs up",
+      "D. They agree to meet"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "In The Stone, how many days and nights does the woman not stir?",
+    "options": [
+      "A. One day and night",
+      "B. Two days and nights",
+      "C. Three days and nights",
+      "D. Four days and nights"
+    ],
+    "answer": "C",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "In Antony and Cleopatra, who is the triumvir who is often described as the weakest link?",
+    "options": [
+      "A. Antony",
+      "B. Octavius",
+      "C. Lepidus",
+      "D. Pompey"
+    ],
+    "answer": "C",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "In So the Path Does not Die, what happens to Fina's mother?",
+    "options": [
+      "A. She dies during childbirth",
+      "B. She dies during the FGM ritual",
+      "C. She runs away",
+      "D. She becomes a nurse"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 153,
+    "question": "In Redemption Road, who is the main antagonist or source of conflict for Bendu?",
+    "options": [
+      "A. The government",
+      "B. Her past trauma and societal stigma",
+      "C. Her husband",
+      "D. The military"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "In To Kill a Mockingbird, what does Atticus say about courage?",
+    "options": [
+      "A. It is knowing you're licked before you begin but you begin anyway",
+      "B. It is the absence of fear",
+      "C. It is the willingness to fight",
+      "D. It is a man with a gun in his hand"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 155,
+    "question": "In Path of Lucas, what is the main message of the novel?",
+    "options": [
+      "A. The importance of wealth",
+      "B. The power of unconditional love and perseverance",
+      "C. The necessity of war",
+      "D. The value of travel"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "In Once Upon an Elephant, what does the elephant symbolize for Erelu?",
+    "options": [
+      "A. Her power",
+      "B. A burden she must carry",
+      "C. Her wealth",
+      "D. Her husband"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "In The Marriage of Anansewa, what is Anansewa's role in her father's plan?",
+    "options": [
+      "A. She actively helps him",
+      "B. She is a passive pawn",
+      "C. She fights against it",
+      "D. She runs away"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "In An Inspector Calls, what is the final twist regarding the Inspector?",
+    "options": [
+      "A. He is a real police officer",
+      "B. He is a relative of Eva Smith",
+      "C. He is a supernatural figure or hoax",
+      "D. He was hired by Mr. Birling"
+    ],
+    "answer": "C",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "In A Man for All Seasons, what is Sir Thomas More's ultimate fate?",
+    "options": [
+      "A. He is exiled",
+      "B. He is executed",
+      "C. He becomes King",
+      "D. He lives happily ever after"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "In Once Upon a Time, what does the speaker say he wants to do with the 'muting things'?",
+    "options": [
+      "A. Learn them",
+      "B. Unlearn them",
+      "C. Ignore them",
+      "D. Teach them"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "In New Tongue, what do the new generation's ears block?",
+    "options": [
+      "A. The sounds of nature",
+      "B. The old tongue and ways of doing things",
+      "C. The cries of the poor",
+      "D. The music of their ancestors"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "In Night, what does the speaker call the Night's children?",
+    "options": [
+      "A. Stars",
+      "B. Night children who haunt the earth",
+      "C. Demons",
+      "D. Shadows"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "In Not my Business, what is the meaning of the phrase 'What business of mine is it'?",
+    "options": [
+      "A. A question of curiosity",
+      "B. An expression of apathy",
+      "C. A call to action",
+      "D. A statement of anger"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "In Hearty Garlands, what does the poet say age eighty-five is?",
+    "options": [
+      "A. A time for rest",
+      "B. Life's smiley, cloudless dawn",
+      "C. The end of the road",
+      "D. A time of sadness"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "In The Breast of the Sea, what does the sea's belly wash itself clean of?",
+    "options": [
+      "A. Fish",
+      "B. Our century's blight",
+      "C. The islands",
+      "D. The ships"
+    ],
+    "answer": "B",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 166,
+    "question": "In She Walks in Beauty, what does the poet say the woman's smiles tell of?",
+    "options": [
+      "A. Days in goodness spent",
+      "B. A life of sorrow",
+      "C. Hidden secrets",
+      "D. Future plans"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "In The Nun's Priest's Tale, why does Chanticleer refuse to follow Pertelote's advice?",
+    "options": [
+      "A. He is scared",
+      "B. He believes dreams have meaning",
+      "C. He doesn't like her",
+      "D. He is sick"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "In Digging, what does the speaker say he has 'no spade to follow men like them'?",
+    "options": [
+      "A. He cannot dig",
+      "B. He lacks the physical strength",
+      "C. He has chosen a different path",
+      "D. He doesn't own a spade"
+    ],
+    "answer": "C",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "In Still I Rise, what does the speaker say she is the dream and hope of?",
+    "options": [
+      "A. The rich",
+      "B. The slave",
+      "C. The king",
+      "D. The future"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "In The Telephone Call, what is the poet's initial reaction to winning?",
+    "options": [
+      "A. She laughs",
+      "B. She doesn't believe it",
+      "C. She cries",
+      "D. She is angry"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "In The Stone, what does the narrator do at the end of the poem?",
+    "options": [
+      "A. He marries the woman",
+      "B. He cuts her name upon the stone",
+      "C. He leaves the town",
+      "D. He dies"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "In Antony and Cleopatra, what is the name of the battle where Antony and Cleopatra's forces are defeated by sea?",
+    "options": [
+      "A. Actium",
+      "B. Alexandria",
+      "C. Philippi",
+      "D. Pharsalus"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 173,
+    "question": "In So the Path Does not Die, who is the main character's love interest in the United States?",
+    "options": [
+      "A. Cammy",
+      "B. Aman",
+      "C. Kizzy",
+      "D. Baramusu"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 174,
+    "question": "In Redemption Road, what is the significance of the title?",
+    "options": [
+      "A. It refers to a literal road in Liberia",
+      "B. It symbolizes Bendu's journey to healing",
+      "C. It is the name of a political party",
+      "D. It is a reference to a religious hymn"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "In To Kill a Mockingbird, who is the author of the book?",
+    "options": [
+      "A. Harper Lee",
+      "B. Maya Angelou",
+      "C. Susanne Bellefeuille",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 176,
+    "question": "In Path of Lucas, who is Lucas's main source of support?",
+    "options": [
+      "A. His father",
+      "B. His mother",
+      "C. His teacher",
+      "D. His siblings"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "In Once Upon an Elephant, what is the title of the play literally about?",
+    "options": [
+      "A. A literal elephant in a zoo",
+      "B. The elephant in the room (an ignored issue)",
+      "C. A children's story",
+      "D. A hunting expedition"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "In The Marriage of Anansewa, what does the storyteller do?",
+    "options": [
+      "A. Narrates the story",
+      "B. Plays a character in the play",
+      "C. Directs the play",
+      "D. Sings the songs"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "In An Inspector Calls, what is the setting of the play?",
+    "options": [
+      "A. A single evening in 1912",
+      "B. Over several years",
+      "C. A day in 1945",
+      "D. A week in the future"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "In A Man for All Seasons, what is the main theme of the play?",
+    "options": [
+      "A. The pursuit of wealth",
+      "B. The conflict between conscience and power",
+      "C. The joys of marriage",
+      "D. The beauty of nature"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "In Once Upon a Time, what does the speaker say he wants to relearn?",
+    "options": [
+      "A. How to write",
+      "B. How to laugh",
+      "C. How to walk",
+      "D. How to talk"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "In New Tongue, what is the consequence of the new generation's actions?",
+    "options": [
+      "A. A strange coldness descends",
+      "B. They become prosperous",
+      "C. They find peace",
+      "D. They are punished"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "In Night, who is the speaker addressing?",
+    "options": [
+      "A. The sun",
+      "B. The night",
+      "C. His lover",
+      "D. His enemy"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "In Not my Business, what is the consequence of the speaker's apathy?",
+    "options": [
+      "A. He is left alone",
+      "B. The jeep comes for him",
+      "C. He becomes wealthy",
+      "D. He becomes a hero"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "In Hearty Garlands, what does the poet say the mentor will hear blow?",
+    "options": [
+      "A. A trumpet sound",
+      "B. A drum beat",
+      "C. A flute melody",
+      "D. A guitar strum"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 186,
+    "question": "In The Breast of the Sea, what is the poet's tone?",
+    "options": [
+      "A. Joyful",
+      "B. Melancholic and critical",
+      "C. Humorous",
+      "D. Romantic"
+    ],
+    "answer": "B",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "In She Walks in Beauty, what is the rhyme scheme of the poem?",
+    "options": [
+      "A. AABB",
+      "B. ABABAB",
+      "C. ABBA",
+      "D. ABCABC"
+    ],
+    "answer": "B",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "In The Nun's Priest's Tale, what moral does the tale teach?",
+    "options": [
+      "A. Never trust a fox",
+      "B. Beware of flattery",
+      "C. Dreams always come true",
+      "D. Women are always right"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "In Digging, what does the speaker say the spade sinks into?",
+    "options": [
+      "A. Gravelly ground",
+      "B. Soft soil",
+      "C. Hard rock",
+      "D. Wet mud"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "In Still I Rise, what does the speaker say she will leave behind?",
+    "options": [
+      "A. Nights of terror and fear",
+      "B. Her past failures",
+      "C. Her family",
+      "D. Her wealth"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "In The Telephone Call, what does the caller ask the poet to do?",
+    "options": [
+      "A. Sit down",
+      "B. Stand up",
+      "C. Cry",
+      "D. Laugh"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "In The Stone, how does the narrator describe the woman's eyes?",
+    "options": [
+      "A. Tearless, staring eyes",
+      "B. Bright, happy eyes",
+      "C. Closed, sleeping eyes",
+      "D. Sad, weeping eyes"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "In Antony and Cleopatra, what does Antony do after he thinks Cleopatra is dead?",
+    "options": [
+      "A. He returns to Rome",
+      "B. He stabs himself",
+      "C. He marries Octavia",
+      "D. He declares war on Caesar"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "In So the Path Does not Die, who is Fina's main mentor in the US?",
+    "options": [
+      "A. Cammy",
+      "B. Kizzy",
+      "C. Aman",
+      "D. Baramusu"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 195,
+    "question": "In Redemption Road, what is the name of the country where the story is set?",
+    "options": [
+      "A. Liberia",
+      "B. Sierra Leone",
+      "C. Nigeria",
+      "D. Ghana"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 196,
+    "question": "In To Kill a Mockingbird, who is the narrator's brother?",
+    "options": [
+      "A. Jem",
+      "B. Dill",
+      "C. Boo",
+      "D. Tom"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 197,
+    "question": "In Path of Lucas, what condition does Lucas have?",
+    "options": [
+      "A. A developmental disability",
+      "B. Blindness",
+      "C. Deafness",
+      "D. Paralysis"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "In Once Upon an Elephant, what is the name of the King's wife?",
+    "options": [
+      "A. Erelu",
+      "B. Ayaba",
+      "C. Anansewa",
+      "D. Cleopatra"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "In The Marriage of Anansewa, what is the final outcome of the play?",
+    "options": [
+      "A. Ananse is punished",
+      "B. Anansewa marries the Chief",
+      "C. Anansewa runs away",
+      "D. The Chief takes his gifts back"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "In An Inspector Calls, what is the name of the family the Inspector visits?",
+    "options": [
+      "A. The Smiths",
+      "B. The Birlings",
+      "C. The Crofts",
+      "D. The Googles"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 201,
+    "question": "In A Man for All Seasons, what is the name of Sir Thomas More's daughter?",
+    "options": [
+      "A. Margaret",
+      "B. Alice",
+      "C. Anne",
+      "D. Mary"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "In Once Upon a Time, what does the speaker say he has learned to say when he means 'Good-riddance'?",
+    "options": [
+      "A. Goodbye",
+      "B. See you later",
+      "C. Hello",
+      "D. Good morning"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "In New Tongue, what is the 'borrowed tongue' a symbol of?",
+    "options": [
+      "A. A new language learned in school",
+      "B. The adoption of foreign culture",
+      "C. A physical tongue",
+      "D. A secret code"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "In Night, what does the speaker say will undo him?",
+    "options": [
+      "A. The night children",
+      "B. The misted cells",
+      "C. The sea",
+      "D. The moon"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "In Not my Business, what happens to Danladi?",
+    "options": [
+      "A. He is beaten",
+      "B. He is dragged off to a lengthy absence",
+      "C. He loses his job",
+      "D. He is killed"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "In Hearty Garlands, what does the poet say the mentor's heart sits on?",
+    "options": [
+      "A. A golden throne",
+      "B. Garlanded satis shores",
+      "C. A bed of roses",
+      "D. A mountain top"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "In The Breast of the Sea, what does the poet say Sierra Leone is not worth?",
+    "options": [
+      "A. A raped woman's cry",
+      "B. A bag of gold",
+      "C. The sea's bounty",
+      "D. A new island"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 208,
+    "question": "In She Walks in Beauty, what does the poet say is mellowed by the tender light?",
+    "options": [
+      "A. The woman's aspect and eyes",
+      "B. The starry skies",
+      "C. The cloudless climes",
+      "D. The raven tress"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "In The Nun's Priest's Tale, what is the name of the widow's daughter?",
+    "options": [
+      "A. Molly",
+      "B. Pertelote",
+      "C. The text doesn't name her",
+      "D. Chanticleer"
+    ],
+    "answer": "C",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "In Digging, what does the speaker say he has in his hand?",
+    "options": [
+      "A. A spade",
+      "B. A pen",
+      "C. A potato",
+      "D. A book"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 211,
+    "question": "In Still I Rise, what does the speaker say she walks like?",
+    "options": [
+      "A. She's got oil wells",
+      "B. A queen",
+      "C. A model",
+      "D. A warrior"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "In The Telephone Call, how does the poet describe her throat?",
+    "options": [
+      "A. Sore",
+      "B. Dry",
+      "C. Itchy",
+      "D. Blocked"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "In The Stone, what does the woman do when she sees the narrator?",
+    "options": [
+      "A. She cries",
+      "B. She asks him to cut a stone",
+      "C. She ignores him",
+      "D. She screams"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "In Antony and Cleopatra, who is the messenger that Antony has whipped for bringing news of Cleopatra's marriage?",
+    "options": [
+      "A. Thyreus",
+      "B. Mardian",
+      "C. Alexas",
+      "D. Enobarbus"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "In So the Path Does not Die, what does Fina decide to do about the FGM practice?",
+    "options": [
+      "A. Ignore it",
+      "B. Campaign against it",
+      "C. Support it",
+      "D. Practice it"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "In Redemption Road, what is the name of the protagonist's daughter?",
+    "options": [
+      "A. Bendu",
+      "B. Fina",
+      "C. The text does not specify",
+      "D. Cammy"
+    ],
+    "answer": "C",
+    "topic": "Redemption Road",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "In To Kill a Mockingbird, what is the name of the town where the story takes place?",
+    "options": [
+      "A. Maycomb",
+      "B. Macomb",
+      "C. Mayfield",
+      "D. Montgomery"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "In Path of Lucas, what is the name of the protagonist?",
+    "options": [
+      "A. Lucas",
+      "B. Jeannette",
+      "C. Lucas's brother",
+      "D. The text doesn't name him"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 219,
+    "question": "In Once Upon an Elephant, what is the role of the Ayaba?",
+    "options": [
+      "A. The King's wife",
+      "B. The King's daughter",
+      "C. The King's mother",
+      "D. A servant"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "In The Marriage of Anansewa, how does Ananse get the Chief to send gifts?",
+    "options": [
+      "A. By lying about his daughter's beauty",
+      "B. By pretending his daughter is dying",
+      "C. By threatening him",
+      "D. By stealing from him"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "In An Inspector Calls, what does the Inspector claim to be investigating?",
+    "options": [
+      "A. A robbery",
+      "B. The suicide of Eva Smith",
+      "C. A murder",
+      "D. A missing person"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 222,
+    "question": "In A Man for All Seasons, who is the King of England during the play?",
+    "options": [
+      "A. Henry VII",
+      "B. Henry VIII",
+      "C. Edward VI",
+      "D. Richard III"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 223,
+    "question": "In Once Upon a Time, what does the speaker say people's hands search?",
+    "options": [
+      "A. For money",
+      "B. Empty pockets",
+      "C. For a handshake",
+      "D. For weapons"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "In New Tongue, what do the old songs become?",
+    "options": [
+      "A. New hits",
+      "B. Disregarded dreams",
+      "C. Cherished memories",
+      "D. Forgotten relics"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "In Night, what does the speaker say the night has done to the sea's fluorescence?",
+    "options": [
+      "A. Enhanced it",
+      "B. Quenched it",
+      "C. Ignored it",
+      "D. Multiplied it"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "In Not my Business, what happens when the speaker sits down to eat his yam?",
+    "options": [
+      "A. He chokes",
+      "B. A knock on the door freezes his hungry hand",
+      "C. He drops the yam",
+      "D. He is arrested"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "In Hearty Garlands, what does the poet say the mentor must shake?",
+    "options": [
+      "A. His head",
+      "B. His own hands like iroko agama",
+      "C. His legs",
+      "D. His staff"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 228,
+    "question": "In The Breast of the Sea, what is the 'chela' referred to in the poem?",
+    "options": [
+      "A. A type of fish",
+      "B. A fractured claw",
+      "C. A ship",
+      "D. A weapon"
+    ],
+    "answer": "B",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "In She Walks in Beauty, what does the poet say the woman's smile can win?",
+    "options": [
+      "A. The world",
+      "B. The smiles that win",
+      "C. The poet's heart",
+      "D. A kingdom"
+    ],
+    "answer": "B",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "In The Nun's Priest's Tale, what happens to the fox at the end of the tale?",
+    "options": [
+      "A. He escapes with the rooster",
+      "B. He is tricked by Chanticleer and the rooster escapes",
+      "C. He is killed",
+      "D. He becomes friends with the rooster"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "In Digging, what does the speaker say the pen is as snug as?",
+    "options": [
+      "A. A spade",
+      "B. A gun",
+      "C. A hand",
+      "D. A potato"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "In Still I Rise, what does the speaker say she will do like air?",
+    "options": [
+      "A. Breathe",
+      "B. Rise",
+      "C. Flow",
+      "D. Disappear"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "In The Telephone Call, what does the caller say they bought up?",
+    "options": [
+      "A. Lottery tickets",
+      "B. The files",
+      "C. The company",
+      "D. The prizes"
+    ],
+    "answer": "B",
+    "topic": "The Telephone Call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 234,
+    "question": "In The Stone, what does the narrator say the woman's eyes did to him?",
+    "options": [
+      "A. Comforted him",
+      "B. Plucked the heart from him",
+      "C. Made him laugh",
+      "D. Scared him"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "In Antony and Cleopatra, what does Cleopatra do after Antony's death?",
+    "options": [
+      "A. She flees to Rome",
+      "B. She commits suicide",
+      "C. She marries Caesar",
+      "D. She goes into exile"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "In So the Path Does not Die, what is Fina's initial attitude towards her grandmother's tradition?",
+    "options": [
+      "A. Acceptance",
+      "B. Fear and resistance",
+      "C. Indifference",
+      "D. Celebration"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "In Redemption Road, what is the main theme of the novel?",
+    "options": [
+      "A. The joy of war",
+      "B. Healing and recovery from trauma",
+      "C. The beauty of Liberian culture",
+      "D. The importance of money"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "In To Kill a Mockingbird, who is the mysterious neighbor who saves the children?",
+    "options": [
+      "A. Boo Radley",
+      "B. Tom Robinson",
+      "C. Dill",
+      "D. Heck Tate"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "In Path of Lucas, what is the main setting of the novel?",
+    "options": [
+      "A. A city",
+      "B. A rural town",
+      "C. An island",
+      "D. A farm"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "In Once Upon an Elephant, what does Erelu represent?",
+    "options": [
+      "A. The oppressive traditional system",
+      "B. The resistance to oppressive tradition",
+      "C. The wealth of the kingdom",
+      "D. The military power"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "In The Marriage of Anansewa, what is the name of the storyteller?",
+    "options": [
+      "A. Ananse",
+      "B. Christie",
+      "C. Storyteller",
+      "D. Chief"
+    ],
+    "answer": "C",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "In An Inspector Calls, how does Sybil Birling contribute to Eva's death?",
+    "options": [
+      "A. She fires her",
+      "B. She refuses her charitable help",
+      "C. She gets her pregnant",
+      "D. She evicts her"
+    ],
+    "answer": "B",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "In A Man for All Seasons, what does Richard Rich want from More?",
+    "options": [
+      "A. Money",
+      "B. A job",
+      "C. His daughter's hand in marriage",
+      "D. His blessing"
+    ],
+    "answer": "B",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 244,
+    "question": "In Once Upon a Time, what does the speaker say he has learned to wear?",
+    "options": [
+      "A. Many faces",
+      "B. Many hats",
+      "C. Many clothes",
+      "D. Many shoes"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "In New Tongue, what is the image used to describe the minds of the new generation?",
+    "options": [
+      "A. Like the insides of clothes",
+      "B. Like a flowing river",
+      "C. Like a burning fire",
+      "D. Like a stone wall"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "In Night, what does the speaker say his blood and brine are doing?",
+    "options": [
+      "A. Coursing to the roots",
+      "B. Freezing",
+      "C. Boiling",
+      "D. Disappearing"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 247,
+    "question": "In Not my Business, what does the speaker say the jeep is waiting on?",
+    "options": [
+      "A. His lawn",
+      "B. The road",
+      "C. The street",
+      "D. The driveway"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "In Hearty Garlands, what is the mentor described as?",
+    "options": [
+      "A. A wonder of nature",
+      "B. A wondrous mentor of rogues",
+      "C. A wise old man",
+      "D. A strict teacher"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "In The Breast of the Sea, what is the sea described as?",
+    "options": [
+      "A. A long-suffering mistress",
+      "B. A cruel master",
+      "C. A gentle mother",
+      "D. A powerful god"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "In She Walks in Beauty, what is the woman's heart described as?",
+    "options": [
+      "A. A heart whose love is innocent",
+      "B. A heart of stone",
+      "C. A heart full of passion",
+      "D. A heart of gold"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "In The Nun's Priest's Tale, what kind of animal is Chanticleer?",
+    "options": [
+      "A. A hen",
+      "B. A rooster",
+      "C. A fox",
+      "D. A duck"
+    ],
+    "answer": "B",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "In Digging, what does the speaker say his father was digging?",
+    "options": [
+      "A. Potatoes",
+      "B. Turf",
+      "C. Gold",
+      "D. Wells"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "In Still I Rise, what does the speaker say she is leaving behind?",
+    "options": [
+      "A. Nights of terror and fear",
+      "B. Her pain",
+      "C. Her past",
+      "D. Her fears"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "In The Telephone Call, what does the caller say the poet has had?",
+    "options": [
+      "A. A great experience",
+      "B. A terrible time",
+      "C. A lucky break",
+      "D. A big win"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "In The Stone, what does the narrator say the woman's eyes are seeing?",
+    "options": [
+      "A. Nothing",
+      "B. Everything",
+      "C. The stone",
+      "D. The narrator"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "In Antony and Cleopatra, who is the Roman general who marries Octavia?",
+    "options": [
+      "A. Antony",
+      "B. Caesar",
+      "C. Lepidus",
+      "D. Pompey"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "In So the Path Does not Die, what is the significance of the title?",
+    "options": [
+      "A. It refers to a literal path",
+      "B. It symbolizes the survival of African traditions",
+      "C. It is a reference to a Bible verse",
+      "D. It is a quote from the protagonist"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "In Redemption Road, what does Bendu struggle with?",
+    "options": [
+      "A. Poverty",
+      "B. Post-traumatic stress disorder",
+      "C. A physical disability",
+      "D. A broken heart"
+    ],
+    "answer": "B",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "In To Kill a Mockingbird, what is the name of the Finch family's cook?",
+    "options": [
+      "A. Calpurnia",
+      "B. Miss Maudie",
+      "C. Aunt Alexandra",
+      "D. Mayella"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "In Path of Lucas, who narrates the story?",
+    "options": [
+      "A. Lucas",
+      "B. Jeannette",
+      "C. A third-person narrator",
+      "D. Lucas's brother"
+    ],
+    "answer": "B",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "In Once Upon an Elephant, what is the main setting of the play?",
+    "options": [
+      "A. A modern city",
+      "B. A traditional African kingdom",
+      "C. A European court",
+      "D. A rural village"
+    ],
+    "answer": "B",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "In The Marriage of Anansewa, what is Ananse's main motivation?",
+    "options": [
+      "A. Love for his daughter",
+      "B. Greed and desire for wealth",
+      "C. Political power",
+      "D. Revenge"
+    ],
+    "answer": "B",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "In An Inspector Calls, what is the main theme of the play?",
+    "options": [
+      "A. Social responsibility",
+      "B. Love and romance",
+      "C. The beauty of nature",
+      "D. The importance of money"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "In A Man for All Seasons, who is the Common Man?",
+    "options": [
+      "A. A character who plays multiple roles",
+      "B. A real historical figure",
+      "C. A narrator",
+      "D. A servant"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "In Once Upon a Time, what does the speaker say people do with their hearts when they laugh?",
+    "options": [
+      "A. They laugh with their hearts",
+      "B. They laugh only with their teeth",
+      "C. They hide their hearts",
+      "D. They break their hearts"
+    ],
+    "answer": "B",
+    "topic": "Once Upon a Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "In New Tongue, what do the new generation carelessly abandon?",
+    "options": [
+      "A. Their families",
+      "B. Their traditions and heritage",
+      "C. Their education",
+      "D. Their wealth"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "In Night, what does the speaker ask the Night to do with its children?",
+    "options": [
+      "A. To hide them",
+      "B. To keep them away from him",
+      "C. To let them play",
+      "D. To send them to sleep"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "In Not my Business, what happens to Chinwe?",
+    "options": [
+      "A. She is arrested",
+      "B. She loses her job",
+      "C. She is beaten",
+      "D. She is deported"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "In Hearty Garlands, what does the poet describe as 'life's smiley, cloudless dawn'?",
+    "options": [
+      "A. Youth",
+      "B. Age eighty-five",
+      "C. The mentor's childhood",
+      "D. The poet's own age"
+    ],
+    "answer": "B",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "In The Breast of the Sea, what historical event is linked to the 'Middle Passage's cargoes'?",
+    "options": [
+      "A. The slave trade",
+      "B. The World War",
+      "C. The colonization of Africa",
+      "D. The discovery of America"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "In She Walks in Beauty, what does the poet say 'heaven to gaudy day denies'?",
+    "options": [
+      "A. The tender light",
+      "B. The starry skies",
+      "C. The dark and bright",
+      "D. The smiles"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 272,
+    "question": "In The Nun's Priest's Tale, who is the widow?",
+    "options": [
+      "A. A poor old woman",
+      "B. A rich lady",
+      "C. A young girl",
+      "D. A nun"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 273,
+    "question": "In Digging, what does the speaker say he will do with his pen?",
+    "options": [
+      "A. Write",
+      "B. Dig",
+      "C. Draw",
+      "D. Sign"
+    ],
+    "answer": "B",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "In Still I Rise, what does the speaker say she will do with the gifts of her ancestors?",
+    "options": [
+      "A. Hide them",
+      "B. Bring them",
+      "C. Sell them",
+      "D. Ignore them"
+    ],
+    "answer": "B",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "In The Telephone Call, what does the caller say the company operates?",
+    "options": [
+      "A. A retrospective Chances Module",
+      "B. A fair lottery system",
+      "C. A charity program",
+      "D. A bank"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 276,
+    "question": "In The Stone, what does the narrator say the woman's eyes cut like?",
+    "options": [
+      "A. A knife",
+      "B. Cold steel",
+      "C. A sword",
+      "D. Ice"
+    ],
+    "answer": "B",
+    "topic": "The Stone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "In Antony and Cleopatra, what is the name of the Queen of Egypt?",
+    "options": [
+      "A. Octavia",
+      "B. Cleopatra",
+      "C. Fulvia",
+      "D. Charmian"
+    ],
+    "answer": "B",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "In So the Path Does not Die, what is the name of the country where Fina is born?",
+    "options": [
+      "A. Nigeria",
+      "B. Sierra Leone",
+      "C. Ghana",
+      "D. Liberia"
+    ],
+    "answer": "B",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "In Redemption Road, what is the name of the main character?",
+    "options": [
+      "A. Bendu Lewis",
+      "B. Fina",
+      "C. Cammy",
+      "D. Anansewa"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "In To Kill a Mockingbird, what is the name of the narrator?",
+    "options": [
+      "A. Scout",
+      "B. Jem",
+      "C. Atticus",
+      "D. Dill"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "In Path of Lucas, what is the main character's name?",
+    "options": [
+      "A. Lucas",
+      "B. Jeannette",
+      "C. Fina",
+      "D. Bendu"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "In Once Upon an Elephant, who is the main female character?",
+    "options": [
+      "A. Erelu",
+      "B. Ayaba",
+      "C. Anansewa",
+      "D. Cleopatra"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 283,
+    "question": "In The Marriage of Anansewa, who is the main character?",
+    "options": [
+      "A. Ananse",
+      "B. Anansewa",
+      "C. Christie",
+      "D. The Chief"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 284,
+    "question": "In An Inspector Calls, who is the inspector?",
+    "options": [
+      "A. Inspector Goole",
+      "B. Inspector Javert",
+      "C. Inspector Morse",
+      "D. Inspector Clouseau"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "In A Man for All Seasons, who is the main character?",
+    "options": [
+      "A. Sir Thomas More",
+      "B. Thomas Cromwell",
+      "C. Richard Rich",
+      "D. King Henry VIII"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "Who wrote the poem Once Upon a Time?",
+    "options": [
+      "A. Gabriel Okara",
+      "B. Wole Soyinka",
+      "C. Niyi Osundare",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 287,
+    "question": "Who wrote the poem New Tongue?",
+    "options": [
+      "A. Elizabeth L. A. Kamara",
+      "B. S.O.H. Afriyie-Vidza",
+      "C. Syl Cheney-Coker",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 288,
+    "question": "Who wrote the poem Night?",
+    "options": [
+      "A. Wole Soyinka",
+      "B. Gabriel Okara",
+      "C. Niyi Osundare",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 289,
+    "question": "Who wrote the poem Not my Business?",
+    "options": [
+      "A. Niyi Osundare",
+      "B. Wole Soyinka",
+      "C. Gabriel Okara",
+      "D. Syl Cheney-Coker"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "Who wrote the poem Hearty Garlands?",
+    "options": [
+      "A. S.O.H. Afriyie-Vidza",
+      "B. Elizabeth L. A. Kamara",
+      "C. Syl Cheney-Coker",
+      "D. Niyi Osundare"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "Who wrote the poem The Breast of the Sea?",
+    "options": [
+      "A. Syl Cheney-Coker",
+      "B. Wole Soyinka",
+      "C. Maya Angelou",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Who wrote the poem She Walks in Beauty?",
+    "options": [
+      "A. Lord Byron",
+      "B. Geoffrey Chaucer",
+      "C. Wilfrid Wilson Gibson",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 293,
+    "question": "Who wrote the poem The Nun's Priest's Tale?",
+    "options": [
+      "A. Geoffrey Chaucer",
+      "B. Lord Byron",
+      "C. Maya Angelou",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 294,
+    "question": "Who wrote the poem Digging?",
+    "options": [
+      "A. Seamus Heaney",
+      "B. Wilfrid Wilson Gibson",
+      "C. Fleur Adcock",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "Who wrote the poem Still I Rise?",
+    "options": [
+      "A. Maya Angelou",
+      "B. Fleur Adcock",
+      "C. Wilfrid Wilson Gibson",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "question": "Who wrote the poem The Telephone Call?",
+    "options": [
+      "A. Fleur Adcock",
+      "B. Maya Angelou",
+      "C. Seamus Heaney",
+      "D. Geoffrey Chaucer"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "Who wrote the poem The Stone?",
+    "options": [
+      "A. Wilfrid Wilson Gibson",
+      "B. Lord Byron",
+      "C. Seamus Heaney",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "A figure of speech where human qualities are given to non-human things is called",
+    "options": [
+      "A. Simile",
+      "B. Metaphor",
+      "C. Personification",
+      "D. Alliteration"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "The repetition of initial consonant sounds in a line of poetry is",
+    "options": [
+      "A. Assonance",
+      "B. Consonance",
+      "C. Alliteration",
+      "D. Rhyme"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "A poem of fourteen lines using any of a number of formal rhyme schemes is a",
+    "options": [
+      "A. Ballad",
+      "B. Sonnet",
+      "C. Ode",
+      "D. Elegy"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "A comparison using 'like' or 'as' is a",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "An exaggeration used for emphasis is called",
+    "options": [
+      "A. Understatement",
+      "B. Hyperbole",
+      "C. Irony",
+      "D. Sarcasm"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "A play that ends in tragedy is called a",
+    "options": [
+      "A. Comedy",
+      "B. Farce",
+      "C. Tragedy",
+      "D. Satire"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "The main character in a tragedy is called the",
+    "options": [
+      "A. Antagonist",
+      "B. Protagonist",
+      "C. Narrator",
+      "D. Chorus"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "A character who opposes the main character is the",
+    "options": [
+      "A. Protagonist",
+      "B. Antagonist",
+      "C. Foil",
+      "D. Narrator"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "A poem that mourns the death of a person is an",
+    "options": [
+      "A. Ode",
+      "B. Elegy",
+      "C. Epic",
+      "D. Sonnet"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The turning point of a story is called the",
+    "options": [
+      "A. Exposition",
+      "B. Climax",
+      "C. Resolution",
+      "D. Rising action"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "The perspective from which a story is told is the",
+    "options": [
+      "A. Plot",
+      "B. Theme",
+      "C. Point of view",
+      "D. Setting"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "A hint of what is to come in a story is called",
+    "options": [
+      "A. Flashback",
+      "B. Foreshadowing",
+      "C. Suspense",
+      "D. Irony"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "The use of words to convey the opposite of their literal meaning is",
+    "options": [
+      "A. Irony",
+      "B. Sarcasm",
+      "C. Paradox",
+      "D. Oxymoron"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "A group of lines in a poem is called a",
+    "options": [
+      "A. Stanza",
+      "B. Paragraph",
+      "C. Chapter",
+      "D. Scene"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "The repetition of vowel sounds in nearby words is",
+    "options": [
+      "A. Alliteration",
+      "B. Assonance",
+      "C. Consonance",
+      "D. Rhyme"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "A long narrative poem about the deeds of a hero is an",
+    "options": [
+      "A. Epic",
+      "B. Ballad",
+      "C. Ode",
+      "D. Sonnet"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "A speech made by a character alone on stage is a",
+    "options": [
+      "A. Dialogue",
+      "B. Monologue",
+      "C. Soliloquy",
+      "D. Aside"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "A remark made by a character intended to be heard by the audience but not other characters is an",
+    "options": [
+      "A. Soliloquy",
+      "B. Aside",
+      "C. Monologue",
+      "D. Prologue"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The atmosphere or feeling created by a literary work is the",
+    "options": [
+      "A. Tone",
+      "B. Mood",
+      "C. Theme",
+      "D. Style"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The attitude of the writer towards the subject is the",
+    "options": [
+      "A. Mood",
+      "B. Tone",
+      "C. Theme",
+      "D. Plot"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "A story that teaches a moral lesson, often with animals as characters, is a",
+    "options": [
+      "A. Fable",
+      "B. Parable",
+      "C. Myth",
+      "D. Legend"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "A traditional story explaining natural phenomena is a",
+    "options": [
+      "A. Fable",
+      "B. Myth",
+      "C. Legend",
+      "D. Folktale"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "A story handed down from the past, often based on real events, is a",
+    "options": [
+      "A. Myth",
+      "B. Fable",
+      "C. Legend",
+      "D. Parable"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "The central idea or message of a literary work is the",
+    "options": [
+      "A. Plot",
+      "B. Theme",
+      "C. Setting",
+      "D. Conflict"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "The sequence of events in a story is the",
+    "options": [
+      "A. Theme",
+      "B. Plot",
+      "C. Setting",
+      "D. Character"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "The time and place in which a story occurs is the",
+    "options": [
+      "A. Plot",
+      "B. Theme",
+      "C. Setting",
+      "D. Conflict"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "A struggle between opposing forces in a story is the",
+    "options": [
+      "A. Climax",
+      "B. Conflict",
+      "C. Resolution",
+      "D. Plot"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 325,
+    "question": "A character who does not change throughout the story is a",
+    "options": [
+      "A. Dynamic character",
+      "B. Round character",
+      "C. Static character",
+      "D. Flat character"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "A character who changes significantly throughout the story is a",
+    "options": [
+      "A. Static character",
+      "B. Dynamic character",
+      "C. Flat character",
+      "D. Stock character"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "A character with a single dominant trait is a",
+    "options": [
+      "A. Round character",
+      "B. Dynamic character",
+      "C. Flat character",
+      "D. Complex character"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "A character with many complex traits is a",
+    "options": [
+      "A. Flat character",
+      "B. Static character",
+      "C. Round character",
+      "D. Stock character"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A scene that interrupts the chronological order to show a past event is a",
+    "options": [
+      "A. Flashback",
+      "B. Foreshadowing",
+      "C. Cliffhanger",
+      "D. Subplot"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "A secondary storyline in a literary work is a",
+    "options": [
+      "A. Main plot",
+      "B. Subplot",
+      "C. Climax",
+      "D. Resolution"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "The final part of a story where conflicts are resolved is the",
+    "options": [
+      "A. Climax",
+      "B. Rising action",
+      "C. Resolution",
+      "D. Exposition"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "The introduction of characters and setting at the beginning of a story is the",
+    "options": [
+      "A. Exposition",
+      "B. Climax",
+      "C. Resolution",
+      "D. Rising action"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "A poem that praises a person, place, or thing is an",
+    "options": [
+      "A. Elegy",
+      "B. Ode",
+      "C. Epic",
+      "D. Sonnet"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "A short, humorous poem with a specific rhyme scheme is a",
+    "options": [
+      "A. Sonnet",
+      "B. Epic",
+      "C. Limerick",
+      "D. Ballad"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "A narrative poem often sung, telling a popular story, is a",
+    "options": [
+      "A. Sonnet",
+      "B. Ballad",
+      "C. Ode",
+      "D. Elegy"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "The use of a word that imitates the sound it describes is",
+    "options": [
+      "A. Alliteration",
+      "B. Onomatopoeia",
+      "C. Assonance",
+      "D. Consonance"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "A phrase combining contradictory terms is an",
+    "options": [
+      "A. Oxymoron",
+      "B. Paradox",
+      "C. Irony",
+      "D. Hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "A statement that seems contradictory but may be true is a",
+    "options": [
+      "A. Oxymoron",
+      "B. Paradox",
+      "C. Irony",
+      "D. Metonymy"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The substitution of the name of an attribute for the thing meant is",
+    "options": [
+      "A. Metonymy",
+      "B. Synecdoche",
+      "C. Metaphor",
+      "D. Simile"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 340,
+    "question": "A part used to represent the whole is",
+    "options": [
+      "A. Metonymy",
+      "B. Synecdoche",
+      "C. Metonymy",
+      "D. Simile"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 341,
+    "question": "In the poem Once Upon a Time, what does the speaker say people do with their eyes when they laugh?",
+    "options": [
+      "A. They search behind the speaker's shadow",
+      "B. They look away",
+      "C. They close",
+      "D. They cry"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "In New Tongue, what happens to the 'old songs'?",
+    "options": [
+      "A. They are celebrated",
+      "B. They are disregarded",
+      "C. They are rewritten",
+      "D. They are taught in schools"
+    ],
+    "answer": "B",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "In Night, what does the speaker say he must not hear?",
+    "options": [
+      "A. The sea",
+      "B. The night children",
+      "C. The wind",
+      "D. The waves"
+    ],
+    "answer": "B",
+    "topic": "Night",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "In Not my Business, why does the speaker ignore the suffering of others?",
+    "options": [
+      "A. He is afraid",
+      "B. He wants to protect his own comfort (yam)",
+      "C. He doesn't care",
+      "D. He is powerless"
+    ],
+    "answer": "B",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "In Hearty Garlands, what does the poet say the mentor's failures gave?",
+    "options": [
+      "A. No trite, crippling regrets",
+      "B. Deep sorrow",
+      "C. Great shame",
+      "D. Lasting pain"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "In The Breast of the Sea, what does the sea wash itself clean of?",
+    "options": [
+      "A. The blight of our century",
+      "B. The history of mankind",
+      "C. The ships",
+      "D. The fish"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 347,
+    "question": "In She Walks in Beauty, what does the poet say the woman's thoughts express?",
+    "options": [
+      "A. How pure and dear their dwelling place is",
+      "B. Her hidden sorrow",
+      "C. Her great ambition",
+      "D. Her love for the poet"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 348,
+    "question": "In The Nun's Priest's Tale, what does the fox use to trick Chanticleer?",
+    "options": [
+      "A. Flattery",
+      "B. Food",
+      "C. Threats",
+      "D. Magic"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "In Digging, what does the speaker say his grandfather was better at than any man?",
+    "options": [
+      "A. Cutting turf",
+      "B. Digging potatoes",
+      "C. Writing poetry",
+      "D. Farming"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "In Still I Rise, what does the speaker say she is like?",
+    "options": [
+      "A. Moons and suns",
+      "B. Rivers and streams",
+      "C. Mountains and hills",
+      "D. Birds and bees"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "In The Telephone Call, what does the caller say is unusual?",
+    "options": [
+      "A. The poet's reaction",
+      "B. The prize amount",
+      "C. The company name",
+      "D. The module used"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 352,
+    "question": "In The Stone, what does the narrator say the woman's eyes did to his marrow?",
+    "options": [
+      "A. Cut it like cold steel",
+      "B. Warm it",
+      "C. Freeze it",
+      "D. Soothe it"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 353,
+    "question": "In Antony and Cleopatra, who is the Roman triumvir who is often seen as a peacemaker?",
+    "options": [
+      "A. Lepidus",
+      "B. Antony",
+      "C. Caesar",
+      "D. Pompey"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 354,
+    "question": "In So the Path Does not Die, what is Fina's profession in the US?",
+    "options": [
+      "A. Nurse",
+      "B. Teacher",
+      "C. Doctor",
+      "D. Lawyer"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "In Redemption Road, what is the name of the trauma healing center?",
+    "options": [
+      "A. Redemption Road Ministry",
+      "B. Trauma Healing Center",
+      "C. Liberian Recovery Fund",
+      "D. War Victims Relief"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "question": "In To Kill a Mockingbird, what does Atticus Finch do for a living?",
+    "options": [
+      "A. He is a lawyer",
+      "B. He is a doctor",
+      "C. He is a teacher",
+      "D. He is a farmer"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 357,
+    "question": "In Path of Lucas, who is the author?",
+    "options": [
+      "A. Susanne Bellefeuille",
+      "B. Harper Lee",
+      "C. Elma Shaw",
+      "D. Pede Hollist"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 358,
+    "question": "In Once Upon an Elephant, who is the author?",
+    "options": [
+      "A. Bosede Ademilua-Afolayan",
+      "B. Efua Sutherland",
+      "C. J.D. Priestley",
+      "D. Robert Bolt"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "In The Marriage of Anansewa, who is the author?",
+    "options": [
+      "A. Efua Sutherland",
+      "B. Bosede Ademilua-Afolayan",
+      "C. Wole Soyinka",
+      "D. Niyi Osundare"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 360,
+    "question": "In An Inspector Calls, who is the author?",
+    "options": [
+      "A. J.D. Priestley",
+      "B. Robert Bolt",
+      "C. William Shakespeare",
+      "D. Geoffrey Chaucer"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "In A Man for All Seasons, who is the author?",
+    "options": [
+      "A. Robert Bolt",
+      "B. J.D. Priestley",
+      "C. Seamus Heaney",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 362,
+    "question": "In Once Upon a Time, who is the author?",
+    "options": [
+      "A. Gabriel Okara",
+      "B. Wole Soyinka",
+      "C. Niyi Osundare",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 363,
+    "question": "In New Tongue, who is the author?",
+    "options": [
+      "A. Elizabeth L. A. Kamara",
+      "B. S.O.H. Afriyie-Vidza",
+      "C. Syl Cheney-Coker",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "In Night, who is the author?",
+    "options": [
+      "A. Wole Soyinka",
+      "B. Gabriel Okara",
+      "C. Niyi Osundare",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "In Not my Business, who is the author?",
+    "options": [
+      "A. Niyi Osundare",
+      "B. Wole Soyinka",
+      "C. Gabriel Okara",
+      "D. Syl Cheney-Coker"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 366,
+    "question": "In Hearty Garlands, who is the author?",
+    "options": [
+      "A. S.O.H. Afriyie-Vidza",
+      "B. Elizabeth L. A. Kamara",
+      "C. Syl Cheney-Coker",
+      "D. Niyi Osundare"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 367,
+    "question": "In The Breast of the Sea, who is the author?",
+    "options": [
+      "A. Syl Cheney-Coker",
+      "B. Wole Soyinka",
+      "C. Maya Angelou",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "In She Walks in Beauty, who is the author?",
+    "options": [
+      "A. Lord Byron",
+      "B. Geoffrey Chaucer",
+      "C. Wilfrid Wilson Gibson",
+      "D. Seamus Heaney"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "In The Nun's Priest's Tale, who is the author?",
+    "options": [
+      "A. Geoffrey Chaucer",
+      "B. Lord Byron",
+      "C. Maya Angelou",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 370,
+    "question": "In Digging, who is the author?",
+    "options": [
+      "A. Seamus Heaney",
+      "B. Wilfrid Wilson Gibson",
+      "C. Fleur Adcock",
+      "D. Maya Angelou"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 371,
+    "question": "In Still I Rise, who is the author?",
+    "options": [
+      "A. Maya Angelou",
+      "B. Fleur Adcock",
+      "C. Wilfrid Wilson Gibson",
+      "D. Lord Byron"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 372,
+    "question": "In The Telephone Call, who is the author?",
+    "options": [
+      "A. Fleur Adcock",
+      "B. Maya Angelou",
+      "C. Seamus Heaney",
+      "D. Geoffrey Chaucer"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 373,
+    "question": "In The Stone, who is the author?",
+    "options": [
+      "A. Wilfrid Wilson Gibson",
+      "B. Lord Byron",
+      "C. Seamus Heaney",
+      "D. Fleur Adcock"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "A sonnet typically has how many lines?",
+    "options": [
+      "A. 10",
+      "B. 12",
+      "C. 14",
+      "D. 16"
+    ],
+    "answer": "C",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 375,
+    "question": "A haiku consists of how many lines?",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 376,
+    "question": "The main character in a play is often called the",
+    "options": [
+      "A. Antagonist",
+      "B. Protagonist",
+      "C. Narrator",
+      "D. Chorus"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "The person who tells a story is the",
+    "options": [
+      "A. Author",
+      "B. Narrator",
+      "C. Protagonist",
+      "D. Antagonist"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "A play on words is called a",
+    "options": [
+      "A. Pun",
+      "B. Joke",
+      "C. Riddle",
+      "D. Satire"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "A work that ridicules human folly or vice is a",
+    "options": [
+      "A. Comedy",
+      "B. Satire",
+      "C. Farce",
+      "D. Tragedy"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "A humorous play with a happy ending is a",
+    "options": [
+      "A. Tragedy",
+      "B. Comedy",
+      "C. Satire",
+      "D. Farce"
+    ],
+    "answer": "B",
+    "topic": "Literary Terms",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "A play with exaggerated characters and improbable situations is a",
+    "options": [
+      "A. Farce",
+      "B. Tragedy",
+      "C. Satire",
+      "D. Sonnet"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "The use of symbols to represent ideas or qualities is",
+    "options": [
+      "A. Symbolism",
+      "B. Imagery",
+      "C. Metaphor",
+      "D. Allegory"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "A story, poem, or picture that can be interpreted to reveal a hidden meaning is an",
+    "options": [
+      "A. Allegory",
+      "B. Symbol",
+      "C. Metaphor",
+      "D. Simile"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "Visually descriptive or figurative language is called",
+    "options": [
+      "A. Imagery",
+      "B. Symbolism",
+      "C. Metaphor",
+      "D. Alliteration"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "The omission of conjunctions between parts of a sentence is",
+    "options": [
+      "A. Asyndeton",
+      "B. Polysyndeton",
+      "C. Anaphora",
+      "D. Epistrophe"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "The repetition of a word or phrase at the beginning of successive clauses is",
+    "options": [
+      "A. Anaphora",
+      "B. Epistrophe",
+      "C. Asyndeton",
+      "D. Polysyndeton"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "question": "The repetition of a word or phrase at the end of successive clauses is",
+    "options": [
+      "A. Epistrophe",
+      "B. Anaphora",
+      "C. Asyndeton",
+      "D. Polysyndeton"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "The use of many conjunctions in close succession is",
+    "options": [
+      "A. Polysyndeton",
+      "B. Asyndeton",
+      "C. Anaphora",
+      "D. Epistrophe"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 389,
+    "question": "An understatement used to emphasize a point is",
+    "options": [
+      "A. Litotes",
+      "B. Hyperbole",
+      "C. Irony",
+      "D. Paradox"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 390,
+    "question": "The attribution of human feelings to nature or inanimate objects is",
+    "options": [
+      "A. Pathetic fallacy",
+      "B. Personification",
+      "C. Apostrophe",
+      "D. Synecdoche"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 391,
+    "question": "A direct address to an absent person or abstract idea is an",
+    "options": [
+      "A. Apostrophe",
+      "B. Personification",
+      "C. Pathetic fallacy",
+      "D. Metonymy"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 392,
+    "question": "A story within a story is called a",
+    "options": [
+      "A. Frame narrative",
+      "B. Subplot",
+      "C. Flashback",
+      "D. Foreshadowing"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 393,
+    "question": "The turning point in a tragedy where the hero's fortune changes is the",
+    "options": [
+      "A. Peripeteia",
+      "B. Anagnorisis",
+      "C. Hamartia",
+      "D. Catharsis"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 394,
+    "question": "The tragic flaw in a hero that leads to their downfall is the",
+    "options": [
+      "A. Hamartia",
+      "B. Peripeteia",
+      "C. Anagnorisis",
+      "D. Catharsis"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "The moment of critical discovery or recognition in a tragedy is the",
+    "options": [
+      "A. Anagnorisis",
+      "B. Peripeteia",
+      "C. Hamartia",
+      "D. Catharsis"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 396,
+    "question": "The release of emotions of pity and fear at the end of a tragedy is",
+    "options": [
+      "A. Catharsis",
+      "B. Peripeteia",
+      "C. Anagnorisis",
+      "D. Hamartia"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 397,
+    "question": "A group of characters in a play who comment on the action is the",
+    "options": [
+      "A. Chorus",
+      "B. Cast",
+      "C. Ensemble",
+      "D. Crew"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "A speech delivered by a character alone on stage revealing their inner thoughts is a",
+    "options": [
+      "A. Soliloquy",
+      "B. Monologue",
+      "C. Dialogue",
+      "D. Aside"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "A long speech by one character in a play is a",
+    "options": [
+      "A. Monologue",
+      "B. Soliloquy",
+      "C. Dialogue",
+      "D. Aside"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The final resolution of the plot in a story is the",
+    "options": [
+      "A. Denouement",
+      "B. Climax",
+      "C. Exposition",
+      "D. Inciting incident"
+    ],
+    "answer": "A",
+    "topic": "Literary Terms",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 401,
+    "question": "In Antony and Cleopatra, who is the soothsayer who warns Antony about Caesar?",
+    "options": [
+      "A. A Soothsayer",
+      "B. Alexas",
+      "C. Mardian",
+      "D. Enobarbus"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 402,
+    "question": "In So the Path Does not Die, what is the name of Fina's close friend who helps her?",
+    "options": [
+      "A. Cammy",
+      "B. Kizzy",
+      "C. Baramusu",
+      "D. Aman"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "In Redemption Road, what does Bendu find upon returning to Liberia?",
+    "options": [
+      "A. A destroyed and traumatized society",
+      "B. A prosperous nation",
+      "C. A thriving economy",
+      "D. A peaceful utopia"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "In To Kill a Mockingbird, what does Boo Radley do at the end of the novel?",
+    "options": [
+      "A. Saves Scout and Jem from Bob Ewell",
+      "B. Moves away from Maycomb",
+      "C. Testifies in court",
+      "D. Runs for public office"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "In Path of Lucas, who is Lucas's primary advocate and caregiver?",
+    "options": [
+      "A. His mother, Jeannette",
+      "B. His father",
+      "C. His teacher",
+      "D. His brother"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "In Once Upon an Elephant, what does Erelu fight against?",
+    "options": [
+      "A. Patriarchal oppression and tradition",
+      "B. Colonial rule",
+      "C. Poverty",
+      "D. Illiteracy"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "In The Marriage of Anansewa, why does Ananse want his daughter to marry the Chief?",
+    "options": [
+      "A. For wealth and status",
+      "B. For love",
+      "C. To save her life",
+      "D. To unite tribes"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "In An Inspector Calls, which member of the Birling family is the first to realize the Inspector's true nature?",
+    "options": [
+      "A. Sheila Birling",
+      "B. Arthur Birling",
+      "C. Sybil Birling",
+      "D. Eric Birling"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 409,
+    "question": "In A Man for All Seasons, what position does Sir Thomas More hold that leads to his downfall?",
+    "options": [
+      "A. Lord Chancellor",
+      "B. Archbishop",
+      "C. King's advisor",
+      "D. General"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "In Once Upon a Time, what does the speaker's laugh in the mirror reveal?",
+    "options": [
+      "A. Only his teeth, like a snake's fangs",
+      "B. True happiness",
+      "C. His old age",
+      "D. His childhood memories"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 411,
+    "question": "In New Tongue, what happens to the ties of family and friendship?",
+    "options": [
+      "A. They are loosened and broken",
+      "B. They are strengthened",
+      "C. They are celebrated",
+      "D. They are ignored"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "In Night, what does the speaker say his heart is not like?",
+    "options": [
+      "A. Mercuric like the clouds",
+      "B. A stone",
+      "C. A river",
+      "D. A burning fire"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 413,
+    "question": "In Not my Business, what happens to Chinwe?",
+    "options": [
+      "A. She loses her job",
+      "B. She is arrested",
+      "C. She is beaten",
+      "D. She is deported"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "In Hearty Garlands, what does the poet call the mentor?",
+    "options": [
+      "A. A wondrous mentor of rogues like us",
+      "B. A king among men",
+      "C. A brilliant scholar",
+      "D. A gentle giant"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "In The Breast of the Sea, what does the sea's belly fail to yield?",
+    "options": [
+      "A. New islands",
+      "B. Fish",
+      "C. Pearls",
+      "D. Oil"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "In She Walks in Beauty, what effect does the woman's beauty have on the poet?",
+    "options": [
+      "A. It brings him peace and innocence",
+      "B. It makes him sad",
+      "C. It angers him",
+      "D. It frightens him"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "In The Nun's Priest's Tale, who is the fox that tricks Chanticleer?",
+    "options": [
+      "A. Don Russel",
+      "B. Pertelote",
+      "C. Molly",
+      "D. The Widow"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "In Digging, what does the speaker's father do for a living?",
+    "options": [
+      "A. He is a potato farmer",
+      "B. He is a writer",
+      "C. He is a teacher",
+      "D. He is a fisherman"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "In Still I Rise, what does the speaker say she does like dust?",
+    "options": [
+      "A. She rises",
+      "B. She settles",
+      "C. She blows away",
+      "D. She hides"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "In The Telephone Call, what is the prize the caller supposedly won?",
+    "options": [
+      "A. A million pounds",
+      "B. A new car",
+      "C. A trip around the world",
+      "D. A house"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "In The Stone, how does the lover die?",
+    "options": [
+      "A. In a quarry accident",
+      "B. In a war",
+      "C. By drowning",
+      "D. By disease"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "In Antony and Cleopatra, what does Antony call Cleopatra after the battle of Actium?",
+    "options": [
+      "A. A false soul of Egypt",
+      "B. My love",
+      "C. My queen",
+      "D. A brave warrior"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 423,
+    "question": "In So the Path Does not Die, where does Fina first flee to escape the ritual?",
+    "options": [
+      "A. Freetown",
+      "B. Bo",
+      "C. Kenema",
+      "D. Makeni"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 424,
+    "question": "In To Kill a Mockingbird, what does the title refer to?",
+    "options": [
+      "A. It is a sin to kill a mockingbird",
+      "B. A game the children play",
+      "C. A book Atticus reads",
+      "D. A song Scout sings"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "In Path of Lucas, what is the setting of the story?",
+    "options": [
+      "A. A rural farming community",
+      "B. A bustling city",
+      "C. A coastal town",
+      "D. A mountain village"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 426,
+    "question": "In Once Upon an Elephant, what does the title symbolize?",
+    "options": [
+      "A. The heavy burden of tradition",
+      "B. The strength of the king",
+      "C. The beauty of nature",
+      "D. The wealth of the kingdom"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 427,
+    "question": "In The Marriage of Anansewa, how does Ananse trick the Chiefs?",
+    "options": [
+      "A. By promising his daughter to all of them",
+      "B. By pretending his daughter is dead",
+      "C. By stealing their money",
+      "D. By running away with the bride"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "In An Inspector Calls, how does the younger generation react to the Inspector's revelations?",
+    "options": [
+      "A. They accept responsibility",
+      "B. They deny everything",
+      "C. They blame their parents",
+      "D. They run away"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "In A Man for All Seasons, why does More refuse to sign the Act of Supremacy?",
+    "options": [
+      "A. He believes it is against his Catholic faith",
+      "B. He hates the King",
+      "C. He wants to be King",
+      "D. He is paid to refuse"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "In Once Upon a Time, what do people do with their left hands when they shake hands?",
+    "options": [
+      "A. Search empty pockets",
+      "B. Wave hello",
+      "C. Hold a weapon",
+      "D. Touch their hearts"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 431,
+    "question": "In New Tongue, what do the new generation's minds turn towards?",
+    "options": [
+      "A. Inwards",
+      "B. Outwards",
+      "C. Upwards",
+      "D. Downwards"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 432,
+    "question": "In Night, what does the speaker ask the Night to do?",
+    "options": [
+      "A. Hide him",
+      "B. Leave him alone",
+      "C. Bring him peace",
+      "D. Show him the way"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "In Not my Business, what happens to the speaker at the end of the poem?",
+    "options": [
+      "A. A jeep waits at his lawn",
+      "B. He escapes",
+      "C. He fights back",
+      "D. He celebrates"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "In Hearty Garlands, what age is the subject turning?",
+    "options": [
+      "A. 85",
+      "B. 70",
+      "C. 75",
+      "D. 80"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "In The Breast of the Sea, which country's suffering is highlighted?",
+    "options": [
+      "A. Sierra Leone",
+      "B. Nigeria",
+      "C. Liberia",
+      "D. Ghana"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "In She Walks in Beauty, what is the woman's mind described as?",
+    "options": [
+      "A. At peace with all below",
+      "B. Troubled by the world",
+      "C. Full of ambition",
+      "D. Restless and wild"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "In The Nun's Priest's Tale, what does Chanticleer dream about?",
+    "options": [
+      "A. A fox catching him",
+      "B. A beautiful hen",
+      "C. A field of corn",
+      "D. The end of the world"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "In Digging, what does the speaker's grandfather cut?",
+    "options": [
+      "A. Turf",
+      "B. Wood",
+      "C. Potatoes",
+      "D. Stone"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "In Still I Rise, what does the speaker compare her sassiness to?",
+    "options": [
+      "A. Oil wells pumping in her living room",
+      "B. A flowing river",
+      "C. A rising sun",
+      "D. A mountain"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "In The Telephone Call, what does the company say they deal in instead of money?",
+    "options": [
+      "A. Experiences",
+      "B. Cars",
+      "C. Houses",
+      "D. Stocks"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "In The Stone, who tells the woman about her lover's death?",
+    "options": [
+      "A. A fool who sped before the narrator",
+      "B. The narrator",
+      "C. Her father",
+      "D. His mother"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 442,
+    "question": "In Antony and Cleopatra, who is Caesar's sister that Antony marries?",
+    "options": [
+      "A. Octavia",
+      "B. Cleopatra",
+      "C. Fulvia",
+      "D. Valeria"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "In So the Path Does not Die, what is Fina's profession?",
+    "options": [
+      "A. Doctor",
+      "B. Teacher",
+      "C. Nurse",
+      "D. Lawyer"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 444,
+    "question": "In Redemption Road, what does Bendu attempt to do upon her return?",
+    "options": [
+      "A. Rebuild her life and help others",
+      "B. Run for president",
+      "C. Leave the country again",
+      "D. Join the military"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "In To Kill a Mockingbird, who is the sheriff of Maycomb?",
+    "options": [
+      "A. Heck Tate",
+      "B. Bob Ewell",
+      "C. Judge Taylor",
+      "D. Mr. Underwood"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 446,
+    "question": "In Path of Lucas, what is the name of Lucas's mother?",
+    "options": [
+      "A. Jeannette",
+      "B. Sarah",
+      "C. Mary",
+      "D. Elizabeth"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "In Once Upon an Elephant, who represents the traditional authority?",
+    "options": [
+      "A. The Oba",
+      "B. Erelu",
+      "C. The Ayaba",
+      "D. The slaves"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "In The Marriage of Anansewa, what is the name of the Chief Anansewa finally marries?",
+    "options": [
+      "A. Chief-Who-Is-Chief",
+      "B. Chief of the North",
+      "C. Chief of the South",
+      "D. Chief of the East"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "In An Inspector Calls, what is Arthur Birling's main concern when the Inspector arrives?",
+    "options": [
+      "A. His reputation and potential knighthood",
+      "B. His daughter's marriage",
+      "C. The health of his wife",
+      "D. The war"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "In A Man for All Seasons, who betrays Sir Thomas More?",
+    "options": [
+      "A. Richard Rich",
+      "B. Thomas Cromwell",
+      "C. The Duke of Norfolk",
+      "D. Cardinal Wolsey"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "In Once Upon a Time, what does the speaker say people's eyes are like?",
+    "options": [
+      "A. Ice-blocks",
+      "B. Flames",
+      "C. Water",
+      "D. Stars"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 452,
+    "question": "In New Tongue, what do the new generation hang on their culture?",
+    "options": [
+      "A. The last lock",
+      "B. A new lock",
+      "C. A broken lock",
+      "D. No lock"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 453,
+    "question": "In Night, what does the speaker say the Night rained through the leaves?",
+    "options": [
+      "A. Serrated shadows",
+      "B. Water",
+      "C. Light",
+      "D. Flowers"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 454,
+    "question": "In Not my Business, what did they do to Akanni?",
+    "options": [
+      "A. Beat him soft like clay",
+      "B. Arrested him",
+      "C. Took his job",
+      "D. Killed him"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "In Hearty Garlands, what does the poet hope the mentor will do at 85?",
+    "options": [
+      "A. Watch them strive and beat his chest in pride",
+      "B. Rest and sleep",
+      "C. Travel the world",
+      "D. Write a book"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "In The Breast of the Sea, what does the poet ask the sea if it has?",
+    "options": [
+      "A. The balm to heal the wound of her children",
+      "B. Gold and silver",
+      "C. Secrets of the universe",
+      "D. Fish for the orphans"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 457,
+    "question": "In She Walks in Beauty, what does the poet say heaven denies to gaudy day?",
+    "options": [
+      "A. The tender light",
+      "B. The starry skies",
+      "C. The raven tress",
+      "D. The smiling cheek"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 458,
+    "question": "In The Nun's Priest's Tale, what does Pertelote advise Chanticleer to do about his dream?",
+    "options": [
+      "A. Ignore it and take a laxative",
+      "B. Pray to God",
+      "C. Run away",
+      "D. Consult a priest"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 459,
+    "question": "In Digging, what does the speaker say the squat pen rests between?",
+    "options": [
+      "A. His finger and thumb",
+      "B. His teeth",
+      "C. His hands",
+      "D. The pages"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "In Still I Rise, what does the speaker say she laughs like?",
+    "options": [
+      "A. She's got gold mines",
+      "B. She's got oil wells",
+      "C. She's got diamonds",
+      "D. She's got a new car"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "In The Telephone Call, what is the name of the module the company uses to select winners?",
+    "options": [
+      "A. Retrospective Chances Module",
+      "B. Random Selection Module",
+      "C. Fair Play Module",
+      "D. Luck Module"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 462,
+    "question": "In The Stone, what happens to the woman after the stone is finished?",
+    "options": [
+      "A. She breathes his name and leaves",
+      "B. She dies",
+      "C. She marries the narrator",
+      "D. She moves away"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "In Antony and Cleopatra, who reports Cleopatra's supposed death to Antony?",
+    "options": [
+      "A. Mardian",
+      "B. Charmian",
+      "C. Iras",
+      "D. Alexas"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 464,
+    "question": "In So the Path Does not Die, what is the name of the secret society that performs the ritual?",
+    "options": [
+      "A. The Bondo Society",
+      "B. The Poro Society",
+      "C. The Ogboni Society",
+      "D. The Ekpe Society"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 465,
+    "question": "In Redemption Road, what is the name of the organization Bendu works with?",
+    "options": [
+      "A. Trauma Healing Center",
+      "B. Redemption Road Ministry",
+      "C. War Victims Relief",
+      "D. Liberian Recovery Fund"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 466,
+    "question": "In To Kill a Mockingbird, who is the judge presiding over Tom Robinson's trial?",
+    "options": [
+      "A. Judge Taylor",
+      "B. Judge Reynolds",
+      "C. Judge Heck Tate",
+      "D. Judge Radley"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 467,
+    "question": "In Path of Lucas, what kind of journey does Lucas endure?",
+    "options": [
+      "A. A journey of acceptance and understanding",
+      "B. A physical journey across the country",
+      "C. A journey into space",
+      "D. A journey of wealth accumulation"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "In Once Upon an Elephant, what is the main conflict in the play?",
+    "options": [
+      "A. The struggle over succession and tradition",
+      "B. A war between two kingdoms",
+      "C. A famine",
+      "D. A natural disaster"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "In The Marriage of Anansewa, who helps Ananse set the trap for the chiefs?",
+    "options": [
+      "A. Christie",
+      "B. Anansewa",
+      "C. The Storyteller",
+      "D. The Chief of the North"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "In An Inspector Calls, how does Eric Birling contribute to Eva Smith's downfall?",
+    "options": [
+      "A. He gets her pregnant and steals money",
+      "B. He fires her",
+      "C. He refuses to serve her in the shop",
+      "D. He evicts her from her home"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "In A Man for All Seasons, what does the Common Man represent?",
+    "options": [
+      "A. The ordinary person trying to survive",
+      "B. The king's power",
+      "C. The church's authority",
+      "D. The nobility"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "In Once Upon a Time, what does the speaker say he has learned to do with his teeth?",
+    "options": [
+      "A. Laugh",
+      "B. Bite",
+      "C. Chew",
+      "D. Whistle"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "In New Tongue, what is the 'new tongue' a symbol of?",
+    "options": [
+      "A. Borrowed culture and westernization",
+      "B. A new language invented by the elders",
+      "C. The language of the gods",
+      "D. A secret code"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "In Night, what does the speaker say his sensations are pained by?",
+    "options": [
+      "A. The warm suffusion of dappled cells",
+      "B. The moonlight",
+      "C. The cold wind",
+      "D. The sound of waves"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 475,
+    "question": "In Not my Business, who was dragged out of his house at night?",
+    "options": [
+      "A. Danladi",
+      "B. Akanni",
+      "C. Chinwe",
+      "D. The speaker"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "In Hearty Garlands, what does the poet call the mentor's chest?",
+    "options": [
+      "A. A mahogany chest",
+      "B. An iron chest",
+      "C. A golden chest",
+      "D. A stone chest"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 477,
+    "question": "In The Breast of the Sea, which poet's work is referenced in the poem?",
+    "options": [
+      "A. Darwin",
+      "B. Shakespeare",
+      "C. Noah",
+      "D. Byron"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 478,
+    "question": "In She Walks in Beauty, what color is the woman's hair?",
+    "options": [
+      "A. Raven",
+      "B. Blonde",
+      "C. Brown",
+      "D. Red"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "In The Nun's Priest's Tale, what does Chanticleer do when the fox grabs him?",
+    "options": [
+      "A. He tricks the fox into opening his mouth",
+      "B. He fights back",
+      "C. He screams for help",
+      "D. He plays dead"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "In Digging, what does the speaker say his father's boot nestled on?",
+    "options": [
+      "A. The lug",
+      "B. The spade",
+      "C. The ground",
+      "D. A stone"
+    ],
+    "answer": "A",
+    "topic": "Digging",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 481,
+    "question": "In Still I Rise, what does the speaker say she dances like?",
+    "options": [
+      "A. She's got diamonds at the meeting of her thighs",
+      "B. A butterfly",
+      "C. A queen",
+      "D. A leaf in the wind"
+    ],
+    "answer": "A",
+    "topic": "Still I Rise",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "In The Telephone Call, how does the call end?",
+    "options": [
+      "A. The line goes dead",
+      "B. The caller says goodbye",
+      "C. The poet hangs up",
+      "D. They agree to meet"
+    ],
+    "answer": "A",
+    "topic": "The Telephone Call",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "In The Stone, how many days and nights does the woman not stir?",
+    "options": [
+      "A. Three days and nights",
+      "B. One day and night",
+      "C. Two days and nights",
+      "D. Four days and nights"
+    ],
+    "answer": "A",
+    "topic": "The Stone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "In Antony and Cleopatra, who is the triumvir who is often described as the weakest link?",
+    "options": [
+      "A. Lepidus",
+      "B. Antony",
+      "C. Octavius",
+      "D. Pompey"
+    ],
+    "answer": "A",
+    "topic": "Antony and Cleopatra",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "In So the Path Does not Die, what happens to Fina's mother?",
+    "options": [
+      "A. She dies during the FGM ritual",
+      "B. She dies during childbirth",
+      "C. She runs away",
+      "D. She becomes a nurse"
+    ],
+    "answer": "A",
+    "topic": "So the Path Does not Die",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 486,
+    "question": "In Redemption Road, who is the main antagonist or source of conflict for Bendu?",
+    "options": [
+      "A. Her past trauma and societal stigma",
+      "B. The government",
+      "C. Her husband",
+      "D. The military"
+    ],
+    "answer": "A",
+    "topic": "Redemption Road",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "In To Kill a Mockingbird, what does Atticus say about courage?",
+    "options": [
+      "A. It is knowing you're licked before you begin but you begin anyway",
+      "B. It is the absence of fear",
+      "C. It is the willingness to fight",
+      "D. It is a man with a gun in his hand"
+    ],
+    "answer": "A",
+    "topic": "To Kill a Mockingbird",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 488,
+    "question": "In Path of Lucas, what is the main message of the novel?",
+    "options": [
+      "A. The power of unconditional love and perseverance",
+      "B. The importance of wealth",
+      "C. The necessity of war",
+      "D. The value of travel"
+    ],
+    "answer": "A",
+    "topic": "Path of Lucas",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "In Once Upon an Elephant, what does the elephant symbolize for Erelu?",
+    "options": [
+      "A. A burden she must carry",
+      "B. Her power",
+      "C. Her wealth",
+      "D. Her husband"
+    ],
+    "answer": "A",
+    "topic": "Once Upon an Elephant",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 490,
+    "question": "In The Marriage of Anansewa, what is Anansewa's role in her father's plan?",
+    "options": [
+      "A. She is a passive pawn",
+      "B. She actively helps him",
+      "C. She fights against it",
+      "D. She runs away"
+    ],
+    "answer": "A",
+    "topic": "The Marriage of Anansewa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 491,
+    "question": "In An Inspector Calls, what is the final twist regarding the Inspector?",
+    "options": [
+      "A. He is a supernatural figure or hoax",
+      "B. He is a real police officer",
+      "C. He is a relative of Eva Smith",
+      "D. He was hired by Mr. Birling"
+    ],
+    "answer": "A",
+    "topic": "An Inspector Calls",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "In A Man for All Seasons, what is Sir Thomas More's ultimate fate?",
+    "options": [
+      "A. He is executed",
+      "B. He is exiled",
+      "C. He becomes King",
+      "D. He lives happily ever after"
+    ],
+    "answer": "A",
+    "topic": "A Man for All Seasons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "In Once Upon a Time, what does the speaker say he wants to do with the 'muting things'?",
+    "options": [
+      "A. Unlearn them",
+      "B. Learn them",
+      "C. Ignore them",
+      "D. Teach them"
+    ],
+    "answer": "A",
+    "topic": "Once Upon a Time",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "In New Tongue, what do the new generation's ears block?",
+    "options": [
+      "A. The old tongue and ways of doing things",
+      "B. The sounds of nature",
+      "C. The cries of the poor",
+      "D. The music of their ancestors"
+    ],
+    "answer": "A",
+    "topic": "New Tongue",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "In Night, what does the speaker call the Night's children?",
+    "options": [
+      "A. Night children who haunt the earth",
+      "B. Stars",
+      "C. Demons",
+      "D. Shadows"
+    ],
+    "answer": "A",
+    "topic": "Night",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 496,
+    "question": "In Not my Business, what is the meaning of the phrase 'What business of mine is it'?",
+    "options": [
+      "A. An expression of apathy",
+      "B. A question of curiosity",
+      "C. A call to action",
+      "D. A statement of anger"
+    ],
+    "answer": "A",
+    "topic": "Not my Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "In Hearty Garlands, what does the poet say age eighty-five is?",
+    "options": [
+      "A. Life's smiley, cloudless dawn",
+      "B. A time for rest",
+      "C. The end of the road",
+      "D. A time of sadness"
+    ],
+    "answer": "A",
+    "topic": "Hearty Garlands",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "In The Breast of the Sea, what does the sea's belly wash itself clean of?",
+    "options": [
+      "A. Our century's blight",
+      "B. Fish",
+      "C. The islands",
+      "D. The ships"
+    ],
+    "answer": "A",
+    "topic": "The Breast of the Sea",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 499,
+    "question": "In She Walks in Beauty, what does the poet say the woman's smiles tell of?",
+    "options": [
+      "A. Days in goodness spent",
+      "B. A life of sorrow",
+      "C. Hidden secrets",
+      "D. Future plans"
+    ],
+    "answer": "A",
+    "topic": "She Walks in Beauty",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "In The Nun's Priest's Tale, why does Chanticleer refuse to follow Pertelote's advice?",
+    "options": [
+      "A. He believes dreams have meaning",
+      "B. He is scared",
+      "C. He doesn't like her",
+      "D. He is sick"
+    ],
+    "answer": "A",
+    "topic": "The Nun's Priest's Tale",
+    "difficulty": "Hard"
+  }
+]

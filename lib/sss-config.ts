@@ -17,7 +17,7 @@ export type SSSSubjectKey =
   | "history"
   | "irk"
   | "currentaffairs"
-  | "fineart"
+  | "visualart"
   | "homeeconomics"
   | "insurance"
   | "gscience"
@@ -28,11 +28,16 @@ export type SSSSubjectKey =
   | "yoruba"
   | "healthedu"
   | "nutrition"
+  | "animalhusbandry"
+  | "dataprocessing"
+  | "french"
+  | "ict"
+  | "marketing"
 
 export type SSSExamType = "wassce" | "neco" | "utme"
 export type SSSPaperType = "objective" | "theory"
 
-// Subjects that currently have verified internal JSON question banks under Json/NECO/
+// Subjects that currently have verified internal JSON question banks under Json/NECO/ and Json/WAEC/
 export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey[]> = {
   neco: [
     "accounting",
@@ -47,9 +52,36 @@ export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey
     "english",
     "government",
     "healthedu",
+    "mathematics",
     "nutrition",
+    "physics",
+    "visualart",
   ],
-  wassce: [],
+  wassce: [
+    "accounting",
+    "agriculture",
+    "animalhusbandry",
+    "biology",
+    "chemistry",
+    "civiledu",
+    "commerce",
+    "computer",
+    "crk",
+    "dataprocessing",
+    "economics",
+    "english",
+    "englishlit",
+    "french",
+    "geography",
+    "government",
+    "history",
+    "ict",
+    "irk",
+    "marketing",
+    "mathematics",
+    "physics",
+    "yoruba",
+  ],
   utme: [],
 }
 
@@ -103,7 +135,7 @@ export const SSS_SUBJECTS: SSSSubjectInfo[] = [
   { key: "history", name: "History", shortName: "History", letter: "H", color: "text-slate-400", bg: "bg-slate-400/15", cardGradient: "from-slate-500/20 to-slate-600/10 border-slate-500/30" },
   { key: "irk", name: "IRK", shortName: "IRK", letter: "IRK", color: "text-emerald-400", bg: "bg-emerald-400/15", cardGradient: "from-emerald-500/20 to-emerald-600/10 border-emerald-500/30" },
   { key: "currentaffairs", name: "Current Affairs", shortName: "Current Aff.", letter: "CA", color: "text-amber-400", bg: "bg-amber-400/15", cardGradient: "from-amber-500/20 to-amber-600/10 border-amber-500/30" },
-  { key: "fineart", name: "Fine Art", shortName: "Fine Art", letter: "ART", color: "text-pink-400", bg: "bg-pink-400/15", cardGradient: "from-pink-500/20 to-pink-600/10 border-pink-500/30" },
+  { key: "visualart", name: "Visual Art", shortName: "Visual Art", letter: "ART", color: "text-pink-400", bg: "bg-pink-400/15", cardGradient: "from-pink-500/20 to-pink-600/10 border-pink-500/30" },
   { key: "homeeconomics", name: "Home Economics", shortName: "Home Econ.", letter: "HEC", color: "text-rose-400", bg: "bg-rose-400/15", cardGradient: "from-rose-500/20 to-rose-600/10 border-rose-500/30" },
   { key: "insurance", name: "Insurance", shortName: "Insurance", letter: "INS", color: "text-cyan-400", bg: "bg-cyan-400/15", cardGradient: "from-cyan-500/20 to-cyan-600/10 border-cyan-500/30" },
   { key: "gscience", name: "General Science", shortName: "Gen. Science", letter: "GSC", color: "text-blue-400", bg: "bg-blue-400/15", cardGradient: "from-blue-500/20 to-blue-600/10 border-blue-500/30" },
@@ -114,6 +146,11 @@ export const SSS_SUBJECTS: SSSSubjectInfo[] = [
   { key: "yoruba", name: "Yoruba", shortName: "Yoruba", letter: "Y", color: "text-lime-400", bg: "bg-lime-400/15", cardGradient: "from-lime-500/20 to-lime-600/10 border-lime-500/30" },
   { key: "healthedu", name: "Health Education", shortName: "Health Edu.", letter: "HED", color: "text-teal-400", bg: "bg-teal-400/15", cardGradient: "from-teal-500/20 to-teal-600/10 border-teal-500/30" },
   { key: "nutrition", name: "Foods & Nutrition", shortName: "Nutrition", letter: "NUT", color: "text-emerald-400", bg: "bg-emerald-400/15", cardGradient: "from-emerald-500/20 to-emerald-600/10 border-emerald-500/30" },
+  { key: "animalhusbandry", name: "Animal Husbandry", shortName: "Animal Husb.", letter: "AH", color: "text-amber-400", bg: "bg-amber-400/15", cardGradient: "from-amber-500/20 to-amber-600/10 border-amber-500/30" },
+  { key: "dataprocessing", name: "Data Processing", shortName: "Data Proc.", letter: "DP", color: "text-indigo-400", bg: "bg-indigo-400/15", cardGradient: "from-indigo-500/20 to-indigo-600/10 border-indigo-500/30" },
+  { key: "french", name: "French", shortName: "French", letter: "FRE", color: "text-sky-400", bg: "bg-sky-400/15", cardGradient: "from-sky-500/20 to-sky-600/10 border-sky-500/30" },
+  { key: "ict", name: "ICT", shortName: "ICT", letter: "ICT", color: "text-cyan-400", bg: "bg-cyan-400/15", cardGradient: "from-cyan-500/20 to-cyan-600/10 border-cyan-500/30" },
+  { key: "marketing", name: "Marketing", shortName: "Marketing", letter: "MKT", color: "text-rose-400", bg: "bg-rose-400/15", cardGradient: "from-rose-500/20 to-rose-600/10 border-rose-500/30" },
 ]
 
 export const SSS_EXAM_OPTIONS: {
@@ -125,16 +162,16 @@ export const SSS_EXAM_OPTIONS: {
   supportsTheory: boolean
 }[] = [
   {
-    type: "wassce",
-    label: "WAEC (WASSCE)",
+    type: "neco",
+    label: "NECO",
     badge: "SSCE",
     description: "(Objective & Theory)",
-    enabled: false,
+    enabled: true,
     supportsTheory: true,
   },
   {
-    type: "neco",
-    label: "NECO",
+    type: "wassce",
+    label: "WAEC (WASSCE)",
     badge: "SSCE",
     description: "(Objective & Theory)",
     enabled: true,
@@ -149,6 +186,14 @@ export const SSS_EXAM_OPTIONS: {
     supportsTheory: false,
   },
 ]
+
+export function getAvailableObjectiveExamLabels(key: SSSSubjectKey): string[] {
+  const labels: string[] = []
+  if (AVAILABLE_SSS_OBJECTIVE_SUBJECTS.neco.includes(key)) labels.push("NECO")
+  if (AVAILABLE_SSS_OBJECTIVE_SUBJECTS.wassce.includes(key)) labels.push("WAEC")
+  if (AVAILABLE_SSS_OBJECTIVE_SUBJECTS.utme.includes(key)) labels.push("JAMB")
+  return labels
+}
 
 export function getSSSSubjectByKey(key: SSSSubjectKey): SSSSubjectInfo {
   return SSS_SUBJECTS.find((s) => s.key === key) || SSS_SUBJECTS[0]

@@ -1,10 +1,11 @@
 "use client"
 
 import { getMessaging, getToken, onMessage, isSupported, type Messaging } from "firebase/messaging"
-import { app } from "./firebase"
+import { app, auth } from "./firebase"
 import { saveUserFCMToken } from "./user-stats"
 
 let messagingInstance: Messaging | null = null
+let swRegistrationPromise: Promise<ServiceWorkerRegistration | null> | null = null
 
 /**
  * Initialize Firebase Messaging client-side safely.
@@ -16,7 +17,6 @@ export async function getFCMClient(): Promise<Messaging | null> {
   try {
     const supported = await isSupported()
     if (!supported) {
-      console.log("[FCM] Push notifications not supported on this browser.")
       return null
     }
     messagingInstance = getMessaging(app)
@@ -28,32 +28,79 @@ export async function getFCMClient(): Promise<Messaging | null> {
 }
 
 /**
- * Register or get the firebase-messaging-sw.js service worker.
+ * Register or reuse the single unified Service Worker (`firebase-messaging-sw.js`)
+ * for both PWA installability and FCM push notifications on scope "/".
  */
-export async function getFCMServiceWorker(): Promise<ServiceWorkerRegistration | null> {
+export function getFCMServiceWorker(): Promise<ServiceWorkerRegistration | null> {
   if (typeof window === "undefined" || !("serviceWorker" in navigator)) {
+    return Promise.resolve(null)
+  }
+
+  if (swRegistrationPromise) {
+    return swRegistrationPromise
+  }
+
+  swRegistrationPromise = (async () => {
+    try {
+      // Remove any legacy standalone /sw.js registration competing for scope "/"
+      const existingRegs = await navigator.serviceWorker.getRegistrations()
+      for (const reg of existingRegs) {
+        const scriptUrl = reg.active?.scriptURL || reg.installing?.scriptURL || reg.waiting?.scriptURL || ""
+        if (scriptUrl.endsWith("/sw.js")) {
+          await reg.unregister().catch(() => {})
+        }
+      }
+
+      const swParams = new URLSearchParams({
+        apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "",
+        authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN || "studyos-a4977.firebaseapp.com",
+        projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || "studyos-a4977",
+        storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET || "studyos-a4977.firebasestorage.app",
+        messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID || "612490443728",
+        appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID || "1:612490443728:web:d2b307977999bd419717d5",
+      })
+      const swUrl = `/firebase-messaging-sw.js?${swParams.toString()}`
+      const registration = await navigator.serviceWorker.register(swUrl, {
+        scope: "/",
+      })
+      await navigator.serviceWorker.ready
+      return registration
+    } catch (err) {
+      console.warn("Service Worker registration failed:", err)
+      swRegistrationPromise = null
+      return null
+    }
+  })()
+
+  return swRegistrationPromise
+}
+
+async function fetchAndPersistFCMToken(userUid?: string | null): Promise<string | null> {
+  const messaging = await getFCMClient()
+  if (!messaging) return null
+
+  const swRegistration = await getFCMServiceWorker()
+  if (!swRegistration) {
+    console.warn("[FCM] Cannot get token without active Service Worker registration.")
     return null
   }
 
-  try {
-    const swParams = new URLSearchParams({
-      apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "",
-      authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN || "studyos-a4977.firebaseapp.com",
-      projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || "studyos-a4977",
-      storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET || "studyos-a4977.firebasestorage.app",
-      messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID || "612490443728",
-      appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID || "1:612490443728:web:d2b307977999bd419717d5",
-    })
-    const swUrl = `/firebase-messaging-sw.js?${swParams.toString()}`
-    const registration = await navigator.serviceWorker.register(swUrl, {
-      scope: "/",
-    })
-    console.log("[FCM] Service Worker registered with scope:", registration.scope)
-    return registration
-  } catch (err) {
-    console.warn("[FCM] Service Worker registration failed:", err)
+  const vapidKey = process.env.NEXT_PUBLIC_FIREBASE_VAPID_KEY || undefined
+  const token = await getToken(messaging, {
+    vapidKey,
+    serviceWorkerRegistration: swRegistration,
+  })
+
+  if (!token) {
+    console.warn("[FCM] No registration token available.")
     return null
   }
+
+  localStorage.setItem("studyos_fcm_token", token)
+  if (userUid) {
+    await saveUserFCMToken(userUid, token)
+  }
+  return token
 }
 
 /**
@@ -68,48 +115,36 @@ export async function requestNotificationPermissionAndGetToken(
   }
 
   try {
-    // 1. Request native browser notification permission
     const permission = await Notification.requestPermission()
     if (permission !== "granted") {
-      console.log("[FCM] Notification permission was not granted:", permission)
       return null
     }
-
-    // 2. Ensure messaging is supported & Service Worker is registered
-    const messaging = await getFCMClient()
-    if (!messaging) return null
-
-    const swRegistration = await getFCMServiceWorker()
-    if (!swRegistration) {
-      console.warn("[FCM] Cannot get token without active Service Worker registration.")
-      return null
-    }
-
-    // 3. Generate or retrieve device FCM registration token
-    const vapidKey = process.env.NEXT_PUBLIC_FIREBASE_VAPID_KEY || undefined
-    const token = await getToken(messaging, {
-      vapidKey,
-      serviceWorkerRegistration: swRegistration,
-    })
-
-    if (token) {
-      console.log("[FCM] Token retrieved successfully")
-      // Save locally to persist across sessions/login
-      localStorage.setItem("studyos_fcm_token", token)
-
-      // If user is currently signed in, write to Firestore
-      if (userUid) {
-        await saveUserFCMToken(userUid, token)
-      }
-      return token
-    } else {
-      console.warn("[FCM] No registration token available.")
-      return null
-    }
+    return await fetchAndPersistFCMToken(userUid)
   } catch (err) {
     console.error("[FCM] An error occurred while retrieving token:", err)
     return null
   }
+}
+
+/**
+ * Silently refreshes and persists the active FCM token whenever notification
+ * permission is already granted (handles cleared localStorage, token rotation,
+ * and multi-device sign-ins without showing a prompt).
+ */
+export async function refreshFCMTokenIfGranted(userUid: string): Promise<void> {
+  if (typeof window === "undefined" || !userUid) return
+  if (!("Notification" in window)) return
+
+  if (Notification.permission === "granted") {
+    try {
+      await fetchAndPersistFCMToken(userUid)
+      return
+    } catch (err) {
+      console.warn("[FCM] Silent token refresh failed:", err)
+    }
+  }
+
+  await syncLocalFCMTokenToUser(userUid)
 }
 
 /**
@@ -122,11 +157,40 @@ export async function syncLocalFCMTokenToUser(userUid: string): Promise<void> {
 
   const syncKey = `fcm_synced_${userUid}_${token}`
   if (localStorage.getItem(syncKey) === "true") {
-    return // Already synced to this user!
+    return
   }
 
   await saveUserFCMToken(userUid, token)
-  localStorage.setItem(syncKey, "true")
+}
+
+/**
+ * Dispatches a push notification request authenticated with the current user's
+ * Firebase Auth ID token.
+ */
+export async function dispatchPushNotification(payload: {
+  type: "dm" | "room"
+  senderName: string
+  text: string
+  chatId?: string
+  recipientUid?: string
+  roomName?: string
+}): Promise<void> {
+  if (typeof window === "undefined") return
+  try {
+    const idToken = await auth.currentUser?.getIdToken()
+    if (!idToken) return
+
+    await fetch("/api/send-notification", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${idToken}`,
+      },
+      body: JSON.stringify(payload),
+    })
+  } catch (err) {
+    console.warn("[Push] Failed to trigger notification:", err)
+  }
 }
 
 /**
@@ -134,17 +198,17 @@ export async function syncLocalFCMTokenToUser(userUid: string): Promise<void> {
  */
 export function listenForegroundMessages(callback: (payload: any) => void): () => void {
   let unsubscribe: (() => void) | null = null
+  let cancelled = false
 
   getFCMClient().then((messaging) => {
-    if (messaging) {
-      unsubscribe = onMessage(messaging, (payload) => {
-        console.log("[FCM] Foreground message received:", payload)
-        callback(payload)
-      })
-    }
+    if (cancelled || !messaging) return
+    unsubscribe = onMessage(messaging, (payload) => {
+      callback(payload)
+    })
   })
 
   return () => {
+    cancelled = true
     if (unsubscribe) unsubscribe()
   }
 }

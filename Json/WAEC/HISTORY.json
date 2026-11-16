@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "History is best defined as the study of",
+    "options": ["A. past human events", "B. future predictions", "C. physical geography", "D. animal behaviour"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a primary source of history?",
+    "options": ["A. Textbook", "B. Oral tradition", "C. Journal article", "D. Encyclopaedia"],
+    "answer": "B",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "The use of computers to store and analyse historical data is known as",
+    "options": ["A. archaeology", "B. anthropology", "C. ICT in history", "D. numismatics"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The study of coins to understand the past is called",
+    "options": ["A. epigraphy", "B. palaeontology", "C. archaeology", "D. numismatics"],
+    "answer": "D",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a source of history?",
+    "options": ["A. Oral tradition", "B. Fossils", "C. Rumours", "D. Manuscripts"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "The Trans-Saharan trade involved the exchange of goods between North Africa and",
+    "options": ["A. East Africa", "B. West Africa", "C. Southern Africa", "D. Central Africa"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following was a major trade item from West Africa during the Trans-Saharan trade?",
+    "options": ["A. Silk", "B. Horses", "C. Gold", "D. Porcelain"],
+    "answer": "C",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "One major effect of the Trans-Saharan trade on West Africa was the",
+    "options": ["A. decline of cities", "B. end of farming", "C. spread of Christianity", "D. growth of empires"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "question": "The introduction of which animal facilitated the Trans-Saharan trade?",
+    "options": ["A. Camel", "B. Horse", "C. Donkey", "D. Elephant"],
+    "answer": "A",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The main medium of exchange in the Trans-Saharan trade was",
+    "options": ["A. cowries", "B. salt and gold", "C. silver", "D. copper"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Islam was introduced into West Africa mainly through",
+    "options": ["A. European missionaries", "B. military conquest", "C. trade and scholarship", "D. colonialism"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "Which West African city became a renowned centre of Islamic learning?",
+    "options": ["A. Lagos", "B. Accra", "C. Dakar", "D. Timbuktu"],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The Jihad of Uthman Dan Fodio led to the establishment of the",
+    "options": ["A. Sokoto Caliphate", "B. Mali Empire", "C. Songhai Empire", "D. Kanem-Borno Empire"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "One effect of Islam on West Africa was the",
+    "options": ["A. introduction of new farming tools", "B. adoption of Arabic script", "C. end of traditional festivals", "D. decline of trade"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "question": "The Berber traders played a significant role in the spread of Islam because they",
+    "options": ["A. were military conquerors", "B. were Christian missionaries", "C. were Muslim merchants", "D. were traditional rulers"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 16,
+    "question": "The first Europeans to establish contact with West Africa were the",
+    "options": ["A. British", "B. French", "C. Dutch", "D. Portuguese"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "A major reason for early European contact with West Africa was the search for",
+    "options": ["A. gold", "B. slaves", "C. farmland", "D. knowledge"],
+    "answer": "A",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "An immediate effect of European contact on West Africa was the",
+    "options": ["A. end of local industries", "B. introduction of new crops", "C. decline of traditional religion", "D. abolition of chieftaincy"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "West Africans reacted to European contact by",
+    "options": ["A. completely rejecting trade", "B. migrating to Europe", "C. engaging in trade and resistance", "D. abandoning their culture"],
+    "answer": "C",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "The main goods exchanged by Europeans on the West African coast initially were",
+    "options": ["A. slaves and ivory", "B. gold and salt", "C. textiles and firearms", "D. kola nuts and iron"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "The Trans-Atlantic slave trade involved the transportation of enslaved Africans to",
+    "options": ["A. the Americas", "B. Asia", "C. Europe", "D. North Africa"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following was a major consequence of the Trans-Atlantic slave trade on West Africa?",
+    "options": ["A. Population increase", "B. Economic prosperity", "C. Loss of able-bodied men and women", "D. Technological advancement"],
+    "answer": "B",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "The suppression of the slave trade was mainly championed by",
+    "options": ["A. West African kings", "B. Arab traders", "C. British abolitionists", "D. American colonists"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "The slave trade was finally abolished in the British Empire in",
+    "options": ["A. 1789", "B. 1807", "C. 1833", "D. 1865"],
+    "answer": "D",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "The organization of the slave trade involved European merchants, African middlemen, and",
+    "options": ["A. Asian financiers", "B. American planters", "C. Arab sailors", "D. Indian labourers"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Christian missionary activities in West Africa aimed primarily at",
+    "options": ["A. exploiting mineral resources", "B. spreading Christianity and Western education", "C. establishing colonial rule", "D. promoting Islam"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "One significant impact of Christian missionaries in West Africa was the",
+    "options": ["A. introduction of the camel", "B. spread of Arabic language", "C. establishment of schools", "D. decline of trade"],
+    "answer": "C",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Missionaries contributed to the suppression of the slave trade by",
+    "options": ["A. buying slaves", "B. using military force", "C. promoting legitimate trade", "D. establishing plantations"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "The translation of the Bible into local languages by missionaries helped to",
+    "options": ["A. preserve local languages", "B. replace local languages", "C. promote Latin", "D. discourage literacy"],
+    "answer": "A",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Which missionary society was prominent in West Africa?",
+    "options": ["A. Red Cross", "B. Church Missionary Society", "C. United Nations", "D. Oxfam"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The Scramble for Africa was largely triggered by the",
+    "options": ["A. French Revolution", "B. American Civil War", "C. Industrial Revolution", "D. Russian Revolution"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The Berlin Conference of 1884-1885 was convened to",
+    "options": ["A. end the slave trade", "B. promote African independence", "C. establish the League of Nations", "D. regulate European colonization of Africa"],
+    "answer": "D",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "A major reason for West African resistance to colonial rule was the",
+    "options": ["A. desire for foreign goods", "B. defence of sovereignty and culture", "C. search for new markets", "D. spread of Christianity"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 34,
+    "question": "Which West African leader resisted French colonial rule?",
+    "options": ["A. Jaja of Opobo", "B. Samori Toure", "C. Menelik II", "D. Uthman Dan Fodio"],
+    "answer": "B",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "The partition of West Africa resulted in the",
+    "options": ["A. unification of ethnic groups", "B. end of traditional religions", "C. creation of artificial boundaries", "D. decline of European influence"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "The two main systems of colonial rule in West Africa were indirect rule and",
+    "options": ["A. direct rule", "B. communism", "C. apartheid", "D. feudalism"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The British policy of indirect rule relied on",
+    "options": ["A. traditional rulers", "B. European officials", "C. military force", "D. missionaries"],
+    "answer": "A",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "A key feature of the colonial economy in West Africa was the",
+    "options": ["A. promotion of local industries", "B. production of cash crops for export", "C. development of heavy industries", "D. equal distribution of wealth"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The two World Wars affected colonial West Africa by",
+    "options": ["A. ending colonial rule", "B. bringing economic prosperity", "C. increasing demands for independence", "D. stopping all trade"],
+    "answer": "C",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 40,
+    "question": "Colonial rule contributed to the underdevelopment of West Africa by",
+    "options": ["A. building many factories", "B. promoting local education", "C. encouraging technological innovation", "D. exploiting raw materials"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "Neo-colonialism refers to",
+    "options": ["A. direct colonial rule", "B. economic and political control by former colonial powers", "C. military occupation", "D. cultural assimilation"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 42,
+    "question": "The intervention of the military in West African politics is often caused by",
+    "options": ["A. strong democratic institutions", "B. corruption and bad governance", "C. economic prosperity", "D. peaceful elections"],
+    "answer": "B",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Boundary disputes in West Africa are a legacy of",
+    "options": ["A. pre-colonial kingdoms", "B. the Berlin Conference", "C. the United Nations", "D. the OAU"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Unequal development within West African states often leads to",
+    "options": ["A. national unity", "B. economic stability", "C. political harmony", "D. regional tensions"],
+    "answer": "D",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 45,
+    "question": "A major threat to West African unity is",
+    "options": ["A. ethnic and religious conflicts", "B. common currency", "C. free movement of people", "D. joint military exercises"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "The United Nations Organization was founded in",
+    "options": ["A. 1919", "B. 1945", "C. 1960", "D. 1963"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "The OAU was transformed into the African Union in",
+    "options": ["A. 1963", "B. 1975", "C. 2002", "D. 2010"],
+    "answer": "C",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "ECOWAS was established primarily to promote",
+    "options": ["A. military alliances", "B. cultural exchanges", "C. political integration", "D. economic integration"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "One major objective of ECOWAS is the",
+    "options": ["A. removal of trade barriers", "B. establishment of a single army", "C. creation of a single language", "D. abolition of national currencies"],
+    "answer": "A",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "A major failure of the OAU was its inability to",
+    "options": ["A. promote African unity", "B. prevent conflicts and coups", "C. support liberation movements", "D. establish a secretariat"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "The Nok culture is significant in Nigerian history for its",
+    "options": ["A. bronze casting", "B. stone tools", "C. terracotta figurines", "D. iron smelting"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 52,
+    "question": "The Igbo Ukwu archaeological site is famous for its",
+    "options": ["A. terracotta heads", "B. stone monuments", "C. cave paintings", "D. bronze artefacts"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "The ancient Benin Empire was renowned for its",
+    "options": ["A. brass works", "B. iron technology", "C. salt production", "D. textile industry"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "Kanem-Borno Empire prospered mainly due to its control of",
+    "options": ["A. coastal trade", "B. trans-Saharan trade routes", "C. gold mines", "D. oil reserves"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "The Hausa states were known for their",
+    "options": ["A. maritime trade", "B. centralized administration", "C. city walls and crafts", "D. cavalry warfare"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The Oyo Empire was a prominent",
+    "options": ["A. coastal kingdom", "B. forest kingdom", "C. riverine state", "D. savannah empire"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Inter-group relations in pre-colonial Nigeria were largely promoted by",
+    "options": ["A. trade and marriage", "B. constant warfare", "C. colonial administration", "D. religious crusades"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "The trans-Saharan trade brought which of the following to Nigeria?",
+    "options": ["A. Cocoa", "B. Horses and salt", "C. Rubber", "D. Maize"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "Indigenous crafts like pottery and weaving were important because they",
+    "options": ["A. replaced farming", "B. were major exports", "C. supported local needs and trade", "D. attracted Europeans"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "The environment influenced early human activities in Nigeria by",
+    "options": ["A. determining the type of crops and animals", "B. preventing all trade", "C. encouraging urbanization only", "D. stopping migrations"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 61,
+    "question": "The Sokoto Caliphate was established after the",
+    "options": ["A. Jihad of Uthman Dan Fodio", "B. fall of Kanem-Borno", "C. British conquest", "D. Oyo civil war"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The leader of the 1804 Jihad in Hausaland was",
+    "options": ["A. El-Kanemi", "B. Uthman Dan Fodio", "C. Shehu Umar", "D. Mansa Musa"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "Borno was revived in the 19th century by the leadership of",
+    "options": ["A. Oba Ewuare", "B. Queen Amina", "C. El-Kanemi", "D. Jaja of Opobo"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "Christian missionaries in 19th century Nigeria contributed to",
+    "options": ["A. the spread of Islam", "B. the slave trade", "C. the decline of education", "D. the introduction of Western education"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "Ibadan dominated Yorubaland in the 19th century largely through",
+    "options": ["A. military strength", "B. peaceful diplomacy", "C. colonial support", "D. economic wealth"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The British conquest of Nigeria began with the bombardment of",
+    "options": ["A. Kano", "B. Lagos", "C. Benin", "D. Sokoto"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "One consequence of the Sokoto Jihad was the",
+    "options": ["A. decline of Islam", "B. end of the trans-Saharan trade", "C. spread of Islamic learning", "D. rise of Christianity"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "The fall of Benin in 1897 was caused by",
+    "options": ["A. internal rebellion", "B. French invasion", "C. economic collapse", "D. British military expedition"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following was a British explorer in Nigeria?",
+    "options": ["A. Mungo Park", "B. John Hawkins", "C. Vasco da Gama", "D. Christopher Columbus"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "The Royal Niger Company was chartered to",
+    "options": ["A. spread Christianity", "B. administer the Niger area for Britain", "C. fight the French", "D. build railways"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 71,
+    "question": "The amalgamation of Northern and Southern Nigeria took place in",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1922"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "The policy of indirect rule in Nigeria was introduced by",
+    "options": ["A. Lord Lugard", "B. Sir Hugh Clifford", "C. Sir Arthur Richards", "D. Sir John Macpherson"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Nigerian nationalism in the 20th century was initially led by",
+    "options": ["A. traditional rulers", "B. military officers", "C. educated elites", "D. foreign merchants"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "Nigeria gained independence from Britain on",
+    "options": ["A. 1 October 1960", "B. 1 October 1963", "C. 15 January 1966", "D. 29 May 1999"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "The First Republic in Nigeria was terminated by a military coup in",
+    "options": ["A. 1962", "B. 1963", "C. 1966", "D. 1967"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "The Nigerian Civil War lasted from",
+    "options": ["A. 1963 to 1966", "B. 1966 to 1969", "C. 1970 to 1975", "D. 1967 to 1970"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "The Murtala/Obasanjo regime is credited with",
+    "options": ["A. the creation of more states", "B. the execution of Ken Saro-Wiwa", "C. the introduction of Sharia law", "D. the annexation of Cameroon"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 78,
+    "question": "The Second Republic in Nigeria was led by",
+    "options": ["A. General Murtala Mohammed", "B. Alhaji Shehu Shagari", "C. General Ibrahim Babangida", "D. Chief Olusegun Obasanjo"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The Ibrahim Babangida regime is known for",
+    "options": ["A. the civil war", "B. the execution of activists", "C. the annulment of the 1993 election", "D. the return to civilian rule"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "The military regime of Sani Abacha was characterized by",
+    "options": ["A. democratic reforms", "B. economic boom", "C. peaceful protests", "D. human rights abuses"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "The Fourth Republic in Nigeria began in",
+    "options": ["A. 1999", "B. 1993", "C. 1983", "D. 2007"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "The first president of the Fourth Republic was",
+    "options": ["A. Umaru Yar'Adua", "B. Olusegun Obasanjo", "C. Goodluck Jonathan", "D. Muhammadu Buhari"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "Nigeria joined the United Nations in",
+    "options": ["A. 1960", "B. 1963", "C. 1960", "D. 1975"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Nigeria was a founding member of the",
+    "options": ["A. European Union", "B. NATO", "C. Warsaw Pact", "D. OAU"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "One of Nigeria's contributions to ECOWAS is",
+    "options": ["A. hosting its headquarters", "B. providing military support", "C. funding all its projects", "D. leading its cultural programs"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 86,
+    "question": "The West African Diaspora mainly refers to people of African descent living in",
+    "options": ["A. Africa", "B. the Americas and Europe", "C. Asia", "D. Australia"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "Racism is a global issue that involves",
+    "options": ["A. economic cooperation", "B. religious tolerance", "C. discrimination based on race", "D. cultural exchange"],
+    "answer": "C",
+    "topic": "Global Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "Debt relief for West African countries aims to",
+    "options": ["A. increase their debt burden", "B. fund military projects", "C. promote foreign investments", "D. free up resources for development"],
+    "answer": "D",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "West African countries participate in UN peacekeeping missions to",
+    "options": ["A. ensure global peace and security", "B. expand their territories", "C. promote their local cultures", "D. boost their economies"],
+    "answer": "A",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "The Millennium Development Goals (MDGs) were designed to",
+    "options": ["A. promote space exploration", "B. reduce poverty and improve lives", "C. increase global armament", "D. establish world government"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "Mansa Musa of Mali is famous for his",
+    "options": ["A. military conquests", "B. building of pyramids", "C. pilgrimage to Mecca and gold wealth", "D. discovery of America"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "Sundiata Keita was the founder of the",
+    "options": ["A. Songhai Empire", "B. Ghana Empire", "C. Kanem-Borno Empire", "D. Mali Empire"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "The Askia Muhammad is associated with which empire?",
+    "options": ["A. Songhai", "B. Mali", "C. Ghana", "D. Benin"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "Sonni Ali was a notable king of",
+    "options": ["A. Kanem-Borno", "B. Songhai", "C. Oyo", "D. Asante"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 95,
+    "question": "Idris Alooma was a great ruler of",
+    "options": ["A. Mali", "B. Ghana", "C. Kanem-Borno", "D. Songhai"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 96,
+    "question": "Oba Ewuare was a famous king of",
+    "options": ["A. Oyo", "B. Benin", "C. Ife", "D. Igbo Ukwu"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "The Yoruba deity associated with thunder is",
+    "options": ["A. Sango", "B. Ogun", "C. Obatala", "D. Esu"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "Oduduwa is considered the ancestral figure of the",
+    "options": ["A. Igbo", "B. Yoruba", "C. Hausa", "D. Tiv"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "Queen Amina was a legendary ruler of",
+    "options": ["A. Kanem", "B. Borno", "C. Zazzau", "D. Nupe"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Jaja of Opobo resisted British rule in the",
+    "options": ["A. 18th century", "B. early 20th century", "C. mid 20th century", "D. 19th century"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Which of the following is a secondary source of history?",
+    "options": ["A. A history textbook", "B. A coin", "C. A diary", "D. An oral interview"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Archaeology is important for historical studies because it",
+    "options": ["A. predicts the future", "B. studies material remains", "C. writes historical novels", "D. teaches history in schools"],
+    "answer": "B",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "One advantage of oral tradition as a source of history is that it",
+    "options": ["A. is always accurate", "B. is written down", "C. preserves cultural values", "D. is easy to verify"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "The use of ICT in historical research enables",
+    "options": ["A. faster data processing", "B. changing past events", "C. avoiding primary sources", "D. replacing historians"],
+    "answer": "D",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "The study of inscriptions on stones is known as",
+    "options": ["A. epigraphy", "B. numismatics", "C. palaeontology", "D. archaeology"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 106,
+    "question": "The Trans-Saharan trade led to the growth of cities such as",
+    "options": ["A. London", "B. Timbuktu", "C. Paris", "D. Rome"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "Which of these was exchanged from North Africa to West Africa during the Trans-Saharan trade?",
+    "options": ["A. Gold", "B. Slaves", "C. Salt", "D. Kola nuts"],
+    "answer": "C",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "The Trans-Saharan trade contributed to the development of West African states by",
+    "options": ["A. providing revenue and goods", "B. ending all local wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The main trade route across the Sahara connected West Africa to",
+    "options": ["A. East Africa", "B. North Africa", "C. South Africa", "D. Central Africa"],
+    "answer": "A",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "The decline of the Trans-Saharan trade was partly due to the",
+    "options": ["A. rise of the Ottoman Empire", "B. growth of Atlantic trade", "C. invention of the wheel", "D. discovery of oil"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "Islam was first introduced to West Africa by",
+    "options": ["A. European explorers", "B. Arab and Berber traders", "C. Christian missionaries", "D. Indian merchants"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "The spread of Islam in West Africa led to the establishment of",
+    "options": ["A. more traditional shrines", "B. Christian schools", "C. colonial rule", "D. Islamic schools and laws"],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following was a notable Islamic scholar in West Africa?",
+    "options": ["A. Ahmad Baba", "B. Mansa Musa", "C. Jaja of Opobo", "D. Oba Ewuare"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "The Jihad of Uthman Dan Fodio was launched in",
+    "options": ["A. 1704", "B. 1804", "C. 1904", "D. 1854"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "Islam influenced West African architecture through the introduction of",
+    "options": ["A. mud houses", "B. thatched roofs", "C. the use of burnt bricks", "D. Arabesque designs"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 116,
+    "question": "The Portuguese were the first Europeans to",
+    "options": ["A. colonize West Africa", "B. explore the West African coast", "C. abolish the slave trade", "D. introduce Christianity"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "Early European trade with West Africa was mainly in",
+    "options": ["A. gold and slaves", "B. cotton and textiles", "C. machinery", "D. oil"],
+    "answer": "A",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "The immediate effect of European contact on West African coastal states was",
+    "options": ["A. total destruction", "B. the growth of coastal trade", "C. the end of fishing", "D. mass migration"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "West African rulers often reacted to European contact by",
+    "options": ["A. ignoring them entirely", "B. attacking all ships", "C. forming trade alliances", "D. migrating inland"],
+    "answer": "C",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "The introduction of firearms by Europeans affected West Africa by",
+    "options": ["A. reducing warfare", "B. ending the slave trade", "C. promoting peace", "D. increasing inter-group conflicts"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 121,
+    "question": "The Trans-Atlantic slave trade involved the exchange of slaves for",
+    "options": ["A. gold and salt", "B. European manufactured goods", "C. Asian spices", "D. African textiles"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "The Middle Passage refers to the",
+    "options": ["A. journey across the Sahara", "B. voyage from Africa to the Americas", "C. return of ships to Europe", "D. route from Europe to Africa"],
+    "answer": "B",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "The abolition of the slave trade was followed by the",
+    "options": ["A. end of all trade", "B. decline of European interest", "C. promotion of legitimate trade", "D. reintroduction of slavery"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "The economic effect of the slave trade on West Africa included",
+    "options": ["A. growth of industries", "B. increased population", "C. technological progress", "D. loss of agricultural labour"],
+    "answer": "D",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "The suppression of the slave trade was effected by",
+    "options": ["A. international treaties", "B. African kings", "C. the United Nations", "D. the OAU"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "Christian missionaries in West Africa were mainly sponsored by",
+    "options": ["A. colonial governments", "B. missionary societies", "C. local kings", "D. trading companies"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "question": "The establishment of schools by missionaries led to the",
+    "options": ["A. decline of literacy", "B. loss of local languages", "C. emergence of educated elites", "D. end of history"],
+    "answer": "C",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Missionary activities contributed to the abolition of the slave trade by",
+    "options": ["A. buying all slaves", "B. arming African kings", "C. using force against traders", "D. advocating for human rights"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "A challenge faced by Christian missionaries in West Africa was",
+    "options": ["A. too many resources", "B. lack of converts", "C. tropical diseases", "D. strong support from rulers"],
+    "answer": "A",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "The translation of the Bible into African languages helped to",
+    "options": ["A. replace African languages", "B. promote African languages", "C. end all religions", "D. stop education"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "The Berlin Conference was held in",
+    "options": ["A. 1884-1885", "B. 1900-1901", "C. 1919-1920", "D. 1945-1946"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "A major outcome of the Berlin Conference was the",
+    "options": ["A. unification of Africa", "B. end of slavery", "C. beginning of colonization", "D. division of Africa"],
+    "answer": "D",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "West African resistance to colonial rule was most successful in",
+    "options": ["A. Ethiopia", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "A reason for the Scramble for Africa was the need for",
+    "options": ["A. more farmland", "B. raw materials", "C. tourist attractions", "D. military bases"],
+    "answer": "B",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The colonial conquest of West Africa was aided by",
+    "options": ["A. advanced weaponry", "B. lack of African leadership", "C. African unity", "D. the abolition of slavery"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Indirect rule in West Africa was most successful in",
+    "options": ["A. areas with centralized traditional authority", "B. areas without traditional rulers", "C. coastal cities", "D. French colonies"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The main purpose of colonial education was to",
+    "options": ["A. preserve African culture", "B. provide skilled labour", "C. promote African languages", "D. challenge colonial rule"],
+    "answer": "C",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "A major effect of the two World Wars on West Africa was the",
+    "options": ["A. end of colonial rule", "B. economic boom", "C. decline of nationalism", "D. rise of nationalism"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "The colonial economy in West Africa was designed to",
+    "options": ["A. benefit African farmers", "B. develop local industries", "C. produce raw materials for Europe", "D. promote regional trade"],
+    "answer": "A",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "Which of the following is a pattern of colonial rule in West Africa?",
+    "options": ["A. Direct and indirect rule", "B. Communist rule", "C. Theocratic rule", "D. Feudal rule"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "Neo-colonialism is often blamed for",
+    "options": ["A. promoting industrialization", "B. reducing poverty", "C. ensuring fair trade", "D. perpetuating economic dependency"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "Military coups in West Africa are often caused by",
+    "options": ["A. strong institutions", "B. economic prosperity", "C. good governance", "D. political instability"],
+    "answer": "D",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "Boundary disputes in West Africa often threaten",
+    "options": ["A. regional unity", "B. international trade", "C. cultural exchange", "D. environmental conservation"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Unequal development in West African states often results from",
+    "options": ["A. equal resource distribution", "B. uneven development policies", "C. good governance", "D. balanced education"],
+    "answer": "B",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "A common challenge to West African unity is",
+    "options": ["A. shared language", "B. common currency", "C. ethnic conflict", "D. joint projects"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "The main aim of the OAU was to",
+    "options": ["A. promote economic development", "B. end colonialism", "C. reduce international trade", "D. promote African unity"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "One of the challenges facing ECOWAS is",
+    "options": ["A. too much economic integration", "B. political instability in member states", "C. lack of cultural exchanges", "D. too much free movement"],
+    "answer": "A",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The UN was established after",
+    "options": ["A. World War I", "B. the Cold War", "C. World War II", "D. the Berlin Conference"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "question": "The OAU was established in",
+    "options": ["A. 1945", "B. 1960", "C. 1963", "D. 1975"],
+    "answer": "C",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "One of the successes of ECOWAS is",
+    "options": ["A. ending all conflicts", "B. unifying all African states", "C. abolishing currencies", "D. promoting free movement of people"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "The Nok culture is dated to around",
+    "options": ["A. 1000 BC", "B. 500 AD", "C. 1500 AD", "D. 2000 BC"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+    {
+    "id": 152,
+    "question": "Igbo Ukwu bronze artefacts show evidence of",
+    "options": ["A. European influence", "B. a developed local craft industry", "C. Chinese trade", "D. Islamic influence"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The Benin Empire's artistic heritage includes",
+    "options": ["A. ivory carving", "B. terracotta heads", "C. bronze plaques", "D. stone monoliths"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "The Trans-Saharan trade affected Nigerian states by",
+    "options": ["A. introducing new crops", "B. replacing local religions", "C. ending local industries", "D. bringing new goods and Islam"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The Hausa states were known for",
+    "options": ["A. a centralized administration", "B. their powerful navy", "C. their isolation", "D. lack of trade"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Oyo's rise to prominence was partly due to its",
+    "options": ["A. coastal location", "B. cavalry strength", "C. access to gold", "D. alliance with Europeans"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "One example of inter-group relations in pre-colonial Nigeria is",
+    "options": ["A. constant isolation", "B. lack of trade", "C. intermarriage", "D. separate languages"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "The indigenous salt-making industry was important for",
+    "options": ["A. export to Europe", "B. replacing food", "C. building houses", "D. local consumption and trade"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "The environment of Nigeria influenced early hunting and gathering because of",
+    "options": ["A. the variety of wildlife and plants", "B. lack of water", "C. urban growth", "D. presence of Europeans"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Bronze casting in Benin was used for",
+    "options": ["A. food preservation", "B. religious and artistic purposes", "C. building walls", "D. making tools"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The Sokoto Caliphate was established in",
+    "options": ["A. 1804", "B. 1903", "C. 1500", "D. 1750"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "The Sokoto Caliphate was divided into",
+    "options": ["A. provinces", "B. emirates", "C. counties", "D. states"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "A major impact of the Sokoto Jihad was the",
+    "options": ["A. decline of Islam", "B. spread of Islam", "C. end of the caliphate", "D. introduction of Christianity"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "El-Kanemi is associated with the",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Borno Empire", "D. Sokoto Caliphate"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "Christian missionaries in Nigeria contributed to the",
+    "options": ["A. spread of Islam", "B. decline of education", "C. growth of Western education", "D. end of trade"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "Ibadan's dominance in Yorubaland was based on",
+    "options": ["A. economic wealth", "B. military power", "C. colonial support", "D. naval strength"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The British conquest of Lagos took place in",
+    "options": ["A. 1851", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "The Royal Niger Company was chartered in",
+    "options": ["A. 1885", "B. 1886", "C. 1890", "D. 1900"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The fall of the Benin Empire was in",
+    "options": ["A. 1897", "B. 1900", "C. 1851", "D. 1885"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Yorubaland in the 19th century experienced",
+    "options": ["A. peace and stability", "B. colonial rule", "C. Islamic Jihad", "D. civil wars"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "The amalgamation of Nigeria took place in",
+    "options": ["A. 1900", "B. 1914", "C. 1906", "D. 1922"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Lord Lugard was the first Governor-General of",
+    "options": ["A. Ghana", "B. Nigeria", "C. Sierra Leone", "D. The Gambia"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "Indirect rule in Nigeria relied on",
+    "options": ["A. educated elites", "B. military officers", "C. traditional rulers", "D. missionaries"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Nigerian nationalism grew after",
+    "options": ["A. 1914", "B. 1922", "C. 1945", "D. 1960"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "The first political party in Nigeria was",
+    "options": ["A. NCNC", "B. AG", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Nigeria became a republic in",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1979"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "The Nigerian Civil War was fought between",
+    "options": ["A. Nigeria and Ghana", "B. North and South", "C. Nigeria and Biafra", "D. Nigeria and Cameroon"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "General Yakubu Gowon was the military Head of State during the",
+    "options": ["A. First Republic", "B. Second Republic", "C. Civil War", "D. Fourth Republic"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The Murtala/Obasanjo regime created",
+    "options": ["A. 12 states", "B. 19 states", "C. 21 states", "D. 30 states"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "The Second Republic ended in",
+    "options": ["A. 1979", "B. 1983", "C. 1993", "D. 1999"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "Ibrahim Babangida became Head of State in",
+    "options": ["A. 1983", "B. 1985", "C. 1993", "D. 1998"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The annulment of the June 12, 1993 election was by",
+    "options": ["A. Sani Abacha", "B. Ibrahim Babangida", "C. Muhammadu Buhari", "D. Olusegun Obasanjo"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "Sani Abacha ruled Nigeria from",
+    "options": ["A. 1985 to 1993", "B. 1993 to 1998", "C. 1999 to 2007", "D. 1983 to 1985"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Nigeria returned to democracy in",
+    "options": ["A. 1993", "B. 1998", "C. 1999", "D. 2000"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "Olusegun Obasanjo was president of Nigeria from",
+    "options": ["A. 1976 to 1979", "B. 1983 to 1985", "C. 1999 to 2007", "D. 2007 to 2010"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Nigeria is a member of OPEC because it produces",
+    "options": ["A. gold", "B. cocoa", "C. coal", "D. crude oil"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "The West African Diaspora is a result of",
+    "options": ["A. voluntary migration only", "B. the slave trade and migration", "C. colonial policies", "D. recent tourism"],
+    "answer": "A",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Racism is a global issue that affects",
+    "options": ["A. only Africa", "B. only Europe", "C. people of different races worldwide", "D. only the Americas"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Debt relief for African countries is intended to",
+    "options": ["A. increase debt", "B. increase interest rates", "C. reduce the debt burden", "D. stop all aid"],
+    "answer": "C",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The MDGs aimed to reduce poverty by",
+    "options": ["A. 2050", "B. 2030", "C. 2020", "D. 2015"],
+    "answer": "D",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The Ghana Empire was located in present-day",
+    "options": ["A. Mali", "B. Ghana", "C. Senegal", "D. Nigeria"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "The Mali Empire was founded by",
+    "options": ["A. Sonni Ali", "B. Sundiata Keita", "C. Askia Muhammad", "D. Mansa Musa"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "The Songhai Empire was known for its",
+    "options": ["A. maritime trade", "B. use of iron weapons", "C. centralized administration", "D. lack of education"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "The Kanem-Borno Empire was located around",
+    "options": ["A. the Niger Delta", "B. the Sahara Desert", "C. Lake Chad", "D. the Atlantic Coast"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "The Asante Empire was located in present-day",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "The Oyo Empire was a prominent",
+    "options": ["A. coastal kingdom", "B. forest kingdom", "C. savannah empire", "D. riverine state"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "The trans-Saharan trade contributed to the rise of West African empires by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "The Benin Empire was famous for its",
+    "options": ["A. cavalry", "B. navy", "C. bronze works", "D. silk production"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The Asante kingdom was known for its",
+    "options": ["A. gold wealth", "B. naval power", "C. stone cities", "D. iron industry"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The Swahili civilization flourished on the",
+    "options": ["A. West African coast", "B. North African coast", "C. East African coast", "D. South African coast"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "The main source of historical information in pre-literate societies was",
+    "options": ["A. written records", "B. oral tradition", "C. newspapers", "D. books"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "Which of these is a primary source of history?",
+    "options": ["A. A history textbook", "B. A journal article", "C. An encyclopaedia", "D. A diary"],
+    "answer": "D",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The study of past human societies through their material remains is called",
+    "options": ["A. anthropology", "B. archaeology", "C. sociology", "D. numismatics"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is NOT a problem of oral tradition?",
+    "options": ["A. It can be distorted", "B. It may be forgotten", "C. It is always accurate", "D. It is subjective"],
+    "answer": "B",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "The use of ICT in history helps in",
+    "options": ["A. changing the past", "B. predicting the future", "C. preserving historical data", "D. eliminating history"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "The Trans-Saharan trade was facilitated by the use of",
+    "options": ["A. camels", "B. horses", "C. donkeys", "D. elephants"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "question": "Which of these was a major export from West Africa during the Trans-Saharan trade?",
+    "options": ["A. Gold", "B. Horses", "C. Salt", "D. Silk"],
+    "answer": "A",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "The Trans-Saharan trade led to the development of",
+    "options": ["A. coastal cities", "B. inland trade routes", "C. ocean navigation", "D. railway systems"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The decline of the Trans-Saharan trade was caused by the",
+    "options": ["A. rise of Atlantic trade", "B. end of the camel trade", "C. fall of Rome", "D. rise of the Ottoman Empire"],
+    "answer": "C",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "The Trans-Saharan trade contributed to the growth of West African states by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "Islam was introduced to West Africa by",
+    "options": ["A. European missionaries", "B. Arab and Berber traders", "C. Christian missionaries", "D. Indian merchants"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The spread of Islam in West Africa led to the establishment of",
+    "options": ["A. Christian schools", "B. more traditional shrines", "C. colonial rule", "D. Islamic schools and laws"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The Jihad of Uthman Dan Fodio was launched in",
+    "options": ["A. 1704", "B. 1804", "C. 1904", "D. 1854"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "One effect of Islam on West Africa was the",
+    "options": ["A. introduction of new farming tools", "B. adoption of Arabic script", "C. end of traditional festivals", "D. decline of trade"],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Timbuktu became a centre of Islamic learning during the",
+    "options": ["A. Ghana Empire", "B. Mali Empire", "C. Songhai Empire", "D. Kanem-Borno Empire"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "The first Europeans to establish contact with West Africa were the",
+    "options": ["A. British", "B. French", "C. Dutch", "D. Portuguese"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "A major reason for early European contact with West Africa was the search for",
+    "options": ["A. gold", "B. slaves", "C. farmland", "D. knowledge"],
+    "answer": "C",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "The immediate effect of European contact on West Africa was the",
+    "options": ["A. end of local industries", "B. introduction of new crops", "C. decline of traditional religion", "D. abolition of chieftaincy"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "West Africans reacted to European contact by",
+    "options": ["A. completely rejecting trade", "B. migrating to Europe", "C. engaging in trade and resistance", "D. abandoning their culture"],
+    "answer": "A",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The introduction of firearms by Europeans affected West Africa by",
+    "options": ["A. reducing warfare", "B. ending the slave trade", "C. promoting peace", "D. increasing inter-group conflicts"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "The Trans-Atlantic slave trade involved the exchange of slaves for",
+    "options": ["A. gold and salt", "B. European manufactured goods", "C. Asian spices", "D. African textiles"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The Middle Passage refers to the",
+    "options": ["A. journey across the Sahara", "B. voyage from Africa to the Americas", "C. return of ships to Europe", "D. route from Europe to Africa"],
+    "answer": "D",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The abolition of the slave trade was followed by the",
+    "options": ["A. end of all trade", "B. decline of European interest", "C. promotion of legitimate trade", "D. reintroduction of slavery"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "The economic effect of the slave trade on West Africa included",
+    "options": ["A. growth of industries", "B. increased population", "C. technological progress", "D. loss of agricultural labour"],
+    "answer": "B",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "The suppression of the slave trade was effected by",
+    "options": ["A. international treaties", "B. African kings", "C. the United Nations", "D. the OAU"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "Christian missionaries in West Africa were mainly sponsored by",
+    "options": ["A. colonial governments", "B. missionary societies", "C. local kings", "D. trading companies"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The establishment of schools by missionaries led to the",
+    "options": ["A. decline of literacy", "B. loss of local languages", "C. emergence of educated elites", "D. end of history"],
+    "answer": "A",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Missionary activities contributed to the abolition of the slave trade by",
+    "options": ["A. buying all slaves", "B. arming African kings", "C. using force against traders", "D. advocating for human rights"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "A challenge faced by Christian missionaries in West Africa was",
+    "options": ["A. too many resources", "B. lack of converts", "C. tropical diseases", "D. strong support from rulers"],
+    "answer": "C",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "The translation of the Bible into African languages helped to",
+    "options": ["A. replace African languages", "B. promote African languages", "C. end all religions", "D. stop education"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "The Berlin Conference was held in",
+    "options": ["A. 1884-1885", "B. 1900-1901", "C. 1919-1920", "D. 1945-1946"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "A major outcome of the Berlin Conference was the",
+    "options": ["A. unification of Africa", "B. end of slavery", "C. beginning of colonization", "D. division of Africa"],
+    "answer": "B",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "West African resistance to colonial rule was most successful in",
+    "options": ["A. Ethiopia", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "A reason for the Scramble for Africa was the need for",
+    "options": ["A. more farmland", "B. raw materials", "C. tourist attractions", "D. military bases"],
+    "answer": "D",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The colonial conquest of West Africa was aided by",
+    "options": ["A. advanced weaponry", "B. lack of African leadership", "C. African unity", "D. the abolition of slavery"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Indirect rule in West Africa was most successful in",
+    "options": ["A. areas with centralized traditional authority", "B. areas without traditional rulers", "C. coastal cities", "D. French colonies"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "The main purpose of colonial education was to",
+    "options": ["A. preserve African culture", "B. provide skilled labour", "C. promote African languages", "D. challenge colonial rule"],
+    "answer": "C",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "A major effect of the two World Wars on West Africa was the",
+    "options": ["A. end of colonial rule", "B. economic boom", "C. decline of nationalism", "D. rise of nationalism"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "The colonial economy in West Africa was designed to",
+    "options": ["A. benefit African farmers", "B. develop local industries", "C. produce raw materials for Europe", "D. promote regional trade"],
+    "answer": "A",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Which of the following is a pattern of colonial rule in West Africa?",
+    "options": ["A. Direct and indirect rule", "B. Communist rule", "C. Theocratic rule", "D. Feudal rule"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "Neo-colonialism is often blamed for",
+    "options": ["A. promoting industrialization", "B. reducing poverty", "C. ensuring fair trade", "D. perpetuating economic dependency"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Military coups in West Africa are often caused by",
+    "options": ["A. strong institutions", "B. economic prosperity", "C. good governance", "D. political instability"],
+    "answer": "D",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "Boundary disputes in West Africa often threaten",
+    "options": ["A. regional unity", "B. international trade", "C. cultural exchange", "D. environmental conservation"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Unequal development in West African states often results from",
+    "options": ["A. equal resource distribution", "B. uneven development policies", "C. good governance", "D. balanced education"],
+    "answer": "B",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "A common challenge to West African unity is",
+    "options": ["A. shared language", "B. common currency", "C. ethnic conflict", "D. joint projects"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "The main aim of the OAU was to",
+    "options": ["A. promote economic development", "B. end colonialism", "C. reduce international trade", "D. promote African unity"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "One of the challenges facing ECOWAS is",
+    "options": ["A. too much economic integration", "B. political instability in member states", "C. lack of cultural exchanges", "D. too much free movement"],
+    "answer": "A",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The UN was established after",
+    "options": ["A. World War I", "B. the Cold War", "C. World War II", "D. the Berlin Conference"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "The OAU was established in",
+    "options": ["A. 1945", "B. 1960", "C. 1963", "D. 1975"],
+    "answer": "C",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 250,
+    "question": "One of the successes of ECOWAS is",
+    "options": ["A. ending all conflicts", "B. unifying all African states", "C. abolishing currencies", "D. promoting free movement of people"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "The Nok culture is dated to around",
+    "options": ["A. 1000 BC", "B. 500 AD", "C. 1500 AD", "D. 2000 BC"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+    {
+    "id": 252,
+    "question": "Igbo Ukwu bronze artefacts show evidence of",
+    "options": ["A. European influence", "B. a developed local craft industry", "C. Chinese trade", "D. Islamic influence"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 253,
+    "question": "The Benin Empire's artistic heritage includes",
+    "options": ["A. ivory carving", "B. terracotta heads", "C. bronze plaques", "D. stone monoliths"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "The Trans-Saharan trade affected Nigerian states by",
+    "options": ["A. introducing new crops", "B. replacing local religions", "C. ending local industries", "D. bringing new goods and Islam"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "The Hausa states were known for",
+    "options": ["A. a centralized administration", "B. their powerful navy", "C. their isolation", "D. lack of trade"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Oyo's rise to prominence was partly due to its",
+    "options": ["A. coastal location", "B. cavalry strength", "C. access to gold", "D. alliance with Europeans"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "One example of inter-group relations in pre-colonial Nigeria is",
+    "options": ["A. constant isolation", "B. lack of trade", "C. intermarriage", "D. separate languages"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "The indigenous salt-making industry was important for",
+    "options": ["A. export to Europe", "B. replacing food", "C. building houses", "D. local consumption and trade"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The environment of Nigeria influenced early hunting and gathering because of",
+    "options": ["A. the variety of wildlife and plants", "B. lack of water", "C. urban growth", "D. presence of Europeans"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "Bronze casting in Benin was used for",
+    "options": ["A. food preservation", "B. religious and artistic purposes", "C. building walls", "D. making tools"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "The Sokoto Caliphate was established in",
+    "options": ["A. 1804", "B. 1903", "C. 1500", "D. 1750"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The Sokoto Caliphate was divided into",
+    "options": ["A. provinces", "B. emirates", "C. counties", "D. states"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "A major impact of the Sokoto Jihad was the",
+    "options": ["A. decline of Islam", "B. spread of Islam", "C. end of the caliphate", "D. introduction of Christianity"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 264,
+    "question": "El-Kanemi is associated with the",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Borno Empire", "D. Sokoto Caliphate"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Christian missionaries in Nigeria contributed to the",
+    "options": ["A. spread of Islam", "B. decline of education", "C. growth of Western education", "D. end of trade"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "Ibadan's dominance in Yorubaland was based on",
+    "options": ["A. economic wealth", "B. military power", "C. colonial support", "D. naval strength"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "The British conquest of Lagos took place in",
+    "options": ["A. 1851", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "The Royal Niger Company was chartered in",
+    "options": ["A. 1885", "B. 1886", "C. 1890", "D. 1900"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "The fall of the Benin Empire was in",
+    "options": ["A. 1897", "B. 1900", "C. 1851", "D. 1885"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "Yorubaland in the 19th century experienced",
+    "options": ["A. peace and stability", "B. colonial rule", "C. Islamic Jihad", "D. civil wars"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The amalgamation of Nigeria took place in",
+    "options": ["A. 1900", "B. 1914", "C. 1906", "D. 1922"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Lord Lugard was the first Governor-General of",
+    "options": ["A. Ghana", "B. Nigeria", "C. Sierra Leone", "D. The Gambia"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "Indirect rule in Nigeria relied on",
+    "options": ["A. educated elites", "B. military officers", "C. traditional rulers", "D. missionaries"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "Nigerian nationalism grew after",
+    "options": ["A. 1914", "B. 1922", "C. 1945", "D. 1960"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "The first political party in Nigeria was",
+    "options": ["A. NCNC", "B. AG", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Nigeria became a republic in",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1979"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "The Nigerian Civil War was fought between",
+    "options": ["A. Nigeria and Ghana", "B. North and South", "C. Nigeria and Biafra", "D. Nigeria and Cameroon"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "General Yakubu Gowon was the military Head of State during the",
+    "options": ["A. First Republic", "B. Second Republic", "C. Civil War", "D. Fourth Republic"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The Murtala/Obasanjo regime created",
+    "options": ["A. 12 states", "B. 19 states", "C. 21 states", "D. 30 states"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "The Second Republic ended in",
+    "options": ["A. 1979", "B. 1983", "C. 1993", "D. 1999"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Ibrahim Babangida became Head of State in",
+    "options": ["A. 1983", "B. 1985", "C. 1993", "D. 1998"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "The annulment of the June 12, 1993 election was by",
+    "options": ["A. Sani Abacha", "B. Ibrahim Babangida", "C. Muhammadu Buhari", "D. Olusegun Obasanjo"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "Sani Abacha ruled Nigeria from",
+    "options": ["A. 1985 to 1993", "B. 1993 to 1998", "C. 1999 to 2007", "D. 1983 to 1985"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Nigeria returned to democracy in",
+    "options": ["A. 1993", "B. 1998", "C. 1999", "D. 2000"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Olusegun Obasanjo was president of Nigeria from",
+    "options": ["A. 1976 to 1979", "B. 1983 to 1985", "C. 1999 to 2007", "D. 2007 to 2010"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Nigeria is a member of OPEC because it produces",
+    "options": ["A. gold", "B. cocoa", "C. coal", "D. crude oil"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "The West African Diaspora is a result of",
+    "options": ["A. voluntary migration only", "B. the slave trade and migration", "C. colonial policies", "D. recent tourism"],
+    "answer": "A",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Racism is a global issue that affects",
+    "options": ["A. only Africa", "B. only Europe", "C. people of different races worldwide", "D. only the Americas"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Debt relief for African countries is intended to",
+    "options": ["A. increase debt", "B. increase interest rates", "C. reduce the debt burden", "D. stop all aid"],
+    "answer": "C",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "The MDGs aimed to reduce poverty by",
+    "options": ["A. 2050", "B. 2030", "C. 2020", "D. 2015"],
+    "answer": "D",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "The Ghana Empire was located in present-day",
+    "options": ["A. Mali", "B. Ghana", "C. Senegal", "D. Nigeria"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 292,
+    "question": "The Mali Empire was founded by",
+    "options": ["A. Sonni Ali", "B. Sundiata Keita", "C. Askia Muhammad", "D. Mansa Musa"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "The Songhai Empire was known for its",
+    "options": ["A. maritime trade", "B. use of iron weapons", "C. centralized administration", "D. lack of education"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "The Kanem-Borno Empire was located around",
+    "options": ["A. the Niger Delta", "B. the Sahara Desert", "C. Lake Chad", "D. the Atlantic Coast"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "The Asante Empire was located in present-day",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "The Oyo Empire was a prominent",
+    "options": ["A. coastal kingdom", "B. forest kingdom", "C. savannah empire", "D. riverine state"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "The trans-Saharan trade contributed to the rise of West African empires by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "The Benin Empire was famous for its",
+    "options": ["A. cavalry", "B. navy", "C. bronze works", "D. silk production"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "The Asante kingdom was known for its",
+    "options": ["A. gold wealth", "B. naval power", "C. stone cities", "D. iron industry"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "The Swahili civilization flourished on the",
+    "options": ["A. West African coast", "B. North African coast", "C. East African coast", "D. South African coast"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The main source of historical information in pre-literate societies was",
+    "options": ["A. written records", "B. oral tradition", "C. newspapers", "D. books"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "Which of these is a primary source of history?",
+    "options": ["A. A history textbook", "B. A journal article", "C. An encyclopaedia", "D. A diary"],
+    "answer": "D",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "The study of past human societies through their material remains is called",
+    "options": ["A. anthropology", "B. archaeology", "C. sociology", "D. numismatics"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 304,
+    "question": "Which of the following is NOT a problem of oral tradition?",
+    "options": ["A. It can be distorted", "B. It may be forgotten", "C. It is always accurate", "D. It is subjective"],
+    "answer": "B",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "The use of ICT in history helps in",
+    "options": ["A. changing the past", "B. predicting the future", "C. preserving historical data", "D. eliminating history"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The Trans-Saharan trade was facilitated by the use of",
+    "options": ["A. camels", "B. horses", "C. donkeys", "D. elephants"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "Which of these was a major export from West Africa during the Trans-Saharan trade?",
+    "options": ["A. Gold", "B. Horses", "C. Salt", "D. Silk"],
+    "answer": "A",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "The Trans-Saharan trade led to the development of",
+    "options": ["A. coastal cities", "B. inland trade routes", "C. ocean navigation", "D. railway systems"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The decline of the Trans-Saharan trade was caused by the",
+    "options": ["A. rise of Atlantic trade", "B. end of the camel trade", "C. fall of Rome", "D. rise of the Ottoman Empire"],
+    "answer": "C",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "The Trans-Saharan trade contributed to the growth of West African states by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Islam was introduced to West Africa by",
+    "options": ["A. European missionaries", "B. Arab and Berber traders", "C. Christian missionaries", "D. Indian merchants"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "The spread of Islam in West Africa led to the establishment of",
+    "options": ["A. Christian schools", "B. more traditional shrines", "C. colonial rule", "D. Islamic schools and laws"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "The Jihad of Uthman Dan Fodio was launched in",
+    "options": ["A. 1704", "B. 1804", "C. 1904", "D. 1854"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "One effect of Islam on West Africa was the",
+    "options": ["A. introduction of new farming tools", "B. adoption of Arabic script", "C. end of traditional festivals", "D. decline of trade"],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Timbuktu became a centre of Islamic learning during the",
+    "options": ["A. Ghana Empire", "B. Mali Empire", "C. Songhai Empire", "D. Kanem-Borno Empire"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The first Europeans to establish contact with West Africa were the",
+    "options": ["A. British", "B. French", "C. Dutch", "D. Portuguese"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "A major reason for early European contact with West Africa was the search for",
+    "options": ["A. gold", "B. slaves", "C. farmland", "D. knowledge"],
+    "answer": "C",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "The immediate effect of European contact on West Africa was the",
+    "options": ["A. end of local industries", "B. introduction of new crops", "C. decline of traditional religion", "D. abolition of chieftaincy"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "West Africans reacted to European contact by",
+    "options": ["A. completely rejecting trade", "B. migrating to Europe", "C. engaging in trade and resistance", "D. abandoning their culture"],
+    "answer": "A",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "The introduction of firearms by Europeans affected West Africa by",
+    "options": ["A. reducing warfare", "B. ending the slave trade", "C. promoting peace", "D. increasing inter-group conflicts"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "The Trans-Atlantic slave trade involved the exchange of slaves for",
+    "options": ["A. gold and salt", "B. European manufactured goods", "C. Asian spices", "D. African textiles"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "The Middle Passage refers to the",
+    "options": ["A. journey across the Sahara", "B. voyage from Africa to the Americas", "C. return of ships to Europe", "D. route from Europe to Africa"],
+    "answer": "D",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "The abolition of the slave trade was followed by the",
+    "options": ["A. end of all trade", "B. decline of European interest", "C. promotion of legitimate trade", "D. reintroduction of slavery"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "The economic effect of the slave trade on West Africa included",
+    "options": ["A. growth of industries", "B. increased population", "C. technological progress", "D. loss of agricultural labour"],
+    "answer": "B",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "The suppression of the slave trade was effected by",
+    "options": ["A. international treaties", "B. African kings", "C. the United Nations", "D. the OAU"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "Christian missionaries in West Africa were mainly sponsored by",
+    "options": ["A. colonial governments", "B. missionary societies", "C. local kings", "D. trading companies"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "The establishment of schools by missionaries led to the",
+    "options": ["A. decline of literacy", "B. loss of local languages", "C. emergence of educated elites", "D. end of history"],
+    "answer": "A",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 328,
+    "question": "Missionary activities contributed to the abolition of the slave trade by",
+    "options": ["A. buying all slaves", "B. arming African kings", "C. using force against traders", "D. advocating for human rights"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A challenge faced by Christian missionaries in West Africa was",
+    "options": ["A. too many resources", "B. lack of converts", "C. tropical diseases", "D. strong support from rulers"],
+    "answer": "C",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "The translation of the Bible into African languages helped to",
+    "options": ["A. replace African languages", "B. promote African languages", "C. end all religions", "D. stop education"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "The Berlin Conference was held in",
+    "options": ["A. 1884-1885", "B. 1900-1901", "C. 1919-1920", "D. 1945-1946"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 332,
+    "question": "A major outcome of the Berlin Conference was the",
+    "options": ["A. unification of Africa", "B. end of slavery", "C. beginning of colonization", "D. division of Africa"],
+    "answer": "B",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "West African resistance to colonial rule was most successful in",
+    "options": ["A. Ethiopia", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "A reason for the Scramble for Africa was the need for",
+    "options": ["A. more farmland", "B. raw materials", "C. tourist attractions", "D. military bases"],
+    "answer": "D",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "The colonial conquest of West Africa was aided by",
+    "options": ["A. advanced weaponry", "B. lack of African leadership", "C. African unity", "D. the abolition of slavery"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "Indirect rule in West Africa was most successful in",
+    "options": ["A. areas with centralized traditional authority", "B. areas without traditional rulers", "C. coastal cities", "D. French colonies"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "The main purpose of colonial education was to",
+    "options": ["A. preserve African culture", "B. provide skilled labour", "C. promote African languages", "D. challenge colonial rule"],
+    "answer": "C",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "A major effect of the two World Wars on West Africa was the",
+    "options": ["A. end of colonial rule", "B. economic boom", "C. decline of nationalism", "D. rise of nationalism"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The colonial economy in West Africa was designed to",
+    "options": ["A. benefit African farmers", "B. develop local industries", "C. produce raw materials for Europe", "D. promote regional trade"],
+    "answer": "A",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "Which of the following is a pattern of colonial rule in West Africa?",
+    "options": ["A. Direct and indirect rule", "B. Communist rule", "C. Theocratic rule", "D. Feudal rule"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 341,
+    "question": "Neo-colonialism is often blamed for",
+    "options": ["A. promoting industrialization", "B. reducing poverty", "C. ensuring fair trade", "D. perpetuating economic dependency"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "Military coups in West Africa are often caused by",
+    "options": ["A. strong institutions", "B. economic prosperity", "C. good governance", "D. political instability"],
+    "answer": "D",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "Boundary disputes in West Africa often threaten",
+    "options": ["A. regional unity", "B. international trade", "C. cultural exchange", "D. environmental conservation"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "Unequal development in West African states often results from",
+    "options": ["A. equal resource distribution", "B. uneven development policies", "C. good governance", "D. balanced education"],
+    "answer": "B",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "A common challenge to West African unity is",
+    "options": ["A. shared language", "B. common currency", "C. ethnic conflict", "D. joint projects"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The main aim of the OAU was to",
+    "options": ["A. promote economic development", "B. end colonialism", "C. reduce international trade", "D. promote African unity"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "One of the challenges facing ECOWAS is",
+    "options": ["A. too much economic integration", "B. political instability in member states", "C. lack of cultural exchanges", "D. too much free movement"],
+    "answer": "A",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "The UN was established after",
+    "options": ["A. World War I", "B. the Cold War", "C. World War II", "D. the Berlin Conference"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 349,
+    "question": "The OAU was established in",
+    "options": ["A. 1945", "B. 1960", "C. 1963", "D. 1975"],
+    "answer": "C",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "One of the successes of ECOWAS is",
+    "options": ["A. ending all conflicts", "B. unifying all African states", "C. abolishing currencies", "D. promoting free movement of people"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "The Nok culture is dated to around",
+    "options": ["A. 1000 BC", "B. 500 AD", "C. 1500 AD", "D. 2000 BC"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+    {
+    "id": 352,
+    "question": "Igbo Ukwu bronze artefacts show evidence of",
+    "options": ["A. European influence", "B. a developed local craft industry", "C. Chinese trade", "D. Islamic influence"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "The Benin Empire's artistic heritage includes",
+    "options": ["A. ivory carving", "B. terracotta heads", "C. bronze plaques", "D. stone monoliths"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "The Trans-Saharan trade affected Nigerian states by",
+    "options": ["A. introducing new crops", "B. replacing local religions", "C. ending local industries", "D. bringing new goods and Islam"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "The Hausa states were known for",
+    "options": ["A. a centralized administration", "B. their powerful navy", "C. their isolation", "D. lack of trade"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "Oyo's rise to prominence was partly due to its",
+    "options": ["A. coastal location", "B. cavalry strength", "C. access to gold", "D. alliance with Europeans"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "One example of inter-group relations in pre-colonial Nigeria is",
+    "options": ["A. constant isolation", "B. lack of trade", "C. intermarriage", "D. separate languages"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The indigenous salt-making industry was important for",
+    "options": ["A. export to Europe", "B. replacing food", "C. building houses", "D. local consumption and trade"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 359,
+    "question": "The environment of Nigeria influenced early hunting and gathering because of",
+    "options": ["A. the variety of wildlife and plants", "B. lack of water", "C. urban growth", "D. presence of Europeans"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "Bronze casting in Benin was used for",
+    "options": ["A. food preservation", "B. religious and artistic purposes", "C. building walls", "D. making tools"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "The Sokoto Caliphate was established in",
+    "options": ["A. 1804", "B. 1903", "C. 1500", "D. 1750"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "The Sokoto Caliphate was divided into",
+    "options": ["A. provinces", "B. emirates", "C. counties", "D. states"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "A major impact of the Sokoto Jihad was the",
+    "options": ["A. decline of Islam", "B. spread of Islam", "C. end of the caliphate", "D. introduction of Christianity"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "El-Kanemi is associated with the",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Borno Empire", "D. Sokoto Caliphate"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "Christian missionaries in Nigeria contributed to the",
+    "options": ["A. spread of Islam", "B. decline of education", "C. growth of Western education", "D. end of trade"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "Ibadan's dominance in Yorubaland was based on",
+    "options": ["A. economic wealth", "B. military power", "C. colonial support", "D. naval strength"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "The British conquest of Lagos took place in",
+    "options": ["A. 1851", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "The Royal Niger Company was chartered in",
+    "options": ["A. 1885", "B. 1886", "C. 1890", "D. 1900"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "The fall of the Benin Empire was in",
+    "options": ["A. 1897", "B. 1900", "C. 1851", "D. 1885"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Yorubaland in the 19th century experienced",
+    "options": ["A. peace and stability", "B. colonial rule", "C. Islamic Jihad", "D. civil wars"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "The amalgamation of Nigeria took place in",
+    "options": ["A. 1900", "B. 1914", "C. 1906", "D. 1922"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "Lord Lugard was the first Governor-General of",
+    "options": ["A. Ghana", "B. Nigeria", "C. Sierra Leone", "D. The Gambia"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "Indirect rule in Nigeria relied on",
+    "options": ["A. educated elites", "B. military officers", "C. traditional rulers", "D. missionaries"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 374,
+    "question": "Nigerian nationalism grew after",
+    "options": ["A. 1914", "B. 1922", "C. 1945", "D. 1960"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "The first political party in Nigeria was",
+    "options": ["A. NCNC", "B. AG", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 376,
+    "question": "Nigeria became a republic in",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1979"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "The Nigerian Civil War was fought between",
+    "options": ["A. Nigeria and Ghana", "B. North and South", "C. Nigeria and Biafra", "D. Nigeria and Cameroon"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "General Yakubu Gowon was the military Head of State during the",
+    "options": ["A. First Republic", "B. Second Republic", "C. Civil War", "D. Fourth Republic"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "The Murtala/Obasanjo regime created",
+    "options": ["A. 12 states", "B. 19 states", "C. 21 states", "D. 30 states"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "The Second Republic ended in",
+    "options": ["A. 1979", "B. 1983", "C. 1993", "D. 1999"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 381,
+    "question": "Ibrahim Babangida became Head of State in",
+    "options": ["A. 1983", "B. 1985", "C. 1993", "D. 1998"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "The annulment of the June 12, 1993 election was by",
+    "options": ["A. Sani Abacha", "B. Ibrahim Babangida", "C. Muhammadu Buhari", "D. Olusegun Obasanjo"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Sani Abacha ruled Nigeria from",
+    "options": ["A. 1985 to 1993", "B. 1993 to 1998", "C. 1999 to 2007", "D. 1983 to 1985"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "Nigeria returned to democracy in",
+    "options": ["A. 1993", "B. 1998", "C. 1999", "D. 2000"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 385,
+    "question": "Olusegun Obasanjo was president of Nigeria from",
+    "options": ["A. 1976 to 1979", "B. 1983 to 1985", "C. 1999 to 2007", "D. 2007 to 2010"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "Nigeria is a member of OPEC because it produces",
+    "options": ["A. gold", "B. cocoa", "C. coal", "D. crude oil"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "The West African Diaspora is a result of",
+    "options": ["A. voluntary migration only", "B. the slave trade and migration", "C. colonial policies", "D. recent tourism"],
+    "answer": "A",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "Racism is a global issue that affects",
+    "options": ["A. only Africa", "B. only Europe", "C. people of different races worldwide", "D. only the Americas"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "Debt relief for African countries is intended to",
+    "options": ["A. increase debt", "B. increase interest rates", "C. reduce the debt burden", "D. stop all aid"],
+    "answer": "C",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "The MDGs aimed to reduce poverty by",
+    "options": ["A. 2050", "B. 2030", "C. 2020", "D. 2015"],
+    "answer": "D",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "The Ghana Empire was located in present-day",
+    "options": ["A. Mali", "B. Ghana", "C. Senegal", "D. Nigeria"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "The Mali Empire was founded by",
+    "options": ["A. Sonni Ali", "B. Sundiata Keita", "C. Askia Muhammad", "D. Mansa Musa"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "The Songhai Empire was known for its",
+    "options": ["A. maritime trade", "B. use of iron weapons", "C. centralized administration", "D. lack of education"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "The Kanem-Borno Empire was located around",
+    "options": ["A. the Niger Delta", "B. the Sahara Desert", "C. Lake Chad", "D. the Atlantic Coast"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 395,
+    "question": "The Asante Empire was located in present-day",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The Oyo Empire was a prominent",
+    "options": ["A. coastal kingdom", "B. forest kingdom", "C. savannah empire", "D. riverine state"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "The trans-Saharan trade contributed to the rise of West African empires by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "The Benin Empire was famous for its",
+    "options": ["A. cavalry", "B. navy", "C. bronze works", "D. silk production"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "question": "The Asante kingdom was known for its",
+    "options": ["A. gold wealth", "B. naval power", "C. stone cities", "D. iron industry"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 400,
+    "question": "The Swahili civilization flourished on the",
+    "options": ["A. West African coast", "B. North African coast", "C. East African coast", "D. South African coast"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "The main source of historical information in pre-literate societies was",
+    "options": ["A. written records", "B. oral tradition", "C. newspapers", "D. books"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "Which of these is a primary source of history?",
+    "options": ["A. A history textbook", "B. A journal article", "C. An encyclopaedia", "D. A diary"],
+    "answer": "D",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "The study of past human societies through their material remains is called",
+    "options": ["A. anthropology", "B. archaeology", "C. sociology", "D. numismatics"],
+    "answer": "A",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "Which of the following is NOT a problem of oral tradition?",
+    "options": ["A. It can be distorted", "B. It may be forgotten", "C. It is always accurate", "D. It is subjective"],
+    "answer": "B",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "The use of ICT in history helps in",
+    "options": ["A. changing the past", "B. predicting the future", "C. preserving historical data", "D. eliminating history"],
+    "answer": "C",
+    "topic": "Historiography and Historical Skills",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 406,
+    "question": "The Trans-Saharan trade was facilitated by the use of",
+    "options": ["A. camels", "B. horses", "C. donkeys", "D. elephants"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 407,
+    "question": "Which of these was a major export from West Africa during the Trans-Saharan trade?",
+    "options": ["A. Gold", "B. Horses", "C. Salt", "D. Silk"],
+    "answer": "A",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "The Trans-Saharan trade led to the development of",
+    "options": ["A. coastal cities", "B. inland trade routes", "C. ocean navigation", "D. railway systems"],
+    "answer": "B",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 409,
+    "question": "The decline of the Trans-Saharan trade was caused by the",
+    "options": ["A. rise of Atlantic trade", "B. end of the camel trade", "C. fall of Rome", "D. rise of the Ottoman Empire"],
+    "answer": "C",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "The Trans-Saharan trade contributed to the growth of West African states by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "D",
+    "topic": "Trans-Saharan Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "Islam was introduced to West Africa by",
+    "options": ["A. European missionaries", "B. Arab and Berber traders", "C. Christian missionaries", "D. Indian merchants"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "The spread of Islam in West Africa led to the establishment of",
+    "options": ["A. Christian schools", "B. more traditional shrines", "C. colonial rule", "D. Islamic schools and laws"],
+    "answer": "B",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "The Jihad of Uthman Dan Fodio was launched in",
+    "options": ["A. 1704", "B. 1804", "C. 1904", "D. 1854"],
+    "answer": "C",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "One effect of Islam on West Africa was the",
+    "options": ["A. introduction of new farming tools", "B. adoption of Arabic script", "C. end of traditional festivals", "D. decline of trade"],
+    "answer": "D",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "question": "Timbuktu became a centre of Islamic learning during the",
+    "options": ["A. Ghana Empire", "B. Mali Empire", "C. Songhai Empire", "D. Kanem-Borno Empire"],
+    "answer": "A",
+    "topic": "Islam in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 416,
+    "question": "The first Europeans to establish contact with West Africa were the",
+    "options": ["A. British", "B. French", "C. Dutch", "D. Portuguese"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "A major reason for early European contact with West Africa was the search for",
+    "options": ["A. gold", "B. slaves", "C. farmland", "D. knowledge"],
+    "answer": "C",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The immediate effect of European contact on West Africa was the",
+    "options": ["A. end of local industries", "B. introduction of new crops", "C. decline of traditional religion", "D. abolition of chieftaincy"],
+    "answer": "D",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 419,
+    "question": "West Africans reacted to European contact by",
+    "options": ["A. completely rejecting trade", "B. migrating to Europe", "C. engaging in trade and resistance", "D. abandoning their culture"],
+    "answer": "A",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "The introduction of firearms by Europeans affected West Africa by",
+    "options": ["A. reducing warfare", "B. ending the slave trade", "C. promoting peace", "D. increasing inter-group conflicts"],
+    "answer": "B",
+    "topic": "European Contact with West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "The Trans-Atlantic slave trade involved the exchange of slaves for",
+    "options": ["A. gold and salt", "B. European manufactured goods", "C. Asian spices", "D. African textiles"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "The Middle Passage refers to the",
+    "options": ["A. journey across the Sahara", "B. voyage from Africa to the Americas", "C. return of ships to Europe", "D. route from Europe to Africa"],
+    "answer": "D",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "The abolition of the slave trade was followed by the",
+    "options": ["A. end of all trade", "B. decline of European interest", "C. promotion of legitimate trade", "D. reintroduction of slavery"],
+    "answer": "A",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "The economic effect of the slave trade on West Africa included",
+    "options": ["A. growth of industries", "B. increased population", "C. technological progress", "D. loss of agricultural labour"],
+    "answer": "B",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "The suppression of the slave trade was effected by",
+    "options": ["A. international treaties", "B. African kings", "C. the United Nations", "D. the OAU"],
+    "answer": "C",
+    "topic": "Trans-Atlantic Slave Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 426,
+    "question": "Christian missionaries in West Africa were mainly sponsored by",
+    "options": ["A. colonial governments", "B. missionary societies", "C. local kings", "D. trading companies"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "The establishment of schools by missionaries led to the",
+    "options": ["A. decline of literacy", "B. loss of local languages", "C. emergence of educated elites", "D. end of history"],
+    "answer": "A",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "Missionary activities contributed to the abolition of the slave trade by",
+    "options": ["A. buying all slaves", "B. arming African kings", "C. using force against traders", "D. advocating for human rights"],
+    "answer": "B",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "A challenge faced by Christian missionaries in West Africa was",
+    "options": ["A. too many resources", "B. lack of converts", "C. tropical diseases", "D. strong support from rulers"],
+    "answer": "C",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 430,
+    "question": "The translation of the Bible into African languages helped to",
+    "options": ["A. replace African languages", "B. promote African languages", "C. end all religions", "D. stop education"],
+    "answer": "D",
+    "topic": "Christian Missionary Activities in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "The Berlin Conference was held in",
+    "options": ["A. 1884-1885", "B. 1900-1901", "C. 1919-1920", "D. 1945-1946"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 432,
+    "question": "A major outcome of the Berlin Conference was the",
+    "options": ["A. unification of Africa", "B. end of slavery", "C. beginning of colonization", "D. division of Africa"],
+    "answer": "B",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 433,
+    "question": "West African resistance to colonial rule was most successful in",
+    "options": ["A. Ethiopia", "B. Nigeria", "C. Ghana", "D. Senegal"],
+    "answer": "C",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "A reason for the Scramble for Africa was the need for",
+    "options": ["A. more farmland", "B. raw materials", "C. tourist attractions", "D. military bases"],
+    "answer": "D",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "The colonial conquest of West Africa was aided by",
+    "options": ["A. advanced weaponry", "B. lack of African leadership", "C. African unity", "D. the abolition of slavery"],
+    "answer": "A",
+    "topic": "The Scramble for and Partition of West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "Indirect rule in West Africa was most successful in",
+    "options": ["A. areas with centralized traditional authority", "B. areas without traditional rulers", "C. coastal cities", "D. French colonies"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "The main purpose of colonial education was to",
+    "options": ["A. preserve African culture", "B. provide skilled labour", "C. promote African languages", "D. challenge colonial rule"],
+    "answer": "C",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "A major effect of the two World Wars on West Africa was the",
+    "options": ["A. end of colonial rule", "B. economic boom", "C. decline of nationalism", "D. rise of nationalism"],
+    "answer": "D",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "The colonial economy in West Africa was designed to",
+    "options": ["A. benefit African farmers", "B. develop local industries", "C. produce raw materials for Europe", "D. promote regional trade"],
+    "answer": "A",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "Which of the following is a pattern of colonial rule in West Africa?",
+    "options": ["A. Direct and indirect rule", "B. Communist rule", "C. Theocratic rule", "D. Feudal rule"],
+    "answer": "B",
+    "topic": "Colonial Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 441,
+    "question": "Neo-colonialism is often blamed for",
+    "options": ["A. promoting industrialization", "B. reducing poverty", "C. ensuring fair trade", "D. perpetuating economic dependency"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "Military coups in West Africa are often caused by",
+    "options": ["A. strong institutions", "B. economic prosperity", "C. good governance", "D. political instability"],
+    "answer": "D",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "Boundary disputes in West Africa often threaten",
+    "options": ["A. regional unity", "B. international trade", "C. cultural exchange", "D. environmental conservation"],
+    "answer": "A",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "Unequal development in West African states often results from",
+    "options": ["A. equal resource distribution", "B. uneven development policies", "C. good governance", "D. balanced education"],
+    "answer": "B",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "A common challenge to West African unity is",
+    "options": ["A. shared language", "B. common currency", "C. ethnic conflict", "D. joint projects"],
+    "answer": "C",
+    "topic": "Problems of Independent West African States",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "The main aim of the OAU was to",
+    "options": ["A. promote economic development", "B. end colonialism", "C. reduce international trade", "D. promote African unity"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 447,
+    "question": "One of the challenges facing ECOWAS is",
+    "options": ["A. too much economic integration", "B. political instability in member states", "C. lack of cultural exchanges", "D. too much free movement"],
+    "answer": "A",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 448,
+    "question": "The UN was established after",
+    "options": ["A. World War I", "B. the Cold War", "C. World War II", "D. the Berlin Conference"],
+    "answer": "B",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "question": "The OAU was established in",
+    "options": ["A. 1945", "B. 1960", "C. 1963", "D. 1975"],
+    "answer": "C",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "One of the successes of ECOWAS is",
+    "options": ["A. ending all conflicts", "B. unifying all African states", "C. abolishing currencies", "D. promoting free movement of people"],
+    "answer": "D",
+    "topic": "West Africa and International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 451,
+    "question": "The Nok culture is dated to around",
+    "options": ["A. 1000 BC", "B. 500 AD", "C. 1500 AD", "D. 2000 BC"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+    {
+    "id": 452,
+    "question": "Igbo Ukwu bronze artefacts show evidence of",
+    "options": ["A. European influence", "B. a developed local craft industry", "C. Chinese trade", "D. Islamic influence"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "The Benin Empire's artistic heritage includes",
+    "options": ["A. ivory carving", "B. terracotta heads", "C. bronze plaques", "D. stone monoliths"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "The Trans-Saharan trade affected Nigerian states by",
+    "options": ["A. introducing new crops", "B. replacing local religions", "C. ending local industries", "D. bringing new goods and Islam"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "The Hausa states were known for",
+    "options": ["A. a centralized administration", "B. their powerful navy", "C. their isolation", "D. lack of trade"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "Oyo's rise to prominence was partly due to its",
+    "options": ["A. coastal location", "B. cavalry strength", "C. access to gold", "D. alliance with Europeans"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "One example of inter-group relations in pre-colonial Nigeria is",
+    "options": ["A. constant isolation", "B. lack of trade", "C. intermarriage", "D. separate languages"],
+    "answer": "C",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "The indigenous salt-making industry was important for",
+    "options": ["A. export to Europe", "B. replacing food", "C. building houses", "D. local consumption and trade"],
+    "answer": "D",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "The environment of Nigeria influenced early hunting and gathering because of",
+    "options": ["A. the variety of wildlife and plants", "B. lack of water", "C. urban growth", "D. presence of Europeans"],
+    "answer": "A",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Bronze casting in Benin was used for",
+    "options": ["A. food preservation", "B. religious and artistic purposes", "C. building walls", "D. making tools"],
+    "answer": "B",
+    "topic": "Nigeria from Earliest Times to 1800",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "The Sokoto Caliphate was established in",
+    "options": ["A. 1804", "B. 1903", "C. 1500", "D. 1750"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "The Sokoto Caliphate was divided into",
+    "options": ["A. provinces", "B. emirates", "C. counties", "D. states"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "A major impact of the Sokoto Jihad was the",
+    "options": ["A. decline of Islam", "B. spread of Islam", "C. end of the caliphate", "D. introduction of Christianity"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "El-Kanemi is associated with the",
+    "options": ["A. Oyo Empire", "B. Benin Empire", "C. Borno Empire", "D. Sokoto Caliphate"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "Christian missionaries in Nigeria contributed to the",
+    "options": ["A. spread of Islam", "B. decline of education", "C. growth of Western education", "D. end of trade"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Ibadan's dominance in Yorubaland was based on",
+    "options": ["A. economic wealth", "B. military power", "C. colonial support", "D. naval strength"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "The British conquest of Lagos took place in",
+    "options": ["A. 1851", "B. 1861", "C. 1885", "D. 1900"],
+    "answer": "A",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "The Royal Niger Company was chartered in",
+    "options": ["A. 1885", "B. 1886", "C. 1890", "D. 1900"],
+    "answer": "B",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "The fall of the Benin Empire was in",
+    "options": ["A. 1897", "B. 1900", "C. 1851", "D. 1885"],
+    "answer": "C",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "Yorubaland in the 19th century experienced",
+    "options": ["A. peace and stability", "B. colonial rule", "C. Islamic Jihad", "D. civil wars"],
+    "answer": "D",
+    "topic": "Nigeria in the 19th Century",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "The amalgamation of Nigeria took place in",
+    "options": ["A. 1900", "B. 1914", "C. 1906", "D. 1922"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "Lord Lugard was the first Governor-General of",
+    "options": ["A. Ghana", "B. Nigeria", "C. Sierra Leone", "D. The Gambia"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "Indirect rule in Nigeria relied on",
+    "options": ["A. educated elites", "B. military officers", "C. traditional rulers", "D. missionaries"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "Nigerian nationalism grew after",
+    "options": ["A. 1914", "B. 1922", "C. 1945", "D. 1960"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "The first political party in Nigeria was",
+    "options": ["A. NCNC", "B. AG", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Nigeria became a republic in",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1979"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "The Nigerian Civil War was fought between",
+    "options": ["A. Nigeria and Ghana", "B. North and South", "C. Nigeria and Biafra", "D. Nigeria and Cameroon"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "General Yakubu Gowon was the military Head of State during the",
+    "options": ["A. First Republic", "B. Second Republic", "C. Civil War", "D. Fourth Republic"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "The Murtala/Obasanjo regime created",
+    "options": ["A. 12 states", "B. 19 states", "C. 21 states", "D. 30 states"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "The Second Republic ended in",
+    "options": ["A. 1979", "B. 1983", "C. 1993", "D. 1999"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "Ibrahim Babangida became Head of State in",
+    "options": ["A. 1983", "B. 1985", "C. 1993", "D. 1998"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 482,
+    "question": "The annulment of the June 12, 1993 election was by",
+    "options": ["A. Sani Abacha", "B. Ibrahim Babangida", "C. Muhammadu Buhari", "D. Olusegun Obasanjo"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 483,
+    "question": "Sani Abacha ruled Nigeria from",
+    "options": ["A. 1985 to 1993", "B. 1993 to 1998", "C. 1999 to 2007", "D. 1983 to 1985"],
+    "answer": "A",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "Nigeria returned to democracy in",
+    "options": ["A. 1993", "B. 1998", "C. 1999", "D. 2000"],
+    "answer": "B",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "Olusegun Obasanjo was president of Nigeria from",
+    "options": ["A. 1976 to 1979", "B. 1983 to 1985", "C. 1999 to 2007", "D. 2007 to 2010"],
+    "answer": "C",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "Nigeria is a member of OPEC because it produces",
+    "options": ["A. gold", "B. cocoa", "C. coal", "D. crude oil"],
+    "answer": "D",
+    "topic": "Nigeria from 1900 to 2000",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 487,
+    "question": "The West African Diaspora is a result of",
+    "options": ["A. voluntary migration only", "B. the slave trade and migration", "C. colonial policies", "D. recent tourism"],
+    "answer": "A",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Racism is a global issue that affects",
+    "options": ["A. only Africa", "B. only Europe", "C. people of different races worldwide", "D. only the Americas"],
+    "answer": "B",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "Debt relief for African countries is intended to",
+    "options": ["A. increase debt", "B. increase interest rates", "C. reduce the debt burden", "D. stop all aid"],
+    "answer": "C",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "The MDGs aimed to reduce poverty by",
+    "options": ["A. 2050", "B. 2030", "C. 2020", "D. 2015"],
+    "answer": "D",
+    "topic": "Global Issues",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "The Ghana Empire was located in present-day",
+    "options": ["A. Mali", "B. Ghana", "C. Senegal", "D. Nigeria"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "The Mali Empire was founded by",
+    "options": ["A. Sonni Ali", "B. Sundiata Keita", "C. Askia Muhammad", "D. Mansa Musa"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "The Songhai Empire was known for its",
+    "options": ["A. maritime trade", "B. use of iron weapons", "C. centralized administration", "D. lack of education"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 494,
+    "question": "The Kanem-Borno Empire was located around",
+    "options": ["A. the Niger Delta", "B. the Sahara Desert", "C. Lake Chad", "D. the Atlantic Coast"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "The Asante Empire was located in present-day",
+    "options": ["A. Nigeria", "B. Ghana", "C. Liberia", "D. Sierra Leone"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "The Oyo Empire was a prominent",
+    "options": ["A. coastal kingdom", "B. forest kingdom", "C. savannah empire", "D. riverine state"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "The trans-Saharan trade contributed to the rise of West African empires by",
+    "options": ["A. providing revenue", "B. ending all wars", "C. introducing Christianity", "D. stopping migration"],
+    "answer": "C",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The Benin Empire was famous for its",
+    "options": ["A. cavalry", "B. navy", "C. bronze works", "D. silk production"],
+    "answer": "D",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "The Asante kingdom was known for its",
+    "options": ["A. gold wealth", "B. naval power", "C. stone cities", "D. iron industry"],
+    "answer": "A",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "The Swahili civilization flourished on the",
+    "options": ["A. West African coast", "B. North African coast", "C. East African coast", "D. South African coast"],
+    "answer": "B",
+    "topic": "West Africa and the Wider World",
+    "difficulty": "Medium"
+  }
+]

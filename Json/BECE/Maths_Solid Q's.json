@@ -1,8 +1,13 @@
 [
   {
     "id": 1,
-    "question": "Convert the binary number 11011₂ to base 10.",
-    "options": ["A. 25", "B. 27", "C. 29", "D. 31"],
+    "question": "Convert the binary number \\(11011_{2}\\) to base 10.",
+    "options": [
+      "A. 25",
+      "B. 27",
+      "C. 29",
+      "D. 31"
+    ],
     "answer": "B",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -10,7 +15,12 @@
   {
     "id": 2,
     "question": "Simplify (3x + 5y) - (2x - 3y).",
-    "options": ["A. x + 2y", "B. x + 8y", "C. 5x + 2y", "D. 5x + 8y"],
+    "options": [
+      "A. x + 2y",
+      "B. x + 8y",
+      "C. 5x + 2y",
+      "D. 5x + 8y"
+    ],
     "answer": "B",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
@@ -18,7 +28,12 @@
   {
     "id": 3,
     "question": "If the mean of 5, 8, x, and 12 is 9, find the value of x.",
-    "options": ["A. 7", "B. 9", "C. 10", "D. 11"],
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 10",
+      "D. 11"
+    ],
     "answer": "C",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -26,15 +41,25 @@
   {
     "id": 4,
     "question": "Calculate the simple interest on N20,000 for 3 years at 5% per annum.",
-    "options": ["A. N1,000", "B. N2,000", "C. N3,000", "D. N4,000"],
+    "options": [
+      "A. N1,000",
+      "B. N2,000",
+      "C. N3,000",
+      "D. N4,000"
+    ],
     "answer": "C",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
   },
   {
     "id": 5,
-    "question": "Factorize completely: 4x² - 9y².",
-    "options": ["A. (2x - 3y)(2x - 3y)", "B. (2x + 3y)(2x + 3y)", "C. (2x - 3y)(2x + 3y)", "D. (4x - 3y)(x + 3y)"],
+    "question": "Factorize completely: \\(4x^{2} - 9y^{2}\\).",
+    "options": [
+      "A. (2x - 3y)(2x - 3y)",
+      "B. (2x + 3y)(2x + 3y)",
+      "C. (2x - 3y)(2x + 3y)",
+      "D. (4x - 3y)(x + 3y)"
+    ],
     "answer": "C",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -42,7 +67,12 @@
   {
     "id": 6,
     "question": "Find the Range of the following data: 12, 15, 8, 20, 10, 18.",
-    "options": ["A. 8", "B. 10", "C. 12", "D. 20"],
+    "options": [
+      "A. 8",
+      "B. 10",
+      "C. 12",
+      "D. 20"
+    ],
     "answer": "C",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -50,7 +80,12 @@
   {
     "id": 7,
     "question": "Solve the inequality: 3x - 4 < 2x + 1.",
-    "options": ["A. x < 5", "B. x > 5", "C. x < -5", "D. x > -5"],
+    "options": [
+      "A. x < 5",
+      "B. x > 5",
+      "C. x < -5",
+      "D. x > -5"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -58,7 +93,12 @@
   {
     "id": 8,
     "question": "Express 0.00456 in standard form.",
-    "options": ["A. 4.56 × 10⁻²", "B. 4.56 × 10⁻³", "C. 45.6 × 10⁻⁴", "D. 0.456 × 10⁻²"],
+    "options": [
+      "A. \\(4.56 \\times 10^{-2}\\)",
+      "B. \\(4.56 \\times 10^{-3}\\)",
+      "C. \\(45.6 \\times 10^{-4}\\)",
+      "D. \\(0.456 \\times 10^{-2}\\)"
+    ],
     "answer": "B",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -66,7 +106,12 @@
   {
     "id": 9,
     "question": "A rectangle has a length of 10cm and a diagonal of 26cm. Find its width.",
-    "options": ["A. 16cm", "B. 20cm", "C. 24cm", "D. 28cm"],
+    "options": [
+      "A. 16cm",
+      "B. 20cm",
+      "C. 24cm",
+      "D. 28cm"
+    ],
     "answer": "C",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -74,7 +119,12 @@
   {
     "id": 10,
     "question": "Find the HCF of 12, 18, and 24.",
-    "options": ["A. 2", "B. 3", "C. 6", "D. 12"],
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 6",
+      "D. 12"
+    ],
     "answer": "C",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -83,10 +133,10 @@
     "id": 11,
     "question": "Express 32599 in standard form.",
     "options": [
-      "A. 3.26 × 10³",
-      "B. 3.26 × 10⁵",
-      "C. 32.599 × 10⁴",
-      "D. 3.26 × 10⁴"
+      "A. \\(3.26 \\times 10^{3}\\)",
+      "B. \\(3.26 \\times 10^{5}\\)",
+      "C. \\(32.599 \\times 10^{4}\\)",
+      "D. \\(3.26 \\times 10^{4}\\)"
     ],
     "answer": "D",
     "topic": "Number and Numeration",
@@ -122,10 +172,10 @@
     "id": 14,
     "question": "Find the area of a trapezium whose parallel sides are 7cm and 12cm, and the perpendicular height is 4cm.",
     "options": [
-      "A. 76cm²",
-      "B. 48cm²",
-      "C. 38cm²",
-      "D. 33cm²"
+      "A. \\(76\\,\\text{cm}^{2}\\)",
+      "B. \\(48\\,\\text{cm}^{2}\\)",
+      "C. \\(38\\,\\text{cm}^{2}\\)",
+      "D. \\(33\\,\\text{cm}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -135,10 +185,10 @@
     "id": 15,
     "question": "Find the area of a trapezium whose parallel sides are 10cm and 18cm, and the perpendicular height is 8cm.",
     "options": [
-      "A. 224cm²",
-      "B. 107cm²",
-      "C. 122cm²",
-      "D. 112cm²"
+      "A. \\(224\\,\\text{cm}^{2}\\)",
+      "B. \\(107\\,\\text{cm}^{2}\\)",
+      "C. \\(122\\,\\text{cm}^{2}\\)",
+      "D. \\(112\\,\\text{cm}^{2}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -148,10 +198,10 @@
     "id": 16,
     "question": "A bag contains 4 red, 3 blue, and 2 green balls. What is the probability of picking a blue ball?",
     "options": [
-      "A. 4/9",
-      "B. 3/8",
-      "C. 2/9",
-      "D. 3/9"
+      "A. \\(\\frac{4}{9}\\)",
+      "B. \\(\\frac{3}{8}\\)",
+      "C. \\(\\frac{2}{9}\\)",
+      "D. \\(\\frac{3}{9}\\)"
     ],
     "answer": "D",
     "topic": "Everyday Statistics",
@@ -161,10 +211,10 @@
     "id": 17,
     "question": "Find the area of a trapezium whose parallel sides are 5cm and 17cm, and the perpendicular height is 6cm.",
     "options": [
-      "A. 66cm²",
-      "B. 76cm²",
-      "C. 132cm²",
-      "D. 61cm²"
+      "A. \\(66\\,\\text{cm}^{2}\\)",
+      "B. \\(76\\,\\text{cm}^{2}\\)",
+      "C. \\(132\\,\\text{cm}^{2}\\)",
+      "D. \\(61\\,\\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -185,12 +235,12 @@
   },
   {
     "id": 19,
-    "question": "Evaluate the sum of 1011₂ and 1101₂.",
+    "question": "Evaluate the sum of \\(1011_{2}\\) and \\(1101_{2}\\).",
     "options": [
-      "A. 11000₂",
-      "B. 10010₂",
-      "C. 11100₂",
-      "D. 10100₂"
+      "A. \\(11000_{2}\\)",
+      "B. \\(10010_{2}\\)",
+      "C. \\(11100_{2}\\)",
+      "D. \\(10100_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -239,10 +289,10 @@
     "id": 23,
     "question": "Calculate the volume of a cube with a side length of 6cm.",
     "options": [
-      "A. 216cm³",
-      "B. 36cm³",
-      "C. 144cm³",
-      "D. 18cm³"
+      "A. \\(216\\,\\text{cm}^{3}\\)",
+      "B. \\(36\\,\\text{cm}^{3}\\)",
+      "C. \\(144\\,\\text{cm}^{3}\\)",
+      "D. \\(18\\,\\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -263,7 +313,7 @@
   },
   {
     "id": 25,
-    "question": "Solve for y: (2y + 4) / 3 = 6.",
+    "question": "Solve for y: \\(\\frac{2y + 4}{3} =\\) 6.",
     "options": [
       "A. 7",
       "B. 5",
@@ -289,7 +339,7 @@
   },
   {
     "id": 27,
-    "question": "Factorize the expression: x² + 5x + 6.",
+    "question": "Factorize the expression: \\(x^{2} +\\) 5x + 6.",
     "options": [
       "A. (x - 2)(x - 3)",
       "B. (x + 2)(x + 3)",
@@ -304,10 +354,10 @@
     "id": 28,
     "question": "A bag contains 4 red, 3 blue, and 3 green balls. What is the probability of picking a blue ball?",
     "options": [
-      "A. 4/10",
-      "B. 3/9",
-      "C. 3/10",
-      "D. 1/3"
+      "A. \\(\\frac{4}{10}\\)",
+      "B. \\(\\frac{3}{9}\\)",
+      "C. \\(\\frac{3}{10}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "C",
     "topic": "Everyday Statistics",
@@ -330,10 +380,10 @@
     "id": 30,
     "question": "Convert 49 to a binary number (base 2).",
     "options": [
-      "A. 110000₂",
-      "B. 110011₂",
-      "C. 110001₂",
-      "D. 110010₂"
+      "A. \\(110000_{2}\\)",
+      "B. \\(110011_{2}\\)",
+      "C. \\(110001_{2}\\)",
+      "D. \\(110010_{2}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -343,10 +393,10 @@
     "id": 31,
     "question": "A bag contains 5 red, 3 blue, and 3 green balls. What is the probability of picking a blue ball?",
     "options": [
-      "A. 3/11",
-      "B. 3/10",
-      "C. 5/11",
-      "D. 1/11"
+      "A. \\(\\frac{3}{11}\\)",
+      "B. \\(\\frac{3}{10}\\)",
+      "C. \\(\\frac{5}{11}\\)",
+      "D. \\(\\frac{1}{11}\\)"
     ],
     "answer": "A",
     "topic": "Everyday Statistics",
@@ -354,12 +404,12 @@
   },
   {
     "id": 32,
-    "question": "Subtract 101₂ from 1110₂.",
+    "question": "Subtract \\(101_{2}\\) from \\(1110_{2}\\).",
     "options": [
-      "A. 1001₂",
-      "B. 1011₂",
-      "C. 1101₂",
-      "D. 1111₂"
+      "A. \\(1001_{2}\\)",
+      "B. \\(1011_{2}\\)",
+      "C. \\(1101_{2}\\)",
+      "D. \\(1111_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -367,12 +417,12 @@
   },
   {
     "id": 33,
-    "question": "Calculate the volume of a cylinder of radius 4cm and height 8cm. (Take π = 22/7)",
+    "question": "Calculate the volume of a cylinder of radius 4cm and height 8cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 100.6cm³",
-      "B. 804.6cm³",
-      "C. 412.3cm³",
-      "D. 402.3cm³"
+      "A. \\(100.6\\,\\text{cm}^{3}\\)",
+      "B. \\(804.6\\,\\text{cm}^{3}\\)",
+      "C. \\(412.3\\,\\text{cm}^{3}\\)",
+      "D. \\(402.3\\,\\text{cm}^{3}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -406,10 +456,10 @@
   },
   {
     "id": 36,
-    "question": "Factorize the expression: 2x² - 8.",
+    "question": "Factorize the expression: \\(2x^{2} -\\) 8.",
     "options": [
       "A. 2(x - 2)(x + 2)",
-      "B. 2(x² - 8)",
+      "B. \\(2(x^{2} -\\) 8)",
       "C. (2x - 4)(x + 2)",
       "D. 2(x - 4)(x + 4)"
     ],
@@ -434,10 +484,10 @@
     "id": 38,
     "question": "Express 8150 in standard form.",
     "options": [
-      "A. 8.15 × 10⁴",
-      "B. 81.5 × 10³",
-      "C. 8.15 × 10³",
-      "D. 8.15 × 10²"
+      "A. \\(8.15 \\times 10^{4}\\)",
+      "B. \\(81.5 \\times 10^{3}\\)",
+      "C. \\(8.15 \\times 10^{3}\\)",
+      "D. \\(8.15 \\times 10^{2}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -460,10 +510,10 @@
     "id": 40,
     "question": "Convert 20 to a binary number (base 2).",
     "options": [
-      "A. 10011₂",
-      "B. 10110₂",
-      "C. 10100₂",
-      "D. 10101₂"
+      "A. \\(10011_{2}\\)",
+      "B. \\(10110_{2}\\)",
+      "C. \\(10100_{2}\\)",
+      "D. \\(10101_{2}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -486,10 +536,10 @@
     "id": 42,
     "question": "Expand the algebraic expression: (x - 4)(x + 5).",
     "options": [
-      "A. x² + x - 20",
-      "B. x² - x - 20",
-      "C. x² + 9x + 20",
-      "D. x² - 9x + 20"
+      "A. \\(x^{2} +\\) x - 20",
+      "B. \\(x^{2} -\\) x - 20",
+      "C. \\(x^{2} +\\) 9x + 20",
+      "D. \\(x^{2} -\\) 9x + 20"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -512,10 +562,10 @@
     "id": 44,
     "question": "A bag contains 3 red, 2 blue, and 2 green balls. What is the probability of picking a blue ball?",
     "options": [
-      "A. 2/6",
-      "B. 2/7",
-      "C. 3/7",
-      "D. 1/7"
+      "A. \\(\\frac{2}{6}\\)",
+      "B. \\(\\frac{2}{7}\\)",
+      "C. \\(\\frac{3}{7}\\)",
+      "D. \\(\\frac{1}{7}\\)"
     ],
     "answer": "B",
     "topic": "Everyday Statistics",
@@ -549,12 +599,12 @@
   },
   {
     "id": 47,
-    "question": "Solve the inequality: 3x - 2 ≥ 4x - 6.",
+    "question": "Solve the inequality: \\(3x - 2 \\ge 4x\\) - 6.",
     "options": [
-      "A. x ≤ 4",
-      "B. x ≥ 4",
-      "C. x ≤ -4",
-      "D. x ≥ -4"
+      "A. x \\(\\le\\) 4",
+      "B. x \\(\\ge\\) 4",
+      "C. x \\(\\le -4\\)",
+      "D. x \\(\\ge -4\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -564,10 +614,10 @@
     "id": 48,
     "question": "Convert 19 to a binary number (base 2).",
     "options": [
-      "A. 10011₂",
-      "B. 10101₂",
-      "C. 10010₂",
-      "D. 10100₂"
+      "A. \\(10011_{2}\\)",
+      "B. \\(10101_{2}\\)",
+      "C. \\(10010_{2}\\)",
+      "D. \\(10100_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -590,10 +640,10 @@
     "id": 50,
     "question": "A bag contains 2 red, 4 blue, and 2 green balls. What is the probability of picking a blue ball?",
     "options": [
-      "A. 1/4",
-      "B. 1/2",
-      "C. 4/7",
-      "D. 3/8"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{4}{7}\\)",
+      "D. \\(\\frac{3}{8}\\)"
     ],
     "answer": "B",
     "topic": "Everyday Statistics",
@@ -614,12 +664,12 @@
   },
   {
     "id": 52,
-    "question": "Evaluate the product of 101₂ and 11₂.",
+    "question": "Evaluate the product of \\(101_{2}\\) and \\(11_{2}\\).",
     "options": [
-      "A. 1111₂",
-      "B. 1011₂",
-      "C. 1101₂",
-      "D. 1001₂"
+      "A. \\(1111_{2}\\)",
+      "B. \\(1011_{2}\\)",
+      "C. \\(1101_{2}\\)",
+      "D. \\(1001_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -629,10 +679,10 @@
     "id": 53,
     "question": "Express 149000 in standard form.",
     "options": [
-      "A. 1.49 × 10⁵",
-      "B. 1.49 × 10⁶",
-      "C. 14.9 × 10⁵",
-      "D. 1.49 × 10⁴"
+      "A. \\(1.49 \\times 10^{5}\\)",
+      "B. \\(1.49 \\times 10^{6}\\)",
+      "C. \\(14.9 \\times 10^{5}\\)",
+      "D. \\(1.49 \\times 10^{4}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -668,10 +718,10 @@
     "id": 56,
     "question": "Convert 37 to a binary number (base 2).",
     "options": [
-      "A. 100111₂",
-      "B. 100101₂",
-      "C. 100100₂",
-      "D. 100110₂"
+      "A. \\(100111_{2}\\)",
+      "B. \\(100101_{2}\\)",
+      "C. \\(100100_{2}\\)",
+      "D. \\(100110_{2}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -679,12 +729,12 @@
   },
   {
     "id": 57,
-    "question": "Simplify the fraction: 3/4 + 1/5 - 1/2.",
+    "question": "Simplify the fraction: \\(\\frac{3}{4} + \\frac{1}{5} - \\frac{1}{2}\\).",
     "options": [
-      "A. 1/10",
-      "B. 7/20",
-      "C. 9/20",
-      "D. 11/20"
+      "A. \\(\\frac{1}{10}\\)",
+      "B. \\(\\frac{7}{20}\\)",
+      "C. \\(\\frac{9}{20}\\)",
+      "D. \\(\\frac{11}{20}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -705,12 +755,12 @@
   },
   {
     "id": 59,
-    "question": "Calculate the volume of a cylinder of radius 3cm and height 11cm. (Take π = 22/7)",
+    "question": "Calculate the volume of a cylinder of radius 3cm and height 11cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 622.2cm³",
-      "B. 321.1cm³",
-      "C. 103.7cm³",
-      "D. 311.1cm³"
+      "A. \\(622.2\\,\\text{cm}^{3}\\)",
+      "B. \\(321.1\\,\\text{cm}^{3}\\)",
+      "C. \\(103.7\\,\\text{cm}^{3}\\)",
+      "D. \\(311.1\\,\\text{cm}^{3}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -718,12 +768,12 @@
   },
   {
     "id": 60,
-    "question": "Calculate the area of a circle with a radius of 14cm. (Take π = 22/7)",
+    "question": "Calculate the area of a circle with a radius of 14cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 88cm²",
-      "B. 154cm²",
-      "C. 308cm²",
-      "D. 616cm²"
+      "A. \\(88\\,\\text{cm}^{2}\\)",
+      "B. \\(154\\,\\text{cm}^{2}\\)",
+      "C. \\(308\\,\\text{cm}^{2}\\)",
+      "D. \\(616\\,\\text{cm}^{2}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -746,10 +796,10 @@
     "id": 62,
     "question": "A bag contains 4 red, 2 blue, and 2 green balls. What is the probability of picking a green ball?",
     "options": [
-      "A. 1/4",
-      "B. 1/2",
-      "C. 3/8",
-      "D. 1/8"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{8}\\)",
+      "D. \\(\\frac{1}{8}\\)"
     ],
     "answer": "A",
     "topic": "Everyday Statistics",
@@ -785,10 +835,10 @@
     "id": 65,
     "question": "What is the sum of the interior angles of a polygon with 5 sides?",
     "options": [
-      "A. 540°",
-      "B. 720°",
-      "C. 900°",
-      "D. 360°"
+      "A. \\(540^{\\circ}\\)",
+      "B. \\(720^{\\circ}\\)",
+      "C. \\(900^{\\circ}\\)",
+      "D. \\(360^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -798,10 +848,10 @@
     "id": 66,
     "question": "Express 6580 in standard form.",
     "options": [
-      "A. 6.58 × 10³",
-      "B. 6.58 × 10²",
-      "C. 6.58 × 10⁴",
-      "D. 65.8 × 10³"
+      "A. \\(6.58 \\times 10^{3}\\)",
+      "B. \\(6.58 \\times 10^{2}\\)",
+      "C. \\(6.58 \\times 10^{4}\\)",
+      "D. \\(65.8 \\times 10^{3}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -811,10 +861,10 @@
     "id": 67,
     "question": "In a pie chart, if an item represents 30 out of a total of 120, what is the sector angle?",
     "options": [
-      "A. 60°",
-      "B. 90°",
-      "C. 120°",
-      "D. 150°"
+      "A. \\(60^{\\circ}\\)",
+      "B. \\(90^{\\circ}\\)",
+      "C. \\(120^{\\circ}\\)",
+      "D. \\(150^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Everyday Statistics",
@@ -848,12 +898,12 @@
   },
   {
     "id": 70,
-    "question": "The bearing of point A from point B is 045°. What is the bearing of B from A?",
+    "question": "The bearing of point A from point B is \\(045^{\\circ}\\). What is the bearing of B from A?",
     "options": [
-      "A. 135°",
-      "B. 225°",
-      "C. 315°",
-      "D. 045°"
+      "A. \\(135^{\\circ}\\)",
+      "B. \\(225^{\\circ}\\)",
+      "C. \\(315^{\\circ}\\)",
+      "D. \\(045^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -876,10 +926,10 @@
     "id": 72,
     "question": "Express 19200 in standard form.",
     "options": [
-      "A. 1.92 × 10³",
-      "B. 1.92 × 10⁵",
-      "C. 1.92 × 10⁴",
-      "D. 19.2 × 10⁴"
+      "A. \\(1.92 \\times 10^{3}\\)",
+      "B. \\(1.92 \\times 10^{5}\\)",
+      "C. \\(1.92 \\times 10^{4}\\)",
+      "D. \\(19.2 \\times 10^{4}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -967,10 +1017,10 @@
     "id": 79,
     "question": "Which of the following is an example of an irrational number?",
     "options": [
-      "A. √16",
+      "A. \\(\\sqrt{16}\\)",
       "B. 0.25",
-      "C. √2",
-      "D. 1/3"
+      "C. \\(\\sqrt{2}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -980,10 +1030,10 @@
     "id": 80,
     "question": "Express 5870000 in standard form.",
     "options": [
-      "A. 58.7 × 10⁶",
-      "B. 5.87 × 10⁵",
-      "C. 5.87 × 10⁷",
-      "D. 5.87 × 10⁶"
+      "A. \\(58.7 \\times 10^{6}\\)",
+      "B. \\(5.87 \\times 10^{5}\\)",
+      "C. \\(5.87 \\times 10^{7}\\)",
+      "D. \\(5.87 \\times 10^{6}\\)"
     ],
     "answer": "D",
     "topic": "Number and Numeration",
@@ -1017,7 +1067,7 @@
   },
   {
     "id": 83,
-    "question": "Find the value of x if: x/4 + 2 = 5.",
+    "question": "Find the value of x if: \\(\\frac{x}{4} +\\) 2 = 5.",
     "options": [
       "A. 8",
       "B. 10",
@@ -1071,10 +1121,10 @@
     "id": 87,
     "question": "What is the sum of the interior angles of a polygon with 7 sides?",
     "options": [
-      "A. 720°",
-      "B. 900°",
-      "C. 1080°",
-      "D. 540°"
+      "A. \\(720^{\\circ}\\)",
+      "B. \\(900^{\\circ}\\)",
+      "C. \\(1080^{\\circ}\\)",
+      "D. \\(540^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -1084,10 +1134,10 @@
     "id": 88,
     "question": "Convert 16 to a binary number (base 2).",
     "options": [
-      "A. 10010₂",
-      "B. 1111₂",
-      "C. 10000₂",
-      "D. 10001₂"
+      "A. \\(10010_{2}\\)",
+      "B. \\(1111_{2}\\)",
+      "C. \\(10000_{2}\\)",
+      "D. \\(10001_{2}\\)"
     ],
     "answer": "C",
     "topic": "Number and Numeration",
@@ -1108,12 +1158,12 @@
   },
   {
     "id": 90,
-    "question": "Calculate the volume of a cylinder of radius 3cm and height 7cm. (Take π = 22/7)",
+    "question": "Calculate the volume of a cylinder of radius 3cm and height 7cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 66.0cm³",
-      "B. 208.0cm³",
-      "C. 198.0cm³",
-      "D. 396.0cm³"
+      "A. \\(66.0\\,\\text{cm}^{3}\\)",
+      "B. \\(208.0\\,\\text{cm}^{3}\\)",
+      "C. \\(198.0\\,\\text{cm}^{3}\\)",
+      "D. \\(396.0\\,\\text{cm}^{3}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1123,10 +1173,10 @@
     "id": 91,
     "question": "What is the sum of the interior angles of a polygon with 8 sides (Octagon)?",
     "options": [
-      "A. 1440°",
-      "B. 1260°",
-      "C. 1080°",
-      "D. 900°"
+      "A. \\(1440^{\\circ}\\)",
+      "B. \\(1260^{\\circ}\\)",
+      "C. \\(1080^{\\circ}\\)",
+      "D. \\(900^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1136,10 +1186,10 @@
     "id": 92,
     "question": "Express 85800000 in standard form.",
     "options": [
-      "A. 8.58 × 10⁶",
-      "B. 8.58 × 10⁸",
-      "C. 85.8 × 10⁷",
-      "D. 8.58 × 10⁷"
+      "A. \\(8.58 \\times 10^{6}\\)",
+      "B. \\(8.58 \\times 10^{8}\\)",
+      "C. \\(85.8 \\times 10^{7}\\)",
+      "D. \\(8.58 \\times 10^{7}\\)"
     ],
     "answer": "D",
     "topic": "Number and Numeration",
@@ -1147,12 +1197,12 @@
   },
   {
     "id": 93,
-    "question": "If sin θ = 0.5 and θ is an acute angle, find the value of θ.",
+    "question": "If sin \\(\\theta =\\) 0.5 and \\(\\theta\\) is an acute angle, find the value of \\(\\theta\\).",
     "options": [
-      "A. 30°",
-      "B. 45°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(45^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -1162,10 +1212,10 @@
     "id": 94,
     "question": "A fair die is thrown once. What is the probability of obtaining a number greater than 4?",
     "options": [
-      "A. 1/6",
-      "B. 1/3",
-      "C. 1/2",
-      "D. 2/3"
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{2}{3}\\)"
     ],
     "answer": "B",
     "topic": "Everyday Statistics",
@@ -1173,12 +1223,12 @@
   },
   {
     "id": 95,
-    "question": "Make 'v' the subject of the formula: K = 1/2 m v².",
+    "question": "Make 'v' the subject of the formula: \\(K = \\frac{1}{2} m v^{2}\\).",
     "options": [
-      "A. v = √(2K/m)",
-      "B. v = 2K/m",
-      "C. v = √(K/2m)",
-      "D. v = K/(2m)"
+      "A. \\(v = \\sqrt{\\frac{2K}{m}}\\)",
+      "B. \\(v = \\frac{2K}{m}\\)",
+      "C. \\(v = \\sqrt{\\frac{K}{2m}}\\)",
+      "D. \\(v = \\frac{K}{2m}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -1186,7 +1236,7 @@
   },
   {
     "id": 96,
-    "question": "Evaluate: √25 + √144 - √169.",
+    "question": "Evaluate: \\(\\sqrt{25} + \\sqrt{144} - \\sqrt{169.}\\)",
     "options": [
       "A. 0",
       "B. 4",
@@ -1214,10 +1264,10 @@
     "id": 98,
     "question": "What is the sum of the interior angles of a polygon with 6 sides (Hexagon)?",
     "options": [
-      "A. 900°",
-      "B. 540°",
-      "C. 720°",
-      "D. 1080°"
+      "A. \\(900^{\\circ}\\)",
+      "B. \\(540^{\\circ}\\)",
+      "C. \\(720^{\\circ}\\)",
+      "D. \\(1080^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1225,7 +1275,7 @@
   },
   {
     "id": 99,
-    "question": "Given that x = 2 and y = -3, evaluate the expression: 3x² - 2y.",
+    "question": "Given that x = 2 and y = -3, evaluate the expression: \\(3x^{2} -\\) 2y.",
     "options": [
       "A. 6",
       "B. 12",
@@ -1266,10 +1316,10 @@
     "id": 102,
     "question": "Calculate the volume of a rectangular block 8cm long, 5cm wide, and 4cm high.",
     "options": [
-      "A. 17cm³",
-      "B. 32cm³",
-      "C. 160cm³",
-      "D. 320cm³"
+      "A. \\(17\\,\\text{cm}^{3}\\)",
+      "B. \\(32\\,\\text{cm}^{3}\\)",
+      "C. \\(160\\,\\text{cm}^{3}\\)",
+      "D. \\(320\\,\\text{cm}^{3}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1292,10 +1342,10 @@
     "id": 104,
     "question": "Convert the decimal number 25 to binary (base 2).",
     "options": [
-      "A. 11001₂",
-      "B. 10101₂",
-      "C. 11101₂",
-      "D. 11011₂"
+      "A. \\(11001_{2}\\)",
+      "B. \\(10101_{2}\\)",
+      "C. \\(11101_{2}\\)",
+      "D. \\(11011_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -1316,9 +1366,9 @@
   },
   {
     "id": 106,
-    "question": "Factorize: 3xy - 6y².",
+    "question": "Factorize: \\(3xy - 6y^{2}\\).",
     "options": [
-      "A. 3(xy - 2y²)",
+      "A. \\(3(xy - 2y^{2}\\))",
       "B. 3x(y - 2)",
       "C. 3y(x - 2y)",
       "D. y(3x - 6y)"
@@ -1329,12 +1379,12 @@
   },
   {
     "id": 107,
-    "question": "If the sum of angles on a straight line is 180°, find the value of y if the angles are 3y, 2y, and 45°.",
+    "question": "If the sum of angles on a straight line is \\(180^{\\circ}\\), find the value of y if the angles are 3y, 2y, and \\(45^{\\circ}\\).",
     "options": [
-      "A. 27°",
-      "B. 35°",
-      "C. 45°",
-      "D. 55°"
+      "A. \\(27^{\\circ}\\)",
+      "B. \\(35^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(55^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -1383,9 +1433,9 @@
     "id": 111,
     "question": "A coin is tossed once. What is the probability of getting a head?",
     "options": [
-      "A. 1/4",
-      "B. 1/3",
-      "C. 1/2",
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{2}\\)",
       "D. 1"
     ],
     "answer": "C",
@@ -1394,12 +1444,12 @@
   },
   {
     "id": 112,
-    "question": "Evaluate: 3/4 + 1/3 - 1/2.",
+    "question": "Evaluate: \\(\\frac{3}{4} + \\frac{1}{3} - \\frac{1}{2}\\).",
     "options": [
-      "A. 1/12",
-      "B. 5/12",
-      "C. 7/12",
-      "D. 11/12"
+      "A. \\(\\frac{1}{12}\\)",
+      "B. \\(\\frac{5}{12}\\)",
+      "C. \\(\\frac{7}{12}\\)",
+      "D. \\(\\frac{11}{12}\\)"
     ],
     "answer": "C",
     "topic": "Basic Operations",
@@ -1409,10 +1459,10 @@
     "id": 113,
     "question": "Express 0.000345 in standard form.",
     "options": [
-      "A. 3.45 × 10⁻⁴",
-      "B. 3.45 × 10⁻³",
-      "C. 3.45 × 10⁴",
-      "D. 34.5 × 10⁻⁵"
+      "A. \\(3.45 \\times 10^{-4}\\)",
+      "B. \\(3.45 \\times 10^{-3}\\)",
+      "C. \\(3.45 \\times 10^{4}\\)",
+      "D. \\(34.5 \\times 10^{-5}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -1420,12 +1470,12 @@
   },
   {
     "id": 114,
-    "question": "Find the area of a circle whose diameter is 14cm. (Take π = 22/7)",
+    "question": "Find the area of a circle whose diameter is 14cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 44cm²",
-      "B. 154cm²",
-      "C. 308cm²",
-      "D. 616cm²"
+      "A. \\(44\\,\\text{cm}^{2}\\)",
+      "B. \\(154\\,\\text{cm}^{2}\\)",
+      "C. \\(308\\,\\text{cm}^{2}\\)",
+      "D. \\(616\\,\\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -1485,7 +1535,7 @@
   },
   {
     "id": 119,
-    "question": "Factorize completely: m² - 16.",
+    "question": "Factorize completely: \\(\\text{m}^{2} -\\) 16.",
     "options": [
       "A. (m - 4)(m - 4)",
       "B. (m + 4)(m + 4)",
@@ -1500,10 +1550,10 @@
     "id": 120,
     "question": "A die is rolled. Find the probability of obtaining a prime number.",
     "options": [
-      "A. 1/6",
-      "B. 1/3",
-      "C. 1/2",
-      "D. 2/3"
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{2}{3}\\)"
     ],
     "answer": "C",
     "topic": "Everyday Statistics",
@@ -1511,7 +1561,7 @@
   },
   {
     "id": 121,
-    "question": "Convert the binary number 10111₂ to base 10.",
+    "question": "Convert the binary number \\(10111_{2}\\) to base 10.",
     "options": [
       "A. 21",
       "B. 23",
@@ -1524,7 +1574,7 @@
   },
   {
     "id": 122,
-    "question": "If x = -2 and y = 3, evaluate x² - 2xy + y².",
+    "question": "If x = -2 and y = 3, evaluate \\(x^{2} - 2xy + y^{2}\\).",
     "options": [
       "A. 1",
       "B. 5",
@@ -1552,10 +1602,10 @@
     "id": 124,
     "question": "Find the area of a triangle with base 10cm and height 8cm.",
     "options": [
-      "A. 18cm²",
-      "B. 40cm²",
-      "C. 80cm²",
-      "D. 160cm²"
+      "A. \\(18\\,\\text{cm}^{2}\\)",
+      "B. \\(40\\,\\text{cm}^{2}\\)",
+      "C. \\(80\\,\\text{cm}^{2}\\)",
+      "D. \\(160\\,\\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -1589,12 +1639,12 @@
   },
   {
     "id": 127,
-    "question": "What is the square root of 6¼?",
+    "question": "What is the square root of 6\\(\\frac{1}{4}\\)?",
     "options": [
-      "A. 2¼",
-      "B. 2½",
-      "C. 3¼",
-      "D. 3½"
+      "A. \\(2\\frac{1}{4}\\)",
+      "B. \\(2\\frac{1}{2}\\)",
+      "C. \\(3\\frac{1}{4}\\)",
+      "D. \\(3\\frac{1}{2}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -1602,12 +1652,12 @@
   },
   {
     "id": 128,
-    "question": "Evaluate 1101₂ + 1010₂.",
+    "question": "Evaluate \\(1101_{2} + 1010_{2}\\).",
     "options": [
-      "A. 10111₂",
-      "B. 11011₂",
-      "C. 10101₂",
-      "D. 11111₂"
+      "A. \\(10111_{2}\\)",
+      "B. \\(11011_{2}\\)",
+      "C. \\(10101_{2}\\)",
+      "D. \\(11111_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -1628,12 +1678,12 @@
   },
   {
     "id": 130,
-    "question": "A cone has a base radius of 7cm and a height of 12cm. Calculate its volume. (Take π = 22/7)",
+    "question": "A cone has a base radius of 7cm and a height of 12cm. Calculate its volume. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 88cm³",
-      "B. 264cm³",
-      "C. 616cm³",
-      "D. 1848cm³"
+      "A. \\(88\\,\\text{cm}^{3}\\)",
+      "B. \\(264\\,\\text{cm}^{3}\\)",
+      "C. \\(616\\,\\text{cm}^{3}\\)",
+      "D. \\(1848\\,\\text{cm}^{3}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1643,10 +1693,10 @@
     "id": 131,
     "question": "Expand and simplify: (2x - 3)(x + 4).",
     "options": [
-      "A. 2x² - 5x - 12",
-      "B. 2x² + 5x - 12",
-      "C. 2x² - 11x - 12",
-      "D. 2x² + 11x - 12"
+      "A. \\(2x^{2} -\\) 5x - 12",
+      "B. \\(2x^{2} +\\) 5x - 12",
+      "C. \\(2x^{2} -\\) 11x - 12",
+      "D. \\(2x^{2} +\\) 11x - 12"
     ],
     "answer": "B",
     "topic": "Algebraic Processes",
@@ -1654,7 +1704,7 @@
   },
   {
     "id": 132,
-    "question": "Express 5/8 as a decimal fraction.",
+    "question": "Express \\(\\frac{5}{8}\\) as a decimal fraction.",
     "options": [
       "A. 0.375",
       "B. 0.580",
@@ -1669,10 +1719,10 @@
     "id": 133,
     "question": "Find the sum of the interior angles of a regular hexagon.",
     "options": [
-      "A. 360°",
-      "B. 540°",
-      "C. 720°",
-      "D. 900°"
+      "A. \\(360^{\\circ}\\)",
+      "B. \\(540^{\\circ}\\)",
+      "C. \\(720^{\\circ}\\)",
+      "D. \\(900^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -1680,12 +1730,12 @@
   },
   {
     "id": 134,
-    "question": "Solve the inequality: 3(x + 2) ≥ 2(x + 5).",
+    "question": "Solve the inequality: \\(3(x + 2) \\ge 2(x\\) + 5).",
     "options": [
-      "A. x ≥ 1",
-      "B. x ≥ 4",
-      "C. x ≤ 4",
-      "D. x ≥ 16"
+      "A. x \\(\\ge\\) 1",
+      "B. x \\(\\ge\\) 4",
+      "C. x \\(\\le\\) 4",
+      "D. x \\(\\ge\\) 16"
     ],
     "answer": "B",
     "topic": "Algebraic Processes",
@@ -1695,10 +1745,10 @@
     "id": 135,
     "question": "A bag contains 6 black balls and 4 white balls. If a ball is picked at random, what is the probability that it is white?",
     "options": [
-      "A. 2/5",
-      "B. 3/5",
-      "C. 4/5",
-      "D. 1/10"
+      "A. \\(\\frac{2}{5}\\)",
+      "B. \\(\\frac{3}{5}\\)",
+      "C. \\(\\frac{4}{5}\\)",
+      "D. \\(\\frac{1}{10}\\)"
     ],
     "answer": "A",
     "topic": "Everyday Statistics",
@@ -1706,7 +1756,7 @@
   },
   {
     "id": 136,
-    "question": "Find the simple interest on N20,000 for 2½ years at 6% per annum.",
+    "question": "Find the simple interest on N20,000 for 2\\(\\frac{1}{2}\\) years at 6% per annum.",
     "options": [
       "A. N1,500",
       "B. N3,000",
@@ -1719,11 +1769,11 @@
   },
   {
     "id": 137,
-    "question": "Evaluate: √2¼.",
+    "question": "Evaluate: \\(\\sqrt{2}\\)\\(\\frac{1}{4}\\).",
     "options": [
-      "A. 1¼",
-      "B. 1½",
-      "C. 1¾",
+      "A. \\(1\\frac{1}{4}\\)",
+      "B. \\(1\\frac{1}{2}\\)",
+      "C. \\(1\\frac{3}{4}\\)",
       "D. 2"
     ],
     "answer": "B",
@@ -1758,7 +1808,7 @@
   },
   {
     "id": 140,
-    "question": "Express 4.56 × 10³ as an ordinary number.",
+    "question": "Express 4.56 \\(\\times 10^{3}\\) as an ordinary number.",
     "options": [
       "A. 0.00456",
       "B. 456",
@@ -1771,12 +1821,12 @@
   },
   {
     "id": 141,
-    "question": "The bearing of X from Y is 120°. What is the bearing of Y from X?",
+    "question": "The bearing of X from Y is \\(120^{\\circ}\\). What is the bearing of Y from X?",
     "options": [
-      "A. 060°",
-      "B. 120°",
-      "C. 240°",
-      "D. 300°"
+      "A. \\(060^{\\circ}\\)",
+      "B. \\(120^{\\circ}\\)",
+      "C. \\(240^{\\circ}\\)",
+      "D. \\(300^{\\circ}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -1797,7 +1847,7 @@
   },
   {
     "id": 143,
-    "question": "Solve the equation: x/2 + x/3 = 10.",
+    "question": "Solve the equation: \\(\\frac{x}{2} + \\frac{x}{3} =\\) 10.",
     "options": [
       "A. 2",
       "B. 6",
@@ -1810,7 +1860,7 @@
   },
   {
     "id": 144,
-    "question": "If a rectangle has an area of 48cm² and a width of 6cm, find its perimeter.",
+    "question": "If a rectangle has an area of \\(48\\,\\text{cm}^{2}\\) and a width of 6cm, find its perimeter.",
     "options": [
       "A. 8cm",
       "B. 14cm",
@@ -1823,12 +1873,12 @@
   },
   {
     "id": 145,
-    "question": "Subtract 110₂ from 1010₂.",
+    "question": "Subtract \\(110_{2}\\) from \\(1010_{2}\\).",
     "options": [
-      "A. 100₂",
-      "B. 101₂",
-      "C. 110₂",
-      "D. 111₂"
+      "A. \\(100_{2}\\)",
+      "B. \\(101_{2}\\)",
+      "C. \\(110_{2}\\)",
+      "D. \\(111_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -1836,11 +1886,11 @@
   },
   {
     "id": 146,
-    "question": "Simplify: 4a²b / 2ab.",
+    "question": "Simplify: \\(\\frac{4a^{2}b}{2ab}\\).",
     "options": [
       "A. 2a",
       "B. 2b",
-      "C. 2a²",
+      "C. \\(2a^{2}\\)",
       "D. 2ab"
     ],
     "answer": "A",
@@ -1851,10 +1901,10 @@
     "id": 147,
     "question": "Find the value of x if the angles of a triangle are x, 2x, and 3x.",
     "options": [
-      "A. 30°",
-      "B. 45°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(45^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Measurement",
@@ -1862,12 +1912,12 @@
   },
   {
     "id": 148,
-    "question": "A student spends 1/3 of his allowance on books and 1/4 on food. What fraction of his allowance is left?",
+    "question": "A student spends \\(\\frac{1}{3}\\) of his allowance on books and \\(\\frac{1}{4}\\) on food. What fraction of his allowance is left?",
     "options": [
-      "A. 5/12",
-      "B. 7/12",
-      "C. 1/7",
-      "D. 2/7"
+      "A. \\(\\frac{5}{12}\\)",
+      "B. \\(\\frac{7}{12}\\)",
+      "C. \\(\\frac{1}{7}\\)",
+      "D. \\(\\frac{2}{7}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -1888,12 +1938,12 @@
   },
   {
     "id": 150,
-    "question": "If P = {prime numbers less than 10}, list the elements of P.",
+    "question": "If P = \\(\\{prime numbers less than 10\\}\\), list the elements of P.",
     "options": [
-      "A. {1, 3, 5, 7}",
-      "B. {2, 3, 5, 7}",
-      "C. {2, 4, 6, 8}",
-      "D. {3, 5, 7, 9}"
+      "A. \\(\\{1, 3, 5, 7\\}\\)",
+      "B. \\(\\{2, 3, 5, 7\\}\\)",
+      "C. \\(\\{2, 4, 6, 8\\}\\)",
+      "D. \\(\\{3, 5, 7, 9\\}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -1901,12 +1951,12 @@
   },
   {
     "id": 151,
-    "question": "Simplify the expression: (3½ - 1¼) × 4/9.",
+    "question": "Simplify the expression: \\((3\\frac{1}{2} - 1\\frac{1}{4} ) \\times \\frac{4}{9}\\).",
     "options": [
       "A. 1",
-      "B. 1½",
+      "B. \\(1\\frac{1}{2}\\)",
       "C. 2",
-      "D. 2¼"
+      "D. \\(2\\frac{1}{4}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -1927,7 +1977,7 @@
   },
   {
     "id": 153,
-    "question": "Calculate the perimeter of a sector of a circle with a radius of 7cm and a sector angle of 90°. (Take π = 22/7)",
+    "question": "Calculate the perimeter of a sector of a circle with a radius of 7cm and a sector angle of \\(90^{\\circ}\\). (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 11cm",
       "B. 18cm",
@@ -1940,7 +1990,7 @@
   },
   {
     "id": 154,
-    "question": "A man travels 120km at an average speed of 40km/h and returns the same distance at 60km/h. What is his average speed for the whole journey?",
+    "question": "A man travels 120km at an average speed of \\(\\frac{40km}{h}\\) and returns the same distance at \\(\\frac{60km}{h}\\). What is his average speed for the whole journey?",
     "options": [
       "A. 48 km/h",
       "B. 50 km/h",
@@ -1966,12 +2016,12 @@
   },
   {
     "id": 156,
-    "question": "If the bearing of town P from town Q is 135°, what is the bearing of Q from P?",
+    "question": "If the bearing of town P from town Q is \\(135^{\\circ}\\), what is the bearing of Q from P?",
     "options": [
-      "A. 045°",
-      "B. 225°",
-      "C. 270°",
-      "D. 315°"
+      "A. \\(045^{\\circ}\\)",
+      "B. \\(225^{\\circ}\\)",
+      "C. \\(270^{\\circ}\\)",
+      "D. \\(315^{\\circ}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -1979,7 +2029,7 @@
   },
   {
     "id": 157,
-    "question": "In a right-angled triangle XYZ, angle Y = 90°, XY = 5cm, and YZ = 12cm. Find the length of XZ.",
+    "question": "In a right-angled triangle XYZ, angle Y = \\(90^{\\circ}\\), XY = 5cm, and YZ = 12cm. Find the length of XZ.",
     "options": [
       "A. 13cm",
       "B. 15cm",
@@ -1992,12 +2042,12 @@
   },
   {
     "id": 158,
-    "question": "Make x the subject of the formula: y = (2x - 1) / (x + 3).",
+    "question": "Make x the subject of the formula: \\(y = \\frac{2x - 1}{x + 3}\\).",
     "options": [
-      "A. x = (3y + 1) / (2 - y)",
-      "B. x = (3y - 1) / (2 + y)",
-      "C. x = (2y + 1) / (3 - y)",
-      "D. x = (y + 3) / (2y - 1)"
+      "A. \\(x = \\frac{3y + 1}{2 - y}\\)",
+      "B. \\(x = \\frac{3y - 1}{2 + y}\\)",
+      "C. \\(x = \\frac{2y + 1}{3 - y}\\)",
+      "D. \\(x = \\frac{y + 3}{2y - 1}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -2020,10 +2070,10 @@
     "id": 160,
     "question": "A bag contains 4 red and 6 blue balls. If two balls are picked consecutively without replacement, what is the probability that both are red?",
     "options": [
-      "A. 2/15",
-      "B. 4/25",
-      "C. 1/6",
-      "D. 2/5"
+      "A. \\(\\frac{2}{15}\\)",
+      "B. \\(\\frac{4}{25}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{2}{5}\\)"
     ],
     "answer": "A",
     "topic": "Everyday Statistics",
@@ -2044,9 +2094,9 @@
   },
   {
     "id": 162,
-    "question": "Factorize the algebraic expression: 3x² - 12.",
+    "question": "Factorize the algebraic expression: \\(3x^{2} -\\) 12.",
     "options": [
-      "A. 3(x - 2)²",
+      "A. \\(3(x - 2)^{2}\\)",
       "B. 3(x - 4)(x + 4)",
       "C. 3(x - 2)(x + 2)",
       "D. 3x(x - 4)"
@@ -2057,12 +2107,12 @@
   },
   {
     "id": 163,
-    "question": "Evaluate the product of 1101₂ and 11₂ in base 2.",
+    "question": "Evaluate the product of \\(1101_{2}\\) and \\(11_{2}\\) in base 2.",
     "options": [
-      "A. 100111₂",
-      "B. 101011₂",
-      "C. 110111₂",
-      "D. 100011₂"
+      "A. \\(100111_{2}\\)",
+      "B. \\(101011_{2}\\)",
+      "C. \\(110111_{2}\\)",
+      "D. \\(100011_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -2070,7 +2120,7 @@
   },
   {
     "id": 164,
-    "question": "A cylinder has a volume of 308cm³ and a base radius of 7cm. Calculate its height. (Take π = 22/7)",
+    "question": "A cylinder has a volume of \\(308\\,\\text{cm}^{3}\\) and a base radius of 7cm. Calculate its height. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 2cm",
       "B. 4cm",
@@ -2122,12 +2172,12 @@
   },
   {
     "id": 168,
-    "question": "Evaluate (4.5 × 10⁵) ÷ (1.5 × 10²), leaving your answer in standard form.",
+    "question": "Evaluate (4.5 \\(\\times 10^{5} ) \\div (1.5 \\times 10^{2}\\)), leaving your answer in standard form.",
     "options": [
-      "A. 3.0 × 10²",
-      "B. 3.0 × 10³",
-      "C. 3.0 × 10⁷",
-      "D. 3.0 × 10⁸"
+      "A. \\(3.0 \\times 10^{2}\\)",
+      "B. \\(3.0 \\times 10^{3}\\)",
+      "C. \\(3.0 \\times 10^{7}\\)",
+      "D. \\(3.0 \\times 10^{8}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -2137,10 +2187,10 @@
     "id": 169,
     "question": "A number is chosen at random from the integers 1 to 20 inclusive. What is the probability that it is a prime number?",
     "options": [
-      "A. 1/4",
-      "B. 7/20",
-      "C. 2/5",
-      "D. 9/20"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{7}{20}\\)",
+      "C. \\(\\frac{2}{5}\\)",
+      "D. \\(\\frac{9}{20}\\)"
     ],
     "answer": "C",
     "topic": "Everyday Statistics",
@@ -2148,12 +2198,12 @@
   },
   {
     "id": 170,
-    "question": "If sin θ = 3/5 and θ is an acute angle, find the value of cos θ.",
+    "question": "If sin \\(\\theta = \\frac{3}{5}\\) and \\(\\theta\\) is an acute angle, find the value of cos \\(\\theta\\).",
     "options": [
-      "A. 2/5",
-      "B. 3/4",
-      "C. 4/5",
-      "D. 5/4"
+      "A. \\(\\frac{2}{5}\\)",
+      "B. \\(\\frac{3}{4}\\)",
+      "C. \\(\\frac{4}{5}\\)",
+      "D. \\(\\frac{5}{4}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -2189,10 +2239,10 @@
     "id": 173,
     "question": "Calculate the area of a rhombus whose diagonals are 10cm and 14cm.",
     "options": [
-      "A. 35cm²",
-      "B. 70cm²",
-      "C. 140cm²",
-      "D. 280cm²"
+      "A. \\(35\\,\\text{cm}^{2}\\)",
+      "B. \\(70\\,\\text{cm}^{2}\\)",
+      "C. \\(140\\,\\text{cm}^{2}\\)",
+      "D. \\(280\\,\\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -2200,9 +2250,9 @@
   },
   {
     "id": 174,
-    "question": "Simplify the fractions: (1/2 + 1/4) ÷ (1/3 - 1/6).",
+    "question": "Simplify the fractions: \\((\\frac{1}{2} + \\frac{1}{4} ) \\div ( \\frac{1}{3} - \\frac{1}{6}\\)).",
     "options": [
-      "A. 1/8",
+      "A. \\(\\frac{1}{8}\\)",
       "B. 2.5",
       "C. 4.5",
       "D. 9"
@@ -2213,12 +2263,12 @@
   },
   {
     "id": 175,
-    "question": "The angle of a sector of a circle with a radius of 14cm is 60°. Calculate its area to two decimal places. (Take π = 22/7)",
+    "question": "The angle of a sector of a circle with a radius of 14cm is \\(60^{\\circ}\\). Calculate its area to two decimal places. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 14.67 cm²",
-      "B. 51.33 cm²",
-      "C. 102.67 cm²",
-      "D. 308.00 cm²"
+      "A. \\(14.67 \\text{cm}^{2}\\)",
+      "B. \\(51.33 \\text{cm}^{2}\\)",
+      "C. \\(102.67 \\text{cm}^{2}\\)",
+      "D. \\(308.00 \\text{cm}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -2226,7 +2276,7 @@
   },
   {
     "id": 176,
-    "question": "Solve for x in the rational equation: 2/x + 3/(2x) = 7/4.",
+    "question": "Solve for x in the rational equation: \\(\\frac{2}{x} + \\frac{3}{2x} = \\frac{7}{4}\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -2239,7 +2289,7 @@
   },
   {
     "id": 177,
-    "question": "Factorize completely: y² - 7y + 12.",
+    "question": "Factorize completely: \\(y^{2} -\\) 7y + 12.",
     "options": [
       "A. (y - 3)(y - 4)",
       "B. (y + 3)(y + 4)",
@@ -2254,10 +2304,10 @@
     "id": 178,
     "question": "Expand the brackets: (2x - y)(x + 3y).",
     "options": [
-      "A. 2x² + 5xy - 3y²",
-      "B. 2x² - 5xy - 3y²",
-      "C. 2x² + 7xy - 3y²",
-      "D. 2x² - 3y²"
+      "A. \\(2x^{2} + 5xy - 3y^{2}\\)",
+      "B. \\(2x^{2} - 5xy - 3y^{2}\\)",
+      "C. \\(2x^{2} + 7xy - 3y^{2}\\)",
+      "D. \\(2x^{2} - 3y^{2}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -2265,7 +2315,7 @@
   },
   {
     "id": 179,
-    "question": "In a pie chart, a sector of 120° represents 40 students. How many students are represented by a sector of 90°?",
+    "question": "In a pie chart, a sector of \\(120^{\\circ}\\) represents 40 students. How many students are represented by a sector of \\(90^{\\circ}\\)?",
     "options": [
       "A. 20",
       "B. 30",
@@ -2304,12 +2354,12 @@
   },
   {
     "id": 182,
-    "question": "Evaluate the subtraction in base 2: 10101₂ - 1110₂.",
+    "question": "Evaluate the subtraction in base 2: \\(10101_{2} - 1110_{2}\\).",
     "options": [
-      "A. 111₂",
-      "B. 1001₂",
-      "C. 1011₂",
-      "D. 1101₂"
+      "A. \\(111_{2}\\)",
+      "B. \\(1001_{2}\\)",
+      "C. \\(1011_{2}\\)",
+      "D. \\(1101_{2}\\)"
     ],
     "answer": "A",
     "topic": "Basic Operations",
@@ -2332,10 +2382,10 @@
     "id": 184,
     "question": "Convert the decimal number 56 to a number in base 8.",
     "options": [
-      "A. 60₈",
-      "B. 70₈",
-      "C. 76₈",
-      "D. 100₈"
+      "A. \\(60_{8}\\)",
+      "B. \\(70_{8}\\)",
+      "C. \\(76_{8}\\)",
+      "D. \\(100_{8}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -2343,12 +2393,12 @@
   },
   {
     "id": 185,
-    "question": "Simplify the surdic expression: √72 + √32 - √50.",
+    "question": "Simplify the surdic expression: \\(\\sqrt{72} + \\sqrt{32} - \\sqrt{50.}\\)",
     "options": [
-      "A. 4√2",
-      "B. 5√2",
-      "C. 6√2",
-      "D. 15√2"
+      "A. \\(4\\sqrt{2}\\)",
+      "B. \\(5\\sqrt{2}\\)",
+      "C. \\(6\\sqrt{2}\\)",
+      "D. \\(15\\sqrt{2}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -2356,12 +2406,12 @@
   },
   {
     "id": 186,
-    "question": "Calculate the volume of a sphere with a radius of 3cm, leaving your answer in terms of π.",
+    "question": "Calculate the volume of a sphere with a radius of 3cm, leaving your answer in terms of \\(\\pi\\).",
     "options": [
-      "A. 12π cm³",
-      "B. 27π cm³",
-      "C. 36π cm³",
-      "D. 108π cm³"
+      "A. \\(12\\pi \\text{cm}^{3}\\)",
+      "B. \\(27\\pi \\text{cm}^{3}\\)",
+      "C. \\(36\\pi \\text{cm}^{3}\\)",
+      "D. \\(108\\pi \\text{cm}^{3}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -2447,12 +2497,12 @@
   },
   {
     "id": 193,
-    "question": "Make p the subject of the formula: t = √(p / q).",
+    "question": "Make p the subject of the formula: \\(t = \\sqrt{\\frac{p}{q}}\\).",
     "options": [
-      "A. p = q t²",
-      "B. p = t² / q",
-      "C. p = √(t / q)",
-      "D. p = q² t"
+      "A. \\(p = q t^{2}\\)",
+      "B. \\(p = \\frac{t^{2}}{q}\\)",
+      "C. \\(p = \\sqrt{\\frac{t}{q}}\\)",
+      "D. \\(p = q^{2}\\) t"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -2460,7 +2510,7 @@
   },
   {
     "id": 194,
-    "question": "Evaluate the index expression: (2³ × 3²) / (6²).",
+    "question": "Evaluate the index expression: \\(\\frac{2^{3} \\times 3^{2}}{6^{2}}\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -2473,7 +2523,7 @@
   },
   {
     "id": 195,
-    "question": "Solve the exponential equation for x: 2^x = 32.",
+    "question": "Solve the exponential equation for x: \\(2^{x} =\\) 32.",
     "options": [
       "A. 4",
       "B. 5",
@@ -2501,10 +2551,10 @@
     "id": 197,
     "question": "If the interior angles of a quadrilateral are x, 2x, 3x, and 4x respectively, find the magnitude of the largest angle.",
     "options": [
-      "A. 36°",
-      "B. 72°",
-      "C. 108°",
-      "D. 144°"
+      "A. \\(36^{\\circ}\\)",
+      "B. \\(72^{\\circ}\\)",
+      "C. \\(108^{\\circ}\\)",
+      "D. \\(144^{\\circ}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -2512,7 +2562,7 @@
   },
   {
     "id": 198,
-    "question": "Evaluate the decimal operation without a calculator: (0.04 × 0.012) / 0.0048.",
+    "question": "Evaluate the decimal operation without a calculator: \\(\\frac{0.04 \\times 0.012}{0}\\).0048.",
     "options": [
       "A. 0.01",
       "B. 0.1",
@@ -2525,9 +2575,9 @@
   },
   {
     "id": 199,
-    "question": "Factorize the difference of two squares: 4p² - 25q².",
+    "question": "Factorize the difference of two squares: \\(4p^{2} - 25q^{2}\\).",
     "options": [
-      "A. (2p - 5q)²",
+      "A. \\((2p - 5q)^{2}\\)",
       "B. (4p - 25q)(p + q)",
       "C. (2p - 5q)(2p + 5q)",
       "D. (2p - 5q)(2p - 5q)"
@@ -2538,7 +2588,7 @@
   },
   {
     "id": 200,
-    "question": "A rectangular water tank is 3m long, 2m wide, and 1.5m deep. How many liters of water can it hold when full? (Hint: 1m³ = 1000 liters)",
+    "question": "A rectangular water tank is 3m long, 2m wide, and 1.5m deep. How many liters of water can it hold when full? (Hint: \\(1\\,\\text{m}^{3} =\\) 1000 liters)",
     "options": [
       "A. 900 liters",
       "B. 4,500 liters",
@@ -2551,11 +2601,11 @@
   },
   {
     "id": 201,
-    "question": "From the top of a vertical cliff 30m high, the angle of depression of a boat on the sea is 30°. Find the horizontal distance of the boat from the foot of the cliff.",
+    "question": "From the top of a vertical cliff 30m high, the angle of depression of a boat on the sea is \\(30^{\\circ}\\). Find the horizontal distance of the boat from the foot of the cliff.",
     "options": [
       "A. 15m",
       "B. 30m",
-      "C. 30√3 m",
+      "C. \\(30\\sqrt{3}\\) m",
       "D. 60m"
     ],
     "answer": "C",
@@ -2566,10 +2616,10 @@
     "id": 202,
     "question": "Convert the number 231 in base 4 to a number in base 6.",
     "options": [
-      "A. 113₆",
-      "B. 125₆",
-      "C. 211₆",
-      "D. 415₆"
+      "A. \\(113_{6}\\)",
+      "B. \\(125_{6}\\)",
+      "C. \\(211_{6}\\)",
+      "D. \\(415_{6}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -2577,12 +2627,12 @@
   },
   {
     "id": 203,
-    "question": "Solve for x in the quadratic equation: 3x² - 5x - 2 = 0.",
+    "question": "Solve for x in the quadratic equation: \\(3x^{2} -\\) 5x - 2 = 0.",
     "options": [
-      "A. x = 2 or x = -1/3",
-      "B. x = -2 or x = 1/3",
+      "A. x = 2 or x = -\\(\\frac{1}{3}\\)",
+      "B. x = -2 or x = \\(\\frac{1}{3}\\)",
       "C. x = 3 or x = -2",
-      "D. x = 1 or x = -2/3"
+      "D. x = 1 or x = -\\(\\frac{2}{3}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -2603,12 +2653,12 @@
   },
   {
     "id": 205,
-    "question": "A cylindrical pipe open at both ends has a radius of 3.5cm and a length of 20cm. Calculate its curved surface area. (Take π = 22/7)",
+    "question": "A cylindrical pipe open at both ends has a radius of 3.5cm and a length of 20cm. Calculate its curved surface area. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 220 cm²",
-      "B. 440 cm²",
-      "C. 616 cm²",
-      "D. 770 cm²"
+      "A. \\(220 \\text{cm}^{2}\\)",
+      "B. \\(440 \\text{cm}^{2}\\)",
+      "C. \\(616 \\text{cm}^{2}\\)",
+      "D. \\(770 \\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Measurement",
@@ -2616,7 +2666,7 @@
   },
   {
     "id": 206,
-    "question": "Solve the exponential equation for x: 3^(2x - 1) = 27.",
+    "question": "Solve the exponential equation for x: \\(3^{2x - 1} =\\) 27.",
     "options": [
       "A. x = 1",
       "B. x = 2",
@@ -2642,12 +2692,12 @@
   },
   {
     "id": 208,
-    "question": "Evaluate the binary multiplication: 1.01₂ × 11₂.",
+    "question": "Evaluate the binary multiplication: \\(1.01_{2} \\times 11_{2}\\).",
     "options": [
-      "A. 11.01₂",
-      "B. 11.11₂",
-      "C. 101.11₂",
-      "D. 111.11₂"
+      "A. \\(11.01_{2}\\)",
+      "B. \\(11.11_{2}\\)",
+      "C. \\(101.11_{2}\\)",
+      "D. \\(111.11_{2}\\)"
     ],
     "answer": "B",
     "topic": "Basic Operations",
@@ -2668,7 +2718,7 @@
   },
   {
     "id": 210,
-    "question": "Factorize completely the algebraic expression: 2x² - 8y².",
+    "question": "Factorize completely the algebraic expression: \\(2x^{2} - 8y^{2}\\).",
     "options": [
       "A. 2(x - 2y)(x - 2y)",
       "B. 2(x - 4y)(x + 4y)",
@@ -2683,10 +2733,10 @@
     "id": 211,
     "question": "Express the product of 0.004 and 0.025 in standard form.",
     "options": [
-      "A. 1.0 × 10⁻⁵",
-      "B. 1.0 × 10⁻⁴",
-      "C. 1.0 × 10⁻³",
-      "D. 1.0 × 10⁴"
+      "A. \\(1.0 \\times 10^{-5}\\)",
+      "B. \\(1.0 \\times 10^{-4}\\)",
+      "C. \\(1.0 \\times 10^{-3}\\)",
+      "D. \\(1.0 \\times 10^{4}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -2707,7 +2757,7 @@
   },
   {
     "id": 213,
-    "question": "The area of a sector of a circle is 38.5 cm². If the sector angle at the center is 90°, find the radius of the circle. (Take π = 22/7)",
+    "question": "The area of a sector of a circle is 38.5 \\(\\text{cm}^{2}\\). If the sector angle at the center is \\(90^{\\circ}\\), find the radius of the circle. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 3.5cm",
       "B. 7cm",
@@ -2733,12 +2783,12 @@
   },
   {
     "id": 215,
-    "question": "Simplify the single algebraic fraction: (x² - 9) / (x² - 2x - 3).",
+    "question": "Simplify the single algebraic fraction: \\(\\frac{x^{2} - 9}{x^{2} - 2x - 3}\\).",
     "options": [
-      "A. (x - 3) / (x + 1)",
-      "B. (x + 3) / (x + 1)",
-      "C. (x + 3) / (x - 1)",
-      "D. (x - 3) / (x - 1)"
+      "A. \\(\\frac{x - 3}{x + 1}\\)",
+      "B. \\(\\frac{x + 3}{x + 1}\\)",
+      "C. \\(\\frac{x + 3}{x - 1}\\)",
+      "D. \\(\\frac{x - 3}{x - 1}\\)"
     ],
     "answer": "B",
     "topic": "Algebraic Processes",
@@ -2746,7 +2796,7 @@
   },
   {
     "id": 216,
-    "question": "A cyclist covers a distance of 20km at an average speed of 10km/h and another 30km at 15km/h. Find his average speed for the entire journey.",
+    "question": "A cyclist covers a distance of 20km at an average speed of \\(\\frac{10km}{h}\\) and another 30km at \\(\\frac{15km}{h}\\). Find his average speed for the entire journey.",
     "options": [
       "A. 12 km/h",
       "B. 12.5 km/h",
@@ -2759,7 +2809,7 @@
   },
   {
     "id": 217,
-    "question": "If the exterior angle of a regular polygon measures exactly 40°, how many sides does this polygon have?",
+    "question": "If the exterior angle of a regular polygon measures exactly \\(40^{\\circ}\\), how many sides does this polygon have?",
     "options": [
       "A. 6",
       "B. 8",
@@ -2772,7 +2822,7 @@
   },
   {
     "id": 218,
-    "question": "Solve the algebraic equation for y: (2y + 3)/4 - (y - 1)/3 = 2.",
+    "question": "Solve the algebraic equation for y: \\(\\frac{2y + 3}{4} - \\frac{y - 1}{3} =\\) 2.",
     "options": [
       "A. y = 3.5",
       "B. y = 4.5",
@@ -2787,10 +2837,10 @@
     "id": 219,
     "question": "Two fair six-sided dice are rolled together once. What is the probability of obtaining a total score of 9?",
     "options": [
-      "A. 1/12",
-      "B. 1/9",
-      "C. 1/6",
-      "D. 2/9"
+      "A. \\(\\frac{1}{12}\\)",
+      "B. \\(\\frac{1}{9}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{2}{9}\\)"
     ],
     "answer": "B",
     "topic": "Everyday Statistics",
@@ -2811,12 +2861,12 @@
   },
   {
     "id": 221,
-    "question": "Simplify the expression: ∛(0.027) × (2/3)⁻².",
+    "question": "Simplify the expression: \\(\\sqrt[3]{0.027} \\times ( \\frac{2}{3}\\)\\()^{-2}\\).",
     "options": [
-      "A. 9/40",
-      "B. 27/40",
-      "C. 3/4",
-      "D. 9/10"
+      "A. \\(\\frac{9}{40}\\)",
+      "B. \\(\\frac{27}{40}\\)",
+      "C. \\(\\frac{3}{4}\\)",
+      "D. \\(\\frac{9}{10}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -2837,12 +2887,12 @@
   },
   {
     "id": 223,
-    "question": "The interior angles of a pentagon are given as x, 2x, (x + 20°), (2x - 10°), and 110°. Calculate the value of x.",
+    "question": "The interior angles of a pentagon are given as x, 2x, \\((x + 20^{\\circ}\\)), \\((2x - 10^{\\circ}\\)), and \\(110^{\\circ}\\). Calculate the value of x.",
     "options": [
-      "A. 50°",
-      "B. 60°",
-      "C. 70°",
-      "D. 80°"
+      "A. \\(50^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(70^{\\circ}\\)",
+      "D. \\(80^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -2850,12 +2900,12 @@
   },
   {
     "id": 224,
-    "question": "Solve the linear inequality: -2(x - 5) ≤ 4.",
+    "question": "Solve the linear inequality: \\(-2(x - 5) \\le\\) 4.",
     "options": [
-      "A. x ≤ 3",
-      "B. x ≥ 3",
-      "C. x ≤ -3",
-      "D. x ≥ -3"
+      "A. x \\(\\le\\) 3",
+      "B. x \\(\\ge\\) 3",
+      "C. x \\(\\le -3\\)",
+      "D. x \\(\\ge -3\\)"
     ],
     "answer": "B",
     "topic": "Algebraic Processes",
@@ -2876,12 +2926,12 @@
   },
   {
     "id": 226,
-    "question": "Evaluate the multiplication in base 8: 145₈ × 3₈.",
+    "question": "Evaluate the multiplication in base 8: \\(145_{8} \\times 3_{8}\\).",
     "options": [
-      "A. 437₈",
-      "B. 457₈",
-      "C. 475₈",
-      "D. 515₈"
+      "A. \\(437_{8}\\)",
+      "B. \\(457_{8}\\)",
+      "C. \\(475_{8}\\)",
+      "D. \\(515_{8}\\)"
     ],
     "answer": "B",
     "topic": "Basic Operations",
@@ -2889,12 +2939,12 @@
   },
   {
     "id": 230,
-    "question": "Make variable s the subject of the formula: t = 2√(s / r).",
+    "question": "Make variable s the subject of the formula: \\(t = 2\\sqrt{\\frac{s}{r}}\\).",
     "options": [
-      "A. s = r t² / 4",
-      "B. s = r t² / 2",
-      "C. s = 4 r t²",
-      "D. s = t² / (4r)"
+      "A. \\(s = r \\frac{t^{2}}{4}\\)",
+      "B. \\(s = r \\frac{t^{2}}{2}\\)",
+      "C. \\(s = 4 r t^{2}\\)",
+      "D. \\(s = \\frac{t^{2}}{4r}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -2915,7 +2965,7 @@
   },
   {
     "id": 232,
-    "question": "A school's annual budget pie chart displays a sector of 144° for teachers' salaries. If the total school budget is N5,000,000, how much money is allocated to salaries?",
+    "question": "A school's annual budget pie chart displays a sector of \\(144^{\\circ}\\) for teachers' salaries. If the total school budget is N5,000,000, how much money is allocated to salaries?",
     "options": [
       "A. N1,440,000",
       "B. N2,000,000",
@@ -2928,12 +2978,12 @@
   },
   {
     "id": 233,
-    "question": "A right-angled triangle contains an interior angle of 60° and an adjacent side of length 6cm. Find the exact length of its hypotenuse.",
+    "question": "A right-angled triangle contains an interior angle of \\(60^{\\circ}\\) and an adjacent side of length 6cm. Find the exact length of its hypotenuse.",
     "options": [
       "A. 3cm",
-      "B. 6√3 cm",
+      "B. \\(6\\sqrt{3}\\) cm",
       "C. 12cm",
-      "D. 12√3 cm"
+      "D. \\(12\\sqrt{3}\\) cm"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -2941,7 +2991,7 @@
   },
   {
     "id": 236,
-    "question": "Solve the fractional equation for x: 4 / (x - 2) = 3 / (x + 1).",
+    "question": "Solve the fractional equation for x: \\(\\frac{4}{x - 2} = \\frac{3}{x + 1}\\).",
     "options": [
       "A. x = -10",
       "B. x = -2",
@@ -2967,7 +3017,7 @@
   },
   {
     "id": 238,
-    "question": "The statistical probability that a specific student passes an entrance exam is 3/5. If 300 students take the exam, what is the expected number of students who will fail?",
+    "question": "The statistical probability that a specific student passes an entrance exam is \\(\\frac{3}{5}\\). If 300 students take the exam, what is the expected number of students who will fail?",
     "options": [
       "A. 100",
       "B. 120",
@@ -3008,10 +3058,10 @@
     "id": 241,
     "question": "What is the size of each individual interior angle of a regular octagon?",
     "options": [
-      "A. 45°",
-      "B. 108°",
-      "C. 120°",
-      "D. 135°"
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(108^{\\circ}\\)",
+      "C. \\(120^{\\circ}\\)",
+      "D. \\(135^{\\circ}\\)"
     ],
     "answer": "D",
     "topic": "Geometry and Measurement",
@@ -3032,7 +3082,7 @@
   },
   {
     "id": 245,
-    "question": "Factorize completely the quadratic expression: 6x² - x - 2.",
+    "question": "Factorize completely the quadratic expression: \\(6x^{2} -\\) x - 2.",
     "options": [
       "A. (3x - 2)(2x + 1)",
       "B. (3x + 2)(2x - 1)",
@@ -3045,12 +3095,12 @@
   },
   {
     "id": 250,
-    "question": "Change the subject of the rational formula to make z stand alone: 1/x + 1/y = 1/z.",
+    "question": "Change the subject of the rational formula to make z stand alone: \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{z}\\).",
     "options": [
       "A. z = x + y",
       "B. z = xy",
-      "C. z = xy / (x + y)",
-      "D. z = (x + y) / xy"
+      "C. \\(z = \\frac{xy}{x + y}\\)",
+      "D. \\(z = \\frac{x + y}{xy}\\)"
     ],
     "answer": "C",
     "topic": "Algebraic Processes",
@@ -3058,12 +3108,12 @@
   },
   {
     "id": 251,
-    "question": "Solve the quadratic equation for x: 4x² - 13x + 3 = 0.",
+    "question": "Solve the quadratic equation for x: \\(4x^{2} -\\) 13x + 3 = 0.",
     "options": [
-      "A. x = 3 or x = 1/4",
-      "B. x = -3 or x = -1/4",
-      "C. x = 3 or x = -1/4",
-      "D. x = -3 or x = 1/4"
+      "A. x = 3 or x = \\(\\frac{1}{4}\\)",
+      "B. x = -3 or x = -\\(\\frac{1}{4}\\)",
+      "C. x = 3 or x = -\\(\\frac{1}{4}\\)",
+      "D. x = -3 or x = \\(\\frac{1}{4}\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Processes",
@@ -3071,12 +3121,12 @@
   },
   {
     "id": 252,
-    "question": "Calculate the total surface area of a solid (cone) with a base radius of 7cm and a slant height of 10cm. (Take π = 22/7)",
+    "question": "Calculate the total surface area of a solid (cone) with a base radius of 7cm and a slant height of 10cm. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 154 cm²",
-      "B. 220 cm²",
-      "C. 374 cm²",
-      "D. 528 cm²"
+      "A. \\(154 \\text{cm}^{2}\\)",
+      "B. \\(220 \\text{cm}^{2}\\)",
+      "C. \\(374 \\text{cm}^{2}\\)",
+      "D. \\(528 \\text{cm}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -3084,12 +3134,12 @@
   },
   {
     "id": 253,
-    "question": "Evaluate the expression and leave your answer in standard form: (0.0024 × 0.015) ÷ 0.00009.",
+    "question": "Evaluate the expression and leave your answer in standard form: \\((0.0024 \\times 0.015) \\div\\) 0.00009.",
     "options": [
-      "A. 4.0 × 10⁻²",
-      "B. 4.0 × 10⁻¹",
-      "C. 4.0 × 10⁰",
-      "D. 4.0 × 10¹"
+      "A. \\(4.0 \\times 10^{-2}\\)",
+      "B. \\(4.0 \\times 10^{-1}\\)",
+      "C. \\(4.0 \\times 10^{0}\\)",
+      "D. \\(4.0 \\times 10^{1}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration",
@@ -3099,10 +3149,10 @@
     "id": 254,
     "question": "A box contains 5 white and 3 black balls. If two balls are drawn one after the other without replacement, find the probability that both balls are black.",
     "options": [
-      "A. 3/28",
-      "B. 9/64",
-      "C. 15/56",
-      "D. 3/14"
+      "A. \\(\\frac{3}{28}\\)",
+      "B. \\(\\frac{9}{64}\\)",
+      "C. \\(\\frac{15}{56}\\)",
+      "D. \\(\\frac{3}{14}\\)"
     ],
     "answer": "A",
     "topic": "Everyday Statistics",
@@ -3110,12 +3160,12 @@
   },
   {
     "id": 255,
-    "question": "Perform the binary division operation: 11011₂ ÷ 11₂.",
+    "question": "Perform the binary division operation: \\(11011_{2} \\div 11_{2}\\).",
     "options": [
-      "A. 11₂",
-      "B. 101₂",
-      "C. 1001₂",
-      "D. 1011₂"
+      "A. \\(11_{2}\\)",
+      "B. \\(101_{2}\\)",
+      "C. \\(1001_{2}\\)",
+      "D. \\(1011_{2}\\)"
     ],
     "answer": "C",
     "topic": "Basic Operations",
@@ -3136,12 +3186,12 @@
   },
   {
     "id": 261,
-    "question": "Simplify the single algebraic fraction expression: 3/(x - 1) - 2/(x + 1).",
+    "question": "Simplify the single algebraic fraction expression: \\(\\frac{3}{x - 1} - \\frac{2}{x + 1}\\).",
     "options": [
-      "A. 1 / (x² - 1)",
-      "B. (x + 5) / (x² - 1)",
-      "C. (x + 1) / (x² - 1)",
-      "D. (5x + 1) / (x² - 1)"
+      "A. \\(\\frac{1}{x^{2} - 1}\\)",
+      "B. \\(\\frac{x + 5}{x^{2} - 1}\\)",
+      "C. \\(\\frac{x + 1}{x^{2} - 1}\\)",
+      "D. \\(\\frac{5x + 1}{x^{2} - 1}\\)"
     ],
     "answer": "B",
     "topic": "Algebraic Processes",
@@ -3175,12 +3225,12 @@
   },
   {
     "id": 266,
-    "question": "Solve the fractional linear inequality: (2x - 1)/3 ≥ (x + 2)/2.",
+    "question": "Solve the fractional linear inequality: \\(\\frac{2x - 1}{3} \\ge \\frac{x + 2}{2}\\).",
     "options": [
-      "A. x ≥ 4",
-      "B. x ≤ 4",
-      "C. x ≥ 8",
-      "D. x ≤ 8"
+      "A. x \\(\\ge\\) 4",
+      "B. x \\(\\le\\) 4",
+      "C. x \\(\\ge\\) 8",
+      "D. x \\(\\le\\) 8"
     ],
     "answer": "C",
     "topic": "Algebraic Processes",
@@ -3188,12 +3238,12 @@
   },
   {
     "id": 267,
-    "question": "Expand and simplify the algebraic bracket expression fully: (3x - 2y)².",
+    "question": "Expand and simplify the algebraic bracket expression fully: \\((3x - 2y)^{2}\\).",
     "options": [
-      "A. 9x² - 4y²",
-      "B. 9x² + 4y²",
-      "C. 9x² - 6xy + 4y²",
-      "D. 9x² - 12xy + 4y²"
+      "A. \\(9x^{2} - 4y^{2}\\)",
+      "B. \\(9x^{2} + 4y^{2}\\)",
+      "C. \\(9x^{2} - 6xy + 4y^{2}\\)",
+      "D. \\(9x^{2} - 12xy + 4y^{2}\\)"
     ],
     "answer": "D",
     "topic": "Algebraic Processes",
@@ -3214,7 +3264,7 @@
   },
   {
     "id": 271,
-    "question": "The circumference of a circular sector with a central angle of 60° is 22cm. Calculate its radius length. (Take π = 22/7)",
+    "question": "The circumference of a circular sector with a central angle of \\(60^{\\circ}\\) is 22cm. Calculate its radius length. (Take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 3.5cm",
       "B. 5.25cm",
@@ -3253,7 +3303,7 @@
   },
   {
     "id": 275,
-    "question": "If values are given as a = 4, b = -3, and c = -1, evaluate the algebraic form: b² - 4ac.",
+    "question": "If values are given as a = 4, b = -3, and c = -1, evaluate the algebraic form: \\(b^{2} -\\) 4ac.",
     "options": [
       "A. -7",
       "B. 7",
@@ -3268,10 +3318,10 @@
     "id": 278,
     "question": "Convert the decimal base-10 decimal value 12.25 to a binary number in base 2.",
     "options": [
-      "A. 1100.01₂",
-      "B. 1100.11₂",
-      "C. 1010.01₂",
-      "D. 1110.10₂"
+      "A. \\(1100.01_{2}\\)",
+      "B. \\(1100.11_{2}\\)",
+      "C. \\(1010.01_{2}\\)",
+      "D. \\(1110.10_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -3292,7 +3342,7 @@
   },
   {
     "id": 281,
-    "question": "Solve the linear equation for x: x/2 + x/3 = 10.",
+    "question": "Solve the linear equation for x: \\(\\frac{x}{2} + \\frac{x}{3} =\\) 10.",
     "options": [
       "A. x = 6",
       "B. x = 12",
@@ -3331,12 +3381,12 @@
   },
   {
     "id": 290,
-    "question": "Two mathematically similar triangles have matching sides in a linear ratio of 3:4. If the surface area of the smaller triangle is 27 cm², find the area of the larger triangle.",
+    "question": "Two mathematically similar triangles have matching sides in a linear ratio of 3:4. If the surface area of the smaller triangle is 27 \\(\\text{cm}^{2}\\), find the area of the larger triangle.",
     "options": [
-      "A. 36 cm²",
-      "B. 48 cm²",
-      "C. 64 cm²",
-      "D. 108 cm²"
+      "A. \\(36 \\text{cm}^{2}\\)",
+      "B. \\(48 \\text{cm}^{2}\\)",
+      "C. \\(64 \\text{cm}^{2}\\)",
+      "D. \\(108 \\text{cm}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Measurement",
@@ -3344,12 +3394,12 @@
   },
   {
     "id": 291,
-    "question": "Express the value of fraction 1/800 accurately in standard form index notation.",
+    "question": "Express the value of fraction \\(\\frac{1}{800}\\) accurately in standard form index notation.",
     "options": [
-      "A. 1.25 × 10⁻³",
-      "B. 1.25 × 10⁻²",
-      "C. 1.25 × 10³",
-      "D. 1.25 × 10⁻⁴"
+      "A. \\(1.25 \\times 10^{-3}\\)",
+      "B. \\(1.25 \\times 10^{-2}\\)",
+      "C. \\(1.25 \\times 10^{3}\\)",
+      "D. \\(1.25 \\times 10^{-4}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration",
@@ -3357,7 +3407,7 @@
   },
   {
     "id": 292,
-    "question": "Factorize completely the expression: x² - x - 20.",
+    "question": "Factorize completely the expression: \\(x^{2} -\\) x - 20.",
     "options": [
       "A. (x - 4)(x + 5)",
       "B. (x + 4)(x - 5)",
@@ -3383,7 +3433,7 @@
   },
   {
     "id": 295,
-    "question": "Multiply the following base 5 digits: 42_5 × 3_5.",
+    "question": "Multiply the following base 5 digits: 42_5 \\(\\times\\) 3_5.",
     "options": [
       "A. 131_5",
       "B. 221_5",
@@ -3396,7 +3446,7 @@
   },
   {
     "id": 296,
-    "question": "Solve the simultaneous system for variables x and y: 3/x + 2/y = 5 and 1/x - 1/y = 0.",
+    "question": "Solve the simultaneous system for variables x and y: \\(\\frac{3}{x} + \\frac{2}{y} =\\) 5 and \\(\\frac{1}{x} - \\frac{1}{y} =\\) 0.",
     "options": [
       "A. x = 1, y = 1",
       "B. x = 2, y = 2",
@@ -3422,7 +3472,7 @@
   },
   {
     "id": 300,
-    "question": "A cylindrical storage tank has a uniform volume of 9m³. Liquid fills it at a constant rate of 150 liters per minute. How many hours will it take to fill completely? (Hint: 1m³ = 1000 liters)",
+    "question": "A cylindrical storage tank has a uniform volume of \\(9\\,\\text{m}^{3}\\). Liquid fills it at a constant rate of 150 liters per minute. How many hours will it take to fill completely? (Hint: \\(1\\,\\text{m}^{3} =\\) 1000 liters)",
     "options": [
       "A. 1 hour",
       "B. 1.5 hours",
@@ -3436,7 +3486,12 @@
   {
     "id": 301,
     "question": "Find the value of \\(\\tan 45^\\circ + \\sin 90^\\circ\\).",
-    "options": ["A. 2", "B. 1", "C. 1.5", "D. 0.5"],
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. 1.5",
+      "D. 0.5"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Easy"
@@ -3444,7 +3499,12 @@
   {
     "id": 302,
     "question": "If \\(a = 2, b = 3\\), find the value of \\(\\frac{a^2 + b^2}{ab}\\).",
-    "options": ["A. \\(\\frac{13}{6}\\)", "B. \\(\\frac{12}{6}\\)", "C. \\(\\frac{11}{6}\\)", "D. \\(\\frac{14}{6}\\)"],
+    "options": [
+      "A. \\(\\frac{13}{6}\\)",
+      "B. \\(\\frac{12}{6}\\)",
+      "C. \\(\\frac{11}{6}\\)",
+      "D. \\(\\frac{14}{6}\\)"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3452,15 +3512,25 @@
   {
     "id": 303,
     "question": "The ratio of two numbers is 3:7. If their sum is 100, find the smaller number.",
-    "options": ["A. 30", "B. 40", "C. 35", "D. 25"],
+    "options": [
+      "A. 30",
+      "B. 40",
+      "C. 35",
+      "D. 25"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
   },
   {
     "id": 304,
-    "question": "A man saves 15% of his income. If he saves \u20a64,500 per month, find his monthly income.",
-    "options": ["A. \u20a630,000", "B. \u20a635,000", "C. \u20a640,000", "D. \u20a625,000"],
+    "question": "A man saves 15% of his income. If he saves ₦4,500 per month, find his monthly income.",
+    "options": [
+      "A. ₦30,000",
+      "B. ₦35,000",
+      "C. ₦40,000",
+      "D. ₦25,000"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Hard"
@@ -3468,7 +3538,12 @@
   {
     "id": 305,
     "question": "Find the sum of the interior angles of a regular octagon.",
-    "options": ["A. 1080°", "B. 900°", "C. 720°", "D. 1260°"],
+    "options": [
+      "A. \\(1080^{\\circ}\\)",
+      "B. \\(900^{\\circ}\\)",
+      "C. \\(720^{\\circ}\\)",
+      "D. \\(1260^{\\circ}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3476,7 +3551,12 @@
   {
     "id": 306,
     "question": "If \\(x + \\frac{1}{x} = 3\\), find \\(x^2 + \\frac{1}{x^2}\\).",
-    "options": ["A. 7", "B. 9", "C. 11", "D. 5"],
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 11",
+      "D. 5"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3484,15 +3564,25 @@
   {
     "id": 308,
     "question": "Simplify \\(\\frac{5}{\\sqrt{5}}\\).",
-    "options": ["A. \\(\\sqrt{5}\\)", "B. \\(5\\sqrt{5}\\)", "C. \\(\\frac{\\sqrt{5}}{5}\\)", "D. \\(\\frac{5}{\\sqrt{5}}\\)"],
+    "options": [
+      "A. \\(\\sqrt{5}\\)",
+      "B. \\(5\\sqrt{5}\\)",
+      "C. \\(\\frac{\\sqrt{5}}{5}\\)",
+      "D. \\(\\frac{5}{\\sqrt{5}}\\)"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
   },
   {
     "id": 309,
-    "question": "The volume of a cylinder is 1540 cm³ and its height is 10 cm. Find its radius. (Take \\(\\pi = \\frac{22}{7}\\))",
-    "options": ["A. 7 cm", "B. 5 cm", "C. 6 cm", "D. 8 cm"],
+    "question": "The volume of a cylinder is 1540 \\(\\text{cm}^{3}\\) and its height is 10 cm. Find its radius. (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": [
+      "A. 7 cm",
+      "B. 5 cm",
+      "C. 6 cm",
+      "D. 8 cm"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3500,7 +3590,12 @@
   {
     "id": 310,
     "question": "If \\(3^{x+1} = 81\\), find \\(x\\).",
-    "options": ["A. 3", "B. 4", "C. 2", "D. 5"],
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 2",
+      "D. 5"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
@@ -3508,7 +3603,12 @@
   {
     "id": 311,
     "question": "The mean of 5 numbers is (12). If one number is 20, find the mean of the remaining four.",
-    "options": ["A. 10", "B. 8", "C. 12", "D. 14"],
+    "options": [
+      "A. 10",
+      "B. 8",
+      "C. 12",
+      "D. 14"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3516,7 +3616,12 @@
   {
     "id": 312,
     "question": "Find the area of a rectangle with length 2x and width (x+3) if x=5.",
-    "options": ["A. 80", "B. 70", "C. 90", "D. 60"],
+    "options": [
+      "A. 80",
+      "B. 70",
+      "C. 90",
+      "D. 60"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
@@ -3524,7 +3629,12 @@
   {
     "id": 315,
     "question": "Solve for \\(x\\): \\(3(x - 2) + 4 = 2(x + 3)\\).",
-    "options": ["A. 8", "B. 7", "C. 6", "D. 5"],
+    "options": [
+      "A. 8",
+      "B. 7",
+      "C. 6",
+      "D. 5"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
@@ -3532,7 +3642,12 @@
   {
     "id": 318,
     "question": "If \\(y\\) varies directly as \\(x^2\\) and \\(y = 18\\) when \\(x = 3\\), find \\(y\\) when \\(x = 6\\).",
-    "options": ["A. 72", "B. 36", "C. 54", "D. 90"],
+    "options": [
+      "A. 72",
+      "B. 36",
+      "C. 54",
+      "D. 90"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3540,7 +3655,12 @@
   {
     "id": 319,
     "question": "A bag contains 3 red, 4 blue, and 5 green marbles. What is the probability of drawing a blue or green marble?",
-    "options": ["A. \\(\\frac{3}{4}\\)", "B. \\(\\frac{1}{2}\\)", "C. \\(\\frac{9}{12}\\)", "D. \\(\\frac{5}{12}\\)"],
+    "options": [
+      "A. \\(\\frac{3}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{9}{12}\\)",
+      "D. \\(\\frac{5}{12}\\)"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Medium"
@@ -3548,7 +3668,12 @@
   {
     "id": 320,
     "question": "Find the volume of a cuboid of length 5 cm, width 3 cm, and height 4 cm.",
-    "options": ["A. 60 cm³", "B. 30 cm³", "C. 45 cm³", "D. 75 cm³"],
+    "options": [
+      "A. \\(60 \\text{cm}^{3}\\)",
+      "B. \\(30 \\text{cm}^{3}\\)",
+      "C. \\(45 \\text{cm}^{3}\\)",
+      "D. \\(75 \\text{cm}^{3}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Easy"
@@ -3556,23 +3681,38 @@
   {
     "id": 321,
     "question": "If \\(\\frac{x}{3} = \\frac{y}{4} = \\frac{z}{5}\\) and \\(x + y + z = 24\\), find \\(x\\).",
-    "options": ["A. 6", "B. 8", "C. 10", "D. 4"],
+    "options": [
+      "A. 6",
+      "B. 8",
+      "C. 10",
+      "D. 4"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
   },
   {
     "id": 322,
-    "question": "A man spends 20% of his income on rent, 30% on food, and saves the rest. If he saves \u20a615,000, find his income.",
-    "options": ["A. \u20a630,000", "B. \u20a625,000", "C. \u20a620,000", "D. \u20a635,000"],
+    "question": "A man spends 20% of his income on rent, 30% on food, and saves the rest. If he saves ₦15,000, find his income.",
+    "options": [
+      "A. ₦30,000",
+      "B. ₦25,000",
+      "C. ₦20,000",
+      "D. ₦35,000"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Hard"
   },
   {
     "id": 325,
-    "question": "The area of a rhombus is 48 cm² and one diagonal is 12 cm. Find the other diagonal.",
-    "options": ["A. 8 cm", "B. 6 cm", "C. 10 cm", "D. 4 cm"],
+    "question": "The area of a rhombus is 48 \\(\\text{cm}^{2}\\) and one diagonal is 12 cm. Find the other diagonal.",
+    "options": [
+      "A. 8 cm",
+      "B. 6 cm",
+      "C. 10 cm",
+      "D. 4 cm"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3580,7 +3720,12 @@
   {
     "id": 328,
     "question": "A train 150 m long crosses a bridge 300 m long in 30 seconds. Find the speed of the train in km/h.",
-    "options": ["A. 54 km/h", "B. 45 km/h", "C. 36 km/h", "D. 72 km/h"],
+    "options": [
+      "A. 54 km/h",
+      "B. 45 km/h",
+      "C. 36 km/h",
+      "D. 72 km/h"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Hard"
@@ -3588,7 +3733,12 @@
   {
     "id": 329,
     "question": "Find the value of \\(x\\) if \\(\\frac{2x}{3} - \\frac{x}{2} = 2\\).",
-    "options": ["A. 12", "B. 10", "C. 8", "D. 6"],
+    "options": [
+      "A. 12",
+      "B. 10",
+      "C. 8",
+      "D. 6"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3596,7 +3746,12 @@
   {
     "id": 330,
     "question": "The number of boys in a class is twice the number of girls. If there are 18 girls, find the total number of students.",
-    "options": ["A. 54", "B. 36", "C. 48", "D. 60"],
+    "options": [
+      "A. 54",
+      "B. 36",
+      "C. 48",
+      "D. 60"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -3604,7 +3759,12 @@
   {
     "id": 331,
     "question": "Find the area of a parallelogram with base 10 cm and height 6 cm.",
-    "options": ["A. 60 cm²", "B. 30 cm²", "C. 80 cm²", "D. 40 cm²"],
+    "options": [
+      "A. \\(60 \\text{cm}^{2}\\)",
+      "B. \\(30 \\text{cm}^{2}\\)",
+      "C. \\(80 \\text{cm}^{2}\\)",
+      "D. \\(40 \\text{cm}^{2}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Easy"
@@ -3612,7 +3772,12 @@
   {
     "id": 333,
     "question": "A die is thrown once. What is the probability of getting a number greater than 4?",
-    "options": ["A. \\(\\frac{1}{3}\\)", "B. \\(\\frac{1}{2}\\)", "C. \\(\\frac{2}{3}\\)", "D. \\(\\frac{1}{6}\\)"],
+    "options": [
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{1}{6}\\)"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Easy"
@@ -3620,15 +3785,25 @@
   {
     "id": 335,
     "question": "Simplify \\(\\frac{2}{3} + \\frac{4}{5} - \\frac{1}{2}\\).",
-    "options": ["A. \\(\\frac{29}{30}\\)", "B. \\(\\frac{31}{30}\\)", "C. \\(\\frac{27}{30}\\)", "D. \\(\\frac{19}{30}\\)"],
+    "options": [
+      "A. \\(\\frac{29}{30}\\)",
+      "B. \\(\\frac{31}{30}\\)",
+      "C. \\(\\frac{27}{30}\\)",
+      "D. \\(\\frac{19}{30}\\)"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Medium"
   },
   {
     "id": 336,
-    "question": "If the simple interest on a sum for 3 years at 5% p.a. is \u20a6750, find the principal.",
-    "options": ["A. \u20a65,000", "B. \u20a64,000", "C. \u20a66,000", "D. \u20a65,500"],
+    "question": "If the simple interest on a sum for 3 years at 5% p.a. is ₦750, find the principal.",
+    "options": [
+      "A. ₦5,000",
+      "B. ₦4,000",
+      "C. ₦6,000",
+      "D. ₦5,500"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3636,7 +3811,12 @@
   {
     "id": 339,
     "question": "The mean of 5 numbers is (18). If three numbers are 15, 20, and 18, find the sum of the remaining two.",
-    "options": ["A. 37", "B. 35", "C. 40", "D. 33"],
+    "options": [
+      "A. 37",
+      "B. 35",
+      "C. 40",
+      "D. 33"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3644,7 +3824,12 @@
   {
     "id": 340,
     "question": "Calculate the total surface area of a cube of side 7 cm.",
-    "options": ["A. 294 cm²", "B. 294 cm³", "C. 343 cm²", "D. 343 cm³"],
+    "options": [
+      "A. \\(294 \\text{cm}^{2}\\)",
+      "B. \\(294 \\text{cm}^{3}\\)",
+      "C. \\(343 \\text{cm}^{2}\\)",
+      "D. \\(343 \\text{cm}^{3}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Medium"
@@ -3652,7 +3837,12 @@
   {
     "id": 341,
     "question": "If \\(2x + y = 10\\) and \\(x - y = 2\\), find \\(x\\).",
-    "options": ["A. 4", "B. 3", "C. 5", "D. 2"],
+    "options": [
+      "A. 4",
+      "B. 3",
+      "C. 5",
+      "D. 2"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
@@ -3660,7 +3850,12 @@
   {
     "id": 342,
     "question": "A bag contains 5 red, 3 blue, and 2 yellow balls. What is the probability of drawing a yellow ball?",
-    "options": ["A. 0.2", "B. 0.4", "C. 0.1", "D. 0.3"],
+    "options": [
+      "A. 0.2",
+      "B. 0.4",
+      "C. 0.1",
+      "D. 0.3"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Easy"
@@ -3668,7 +3863,12 @@
   {
     "id": 343,
     "question": "Find the volume of a right circular cone with height 12 cm and base radius 5 cm. (Take \\(\\pi = 3.14\\))",
-    "options": ["A. 314 cm³", "B. 314.16 cm³", "C. 310 cm³", "D. 300 cm³"],
+    "options": [
+      "A. \\(314 \\text{cm}^{3}\\)",
+      "B. \\(314.16 \\text{cm}^{3}\\)",
+      "C. \\(310 \\text{cm}^{3}\\)",
+      "D. \\(300 \\text{cm}^{3}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3676,7 +3876,12 @@
   {
     "id": 344,
     "question": "If \\(\\frac{1}{2}\\) of a number is 25 less than the number itself, find the number.",
-    "options": ["A. 50", "B. 100", "C. 75", "D. 60"],
+    "options": [
+      "A. 50",
+      "B. 100",
+      "C. 75",
+      "D. 60"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3684,7 +3889,12 @@
   {
     "id": 345,
     "question": "Simplify \\(\\frac{5}{\\sqrt{5}} + \\sqrt{5}\\).",
-    "options": ["A. \\(2\\sqrt{5}\\)", "B. \\(3\\sqrt{5}\\)", "C. \\(\\sqrt{5}\\)", "D. \\(4\\sqrt{5}\\)"],
+    "options": [
+      "A. \\(2\\sqrt{5}\\)",
+      "B. \\(3\\sqrt{5}\\)",
+      "C. \\(\\sqrt{5}\\)",
+      "D. \\(4\\sqrt{5}\\)"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3692,7 +3902,12 @@
   {
     "id": 346,
     "question": "A car uses 8 litres of petrol to travel 100 km. How many litres will it use to travel 350 km?",
-    "options": ["A. 28", "B. 24", "C. 30", "D. 35"],
+    "options": [
+      "A. 28",
+      "B. 24",
+      "C. 30",
+      "D. 35"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Medium"
@@ -3700,7 +3915,12 @@
   {
     "id": 348,
     "question": "If the median of 5, 7, 9, x, 13 is 10, find x.",
-    "options": ["A. 10", "B. 11", "C. 12", "D. 9"],
+    "options": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 9"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3708,7 +3928,12 @@
   {
     "id": 352,
     "question": "Solve for \\(x\\) in the equation \\(\\frac{2x-1}{3} - \\frac{x+2}{2} = 1\\).",
-    "options": ["A. 14", "B. 12", "C. 10", "D. 8"],
+    "options": [
+      "A. 14",
+      "B. 12",
+      "C. 10",
+      "D. 8"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3716,7 +3941,12 @@
   {
     "id": 353,
     "question": "A die is rolled twice. What is the probability of getting a sum of 8?",
-    "options": ["A. \\(\\frac{5}{36}\\)", "B. \\(\\frac{1}{6}\\)", "C. \\(\\frac{7}{36}\\)", "D. \\(\\frac{1}{9}\\)"],
+    "options": [
+      "A. \\(\\frac{5}{36}\\)",
+      "B. \\(\\frac{1}{6}\\)",
+      "C. \\(\\frac{7}{36}\\)",
+      "D. \\(\\frac{1}{9}\\)"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3724,15 +3954,25 @@
   {
     "id": 355,
     "question": "If \\(a = -3\\) and \\(b = 4\\), evaluate \\((a - b)^2\\).",
-    "options": ["A. 49", "B. 1", "C. -49", "D. 7"],
+    "options": [
+      "A. 49",
+      "B. 1",
+      "C. -49",
+      "D. 7"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Medium"
   },
   {
     "id": 356,
-    "question": "The price of a shirt is reduced by 20% to \u20a64,000. Find the original price.",
-    "options": ["A. \u20a65,000", "B. \u20a64,800", "C. \u20a65,200", "D. \u20a64,200"],
+    "question": "The price of a shirt is reduced by 20% to ₦4,000. Find the original price.",
+    "options": [
+      "A. ₦5,000",
+      "B. ₦4,800",
+      "C. ₦5,200",
+      "D. ₦4,200"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Hard"
@@ -3740,7 +3980,12 @@
   {
     "id": 357,
     "question": "Find the least number that is divisible by 4, 6, and 10.",
-    "options": ["A. 60", "B. 120", "C. 30", "D. 90"],
+    "options": [
+      "A. 60",
+      "B. 120",
+      "C. 30",
+      "D. 90"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -3748,7 +3993,12 @@
   {
     "id": 358,
     "question": "The perimeter of a rectangle is 34 cm and its width is 7 cm. Find the length.",
-    "options": ["A. 10 cm", "B. 12 cm", "C. 8 cm", "D. 9 cm"],
+    "options": [
+      "A. 10 cm",
+      "B. 12 cm",
+      "C. 8 cm",
+      "D. 9 cm"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3756,7 +4006,12 @@
   {
     "id": 359,
     "question": "If \\(x = 2 + \\sqrt{3}\\), find \\(x^2 - 4x + 1\\).",
-    "options": ["A. 0", "B. 1", "C. 2", "D. -1"],
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 2",
+      "D. -1"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3764,7 +4019,12 @@
   {
     "id": 360,
     "question": "A survey of 100 students found that 60 like football, 45 like basketball, and 15 like both. How many like exactly one sport?",
-    "options": ["A. 75", "B. 90", "C. 85", "D. 80"],
+    "options": [
+      "A. 75",
+      "B. 90",
+      "C. 85",
+      "D. 80"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3772,7 +4032,12 @@
   {
     "id": 361,
     "question": "Simplify \\(\\frac{2}{\\sqrt{3}} + \\frac{3}{\\sqrt{3}}\\).",
-    "options": ["A. \\(\\frac{5\\sqrt{3}}{3}\\)", "B. \\(\\frac{5}{\\sqrt{3}}\\)", "C. \\(5\\sqrt{3}\\)", "D. \\(\\frac{\\sqrt{3}}{5}\\)"],
+    "options": [
+      "A. \\(\\frac{5\\sqrt{3}}{3}\\)",
+      "B. \\(\\frac{5}{\\sqrt{3}}\\)",
+      "C. \\(5\\sqrt{3}\\)",
+      "D. \\(\\frac{\\sqrt{3}}{5}\\)"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3780,7 +4045,12 @@
   {
     "id": 362,
     "question": "If \\(\\frac{3}{4}\\) of a number is 18, find \\(\\frac{2}{3}\\) of the number.",
-    "options": ["A. 16", "B. 12", "C. 18", "D. 14"],
+    "options": [
+      "A. 16",
+      "B. 12",
+      "C. 18",
+      "D. 14"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Medium"
@@ -3788,15 +4058,25 @@
   {
     "id": 363,
     "question": "Find the (sum) of the roots of the quadratic equation \\(x^2 - 7x + 12 = 0\\).",
-    "options": ["A. 7", "B. -7", "C. 12", "D. -12"],
+    "options": [
+      "A. 7",
+      "B. -7",
+      "C. 12",
+      "D. -12"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
   },
   {
     "id": 364,
-    "question": "The volume of a cube is 343 cm³. Find its surface area.",
-    "options": ["A. 294 cm²", "B. 343 cm²", "C. 196 cm²", "D. 49 cm²"],
+    "question": "The volume of a cube is 343 \\(\\text{cm}^{3}\\). Find its surface area.",
+    "options": [
+      "A. \\(294 \\text{cm}^{2}\\)",
+      "B. \\(343 \\text{cm}^{2}\\)",
+      "C. \\(196 \\text{cm}^{2}\\)",
+      "D. \\(49 \\text{cm}^{2}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3804,7 +4084,12 @@
   {
     "id": 366,
     "question": "A ladder 13 m long rests against a vertical wall. If the foot is 5 m from the wall, how high up the wall does it reach?",
-    "options": ["A. 12 m", "B. 10 m", "C. 11 m", "D. 14 m"],
+    "options": [
+      "A. 12 m",
+      "B. 10 m",
+      "C. 11 m",
+      "D. 14 m"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3812,15 +4097,25 @@
   {
     "id": 367,
     "question": "Solve the equation \\(3(x - 1) - 2(2x + 1) = 5\\).",
-    "options": ["A. -10", "B. 10", "C. -5", "D. 5"],
+    "options": [
+      "A. -10",
+      "B. 10",
+      "C. -5",
+      "D. 5"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
   },
   {
     "id": 368,
-    "question": "A man invests \u20a6100,000 for 2 years at 5% compound interest per annum. What is the amount?",
-    "options": ["A. \u20a6110,250", "B. \u20a6110,000", "C. \u20a6105,000", "D. \u20a6105,250"],
+    "question": "A man invests ₦100,000 for 2 years at 5% compound interest per annum. What is the amount?",
+    "options": [
+      "A. ₦110,250",
+      "B. ₦110,000",
+      "C. ₦105,000",
+      "D. ₦105,250"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3828,7 +4123,12 @@
   {
     "id": 369,
     "question": "Find the area of a circle whose radius is 3.5 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
-    "options": ["A. 38.5 cm²", "B. 44 cm²", "C. 22 cm²", "D. 77 cm²"],
+    "options": [
+      "A. \\(38.5 \\text{cm}^{2}\\)",
+      "B. \\(44 \\text{cm}^{2}\\)",
+      "C. \\(22 \\text{cm}^{2}\\)",
+      "D. \\(77 \\text{cm}^{2}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Medium"
@@ -3836,7 +4136,12 @@
   {
     "id": 371,
     "question": "The sum of three consecutive odd numbers is 51. Find the largest number.",
-    "options": ["A. 19", "B. 17", "C. 21", "D. 15"],
+    "options": [
+      "A. 19",
+      "B. 17",
+      "C. 21",
+      "D. 15"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3844,7 +4149,12 @@
   {
     "id": 372,
     "question": "Find the mode of the data: 2, 5, 3, 5, 4, 3, 5, 2.",
-    "options": ["A. 5", "B. 3", "C. 2", "D. 4"],
+    "options": [
+      "A. 5",
+      "B. 3",
+      "C. 2",
+      "D. 4"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Easy"
@@ -3852,15 +4162,25 @@
   {
     "id": 374,
     "question": "A rectangle has length (2x + 3) cm and width (x - 1) cm. If its perimeter is 34 cm, find x.",
-    "options": ["A. 5", "B. 4", "C. 6", "D. 7"],
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 6",
+      "D. 7"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
   },
   {
     "id": 375,
-    "question": "Find the complement of an angle of 42°.",
-    "options": ["A. 48°", "B. 138°", "C. 58°", "D. 42°"],
+    "question": "Find the complement of an angle of \\(42^{\\circ}\\).",
+    "options": [
+      "A. \\(48^{\\circ}\\)",
+      "B. \\(138^{\\circ}\\)",
+      "C. \\(58^{\\circ}\\)",
+      "D. \\(42^{\\circ}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Easy"
@@ -3868,7 +4188,12 @@
   {
     "id": 378,
     "question": "Find the total surface area of a cylinder with radius 7 cm and height 10 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
-    "options": ["A. \\(748 \\text{ cm}^2\\)", "B. \\(528 \\text{ cm}^2\\)", "C. \\(616 \\text{ cm}^2\\)", "D. \\(440 \\text{ cm}^2\\)"],
+    "options": [
+      "A. \\(748 \\text{ cm}^2\\)",
+      "B. \\(528 \\text{ cm}^2\\)",
+      "C. \\(616 \\text{ cm}^2\\)",
+      "D. \\(440 \\text{ cm}^2\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3876,7 +4201,12 @@
   {
     "id": 379,
     "question": "If \\(10^{x} = 1000\\), find \\(x\\).",
-    "options": ["A. 3", "B. 2", "C. 4", "D. 1"],
+    "options": [
+      "A. 3",
+      "B. 2",
+      "C. 4",
+      "D. 1"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Easy"
@@ -3884,7 +4214,12 @@
   {
     "id": 380,
     "question": "Solve the inequality: \\(2x + 5 < 3x - 4\\).",
-    "options": ["A. \\(x > 9\\)", "B. \\(x < 9\\)", "C. \\(x > -9\\)", "D. \\(x < -9\\)"],
+    "options": [
+      "A. \\(x > 9\\)",
+      "B. \\(x < 9\\)",
+      "C. \\(x > -9\\)",
+      "D. \\(x < -9\\)"
+    ],
     "answer": "A",
     "topic": "Algebraic Processes",
     "difficulty": "Hard"
@@ -3892,7 +4227,12 @@
   {
     "id": 381,
     "question": "The mean of 10 numbers is (25). If one number is 40, find the mean of the remaining nine.",
-    "options": ["A. 23.33", "B. 24.44", "C. 22.22", "D. 21.11"],
+    "options": [
+      "A. 23.33",
+      "B. 24.44",
+      "C. 22.22",
+      "D. 21.11"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3900,7 +4240,12 @@
   {
     "id": 382,
     "question": "Find the volume of a pyramid with a square base of side 6 cm and height 9 cm.",
-    "options": ["A. 108 cm³", "B. 216 cm³", "C. 54 cm³", "D. 162 cm³"],
+    "options": [
+      "A. \\(108 \\text{cm}^{3}\\)",
+      "B. \\(216 \\text{cm}^{3}\\)",
+      "C. \\(54 \\text{cm}^{3}\\)",
+      "D. \\(162 \\text{cm}^{3}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3908,7 +4253,12 @@
   {
     "id": 384,
     "question": "A shopkeeper marks a price 25% above cost. If he gives a 10% discount, find his profit percent.",
-    "options": ["A. 12.5%", "B. 15%", "C. 10%", "D. 20%"],
+    "options": [
+      "A. 12.5%",
+      "B. 15%",
+      "C. 10%",
+      "D. 20%"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Hard"
@@ -3916,7 +4266,12 @@
   {
     "id": 385,
     "question": "Simplify \\(\\frac{\\sqrt{32}}{\\sqrt{2}}\\).",
-    "options": ["A. 4", "B. 8", "C. 2", "D. 16"],
+    "options": [
+      "A. 4",
+      "B. 8",
+      "C. 2",
+      "D. 16"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Medium"
@@ -3924,7 +4279,12 @@
   {
     "id": 387,
     "question": "A bag contains 4 white, 6 black, and 5 yellow balls. What is the probability of drawing a white or yellow ball?",
-    "options": ["A. \\(\\frac{3}{5}\\)", "B. \\(\\frac{1}{3}\\)", "C. \\(\\frac{4}{15}\\)", "D. \\(\\frac{2}{5}\\)"],
+    "options": [
+      "A. \\(\\frac{3}{5}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{4}{15}\\)",
+      "D. \\(\\frac{2}{5}\\)"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Medium"
@@ -3932,7 +4292,12 @@
   {
     "id": 388,
     "question": "Find the area of a trapezium with parallel sides 10 cm and 14 cm and height 6 cm.",
-    "options": ["A. 72 cm²", "B. 84 cm²", "C. 48 cm²", "D. 96 cm²"],
+    "options": [
+      "A. \\(72 \\text{cm}^{2}\\)",
+      "B. \\(84 \\text{cm}^{2}\\)",
+      "C. \\(48 \\text{cm}^{2}\\)",
+      "D. \\(96 \\text{cm}^{2}\\)"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
@@ -3940,23 +4305,38 @@
   {
     "id": 392,
     "question": "Find the median of: 18, 21, 15, 19, 22, 17, 20.",
-    "options": ["A. 19", "B. 20", "C. 18", "D. 21"],
+    "options": [
+      "A. 19",
+      "B. 20",
+      "C. 18",
+      "D. 21"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Medium"
   },
   {
     "id": 393,
-    "question": "The angle of depression of a boat from the top of a 40 m high cliff is 30°. Find the distance of the boat from the cliff.",
-    "options": ["A. \\(40\\sqrt{3} \\text{ m}\\)", "B. 40 m", "C. \\(20\\sqrt{3} \\text{ m}\\)", "D. 80 m"],
+    "question": "The angle of depression of a boat from the top of a 40 m high cliff is \\(30^{\\circ}\\). Find the distance of the boat from the cliff.",
+    "options": [
+      "A. \\(40\\sqrt{3} \\text{ m}\\)",
+      "B. 40 m",
+      "C. \\(20\\sqrt{3} \\text{ m}\\)",
+      "D. 80 m"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Hard"
   },
   {
     "id": 394,
-    "question": "A man leaves a sum of money to his two sons in the ratio 3:5. If the younger gets \u20a618,000, find the total sum.",
-    "options": ["A. \u20a648,000", "B. \u20a636,000", "C. \u20a654,000", "D. \u20a642,000"],
+    "question": "A man leaves a sum of money to his two sons in the ratio 3:5. If the younger gets ₦18,000, find the total sum.",
+    "options": [
+      "A. ₦48,000",
+      "B. ₦36,000",
+      "C. ₦54,000",
+      "D. ₦42,000"
+    ],
     "answer": "A",
     "topic": "Number and Numeration",
     "difficulty": "Hard"
@@ -3964,7 +4344,12 @@
   {
     "id": 395,
     "question": "Simplify \\(\\frac{3}{4} \\times \\frac{8}{9} \\div \\frac{2}{3}\\).",
-    "options": ["A. 1", "B. \\(\\frac{2}{3}\\)", "C. \\(\\frac{4}{9}\\)", "D. \\(\\frac{16}{27}\\)"],
+    "options": [
+      "A. 1",
+      "B. \\(\\frac{2}{3}\\)",
+      "C. \\(\\frac{4}{9}\\)",
+      "D. \\(\\frac{16}{27}\\)"
+    ],
     "answer": "A",
     "topic": "Basic Operations",
     "difficulty": "Medium"
@@ -3972,7 +4357,12 @@
   {
     "id": 398,
     "question": "The probability of selecting a girl from a class is \\(\\frac{3}{7}\\). If there are 15 boys, find the total number of students.",
-    "options": ["A. 35", "B. 30", "C. 28", "D. 42"],
+    "options": [
+      "A. 35",
+      "B. 30",
+      "C. 28",
+      "D. 42"
+    ],
     "answer": "A",
     "topic": "Everyday Statistics",
     "difficulty": "Hard"
@@ -3980,7 +4370,12 @@
   {
     "id": 399,
     "question": "Find the radius of a circle whose circumference is 44 cm. (Take \\(\\pi = \\frac{22}{7}\\))",
-    "options": ["A. 7 cm", "B. 14 cm", "C. 21 cm", "D. 28 cm"],
+    "options": [
+      "A. 7 cm",
+      "B. 14 cm",
+      "C. 21 cm",
+      "D. 28 cm"
+    ],
     "answer": "A",
     "topic": "Geometry and Measurement",
     "difficulty": "Medium"

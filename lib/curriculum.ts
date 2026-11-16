@@ -1,19 +1,19 @@
 import type { Question } from "./question-types"
 import { ALL_QUESTIONS } from "./questions"
 
-// Solid Qs JSONs
-import englishSolidJson from "../Json/English Lang_Solid Q's.json"
-import mathsSolidJson from "../Json/Maths_Solid Q's.json"
-import crsSolidJson from "../Json/CRS_Solid Q's.json"
-import bstSolidJson from "../Json/BST_Solid Q's.json"
-import pvsSolidJson from "../Json/PVS_Solid Q's.json"
-import bussSolidJson from "../Json/BUSS Solid Q's.json"
-import nveSolidJson from "../Json/NVE_Solid Q's.json"
-import ccaSolidJson from "../Json/CCA_Solid Q's.json"
-import frenchSolidJson from "../Json/French_Solid Q's.json"
-import historySolidJson from "../Json/History_Solid Q's.json"
-import yorubaSolidJson from "../Json/Yoruba_Solid Q's.json"
-import igboSolidJson from "../Json/Igbo_Solid Q's.json"
+// Solid Qs JSONs (BECE / JSS)
+import englishSolidJson from "../Json/BECE/English Lang_Solid Q's.json"
+import mathsSolidJson from "../Json/BECE/Maths_Solid Q's.json"
+import crsSolidJson from "../Json/BECE/CRS_Solid Q's.json"
+import bstSolidJson from "../Json/BECE/BST_Solid Q's.json"
+import pvsSolidJson from "../Json/BECE/PVS_Solid Q's.json"
+import bussSolidJson from "../Json/BECE/BUSS Solid Q's.json"
+import nveSolidJson from "../Json/BECE/NVE_Solid Q's.json"
+import ccaSolidJson from "../Json/BECE/CCA_Solid Q's.json"
+import frenchSolidJson from "../Json/BECE/French_Solid Q's.json"
+import historySolidJson from "../Json/BECE/History_Solid Q's.json"
+import yorubaSolidJson from "../Json/BECE/Yoruba_Solid Q's.json"
+import igboSolidJson from "../Json/BECE/Igbo_Solid Q's.json"
 
 
 function formatMath(text: string): string {

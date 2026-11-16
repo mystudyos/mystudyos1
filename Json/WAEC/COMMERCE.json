@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 1,
+    "question": "Commerce is best defined as",
+    "options": [
+      "A. trade and aids to trade",
+      "B. production of goods",
+      "C. consumption of goods",
+      "D. extraction of raw materials"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "E-commerce primarily involves",
+    "options": [
+      "A. physical store sales",
+      "B. electronic transmission of data",
+      "C. manual accounting",
+      "D. traditional banking"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a function of commerce?",
+    "options": [
+      "A. Manufacturing",
+      "B. Extraction",
+      "C. Exchange of goods and services",
+      "D. Farming"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "question": "The scope of commerce includes all EXCEPT",
+    "options": [
+      "A. trade",
+      "B. banking",
+      "C. insurance",
+      "D. extraction of raw materials"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "An occupation involves",
+    "options": [
+      "A. a hobby",
+      "B. a person's regular work for earning a living",
+      "C. a temporary task",
+      "D. a leisure activity"
+    ],
+    "answer": "B",
+    "topic": "Occupation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "Which of these is an industrial occupation?",
+    "options": [
+      "A. Banking",
+      "B. Retailing",
+      "C. Mining",
+      "D. Teaching"
+    ],
+    "answer": "C",
+    "topic": "Occupation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Commercial occupation includes",
+    "options": [
+      "A. Farming",
+      "B. Manufacturing",
+      "C. Fishing",
+      "D. Insurance"
+    ],
+    "answer": "D",
+    "topic": "Occupation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "A factor that determines the type of occupation is",
+    "options": [
+      "A. personal skill",
+      "B. weather",
+      "C. government policy",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Occupation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "Production is defined as",
+    "options": [
+      "A. buying and selling",
+      "B. consumption of goods",
+      "C. creation of utility",
+      "D. storage of goods"
+    ],
+    "answer": "C",
+    "topic": "Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a factor of production?",
+    "options": [
+      "A. Money",
+      "B. Goods",
+      "C. Services",
+      "D. Labour"
+    ],
+    "answer": "D",
+    "topic": "Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The reward for entrepreneurship is",
+    "options": [
+      "A. profit",
+      "B. rent",
+      "C. wages",
+      "D. interest"
+    ],
+    "answer": "A",
+    "topic": "Production",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Primary production includes",
+    "options": [
+      "A. manufacturing",
+      "B. mining",
+      "C. banking",
+      "D. transporting"
+    ],
+    "answer": "B",
+    "topic": "Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "Division of labour leads to",
+    "options": [
+      "A. decreased efficiency",
+      "B. higher costs",
+      "C. unemployment",
+      "D. increased production"
+    ],
+    "answer": "D",
+    "topic": "Production",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "The inter-relationship between production and exchange means",
+    "options": [
+      "A. production creates goods, exchange distributes them",
+      "B. goods must be exchanged before production",
+      "C. production and exchange are unrelated",
+      "D. exchange creates goods, production distributes them"
+    ],
+    "answer": "A",
+    "topic": "Production",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 15,
+    "question": "A sole proprietorship is owned by",
+    "options": [
+      "A. two persons",
+      "B. one person",
+      "C. a government",
+      "D. shareholders"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "The maximum number of partners in a general partnership is",
+    "options": [
+      "A. 10",
+      "B. 50",
+      "C. 20",
+      "D. unlimited"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "A cooperative society is owned by",
+    "options": [
+      "A. members",
+      "B. the government",
+      "C. shareholders",
+      "D. a single owner"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "question": "Which document is required to form a limited liability company?",
+    "options": [
+      "A. Partnership deed",
+      "B. Memorandum of Association",
+      "C. Cooperative bylaws",
+      "D. Trade license"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "A merger occurs when",
+    "options": [
+      "A. a company dissolves",
+      "B. a company issues shares",
+      "C. two or more companies combine",
+      "D. a company borrows money"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "A holding company is one that",
+    "options": [
+      "A. is owned by the government",
+      "B. has no subsidiaries",
+      "C. manufactures goods",
+      "D. owns shares in other companies"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 21,
+    "question": "The main aim of a trade association is to",
+    "options": [
+      "A. maximize profit",
+      "B. protect members' interests",
+      "C. employ workers",
+      "D. produce goods"
+    ],
+    "answer": "B",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "A chamber of commerce is an association of",
+    "options": [
+      "A. workers",
+      "B. consumers",
+      "C. businesses",
+      "D. farmers"
+    ],
+    "answer": "C",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Consumer associations aim to",
+    "options": [
+      "A. exploit consumers",
+      "B. increase prices",
+      "C. reduce quality",
+      "D. protect consumer rights"
+    ],
+    "answer": "D",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "Authorized capital is also known as",
+    "options": [
+      "A. nominal capital",
+      "B. paid-up capital",
+      "C. called-up capital",
+      "D. working capital"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. total assets - total liabilities",
+      "C. current assets - current liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Credit can be defined as",
+    "options": [
+      "A. immediate payment",
+      "B. cash payment",
+      "C. advance payment",
+      "D. deferred payment"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "Profit is the difference between",
+    "options": [
+      "A. revenue and cost",
+      "B. assets and liabilities",
+      "C. capital and drawings",
+      "D. cash and bank"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Turnover refers to",
+    "options": [
+      "A. net profit",
+      "B. total sales",
+      "C. total assets",
+      "D. capital employed"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "Home trade is divided into",
+    "options": [
+      "A. import and export",
+      "B. visible and invisible",
+      "C. bilateral and multilateral",
+      "D. retail and wholesale"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "A retailer sells goods to",
+    "options": [
+      "A. final consumers",
+      "B. wholesalers",
+      "C. manufacturers",
+      "D. producers"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "question": "A supermarket is a large-scale retail outlet that operates on a",
+    "options": [
+      "A. door-to-door basis",
+      "B. self-service basis",
+      "C. mail order basis",
+      "D. credit basis"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "One factor to consider in starting a retail business is",
+    "options": [
+      "A. weather",
+      "B. government policy",
+      "C. location",
+      "D. personal wealth"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "A hawker is an example of",
+    "options": [
+      "A. small-scale retailing",
+      "B. large-scale retailing",
+      "C. wholesale trade",
+      "D. import trade"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Modern trends in retailing include",
+    "options": [
+      "A. hawking",
+      "B. vending machines",
+      "C. bartering",
+      "D. street trading"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 35,
+    "question": "Wholesalers sell goods to",
+    "options": [
+      "A. final consumers",
+      "B. manufacturers",
+      "C. retailers",
+      "D. farmers"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "question": "The elimination of middlemen often leads to",
+    "options": [
+      "A. higher prices for consumers",
+      "B. more jobs for wholesalers",
+      "C. increased efficiency",
+      "D. lower prices for consumers"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 37,
+    "question": "Foreign trade involves exchange between",
+    "options": [
+      "A. regions within a country",
+      "B. different countries",
+      "C. wholesalers and retailers",
+      "D. producers and consumers"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "Balance of trade is the difference between",
+    "options": [
+      "A. total exports and total imports",
+      "B. visible imports and invisible exports",
+      "C. visible exports and visible imports",
+      "D. invisible exports and invisible imports"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "A tariff is a",
+    "options": [
+      "A. subsidy on exports",
+      "B. quota on imports",
+      "C. ban on exports",
+      "D. tax on imports"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "The port authority is responsible for",
+    "options": [
+      "A. managing port facilities",
+      "B. collecting customs duties",
+      "C. clearing goods",
+      "D. shipping goods"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "A pro forma invoice is sent",
+    "options": [
+      "A. after goods are delivered",
+      "B. to demand payment",
+      "C. as a formal request for goods",
+      "D. to return goods"
+    ],
+    "answer": "C",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "FOB stands for",
+    "options": [
+      "A. Freight On Board",
+      "B. Free of Burden",
+      "C. Full On Board",
+      "D. Free On Board"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "CIF means",
+    "options": [
+      "A. Cost, Insurance and Freight",
+      "B. Cash, Insurance and Freight",
+      "C. Cost, Invoice and Freight",
+      "D. Cash, Invoice and Freight"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "Legal tender includes",
+    "options": [
+      "A. cheques",
+      "B. bank notes and coins",
+      "C. postal orders",
+      "D. money orders"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "A bill of exchange is drawn by",
+    "options": [
+      "A. the debtor",
+      "B. the bank",
+      "C. the government",
+      "D. the creditor"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 46,
+    "question": "Money serves as a",
+    "options": [
+      "A. medium of exchange",
+      "B. store of value",
+      "C. unit of account",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "The Central Bank is responsible for",
+    "options": [
+      "A. accepting deposits from the public",
+      "B. issuing currency",
+      "C. granting loans to individuals",
+      "D. managing insurance companies"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Commercial banks are owned by",
+    "options": [
+      "A. the government",
+      "B. the Central Bank",
+      "C. private individuals and organizations",
+      "D. local governments"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "An ATM is used for",
+    "options": [
+      "A. cash withdrawal",
+      "B. applying for loans",
+      "C. opening accounts",
+      "D. buying insurance"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "question": "A current account is characterized by",
+    "options": [
+      "A. high interest rates",
+      "B. frequent withdrawals",
+      "C. fixed deposit",
+      "D. no withdrawal"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Insurance is based on the principle of",
+    "options": [
+      "A. utmost good faith",
+      "B. indemnity",
+      "C. subrogation",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "Life insurance covers",
+    "options": [
+      "A. fire",
+      "B. motor vehicle",
+      "C. marine",
+      "D. human life"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Fire insurance is a type of",
+    "options": [
+      "A. life insurance",
+      "B. non-life insurance",
+      "C. endowment",
+      "D. whole life"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "Underwriting is the process of",
+    "options": [
+      "A. issuing policies",
+      "B. paying claims",
+      "C. assessing risks",
+      "D. canceling policies"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 55,
+    "question": "Re-insurance is taken by",
+    "options": [
+      "A. individuals",
+      "B. companies",
+      "C. governments",
+      "D. insurance companies"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The capital market deals in",
+    "options": [
+      "A. long-term funds",
+      "B. short-term funds",
+      "C. medium-term funds",
+      "D. daily funds"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The Stock Exchange is a market for",
+    "options": [
+      "A. new shares",
+      "B. commodities",
+      "C. existing shares",
+      "D. foreign exchange"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "A share is a unit of",
+    "options": [
+      "A. debt",
+      "B. loan",
+      "C. deposit",
+      "D. ownership"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "A debenture is a",
+    "options": [
+      "A. loan",
+      "B. share",
+      "C. reserve",
+      "D. profit"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "A speculator who expects a rise in prices is a",
+    "options": [
+      "A. bear",
+      "B. bull",
+      "C. stag",
+      "D. lame duck"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Commodity exchange deals in",
+    "options": [
+      "A. shares",
+      "B. bonds",
+      "C. currencies",
+      "D. agricultural produce"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 62,
+    "question": "Which mode of transport is the fastest?",
+    "options": [
+      "A. Air",
+      "B. Rail",
+      "C. Road",
+      "D. Water"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "Pipeline transport is used for",
+    "options": [
+      "A. people",
+      "B. liquids and gases",
+      "C. goods",
+      "D. animals"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "A document used in air transport is",
+    "options": [
+      "A. bill of lading",
+      "B. consignment note",
+      "C. waybill",
+      "D. manifest"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "Tourism involves",
+    "options": [
+      "A. travelling for leisure",
+      "B. travelling for business",
+      "C. travelling for education",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "Communication is the process of",
+    "options": [
+      "A. transporting goods",
+      "B. sending and receiving messages",
+      "C. producing goods",
+      "D. storing goods"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. modern communication",
+      "D. non-verbal communication"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Warehousing involves",
+    "options": [
+      "A. production of goods",
+      "B. selling of goods",
+      "C. buying of goods",
+      "D. storage of goods"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. perishable goods",
+      "B. imported goods awaiting duty payment",
+      "C. raw materials",
+      "D. finished goods"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 70,
+    "question": "The main function of warehousing is to",
+    "options": [
+      "A. increase price",
+      "B. reduce quality",
+      "C. provide storage",
+      "D. increase cost"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "Advertising is a means of",
+    "options": [
+      "A. producing goods",
+      "B. transporting goods",
+      "C. storing goods",
+      "D. informing and persuading consumers"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. provide information about a product",
+      "B. create brand loyalty",
+      "C. compete with other products",
+      "D. reduce prices"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "An example of an advertising medium is",
+    "options": [
+      "A. television",
+      "B. radio",
+      "C. newspaper",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "Marketing involves all activities from",
+    "options": [
+      "A. storage to sale",
+      "B. transport to sale",
+      "C. buying to selling",
+      "D. production to consumption"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, place, promotion",
+      "B. product, price, people, process",
+      "C. price, place, promotion, people",
+      "D. product, place, promotion, physical evidence"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Market research is the process of",
+    "options": [
+      "A. selling goods",
+      "B. gathering information about markets",
+      "C. producing goods",
+      "D. advertising goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 77,
+    "question": "Customer service includes",
+    "options": [
+      "A. production and distribution",
+      "B. buying and selling",
+      "C. pricing and promotion",
+      "D. pre-sales and after-sales services"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "A contract is a legally binding",
+    "options": [
+      "A. promise",
+      "B. agreement",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "An offer and acceptance are elements of",
+    "options": [
+      "A. a tort",
+      "B. a crime",
+      "C. a valid contract",
+      "D. a trade"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. sale of goods",
+      "B. insurance",
+      "C. banking",
+      "D. transport"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 82,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. increase prices",
+      "B. protect consumers from harmful products",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. a copyright",
+      "C. an invention",
+      "D. a trade secret"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. local to foreign",
+      "D. public to private sector"
+    ],
+    "answer": "D",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Deregulation involves",
+    "options": [
+      "A. increase in government controls",
+      "B. removal of government controls",
+      "C. nationalization",
+      "D. commercialization"
+    ],
+    "answer": "B",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "Business management involves",
+    "options": [
+      "A. producing goods",
+      "B. selling goods",
+      "C. planning, organizing, staffing, directing, and controlling",
+      "D. transporting goods"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "Organizational structure refers to",
+    "options": [
+      "A. the physical layout of an office",
+      "B. the number of employees",
+      "C. the financial resources",
+      "D. the hierarchy of authority"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Delegation of authority is the process of",
+    "options": [
+      "A. assigning tasks and power to subordinates",
+      "B. taking back authority",
+      "C. increasing one's own power",
+      "D. reducing responsibility"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Council of West African States",
+      "B. Economic Cooperation of West African States",
+      "C. Economic Community of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "The main objective of ECOWAS is to",
+    "options": [
+      "A. promote political conflict",
+      "B. increase trade barriers",
+      "C. reduce cooperation",
+      "D. promote economic integration"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "The headquarters of ECOWAS is in",
+    "options": [
+      "A. Abuja",
+      "B. Lagos",
+      "C. Accra",
+      "D. Lome"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The Mano River Union (MRU) includes",
+    "options": [
+      "A. Nigeria, Ghana, and Togo",
+      "B. Guinea, Liberia, and Sierra Leone",
+      "C. Mali, Niger, and Chad",
+      "D. Senegal, Gambia, and Guinea Bissau"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The European Union (EU) is an economic and political union of",
+    "options": [
+      "A. African countries",
+      "B. Asian countries",
+      "C. American countries",
+      "D. European countries"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The Lake Chad Basin Commission (LCBC) aims to",
+    "options": [
+      "A. manage water resources",
+      "B. promote desertification",
+      "C. increase conflict",
+      "D. reduce trade"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "The Niger Basin Commission (NBC) is concerned with",
+    "options": [
+      "A. the development of the Volta River",
+      "B. the development of the Niger River",
+      "C. the development of the Nile River",
+      "D. the development of the Congo River"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "The West African Clearing House (WACH) was established to",
+    "options": [
+      "A. increase currency conversion costs",
+      "B. limit financial transactions",
+      "C. promote trade among West African countries",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 97,
+    "question": "E-commerce involves",
+    "options": [
+      "A. buying and selling over the internet",
+      "B. physical retail",
+      "C. traditional banking",
+      "D. manual accounting"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is an aid to trade?",
+    "options": [
+      "A. Agriculture",
+      "B. Insurance",
+      "C. Manufacturing",
+      "D. Mining"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "The primary purpose of business is to",
+    "options": [
+      "A. provide goods and services",
+      "B. pay taxes",
+      "C. make a profit",
+      "D. employ workers"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "A stakeholder in a business includes",
+    "options": [
+      "A. shareholders",
+      "B. employees",
+      "C. customers",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "The document that contains the rules and regulations of a company is",
+    "options": [
+      "A. Memorandum of Association",
+      "B. Articles of Association",
+      "C. Prospectus",
+      "D. Certificate of Incorporation"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "A public limited company has the abbreviation",
+    "options": [
+      "A. Ltd",
+      "B. Inc",
+      "C. PLC",
+      "D. Corp"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "An advantage of a sole proprietorship is",
+    "options": [
+      "A. unlimited liability",
+      "B. limited liability",
+      "C. continuity",
+      "D. quick decision making"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "A disadvantage of a partnership is",
+    "options": [
+      "A. unlimited liability",
+      "B. shared losses",
+      "C. more capital",
+      "D. specialized skills"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "A cooperative society operates on the principle of",
+    "options": [
+      "A. one share, one vote",
+      "B. money dictates votes",
+      "C. one man, one vote",
+      "D. government control"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "Amalgamation is the",
+    "options": [
+      "A. dissolution of a company",
+      "B. formation of a new company",
+      "C. sale of a company",
+      "D. combination of two or more companies"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 107,
+    "question": "A holding company",
+    "options": [
+      "A. owns other companies",
+      "B. is owned by another company",
+      "C. has no subsidiaries",
+      "D. is a small business"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "Liquidation of a company means",
+    "options": [
+      "A. formation",
+      "B. winding up",
+      "C. expansion",
+      "D. merger"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The main function of a trade association is to",
+    "options": [
+      "A. produce goods",
+      "B. sell goods",
+      "C. transport goods",
+      "D. protect members' interests"
+    ],
+    "answer": "D",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "A chamber of commerce is a",
+    "options": [
+      "A. group of businesses",
+      "B. group of consumers",
+      "C. government agency",
+      "D. trade union"
+    ],
+    "answer": "A",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Consumerism is the movement to",
+    "options": [
+      "A. increase prices",
+      "B. protect consumer rights",
+      "C. exploit consumers",
+      "D. reduce quality"
+    ],
+    "answer": "B",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. total assets - total liabilities",
+      "C. current assets - current liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "The main source of short-term finance for a business is",
+    "options": [
+      "A. bank overdraft",
+      "B. debenture",
+      "C. mortgage",
+      "D. equity"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "Trade credit is an example of",
+    "options": [
+      "A. long-term finance",
+      "B. short-term finance",
+      "C. equity finance",
+      "D. government grant"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "Profit is",
+    "options": [
+      "A. assets minus liabilities",
+      "B. cash minus bank",
+      "C. revenue minus cost",
+      "D. capital minus drawings"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "Turnover is also known as",
+    "options": [
+      "A. profit",
+      "B. cost of goods sold",
+      "C. net assets",
+      "D. sales revenue"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "The main difference between home trade and foreign trade is",
+    "options": [
+      "A. type of goods",
+      "B. use of different currencies",
+      "C. location of markets",
+      "D. all of the above"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "A retailer who buys from wholesalers and sells to consumers is",
+    "options": [
+      "A. a wholesaler",
+      "B. a manufacturer",
+      "C. a retailer",
+      "D. an agent"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "A large-scale retail outlet that sells a wide variety of goods under one roof is a",
+    "options": [
+      "A. supermarket",
+      "B. chain store",
+      "C. shopping mall",
+      "D. departmental store"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Mail order business involves",
+    "options": [
+      "A. selling goods through the post",
+      "B. selling goods in shops",
+      "C. selling goods on the street",
+      "D. selling goods in markets"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Wholesalers provide all of the following services EXCEPT",
+    "options": [
+      "A. bulk breaking",
+      "B. storage",
+      "C. selling to final consumers",
+      "D. financing retailers"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 122,
+    "question": "Channel of distribution refers to",
+    "options": [
+      "A. the route goods take from consumer to producer",
+      "B. the route goods take from wholesaler to retailer",
+      "C. the route goods take from retailer to consumer",
+      "D. the route goods take from producer to consumer"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "A document sent by a seller to a buyer to correct an undercharge is a",
+    "options": [
+      "A. debit note",
+      "B. credit note",
+      "C. invoice",
+      "D. pro forma invoice"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "A document that shows the details of goods sold and the amount due is an",
+    "options": [
+      "A. receipt",
+      "B. invoice",
+      "C. debit note",
+      "D. credit note"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "FOB price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods only",
+      "D. cost of goods and loading on ship"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "CIF price includes",
+    "options": [
+      "A. cost of goods, insurance, and freight",
+      "B. cost of goods and freight",
+      "C. cost of goods and insurance",
+      "D. cost of goods only"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "The main form of payment in international trade is",
+    "options": [
+      "A. cash",
+      "B. letter of credit",
+      "C. cheque",
+      "D. draft"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "Money is defined as",
+    "options": [
+      "A. coins and notes only",
+      "B. gold and silver only",
+      "C. anything generally accepted as a medium of exchange",
+      "D. bank deposits only"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "The Central Bank is the",
+    "options": [
+      "A. lender of last resort",
+      "B. commercial bank",
+      "C. mortgage bank",
+      "D. microfinance bank"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 130,
+    "question": "A commercial bank's main function is",
+    "options": [
+      "A. issuing currency",
+      "B. accepting deposits and granting loans",
+      "C. managing government debt",
+      "D. regulating other banks"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "An ATM card is used for",
+    "options": [
+      "A. depositing cash",
+      "B. applying for loans",
+      "C. withdrawing cash",
+      "D. opening accounts"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "A savings account is characterized by",
+    "options": [
+      "A. high interest rate",
+      "B. fixed deposit",
+      "C. no withdrawal",
+      "D. low interest rate"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "A fixed deposit account",
+    "options": [
+      "A. allows immediate withdrawal",
+      "B. restricts withdrawal for a period",
+      "C. has no interest",
+      "D. is for daily expenses"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Insurance is a contract of",
+    "options": [
+      "A. guarantee",
+      "B. wager",
+      "C. indemnity",
+      "D. gambling"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The principle of utmost good faith requires",
+    "options": [
+      "A. hiding important information",
+      "B. paying premiums on time",
+      "C. making false claims",
+      "D. full disclosure of all material facts"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "Subrogation means",
+    "options": [
+      "A. the insurer takes over the rights of the insured",
+      "B. the insured takes over the rights of the insurer",
+      "C. the policy is cancelled",
+      "D. the premium is refunded"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "Life insurance is not a contract of indemnity because",
+    "options": [
+      "A. it is a short-term contract",
+      "B. it covers property",
+      "C. life cannot be valued in money",
+      "D. it is compulsory"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "The capital market is for",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. daily funds",
+      "D. long-term funds"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "The stock exchange is a market for",
+    "options": [
+      "A. existing securities",
+      "B. new securities",
+      "C. commodities",
+      "D. foreign exchange"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "A share is",
+    "options": [
+      "A. a unit of debt",
+      "B. a unit of ownership in a company",
+      "C. a loan to a company",
+      "D. a deposit in a bank"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "A debenture is",
+    "options": [
+      "A. a share in a company",
+      "B. a deposit in a bank",
+      "C. a government bond",
+      "D. a loan to a company"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 142,
+    "question": "A bull speculator expects",
+    "options": [
+      "A. prices to rise",
+      "B. prices to fall",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "A bear speculator expects",
+    "options": [
+      "A. prices to rise",
+      "B. prices to fall",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Commodity exchange is a market for",
+    "options": [
+      "A. shares",
+      "B. bonds",
+      "C. agricultural products",
+      "D. foreign currency"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Transport is important for",
+    "options": [
+      "A. movement of goods and people",
+      "B. production of goods",
+      "C. storage of goods",
+      "D. advertising of goods"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "question": "The fastest mode of transport is",
+    "options": [
+      "A. rail",
+      "B. air",
+      "C. water",
+      "D. road"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 147,
+    "question": "The cheapest mode of transport for bulky goods is",
+    "options": [
+      "A. air",
+      "B. road",
+      "C. water",
+      "D. rail"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "A waybill is a document used in",
+    "options": [
+      "A. rail transport",
+      "B. air transport",
+      "C. sea transport",
+      "D. road transport"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "Tourism is the travel for",
+    "options": [
+      "A. leisure",
+      "B. business",
+      "C. education",
+      "D. all of the above"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "question": "Communication is the",
+    "options": [
+      "A. transfer of goods",
+      "B. transfer of money",
+      "C. transfer of information",
+      "D. transfer of people"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. non-verbal communication",
+      "D. modern communication"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "Warehousing is the",
+    "options": [
+      "A. storage of goods",
+      "B. production of goods",
+      "C. sale of goods",
+      "D. purchase of goods"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. export goods",
+      "B. perishable goods",
+      "C. imported goods until duty is paid",
+      "D. raw materials"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Advertising is the",
+    "options": [
+      "A. production of goods and services",
+      "B. storage of goods and services",
+      "C. transportation of goods and services",
+      "D. promotion of goods and services"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. provide information",
+      "B. persuade consumers",
+      "C. create brand loyalty",
+      "D. compete with rivals"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following is a medium of advertising?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 157,
+    "question": "Marketing involves",
+    "options": [
+      "A. only selling",
+      "B. only advertising",
+      "C. only transporting",
+      "D. all activities from production to consumption"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, place, promotion",
+      "B. product, price, people, process",
+      "C. price, place, promotion, people",
+      "D. product, place, promotion, physical evidence"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "Market research is the",
+    "options": [
+      "A. sale of goods",
+      "B. collection of data about markets",
+      "C. production of goods",
+      "D. storage of goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 160,
+    "question": "Customer services include",
+    "options": [
+      "A. production and distribution",
+      "B. buying and selling",
+      "C. pre-sales and after-sales services",
+      "D. pricing and promotion"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 162,
+    "question": "A contract is a",
+    "options": [
+      "A. promise",
+      "B. legally binding agreement",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "For a contract to be valid, there must be",
+    "options": [
+      "A. offer and acceptance",
+      "B. consideration",
+      "C. intention to create legal relations",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. insurance",
+      "B. banking",
+      "C. transport",
+      "D. sale of goods"
+    ],
+    "answer": "D",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. increase prices",
+      "B. protect consumers",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. a copyright",
+      "C. an invention",
+      "D. a trade secret"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 167,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. local to foreign",
+      "D. public to private sector"
+    ],
+    "answer": "D",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Deregulation is the",
+    "options": [
+      "A. removal of government controls",
+      "B. increase in government controls",
+      "C. nationalization of industries",
+      "D. commercialization of industries"
+    ],
+    "answer": "A",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "Business management involves",
+    "options": [
+      "A. producing goods",
+      "B. selling goods",
+      "C. planning, organizing, staffing, directing, and controlling",
+      "D. transporting goods"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 170,
+    "question": "Organizational structure refers to",
+    "options": [
+      "A. the physical layout of an office",
+      "B. the number of employees",
+      "C. the financial resources",
+      "D. the hierarchy of authority"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "Delegation of authority is the",
+    "options": [
+      "A. assignment of tasks and power to subordinates",
+      "B. taking back authority",
+      "C. increasing one's own power",
+      "D. reducing responsibility"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Council of West African States",
+      "B. Economic Community of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "The main objective of ECOWAS is to",
+    "options": [
+      "A. promote political conflict",
+      "B. increase trade barriers",
+      "C. reduce cooperation",
+      "D. promote economic integration"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "The headquarters of ECOWAS is in",
+    "options": [
+      "A. Abuja",
+      "B. Lagos",
+      "C. Accra",
+      "D. Lome"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "The Mano River Union (MRU) includes",
+    "options": [
+      "A. Nigeria, Ghana, and Togo",
+      "B. Guinea, Liberia, and Sierra Leone",
+      "C. Mali, Niger, and Chad",
+      "D. Senegal, Gambia, and Guinea Bissau"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "The European Union (EU) is a",
+    "options": [
+      "A. military alliance",
+      "B. cultural association",
+      "C. political and economic union",
+      "D. sports federation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "The Lake Chad Basin Commission (LCBC) aims to",
+    "options": [
+      "A. manage water resources",
+      "B. promote desertification",
+      "C. increase conflict",
+      "D. reduce trade"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "The Niger Basin Commission (NBC) is concerned with",
+    "options": [
+      "A. the development of the Volta River",
+      "B. the development of the Niger River",
+      "C. the development of the Nile River",
+      "D. the development of the Congo River"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The West African Clearing House (WACH) was established to",
+    "options": [
+      "A. increase currency conversion costs",
+      "B. limit financial transactions",
+      "C. promote trade among West African countries",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 180,
+    "question": "E-commerce involves",
+    "options": [
+      "A. physical retail",
+      "B. traditional banking",
+      "C. manual accounting",
+      "D. buying and selling over the internet"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "Which of the following is an aid to trade?",
+    "options": [
+      "A. Agriculture",
+      "B. Insurance",
+      "C. Manufacturing",
+      "D. Mining"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The primary purpose of business is to",
+    "options": [
+      "A. provide goods and services",
+      "B. pay taxes",
+      "C. make a profit",
+      "D. employ workers"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "A stakeholder in a business includes",
+    "options": [
+      "A. shareholders",
+      "B. employees",
+      "C. customers",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The document that contains the rules and regulations of a company is",
+    "options": [
+      "A. Articles of Association",
+      "B. Memorandum of Association",
+      "C. Prospectus",
+      "D. Certificate of Incorporation"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "A public limited company has the abbreviation",
+    "options": [
+      "A. Ltd",
+      "B. Inc",
+      "C. PLC",
+      "D. Corp"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "An advantage of a sole proprietorship is",
+    "options": [
+      "A. unlimited liability",
+      "B. limited liability",
+      "C. continuity",
+      "D. quick decision making"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "A disadvantage of a partnership is",
+    "options": [
+      "A. unlimited liability",
+      "B. shared losses",
+      "C. more capital",
+      "D. specialized skills"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "A cooperative society operates on the principle of",
+    "options": [
+      "A. one share, one vote",
+      "B. one man, one vote",
+      "C. money dictates votes",
+      "D. government control"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Amalgamation is the",
+    "options": [
+      "A. dissolution of a company",
+      "B. formation of a new company",
+      "C. sale of a company",
+      "D. combination of two or more companies"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 190,
+    "question": "A holding company",
+    "options": [
+      "A. owns other companies",
+      "B. is owned by another company",
+      "C. has no subsidiaries",
+      "D. is a small business"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "Liquidation of a company means",
+    "options": [
+      "A. formation",
+      "B. winding up",
+      "C. expansion",
+      "D. merger"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "The main function of a trade association is to",
+    "options": [
+      "A. produce goods",
+      "B. sell goods",
+      "C. protect members' interests",
+      "D. transport goods"
+    ],
+    "answer": "C",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 193,
+    "question": "A chamber of commerce is a",
+    "options": [
+      "A. group of businesses",
+      "B. group of consumers",
+      "C. government agency",
+      "D. trade union"
+    ],
+    "answer": "A",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Consumerism is the movement to",
+    "options": [
+      "A. increase prices",
+      "B. protect consumer rights",
+      "C. exploit consumers",
+      "D. reduce quality"
+    ],
+    "answer": "B",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. total assets - total liabilities",
+      "C. current assets - current liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "The main source of short-term finance for a business is",
+    "options": [
+      "A. debenture",
+      "B. mortgage",
+      "C. equity",
+      "D. bank overdraft"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "Trade credit is an example of",
+    "options": [
+      "A. long-term finance",
+      "B. short-term finance",
+      "C. equity finance",
+      "D. government grant"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "Profit is",
+    "options": [
+      "A. assets minus liabilities",
+      "B. cash minus bank",
+      "C. revenue minus cost",
+      "D. capital minus drawings"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "Turnover is also known as",
+    "options": [
+      "A. profit",
+      "B. cost of goods sold",
+      "C. net assets",
+      "D. sales revenue"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The main difference between home trade and foreign trade is",
+    "options": [
+      "A. use of different currencies",
+      "B. type of goods",
+      "C. location of markets",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "A retailer who buys from wholesalers and sells to consumers is",
+    "options": [
+      "A. a wholesaler",
+      "B. a manufacturer",
+      "C. a retailer",
+      "D. an agent"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "A large-scale retail outlet that sells a wide variety of goods under one roof is a",
+    "options": [
+      "A. supermarket",
+      "B. chain store",
+      "C. shopping mall",
+      "D. departmental store"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "Mail order business involves",
+    "options": [
+      "A. selling goods through the post",
+      "B. selling goods in shops",
+      "C. selling goods on the street",
+      "D. selling goods in markets"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "Wholesalers provide all of the following services EXCEPT",
+    "options": [
+      "A. bulk breaking",
+      "B. selling to final consumers",
+      "C. storage",
+      "D. financing retailers"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 205,
+    "question": "Channel of distribution refers to",
+    "options": [
+      "A. the route goods take from consumer to producer",
+      "B. the route goods take from wholesaler to retailer",
+      "C. the route goods take from retailer to consumer",
+      "D. the route goods take from producer to consumer"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "A document sent by a seller to a buyer to correct an undercharge is a",
+    "options": [
+      "A. debit note",
+      "B. credit note",
+      "C. invoice",
+      "D. pro forma invoice"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 207,
+    "question": "A document that shows the details of goods sold and the amount due is an",
+    "options": [
+      "A. receipt",
+      "B. invoice",
+      "C. debit note",
+      "D. credit note"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 208,
+    "question": "FOB price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods and loading on ship",
+      "D. cost of goods only"
+    ],
+    "answer": "C",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 209,
+    "question": "CIF price includes",
+    "options": [
+      "A. cost of goods, insurance, and freight",
+      "B. cost of goods and freight",
+      "C. cost of goods and insurance",
+      "D. cost of goods only"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "The main form of payment in international trade is",
+    "options": [
+      "A. cash",
+      "B. letter of credit",
+      "C. cheque",
+      "D. draft"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "Money is defined as",
+    "options": [
+      "A. coins and notes only",
+      "B. gold and silver only",
+      "C. anything generally accepted as a medium of exchange",
+      "D. bank deposits only"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 212,
+    "question": "The Central Bank is the",
+    "options": [
+      "A. commercial bank",
+      "B. mortgage bank",
+      "C. microfinance bank",
+      "D. lender of last resort"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 213,
+    "question": "A commercial bank's main function is",
+    "options": [
+      "A. issuing currency",
+      "B. accepting deposits and granting loans",
+      "C. managing government debt",
+      "D. regulating other banks"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "An ATM card is used for",
+    "options": [
+      "A. depositing cash",
+      "B. applying for loans",
+      "C. withdrawing cash",
+      "D. opening accounts"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 215,
+    "question": "A savings account is characterized by",
+    "options": [
+      "A. high interest rate",
+      "B. fixed deposit",
+      "C. no withdrawal",
+      "D. low interest rate"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "A fixed deposit account",
+    "options": [
+      "A. restricts withdrawal for a period",
+      "B. allows immediate withdrawal",
+      "C. has no interest",
+      "D. is for daily expenses"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Insurance is a contract of",
+    "options": [
+      "A. guarantee",
+      "B. wager",
+      "C. indemnity",
+      "D. gambling"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "The principle of utmost good faith requires",
+    "options": [
+      "A. hiding important information",
+      "B. paying premiums on time",
+      "C. making false claims",
+      "D. full disclosure of all material facts"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 219,
+    "question": "Subrogation means",
+    "options": [
+      "A. the insurer takes over the rights of the insured",
+      "B. the insured takes over the rights of the insurer",
+      "C. the policy is cancelled",
+      "D. the premium is refunded"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 220,
+    "question": "Life insurance is not a contract of indemnity because",
+    "options": [
+      "A. it is a short-term contract",
+      "B. life cannot be valued in money",
+      "C. it covers property",
+      "D. it is compulsory"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 221,
+    "question": "The capital market is for",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. daily funds",
+      "D. long-term funds"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The stock exchange is a market for",
+    "options": [
+      "A. existing securities",
+      "B. new securities",
+      "C. commodities",
+      "D. foreign exchange"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "A share is",
+    "options": [
+      "A. a unit of debt",
+      "B. a unit of ownership in a company",
+      "C. a loan to a company",
+      "D. a deposit in a bank"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "A debenture is",
+    "options": [
+      "A. a share in a company",
+      "B. a deposit in a bank",
+      "C. a loan to a company",
+      "D. a government bond"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "A bull speculator expects",
+    "options": [
+      "A. prices to rise",
+      "B. prices to fall",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 226,
+    "question": "A bear speculator expects",
+    "options": [
+      "A. prices to rise",
+      "B. prices to fall",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "Commodity exchange is a market for",
+    "options": [
+      "A. shares",
+      "B. bonds",
+      "C. agricultural products",
+      "D. foreign currency"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Transport is important for",
+    "options": [
+      "A. production of goods",
+      "B. storage of goods",
+      "C. advertising of goods",
+      "D. movement of goods and people"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 229,
+    "question": "The fastest mode of transport is",
+    "options": [
+      "A. rail",
+      "B. air",
+      "C. water",
+      "D. road"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "The cheapest mode of transport for bulky goods is",
+    "options": [
+      "A. air",
+      "B. road",
+      "C. water",
+      "D. rail"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 231,
+    "question": "A waybill is a document used in",
+    "options": [
+      "A. rail transport",
+      "B. air transport",
+      "C. sea transport",
+      "D. road transport"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "Tourism is the travel for",
+    "options": [
+      "A. leisure",
+      "B. business",
+      "C. education",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 233,
+    "question": "Communication is the",
+    "options": [
+      "A. transfer of goods",
+      "B. transfer of money",
+      "C. transfer of information",
+      "D. transfer of people"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. non-verbal communication",
+      "D. modern communication"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "Warehousing is the",
+    "options": [
+      "A. storage of goods",
+      "B. production of goods",
+      "C. sale of goods",
+      "D. purchase of goods"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 236,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. export goods",
+      "B. imported goods until duty is paid",
+      "C. perishable goods",
+      "D. raw materials"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "Advertising is the",
+    "options": [
+      "A. production of goods and services",
+      "B. storage of goods and services",
+      "C. transportation of goods and services",
+      "D. promotion of goods and services"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 238,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. provide information",
+      "B. persuade consumers",
+      "C. create brand loyalty",
+      "D. compete with rivals"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "Which of the following is a medium of advertising?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "Marketing involves",
+    "options": [
+      "A. only selling",
+      "B. only advertising",
+      "C. all activities from production to consumption",
+      "D. only transporting"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, place, promotion",
+      "B. product, price, people, process",
+      "C. price, place, promotion, people",
+      "D. product, place, promotion, physical evidence"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "Market research is the",
+    "options": [
+      "A. sale of goods",
+      "B. collection of data about markets",
+      "C. production of goods",
+      "D. storage of goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "Customer services include",
+    "options": [
+      "A. production and distribution",
+      "B. buying and selling",
+      "C. pre-sales and after-sales services",
+      "D. pricing and promotion"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "A contract is a",
+    "options": [
+      "A. promise",
+      "B. legally binding agreement",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 246,
+    "question": "For a contract to be valid, there must be",
+    "options": [
+      "A. offer and acceptance",
+      "B. consideration",
+      "C. intention to create legal relations",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. insurance",
+      "B. banking",
+      "C. transport",
+      "D. sale of goods"
+    ],
+    "answer": "D",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. protect consumers",
+      "B. increase prices",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. a copyright",
+      "C. an invention",
+      "D. a trade secret"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. local to foreign",
+      "D. public to private sector"
+    ],
+    "answer": "D",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Deregulation is the",
+    "options": [
+      "A. removal of government controls",
+      "B. increase in government controls",
+      "C. nationalization of industries",
+      "D. commercialization of industries"
+    ],
+    "answer": "A",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "Business management involves",
+    "options": [
+      "A. producing goods",
+      "B. planning, organizing, staffing, directing, and controlling",
+      "C. selling goods",
+      "D. transporting goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Organizational structure refers to",
+    "options": [
+      "A. the physical layout of an office",
+      "B. the number of employees",
+      "C. the financial resources",
+      "D. the hierarchy of authority"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Delegation of authority is the",
+    "options": [
+      "A. assignment of tasks and power to subordinates",
+      "B. taking back authority",
+      "C. increasing one's own power",
+      "D. reducing responsibility"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Council of West African States",
+      "B. Economic Community of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 256,
+    "question": "The main objective of ECOWAS is to",
+    "options": [
+      "A. promote political conflict",
+      "B. increase trade barriers",
+      "C. promote economic integration",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "The headquarters of ECOWAS is in",
+    "options": [
+      "A. Abuja",
+      "B. Lagos",
+      "C. Accra",
+      "D. Lome"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "The Mano River Union (MRU) includes",
+    "options": [
+      "A. Nigeria, Ghana, and Togo",
+      "B. Guinea, Liberia, and Sierra Leone",
+      "C. Mali, Niger, and Chad",
+      "D. Senegal, Gambia, and Guinea Bissau"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 259,
+    "question": "The European Union (EU) is a",
+    "options": [
+      "A. military alliance",
+      "B. cultural association",
+      "C. political and economic union",
+      "D. sports federation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "The Lake Chad Basin Commission (LCBC) aims to",
+    "options": [
+      "A. promote desertification",
+      "B. increase conflict",
+      "C. reduce trade",
+      "D. manage water resources"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "The Niger Basin Commission (NBC) is concerned with",
+    "options": [
+      "A. the development of the Volta River",
+      "B. the development of the Niger River",
+      "C. the development of the Nile River",
+      "D. the development of the Congo River"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The West African Clearing House (WACH) was established to",
+    "options": [
+      "A. increase currency conversion costs",
+      "B. limit financial transactions",
+      "C. promote trade among West African countries",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "E-commerce involves",
+    "options": [
+      "A. physical retail",
+      "B. traditional banking",
+      "C. manual accounting",
+      "D. buying and selling over the internet"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "Which of the following is an aid to trade?",
+    "options": [
+      "A. Insurance",
+      "B. Agriculture",
+      "C. Manufacturing",
+      "D. Mining"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "The primary purpose of business is to",
+    "options": [
+      "A. provide goods and services",
+      "B. pay taxes",
+      "C. make a profit",
+      "D. employ workers"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "A stakeholder in a business includes",
+    "options": [
+      "A. shareholders",
+      "B. employees",
+      "C. customers",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "The document that contains the rules and regulations of a company is",
+    "options": [
+      "A. Articles of Association",
+      "B. Memorandum of Association",
+      "C. Prospectus",
+      "D. Certificate of Incorporation"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "A public limited company has the abbreviation",
+    "options": [
+      "A. Ltd",
+      "B. PLC",
+      "C. Inc",
+      "D. Corp"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "An advantage of a sole proprietorship is",
+    "options": [
+      "A. unlimited liability",
+      "B. limited liability",
+      "C. continuity",
+      "D. quick decision making"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "A disadvantage of a partnership is",
+    "options": [
+      "A. unlimited liability",
+      "B. shared losses",
+      "C. more capital",
+      "D. specialized skills"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "A cooperative society operates on the principle of",
+    "options": [
+      "A. one share, one vote",
+      "B. one man, one vote",
+      "C. money dictates votes",
+      "D. government control"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Amalgamation is the",
+    "options": [
+      "A. dissolution of a company",
+      "B. formation of a new company",
+      "C. combination of two or more companies",
+      "D. sale of a company"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 273,
+    "question": "A holding company",
+    "options": [
+      "A. owns other companies",
+      "B. is owned by another company",
+      "C. has no subsidiaries",
+      "D. is a small business"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 274,
+    "question": "Liquidation of a company means",
+    "options": [
+      "A. formation",
+      "B. winding up",
+      "C. expansion",
+      "D. merger"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "The main function of a trade association is to",
+    "options": [
+      "A. produce goods",
+      "B. sell goods",
+      "C. protect members' interests",
+      "D. transport goods"
+    ],
+    "answer": "C",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 276,
+    "question": "A chamber of commerce is a",
+    "options": [
+      "A. group of consumers",
+      "B. government agency",
+      "C. trade union",
+      "D. group of businesses"
+    ],
+    "answer": "D",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "Consumerism is the movement to",
+    "options": [
+      "A. increase prices",
+      "B. protect consumer rights",
+      "C. exploit consumers",
+      "D. reduce quality"
+    ],
+    "answer": "B",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 278,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. total assets - total liabilities",
+      "C. current assets - current liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The main source of short-term finance for a business is",
+    "options": [
+      "A. debenture",
+      "B. mortgage",
+      "C. equity",
+      "D. bank overdraft"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "Trade credit is an example of",
+    "options": [
+      "A. short-term finance",
+      "B. long-term finance",
+      "C. equity finance",
+      "D. government grant"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "Profit is",
+    "options": [
+      "A. assets minus liabilities",
+      "B. cash minus bank",
+      "C. revenue minus cost",
+      "D. capital minus drawings"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 282,
+    "question": "Turnover is also known as",
+    "options": [
+      "A. profit",
+      "B. cost of goods sold",
+      "C. net assets",
+      "D. sales revenue"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "The main difference between home trade and foreign trade is",
+    "options": [
+      "A. use of different currencies",
+      "B. type of goods",
+      "C. location of markets",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "A retailer who buys from wholesalers and sells to consumers is",
+    "options": [
+      "A. a wholesaler",
+      "B. a retailer",
+      "C. a manufacturer",
+      "D. an agent"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "A large-scale retail outlet that sells a wide variety of goods under one roof is a",
+    "options": [
+      "A. supermarket",
+      "B. chain store",
+      "C. shopping mall",
+      "D. departmental store"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "Mail order business involves",
+    "options": [
+      "A. selling goods through the post",
+      "B. selling goods in shops",
+      "C. selling goods on the street",
+      "D. selling goods in markets"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "Wholesalers provide all of the following services EXCEPT",
+    "options": [
+      "A. bulk breaking",
+      "B. selling to final consumers",
+      "C. storage",
+      "D. financing retailers"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Channel of distribution refers to",
+    "options": [
+      "A. the route goods take from consumer to producer",
+      "B. the route goods take from wholesaler to retailer",
+      "C. the route goods take from producer to consumer",
+      "D. the route goods take from retailer to consumer"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "A document sent by a seller to a buyer to correct an undercharge is a",
+    "options": [
+      "A. debit note",
+      "B. credit note",
+      "C. invoice",
+      "D. pro forma invoice"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "A document that shows the details of goods sold and the amount due is an",
+    "options": [
+      "A. receipt",
+      "B. invoice",
+      "C. debit note",
+      "D. credit note"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "FOB price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods and loading on ship",
+      "D. cost of goods only"
+    ],
+    "answer": "C",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "CIF price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods only",
+      "D. cost of goods, insurance, and freight"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The main form of payment in international trade is",
+    "options": [
+      "A. cash",
+      "B. letter of credit",
+      "C. cheque",
+      "D. draft"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Money is defined as",
+    "options": [
+      "A. coins and notes only",
+      "B. gold and silver only",
+      "C. anything generally accepted as a medium of exchange",
+      "D. bank deposits only"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 295,
+    "question": "The Central Bank is the",
+    "options": [
+      "A. commercial bank",
+      "B. mortgage bank",
+      "C. microfinance bank",
+      "D. lender of last resort"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "question": "A commercial bank's main function is",
+    "options": [
+      "A. accepting deposits and granting loans",
+      "B. issuing currency",
+      "C. managing government debt",
+      "D. regulating other banks"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "An ATM card is used for",
+    "options": [
+      "A. depositing cash",
+      "B. applying for loans",
+      "C. withdrawing cash",
+      "D. opening accounts"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 298,
+    "question": "A savings account is characterized by",
+    "options": [
+      "A. high interest rate",
+      "B. fixed deposit",
+      "C. no withdrawal",
+      "D. low interest rate"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 299,
+    "question": "A fixed deposit account",
+    "options": [
+      "A. restricts withdrawal for a period",
+      "B. allows immediate withdrawal",
+      "C. has no interest",
+      "D. is for daily expenses"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "Insurance is a contract of",
+    "options": [
+      "A. guarantee",
+      "B. indemnity",
+      "C. wager",
+      "D. gambling"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "The principle of utmost good faith requires",
+    "options": [
+      "A. hiding important information",
+      "B. paying premiums on time",
+      "C. making false claims",
+      "D. full disclosure of all material facts"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 302,
+    "question": "Subrogation means",
+    "options": [
+      "A. the insurer takes over the rights of the insured",
+      "B. the insured takes over the rights of the insurer",
+      "C. the policy is cancelled",
+      "D. the premium is refunded"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 303,
+    "question": "Life insurance is not a contract of indemnity because",
+    "options": [
+      "A. it is a short-term contract",
+      "B. life cannot be valued in money",
+      "C. it covers property",
+      "D. it is compulsory"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 304,
+    "question": "The capital market is for",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. long-term funds",
+      "D. daily funds"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "The stock exchange is a market for",
+    "options": [
+      "A. existing securities",
+      "B. new securities",
+      "C. commodities",
+      "D. foreign exchange"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "A share is",
+    "options": [
+      "A. a unit of debt",
+      "B. a unit of ownership in a company",
+      "C. a loan to a company",
+      "D. a deposit in a bank"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 307,
+    "question": "A debenture is",
+    "options": [
+      "A. a share in a company",
+      "B. a deposit in a bank",
+      "C. a loan to a company",
+      "D. a government bond"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "A bull speculator expects",
+    "options": [
+      "A. prices to fall",
+      "B. prices to remain constant",
+      "C. no change",
+      "D. prices to rise"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "A bear speculator expects",
+    "options": [
+      "A. prices to rise",
+      "B. prices to fall",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "Commodity exchange is a market for",
+    "options": [
+      "A. shares",
+      "B. bonds",
+      "C. agricultural products",
+      "D. foreign currency"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 311,
+    "question": "Transport is important for",
+    "options": [
+      "A. production of goods",
+      "B. storage of goods",
+      "C. advertising of goods",
+      "D. movement of goods and people"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 312,
+    "question": "The fastest mode of transport is",
+    "options": [
+      "A. air",
+      "B. rail",
+      "C. water",
+      "D. road"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "The cheapest mode of transport for bulky goods is",
+    "options": [
+      "A. air",
+      "B. road",
+      "C. water",
+      "D. rail"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 314,
+    "question": "A waybill is a document used in",
+    "options": [
+      "A. rail transport",
+      "B. air transport",
+      "C. sea transport",
+      "D. road transport"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 315,
+    "question": "Tourism is the travel for",
+    "options": [
+      "A. leisure",
+      "B. business",
+      "C. education",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 316,
+    "question": "Communication is the",
+    "options": [
+      "A. transfer of goods",
+      "B. transfer of information",
+      "C. transfer of money",
+      "D. transfer of people"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 317,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. non-verbal communication",
+      "D. modern communication"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "Warehousing is the",
+    "options": [
+      "A. storage of goods",
+      "B. production of goods",
+      "C. sale of goods",
+      "D. purchase of goods"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 319,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. export goods",
+      "B. imported goods until duty is paid",
+      "C. perishable goods",
+      "D. raw materials"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "Advertising is the",
+    "options": [
+      "A. production of goods and services",
+      "B. storage of goods and services",
+      "C. promotion of goods and services",
+      "D. transportation of goods and services"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 321,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. provide information",
+      "B. persuade consumers",
+      "C. create brand loyalty",
+      "D. compete with rivals"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "Which of the following is a medium of advertising?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 323,
+    "question": "Marketing involves",
+    "options": [
+      "A. only selling",
+      "B. only advertising",
+      "C. all activities from production to consumption",
+      "D. only transporting"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 324,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, people, process",
+      "B. price, place, promotion, people",
+      "C. product, place, promotion, physical evidence",
+      "D. product, price, place, promotion"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "Market research is the",
+    "options": [
+      "A. sale of goods",
+      "B. collection of data about markets",
+      "C. production of goods",
+      "D. storage of goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 326,
+    "question": "Customer services include",
+    "options": [
+      "A. production and distribution",
+      "B. buying and selling",
+      "C. pre-sales and after-sales services",
+      "D. pricing and promotion"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "A contract is a",
+    "options": [
+      "A. legally binding agreement",
+      "B. promise",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 329,
+    "question": "For a contract to be valid, there must be",
+    "options": [
+      "A. offer and acceptance",
+      "B. consideration",
+      "C. intention to create legal relations",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. insurance",
+      "B. banking",
+      "C. transport",
+      "D. sale of goods"
+    ],
+    "answer": "D",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. protect consumers",
+      "B. increase prices",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. an invention",
+      "C. a copyright",
+      "D. a trade secret"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 333,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. local to foreign",
+      "D. public to private sector"
+    ],
+    "answer": "D",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "Deregulation is the",
+    "options": [
+      "A. removal of government controls",
+      "B. increase in government controls",
+      "C. nationalization of industries",
+      "D. commercialization of industries"
+    ],
+    "answer": "A",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 335,
+    "question": "Business management involves",
+    "options": [
+      "A. producing goods",
+      "B. planning, organizing, staffing, directing, and controlling",
+      "C. selling goods",
+      "D. transporting goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 336,
+    "question": "Organizational structure refers to",
+    "options": [
+      "A. the physical layout of an office",
+      "B. the number of employees",
+      "C. the hierarchy of authority",
+      "D. the financial resources"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "Delegation of authority is the",
+    "options": [
+      "A. assignment of tasks and power to subordinates",
+      "B. taking back authority",
+      "C. increasing one's own power",
+      "D. reducing responsibility"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Council of West African States",
+      "B. Economic Community of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 339,
+    "question": "The main objective of ECOWAS is to",
+    "options": [
+      "A. promote political conflict",
+      "B. increase trade barriers",
+      "C. promote economic integration",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "The headquarters of ECOWAS is in",
+    "options": [
+      "A. Lagos",
+      "B. Accra",
+      "C. Lome",
+      "D. Abuja"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "The Mano River Union (MRU) includes",
+    "options": [
+      "A. Nigeria, Ghana, and Togo",
+      "B. Guinea, Liberia, and Sierra Leone",
+      "C. Mali, Niger, and Chad",
+      "D. Senegal, Gambia, and Guinea Bissau"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "The European Union (EU) is a",
+    "options": [
+      "A. military alliance",
+      "B. cultural association",
+      "C. political and economic union",
+      "D. sports federation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 343,
+    "question": "The Lake Chad Basin Commission (LCBC) aims to",
+    "options": [
+      "A. promote desertification",
+      "B. increase conflict",
+      "C. reduce trade",
+      "D. manage water resources"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "The Niger Basin Commission (NBC) is concerned with",
+    "options": [
+      "A. the development of the Niger River",
+      "B. the development of the Volta River",
+      "C. the development of the Nile River",
+      "D. the development of the Congo River"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "The West African Clearing House (WACH) was established to",
+    "options": [
+      "A. increase currency conversion costs",
+      "B. limit financial transactions",
+      "C. promote trade among West African countries",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 346,
+    "question": "E-commerce involves",
+    "options": [
+      "A. physical retail",
+      "B. traditional banking",
+      "C. manual accounting",
+      "D. buying and selling over the internet"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 347,
+    "question": "Which of the following is an aid to trade?",
+    "options": [
+      "A. Insurance",
+      "B. Agriculture",
+      "C. Manufacturing",
+      "D. Mining"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "The primary purpose of business is to",
+    "options": [
+      "A. provide goods and services",
+      "B. make a profit",
+      "C. pay taxes",
+      "D. employ workers"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "A stakeholder in a business includes",
+    "options": [
+      "A. shareholders",
+      "B. employees",
+      "C. customers",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "The document that contains the rules and regulations of a company is",
+    "options": [
+      "A. Articles of Association",
+      "B. Memorandum of Association",
+      "C. Prospectus",
+      "D. Certificate of Incorporation"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 351,
+    "question": "A public limited company has the abbreviation",
+    "options": [
+      "A. Ltd",
+      "B. PLC",
+      "C. Inc",
+      "D. Corp"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 352,
+    "question": "An advantage of a sole proprietorship is",
+    "options": [
+      "A. unlimited liability",
+      "B. limited liability",
+      "C. quick decision making",
+      "D. continuity"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "A disadvantage of a partnership is",
+    "options": [
+      "A. unlimited liability",
+      "B. shared losses",
+      "C. more capital",
+      "D. specialized skills"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 354,
+    "question": "A cooperative society operates on the principle of",
+    "options": [
+      "A. one share, one vote",
+      "B. one man, one vote",
+      "C. money dictates votes",
+      "D. government control"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 355,
+    "question": "Amalgamation is the",
+    "options": [
+      "A. dissolution of a company",
+      "B. formation of a new company",
+      "C. combination of two or more companies",
+      "D. sale of a company"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 356,
+    "question": "A holding company",
+    "options": [
+      "A. is owned by another company",
+      "B. has no subsidiaries",
+      "C. is a small business",
+      "D. owns other companies"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "Liquidation of a company means",
+    "options": [
+      "A. formation",
+      "B. winding up",
+      "C. expansion",
+      "D. merger"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "The main function of a trade association is to",
+    "options": [
+      "A. produce goods",
+      "B. sell goods",
+      "C. protect members' interests",
+      "D. transport goods"
+    ],
+    "answer": "C",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 359,
+    "question": "A chamber of commerce is a",
+    "options": [
+      "A. group of consumers",
+      "B. government agency",
+      "C. trade union",
+      "D. group of businesses"
+    ],
+    "answer": "D",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "Consumerism is the movement to",
+    "options": [
+      "A. protect consumer rights",
+      "B. increase prices",
+      "C. exploit consumers",
+      "D. reduce quality"
+    ],
+    "answer": "A",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 361,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. total assets - total liabilities",
+      "C. current assets - current liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "The main source of short-term finance for a business is",
+    "options": [
+      "A. debenture",
+      "B. mortgage",
+      "C. equity",
+      "D. bank overdraft"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "Trade credit is an example of",
+    "options": [
+      "A. short-term finance",
+      "B. long-term finance",
+      "C. equity finance",
+      "D. government grant"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 364,
+    "question": "Profit is",
+    "options": [
+      "A. assets minus liabilities",
+      "B. revenue minus cost",
+      "C. cash minus bank",
+      "D. capital minus drawings"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 365,
+    "question": "Turnover is also known as",
+    "options": [
+      "A. profit",
+      "B. cost of goods sold",
+      "C. net assets",
+      "D. sales revenue"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "The main difference between home trade and foreign trade is",
+    "options": [
+      "A. use of different currencies",
+      "B. type of goods",
+      "C. location of markets",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "A retailer who buys from wholesalers and sells to consumers is",
+    "options": [
+      "A. a wholesaler",
+      "B. a retailer",
+      "C. a manufacturer",
+      "D. an agent"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 368,
+    "question": "A large-scale retail outlet that sells a wide variety of goods under one roof is a",
+    "options": [
+      "A. supermarket",
+      "B. chain store",
+      "C. departmental store",
+      "D. shopping mall"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 369,
+    "question": "Mail order business involves",
+    "options": [
+      "A. selling goods through the post",
+      "B. selling goods in shops",
+      "C. selling goods on the street",
+      "D. selling goods in markets"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "Wholesalers provide all of the following services EXCEPT",
+    "options": [
+      "A. bulk breaking",
+      "B. selling to final consumers",
+      "C. storage",
+      "D. financing retailers"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 371,
+    "question": "Channel of distribution refers to",
+    "options": [
+      "A. the route goods take from consumer to producer",
+      "B. the route goods take from wholesaler to retailer",
+      "C. the route goods take from producer to consumer",
+      "D. the route goods take from retailer to consumer"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "A document sent by a seller to a buyer to correct an undercharge is a",
+    "options": [
+      "A. credit note",
+      "B. invoice",
+      "C. pro forma invoice",
+      "D. debit note"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "A document that shows the details of goods sold and the amount due is an",
+    "options": [
+      "A. receipt",
+      "B. invoice",
+      "C. debit note",
+      "D. credit note"
+    ],
+    "answer": "B",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "FOB price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods and loading on ship",
+      "D. cost of goods only"
+    ],
+    "answer": "C",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 375,
+    "question": "CIF price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods only",
+      "D. cost of goods, insurance, and freight"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 376,
+    "question": "The main form of payment in international trade is",
+    "options": [
+      "A. letter of credit",
+      "B. cash",
+      "C. cheque",
+      "D. draft"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 377,
+    "question": "Money is defined as",
+    "options": [
+      "A. coins and notes only",
+      "B. gold and silver only",
+      "C. anything generally accepted as a medium of exchange",
+      "D. bank deposits only"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 378,
+    "question": "The Central Bank is the",
+    "options": [
+      "A. commercial bank",
+      "B. mortgage bank",
+      "C. microfinance bank",
+      "D. lender of last resort"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "A commercial bank's main function is",
+    "options": [
+      "A. accepting deposits and granting loans",
+      "B. issuing currency",
+      "C. managing government debt",
+      "D. regulating other banks"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 380,
+    "question": "An ATM card is used for",
+    "options": [
+      "A. depositing cash",
+      "B. withdrawing cash",
+      "C. applying for loans",
+      "D. opening accounts"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "A savings account is characterized by",
+    "options": [
+      "A. high interest rate",
+      "B. fixed deposit",
+      "C. no withdrawal",
+      "D. low interest rate"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 382,
+    "question": "A fixed deposit account",
+    "options": [
+      "A. restricts withdrawal for a period",
+      "B. allows immediate withdrawal",
+      "C. has no interest",
+      "D. is for daily expenses"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 383,
+    "question": "Insurance is a contract of",
+    "options": [
+      "A. guarantee",
+      "B. indemnity",
+      "C. wager",
+      "D. gambling"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 384,
+    "question": "The principle of utmost good faith requires",
+    "options": [
+      "A. hiding important information",
+      "B. paying premiums on time",
+      "C. full disclosure of all material facts",
+      "D. making false claims"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "question": "Subrogation means",
+    "options": [
+      "A. the insurer takes over the rights of the insured",
+      "B. the insured takes over the rights of the insurer",
+      "C. the policy is cancelled",
+      "D. the premium is refunded"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 386,
+    "question": "Life insurance is not a contract of indemnity because",
+    "options": [
+      "A. it is a short-term contract",
+      "B. life cannot be valued in money",
+      "C. it covers property",
+      "D. it is compulsory"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 387,
+    "question": "The capital market is for",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. long-term funds",
+      "D. daily funds"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 388,
+    "question": "The stock exchange is a market for",
+    "options": [
+      "A. new securities",
+      "B. commodities",
+      "C. foreign exchange",
+      "D. existing securities"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "A share is",
+    "options": [
+      "A. a unit of debt",
+      "B. a unit of ownership in a company",
+      "C. a loan to a company",
+      "D. a deposit in a bank"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "question": "A debenture is",
+    "options": [
+      "A. a share in a company",
+      "B. a deposit in a bank",
+      "C. a loan to a company",
+      "D. a government bond"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 391,
+    "question": "A bull speculator expects",
+    "options": [
+      "A. prices to fall",
+      "B. prices to remain constant",
+      "C. no change",
+      "D. prices to rise"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "A bear speculator expects",
+    "options": [
+      "A. prices to fall",
+      "B. prices to rise",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 393,
+    "question": "Commodity exchange is a market for",
+    "options": [
+      "A. shares",
+      "B. bonds",
+      "C. agricultural products",
+      "D. foreign currency"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "Transport is important for",
+    "options": [
+      "A. production of goods",
+      "B. storage of goods",
+      "C. advertising of goods",
+      "D. movement of goods and people"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "question": "The fastest mode of transport is",
+    "options": [
+      "A. air",
+      "B. rail",
+      "C. water",
+      "D. road"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "question": "The cheapest mode of transport for bulky goods is",
+    "options": [
+      "A. air",
+      "B. water",
+      "C. road",
+      "D. rail"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "A waybill is a document used in",
+    "options": [
+      "A. rail transport",
+      "B. air transport",
+      "C. sea transport",
+      "D. road transport"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Tourism is the travel for",
+    "options": [
+      "A. leisure",
+      "B. business",
+      "C. education",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "Communication is the",
+    "options": [
+      "A. transfer of goods",
+      "B. transfer of information",
+      "C. transfer of money",
+      "D. transfer of people"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. modern communication",
+      "D. non-verbal communication"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 401,
+    "question": "Warehousing is the",
+    "options": [
+      "A. storage of goods",
+      "B. production of goods",
+      "C. sale of goods",
+      "D. purchase of goods"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. export goods",
+      "B. imported goods until duty is paid",
+      "C. perishable goods",
+      "D. raw materials"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "Advertising is the",
+    "options": [
+      "A. production of goods and services",
+      "B. storage of goods and services",
+      "C. promotion of goods and services",
+      "D. transportation of goods and services"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 404,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. persuade consumers",
+      "B. create brand loyalty",
+      "C. compete with rivals",
+      "D. provide information"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 405,
+    "question": "Which of the following is a medium of advertising?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "B",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "Marketing involves",
+    "options": [
+      "A. only selling",
+      "B. only advertising",
+      "C. all activities from production to consumption",
+      "D. only transporting"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, people, process",
+      "B. price, place, promotion, people",
+      "C. product, place, promotion, physical evidence",
+      "D. product, price, place, promotion"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "Market research is the",
+    "options": [
+      "A. collection of data about markets",
+      "B. sale of goods",
+      "C. production of goods",
+      "D. storage of goods"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "Customer services include",
+    "options": [
+      "A. production and distribution",
+      "B. buying and selling",
+      "C. pre-sales and after-sales services",
+      "D. pricing and promotion"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 410,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "question": "A contract is a",
+    "options": [
+      "A. legally binding agreement",
+      "B. promise",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 412,
+    "question": "For a contract to be valid, there must be",
+    "options": [
+      "A. offer and acceptance",
+      "B. consideration",
+      "C. intention to create legal relations",
+      "D. all of the above"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. insurance",
+      "B. banking",
+      "C. transport",
+      "D. sale of goods"
+    ],
+    "answer": "D",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 414,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. protect consumers",
+      "B. increase prices",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 415,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. an invention",
+      "C. a copyright",
+      "D. a trade secret"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 416,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. public to private sector",
+      "D. local to foreign"
+    ],
+    "answer": "C",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 417,
+    "question": "Deregulation is the",
+    "options": [
+      "A. removal of government controls",
+      "B. increase in government controls",
+      "C. nationalization of industries",
+      "D. commercialization of industries"
+    ],
+    "answer": "A",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "Business management involves",
+    "options": [
+      "A. producing goods",
+      "B. planning, organizing, staffing, directing, and controlling",
+      "C. selling goods",
+      "D. transporting goods"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 419,
+    "question": "Organizational structure refers to",
+    "options": [
+      "A. the physical layout of an office",
+      "B. the number of employees",
+      "C. the hierarchy of authority",
+      "D. the financial resources"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "Delegation of authority is the",
+    "options": [
+      "A. taking back authority",
+      "B. increasing one's own power",
+      "C. reducing responsibility",
+      "D. assignment of tasks and power to subordinates"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Business Management",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "ECOWAS stands for",
+    "options": [
+      "A. Economic Council of West African States",
+      "B. Economic Community of West African States",
+      "C. Economic Cooperation of West African States",
+      "D. Economic Commission of West African States"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 422,
+    "question": "The main objective of ECOWAS is to",
+    "options": [
+      "A. promote political conflict",
+      "B. increase trade barriers",
+      "C. promote economic integration",
+      "D. reduce cooperation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "The headquarters of ECOWAS is in",
+    "options": [
+      "A. Lagos",
+      "B. Accra",
+      "C. Lome",
+      "D. Abuja"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 424,
+    "question": "The Mano River Union (MRU) includes",
+    "options": [
+      "A. Guinea, Liberia, and Sierra Leone",
+      "B. Nigeria, Ghana, and Togo",
+      "C. Mali, Niger, and Chad",
+      "D. Senegal, Gambia, and Guinea Bissau"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 425,
+    "question": "The European Union (EU) is a",
+    "options": [
+      "A. military alliance",
+      "B. cultural association",
+      "C. political and economic union",
+      "D. sports federation"
+    ],
+    "answer": "C",
+    "topic": "Economic Groupings",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 426,
+    "question": "The Lake Chad Basin Commission (LCBC) aims to",
+    "options": [
+      "A. promote desertification",
+      "B. increase conflict",
+      "C. reduce trade",
+      "D. manage water resources"
+    ],
+    "answer": "D",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 427,
+    "question": "The Niger Basin Commission (NBC) is concerned with",
+    "options": [
+      "A. the development of the Niger River",
+      "B. the development of the Volta River",
+      "C. the development of the Nile River",
+      "D. the development of the Congo River"
+    ],
+    "answer": "A",
+    "topic": "Economic Groupings",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "The West African Clearing House (WACH) was established to",
+    "options": [
+      "A. increase currency conversion costs",
+      "B. promote trade among West African countries",
+      "C. limit financial transactions",
+      "D. reduce cooperation"
+    ],
+    "answer": "B",
+    "topic": "Economic Groupings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 429,
+    "question": "E-commerce involves",
+    "options": [
+      "A. physical retail",
+      "B. traditional banking",
+      "C. manual accounting",
+      "D. buying and selling over the internet"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "Which of the following is an aid to trade?",
+    "options": [
+      "A. Insurance",
+      "B. Agriculture",
+      "C. Manufacturing",
+      "D. Mining"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 431,
+    "question": "The primary purpose of business is to",
+    "options": [
+      "A. provide goods and services",
+      "B. make a profit",
+      "C. pay taxes",
+      "D. employ workers"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "A stakeholder in a business includes",
+    "options": [
+      "A. shareholders",
+      "B. employees",
+      "C. customers",
+      "D. all of the above"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Commerce",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 433,
+    "question": "The document that contains the rules and regulations of a company is",
+    "options": [
+      "A. Articles of Association",
+      "B. Memorandum of Association",
+      "C. Prospectus",
+      "D. Certificate of Incorporation"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "A public limited company has the abbreviation",
+    "options": [
+      "A. Ltd",
+      "B. PLC",
+      "C. Inc",
+      "D. Corp"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 435,
+    "question": "An advantage of a sole proprietorship is",
+    "options": [
+      "A. unlimited liability",
+      "B. limited liability",
+      "C. quick decision making",
+      "D. continuity"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "A disadvantage of a partnership is",
+    "options": [
+      "A. shared losses",
+      "B. more capital",
+      "C. specialized skills",
+      "D. unlimited liability"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 437,
+    "question": "A cooperative society operates on the principle of",
+    "options": [
+      "A. one share, one vote",
+      "B. one man, one vote",
+      "C. money dictates votes",
+      "D. government control"
+    ],
+    "answer": "B",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "Amalgamation is the",
+    "options": [
+      "A. dissolution of a company",
+      "B. formation of a new company",
+      "C. combination of two or more companies",
+      "D. sale of a company"
+    ],
+    "answer": "C",
+    "topic": "Business Units",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 439,
+    "question": "A holding company",
+    "options": [
+      "A. is owned by another company",
+      "B. has no subsidiaries",
+      "C. is a small business",
+      "D. owns other companies"
+    ],
+    "answer": "D",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "Liquidation of a company means",
+    "options": [
+      "A. winding up",
+      "B. formation",
+      "C. expansion",
+      "D. merger"
+    ],
+    "answer": "A",
+    "topic": "Business Units",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "The main function of a trade association is to",
+    "options": [
+      "A. produce goods",
+      "B. sell goods",
+      "C. protect members' interests",
+      "D. transport goods"
+    ],
+    "answer": "C",
+    "topic": "Trade Associations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 442,
+    "question": "A chamber of commerce is a",
+    "options": [
+      "A. group of consumers",
+      "B. government agency",
+      "C. trade union",
+      "D. group of businesses"
+    ],
+    "answer": "D",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "Consumerism is the movement to",
+    "options": [
+      "A. protect consumer rights",
+      "B. increase prices",
+      "C. exploit consumers",
+      "D. reduce quality"
+    ],
+    "answer": "A",
+    "topic": "Trade Associations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 444,
+    "question": "Working capital is calculated as",
+    "options": [
+      "A. fixed assets - current liabilities",
+      "B. current assets - current liabilities",
+      "C. total assets - total liabilities",
+      "D. current assets + current liabilities"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "The main source of short-term finance for a business is",
+    "options": [
+      "A. debenture",
+      "B. mortgage",
+      "C. equity",
+      "D. bank overdraft"
+    ],
+    "answer": "D",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "Trade credit is an example of",
+    "options": [
+      "A. short-term finance",
+      "B. long-term finance",
+      "C. equity finance",
+      "D. government grant"
+    ],
+    "answer": "A",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 447,
+    "question": "Profit is",
+    "options": [
+      "A. assets minus liabilities",
+      "B. revenue minus cost",
+      "C. cash minus bank",
+      "D. capital minus drawings"
+    ],
+    "answer": "B",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "Turnover is also known as",
+    "options": [
+      "A. profit",
+      "B. cost of goods sold",
+      "C. sales revenue",
+      "D. net assets"
+    ],
+    "answer": "C",
+    "topic": "Business Capital and Profits",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "The main difference between home trade and foreign trade is",
+    "options": [
+      "A. use of different currencies",
+      "B. type of goods",
+      "C. location of markets",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "A retailer who buys from wholesalers and sells to consumers is",
+    "options": [
+      "A. a wholesaler",
+      "B. a retailer",
+      "C. a manufacturer",
+      "D. an agent"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "A large-scale retail outlet that sells a wide variety of goods under one roof is a",
+    "options": [
+      "A. supermarket",
+      "B. chain store",
+      "C. departmental store",
+      "D. shopping mall"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 452,
+    "question": "Mail order business involves",
+    "options": [
+      "A. selling goods in shops",
+      "B. selling goods on the street",
+      "C. selling goods in markets",
+      "D. selling goods through the post"
+    ],
+    "answer": "D",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "Wholesalers provide all of the following services EXCEPT",
+    "options": [
+      "A. bulk breaking",
+      "B. selling to final consumers",
+      "C. storage",
+      "D. financing retailers"
+    ],
+    "answer": "B",
+    "topic": "Trade",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 454,
+    "question": "Channel of distribution refers to",
+    "options": [
+      "A. the route goods take from consumer to producer",
+      "B. the route goods take from wholesaler to retailer",
+      "C. the route goods take from producer to consumer",
+      "D. the route goods take from retailer to consumer"
+    ],
+    "answer": "C",
+    "topic": "Trade",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 455,
+    "question": "A document sent by a seller to a buyer to correct an undercharge is a",
+    "options": [
+      "A. credit note",
+      "B. invoice",
+      "C. pro forma invoice",
+      "D. debit note"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "A document that shows the details of goods sold and the amount due is an",
+    "options": [
+      "A. invoice",
+      "B. receipt",
+      "C. debit note",
+      "D. credit note"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 457,
+    "question": "FOB price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods and loading on ship",
+      "D. cost of goods only"
+    ],
+    "answer": "C",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 458,
+    "question": "CIF price includes",
+    "options": [
+      "A. cost of goods and freight",
+      "B. cost of goods and insurance",
+      "C. cost of goods only",
+      "D. cost of goods, insurance, and freight"
+    ],
+    "answer": "D",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 459,
+    "question": "The main form of payment in international trade is",
+    "options": [
+      "A. letter of credit",
+      "B. cash",
+      "C. cheque",
+      "D. draft"
+    ],
+    "answer": "A",
+    "topic": "Purchase and Sale of Goods",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 460,
+    "question": "Money is defined as",
+    "options": [
+      "A. coins and notes only",
+      "B. anything generally accepted as a medium of exchange",
+      "C. gold and silver only",
+      "D. bank deposits only"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 461,
+    "question": "The Central Bank is the",
+    "options": [
+      "A. commercial bank",
+      "B. mortgage bank",
+      "C. microfinance bank",
+      "D. lender of last resort"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 462,
+    "question": "A commercial bank's main function is",
+    "options": [
+      "A. accepting deposits and granting loans",
+      "B. issuing currency",
+      "C. managing government debt",
+      "D. regulating other banks"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 463,
+    "question": "An ATM card is used for",
+    "options": [
+      "A. depositing cash",
+      "B. withdrawing cash",
+      "C. applying for loans",
+      "D. opening accounts"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 464,
+    "question": "A savings account is characterized by",
+    "options": [
+      "A. high interest rate",
+      "B. fixed deposit",
+      "C. low interest rate",
+      "D. no withdrawal"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "A fixed deposit account",
+    "options": [
+      "A. restricts withdrawal for a period",
+      "B. allows immediate withdrawal",
+      "C. has no interest",
+      "D. is for daily expenses"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 466,
+    "question": "Insurance is a contract of",
+    "options": [
+      "A. guarantee",
+      "B. indemnity",
+      "C. wager",
+      "D. gambling"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 467,
+    "question": "The principle of utmost good faith requires",
+    "options": [
+      "A. hiding important information",
+      "B. paying premiums on time",
+      "C. full disclosure of all material facts",
+      "D. making false claims"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 468,
+    "question": "Subrogation means",
+    "options": [
+      "A. the insured takes over the rights of the insurer",
+      "B. the policy is cancelled",
+      "C. the premium is refunded",
+      "D. the insurer takes over the rights of the insured"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 469,
+    "question": "Life insurance is not a contract of indemnity because",
+    "options": [
+      "A. it is a short-term contract",
+      "B. life cannot be valued in money",
+      "C. it covers property",
+      "D. it is compulsory"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 470,
+    "question": "The capital market is for",
+    "options": [
+      "A. short-term funds",
+      "B. medium-term funds",
+      "C. long-term funds",
+      "D. daily funds"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "The stock exchange is a market for",
+    "options": [
+      "A. new securities",
+      "B. commodities",
+      "C. foreign exchange",
+      "D. existing securities"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 472,
+    "question": "A share is",
+    "options": [
+      "A. a unit of ownership in a company",
+      "B. a unit of debt",
+      "C. a loan to a company",
+      "D. a deposit in a bank"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 473,
+    "question": "A debenture is",
+    "options": [
+      "A. a share in a company",
+      "B. a deposit in a bank",
+      "C. a loan to a company",
+      "D. a government bond"
+    ],
+    "answer": "C",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 474,
+    "question": "A bull speculator expects",
+    "options": [
+      "A. prices to fall",
+      "B. prices to remain constant",
+      "C. no change",
+      "D. prices to rise"
+    ],
+    "answer": "D",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "A bear speculator expects",
+    "options": [
+      "A. prices to fall",
+      "B. prices to rise",
+      "C. prices to remain constant",
+      "D. no change"
+    ],
+    "answer": "A",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 476,
+    "question": "Commodity exchange is a market for",
+    "options": [
+      "A. shares",
+      "B. agricultural products",
+      "C. bonds",
+      "D. foreign currency"
+    ],
+    "answer": "B",
+    "topic": "Finance and Financial Institutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "Transport is important for",
+    "options": [
+      "A. production of goods",
+      "B. storage of goods",
+      "C. advertising of goods",
+      "D. movement of goods and people"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 478,
+    "question": "The fastest mode of transport is",
+    "options": [
+      "A. air",
+      "B. rail",
+      "C. water",
+      "D. road"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 479,
+    "question": "The cheapest mode of transport for bulky goods is",
+    "options": [
+      "A. air",
+      "B. water",
+      "C. road",
+      "D. rail"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 480,
+    "question": "A waybill is a document used in",
+    "options": [
+      "A. rail transport",
+      "B. air transport",
+      "C. road transport",
+      "D. sea transport"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "Tourism is the travel for",
+    "options": [
+      "A. leisure",
+      "B. business",
+      "C. education",
+      "D. all of the above"
+    ],
+    "answer": "A",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 482,
+    "question": "Communication is the",
+    "options": [
+      "A. transfer of goods",
+      "B. transfer of information",
+      "C. transfer of money",
+      "D. transfer of people"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "A courier service is an example of",
+    "options": [
+      "A. traditional communication",
+      "B. oral communication",
+      "C. modern communication",
+      "D. non-verbal communication"
+    ],
+    "answer": "C",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "Warehousing is the",
+    "options": [
+      "A. production of goods",
+      "B. sale of goods",
+      "C. purchase of goods",
+      "D. storage of goods"
+    ],
+    "answer": "D",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 485,
+    "question": "A bonded warehouse is used to store",
+    "options": [
+      "A. export goods",
+      "B. imported goods until duty is paid",
+      "C. perishable goods",
+      "D. raw materials"
+    ],
+    "answer": "B",
+    "topic": "Transport, Tourism, Communication and Warehousing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 486,
+    "question": "Advertising is the",
+    "options": [
+      "A. production of goods and services",
+      "B. storage of goods and services",
+      "C. promotion of goods and services",
+      "D. transportation of goods and services"
+    ],
+    "answer": "C",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "Informative advertising is used to",
+    "options": [
+      "A. persuade consumers",
+      "B. create brand loyalty",
+      "C. compete with rivals",
+      "D. provide information"
+    ],
+    "answer": "D",
+    "topic": "Advertising",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "Which of the following is a medium of advertising?",
+    "options": [
+      "A. Television",
+      "B. Radio",
+      "C. Newspaper",
+      "D. All of the above"
+    ],
+    "answer": "A",
+    "topic": "Advertising",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 489,
+    "question": "Marketing involves",
+    "options": [
+      "A. only selling",
+      "B. only advertising",
+      "C. all activities from production to consumption",
+      "D. only transporting"
+    ],
+    "answer": "C",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "The marketing mix consists of",
+    "options": [
+      "A. product, price, people, process",
+      "B. price, place, promotion, people",
+      "C. product, place, promotion, physical evidence",
+      "D. product, price, place, promotion"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "Market research is the",
+    "options": [
+      "A. collection of data about markets",
+      "B. sale of goods",
+      "C. production of goods",
+      "D. storage of goods"
+    ],
+    "answer": "A",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "Customer services include",
+    "options": [
+      "A. production and distribution",
+      "B. pre-sales and after-sales services",
+      "C. buying and selling",
+      "D. pricing and promotion"
+    ],
+    "answer": "B",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "Sales promotion includes",
+    "options": [
+      "A. trade fairs",
+      "B. free gifts",
+      "C. demonstrations",
+      "D. all of the above"
+    ],
+    "answer": "D",
+    "topic": "Introduction to Marketing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "A contract is a",
+    "options": [
+      "A. legally binding agreement",
+      "B. promise",
+      "C. document",
+      "D. trade"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 495,
+    "question": "For a contract to be valid, there must be",
+    "options": [
+      "A. offer and acceptance",
+      "B. consideration",
+      "C. intention to create legal relations",
+      "D. all of the above"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "The Sale of Goods Act governs",
+    "options": [
+      "A. insurance",
+      "B. banking",
+      "C. sale of goods",
+      "D. transport"
+    ],
+    "answer": "C",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 497,
+    "question": "Consumer protection laws aim to",
+    "options": [
+      "A. protect consumers",
+      "B. increase prices",
+      "C. reduce quality",
+      "D. limit competition"
+    ],
+    "answer": "A",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "A patent protects",
+    "options": [
+      "A. a trademark",
+      "B. an invention",
+      "C. a copyright",
+      "D. a trade secret"
+    ],
+    "answer": "B",
+    "topic": "Legal Aspect of Business",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 499,
+    "question": "Privatisation is the transfer of ownership from",
+    "options": [
+      "A. private to public sector",
+      "B. foreign to local",
+      "C. public to private sector",
+      "D. local to foreign"
+    ],
+    "answer": "C",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "Deregulation is the",
+    "options": [
+      "A. increase in government controls",
+      "B. nationalization of industries",
+      "C. commercialization of industries",
+      "D. removal of government controls"
+    ],
+    "answer": "D",
+    "topic": "Government Policies",
+    "difficulty": "Medium"
+  }
+]

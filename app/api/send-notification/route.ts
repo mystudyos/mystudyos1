@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server"
-import { getAdminMessaging, getAdminFirestore } from "@/lib/firebase-admin"
+import { FieldValue, type Firestore } from "firebase-admin/firestore"
+import type { Messaging } from "firebase-admin/messaging"
+import { getAdminAuth, getAdminMessaging, getAdminFirestore } from "@/lib/firebase-admin"
+import { ADMIN_EMAIL } from "@/lib/constants"
 
 interface NotificationPayload {
   type: "dm" | "room"
-  senderUid: string
   senderName: string
   text: string
   chatId?: string
@@ -11,10 +13,160 @@ interface NotificationPayload {
   roomName?: string
 }
 
+interface TokenTarget {
+  uid: string
+  token: string
+}
+
+const INVALID_TOKEN_CODES = new Set([
+  "messaging/registration-token-not-registered",
+  "messaging/invalid-registration-token",
+])
+
+function extractUserTokens(data: Record<string, any> | undefined): string[] {
+  if (!data) return []
+  const raw = [
+    typeof data.fcmToken === "string" ? data.fcmToken : null,
+    ...(Array.isArray(data.fcmTokens) ? data.fcmTokens : []),
+  ]
+  return [...new Set(raw.filter((t): t is string => typeof t === "string" && t.length > 0))]
+}
+
+function buildChatUrl(chatId?: string): string {
+  return chatId ? `/?tab=chat&chatId=${encodeURIComponent(chatId)}` : "/?tab=chat"
+}
+
+async function pruneDeadTokens(
+  firestore: Firestore,
+  deadByUid: Map<string, string[]>
+): Promise<void> {
+  if (deadByUid.size === 0) return
+
+  await Promise.all(
+    Array.from(deadByUid.entries()).map(async ([uid, deadTokens]) => {
+      try {
+        const userRef = firestore.collection("users").doc(uid)
+        const snap = await userRef.get()
+        if (!snap.exists) return
+        const data = snap.data() || {}
+        const updatePayload: Record<string, any> = {
+          fcmTokens: FieldValue.arrayRemove(...deadTokens),
+        }
+        if (typeof data.fcmToken === "string" && deadTokens.includes(data.fcmToken)) {
+          const remaining = extractUserTokens(data).filter((t) => !deadTokens.includes(t))
+          updatePayload.fcmToken = remaining[0] ?? FieldValue.delete()
+        }
+        await userRef.update(updatePayload)
+      } catch (err) {
+        console.warn("[FCM] Failed to prune stale tokens for user:", uid, err)
+      }
+    })
+  )
+}
+
+async function dispatchBatchedMulticast(
+  messaging: Messaging,
+  firestore: Firestore,
+  targets: TokenTarget[],
+  meta: {
+    title: string
+    body: string
+    url: string
+    tag: string
+    type: "dm" | "room"
+    senderUid: string
+    chatId?: string
+  }
+): Promise<{ successCount: number; failureCount: number }> {
+  if (targets.length === 0) {
+    return { successCount: 0, failureCount: 0 }
+  }
+
+  let successCount = 0
+  let failureCount = 0
+  const deadByUid = new Map<string, string[]>()
+
+  // FCM sendEachForMulticast supports up to 500 tokens per batch
+  for (let i = 0; i < targets.length; i += 500) {
+    const batch = targets.slice(i, i + 500)
+    const response = await messaging.sendEachForMulticast({
+      tokens: batch.map((t) => t.token),
+      data: {
+        title: meta.title,
+        body: meta.body,
+        url: meta.url,
+        tag: meta.tag,
+        type: meta.type,
+        senderUid: meta.senderUid,
+        chatId: meta.chatId || "",
+        icon: "/icon-192-removebg-preview.png",
+      },
+      webpush: {
+        headers: {
+          Urgency: "high",
+        },
+        fcmOptions: {
+          link: meta.url,
+        },
+      },
+    })
+
+    successCount += response.successCount
+    failureCount += response.failureCount
+
+    response.responses.forEach((resp, idx) => {
+      if (!resp.success && resp.error?.code && INVALID_TOKEN_CODES.has(resp.error.code)) {
+        const target = batch[idx]
+        const existing = deadByUid.get(target.uid) || []
+        existing.push(target.token)
+        deadByUid.set(target.uid, existing)
+      }
+    })
+  }
+
+  if (deadByUid.size > 0) {
+    await pruneDeadTokens(firestore, deadByUid)
+  }
+
+  return { successCount, failureCount }
+}
+
 export async function POST(req: NextRequest) {
   try {
+    const adminAuth = getAdminAuth()
+    const messaging = getAdminMessaging()
+    const firestore = getAdminFirestore()
+
+    if (!adminAuth || !messaging || !firestore) {
+      console.warn("[FCM API] Firebase Admin not fully configured. Notification skipped.")
+      return NextResponse.json(
+        {
+          success: false,
+          message: "Firebase Admin is not configured with service account credentials.",
+        },
+        { status: 200 }
+      )
+    }
+
+    // Verify caller identity via Firebase Auth ID token
+    const authHeader = req.headers.get("authorization") || ""
+    const idToken = authHeader.startsWith("Bearer ") ? authHeader.slice(7).trim() : ""
+    if (!idToken) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 401 })
+    }
+
+    let authenticatedUid: string
+    let authenticatedEmail: string | undefined
+    try {
+      const decoded = await adminAuth.verifyIdToken(idToken)
+      authenticatedUid = decoded.uid
+      authenticatedEmail = decoded.email
+    } catch {
+      return NextResponse.json({ error: "Invalid authentication token" }, { status: 401 })
+    }
+
     const body: NotificationPayload = await req.json()
-    const { type, senderUid, senderName, text, chatId, recipientUid, roomName } = body
+    const { type, senderName, text, chatId, recipientUid, roomName } = body
 
     if (!type || !senderName || !text) {
       return NextResponse.json(
@@ -23,148 +175,120 @@ export async function POST(req: NextRequest) {
       )
     }
 
-    const messaging = getAdminMessaging()
-    const firestore = getAdminFirestore()
-
-    if (!messaging || !firestore) {
-      console.warn("[FCM API] Firebase Admin not fully configured. Notification skipped.")
-      return NextResponse.json(
-        { 
-          success: false, 
-          message: "Firebase Admin is not configured with service account credentials." 
-        },
-        { status: 200 }
-      )
-    }
-
     const previewText = text.length > 120 ? text.slice(0, 117) + "..." : text
 
     // ─── 1. Private DM Notification ───
     if (type === "dm") {
-      if (!recipientUid) {
-        return NextResponse.json({ error: "recipientUid is required for DMs" }, { status: 400 })
+      if (!chatId || !recipientUid) {
+        return NextResponse.json(
+          { error: "chatId and recipientUid are required for DMs" },
+          { status: 400 }
+        )
       }
 
-      // Fetch recipient's document to get their FCM token
+      // Authorize sender as an active participant of this DM thread
+      const chatSnap = await firestore.collection("directChats").doc(chatId).get()
+      if (!chatSnap.exists) {
+        return NextResponse.json({ error: "Chat not found" }, { status: 404 })
+      }
+      const chatData = chatSnap.data() || {}
+      const participants: string[] = Array.isArray(chatData.users) ? chatData.users : []
+      if (
+        !participants.includes(authenticatedUid) ||
+        !participants.includes(recipientUid) ||
+        recipientUid === authenticatedUid
+      ) {
+        return NextResponse.json({ error: "Forbidden" }, { status: 403 })
+      }
+      if (chatData.blockedBy) {
+        return NextResponse.json({ success: false, message: "Chat is blocked." })
+      }
+
       const recipientDoc = await firestore.collection("users").doc(recipientUid).get()
       if (!recipientDoc.exists) {
         return NextResponse.json({ success: false, message: "Recipient user not found" })
       }
 
       const recipientData = recipientDoc.data()
-      const fcmToken = recipientData?.fcmToken as string | undefined
-      const fcmTokens = (recipientData?.fcmTokens as string[] | undefined) || []
-
-      const tokensToSend = [...new Set([fcmToken, ...fcmTokens].filter(Boolean) as string[])]
-
-      if (tokensToSend.length === 0) {
+      const tokens = extractUserTokens(recipientData)
+      if (tokens.length === 0) {
         return NextResponse.json({
           success: false,
           message: "Recipient has no registered FCM push token.",
         })
       }
 
-      const targetUrl = `/?tab=chat&chatId=${chatId || ""}`
-
-      const response = await messaging.sendEachForMulticast({
-        tokens: tokensToSend,
-        notification: {
+      const targetUrl = buildChatUrl(chatId)
+      const result = await dispatchBatchedMulticast(
+        messaging,
+        firestore,
+        tokens.map((token) => ({ uid: recipientUid, token })),
+        {
           title: senderName || "New Direct Message",
           body: previewText,
-        },
-        data: {
           url: targetUrl,
-          chatId: chatId || "",
+          tag: `dm-${chatId}`,
           type: "dm",
-          senderUid: senderUid || "",
-        },
-        webpush: {
-          headers: {
-            Urgency: "high",
-          },
-          notification: {
-            icon: "/icon-192-removebg-preview.png",
-            badge: "/icon-192-removebg-preview.png",
-            tag: `dm-${chatId || recipientUid}`,
-            renotify: true,
-            requireInteraction: true,
-          },
-          fcmOptions: {
-            link: targetUrl,
-          },
-        },
-      })
+          senderUid: authenticatedUid,
+          chatId,
+        }
+      )
 
       return NextResponse.json({
         success: true,
-        successCount: response.successCount,
-        failureCount: response.failureCount,
+        ...result,
       })
     }
 
-    // ─── 2. Global Chat / Room Notification ───
+    // ─── 2. Global Chat / Note Room Notification (Admin-only) ───
     if (type === "room") {
-      const roomLabel = roomName || "Global Chat"
-      const targetUrl = "/?tab=chat"
+      if (authenticatedEmail !== ADMIN_EMAIL) {
+        return NextResponse.json(
+          { error: "Only admins can send Note Room notifications" },
+          { status: 403 }
+        )
+      }
 
-      // Fetch active users who have an fcmToken registered (excluding the sender)
+      const roomLabel = roomName || "Note Room"
       const usersSnap = await firestore
         .collection("users")
         .where("fcmToken", "!=", null)
-        .limit(200)
         .get()
 
-      const tokens: string[] = []
-      usersSnap.forEach((doc: any) => {
-        if (doc.id !== senderUid) {
-          const data = doc.data()
-          if (data.fcmToken) tokens.push(data.fcmToken)
-          if (Array.isArray(data.fcmTokens)) {
-            data.fcmTokens.forEach((t: string) => {
-              if (t && !tokens.includes(t)) tokens.push(t)
-            })
+      const targets: TokenTarget[] = []
+      const seenTokens = new Set<string>()
+
+      usersSnap.forEach((userDoc) => {
+        if (userDoc.id === authenticatedUid) return
+        const data = userDoc.data()
+        for (const token of extractUserTokens(data)) {
+          if (!seenTokens.has(token)) {
+            seenTokens.add(token)
+            targets.push({ uid: userDoc.id, token })
           }
         }
       })
 
-      if (tokens.length === 0) {
+      if (targets.length === 0) {
         return NextResponse.json({
           success: true,
           message: "No registered recipient tokens for room broadcast.",
         })
       }
 
-      const response = await messaging.sendEachForMulticast({
-        tokens: tokens.slice(0, 500), // FCM multicast batch limit
-        notification: {
-          title: `${senderName} (${roomLabel})`,
-          body: previewText,
-        },
-        data: {
-          url: targetUrl,
-          type: "room",
-          senderUid: senderUid || "",
-        },
-        webpush: {
-          headers: {
-            Urgency: "high",
-          },
-          notification: {
-            icon: "/icon-192-removebg-preview.png",
-            badge: "/icon-192-removebg-preview.png",
-            tag: "global-chat",
-            renotify: true,
-          },
-          fcmOptions: {
-            link: targetUrl,
-          },
-        },
+      const res = await dispatchBatchedMulticast(messaging, firestore, targets, {
+        title: `${senderName} (${roomLabel})`,
+        body: previewText,
+        url: buildChatUrl(),
+        tag: "global-chat",
+        type: "room",
+        senderUid: authenticatedUid,
       })
 
       return NextResponse.json({
         success: true,
-        successCount: response.successCount,
-        failureCount: response.failureCount,
+        successCount: res.successCount,
+        failureCount: res.failureCount,
       })
     }
 

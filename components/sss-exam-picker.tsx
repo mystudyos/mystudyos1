@@ -28,9 +28,11 @@ export function SSSExamPicker({
 }: SSSExamPickerProps) {
   const subject = getSSSSubjectByKey(subjectKey)
   const visibleExams = SSS_EXAM_OPTIONS.filter((e) => e.enabled)
-  const [selectedExam, setSelectedExam] = useState<SSSExamType>(
-    visibleExams[0]?.type || "neco"
-  )
+  const firstAvailableExam =
+    visibleExams.find((e) => isSSSPaperAvailable(subjectKey, e.type, "objective"))?.type ||
+    visibleExams[0]?.type ||
+    "neco"
+  const [selectedExam, setSelectedExam] = useState<SSSExamType>(firstAvailableExam)
   const [selectedPaper, setSelectedPaper] = useState<SSSPaperType>("objective")
   const [notAvailablePaper, setNotAvailablePaper] = useState<string | null>(null)
 
@@ -107,6 +109,7 @@ export function SSSExamPicker({
           <div className="space-y-3">
             {visibleExams.map((exam) => {
               const isSelected = selectedExam === exam.type
+              const examHasObjective = isSSSPaperAvailable(subjectKey, exam.type, "objective")
               return (
                 <button
                   key={exam.type}
@@ -131,6 +134,11 @@ export function SSSExamPicker({
                       <span className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-primary/15 text-primary">
                         {exam.badge}
                       </span>
+                      {!examHasObjective && (
+                        <span className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-500">
+                          Soon
+                        </span>
+                      )}
                     </div>
                     <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
                       {exam.description}

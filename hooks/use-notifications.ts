@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react"
 import { type User as FirebaseUser } from "firebase/auth"
 import {
   getFCMServiceWorker,
-  syncLocalFCMTokenToUser,
+  refreshFCMTokenIfGranted,
   listenForegroundMessages,
 } from "@/lib/fcm-client"
 
@@ -24,19 +24,20 @@ export function useNotifications({ user, onNavigateToChat }: UseNotificationsPro
   useEffect(() => {
     if (typeof window === "undefined") return
 
-    // 1. Register Firebase messaging service worker on app startup
+    // 1. Register unified Firebase messaging + PWA service worker
     getFCMServiceWorker()
 
-    // 2. Sync token once per authenticated user UID (never in a loop)
+    // 2. Refresh/sync live FCM token once per authenticated user UID
     if (user?.uid && syncedUidRef.current !== user.uid) {
       syncedUidRef.current = user.uid
-      syncLocalFCMTokenToUser(user.uid)
+      refreshFCMTokenIfGranted(user.uid)
+    } else if (!user?.uid) {
+      syncedUidRef.current = null
     }
 
     // 3. Listen for postMessage from firebase-messaging-sw.js on notification click
     const handleServiceWorkerMessage = (event: MessageEvent) => {
       if (event.data && event.data.type === "FCM_NAVIGATE") {
-        console.log("[FCM] Received navigation event from service worker:", event.data)
         onNavigateRef.current?.(event.data.chatId || null)
       }
     }
@@ -45,45 +46,59 @@ export function useNotifications({ user, onNavigateToChat }: UseNotificationsPro
       navigator.serviceWorker.addEventListener("message", handleServiceWorkerMessage)
     }
 
-    // 4. Check if the app was opened with ?tab=chat&chatId=... in URL
+    // 4. Handle cold launches opened via ?tab=chat&chatId=...
     try {
       const urlParams = new URLSearchParams(window.location.search)
       const tabParam = urlParams.get("tab")
       const chatIdParam = urlParams.get("chatId")
 
-      if (tabParam === "chat" && onNavigateToChat) {
-        onNavigateToChat(chatIdParam || null)
+      if (tabParam === "chat" && onNavigateRef.current) {
+        onNavigateRef.current(chatIdParam || null)
       }
-    } catch (e) {
+    } catch {
       // Ignore URL parsing errors
     }
 
-    // 5. Listen for foreground push messages
-    const unsubscribeForeground = listenForegroundMessages((payload) => {
-      const title = payload.notification?.title || payload.data?.title || "StudyOS"
-      const body = payload.notification?.body || payload.data?.body || "New message received"
+    // 5. Display foreground push notifications via Service Worker so Android/Desktop/iOS
+    //    PWAs work consistently and play the user's native default device sound.
+    const unsubscribeForeground = listenForegroundMessages(async (payload) => {
+      if (!("Notification" in window) || Notification.permission !== "granted") {
+        return
+      }
 
-      // Play soft notification sound if audio is available
+      const title = payload.data?.title || payload.notification?.title || "StudyOS"
+      const body = payload.data?.body || payload.notification?.body || "New message received"
+      const chatId = payload.data?.chatId || null
+      const tag = payload.data?.tag || (chatId ? `dm-${chatId}` : "global-chat")
+      const url = payload.data?.url || (chatId ? `/?tab=chat&chatId=${chatId}` : "/?tab=chat")
+
       try {
-        const audio = new Audio("/notification.mp3")
-        audio.play().catch(() => {})
-      } catch {}
-
-      // If user has granted notifications, show browser notification even in foreground
-      if ("Notification" in window && Notification.permission === "granted") {
-        try {
-          const notification = new Notification(title, {
+        const reg = await getFCMServiceWorker()
+        if (reg && "showNotification" in reg) {
+          await reg.showNotification(title, {
             body,
             icon: "/icon-192-removebg-preview.png",
-            tag: payload.data?.chatId ? `dm-${payload.data.chatId}` : "global-chat",
+            badge: "/icon-192-removebg-preview.png",
+            tag,
+            silent: false,
+            data: { url, chatId, type: payload.data?.type || "chat" },
           })
-          notification.onclick = () => {
-            window.focus()
-            onNavigateRef.current?.(payload.data?.chatId || null)
-          }
-        } catch (err) {
-          console.warn("[FCM] Foreground notification display error:", err)
+          return
         }
+
+        // Desktop fallback when no Service Worker registration is active
+        const notification = new Notification(title, {
+          body,
+          icon: "/icon-192-removebg-preview.png",
+          tag,
+          silent: false,
+        })
+        notification.onclick = () => {
+          window.focus()
+          onNavigateRef.current?.(chatId)
+        }
+      } catch (err) {
+        console.warn("Foreground notification display error:", err)
       }
     })
 

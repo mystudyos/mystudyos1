@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best defines government as an institution of the state?",
+    "options": ["A. The process of making laws", "B. The machinery for exercising state power", "C. The study of political ideas", "D. The art of political negotiation"],
+    "answer": "B",
+    "topic": "Meaning and Scope of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "A key feature of a state is that it must possess a defined territory, a government, sovereignty and __.",
+    "options": ["A. a written constitution", "B. a standing army", "C. a permanent population", "D. a multi-party system"],
+    "answer": "C",
+    "topic": "Meaning and Scope of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "The academic study of government is important because it helps citizens to __.",
+    "options": ["A. win elections easily", "B. understand political processes", "C. avoid paying taxes legally", "D. join the civil service quickly"],
+    "answer": "B",
+    "topic": "Meaning and Scope of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The structure of a state refers to the __.",
+    "options": ["A. physical buildings of government", "B. arrangement of its political institutions", "C. number of political parties", "D. size of its armed forces"],
+    "answer": "B",
+    "topic": "Meaning and Scope of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a function of government?",
+    "options": ["A. Providing security for citizens", "B. Organizing private parties", "C. Running religious crusades", "D. Managing family finances"],
+    "answer": "A",
+    "topic": "Meaning and Scope of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "Sovereignty in a state implies the __.",
+    "options": ["A. ability to borrow foreign loans", "B. supreme power to make and enforce laws", "C. possession of natural resources", "D. membership of international bodies"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Legitimacy of a government is best described as the __.",
+    "options": ["A. use of force to maintain order", "B. acceptance of its authority by the people", "C. control of the mass media", "D. possession of a written constitution"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "The principle of rule of law includes the idea that __.",
+    "options": ["A. the ruler is above the law", "B. laws should be applied retrospectively", "C. no one is above the law", "D. punishment must be arbitrary"],
+    "answer": "C",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "A system of government in which the means of production are owned and controlled by private individuals is called __.",
+    "options": ["A. socialism", "B. communism", "C. capitalism", "D. feudalism"],
+    "answer": "C",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "The separation of powers is a principle that divides government functions among the __.",
+    "options": ["A. executive, legislature and judiciary", "B. president, governors and senators", "C. police, army and customs", "D. federal, state and local councils"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "A political culture that is characterized by citizens' active participation in politics is called __.",
+    "options": ["A. parochial", "B. subject", "C. participant", "D. authoritarian"],
+    "answer": "C",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 12,
+    "question": "An oligarchy is a form of government in which power is held by __.",
+    "options": ["A. a single monarch", "B. a small group of people", "C. all adult citizens", "D. religious leaders only"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "The process by which individuals learn the political norms and values of their society is called political __.",
+    "options": ["A. socialization", "B. mobilization", "C. recruitment", "D. communication"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "A constitution can be defined as __.",
+    "options": ["A. a document containing all laws of a country", "B. a body of rules governing a state", "C. a speech by the head of state", "D. a list of citizens' duties"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "A constitution that is difficult to amend is said to be __.",
+    "options": ["A. flexible", "B. rigid", "C. unwritten", "D. federal"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a source of a country's constitution?",
+    "options": ["A. Judicial precedents", "B. Newspaper editorials", "C. Public opinion polls", "D. Political party manifestos"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 17,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. ensure the ruling party remains in power", "B. limit the powers of government", "C. guarantee employment for all citizens", "D. provide free education"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "An unwritten constitution is one that is __.",
+    "options": ["A. not documented in a single document", "B. never written down at all", "C. only found in traditional societies", "D. always flexible and easy to amend"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "The arm of government responsible for making laws is the __.",
+    "options": ["A. executive", "B. judiciary", "C. legislature", "D. civil service"],
+    "answer": "C",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "Judicial independence means that the judiciary should be __.",
+    "options": ["A. controlled by the executive", "B. free from external influence", "C. subject to legislative directives", "D. accountable to political parties"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "question": "The main function of the executive arm of government is to __.",
+    "options": ["A. interpret laws", "B. make laws", "C. implement laws", "D. amend laws"],
+    "answer": "C",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "A limitation on the powers of the legislature is that it cannot __.",
+    "options": ["A. make laws for the whole country", "B. approve the national budget", "C. overrule a Supreme Court judgment", "D. impeach the president"],
+    "answer": "C",
+    "topic": "Organs of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 23,
+    "question": "A system of government in which power is shared between a central government and component units is called __.",
+    "options": ["A. unitary", "B. federal", "C. confederal", "D. monarchical"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "In a parliamentary system of government, the head of government is the __.",
+    "options": ["A. president", "B. monarch", "C. prime minister", "D. chief justice"],
+    "answer": "C",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "question": "A major feature of a unitary system of government is that __.",
+    "options": ["A. power is concentrated at the centre", "B. component units have residual powers", "C. there is always a written constitution", "D. the judiciary is separate from the executive"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "A republican form of government is one in which the head of state is __.",
+    "options": ["A. hereditary", "B. elected", "C. appointed by the military", "D. selected by traditional rulers"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "A disadvantage of a confederal system of government is that it __.",
+    "options": ["A. concentrates too much power at the centre", "B. makes the central government too strong", "C. creates a weak central authority", "D. abolishes the component states"],
+    "answer": "C",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 28,
+    "question": "Citizenship by naturalization is acquired through __.",
+    "options": ["A. birth within a country", "B. descent from citizen parents", "C. a legal process of application", "D. marriage to a citizen only"],
+    "answer": "C",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "A fundamental duty of a citizen is to __.",
+    "options": ["A. criticize the government always", "B. pay taxes promptly", "C. join a political party", "D. attend religious services"],
+    "answer": "B",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "The rights of citizens can be safeguarded through __.",
+    "options": ["A. the suppression of the press", "B. an independent judiciary", "C. the abolition of elections", "D. military rule"],
+    "answer": "B",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "A political party can be defined as an organized group that seeks to __.",
+    "options": ["A. influence public policy only", "B. win and control governmental power", "C. provide social services to members", "D. educate citizens on their rights"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "question": "A one-party system is often criticized because it __.",
+    "options": ["A. encourages too much opposition", "B. limits political choice for citizens", "C. makes elections too competitive", "D. creates a weak executive"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The main source of finance for political parties is usually __.",
+    "options": ["A. membership dues and donations", "B. government grants only", "C. foreign loans", "D. profits from business ventures"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "A party system in which two major parties dominate electoral politics is called a __.",
+    "options": ["A. multi-party system", "B. one-party system", "C. two-party system", "D. dominant-party system"],
+    "answer": "C",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "A pressure group differs from a political party because it __.",
+    "options": ["A. seeks to win elections", "B. does not seek to govern directly", "C. has a written constitution", "D. recruits members nationwide"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Public opinion can be measured through __.",
+    "options": ["A. military parades", "B. opinion polls and surveys", "C. court judgments", "D. civil service promotions"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "An important role of the mass media in a democracy is to __.",
+    "options": ["A. campaign for the ruling party", "B. inform and educate the public", "C. suppress opposition views", "D. appoint government officials"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "An electoral system based on 'first-past-the-post' is also known as __.",
+    "options": ["A. proportional representation", "B. single-member plurality", "C. party-list system", "D. mixed-member system"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Universal adult suffrage means the right to vote is given to __.",
+    "options": ["A. property owners only", "B. all adult citizens", "C. literate citizens only", "D. men only"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "The body responsible for organizing elections in a country is the __.",
+    "options": ["A. judiciary", "B. electoral commission", "C. parliament", "D. ministry of finance"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "A major problem facing electoral management bodies in West Africa is __.",
+    "options": ["A. excessive funding", "B. lack of qualified personnel", "C. political interference", "D. too few voters"],
+    "answer": "C",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The civil service is characterized by __.",
+    "options": ["A. political neutrality and permanence", "B. frequent changes with governments", "C. open membership of political parties", "D. partisan decision-making"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "A public corporation is established mainly to __.",
+    "options": ["A. generate profit for private shareholders", "B. provide essential services to the public", "C. fund political campaigns", "D. regulate the judiciary"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "question": "Local governments are important because they __.",
+    "options": ["A. make laws for the whole country", "B. bring government closer to the people", "C. control the armed forces", "D. conduct foreign policy"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The privatization of public corporations is intended to __.",
+    "options": ["A. increase government control", "B. improve efficiency through private ownership", "C. create more civil service jobs", "D. reduce the role of the private sector"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "In the pre-colonial Hausa/Fulani political system, the head of the emirate was the __.",
+    "options": ["A. Oba", "B. Emir", "C. Obi", "D. Alaafin"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "The pre-colonial Igbo political system is best described as __.",
+    "options": ["A. highly centralized", "B. a constitutional monarchy", "C. largely acephalous and republican", "D. a theocratic state"],
+    "answer": "C",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "In the pre-colonial Yoruba political system, the Oyo Empire was headed by the __.",
+    "options": ["A. Oba", "B. Emir", "C. Alaafin", "D. Obi"],
+    "answer": "C",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "The pre-colonial Akan political system was characterized by a __.",
+    "options": ["A. centralized monarchy headed by a king", "B. system of independent village republics", "C. confederation of equal states", "D. military dictatorship"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The Talensi people of pre-colonial Ghana were organized into __.",
+    "options": ["A. a large centralized kingdom", "B. clan-based acephalous communities", "C. a federation of city-states", "D. a theocratic empire"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 51,
+    "question": "Among the pre-colonial Mende of Sierra Leone, the chief was known as the __.",
+    "options": ["A. Obai", "B. Ndomahei", "C. Tongraan", "D. Emir"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 52,
+    "question": "The pre-colonial Wolof states of The Gambia were ruled by a __.",
+    "options": ["A. council of elders", "B. paramount chief", "C. king with a centralised administration", "D. military commander"],
+    "answer": "C",
+    "topic": "Pre-Colonial Political Systems - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "The pre-colonial Kru people of Liberia are known to have been organized into __.",
+    "options": ["A. a centralized kingdom", "B. decentralized autonomous communities", "C. a confederation of chiefdoms", "D. an Islamic emirate"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 54,
+    "question": "The British policy of Indirect Rule was first formally articulated by __.",
+    "options": ["A. Lord Lugard", "B. Sir Hugh Clifford", "C. Sir Arthur Richards", "D. Sir John Macpherson"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "The French policy of 'Assimilation' aimed to __.",
+    "options": ["A. preserve African traditional institutions", "B. make Africans French citizens", "C. exclude Africans from administration", "D. create separate development paths"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "One advantage of colonial rule in West Africa was the __.",
+    "options": ["A. complete destruction of local cultures", "B. introduction of modern infrastructure", "C. total exclusion of Africans from trade", "D. abolition of all traditional authorities"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 57,
+    "question": "Nationalism in West Africa was primarily a movement against __.",
+    "options": ["A. traditional rulers", "B. colonial rule", "C. Christianity", "D. Western education"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "A key factor that fueled nationalist movements in West Africa was __.",
+    "options": ["A. the expansion of colonial territories", "B. the return of educated elites from abroad", "C. the banning of all political activities", "D. the introduction of high taxes"],
+    "answer": "B",
+    "topic": "Nationalism",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "The Clifford Constitution of 1922 in Nigeria is notable for introducing the __.",
+    "options": ["A. elective principle", "B. federal system", "C. republican government", "D. universal suffrage"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 60,
+    "question": "The 1946 Richards Constitution in Nigeria divided the country into __.",
+    "options": ["A. two regions", "B. three regions", "C. four regions", "D. twelve states"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The Macpherson Constitution of 1951 in Nigeria introduced __.",
+    "options": ["A. a unitary system", "B. a quasi-federal system", "C. a confederal system", "D. a parliamentary monarchy"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 62,
+    "question": "The 1954 Lyttleton Constitution in Nigeria established a __.",
+    "options": ["A. unitary system", "B. true federal system", "C. confederal system", "D. republican system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "The 1963 Republican Constitution of Nigeria replaced the __.",
+    "options": ["A. prime minister with a president", "B. Queen as head of state", "C. senate with a house of representatives", "D. federal system with a unitary one"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "The 1979 Constitution of Nigeria introduced the __.",
+    "options": ["A. parliamentary system", "B. presidential system", "C. military system", "D. confederal system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "The 1999 Constitution of Nigeria is significant because it __.",
+    "options": ["A. was the first to introduce a federal system", "B. marked the return to civilian rule", "C. abolished the office of the president", "D. created a one-party state"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 66,
+    "question": "The 1946 Burns Constitution in Ghana was notable for __.",
+    "options": ["A. granting independence", "B. increasing African representation", "C. abolishing chieftaincy", "D. introducing a federal system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "The 1951 Arden-Clarke Constitution in Ghana provided for __.",
+    "options": ["A. a majority of elected African members", "B. a complete transfer of power", "C. the abolition of the legislative council", "D. a military government"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "Ghana became a republic in 1960 under the leadership of __.",
+    "options": ["A. J.B. Danquah", "B. Kwame Nkrumah", "C. Kofi Abrefa Busia", "D. Jerry Rawlings"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 69,
+    "question": "The 1979 Constitution of Ghana was associated with the __.",
+    "options": ["A. Second Republic", "B. Third Republic", "C. Fourth Republic", "D. First Republic"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "The 1992 Constitution of Ghana ushered in the __.",
+    "options": ["A. Second Republic", "B. Third Republic", "C. Fourth Republic", "D. Fifth Republic"],
+    "answer": "C",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "The 1924 Slatter Constitution in Sierra Leone __.",
+    "options": ["A. granted universal adult suffrage", "B. expanded the legislative council", "C. created a federal system", "D. abolished the protectorate"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 72,
+    "question": "The 1951 Beresford-Stooke Constitution in Sierra Leone gave an unofficial majority to __.",
+    "options": ["A. British officials", "B. African members", "C. traditional rulers", "D. the military"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Sierra Leone became a republic in 1971 under the leadership of __.",
+    "options": ["A. Milton Margai", "B. Siaka Stevens", "C. Ahmad Tejan Kabbah", "D. Joseph Saidu Momoh"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The 1978 Constitution of Sierra Leone established a __.",
+    "options": ["A. multi-party system", "B. one-party system", "C. two-party system", "D. military government"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 75,
+    "question": "The 1991 Constitution of Sierra Leone reintroduced __.",
+    "options": ["A. the one-party system", "B. a multi-party system", "C. colonial rule", "D. a confederal system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "The 1947 Constitution in The Gambia was named after __.",
+    "options": ["A. Sir Andrew Backworth Wright", "B. Sir John Macpherson", "C. Sir Alan Burns", "D. Sir Hugh Clifford"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 77,
+    "question": "The 1960 Constitution of The Gambia introduced __.",
+    "options": ["A. universal adult suffrage", "B. a one-party state", "C. a federal system", "D. military rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The Gambia became a republic in 1970 with __ as its first president.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Pierre Njie"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "The 1997 Constitution of The Gambia was adopted after the rule of __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Edward Singhateh"],
+    "answer": "B",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 80,
+    "question": "The 1985 Constitution of Liberia was significant because it __.",
+    "options": ["A. established a one-party state", "B. introduced term limits for the president", "C. abolished the legislature", "D. restored colonial rule"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 81,
+    "question": "The True Whig Party in Liberia was founded in __.",
+    "options": ["A. 1847", "B. 1869", "C. 1878", "D. 1980"],
+    "answer": "B",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The first political party in Nigeria, the Nigerian National Democratic Party (NNDP), was formed in __.",
+    "options": ["A. 1922", "B. 1923", "C. 1944", "D. 1951"],
+    "answer": "B",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "The Convention People's Party (CPP) in Ghana was led by __.",
+    "options": ["A. J.B. Danquah", "B. Kwame Nkrumah", "C. Kofi Abrefa Busia", "D. Jerry Rawlings"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 84,
+    "question": "The Sierra Leone People's Party (SLPP) was founded by __.",
+    "options": ["A. Siaka Stevens", "B. Milton Margai", "C. Ahmad Tejan Kabbah", "D. Joseph Saidu Momoh"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The People's Progressive Party (PPP) in The Gambia was led by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "A major cause of military intervention in West African politics was __.",
+    "options": ["A. strong democratic institutions", "B. widespread corruption and mismanagement", "C. popular support for military rule", "D. the absence of political parties"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 87,
+    "question": "One negative effect of military rule in West Africa is that it __.",
+    "options": ["A. promotes respect for human rights", "B. disrupts constitutional processes", "C. strengthens democratic institutions", "D. encourages press freedom"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "The first military coup in Nigeria took place in __.",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1975"],
+    "answer": "C",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 89,
+    "question": "Jerry Rawlings came to power in Ghana through a military coup in __.",
+    "options": ["A. 1966", "B. 1972", "C. 1979", "D. 1992"],
+    "answer": "C",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "A federal system of government is characterized by the __.",
+    "options": ["A. concentration of all power at the centre", "B. division of powers between central and regional governments", "C. existence of a single legislative body", "D. absence of a written constitution"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "A major problem of federalism in West Africa is __.",
+    "options": ["A. excessive cooperation between units", "B. revenue allocation disputes", "C. the absence of a central government", "D. too few component units"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The foreign policy objective of Nigeria that focuses on African liberation and unity is known as __.",
+    "options": ["A. Afrocentrism", "B. the concentric circle approach", "C. non-alignment", "D. the manifest destiny doctrine"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 93,
+    "question": "A key factor that shapes the foreign policy of West African states is __.",
+    "options": ["A. their colonial heritage", "B. their population size only", "C. the number of political parties", "D. the size of their armed forces"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 94,
+    "question": "The Economic Community of West African States (ECOWAS) was established in __.",
+    "options": ["A. 1963", "B. 1975", "C. 1980", "D. 1990"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "The primary aim of ECOWAS is to promote __.",
+    "options": ["A. military cooperation only", "B. economic integration among member states", "C. a single currency for Africa", "D. political union with Europe"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 96,
+    "question": "The main objective of the United Nations Organization (UNO) is to maintain __.",
+    "options": ["A. international peace and security", "B. the supremacy of Western powers", "C. global free trade only", "D. a single world government"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 97,
+    "question": "The Commonwealth of Nations is an association of countries that were formerly __.",
+    "options": ["A. French colonies", "B. Portuguese colonies", "C. British colonies", "D. German colonies"],
+    "answer": "C",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "The African Union (AU) replaced the __.",
+    "options": ["A. Organization of African Unity (OAU)", "B. Economic Community of West African States (ECOWAS)", "C. Southern African Development Community (SADC)", "D. United Nations Economic Commission for Africa (UNECA)"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "A major challenge facing international organizations in West Africa is __.",
+    "options": ["A. excessive funding from member states", "B. lack of political will among members", "C. too much public support", "D. the absence of a headquarters"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "The process by which a state transfers some of its powers to a subordinate authority is called __.",
+    "options": ["A. centralization", "B. devolution", "C. nationalization", "D. annexation"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "The principle of checks and balances is designed to prevent __.",
+    "options": ["A. cooperation between organs of government", "B. any one organ from becoming too powerful", "C. the judiciary from interpreting laws", "D. the legislature from making laws"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "question": "A constitution that can be amended by a simple majority in parliament is said to be __.",
+    "options": ["A. rigid", "B. flexible", "C. federal", "D. written"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "The judiciary can check the excesses of the legislature through the power of __.",
+    "options": ["A. veto", "B. judicial review", "C. impeachment", "D. appropriation"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "In a presidential system of government, the president is both head of state and __.",
+    "options": ["A. head of government", "B. speaker of parliament", "C. chief justice", "D. leader of the opposition"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "Citizenship by descent is acquired when a person is born __.",
+    "options": ["A. within the country's territory", "B. to citizen parents", "C. after naturalization", "D. through marriage"],
+    "answer": "B",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "question": "A political party that consistently wins elections and dominates government is called a __.",
+    "options": ["A. minor party", "B. dominant party", "C. coalition party", "D. pressure group"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "An example of a pressure group in Nigeria is the __.",
+    "options": ["A. Nigerian Labour Congress (NLC)", "B. Peoples Democratic Party (PDP)", "C. All Progressives Congress (APC)", "D. Independent National Electoral Commission (INEC)"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "question": "A proportional representation electoral system aims to __.",
+    "options": ["A. ensure the winner takes all seats", "B. reflect the share of votes in seat allocation", "C. discourage small parties from participating", "D. simplify the counting of votes"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The civil service commission is responsible for __.",
+    "options": ["A. making laws for the civil service", "B. recruiting and promoting civil servants", "C. trying civil servants for offences", "D. funding political parties"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "The pre-colonial Yoruba political system was characterized by a __.",
+    "options": ["A. highly centralized empire with a divine king", "B. system of checks and balances on the Oba", "C. complete absence of any political authority", "D. direct democracy in all villages"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 111,
+    "question": "The French policy of 'Association' was a shift from assimilation because it __.",
+    "options": ["A. aimed to create French citizens", "B. respected local customs and institutions", "C. abolished all traditional rulers", "D. forced Africans to renounce their culture"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 112,
+    "question": "The 1946 Richards Constitution in Nigeria was criticized because it __.",
+    "options": ["A. gave too much power to Africans", "B. was introduced without consulting Nigerians", "C. abolished the legislative council", "D. created too many states"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "The 1969 Constitution of Ghana established a __.",
+    "options": ["A. one-party state", "B. parliamentary system", "C. military government", "D. confederal system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "The 1956 Constitution of Sierra Leone provided for __.",
+    "options": ["A. a majority of elected African members", "B. independence from Britain", "C. a republican system", "D. the abolition of chieftaincy"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "The 1962 Constitution of The Gambia provided for a __.",
+    "options": ["A. premier and an executive council", "B. military government", "C. one-party state", "D. confederal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "The National Patriotic Party (NPP) of Liberia was founded by __.",
+    "options": ["A. Charles Taylor", "B. Ellen Johnson Sirleaf", "C. Samuel Doe", "D. George Weah"],
+    "answer": "A",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "The Action Group (AG) in Nigeria was led by __.",
+    "options": ["A. Nnamdi Azikiwe", "B. Obafemi Awolowo", "C. Ahmadu Bello", "D. Tafawa Balewa"],
+    "answer": "B",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "The National Democratic Congress (NDC) in Ghana was founded by __.",
+    "options": ["A. Jerry Rawlings", "B. John Kufuor", "C. John Atta Mills", "D. Nana Akufo-Addo"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "The All People's Congress (APC) in Sierra Leone was founded by __.",
+    "options": ["A. Milton Margai", "B. Siaka Stevens", "C. Ahmad Tejan Kabbah", "D. Ernest Bai Koroma"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "The Alliance for Patriotic Reorientation and Construction (APRC) in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "B",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "question": "Military rule in West Africa often led to the __.",
+    "options": ["A. strengthening of democratic institutions", "B. suspension of the constitution", "C. expansion of press freedom", "D. growth of civil society"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "A unitary system of government is often adopted by countries that are __.",
+    "options": ["A. highly diverse with strong regional identities", "B. small in size and relatively homogeneous", "C. large and multi-ethnic", "D. composed of independent states"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Nigeria's foreign policy is often described as Afrocentric because it __.",
+    "options": ["A. prioritizes relations with African countries", "B. ignores the rest of the world", "C. is controlled by the African Union", "D. focuses only on trade with Europe"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "The New Partnership for Africa's Development (NEPAD) is a programme of the __.",
+    "options": ["A. United Nations", "B. African Union", "C. European Union", "D. Commonwealth of Nations"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "A major achievement of the United Nations is the __.",
+    "options": ["A. eradication of all global poverty", "B. prevention of a third world war", "C. establishment of a world government", "D. abolition of all nuclear weapons"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "Communalism is a system in which __.",
+    "options": ["A. the state owns all property", "B. resources are shared within a community", "C. individuals compete for profit", "D. power is held by one person"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "A constitution that is contained in a single document is said to be __.",
+    "options": ["A. unwritten", "B. written", "C. flexible", "D. rigid"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "question": "The legislature can check the executive through its power to __.",
+    "options": ["A. appoint judges", "B. approve the budget", "C. declare war", "D. interpret laws"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "A disadvantage of a presidential system of government is that it can lead to __.",
+    "options": ["A. a weak and unstable executive", "B. a rigid separation of powers", "C. frequent changes in government", "D. a ceremonial head of state"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 130,
+    "question": "A citizen can lose their citizenship through __.",
+    "options": ["A. paying taxes", "B. renunciation", "C. voting in elections", "D. joining the army"],
+    "answer": "B",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "A multi-party system is often praised for __.",
+    "options": ["A. ensuring stability and simplicity", "B. providing voters with a wide range of choices", "C. reducing the cost of elections", "D. guaranteeing a majority in parliament"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The mass media can influence public opinion by __.",
+    "options": ["A. conducting elections", "B. setting the agenda for public discussion", "C. appointing government officials", "D. making laws"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "A by-election is held to __.",
+    "options": ["A. elect a new government", "B. fill a vacant seat in the legislature", "C. approve a new constitution", "D. remove a president from office"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The head of the civil service in a ministry is the __.",
+    "options": ["A. minister", "B. permanent secretary", "C. director", "D. commissioner"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The pre-colonial Igbo system of government can be described as __.",
+    "options": ["A. monarchical", "B. republican", "C. theocratic", "D. feudal"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "The British Crown Colony system of administration was characterized by __.",
+    "options": ["A. direct rule by traditional rulers", "B. direct control by the British government", "C. complete autonomy for Africans", "D. rule by a chartered company"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The 1951 Macpherson Constitution in Nigeria was significant because it __.",
+    "options": ["A. introduced the elective principle", "B. involved Nigerians in constitution-making", "C. created a unitary system", "D. abolished the regional governments"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 138,
+    "question": "The 1954 Nkrumah Constitution in Ghana provided for __.",
+    "options": ["A. a one-party state", "B. direct popular elections", "C. a federal system", "D. a military government"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "The 1958 Constitution of Sierra Leone was significant because it __.",
+    "options": ["A. granted independence", "B. provided for a parliamentary system", "C. created a republic", "D. abolished the protectorate"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 140,
+    "question": "The 1965 Independence Constitution of The Gambia made the country a __.",
+    "options": ["A. republic", "B. constitutional monarchy", "C. one-party state", "D. military dictatorship"],
+    "answer": "B",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "The 1947 Constitution of Liberia was significant because it __.",
+    "options": ["A. gave women the right to vote", "B. abolished the True Whig Party", "C. created a federal system", "D. introduced a multi-party system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "The Northern People's Congress (NPC) in Nigeria was led by __.",
+    "options": ["A. Nnamdi Azikiwe", "B. Obafemi Awolowo", "C. Ahmadu Bello", "D. Tafawa Balewa"],
+    "answer": "C",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "The United Gold Coast Convention (UGCC) was formed in __.",
+    "options": ["A. 1946", "B. 1947", "C. 1949", "D. 1951"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "The Sierra Leone People's Party (SLPP) was formed in __.",
+    "options": ["A. 1951", "B. 1957", "C. 1960", "D. 1961"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 145,
+    "question": "The United Democratic Party (UDP) in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Ousainou Darboe", "D. Adama Barrow"],
+    "answer": "C",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "The 1980 coup in Liberia that ended the True Whig Party's rule was led by __.",
+    "options": ["A. Charles Taylor", "B. Samuel Doe", "C. Ellen Johnson Sirleaf", "D. Prince Johnson"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "A federal system of government is often adopted to __.",
+    "options": ["A. concentrate power in a single authority", "B. accommodate diverse ethnic groups", "C. simplify the administration of small states", "D. abolish local governments"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "A major objective of ECOWAS is the __.",
+    "options": ["A. establishment of a common currency", "B. creation of a single African army", "C. harmonization of educational systems", "D. free movement of persons and goods"],
+    "answer": "D",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "The principle of sovereignty implies that a state has __.",
+    "options": ["A. unlimited power domestically and independence externally", "B. complete dependence on foreign aid", "C. no control over its borders", "D. a duty to obey international law only"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "A major merit of a rigid constitution is that it __.",
+    "options": ["A. is easy to amend", "B. protects fundamental rights from arbitrary change", "C. allows for quick government action", "D. is always unwritten"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 151,
+    "question": "The executive arm of government in a parliamentary system is drawn from the __.",
+    "options": ["A. judiciary", "B. legislature", "C. civil service", "D. military"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "A feature of a monarchical system of government is that the head of state __.",
+    "options": ["A. is elected by the people", "B. inherits the position", "C. is appointed by the military", "D. serves a fixed term"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 153,
+    "question": "The primary duty of a citizen towards the state is __.",
+    "options": ["A. loyalty and obedience to laws", "B. criticizing government policies", "C. belonging to a political party", "D. attending state functions"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "A political party that has no realistic chance of winning elections is called a __.",
+    "options": ["A. major party", "B. minor party", "C. ruling party", "D. coalition party"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 155,
+    "question": "Public opinion is important in a democracy because it __.",
+    "options": ["A. determines court judgments", "B. influences government policies", "C. appoints civil servants", "D. conducts elections"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "An electoral system that combines plurality and proportional representation is called a __.",
+    "options": ["A. mixed-member system", "B. single transferable vote", "C. party-list system", "D. first-past-the-post system"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 157,
+    "question": "A public corporation is controlled by the government through __.",
+    "options": ["A. the board of directors it appoints", "B. private shareholders", "C. the stock exchange", "D. foreign investors"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "The pre-colonial Hausa/Fulani system of government was __.",
+    "options": ["A. decentralized and egalitarian", "B. centralized and hierarchical", "C. a direct democracy", "D. a confederation of villages"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "The policy of Indirect Rule was successful in Northern Nigeria because __.",
+    "options": ["A. there was no existing traditional authority", "B. the emirs had a centralized system of administration", "C. the British had enough personnel", "D. the people preferred British rule"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "The 1922 Clifford Constitution in Nigeria was significant because it __.",
+    "options": ["A. created the first legislative council with elected members", "B. granted independence to Nigeria", "C. established a federal system", "D. introduced universal adult suffrage"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The 1946 Burns Constitution in Ghana was a significant step because it __.",
+    "options": ["A. gave Africans a majority in the legislative council", "B. abolished the office of the governor", "C. introduced a federal system", "D. granted immediate independence"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "The 1947 Stevenson Constitution in Sierra Leone __.",
+    "options": ["A. expanded the legislative council", "B. created a republic", "C. abolished chieftaincy", "D. introduced a one-party system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "The 1954 Constitution of The Gambia provided for an unofficial elected majority in the __.",
+    "options": ["A. executive council", "B. legislative council", "C. judiciary", "D. house of chiefs"],
+    "answer": "B",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The 1985 Constitution of Liberia was drafted under the leadership of __.",
+    "options": ["A. Samuel Doe", "B. Charles Taylor", "C. Ellen Johnson Sirleaf", "D. William Tolbert"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "The Nigerian National Democratic Party (NNDP) was founded by __.",
+    "options": ["A. Herbert Macaulay", "B. Nnamdi Azikiwe", "C. Obafemi Awolowo", "D. Ahmadu Bello"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "The Convention People's Party (CPP) was formed in __.",
+    "options": ["A. 1947", "B. 1949", "C. 1951", "D. 1957"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The All People's Congress (APC) in Sierra Leone was formed in __.",
+    "options": ["A. 1951", "B. 1957", "C. 1960", "D. 1961"],
+    "answer": "C",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "The People's Progressive Party (PPP) in The Gambia was formed in __.",
+    "options": ["A. 1959", "B. 1960", "C. 1962", "D. 1965"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 169,
+    "question": "The True Whig Party in Liberia dominated the political scene for over a century until __.",
+    "options": ["A. 1947", "B. 1971", "C. 1980", "D. 1985"],
+    "answer": "C",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "A major effect of military rule in West Africa is the __.",
+    "options": ["A. promotion of democratic culture", "B. erosion of democratic institutions", "C. strengthening of the rule of law", "D. expansion of civil liberties"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "A unitary system of government is characterized by the __.",
+    "options": ["A. existence of a single central government", "B. sharing of power with regional units", "C. existence of multiple constitutions", "D. right of component units to secede"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 172,
+    "question": "The foreign policy of a country is influenced by its __.",
+    "options": ["A. national interest", "B. political party manifestos", "C. number of civil servants", "D. size of its parliament"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "The Commonwealth of Nations is headed by the __.",
+    "options": ["A. British monarch", "B. Secretary-General", "C. rotating chairman", "D. Prime Minister of Britain"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 174,
+    "question": "A major problem of the African Union (AU) is __.",
+    "options": ["A. excessive funding", "B. lack of unity among member states", "C. too much public participation", "D. the absence of a charter"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "Political socialization is important because it __.",
+    "options": ["A. ensures citizens are politically aware", "B. guarantees election victory", "C. eliminates political conflict", "D. makes everyone join a party"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. protect the interests of the ruling party", "B. establish the structure of government", "C. ensure that only one party exists", "D. provide employment for all citizens"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 177,
+    "question": "The judiciary interprets laws and also __.",
+    "options": ["A. makes laws", "B. implements laws", "C. settles disputes", "D. amends the constitution"],
+    "answer": "C",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 178,
+    "question": "A disadvantage of a federal system is that it can lead to __.",
+    "options": ["A. duplication of functions", "B. too much central control", "C. the abolition of local governments", "D. a weak central government"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 179,
+    "question": "The rights of a citizen are often classified into __.",
+    "options": ["A. civil, political and economic rights", "B. legal and illegal rights", "C. traditional and modern rights", "D. individual and group rights"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "A party system in which only one political party is legally allowed to operate is a __.",
+    "options": ["A. multi-party system", "B. two-party system", "C. one-party system", "D. dominant-party system"],
+    "answer": "C",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "A pressure group that seeks to promote the interests of its members is a __.",
+    "options": ["A. promotional group", "B. sectional group", "C. anomic group", "D. institutional group"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 182,
+    "question": "The 'first-past-the-post' electoral system is also known as the __.",
+    "options": ["A. simple majority system", "B. absolute majority system", "C. proportional system", "D. preferential system"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "The civil service is expected to be __.",
+    "options": ["A. loyal to the ruling party", "B. politically neutral", "C. composed of party members", "D. changed after every election"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 184,
+    "question": "The pre-colonial Yoruba political system had a system of checks on the king through the __.",
+    "options": ["A. Ogboni society and council of chiefs", "B. emir's court", "C. age-grade system", "D. village assembly"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 185,
+    "question": "A major disadvantage of colonial rule in West Africa was the __.",
+    "options": ["A. introduction of modern education", "B. exploitation of natural resources", "C. construction of railways", "D. establishment of hospitals"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 186,
+    "question": "The 1954 Lyttleton Constitution in Nigeria is significant because it __.",
+    "options": ["A. introduced a federal system with residual powers for regions", "B. abolished the office of the governor-general", "C. granted independence to Nigeria", "D. created a one-party state"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "The 1960 Republican Constitution of Ghana replaced the __.",
+    "options": ["A. Queen as head of state with a president", "B. prime minister with a monarch", "C. parliament with a council of state", "D. judiciary with a military tribunal"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Sierra Leone became independent in __.",
+    "options": ["A. 1957", "B. 1960", "C. 1961", "D. 1965"],
+    "answer": "C",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "The Gambia became independent in __.",
+    "options": ["A. 1960", "B. 1962", "C. 1965", "D. 1970"],
+    "answer": "C",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 190,
+    "question": "The 1986 Constitution of Liberia is significant because it __.",
+    "options": ["A. restored civilian rule after a military coup", "B. created a one-party state", "C. abolished the office of the president", "D. introduced a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The National Council of Nigeria and the Cameroons (NCNC) was led by __.",
+    "options": ["A. Herbert Macaulay and Nnamdi Azikiwe", "B. Obafemi Awolowo", "C. Ahmadu Bello", "D. Tafawa Balewa"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "The New Patriotic Party (NPP) in Ghana traces its roots to the __.",
+    "options": ["A. Convention People's Party (CPP)", "B. United Gold Coast Convention (UGCC) tradition", "C. National Democratic Congress (NDC)", "D. People's National Party (PNP)"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 193,
+    "question": "The Sierra Leone People's Party (SLPP) draws most of its support from the __.",
+    "options": ["A. northern region", "B. southern and eastern regions", "C. western area", "D. capital city only"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 194,
+    "question": "The National People's Party (NPP) in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "C",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "Military regimes in West Africa often justified their takeovers by citing __.",
+    "options": ["A. the need to restore democracy", "B. widespread corruption and inefficiency", "C. the desire to enrich themselves", "D. pressure from foreign governments"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "A major difference between a federal and a unitary system is that in a federation __.",
+    "options": ["A. the central government can abolish component units", "B. component units have constitutionally guaranteed powers", "C. there is only one level of government", "D. local governments are not allowed"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "A major objective of Nigeria's foreign policy is to __.",
+    "options": ["A. promote the interests of Western powers", "B. promote African unity and independence", "C. isolate the country from global affairs", "D. focus solely on domestic issues"],
+    "answer": "B",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "The United Nations Organization was founded in __.",
+    "options": ["A. 1919", "B. 1945", "C. 1960", "D. 1963"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 199,
+    "question": "A major achievement of ECOWAS is the __.",
+    "options": ["A. establishment of a common currency", "B. creation of a regional peacekeeping force (ECOMOG)", "C. abolition of all borders", "D. unification of all member states"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "Feudalism is a system in which __.",
+    "options": ["A. land is held by a lord in exchange for service", "B. all property is owned by the state", "C. power is held by the people", "D. trade is the main economic activity"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "A written constitution is usually associated with a __.",
+    "options": ["A. flexible system of government", "B. federal system of government", "C. unwritten legal system", "D. traditional society"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "The legislature can remove a president from office through the process of __.",
+    "options": ["A. impeachment", "B. judicial review", "C. a vote of no confidence", "D. a referendum"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "A feature of a parliamentary system is that the executive is __.",
+    "options": ["A. separate from the legislature", "B. part of the legislature", "C. appointed by the judiciary", "D. elected by the military"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "The primary means of safeguarding citizens' rights is through the __.",
+    "options": ["A. courts", "B. police", "C. army", "D. civil service"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "A function of political parties is to __.",
+    "options": ["A. organize elections", "B. aggregate and articulate interests", "C. make laws", "D. interpret laws"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "An example of a promotional pressure group is __.",
+    "options": ["A. a trade union", "B. a human rights organization", "C. a professional association", "D. a chamber of commerce"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "A referendum is a vote by the electorate on a __.",
+    "options": ["A. candidate for office", "B. specific political issue", "C. political party", "D. government budget"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "Local governments in West Africa derive their revenue mainly from __.",
+    "options": ["A. foreign aid", "B. local taxes and rates", "C. income tax", "D. export duties"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The pre-colonial Akan political system was headed by a __.",
+    "options": ["A. queen mother only", "B. paramount chief or king", "C. council of elders only", "D. military commander"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 210,
+    "question": "The policy of 'Association' in French colonial administration was introduced by __.",
+    "options": ["A. Governor-General Gallieni", "B. Governor-General Ponty", "C. President de Gaulle", "D. Governor-General Faidherbe"],
+    "answer": "B",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 211,
+    "question": "The 1951 Macpherson Constitution in Nigeria was a significant improvement because it __.",
+    "options": ["A. was the first constitution to involve Nigerian representatives", "B. granted full independence", "C. abolished the regional system", "D. introduced a presidential system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "The 1969 Constitution of Ghana was significant because it __.",
+    "options": ["A. established a one-party state", "B. restored civilian rule after the first military coup", "C. abolished the office of the president", "D. created a federal system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The 1971 Republican Constitution of Sierra Leone made the country a __.",
+    "options": ["A. constitutional monarchy", "B. republic within the Commonwealth", "C. one-party state", "D. military dictatorship"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "The 1963 Constitution of The Gambia provided for a __.",
+    "options": ["A. prime minister as head of government", "B. president as head of state", "C. military government", "D. one-party system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 215,
+    "question": "The 1847 Constitution of Liberia was significant because it __.",
+    "options": ["A. established the country as a republic", "B. granted independence from Britain", "C. created a one-party state", "D. abolished the presidency"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "The United Middle Belt Congress (UMBC) in Nigeria was led by __.",
+    "options": ["A. Joseph Tarka", "B. Aminu Kano", "C. Bello Ijomah", "D. Mathew Mbu"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 217,
+    "question": "The People's National Convention (PNC) in Ghana was founded by __.",
+    "options": ["A. Hilla Limann", "B. Jerry Rawlings", "C. John Kufuor", "D. Kwame Nkrumah"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 218,
+    "question": "The APC party in Sierra Leone draws most of its support from the __.",
+    "options": ["A. southern region", "B. northern region", "C. eastern region", "D. western area"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "The APRC party in The Gambia was in power from __.",
+    "options": ["A. 1965 to 1994", "B. 1994 to 2017", "C. 1970 to 1994", "D. 2017 to present"],
+    "answer": "B",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "A major reason for the failure of military regimes in West Africa is that they __.",
+    "options": ["A. lacked legitimacy and popular support", "B. were too democratic", "C. allowed too much freedom of speech", "D. held elections too frequently"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "A major merit of a unitary system of government is that it __.",
+    "options": ["A. ensures uniformity in administration", "B. protects the powers of component units", "C. allows for a high degree of local autonomy", "D. creates many centres of power"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "A major disadvantage of a country's foreign policy being too Afrocentric is that it can __.",
+    "options": ["A. neglect relations with other regions", "B. lead to too much foreign aid", "C. weaken its ties with Africa", "D. isolate it from the African Union"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 223,
+    "question": "The headquarters of ECOWAS is located in __.",
+    "options": ["A. Lagos, Nigeria", "B. Accra, Ghana", "C. Abuja, Nigeria", "D. Lome, Togo"],
+    "answer": "C",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "The principle of collective security is central to the __.",
+    "options": ["A. United Nations", "B. Commonwealth of Nations", "C. African Union", "D. ECOWAS"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "Socialism is an economic and political system in which __.",
+    "options": ["A. the means of production are owned by the state", "B. private property is unlimited", "C. power is held by a monarch", "D. trade is entirely free"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "A constitution is important because it __.",
+    "options": ["A. defines the powers and duties of government organs", "B. ensures that the rich rule the poor", "C. guarantees that all citizens are employed", "D. prevents any change in government"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "The judiciary is important for the protection of rights because it __.",
+    "options": ["A. makes laws to protect rights", "B. can declare laws that violate rights unconstitutional", "C. enforces the law", "D. appoints the president"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "A major feature of a presidential system is the __.",
+    "options": ["A. fusion of executive and legislative powers", "B. separation of executive and legislative powers", "C. supremacy of the legislature", "D. absence of a written constitution"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "A duty that a citizen owes to the state is __.",
+    "options": ["A. to defend the country when necessary", "B. to criticize the government always", "C. to belong to a political party", "D. to avoid paying taxes"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "A political party's manifesto is important because it __.",
+    "options": ["A. outlines its policies and programmes", "B. lists its members' names", "C. contains the constitution of the country", "D. is a legal document for registration"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "The main function of a pressure group is to __.",
+    "options": ["A. contest elections", "B. influence government policy", "C. make laws", "D. run the government"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 232,
+    "question": "A major disadvantage of the 'first-past-the-post' electoral system is that it __.",
+    "options": ["A. is too complex for voters", "B. can produce a government with minority votes", "C. always requires a runoff election", "D. favors small parties"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "A public corporation can be controlled by the government through __.",
+    "options": ["A. the appointment of its board", "B. allowing it to operate freely", "C. selling all its shares to the public", "D. abolishing its board of directors"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 234,
+    "question": "The pre-colonial Igbo political system was based on __.",
+    "options": ["A. a centralised monarchy", "B. village assemblies and age grades", "C. a theocratic government", "D. a feudal system"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The British policy of Indirect Rule was difficult to apply in Eastern Nigeria because __.",
+    "options": ["A. there were no traditional rulers with centralized authority", "B. the people were too educated", "C. the British had too many officials", "D. the people refused to pay taxes"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 236,
+    "question": "The 1946 Richards Constitution in Nigeria was significant because it __.",
+    "options": ["A. created regional assemblies", "B. introduced the elective principle", "C. granted independence", "D. established a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "The 1954 Constitution of Ghana was significant because it __.",
+    "options": ["A. granted internal self-government", "B. created a republic", "C. abolished the chieftaincy", "D. introduced a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "The 1961 Constitution of Sierra Leone was the __.",
+    "options": ["A. independence constitution", "B. republican constitution", "C. one-party constitution", "D. military constitution"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "The 1970 Republican Constitution of The Gambia replaced the __.",
+    "options": ["A. Queen as head of state with a president", "B. prime minister with a monarch", "C. parliament with a council of state", "D. judiciary with a military tribunal"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "The 1985 Constitution of Liberia introduced a presidential term of __.",
+    "options": ["A. four years", "B. five years", "C. six years", "D. eight years"],
+    "answer": "C",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 241,
+    "question": "The Egbe Omo Oduduwa was a cultural organization that later evolved into the __.",
+    "options": ["A. Action Group", "B. NCNC", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 242,
+    "question": "The National Liberation Movement (NLM) in Ghana was formed in opposition to the __.",
+    "options": ["A. CPP", "B. UGCC", "C. NDC", "D. NPP"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 243,
+    "question": "The APC in Sierra Leone was formed as a breakaway from the __.",
+    "options": ["A. SLPP", "B. NDA", "C. PMDC", "D. C4C"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "The PPP in The Gambia was in power from independence until __.",
+    "options": ["A. 1981", "B. 1994", "C. 2000", "D. 2017"],
+    "answer": "B",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "The True Whig Party in Liberia represented the interests of the __.",
+    "options": ["A. indigenous population", "B. Americo-Liberian elite", "C. military", "D. foreign investors"],
+    "answer": "B",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "Military rule is often characterized by the __.",
+    "options": ["A. rule of law", "B. suspension of the constitution", "C. protection of human rights", "D. regular elections"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "A federal system of government is suitable for a country with __.",
+    "options": ["A. a homogeneous population", "B. diverse ethnic groups", "C. a very small territory", "D. no written constitution"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 248,
+    "question": "The foreign policy of a country is primarily designed to promote its __.",
+    "options": ["A. national interest", "B. religious values", "C. cultural superiority", "D. military expansion"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 249,
+    "question": "The African Union (AU) was established in __.",
+    "options": ["A. 1963", "B. 1990", "C. 2002", "D. 2010"],
+    "answer": "C",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "A major problem of the United Nations is the __.",
+    "options": ["A. veto power of the permanent members", "B. lack of a headquarters", "C. absence of a charter", "D. small number of member states"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Legitimacy is important for a government because it __.",
+    "options": ["A. ensures obedience and stability", "B. guarantees economic prosperity", "C. eliminates all opposition", "D. allows the use of force"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 252,
+    "question": "A constitution that is not codified in a single document is called an __.",
+    "options": ["A. written constitution", "B. unwritten constitution", "C. rigid constitution", "D. federal constitution"],
+    "answer": "B",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "The concept of judicial independence means that judges should __.",
+    "options": ["A. be loyal to the president", "B. decide cases without fear or favor", "C. follow the instructions of parliament", "D. join political parties"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 254,
+    "question": "A major disadvantage of a confederal system is that it __.",
+    "options": ["A. creates a very strong central government", "B. gives too much power to the centre", "C. creates a weak central authority", "D. abolishes the component states"],
+    "answer": "C",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "A citizen by registration is one who __.",
+    "options": ["A. is born in the country", "B. has applied for and been granted citizenship", "C. is born to citizen parents", "D. acquires citizenship by marriage only"],
+    "answer": "B",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "A major function of political parties in a democracy is to __.",
+    "options": ["A. conduct elections", "B. educate voters on political issues", "C. make laws", "D. appoint judges"],
+    "answer": "B",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "A pressure group that uses illegal methods to achieve its aims is called an __.",
+    "options": ["A. institutional group", "B. anomic group", "C. associational group", "D. non-associational group"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 258,
+    "question": "A major advantage of proportional representation is that it __.",
+    "options": ["A. is simple to understand", "B. gives a fair reflection of votes", "C. always produces a strong government", "D. eliminates small parties"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "A major problem of local governments in West Africa is __.",
+    "options": ["A. excessive autonomy", "B. inadequate finance", "C. too much public participation", "D. lack of responsibilities"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 260,
+    "question": "The pre-colonial Hausa/Fulani system of government was based on __.",
+    "options": ["A. Islamic law and tradition", "B. Christian principles", "C. traditional African religion", "D. Western democratic ideas"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "The French colonial policy of 'Assimilation' was based on the idea that __.",
+    "options": ["A. Africans should be educated to become French citizens", "B. African culture was superior to French culture", "C. Africans should be ruled indirectly", "D. France should not interfere in African affairs"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "The 1951 Macpherson Constitution in Nigeria introduced a system of __.",
+    "options": ["A. direct rule", "B. indirect rule", "C. quasi-federalism", "D. unitary government"],
+    "answer": "C",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 263,
+    "question": "The 1960 Constitution of Ghana was the __.",
+    "options": ["A. independence constitution", "B. republican constitution", "C. one-party constitution", "D. military constitution"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "The 1978 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. multi-party state", "B. one-party state", "C. military state", "D. confederation"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "The 1997 Constitution of The Gambia was adopted under the leadership of __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "B",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The 1985 Constitution of Liberia was approved by a __.",
+    "options": ["A. referendum", "B. parliamentary vote", "C. military decree", "D. judicial ruling"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 267,
+    "question": "The Action Group (AG) in Nigeria was founded in __.",
+    "options": ["A. 1948", "B. 1951", "C. 1954", "D. 1959"],
+    "answer": "B",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "The CPP in Ghana adopted the slogan __.",
+    "options": ["A. 'Self-government now'", "B. 'Independence now'", "C. 'Freedom now'", "D. 'Power to the people'"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 269,
+    "question": "The SLPP in Sierra Leone was initially led by __.",
+    "options": ["A. Siaka Stevens", "B. Milton Margai", "C. Albert Margai", "D. Ahmad Tejan Kabbah"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "The UDP in The Gambia was formed in __.",
+    "options": ["A. 1996", "B. 1994", "C. 2001", "D. 2016"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "A major cause of military coups in West Africa was __.",
+    "options": ["A. strong democratic institutions", "B. economic mismanagement and corruption", "C. popular support for military rule", "D. the absence of political parties"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 272,
+    "question": "A major merit of a federal system is that it __.",
+    "options": ["A. brings government closer to the people", "B. concentrates power at the centre", "C. abolishes local governments", "D. creates a weak central government"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "A major challenge of Nigeria's foreign policy is __.",
+    "options": ["A. balancing African interests with global engagement", "B. too much foreign aid", "C. excessive military power", "D. lack of natural resources"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "The Commonwealth of Nations has its headquarters in __.",
+    "options": ["A. New York", "B. London", "C. Geneva", "D. Paris"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "A major achievement of the African Union is the __.",
+    "options": ["A. establishment of a single currency", "B. creation of the African Continental Free Trade Area", "C. abolition of all borders", "D. unification of all African states"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Authority in a political system refers to the __.",
+    "options": ["A. use of force to compel obedience", "B. right to give orders and expect obedience", "C. ability to win elections", "D. ownership of economic resources"],
+    "answer": "B",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. ensure the separation of powers", "B. guarantee that the ruling party stays in power", "C. provide jobs for party members", "D. eliminate all political opposition"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "The principle of checks and balances is intended to __.",
+    "options": ["A. promote cooperation between organs of government", "B. prevent any one organ from abusing its powers", "C. ensure the judiciary controls the legislature", "D. make the executive supreme"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 279,
+    "question": "A major feature of a parliamentary system is that the government is responsible to the __.",
+    "options": ["A. judiciary", "B. legislature", "C. monarch", "D. military"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "A citizen's obligation to pay taxes is important because it __.",
+    "options": ["A. provides revenue for government services", "B. is a way to support political parties", "C. ensures the citizen can vote", "D. is a requirement for holding a passport"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 281,
+    "question": "A major function of political parties is to __.",
+    "options": ["A. recruit and train political leaders", "B. conduct elections", "C. interpret laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Public opinion is best defined as the __.",
+    "options": ["A. views of the government", "B. aggregate of individual attitudes on issues", "C. opinion of the judiciary", "D. views of the civil service"],
+    "answer": "B",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "A major advantage of the 'first-past-the-post' system is that it __.",
+    "options": ["A. is simple and produces strong governments", "B. gives small parties fair representation", "C. always requires a runoff", "D. is proportional"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "The civil service is important because it __.",
+    "options": ["A. makes laws", "B. implements government policies", "C. interprets laws", "D. appoints the president"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 285,
+    "question": "The pre-colonial Akan political system had a queen mother whose role was to __.",
+    "options": ["A. rule the state alone", "B. advise the chief and nominate successors", "C. command the army", "D. collect taxes"],
+    "answer": "B",
+    "topic": "Pre-Colonial Political Systems - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 286,
+    "question": "A major impact of colonial rule on West Africa was the __.",
+    "options": ["A. creation of arbitrary boundaries", "B. complete preservation of African culture", "C. establishment of democratic governments", "D. abolition of all traditional institutions"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "The 1954 Lyttleton Constitution in Nigeria established a __.",
+    "options": ["A. unitary system", "B. federal system", "C. confederal system", "D. republican system"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "The 1979 Constitution of Ghana was the constitution of the __.",
+    "options": ["A. Second Republic", "B. Third Republic", "C. Fourth Republic", "D. First Republic"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "The 1991 Constitution of Sierra Leone was adopted to __.",
+    "options": ["A. introduce a one-party system", "B. restore multi-party democracy", "C. establish a military government", "D. create a confederation"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "The 1960 Constitution of The Gambia provided for __.",
+    "options": ["A. universal adult suffrage", "B. a one-party state", "C. a federal system", "D. military rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 291,
+    "question": "The 1985 Constitution of Liberia reduced the presidential term from eight to __ years.",
+    "options": ["A. four", "B. five", "C. six", "D. seven"],
+    "answer": "C",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 292,
+    "question": "The NPC in Nigeria was formed in __.",
+    "options": ["A. 1944", "B. 1951", "C. 1954", "D. 1959"],
+    "answer": "B",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "The NDC in Ghana was founded in __.",
+    "options": ["A. 1982", "B. 1992", "C. 1996", "D. 2000"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "The APC in Sierra Leone was in power from __.",
+    "options": ["A. 1961 to 1996", "B. 1968 to 1996", "C. 1996 to 2007", "D. 2007 to 2018"],
+    "answer": "B",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 295,
+    "question": "The PPP in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Ousainou Darboe", "D. Adama Barrow"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 296,
+    "question": "A major effect of military rule on the economy of West African states was __.",
+    "options": ["A. rapid economic growth", "B. mismanagement and decline", "C. increased foreign investment", "D. reduced inflation"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "A major feature of a unitary system is that __.",
+    "options": ["A. component units have residual powers", "B. the central government can create or abolish local units", "C. there is always a written constitution", "D. the judiciary is separate from the executive"],
+    "answer": "B",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "A major objective of the foreign policy of West African states is to __.",
+    "options": ["A. promote regional cooperation", "B. isolate themselves from global affairs", "C. support colonialism", "D. avoid international organizations"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "The UN Security Council has __ permanent members.",
+    "options": ["A. three", "B. five", "C. seven", "D. ten"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "A major problem of ECOWAS is __.",
+    "options": ["A. excessive political unity", "B. the dominance of one member state", "C. lack of a treaty", "D. too few member states"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 301,
+    "question": "A major merit of a flexible constitution is that it __.",
+    "options": ["A. is easy to amend to meet changing needs", "B. protects fundamental rights from change", "C. ensures judicial review", "D. creates a weak government"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 302,
+    "question": "The legislature is important because it __.",
+    "options": ["A. implements laws", "B. represents the people", "C. interprets laws", "D. commands the armed forces"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 303,
+    "question": "A disadvantage of a parliamentary system is that it can lead to __.",
+    "options": ["A. a strong and stable executive", "B. frequent changes in government", "C. a rigid separation of powers", "D. a ceremonial head of state"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "A major way of safeguarding citizens' rights is through __.",
+    "options": ["A. the existence of an independent press", "B. the abolition of the judiciary", "C. military rule", "D. a one-party system"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 305,
+    "question": "A major function of a party system is to __.",
+    "options": ["A. structure the political process", "B. eliminate all opposition", "C. ensure one party rule", "D. abolish elections"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "An example of a sectional pressure group is __.",
+    "options": ["A. a trade union", "B. a human rights group", "C. an environmental group", "D. a consumer protection group"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The electorate is best defined as __.",
+    "options": ["A. all citizens of a country", "B. all qualified voters", "C. members of political parties", "D. members of parliament"],
+    "answer": "B",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 308,
+    "question": "A major function of the public service commission is to __.",
+    "options": ["A. make laws for the civil service", "B. recruit and discipline civil servants", "C. try civil servants in court", "D. fund political parties"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The pre-colonial Igbo system of government is often described as __.",
+    "options": ["A. democratic and republican", "B. autocratic and centralized", "C. theocratic and feudal", "D. monarchical and hierarchical"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "A major reason for the adoption of Indirect Rule in Northern Nigeria was the __.",
+    "options": ["A. existence of a well-organized emirate system", "B. lack of British personnel", "C. resistance of the people to direct rule", "D. influence of Islamic law"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 311,
+    "question": "The 1946 Richards Constitution in Nigeria was significant because it __.",
+    "options": ["A. introduced the federal principle", "B. granted independence", "C. created a one-party state", "D. abolished the legislative council"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "The 1951 Arden-Clarke Constitution in Ghana was significant because it __.",
+    "options": ["A. gave Africans a majority in the legislative assembly", "B. created a republic", "C. abolished chieftaincy", "D. introduced a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 313,
+    "question": "The 1971 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. republic", "B. constitutional monarchy", "C. one-party state", "D. military dictatorship"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 314,
+    "question": "The 1970 Constitution of The Gambia made the country a __.",
+    "options": ["A. republic", "B. constitutional monarchy", "C. one-party state", "D. military dictatorship"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 315,
+    "question": "The 1985 Constitution of Liberia was significant because it __.",
+    "options": ["A. introduced term limits for the president", "B. established a one-party state", "C. abolished the legislature", "D. restored colonial rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "The NCNC in Nigeria was formed in __.",
+    "options": ["A. 1944", "B. 1947", "C. 1951", "D. 1954"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The UGCC in Ghana was formed in __.",
+    "options": ["A. 1946", "B. 1947", "C. 1949", "D. 1951"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 318,
+    "question": "The SLPP in Sierra Leone was in power from independence until __.",
+    "options": ["A. 1967", "B. 1968", "C. 1971", "D. 1978"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "The APRC in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "B",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 320,
+    "question": "The True Whig Party in Liberia was founded in __.",
+    "options": ["A. 1847", "B. 1869", "C. 1878", "D. 1980"],
+    "answer": "B",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 321,
+    "question": "A major consequence of military rule in West Africa was the __.",
+    "options": ["A. expansion of democratic space", "B. abuse of human rights", "C. strengthening of the judiciary", "D. growth of free press"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 322,
+    "question": "A major merit of a federal system is that it __.",
+    "options": ["A. allows for local autonomy", "B. concentrates power at the centre", "C. abolishes local governments", "D. creates a weak central government"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "A major advantage of a country having a clear foreign policy is that it __.",
+    "options": ["A. guides its international relations", "B. guarantees economic development", "C. eliminates domestic opposition", "D. ensures military victory"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "The United Nations has __ member states.",
+    "options": ["A. 150", "B. 193", "C. 200", "D. 250"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 325,
+    "question": "A major challenge of the African Union is __.",
+    "options": ["A. excessive unity among members", "B. lack of funds and political will", "C. too much public support", "D. the absence of a charter"],
+    "answer": "B",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "The principle of rule of law was popularized by __.",
+    "options": ["A. A.V. Dicey", "B. John Locke", "C. Thomas Hobbes", "D. Karl Marx"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. limit the powers of government", "B. ensure the ruling party remains in power", "C. provide employment for all", "D. eliminate all opposition"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The executive can check the legislature through the power of __.",
+    "options": ["A. veto", "B. judicial review", "C. impeachment", "D. appropriation"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "A major disadvantage of a presidential system is that it can lead to __.",
+    "options": ["A. a weak executive", "B. a rigid separation of powers", "C. frequent changes in government", "D. a ceremonial head of state"],
+    "answer": "B",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 330,
+    "question": "A citizen can participate in politics by __.",
+    "options": ["A. voting in elections", "B. joining the army", "C. paying taxes", "D. obeying the law"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 331,
+    "question": "A major function of a political party is to __.",
+    "options": ["A. recruit and train leaders", "B. conduct elections", "C. interpret laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "The mass media can be controlled by the government through __.",
+    "options": ["A. censorship and licensing", "B. providing accurate information", "C. allowing freedom of expression", "D. funding independent media"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "A major disadvantage of proportional representation is that it __.",
+    "options": ["A. can lead to unstable coalition governments", "B. is unfair to small parties", "C. always produces a strong government", "D. is too simple"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 334,
+    "question": "A major function of local governments is to __.",
+    "options": ["A. make laws for the whole country", "B. provide local services", "C. control the armed forces", "D. conduct foreign policy"],
+    "answer": "B",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 335,
+    "question": "The pre-colonial Yoruba political system had a powerful institution called the __.",
+    "options": ["A. Ogboni", "B. Emirate", "C. Age grade", "D. Village assembly"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 336,
+    "question": "A major impact of colonial rule on West African political systems was the __.",
+    "options": ["A. weakening of traditional institutions", "B. strengthening of traditional institutions", "C. creation of democratic institutions", "D. abolition of all traditional rulers"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "The 1951 Macpherson Constitution in Nigeria was significant because it __.",
+    "options": ["A. involved Nigerians in constitution-making", "B. granted independence", "C. abolished the regional system", "D. introduced a presidential system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "The 1969 Constitution of Ghana was adopted after the __.",
+    "options": ["A. first military coup", "B. second military coup", "C. third military coup", "D. fourth military coup"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The 1978 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. one-party state", "B. multi-party state", "C. military state", "D. confederation"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 340,
+    "question": "The 1997 Constitution of The Gambia was adopted after the __.",
+    "options": ["A. 1994 coup", "B. 1981 coup", "C. 1970 republic", "D. 1965 independence"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "The 1985 Constitution of Liberia was approved by a __.",
+    "options": ["A. referendum", "B. parliamentary vote", "C. military decree", "D. judicial ruling"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 342,
+    "question": "The NNDP in Nigeria was formed in __.",
+    "options": ["A. 1922", "B. 1923", "C. 1944", "D. 1951"],
+    "answer": "B",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "The CPP in Ghana was formed in __.",
+    "options": ["A. 1947", "B. 1949", "C. 1951", "D. 1954"],
+    "answer": "B",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 344,
+    "question": "The APC in Sierra Leone was formed in __.",
+    "options": ["A. 1951", "B. 1957", "C. 1960", "D. 1961"],
+    "answer": "C",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 345,
+    "question": "The UDP in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Ousainou Darboe", "D. Adama Barrow"],
+    "answer": "C",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 346,
+    "question": "The True Whig Party in Liberia was in power from 1878 until __.",
+    "options": ["A. 1947", "B. 1971", "C. 1980", "D. 1985"],
+    "answer": "C",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "A major reason for military intervention in West African politics was __.",
+    "options": ["A. the desire to restore democracy", "B. widespread corruption and mismanagement", "C. popular support for military rule", "D. pressure from foreign governments"],
+    "answer": "B",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 348,
+    "question": "A major disadvantage of a unitary system is that it can lead to __.",
+    "options": ["A. excessive centralization of power", "B. too much local autonomy", "C. a weak central government", "D. duplication of functions"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "A major objective of the foreign policy of West African states is to __.",
+    "options": ["A. promote economic development", "B. isolate themselves from global affairs", "C. support colonialism", "D. avoid international organizations"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 350,
+    "question": "The UN General Assembly is composed of __.",
+    "options": ["A. all member states", "B. the permanent members of the Security Council", "C. the Secretary-General's cabinet", "D. the International Court of Justice"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 351,
+    "question": "A major challenge facing the Commonwealth of Nations is __.",
+    "options": ["A. its lack of relevance in global affairs", "B. excessive funding", "C. too much political power", "D. the absence of a charter"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 352,
+    "question": "Political culture is important because it __.",
+    "options": ["A. shapes political behaviour", "B. determines election results", "C. eliminates political conflict", "D. guarantees economic development"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 353,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. protect fundamental human rights", "B. ensure the ruling party remains in power", "C. provide employment for all", "D. eliminate all opposition"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 354,
+    "question": "The legislature can check the judiciary through its power to __.",
+    "options": ["A. appoint judges", "B. impeach judges", "C. interpret laws", "D. enforce laws"],
+    "answer": "B",
+    "topic": "Organs of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 355,
+    "question": "A major merit of a parliamentary system is that it __.",
+    "options": ["A. ensures close cooperation between the executive and legislature", "B. creates a rigid separation of powers", "C. produces a weak executive", "D. abolishes the office of the prime minister"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 356,
+    "question": "A citizen can lose their citizenship through __.",
+    "options": ["A. renunciation or deprivation", "B. paying taxes", "C. voting in elections", "D. joining the army"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 357,
+    "question": "A major function of a political party is to __.",
+    "options": ["A. aggregate and articulate interests", "B. conduct elections", "C. interpret laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 358,
+    "question": "An example of an institutional pressure group is __.",
+    "options": ["A. the army", "B. a trade union", "C. a human rights group", "D. a professional association"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 359,
+    "question": "A major advantage of the 'first-past-the-post' system is that it __.",
+    "options": ["A. is simple and produces strong governments", "B. gives small parties fair representation", "C. always requires a runoff", "D. is proportional"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 360,
+    "question": "A major function of public corporations is to __.",
+    "options": ["A. provide essential services", "B. generate profit for private shareholders", "C. fund political campaigns", "D. regulate the judiciary"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "The pre-colonial Igbo system of government was characterized by __.",
+    "options": ["A. direct democracy in village assemblies", "B. a centralized monarchy", "C. a theocratic government", "D. a feudal system"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 362,
+    "question": "A major impact of colonial rule on West African economies was the __.",
+    "options": ["A. introduction of cash crop production", "B. complete industrialization", "C. abolition of all trade", "D. creation of a common currency"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 363,
+    "question": "The 1954 Lyttleton Constitution in Nigeria is significant because it __.",
+    "options": ["A. established a true federal system", "B. introduced the elective principle", "C. granted independence", "D. created a one-party state"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 364,
+    "question": "The 1979 Constitution of Ghana was adopted after the __.",
+    "options": ["A. first military coup", "B. second military coup", "C. third military coup", "D. fourth military coup"],
+    "answer": "B",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 365,
+    "question": "The 1991 Constitution of Sierra Leone was adopted to __.",
+    "options": ["A. restore multi-party democracy", "B. introduce a one-party system", "C. establish a military government", "D. create a confederation"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 366,
+    "question": "The 1962 Constitution of The Gambia provided for a __.",
+    "options": ["A. premier and an executive council", "B. military government", "C. one-party state", "D. confederal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 367,
+    "question": "The 1985 Constitution of Liberia was significant because it __.",
+    "options": ["A. introduced term limits for the president", "B. established a one-party state", "C. abolished the legislature", "D. restored colonial rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 368,
+    "question": "The NPC in Nigeria was led by __.",
+    "options": ["A. Ahmadu Bello", "B. Nnamdi Azikiwe", "C. Obafemi Awolowo", "D. Tafawa Balewa"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 369,
+    "question": "The UGCC in Ghana was led by __.",
+    "options": ["A. J.B. Danquah", "B. Kwame Nkrumah", "C. Kofi Abrefa Busia", "D. Jerry Rawlings"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 370,
+    "question": "The SLPP in Sierra Leone was formed in __.",
+    "options": ["A. 1951", "B. 1957", "C. 1960", "D. 1961"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 371,
+    "question": "The PPP in The Gambia was formed in __.",
+    "options": ["A. 1959", "B. 1960", "C. 1962", "D. 1965"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 372,
+    "question": "The True Whig Party in Liberia was founded in __.",
+    "options": ["A. 1847", "B. 1869", "C. 1878", "D. 1980"],
+    "answer": "B",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 373,
+    "question": "A major effect of military rule in West Africa was the __.",
+    "options": ["A. erosion of democratic institutions", "B. strengthening of the rule of law", "C. expansion of civil liberties", "D. growth of free press"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "A major merit of a unitary system is that it __.",
+    "options": ["A. ensures uniformity in administration", "B. protects the powers of component units", "C. allows for a high degree of local autonomy", "D. creates many centres of power"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 375,
+    "question": "A major disadvantage of a country's foreign policy being too Afrocentric is that it can __.",
+    "options": ["A. neglect relations with other regions", "B. lead to too much foreign aid", "C. weaken its ties with Africa", "D. isolate it from the African Union"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 376,
+    "question": "The headquarters of the African Union is located in __.",
+    "options": ["A. Addis Ababa", "B. Abuja", "C. Accra", "D. Nairobi"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 377,
+    "question": "The principle of collective security is central to the __.",
+    "options": ["A. United Nations", "B. Commonwealth of Nations", "C. African Union", "D. ECOWAS"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 378,
+    "question": "A major merit of a rigid constitution is that it __.",
+    "options": ["A. protects fundamental rights from arbitrary change", "B. is easy to amend", "C. allows for quick government action", "D. is always unwritten"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 379,
+    "question": "The executive arm of government in a presidential system is headed by the __.",
+    "options": ["A. president", "B. prime minister", "C. monarch", "D. chief justice"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 380,
+    "question": "A major feature of a monarchical system is that the head of state __.",
+    "options": ["A. inherits the position", "B. is elected by the people", "C. is appointed by the military", "D. serves a fixed term"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 381,
+    "question": "A major duty of a citizen is to __.",
+    "options": ["A. defend the country when necessary", "B. criticize the government always", "C. belong to a political party", "D. avoid paying taxes"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 382,
+    "question": "A political party's manifesto is important because it __.",
+    "options": ["A. outlines its policies and programmes", "B. lists its members' names", "C. contains the constitution of the country", "D. is a legal document for registration"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 383,
+    "question": "The main function of a pressure group is to __.",
+    "options": ["A. influence government policy", "B. contest elections", "C. make laws", "D. run the government"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 384,
+    "question": "A major disadvantage of the 'first-past-the-post' electoral system is that it __.",
+    "options": ["A. can produce a government with minority votes", "B. is too complex for voters", "C. always requires a runoff election", "D. favors small parties"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 385,
+    "question": "A public corporation can be controlled by the government through __.",
+    "options": ["A. the appointment of its board", "B. allowing it to operate freely", "C. selling all its shares to the public", "D. abolishing its board of directors"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 386,
+    "question": "The pre-colonial Igbo political system was based on __.",
+    "options": ["A. village assemblies and age grades", "B. a centralised monarchy", "C. a theocratic government", "D. a feudal system"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 387,
+    "question": "The British policy of Indirect Rule was difficult to apply in Eastern Nigeria because __.",
+    "options": ["A. there were no traditional rulers with centralized authority", "B. the people were too educated", "C. the British had too many officials", "D. the people refused to pay taxes"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 388,
+    "question": "The 1946 Richards Constitution in Nigeria was significant because it __.",
+    "options": ["A. created regional assemblies", "B. introduced the elective principle", "C. granted independence", "D. established a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 389,
+    "question": "The 1954 Constitution of Ghana was significant because it __.",
+    "options": ["A. granted internal self-government", "B. created a republic", "C. abolished the chieftaincy", "D. introduced a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 390,
+    "question": "The 1961 Constitution of Sierra Leone was the __.",
+    "options": ["A. independence constitution", "B. republican constitution", "C. one-party constitution", "D. military constitution"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "question": "The 1970 Republican Constitution of The Gambia replaced the __.",
+    "options": ["A. Queen as head of state with a president", "B. prime minister with a monarch", "C. parliament with a council of state", "D. judiciary with a military tribunal"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 392,
+    "question": "The 1985 Constitution of Liberia introduced a presidential term of __.",
+    "options": ["A. six years", "B. four years", "C. five years", "D. eight years"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 393,
+    "question": "The Egbe Omo Oduduwa was a cultural organization that later evolved into the __.",
+    "options": ["A. Action Group", "B. NCNC", "C. NPC", "D. NNDP"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 394,
+    "question": "The National Liberation Movement (NLM) in Ghana was formed in opposition to the __.",
+    "options": ["A. CPP", "B. UGCC", "C. NDC", "D. NPP"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 395,
+    "question": "The APC in Sierra Leone was formed as a breakaway from the __.",
+    "options": ["A. SLPP", "B. NDA", "C. PMDC", "D. C4C"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 396,
+    "question": "The PPP in The Gambia was in power from independence until __.",
+    "options": ["A. 1994", "B. 1981", "C. 2000", "D. 2017"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 397,
+    "question": "The True Whig Party in Liberia represented the interests of the __.",
+    "options": ["A. Americo-Liberian elite", "B. indigenous population", "C. military", "D. foreign investors"],
+    "answer": "A",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 398,
+    "question": "Military rule is often characterized by the __.",
+    "options": ["A. suspension of the constitution", "B. rule of law", "C. protection of human rights", "D. regular elections"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 399,
+    "question": "A federal system of government is suitable for a country with __.",
+    "options": ["A. diverse ethnic groups", "B. a homogeneous population", "C. a very small territory", "D. no written constitution"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "question": "The foreign policy of a country is primarily designed to promote its __.",
+    "options": ["A. national interest", "B. religious values", "C. cultural superiority", "D. military expansion"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "question": "The African Union (AU) was established in __.",
+    "options": ["A. 2002", "B. 1963", "C. 1990", "D. 2010"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "question": "A major problem of the United Nations is the __.",
+    "options": ["A. veto power of the permanent members", "B. lack of a headquarters", "C. absence of a charter", "D. small number of member states"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 403,
+    "question": "Legitimacy is important for a government because it __.",
+    "options": ["A. ensures obedience and stability", "B. guarantees economic prosperity", "C. eliminates all opposition", "D. allows the use of force"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 404,
+    "question": "A constitution that is not codified in a single document is called an __.",
+    "options": ["A. unwritten constitution", "B. written constitution", "C. rigid constitution", "D. federal constitution"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 405,
+    "question": "The concept of judicial independence means that judges should __.",
+    "options": ["A. decide cases without fear or favor", "B. be loyal to the president", "C. follow the instructions of parliament", "D. join political parties"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 406,
+    "question": "A major disadvantage of a confederal system is that it __.",
+    "options": ["A. creates a weak central authority", "B. creates a very strong central government", "C. gives too much power to the centre", "D. abolishes the component states"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 407,
+    "question": "A citizen by registration is one who __.",
+    "options": ["A. has applied for and been granted citizenship", "B. is born in the country", "C. is born to citizen parents", "D. acquires citizenship by marriage only"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 408,
+    "question": "A major function of political parties in a democracy is to __.",
+    "options": ["A. educate voters on political issues", "B. conduct elections", "C. make laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 409,
+    "question": "A pressure group that uses illegal methods to achieve its aims is called an __.",
+    "options": ["A. anomic group", "B. institutional group", "C. associational group", "D. non-associational group"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 410,
+    "question": "A major advantage of proportional representation is that it __.",
+    "options": ["A. gives a fair reflection of votes", "B. is simple to understand", "C. always produces a strong government", "D. eliminates small parties"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 411,
+    "question": "A major problem of local governments in West Africa is __.",
+    "options": ["A. inadequate finance", "B. excessive autonomy", "C. too much public participation", "D. lack of responsibilities"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 412,
+    "question": "The pre-colonial Hausa/Fulani system of government was based on __.",
+    "options": ["A. Islamic law and tradition", "B. Christian principles", "C. traditional African religion", "D. Western democratic ideas"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 413,
+    "question": "The French colonial policy of 'Assimilation' was based on the idea that __.",
+    "options": ["A. Africans should be educated to become French citizens", "B. African culture was superior to French culture", "C. Africans should be ruled indirectly", "D. France should not interfere in African affairs"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 414,
+    "question": "The 1951 Macpherson Constitution in Nigeria introduced a system of __.",
+    "options": ["A. quasi-federalism", "B. direct rule", "C. indirect rule", "D. unitary government"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 415,
+    "question": "The 1960 Constitution of Ghana was the __.",
+    "options": ["A. independence constitution", "B. republican constitution", "C. one-party constitution", "D. military constitution"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 416,
+    "question": "The 1978 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. one-party state", "B. multi-party state", "C. military state", "D. confederation"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 417,
+    "question": "The 1997 Constitution of The Gambia was adopted under the leadership of __.",
+    "options": ["A. Yahya Jammeh", "B. Dawda Jawara", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 418,
+    "question": "The 1985 Constitution of Liberia was approved by a __.",
+    "options": ["A. referendum", "B. parliamentary vote", "C. military decree", "D. judicial ruling"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 419,
+    "question": "The Action Group (AG) in Nigeria was founded in __.",
+    "options": ["A. 1951", "B. 1948", "C. 1954", "D. 1959"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 420,
+    "question": "The CPP in Ghana adopted the slogan __.",
+    "options": ["A. 'Self-government now'", "B. 'Independence now'", "C. 'Freedom now'", "D. 'Power to the people'"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 421,
+    "question": "The SLPP in Sierra Leone was initially led by __.",
+    "options": ["A. Milton Margai", "B. Siaka Stevens", "C. Albert Margai", "D. Ahmad Tejan Kabbah"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 422,
+    "question": "The UDP in The Gambia was formed in __.",
+    "options": ["A. 1996", "B. 1994", "C. 2001", "D. 2016"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 423,
+    "question": "A major cause of military coups in West Africa was __.",
+    "options": ["A. economic mismanagement and corruption", "B. strong democratic institutions", "C. popular support for military rule", "D. the absence of political parties"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 424,
+    "question": "A major merit of a federal system is that it __.",
+    "options": ["A. brings government closer to the people", "B. concentrates power at the centre", "C. abolishes local governments", "D. creates a weak central government"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 425,
+    "question": "A major challenge of Nigeria's foreign policy is __.",
+    "options": ["A. balancing African interests with global engagement", "B. too much foreign aid", "C. excessive military power", "D. lack of natural resources"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 426,
+    "question": "The Commonwealth of Nations has its headquarters in __.",
+    "options": ["A. London", "B. New York", "C. Geneva", "D. Paris"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 427,
+    "question": "A major achievement of the African Union is the __.",
+    "options": ["A. creation of the African Continental Free Trade Area", "B. establishment of a single currency", "C. abolition of all borders", "D. unification of all African states"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 428,
+    "question": "Authority in a political system refers to the __.",
+    "options": ["A. right to give orders and expect obedience", "B. use of force to compel obedience", "C. ability to win elections", "D. ownership of economic resources"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 429,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. ensure the separation of powers", "B. guarantee that the ruling party stays in power", "C. provide jobs for party members", "D. eliminate all political opposition"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 430,
+    "question": "The principle of checks and balances is intended to __.",
+    "options": ["A. prevent any one organ from abusing its powers", "B. promote cooperation between organs of government", "C. ensure the judiciary controls the legislature", "D. make the executive supreme"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 431,
+    "question": "A major feature of a parliamentary system is that the government is responsible to the __.",
+    "options": ["A. legislature", "B. judiciary", "C. monarch", "D. military"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 432,
+    "question": "A citizen's obligation to pay taxes is important because it __.",
+    "options": ["A. provides revenue for government services", "B. is a way to support political parties", "C. ensures the citizen can vote", "D. is a requirement for holding a passport"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 433,
+    "question": "A major function of political parties is to __.",
+    "options": ["A. recruit and train political leaders", "B. conduct elections", "C. interpret laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 434,
+    "question": "Public opinion is best defined as the __.",
+    "options": ["A. aggregate of individual attitudes on issues", "B. views of the government", "C. opinion of the judiciary", "D. views of the civil service"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 435,
+    "question": "A major advantage of the 'first-past-the-post' system is that it __.",
+    "options": ["A. is simple and produces strong governments", "B. gives small parties fair representation", "C. always requires a runoff", "D. is proportional"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 436,
+    "question": "The civil service is important because it __.",
+    "options": ["A. implements government policies", "B. makes laws", "C. interprets laws", "D. appoints the president"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 437,
+    "question": "The pre-colonial Akan political system had a queen mother whose role was to __.",
+    "options": ["A. advise the chief and nominate successors", "B. rule the state alone", "C. command the army", "D. collect taxes"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 438,
+    "question": "A major impact of colonial rule on West Africa was the __.",
+    "options": ["A. creation of arbitrary boundaries", "B. complete preservation of African culture", "C. establishment of democratic governments", "D. abolition of all traditional institutions"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 439,
+    "question": "The 1954 Lyttleton Constitution in Nigeria established a __.",
+    "options": ["A. federal system", "B. unitary system", "C. confederal system", "D. republican system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 440,
+    "question": "The 1979 Constitution of Ghana was the constitution of the __.",
+    "options": ["A. Third Republic", "B. Second Republic", "C. Fourth Republic", "D. First Republic"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 441,
+    "question": "The 1991 Constitution of Sierra Leone was adopted to __.",
+    "options": ["A. restore multi-party democracy", "B. introduce a one-party system", "C. establish a military government", "D. create a confederation"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 442,
+    "question": "The 1960 Constitution of The Gambia provided for __.",
+    "options": ["A. universal adult suffrage", "B. a one-party state", "C. a federal system", "D. military rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 443,
+    "question": "The 1985 Constitution of Liberia reduced the presidential term from eight to __ years.",
+    "options": ["A. six", "B. four", "C. five", "D. seven"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 444,
+    "question": "The NPC in Nigeria was formed in __.",
+    "options": ["A. 1951", "B. 1944", "C. 1954", "D. 1959"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 445,
+    "question": "The NDC in Ghana was founded in __.",
+    "options": ["A. 1992", "B. 1982", "C. 1996", "D. 2000"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 446,
+    "question": "The APC in Sierra Leone was in power from __.",
+    "options": ["A. 1968 to 1996", "B. 1961 to 1996", "C. 1996 to 2007", "D. 2007 to 2018"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 447,
+    "question": "The PPP in The Gambia was founded by __.",
+    "options": ["A. Dawda Jawara", "B. Yahya Jammeh", "C. Ousainou Darboe", "D. Adama Barrow"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 448,
+    "question": "A major effect of military rule on the economy of West African states was __.",
+    "options": ["A. mismanagement and decline", "B. rapid economic growth", "C. increased foreign investment", "D. reduced inflation"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 449,
+    "question": "A major feature of a unitary system is that __.",
+    "options": ["A. the central government can create or abolish local units", "B. component units have residual powers", "C. there is always a written constitution", "D. the judiciary is separate from the executive"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 450,
+    "question": "A major objective of the foreign policy of West African states is to __.",
+    "options": ["A. promote regional cooperation", "B. isolate themselves from global affairs", "C. support colonialism", "D. avoid international organizations"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 451,
+    "question": "The UN Security Council has __ permanent members.",
+    "options": ["A. five", "B. three", "C. seven", "D. ten"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 452,
+    "question": "A major problem of ECOWAS is __.",
+    "options": ["A. the dominance of one member state", "B. excessive political unity", "C. lack of a treaty", "D. too few member states"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 453,
+    "question": "A major merit of a flexible constitution is that it __.",
+    "options": ["A. is easy to amend to meet changing needs", "B. protects fundamental rights from change", "C. ensures judicial review", "D. creates a weak government"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 454,
+    "question": "The legislature is important because it __.",
+    "options": ["A. represents the people", "B. implements laws", "C. interprets laws", "D. commands the armed forces"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 455,
+    "question": "A disadvantage of a parliamentary system is that it can lead to __.",
+    "options": ["A. frequent changes in government", "B. a strong and stable executive", "C. a rigid separation of powers", "D. a ceremonial head of state"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 456,
+    "question": "A major way of safeguarding citizens' rights is through __.",
+    "options": ["A. the existence of an independent press", "B. the abolition of the judiciary", "C. military rule", "D. a one-party system"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 457,
+    "question": "A major function of a party system is to __.",
+    "options": ["A. structure the political process", "B. eliminate all opposition", "C. ensure one party rule", "D. abolish elections"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 458,
+    "question": "An example of a sectional pressure group is __.",
+    "options": ["A. a trade union", "B. a human rights group", "C. an environmental group", "D. a consumer protection group"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 459,
+    "question": "The electorate is best defined as __.",
+    "options": ["A. all qualified voters", "B. all citizens of a country", "C. members of political parties", "D. members of parliament"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 460,
+    "question": "A major function of the public service commission is to __.",
+    "options": ["A. recruit and discipline civil servants", "B. make laws for the civil service", "C. try civil servants in court", "D. fund political parties"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 461,
+    "question": "The pre-colonial Igbo system of government is often described as __.",
+    "options": ["A. democratic and republican", "B. autocratic and centralized", "C. theocratic and feudal", "D. monarchical and hierarchical"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 462,
+    "question": "A major reason for the adoption of Indirect Rule in Northern Nigeria was the __.",
+    "options": ["A. existence of a well-organized emirate system", "B. lack of British personnel", "C. resistance of the people to direct rule", "D. influence of Islamic law"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 463,
+    "question": "The 1946 Richards Constitution in Nigeria was significant because it __.",
+    "options": ["A. introduced the federal principle", "B. granted independence", "C. created a one-party state", "D. abolished the legislative council"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 464,
+    "question": "The 1951 Arden-Clarke Constitution in Ghana was significant because it __.",
+    "options": ["A. gave Africans a majority in the legislative assembly", "B. created a republic", "C. abolished chieftaincy", "D. introduced a federal system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 465,
+    "question": "The 1971 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. republic", "B. constitutional monarchy", "C. one-party state", "D. military dictatorship"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 466,
+    "question": "The 1970 Constitution of The Gambia made the country a __.",
+    "options": ["A. republic", "B. constitutional monarchy", "C. one-party state", "D. military dictatorship"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 467,
+    "question": "The 1985 Constitution of Liberia was significant because it __.",
+    "options": ["A. introduced term limits for the president", "B. established a one-party state", "C. abolished the legislature", "D. restored colonial rule"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 468,
+    "question": "The NCNC in Nigeria was formed in __.",
+    "options": ["A. 1944", "B. 1947", "C. 1951", "D. 1954"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 469,
+    "question": "The UGCC in Ghana was formed in __.",
+    "options": ["A. 1947", "B. 1946", "C. 1949", "D. 1951"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 470,
+    "question": "The SLPP in Sierra Leone was in power from independence until __.",
+    "options": ["A. 1967", "B. 1968", "C. 1971", "D. 1978"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 471,
+    "question": "The APRC in The Gambia was founded by __.",
+    "options": ["A. Yahya Jammeh", "B. Dawda Jawara", "C. Adama Barrow", "D. Ousainou Darboe"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 472,
+    "question": "The True Whig Party in Liberia was founded in __.",
+    "options": ["A. 1869", "B. 1847", "C. 1878", "D. 1980"],
+    "answer": "A",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 473,
+    "question": "A major consequence of military rule in West Africa was the __.",
+    "options": ["A. abuse of human rights", "B. expansion of democratic space", "C. strengthening of the judiciary", "D. growth of free press"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 474,
+    "question": "A major merit of a federal system is that it __.",
+    "options": ["A. allows for local autonomy", "B. concentrates power at the centre", "C. abolishes local governments", "D. creates a weak central government"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 475,
+    "question": "A major advantage of a country having a clear foreign policy is that it __.",
+    "options": ["A. guides its international relations", "B. guarantees economic development", "C. eliminates domestic opposition", "D. ensures military victory"],
+    "answer": "A",
+    "topic": "Foreign Policies of West African Countries",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 476,
+    "question": "The United Nations has __ member states.",
+    "options": ["A. 193", "B. 150", "C. 200", "D. 250"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 477,
+    "question": "A major challenge of the African Union is __.",
+    "options": ["A. lack of funds and political will", "B. excessive unity among members", "C. too much public support", "D. the absence of a charter"],
+    "answer": "A",
+    "topic": "International Organizations",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 478,
+    "question": "The principle of rule of law was popularized by __.",
+    "options": ["A. A.V. Dicey", "B. John Locke", "C. Thomas Hobbes", "D. Karl Marx"],
+    "answer": "A",
+    "topic": "Basic Concepts and Principles of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 479,
+    "question": "A major function of a constitution is to __.",
+    "options": ["A. limit the powers of government", "B. ensure the ruling party remains in power", "C. provide employment for all", "D. eliminate all opposition"],
+    "answer": "A",
+    "topic": "Constitutions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 480,
+    "question": "The executive can check the legislature through the power of __.",
+    "options": ["A. veto", "B. judicial review", "C. impeachment", "D. appropriation"],
+    "answer": "A",
+    "topic": "Organs of Government",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 481,
+    "question": "A major disadvantage of a presidential system is that it can lead to __.",
+    "options": ["A. a rigid separation of powers", "B. a weak executive", "C. frequent changes in government", "D. a ceremonial head of state"],
+    "answer": "A",
+    "topic": "State Structure and Characteristics of Government",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 482,
+    "question": "A citizen can participate in politics by __.",
+    "options": ["A. voting in elections", "B. joining the army", "C. paying taxes", "D. obeying the law"],
+    "answer": "A",
+    "topic": "Citizenship",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 483,
+    "question": "A major function of a political party is to __.",
+    "options": ["A. recruit and train leaders", "B. conduct elections", "C. interpret laws", "D. appoint judges"],
+    "answer": "A",
+    "topic": "Political Parties and Party Systems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 484,
+    "question": "The mass media can be controlled by the government through __.",
+    "options": ["A. censorship and licensing", "B. providing accurate information", "C. allowing freedom of expression", "D. funding independent media"],
+    "answer": "A",
+    "topic": "Pressure Groups, Public Opinion and Mass Media",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 485,
+    "question": "A major disadvantage of proportional representation is that it __.",
+    "options": ["A. can lead to unstable coalition governments", "B. is unfair to small parties", "C. always produces a strong government", "D. is too simple"],
+    "answer": "A",
+    "topic": "Electoral Systems and Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 486,
+    "question": "A major function of local governments is to __.",
+    "options": ["A. provide local services", "B. make laws for the whole country", "C. control the armed forces", "D. conduct foreign policy"],
+    "answer": "A",
+    "topic": "Public/Civil Service Administration",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 487,
+    "question": "The pre-colonial Yoruba political system had a powerful institution called the __.",
+    "options": ["A. Ogboni", "B. Emirate", "C. Age grade", "D. Village assembly"],
+    "answer": "A",
+    "topic": "Pre-Colonial Political Systems - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 488,
+    "question": "A major impact of colonial rule on West African political systems was the __.",
+    "options": ["A. weakening of traditional institutions", "B. strengthening of traditional institutions", "C. creation of democratic institutions", "D. abolition of all traditional rulers"],
+    "answer": "A",
+    "topic": "Colonial Administration",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 489,
+    "question": "The 1951 Macpherson Constitution in Nigeria was significant because it __.",
+    "options": ["A. involved Nigerians in constitution-making", "B. granted independence", "C. abolished the regional system", "D. introduced a presidential system"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 490,
+    "question": "The 1969 Constitution of Ghana was adopted after the __.",
+    "options": ["A. first military coup", "B. second military coup", "C. third military coup", "D. fourth military coup"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Ghana",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "The 1978 Constitution of Sierra Leone made the country a __.",
+    "options": ["A. one-party state", "B. multi-party state", "C. military state", "D. confederation"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Sierra Leone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 492,
+    "question": "The 1997 Constitution of The Gambia was adopted after the __.",
+    "options": ["A. 1994 coup", "B. 1981 coup", "C. 1970 republic", "D. 1965 independence"],
+    "answer": "A",
+    "topic": "Constitutional Developments - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "The 1985 Constitution of Liberia was approved by a __.",
+    "options": ["A. referendum", "B. parliamentary vote", "C. military decree", "D. judicial ruling"],
+    "answer": "A",
+    "topic": "Constitutional Developments - Liberia",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 494,
+    "question": "The NNDP in Nigeria was formed in __.",
+    "options": ["A. 1923", "B. 1922", "C. 1944", "D. 1951"],
+    "answer": "A",
+    "topic": "Political Parties - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "The CPP in Ghana was formed in __.",
+    "options": ["A. 1949", "B. 1947", "C. 1951", "D. 1954"],
+    "answer": "A",
+    "topic": "Political Parties - Ghana",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 496,
+    "question": "The APC in Sierra Leone was formed in __.",
+    "options": ["A. 1960", "B. 1951", "C. 1957", "D. 1961"],
+    "answer": "A",
+    "topic": "Political Parties - Sierra Leone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 497,
+    "question": "The UDP in The Gambia was founded by __.",
+    "options": ["A. Ousainou Darboe", "B. Dawda Jawara", "C. Yahya Jammeh", "D. Adama Barrow"],
+    "answer": "A",
+    "topic": "Political Parties - The Gambia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "The True Whig Party in Liberia was in power from 1878 until __.",
+    "options": ["A. 1980", "B. 1947", "C. 1971", "D. 1985"],
+    "answer": "A",
+    "topic": "Political Parties - Liberia",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "A major reason for military intervention in West African politics was __.",
+    "options": ["A. widespread corruption and mismanagement", "B. the desire to restore democracy", "C. popular support for military rule", "D. pressure from foreign governments"],
+    "answer": "A",
+    "topic": "Military Rule in West Africa",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 500,
+    "question": "A major disadvantage of a unitary system is that it can lead to __.",
+    "options": ["A. excessive centralization of power", "B. too much local autonomy", "C. a weak central government", "D. duplication of functions"],
+    "answer": "A",
+    "topic": "Federal/Unitary Systems of Government in West Africa",
+    "difficulty": "Medium"
+  }
+]

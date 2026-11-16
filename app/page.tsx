@@ -4,7 +4,6 @@ import { useEffect, useState, useCallback } from "react"
 import dynamic from "next/dynamic"
 import { Home, Crown, User, ShieldCheck, MessageCircle, TrendingUp, Sun, Moon, LogOut, RotateCw, PanelLeftClose, PanelLeft } from "lucide-react"
 import { useTheme } from "next-themes"
-import { subscribeToUnreadCount } from "@/lib/chat"
 import { LandingView } from "@/components/landing-view"
 import { AuthView } from "@/components/auth-view"
 import { DashboardView } from "@/components/dashboard-view"
@@ -17,10 +16,17 @@ import { ADMIN_EMAIL } from "@/lib/constants"
 import { auth } from "@/lib/firebase"
 import { onAuthStateChanged, signOut, type User as FirebaseUser } from "firebase/auth"
 import { useUserStats } from "@/hooks/use-user-stats"
+import { useChatUnreadCount } from "@/hooks/use-chat-unread-count"
 import { useNetworkStatus } from "@/hooks/use-network-status"
 import { recordQuizResult, updateUserPresence, ensureUserStats } from "@/lib/user-stats"
 import type { SubjectKey } from "@/lib/question-types"
 import type { Question } from "@/lib/question-types"
+import {
+  getSSSSubjectByKey,
+  type SSSExamType,
+  type SSSPaperType,
+  type SSSSubjectKey,
+} from "@/lib/sss-config"
 import { type Survey } from "@/lib/surveys"
 import { useNotifications } from "@/hooks/use-notifications"
 
@@ -28,6 +34,9 @@ const ProView = dynamic(() => import("@/components/pro-view").then((m) => m.ProV
 const ProfileView = dynamic(() => import("@/components/profile-view").then((m) => m.ProfileView))
 const SubjectPicker = dynamic(() => import("@/components/subject-picker").then((m) => m.SubjectPicker))
 const SolidQuiz = dynamic(() => import("@/components/solid-quiz").then((m) => m.SolidQuiz))
+const SSSSubjectPicker = dynamic(() => import("@/components/sss-subject-picker").then((m) => m.SSSSubjectPicker))
+const SSSExamPicker = dynamic(() => import("@/components/sss-exam-picker").then((m) => m.SSSExamPicker))
+const SSSSolidQuiz = dynamic(() => import("@/components/sss-solid-quiz").then((m) => m.SSSSolidQuiz))
 const QuizResult = dynamic(() => import("@/components/quiz-result").then((m) => m.QuizResult))
 const LegalView = dynamic(() => import("@/components/legal-view").then((m) => m.LegalView))
 const LeaderboardView = dynamic(() => import("@/components/leaderboard-view").then((m) => m.LeaderboardView))
@@ -59,6 +68,7 @@ type Screen =
   | "auth"
   | "app"
   | "solidq-subject"
+  | "solidq-exam"
   | "solidq-count"
   | "solidq-time"
   | "solidq-quiz"
@@ -94,6 +104,12 @@ const NAV_ITEMS: { tab: Tab; icon: typeof Home; label: string }[] = [
   { tab: "profile", icon: User, label: "Profile" },
 ]
 
+const SSS_QUESTION_COUNTS = [
+  { count: 20, label: "Quick Objective Drill", duration: "20 mins" },
+  { count: 40, label: "Standard Objective Session", duration: "40 mins" },
+  { count: 60, label: "Full Objective CBT Simulation", duration: "60 mins" },
+]
+
 export default function StudyOSApp() {
   const [screen, setScreen] = useState<Screen>("landing")
   const [authInitialMode, setAuthInitialMode] = useState<"signin" | "signup">("signin")
@@ -105,6 +121,7 @@ export default function StudyOSApp() {
   const { isOnline, isNetworkUnstable, recheckConnection } = useNetworkStatus()
 
   const [mounted, setMounted] = useState(false)
+  const [localCategory, setLocalCategory] = useState<"JSS" | "SSS">("JSS")
   const [quotaBlocked, setQuotaBlocked] = useState(false)
   const [loadTimedOut, setLoadTimedOut] = useState(false)
   const { theme, setTheme } = useTheme()
@@ -112,6 +129,10 @@ export default function StudyOSApp() {
   useEffect(() => {
     setMounted(true)
     try {
+      const savedCategory = localStorage.getItem("studyos_category")
+      if (savedCategory === "SSS" || savedCategory === "JSS") {
+        setLocalCategory(savedCategory)
+      }
       const hasBackup = Object.keys(localStorage).some(
         (k) => k.startsWith("studyos_cache_userStats_backup_") || k.startsWith("firebase:authUser:")
       )
@@ -119,6 +140,17 @@ export default function StudyOSApp() {
     } catch {}
     return subscribeQuotaExceeded((exceeded) => setQuotaBlocked(exceeded))
   }, [])
+
+  useEffect(() => {
+    if (stats?.category === "JSS" || stats?.category === "SSS") {
+      setLocalCategory(stats.category)
+      try {
+        localStorage.setItem("studyos_category", stats.category)
+      } catch {}
+    }
+  }, [stats?.category])
+
+  const activeCategory: "JSS" | "SSS" = localCategory
 
   // Enforce Light mode on the Landing and Auth screens
   useEffect(() => {
@@ -136,6 +168,9 @@ export default function StudyOSApp() {
 
   // Quiz flow state
   const [selectedSubject, setSelectedSubject] = useState<SubjectKey>("mathematics")
+  const [sssSubject, setSssSubject] = useState<SSSSubjectKey>("biology")
+  const [sssExamType, setSssExamType] = useState<SSSExamType>("neco")
+  const [sssPaperType, setSssPaperType] = useState<SSSPaperType>("objective")
   const [selectedTopic, setSelectedTopic] = useState<string>("__all__")
   const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(100)
   const [selectedTimeLimit, setSelectedTimeLimit] = useState<number>(60)
@@ -143,7 +178,7 @@ export default function StudyOSApp() {
   const [selectedQuizResult, setSelectedQuizResult] = useState<{ title: string, questions: Question[], answers: (number|null)[] } | null>(null)
   const [reviewSource, setReviewSource] = useState<"history" | "result">("history")
   const [activeAchievement, setActiveAchievement] = useState<{ title: string; streak: number } | null>(null)
-  const [unreadCount, setUnreadCount] = useState(0)
+  const unreadCount = useChatUnreadCount(user, stats)
   const [activeProfileUserId, setActiveProfileUserId] = useState<string | null>(null)
   const [initialChatId, setInitialChatId] = useState<string | null>(null)
   const [hideChatBottomNav, setHideChatBottomNav] = useState(false)
@@ -188,17 +223,6 @@ export default function StudyOSApp() {
       console.error("Failed to start DM session:", err)
     }
   }
-
-  // Real-time unread badge for navigation
-  useEffect(() => {
-    if (!user || !stats) return
-    const unsub = subscribeToUnreadCount(
-      user.uid,
-      stats.lastChatReadAt || null,
-      (count) => setUnreadCount(count)
-    )
-    return () => unsub()
-  }, [user, stats?.lastChatReadAt])
 
   useEffect(() => {
     const isAuthRoute =
@@ -350,16 +374,28 @@ export default function StudyOSApp() {
     )
   }
 
+  const syncCategoryBeforeEnter = () => {
+    try {
+      const saved = localStorage.getItem("studyos_category")
+      if (stats?.category === "SSS" || stats?.category === "JSS") {
+        setLocalCategory(stats.category)
+      } else if (saved === "SSS" || saved === "JSS") {
+        setLocalCategory(saved)
+      }
+    } catch {}
+  }
+
   const handleLogin = () => {
-    if (
-      typeof window !== "undefined" &&
-      (stats?.category === "SSS" || localStorage.getItem("studyos_category") === "SSS")
-    ) {
-      window.location.href = "/sss"
-      return
-    }
+    syncCategoryBeforeEnter()
     setScreen("app")
     setActiveTab("home")
+  }
+
+  const handleCategoryChange = (nextCategory: "JSS" | "SSS") => {
+    setLocalCategory(nextCategory)
+    setScreen("app")
+    setActiveTab("home")
+    refetchStats().catch(() => {})
   }
 
   const isAdmin = user?.email === ADMIN_EMAIL
@@ -422,13 +458,7 @@ export default function StudyOSApp() {
           isAuthenticated={Boolean(user)}
           firstName={firstName}
           onContinueToDashboard={() => {
-            if (
-              typeof window !== "undefined" &&
-              (stats?.category === "SSS" || localStorage.getItem("studyos_category") === "SSS")
-            ) {
-              window.location.href = "/sss"
-              return
-            }
+            syncCategoryBeforeEnter()
             setScreen("app")
             setActiveTab("home")
           }}
@@ -487,9 +517,9 @@ export default function StudyOSApp() {
                     <Icon className="w-5 h-5 shrink-0" strokeWidth={isActive ? 2.5 : 2} />
                     {!sidebarCollapsed && <span className="flex-1 truncate">{label}</span>}
                     
-                    {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
+                    {tab === "chat" && unreadCount > 0 && (
                       <span className={`min-w-5 h-5 px-1.5 rounded-full bg-red-500 text-white text-[10px] font-black flex items-center justify-center border border-background shadow-md ${sidebarCollapsed ? 'absolute -top-1 -right-1 min-w-4 h-4 px-1 text-[8px]' : ''}`}>
-                        {unreadCount}
+                        {unreadCount > 99 ? "99+" : unreadCount}
                       </span>
                     )}
 
@@ -625,21 +655,56 @@ export default function StudyOSApp() {
 
         {screen === "solidq-subject" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <SubjectPicker
+            {activeCategory === "SSS" ? (
+              <SSSSubjectPicker
+                onSelect={(key) => {
+                  setSssSubject(key)
+                  setScreen("solidq-exam")
+                }}
+                onBack={goHome}
+              />
+            ) : (
+              <SubjectPicker
+                mode="solidq"
+                onSelect={(key) => { setSelectedSubject(key); setScreen("solidq-count") }}
+                onBack={goHome}
+              />
+            )}
+          </div>
+        )}
+
+        {screen === "solidq-exam" && activeCategory === "SSS" && (
+          <div className="flex-1 overflow-y-auto scrollbar-hide">
+            <SSSExamPicker
+              subjectKey={sssSubject}
               mode="solidq"
-              onSelect={(key) => { setSelectedSubject(key); setScreen("solidq-count") }}
-              onBack={goHome}
+              onSelect={(examType, paperType) => {
+                setSssExamType(examType)
+                setSssPaperType(paperType)
+                setScreen("solidq-count")
+              }}
+              onBack={() => setScreen("solidq-subject")}
+              onBackToDashboard={goHome}
             />
           </div>
         )}
 
         {screen === "solidq-count" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <QuestionCountPicker
-              subjectKey={selectedSubject}
-              onSelect={(count) => { setSelectedQuestionCount(count); setScreen("solidq-time") }}
-              onBack={() => setScreen("solidq-subject")}
-            />
+            {activeCategory === "SSS" ? (
+              <QuestionCountPicker
+                subjectLabel={`${getSSSSubjectByKey(sssSubject).name} (${sssExamType.toUpperCase()} ${sssPaperType === "theory" ? "Theory" : "OBJ"})`}
+                counts={SSS_QUESTION_COUNTS}
+                onSelect={(count) => { setSelectedQuestionCount(count); setScreen("solidq-time") }}
+                onBack={() => setScreen("solidq-exam")}
+              />
+            ) : (
+              <QuestionCountPicker
+                subjectKey={selectedSubject}
+                onSelect={(count) => { setSelectedQuestionCount(count); setScreen("solidq-time") }}
+                onBack={() => setScreen("solidq-subject")}
+              />
+            )}
           </div>
         )}
 
@@ -655,13 +720,25 @@ export default function StudyOSApp() {
 
         {screen === "solidq-quiz" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <SolidQuiz
-              subjectKey={selectedSubject}
-              questionCount={selectedQuestionCount}
-              timeLimit={selectedTimeLimit}
-              onBack={() => setScreen("solidq-time")}
-              onComplete={handleQuizFinish}
-            />
+            {activeCategory === "SSS" ? (
+              <SSSSolidQuiz
+                subjectKey={sssSubject}
+                examType={sssExamType}
+                paperType={sssPaperType}
+                questionCount={selectedQuestionCount}
+                timeLimit={selectedTimeLimit}
+                onBack={() => setScreen("solidq-time")}
+                onComplete={handleQuizFinish}
+              />
+            ) : (
+              <SolidQuiz
+                subjectKey={selectedSubject}
+                questionCount={selectedQuestionCount}
+                timeLimit={selectedTimeLimit}
+                onBack={() => setScreen("solidq-time")}
+                onComplete={handleQuizFinish}
+              />
+            )}
           </div>
         )}
 
@@ -675,7 +752,7 @@ export default function StudyOSApp() {
           </div>
         )}
 
-        {screen === "surveys-list" && (
+        {activeCategory === "JSS" && screen === "surveys-list" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             <SurveysView
               stats={stats}
@@ -688,7 +765,7 @@ export default function StudyOSApp() {
           </div>
         )}
 
-        {screen === "survey-quiz" && activeSurvey && user && (
+        {activeCategory === "JSS" && screen === "survey-quiz" && activeSurvey && user && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             <SurveyQuiz
               survey={activeSurvey}
@@ -745,7 +822,17 @@ export default function StudyOSApp() {
                     user={user}
                     stats={stats}
                     statsLoading={statsLoading}
-                    onStartSolidQ={() => setScreen("solidq-subject")}
+                    category={activeCategory}
+                    onStartSolidQ={() => {
+                      if (activeCategory === "SSS") {
+                        setSelectedQuestionCount(40)
+                        setSelectedTimeLimit(40)
+                      } else {
+                        setSelectedQuestionCount(100)
+                        setSelectedTimeLimit(60)
+                      }
+                      setScreen("solidq-subject")
+                    }}
                     onGoToPro={() => setActiveTab("pro")}
                     onOpenChat={() => setActiveTab("chat")}
                   />
@@ -757,7 +844,8 @@ export default function StudyOSApp() {
                   <ProView 
                     user={user} 
                     isPro={stats?.isPro || false} 
-                    onUpgradeSuccess={refetchStats} 
+                    onUpgradeSuccess={refetchStats}
+                    category={activeCategory}
                   />
                 </div>
               )}
@@ -790,6 +878,8 @@ export default function StudyOSApp() {
                     user={user}
                     stats={stats}
                     statsLoading={statsLoading}
+                    currentCategory={activeCategory}
+                    onCategoryChange={handleCategoryChange}
                     onLogout={handleLogout}
                     onShowLegal={(type) => {
                       if (type === "terms") setScreen("legal-terms")
@@ -799,7 +889,7 @@ export default function StudyOSApp() {
                     onShowLeaderboard={() => setScreen("leaderboard")}
                     onShowHistory={() => setScreen("history")}
                     onOpenChat={() => setActiveTab("chat")}
-                    onShowSurveys={() => setScreen("surveys-list")}
+                    onShowSurveys={activeCategory === "JSS" ? () => setScreen("surveys-list") : undefined}
                   />
                 </div>
               )}
@@ -844,7 +934,7 @@ export default function StudyOSApp() {
                         {tab === "profile" && (
                           <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-red-500 border-2 border-background" />
                         )}
-                        {tab === "chat" && activeTab !== "chat" && unreadCount > 0 && (
+                        {tab === "chat" && unreadCount > 0 && (
                           <div className="absolute -top-1.5 -right-2 min-w-4 h-4 px-1 rounded-full bg-red-500 text-white text-[8px] font-black flex items-center justify-center border border-background shadow-md">
                             {unreadCount > 99 ? "99+" : unreadCount}
                           </div>
@@ -886,6 +976,7 @@ export default function StudyOSApp() {
             currentUserId={user.uid}
             onClose={() => setActiveProfileUserId(null)}
             onStartMessage={handleStartMessage}
+            currentCategory={activeCategory}
           />
         )}
       </div>

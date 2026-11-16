@@ -151,11 +151,6 @@ export function AuthView({ onLogin, onShowLegal, initialMode = "signin", onBackT
             console.warn("submitSchool failed:", err)
           )
         }
-
-        if (selectedCategory === "SSS" && typeof window !== "undefined") {
-          window.location.href = "/sss"
-          return
-        }
       } else {
         await signInWithEmailAndPassword(auth, email, password)
       }
