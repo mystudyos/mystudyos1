@@ -42,5 +42,5 @@ def analyze_file(filepath):
 
 if __name__ == "__main__":
     analyze_file("Json/Maths_Solid Q's.json")
-    analyze_file("Json/Maths_Training mode.json")
-
+    analyze_file("Json/NECO/Mathematics.json")
+    analyze_file("Json/JAMB/Mathematics.json")

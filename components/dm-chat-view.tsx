@@ -734,7 +734,7 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
           sending={sending}
           cooldown={cooldown}
           hasForbiddenWords={hasForbiddenWords(text)}
-          cooldownLabel="wait a moment..."
+          cooldownLabel="Wait a moment..."
           forbiddenWarning="Please remove inappropriate language"
           onScrollToBottom={scrollToBottom}
           showEmojiPicker={showEmojiPicker}
@@ -822,7 +822,7 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
               <div className="flex items-start gap-2">
                 <Info className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
                 <p className="text-[11px] text-muted-foreground">
-                  The admin will receive an email notification about this report and can take further action (e.g., banning the user).
+                  The admin will receive an email notification about this report and can take further action.
                 </p>
               </div>
             </div>
