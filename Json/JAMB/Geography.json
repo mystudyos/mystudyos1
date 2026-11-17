@@ -8838,5 +8838,3905 @@
     "answer": "C",
     "topic": "Practical Geography - Map Reading",
     "difficulty": "Hard"
+  },
+  {
+    "id": 701,
+    "question": "If the scale of a map is 1:50,000, what does a measured distance of 5 cm on the map represent on the ground?",
+    "options": [
+      "A. A total distance of exactly 0.5 kilometers on the ground.",
+      "B. A total distance of exactly 2.5 kilometers on the ground.",
+      "C. A total distance of exactly 5.0 kilometers on the ground.",
+      "D. A total distance of exactly 25.0 kilometers on the ground."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 702,
+    "question": "Which of the following instruments is specifically used to determine the relative humidity of the atmosphere?",
+    "options": [
+      "A. A barometer is used for measuring atmospheric pressure in a region.",
+      "B. An anemometer is used for measuring wind speed and direction.",
+      "C. A thermometer is used for measuring atmospheric temperature.",
+      "D. A hygrometer is used for measuring atmospheric moisture content."
+    ],
+    "answer": "D",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 703,
+    "question": "Which of the following features is primarily associated with the lower course of a river?",
+    "options": [
+      "A. The presence of V-shaped valleys and fast-flowing rapids.",
+      "B. The formation of waterfalls and deep plunge pools.",
+      "C. The development of extensive floodplains and deltas.",
+      "D. The occurrence of interlocking spurs and pot holes."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 704,
+    "question": "The process by which wind removes loose, unconsolidated materials from the earth's surface is known as:",
+    "options": [
+      "A. Deflation is the removal of loose surface materials by wind.",
+      "B. Abrasion is the wearing away of rocks by wind-blown particles.",
+      "C. Attrition is the wearing down of load particles by collision.",
+      "D. Hydraulic action is the force of water against river banks."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 705,
+    "question": "In Geographic Information Systems (GIS), which component is responsible for storing and managing spatial data?",
+    "options": [
+      "A. The software is the program used to analyze spatial data.",
+      "B. The hardware is the physical computer running the software.",
+      "C. The database is the system used for data storage.",
+      "D. The people are the users operating the entire system."
+    ],
+    "answer": "C",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 706,
+    "question": "Which of the following is a major characteristic of the Koppen's 'Af' climate classification?",
+    "options": [
+      "A. It experiences a distinct dry season with low annual rainfall.",
+      "B. It has a high annual rainfall distributed throughout the year.",
+      "C. It is characterized by extreme temperature differences annually.",
+      "D. It records the lowest amount of precipitation during the winter."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 707,
+    "question": "The difference in time between two locations on Earth is primarily caused by the Earth's:",
+    "options": [
+      "A. rotation on its axis from the west to the east.",
+      "B. revolution around the sun in an elliptical orbit.",
+      "C. tilt on its axis relative to the orbital plane.",
+      "D. spherical shape which affects solar radiation."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Earth as a Planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 708,
+    "question": "Which of the following settlement patterns is most typically associated with a linear growth along a major road?",
+    "options": [
+      "A. Dispersed settlements are scattered across the landscape.",
+      "B. Nucleated settlements are clustered around a central point.",
+      "C. Linear settlements develop in a single line along routes.",
+      "D. Isolated settlements consist of single distant farmsteads."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 709,
+    "question": "The process of breaking down rocks by the expansion of water during freezing and contraction during thawing is termed:",
+    "options": [
+      "A. Chemical weathering through the process of carbonation.",
+      "B. Biological weathering caused by plant root expansion.",
+      "C. Frost action which is a type of physical weathering.",
+      "D. Exfoliation caused by extreme temperature changes."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 710,
+    "question": "Which of the following is considered a primary economic activity?",
+    "options": [
+      "A. The manufacturing of textiles in local factories.",
+      "B. The extraction of raw materials from the earth.",
+      "C. The provision of banking and insurance services.",
+      "D. The processing of agricultural produce into food."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 711,
+    "question": "What is the main objective of the Economic Community of West African States (ECOWAS)?",
+    "options": [
+      "A. To promote economic integration among member states.",
+      "B. To establish a single military command for the region.",
+      "C. To standardize the educational curriculum across states.",
+      "D. To enforce a common language for all member states."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 712,
+    "question": "The bearing of a point Q from point P is 045 degrees. What is the back bearing of P from Q?",
+    "options": [
+      "A. The back bearing of P from Q is exactly 135 degrees.",
+      "B. The back bearing of P from Q is exactly 225 degrees.",
+      "C. The back bearing of P from Q is exactly 315 degrees.",
+      "D. The back bearing of P from Q is exactly 045 degrees."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 713,
+    "question": "Which of the following rock types is formed from the cooling and solidification of molten magma?",
+    "options": [
+      "A. Sedimentary rocks are formed by the deposition of particles.",
+      "B. Metamorphic rocks are changed by extreme heat and pressure.",
+      "C. Igneous rocks are formed from the cooling of molten magma.",
+      "D. Organic rocks are formed from the remains of living things."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 714,
+    "question": "Which of the following factors is the primary cause of ocean currents?",
+    "options": [
+      "A. The gravitational pull of the moon on the ocean water.",
+      "B. The prevailing winds blowing across the ocean surface.",
+      "C. The differences in salinity and temperature of water.",
+      "D. The rotation of the earth causing the Coriolis effect."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 715,
+    "question": "Which of the following soil types is characterized by high acidity and poor nutrient retention?",
+    "options": [
+      "A. Loamy soils are known for their balanced nutrient content.",
+      "B. Clayey soils have high water retention and density.",
+      "C. Lateritic soils are heavily leached and nutrient poor.",
+      "D. Sandy soils have large particles and drain quickly."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 716,
+    "question": "A map with a scale of 1:250,000 is considered a:",
+    "options": [
+      "A. Large-scale map showing detailed local features.",
+      "B. Small-scale map showing a large area of land.",
+      "C. Topographic map detailing a local settlement.",
+      "D. Cadastral map showing specific land ownership."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 717,
+    "question": "Which of the following is a major consequence of rapid population growth in developing countries?",
+    "options": [
+      "A. A decrease in the demand for social amenities.",
+      "B. An increase in the available arable land per capita.",
+      "C. A high dependency ratio and unemployment rate.",
+      "D. A reduction in the rate of rural-to-urban migration."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 718,
+    "question": "The phenomenon where cold ocean currents cause the formation of coastal deserts is best illustrated by the:",
+    "options": [
+      "A. Sahara Desert which is influenced by dry continental winds.",
+      "B. Namib Desert which borders the cold Benguela Current.",
+      "C. Gobi Desert which is located deep within a continent.",
+      "D. Kalahari Desert which is surrounded by high mountains."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 719,
+    "question": "Which of the following is an example of a man-induced environmental hazard?",
+    "options": [
+      "A. An earthquake caused by the shifting of tectonic plates.",
+      "B. A volcanic eruption resulting from magma movement.",
+      "C. Soil erosion resulting from poor farming practices.",
+      "D. A drought caused by a prolonged absence of rainfall."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 720,
+    "question": "In map interpretation, what does the term 'intervisibility' refer to?",
+    "options": [
+      "A. The ability to see one point from another across the terrain.",
+      "B. The calculation of the total area covered by a map.",
+      "C. The drawing of contour lines to show elevation changes.",
+      "D. The measurement of the steepness of a slope on a map."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 721,
+    "question": "Which of the following features is typically formed by the depositional action of a river?",
+    "options": [
+      "A. A waterfall is formed where a river drops over hard rock.",
+      "B. A floodplain is formed by sediments deposited by a river.",
+      "C. A gorge is formed by the intense erosion of river banks.",
+      "D. An oxbow lake is formed by the erosion of a river bend."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 722,
+    "question": "The tropical rainforest vegetation is primarily characterized by:",
+    "options": [
+      "A. Sparse vegetation consisting mainly of thorny shrubs.",
+      "B. Tall, closely packed trees with broad evergreen leaves.",
+      "C. Short grasses with scattered deciduous trees.",
+      "D. Coniferous trees with needle-like leaves and cones."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 723,
+    "question": "Which of the following is a major reason for the localization of the iron and steel industry?",
+    "options": [
+      "A. The availability of cheap labor in the region.",
+      "B. The proximity to raw materials and power supply.",
+      "C. The presence of a favorable government policy.",
+      "D. The access to a large market for finished goods."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 724,
+    "question": "The main difference between a renewable and a non-renewable resource is that renewable resources:",
+    "options": [
+      "A. are found only in the tropical regions of the world.",
+      "B. can be replenished naturally over a short period.",
+      "C. require expensive technology to be extracted.",
+      "D. are used primarily for industrial manufacturing."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 725,
+    "question": "Which of the following statements accurately describes the process of isostatic adjustment?",
+    "options": [
+      "A. It is the upward movement of magma into the earth's crust.",
+      "B. It is the balance maintained by the earth's crust floating on the mantle.",
+      "C. It is the sudden shaking of the earth's surface due to faults.",
+      "D. It is the erosion of land surfaces by agents of denudation."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 726,
+    "question": "What is the primary function of a prismatic compass in elementary surveying?",
+    "options": [
+      "A. To measure the horizontal distance between two points.",
+      "B. To determine the magnetic bearing of a survey line.",
+      "C. To calculate the vertical angle of a slope surface.",
+      "D. To establish the exact elevation of a survey point."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 727,
+    "question": "Which of the following best describes a 'nucleated' settlement?",
+    "options": [
+      "A. Buildings are widely scattered across a large area.",
+      "B. Buildings are arranged in a long line along a road.",
+      "C. Buildings are clustered closely together around a center.",
+      "D. Buildings are separated by large agricultural fields."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 728,
+    "question": "The formation of a waterfall is primarily dependent on the presence of:",
+    "options": [
+      "A. a uniform rock type along the river's course.",
+      "B. a band of hard rock alternating with soft rock.",
+      "C. a sudden decrease in the volume of the river.",
+      "D. a wide floodplain in the middle course of the river."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 729,
+    "question": "Which of the following is the primary cause of the greenhouse effect on Earth?",
+    "options": [
+      "A. The depletion of the ozone layer by CFCs.",
+      "B. The accumulation of carbon dioxide in the atmosphere.",
+      "C. The increase in the amount of solar radiation.",
+      "D. The volcanic eruptions releasing sulfur dioxide."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 730,
+    "question": "In the context of Nigeria's physical geography, the Benue Trough is an example of a:",
+    "options": [
+      "A. Volcanic mountain range formed by magma intrusion.",
+      "B. Sedimentary basin formed by tectonic down-warping.",
+      "C. Coastal plain formed by the deposition of sediments.",
+      "D. Plateau region formed by resistant basement rocks."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 731,
+    "question": "Which of the following statistical mapping techniques uses shading patterns to represent data values?",
+    "options": [
+      "A. A choropleth map uses shading to show variations.",
+      "B. An isopleth map uses lines to connect equal values.",
+      "C. A dot map uses dots to represent specific quantities.",
+      "D. A bar chart uses bars to compare different values."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 732,
+    "question": "The major factor responsible for the distinct wet and dry seasons in West Africa is the:",
+    "options": [
+      "A. movement of the Inter-Tropical Convergence Zone.",
+      "B. influence of the cold Benguela ocean current.",
+      "C. presence of the high pressure belt over the Sahara.",
+      "D. rotation of the earth on its north-south axis."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 733,
+    "question": "Which of the following is a major characteristic of the savanna vegetation?",
+    "options": [
+      "A. It consists mainly of tall evergreen trees.",
+      "B. It is dominated by tall grasses and scattered trees.",
+      "C. It features thick shrubs adapted to salt water.",
+      "D. It includes dense forests with a closed canopy."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 734,
+    "question": "The process by which a river deposits its load when its velocity decreases is known as:",
+    "options": [
+      "A. Erosion of the river bed by hydraulic action.",
+      "B. Transportation of sediments by the river.",
+      "C. Deposition of materials in the river channel.",
+      "D. Weathering of the rocks along the river bank."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 735,
+    "question": "Which of the following is a direct effect of deforestation on the physical environment?",
+    "options": [
+      "A. It increases the rate of soil infiltration.",
+      "B. It leads to increased surface run-off and erosion.",
+      "C. It reduces the amount of carbon dioxide in the air.",
+      "D. It increases the biodiversity of the local ecosystem."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 736,
+    "question": "Which of the following is a secondary economic activity?",
+    "options": [
+      "A. The mining of coal from underground seams.",
+      "B. The manufacturing of cars in an assembly plant.",
+      "C. The teaching of students in a secondary school.",
+      "D. The fishing of tuna in the deep ocean waters."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 737,
+    "question": "A settlement that serves primarily as a dormitory for workers in a nearby city is known as a:",
+    "options": [
+      "A. A rural settlement focused on agricultural production.",
+      "B. A commercial settlement focused on trade and retail.",
+      "C. A residential settlement focused on housing workers.",
+      "D. An industrial settlement focused on manufacturing."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 738,
+    "question": "Which of the following factors is most critical for the formation of a delta at a river mouth?",
+    "options": [
+      "A. A high velocity of the river at its final stage.",
+      "B. A large volume of sediment deposited by the river.",
+      "C. A steep gradient of the land near the river mouth.",
+      "D. A low tidal range in the receiving body of water."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 739,
+    "question": "The term 'Koppen classification' in geography refers to the:",
+    "options": [
+      "A. classification of rocks based on their origin.",
+      "B. classification of climate based on vegetation.",
+      "C. classification of soils based on their texture.",
+      "D. classification of landforms based on elevation."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 740,
+    "question": "Which of the following is a major problem associated with rapid urbanization in developing countries?",
+    "options": [
+      "A. A decrease in the population density of the city.",
+      "B. An increase in the availability of affordable housing.",
+      "C. The development of overcrowded and unplanned slums.",
+      "D. A reduction in the demand for public transport."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 741,
+    "question": "The process by which a map is reduced in size while maintaining its original shape is called:",
+    "options": [
+      "A. Map enlargement which increases the scale of the map.",
+      "B. Map reduction which decreases the scale of the map.",
+      "C. Map projection which flattens the earth's surface.",
+      "D. Map tracing which copies the original map features."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 742,
+    "question": "Which of the following is a characteristic feature of a karst landscape?",
+    "options": [
+      "A. Deep V-shaped valleys caused by river erosion.",
+      "B. Underground caves and swallow holes in limestone.",
+      "C. Sand dunes formed by the action of wind.",
+      "D. Glacial moraines deposited by melting ice."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 743,
+    "question": "The movement of people from rural to urban areas is primarily driven by:",
+    "options": [
+      "A. The availability of abundant land in urban areas.",
+      "B. The search for better employment and education.",
+      "C. The high cost of living in the rural areas.",
+      "D. The low population density in the urban areas."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 744,
+    "question": "Which of the following is a major export commodity of Nigeria?",
+    "options": [
+      "A. Crude oil extracted from the Niger Delta region.",
+      "B. Cocoa beans produced in the northern savanna.",
+      "C. Groundnut cultivated in the middle belt region.",
+      "D. Palm oil processed in the eastern rainforest."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 745,
+    "question": "The phenomenon of 'acid rain' is primarily caused by the release of:",
+    "options": [
+      "A. Carbon dioxide and methane from agriculture.",
+      "B. Sulfur dioxide and nitrogen oxides from industries.",
+      "C. Chlorofluorocarbons from refrigerants and aerosols.",
+      "D. Carbon monoxide from incomplete combustion."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 746,
+    "question": "In the context of map reading, what is a 'watershed'?",
+    "options": [
+      "A. A line separating two drainage basins.",
+      "B. A point where a river begins its journey.",
+      "C. A section of a river with a steep gradient.",
+      "D. An area where a river deposits its sediment."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 747,
+    "question": "Which of the following is a tertiary economic activity?",
+    "options": [
+      "A. The extraction of minerals from the earth.",
+      "B. The manufacturing of electronic devices.",
+      "C. The provision of insurance services.",
+      "D. The cultivation of crops for food."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 748,
+    "question": "The primary source of energy that drives the earth's weather and climate systems is:",
+    "options": [
+      "A. Geothermal heat from the earth's core.",
+      "B. Solar radiation from the sun.",
+      "C. Tidal energy from the moon.",
+      "D. Wind energy from atmospheric pressure."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 749,
+    "question": "Which of the following is a distinguishing feature of a fold mountain?",
+    "options": [
+      "A. It is formed by the cooling of lava on the surface.",
+      "B. It is formed by the buckling of the earth's crust.",
+      "C. It is formed by the erosion of a plateau region.",
+      "D. It is formed by the deposition of sediments."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 750,
+    "question": "The term 'population structure' refers to the:",
+    "options": [
+      "A. Total number of people living in a country.",
+      "B. Age and sex composition of a population.",
+      "C. Movement of people from one place to another.",
+      "D. Distribution of people across a region."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 751,
+    "question": "Which of the following is a major advantage of using GIS in land surveying?",
+    "options": [
+      "A. It eliminates the need for field surveys entirely.",
+      "B. It allows for the rapid analysis of spatial data.",
+      "C. It reduces the cost of purchasing survey equipment.",
+      "D. It requires less technical expertise to operate."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 752,
+    "question": "The formation of an oxbow lake is primarily a result of:",
+    "options": [
+      "A. The erosion of a river's bank during a flood.",
+      "B. The deposition of sediment in a river's middle course.",
+      "C. The cutting off of a meander loop from the main river.",
+      "D. The collapse of a waterfall creating a deep pool."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 753,
+    "question": "Which of the following is an example of a non-renewable resource?",
+    "options": [
+      "A. Solar energy captured by solar panels.",
+      "B. Wind energy harnessed by turbines.",
+      "C. Coal extracted from underground mines.",
+      "D. Timber harvested from forests."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 754,
+    "question": "The main factor responsible for the variation in temperature across different latitudes is the:",
+    "options": [
+      "A. Distance of the earth from the sun.",
+      "B. Angle at which the sun's rays strike the earth.",
+      "C. Rotation of the earth on its axis.",
+      "D. Presence of clouds in the atmosphere."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 755,
+    "question": "Which of the following is a characteristic of a dispersed rural settlement?",
+    "options": [
+      "A. Houses are built closely together around a market.",
+      "B. Farms are located far from the residential areas.",
+      "C. Houses are scattered widely across the farmland.",
+      "D. Buildings are arranged along a single street."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 756,
+    "question": "The major problem facing the manufacturing sector in tropical Africa is:",
+    "options": [
+      "A. The excessive availability of skilled labor.",
+      "B. The over-reliance on imported raw materials.",
+      "C. The high level of technological advancement.",
+      "D. The low demand for manufactured goods."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 757,
+    "question": "Which of the following is the largest ocean in the world?",
+    "options": [
+      "A. The Atlantic Ocean covers a large area between continents.",
+      "B. The Indian Ocean is located between Africa and Asia.",
+      "C. The Pacific Ocean is the largest and deepest ocean.",
+      "D. The Arctic Ocean surrounds the North Pole region."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 758,
+    "question": "The primary cause of soil erosion in the coastal areas of Nigeria is:",
+    "options": [
+      "A. The action of wind blowing across the bare land.",
+      "B. The heavy rainfall and high wave action.",
+      "C. The overgrazing of livestock on the land.",
+      "D. The inappropriate use of agricultural machinery."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 759,
+    "question": "Which of the following is a method of environmental conservation?",
+    "options": [
+      "A. The indiscriminate burning of forest vegetation.",
+      "B. The establishment of national parks and reserves.",
+      "C. The unregulated disposal of industrial waste.",
+      "D. The excessive extraction of groundwater resources."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 760,
+    "question": "A cross profile in geography is used to show the:",
+    "options": [
+      "A. Total area of a drainage basin on a map.",
+      "B. Steepness and shape of the terrain along a line.",
+      "C. Distribution of population in a given area.",
+      "D. Type of soil found in a specific region."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 761,
+    "question": "Which of the following countries is NOT a member of ECOWAS?",
+    "options": [
+      "A. The Republic of Ghana is a founding member.",
+      "B. The Republic of Cameroon is not a member.",
+      "C. The Republic of Senegal is a member.",
+      "D. The Federal Republic of Nigeria is a member."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 762,
+    "question": "The high population density in the Nile Delta region is primarily due to:",
+    "options": [
+      "A. The presence of abundant mineral resources.",
+      "B. The fertile soils and availability of water.",
+      "C. The extreme climatic conditions of the area.",
+      "D. The lack of transport infrastructure."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 763,
+    "question": "Which of the following is a major source of data for Geographic Information Systems?",
+    "options": [
+      "A. Remote sensing provides imagery of the earth.",
+      "B. Field surveys involve direct measurement of land.",
+      "C. Map digitizing converts paper maps to digital form.",
+      "D. All of the above are valid sources of GIS data."
+    ],
+    "answer": "D",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 764,
+    "question": "The sudden shaking of the earth's surface caused by the release of energy from the earth's crust is called:",
+    "options": [
+      "A. A volcanic eruption caused by magma pressure.",
+      "B. An earthquake caused by tectonic plate movement.",
+      "C. A tsunami caused by underwater landslides.",
+      "D. A landslide caused by heavy rainfall."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Volcanism and Earthquakes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 765,
+    "question": "Which of the following is a characteristic of a 'young' river valley?",
+    "options": [
+      "A. It has a wide, flat floodplain with meanders.",
+      "B. It has a steep, V-shaped cross profile.",
+      "C. It has a slow-flowing current and deposition.",
+      "D. It has an extensive delta at its mouth."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 766,
+    "question": "The primary cause of the 'urban heat island' effect is:",
+    "options": [
+      "A. The high concentration of vegetation in cities.",
+      "B. The replacement of natural surfaces with concrete.",
+      "C. The decrease in the amount of solar radiation.",
+      "D. The increase in the wind speed in urban areas."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 767,
+    "question": "Which of the following is a major function of a rural settlement?",
+    "options": [
+      "A. It serves as a center for manufacturing industries.",
+      "B. It provides residential space for agricultural workers.",
+      "C. It acts as a hub for international financial trade.",
+      "D. It offers specialized medical and educational services."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 768,
+    "question": "The process of 'leaching' in soils involves the:",
+    "options": [
+      "A. Addition of organic matter to the topsoil.",
+      "B. Removal of soluble nutrients by water.",
+      "C. Accumulation of salts in the subsoil.",
+      "D. Breakdown of rocks by chemical action."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 769,
+    "question": "Which of the following is a major benefit of tourism to a country?",
+    "options": [
+      "A. It increases the outflow of foreign currency.",
+      "B. It generates revenue and creates employment.",
+      "C. It reduces the need for infrastructure development.",
+      "D. It promotes the destruction of natural habitats."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 770,
+    "question": "The main difference between a 'tributary' and a 'distributary' is that a tributary:",
+    "options": [
+      "A. flows away from the main river into the sea.",
+      "B. flows into the main river from a smaller source.",
+      "C. is found only in the lower course of a river.",
+      "D. is formed by the deposition of river sediments."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 771,
+    "question": "Which of the following is an example of a natural environmental hazard?",
+    "options": [
+      "A. A flood caused by the bursting of a dam.",
+      "B. A drought caused by prolonged low rainfall.",
+      "C. Soil erosion caused by overgrazing.",
+      "D. Air pollution caused by factory emissions."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 772,
+    "question": "The scale of a map is 1:100,000. If the distance between two towns on the map is 8 cm, what is the actual distance between them?",
+    "options": [
+      "A. The actual distance between the towns is 8 kilometers.",
+      "B. The actual distance between the towns is 80 kilometers.",
+      "C. The actual distance between the towns is 800 kilometers.",
+      "D. The actual distance between the towns is 0.8 kilometers."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 773,
+    "question": "Which of the following is a major factor affecting the distribution of vegetation in Nigeria?",
+    "options": [
+      "A. The presence of extensive mineral deposits.",
+      "B. The variation in rainfall and temperature.",
+      "C. The density of the human population.",
+      "D. The type of transportation network."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 774,
+    "question": "The primary function of a 'spit' in coastal geography is to:",
+    "options": [
+      "A. Protect the coast from wave erosion.",
+      "B. Form a barrier across a river mouth.",
+      "C. Deposit sediment in a linear shape.",
+      "D. Create a deep harbor for ships."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 775,
+    "question": "Which of the following is a characteristic of a 'primate city'?",
+    "options": [
+      "A. It is the smallest city in the country.",
+      "B. It is significantly larger than other cities.",
+      "C. It has an equal population to other cities.",
+      "D. It is located in a remote rural area."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 776,
+    "question": "The 'Coriolis effect' causes moving air and water to:",
+    "options": [
+      "A. Move in a straight line from the equator.",
+      "B. Deflect to the right in the northern hemisphere.",
+      "C. Increase in speed as they approach the poles.",
+      "D. Change direction only in the southern hemisphere."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 777,
+    "question": "Which of the following is a major use of rocks to humans?",
+    "options": [
+      "A. Rocks are used as a source of solar energy.",
+      "B. Rocks are used as building materials.",
+      "C. Rocks are used to generate wind power.",
+      "D. Rocks are used as a source of water."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 778,
+    "question": "The term 'migration' in geography refers to the:",
+    "options": [
+      "A. Natural increase in population over time.",
+      "B. Movement of people from one place to another.",
+      "C. Distribution of people across a region.",
+      "D. Age and sex composition of a population."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 779,
+    "question": "Which of the following is a major problem associated with the mining industry in Nigeria?",
+    "options": [
+      "A. The lack of mineral resources in the country.",
+      "B. The environmental degradation caused by mining.",
+      "C. The excessive export of minerals to other countries.",
+      "D. The high level of technology used in mining."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 780,
+    "question": "In map interpretation, a 'col' is a:",
+    "options": [
+      "A. Deep valley between two mountains.",
+      "B. Pass or saddle between two peaks.",
+      "C. Steep cliff face on a mountain.",
+      "D. Flat area at the base of a hill."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 781,
+    "question": "Which of the following is a major objective of environmental conservation?",
+    "options": [
+      "A. To maximize the extraction of natural resources.",
+      "B. To maintain the ecological balance of nature.",
+      "C. To encourage the rapid growth of urban areas.",
+      "D. To increase the amount of industrial waste."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 782,
+    "question": "The formation of a 'meander' in a river is primarily due to:",
+    "options": [
+      "A. The erosion on the outer bank and deposition on the inner bank.",
+      "B. The deposition of sediment on the outer bank of the river.",
+      "C. The vertical erosion of the river bed in the upper course.",
+      "D. The sudden drop in the river's gradient in the middle course."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 783,
+    "question": "Which of the following is a characteristic of the tropical monsoon climate?",
+    "options": [
+      "A. It has a uniform temperature throughout the year.",
+      "B. It experiences a distinct seasonal reversal of winds.",
+      "C. It receives very little rainfall during the summer.",
+      "D. It is found only in the high altitude regions."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 784,
+    "question": "The term 'carrying capacity' in population geography refers to the:",
+    "options": [
+      "A. Maximum number of people an environment can support.",
+      "B. Total number of people migrating to a region.",
+      "C. Average age of the population in a region.",
+      "D. Rate at which the population is growing."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 785,
+    "question": "Which of the following is an example of a 'linear' settlement pattern?",
+    "options": [
+      "A. A village built around a central market square.",
+      "B. A settlement built along a major road or river.",
+      "C. A settlement scattered across a wide farmland.",
+      "D. A village clustered around a resource deposit."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 786,
+    "question": "Which of the following is a major function of the ECOWAS organization?",
+    "options": [
+      "A. To establish a single currency for the region.",
+      "B. To promote free movement of people and goods.",
+      "C. To create a unified military force for the region.",
+      "D. To standardize the educational system across states."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 787,
+    "question": "The 'Niger Delta' region of Nigeria is primarily known for its:",
+    "options": [
+      "A. Large deposits of solid minerals.",
+      "B. Extensive production of crude oil.",
+      "C. High agricultural yield of cocoa.",
+      "D. Development of heavy manufacturing."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 788,
+    "question": "Which of the following is a natural factor that contributes to soil formation?",
+    "options": [
+      "A. The application of chemical fertilizers by farmers.",
+      "B. The weathering of parent rocks over time.",
+      "C. The use of heavy machinery on farmlands.",
+      "D. The construction of drainage systems in cities."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 789,
+    "question": "The 'Great Escarpment' in Africa is an example of a:",
+    "options": [
+      "A. Coastal plain formed by deposition.",
+      "B. Steep slope formed by tectonic uplift.",
+      "C. River valley formed by erosion.",
+      "D. Volcanic plateau formed by lava."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 790,
+    "question": "Which of the following is a major cause of rural-urban migration in West Africa?",
+    "options": [
+      "A. The availability of better jobs in urban areas.",
+      "B. The high cost of living in rural areas.",
+      "C. The abundance of arable land in urban areas.",
+      "D. The low population density in urban areas."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 791,
+    "question": "The term 'statistical map' refers to a map that:",
+    "options": [
+      "A. Shows the physical features of a region.",
+      "B. Displays quantitative data using symbols.",
+      "C. Is used primarily for navigation at sea.",
+      "D. Shows the boundaries of a country."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 792,
+    "question": "Which of the following is an example of a 'renewable' environmental resource?",
+    "options": [
+      "A. Coal extracted from underground mines.",
+      "B. Solar energy captured from the sun.",
+      "C. Natural gas extracted from wells.",
+      "D. Crude oil extracted from reserves."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 793,
+    "question": "The 'Sahel' region of Africa is primarily characterized by:",
+    "options": [
+      "A. A dense tropical rainforest vegetation.",
+      "B. A semi-arid climate with sparse rainfall.",
+      "C. A temperate climate with four seasons.",
+      "D. A polar climate with permanent ice."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 794,
+    "question": "Which of the following is a major advantage of using railways for transportation in Nigeria?",
+    "options": [
+      "A. They are flexible and can reach remote areas.",
+      "B. They are suitable for bulk transportation of goods.",
+      "C. They are faster than air transport for passengers.",
+      "D. They are cheaper to construct than roads."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 795,
+    "question": "The process by which a map is enlarged is known as:",
+    "options": [
+      "A. Map reduction which decreases the map size.",
+      "B. Map enlargement which increases the map size.",
+      "C. Map projection which flattens the earth's surface.",
+      "D. Map tracing which copies the map features."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 796,
+    "question": "Which of the following is a feature of a 'nucleated' settlement?",
+    "options": [
+      "A. Houses are scattered across a wide area.",
+      "B. Houses are built closely together in a cluster.",
+      "C. Houses are built in a long line along a road.",
+      "D. Houses are separated by large farms."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 797,
+    "question": "The main purpose of a 'traverse survey' in geography is to:",
+    "options": [
+      "A. Measure the height of a mountain peak.",
+      "B. Determine the area of a piece of land.",
+      "C. Measure the depth of a river channel.",
+      "D. Identify the type of soil in a region."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 798,
+    "question": "Which of the following is a major environmental problem associated with the extraction of crude oil in Nigeria?",
+    "options": [
+      "A. The depletion of the ozone layer.",
+      "B. The pollution of water and soil.",
+      "C. The increased rate of desertification.",
+      "D. The rise in atmospheric temperature."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 799,
+    "question": "The 'tree line' in geography refers to the:",
+    "options": [
+      "A. Boundary beyond which trees cannot grow.",
+      "B. Line of trees planted along a road.",
+      "C. Area where trees are harvested for timber.",
+      "D. Forest region with the highest biodiversity."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 800,
+    "question": "Which of the following is a major characteristic of an 'urban' settlement?",
+    "options": [
+      "A. It has a low population density and small size.",
+      "B. It is primarily engaged in agricultural activities.",
+      "C. It has a high population density and diverse functions.",
+      "D. It is located only in the rural areas of a country."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 801,
+    "question": "Calculate the gradient of a slope if the vertical interval is 25 meters and the horizontal distance is 1 kilometer.",
+    "options": [
+      "A. The gradient of the slope is exactly 1:40.",
+      "B. The gradient of the slope is exactly 1:25.",
+      "C. The gradient of the slope is exactly 1:250.",
+      "D. The gradient of the slope is exactly 1:400."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 802,
+    "question": "Which of the following is considered a primary source of data for Geographic Information Systems?",
+    "options": [
+      "A. A printed topographic map obtained from a library.",
+      "B. A remotely sensed satellite image of a region.",
+      "C. A geographical textbook describing a location.",
+      "D. A published census report of a population."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 803,
+    "question": "Which of the following best describes a 'pie chart' in statistical mapping?",
+    "options": [
+      "A. It is a graph that uses bars to compare quantities.",
+      "B. It is a circle divided into sectors to show proportions.",
+      "C. It is a line graph showing changes over a period.",
+      "D. It is a map that uses shading to show density."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 804,
+    "question": "The primary advantage of a chain survey over a prismatic compass survey is that it:",
+    "options": [
+      "A. can be used to measure magnetic bearings accurately.",
+      "B. does not require the use of a compass or angles.",
+      "C. is suitable for surveying large, hilly areas.",
+      "D. provides more accurate measurements of slopes."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 805,
+    "question": "What is the main purpose of a 'cross-section' in topographic map interpretation?",
+    "options": [
+      "A. To calculate the total area covered by the map.",
+      "B. To identify the type of vegetation in a region.",
+      "C. To show the profile and relief along a specific line.",
+      "D. To determine the magnetic bearing of a location."
+    ],
+    "answer": "C",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 806,
+    "question": "In map reading, what does a 'watershed' primarily represent?",
+    "options": [
+      "A. An area where a river deposits its sediment.",
+      "B. A boundary separating two drainage basins.",
+      "C. A point where a river begins its journey.",
+      "D. A section of a river with a steep gradient."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 807,
+    "question": "If a map scale is 1:250,000, what does a distance of 4 cm on the map represent on the ground?",
+    "options": [
+      "A. The distance on the ground is exactly 1 kilometer.",
+      "B. The distance on the ground is exactly 4 kilometers.",
+      "C. The distance on the ground is exactly 10 kilometers.",
+      "D. The distance on the ground is exactly 25 kilometers."
+    ],
+    "answer": "C",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 808,
+    "question": "Which of the following instruments is used to measure wind speed?",
+    "options": [
+      "A. A barometer is used to measure atmospheric pressure.",
+      "B. An anemometer is used to measure wind speed.",
+      "C. A hygrometer is used to measure humidity levels.",
+      "D. A rain gauge is used to measure rainfall amount."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Weather Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 809,
+    "question": "A 'closed traverse' in surveying is one where the survey line:",
+    "options": [
+      "A. begins and ends at different points on the field.",
+      "B. begins and ends at the same point or known stations.",
+      "C. is conducted only along a straight, flat route.",
+      "D. is used exclusively for measuring vertical angles."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 810,
+    "question": "Which of the following map types is designed specifically to show the boundaries of local government areas?",
+    "options": [
+      "A. A topographic map showing physical features.",
+      "B. A political map showing administrative units.",
+      "C. A geological map showing rock formations.",
+      "D. A climatic map showing rainfall patterns."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 811,
+    "question": "When interpreting a map, what does the term 'intervisibility' refer to?",
+    "options": [
+      "A. The ability to see one point from another across the terrain.",
+      "B. The calculation of the total area covered by a map.",
+      "C. The drawing of contour lines to show elevation changes.",
+      "D. The measurement of the steepness of a slope on a map."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 812,
+    "question": "Which of the following is an example of a 'compound bar chart'?",
+    "options": [
+      "A. A chart that uses single bars to show total values.",
+      "B. A chart that uses bars divided into segments for sub-groups.",
+      "C. A chart that uses a circle divided into proportional sectors.",
+      "D. A chart that uses points connected by lines to show trends."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 813,
+    "question": "What is the primary function of 'remote sensing' in geography?",
+    "options": [
+      "A. It involves the physical collection of soil samples.",
+      "B. It acquires data about the earth without direct contact.",
+      "C. It measures the depth of the ocean floor directly.",
+      "D. It calculates the exact population of a settlement."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 814,
+    "question": "If the bearing of a point X from Y is 120 degrees, what is the back bearing of Y from X?",
+    "options": [
+      "A. The back bearing of Y from X is exactly 180 degrees.",
+      "B. The back bearing of Y from X is exactly 240 degrees.",
+      "C. The back bearing of Y from X is exactly 300 degrees.",
+      "D. The back bearing of Y from X is exactly 120 degrees."
+    ],
+    "answer": "C",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 815,
+    "question": "Which of the following is a major limitation of using aerial photographs for mapping?",
+    "options": [
+      "A. They cannot capture large areas of land at once.",
+      "B. They are affected by weather conditions like clouds.",
+      "C. They require less time to process than ground surveys.",
+      "D. They provide highly accurate three-dimensional data."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 816,
+    "question": "In map making, what does the term 'projection' refer to?",
+    "options": [
+      "A. The process of enlarging a map to show more detail.",
+      "B. The method of representing the curved earth on a flat surface.",
+      "C. The calculation of the scale of a map from ground data.",
+      "D. The shading technique used to show elevation on a map."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 817,
+    "question": "The 'contour interval' on a topographic map is defined as the:",
+    "options": [
+      "A. distance between two adjacent contour lines on the map.",
+      "B. difference in elevation between two adjacent contour lines.",
+      "C. total number of contour lines present on the entire map.",
+      "D. steepness of the slope indicated by the contour lines."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 818,
+    "question": "Which of the following techniques is used to show the distribution of a single variable, like population density, on a map?",
+    "options": [
+      "A. An isopleth map connects points of equal value.",
+      "B. A choropleth map uses shading to show density.",
+      "C. A dot map uses dots to represent exact locations.",
+      "D. A flow line map shows movement between places."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 819,
+    "question": "During a field survey, the 'plane table' is primarily used to:",
+    "options": [
+      "A. measure the exact height of a building.",
+      "B. graphically plot survey measurements in the field.",
+      "C. determine the magnetic north of a location.",
+      "D. measure the depth of a river channel."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 820,
+    "question": "Which of the following is a characteristic of a small-scale map?",
+    "options": [
+      "A. It shows a small area of land in great detail.",
+      "B. It covers a large area of land with less detail.",
+      "C. It is used primarily for local town planning.",
+      "D. It has a representative fraction of 1:50,000."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 821,
+    "question": "In an ecosystem, the primary consumers are classified as:",
+    "options": [
+      "A. Autotrophs that produce their own food from sunlight.",
+      "B. Herbivores that feed directly on green plants.",
+      "C. Carnivores that feed on other animals.",
+      "D. Decomposers that break down dead organic matter."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Interaction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 822,
+    "question": "Which of the following is a major cause of the greenhouse effect?",
+    "options": [
+      "A. The depletion of the ozone layer by CFCs.",
+      "B. The accumulation of carbon dioxide in the atmosphere.",
+      "C. The increase in the amount of solar radiation.",
+      "D. The volcanic eruptions releasing sulfur dioxide."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Climate Change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 823,
+    "question": "The warm ocean current that flows along the eastern coast of North America is the:",
+    "options": [
+      "A. The Canary Current flows south along the coast.",
+      "B. The Gulf Stream flows north along the coast.",
+      "C. The Labrador Current flows south along the coast.",
+      "D. The California Current flows south along the coast."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 824,
+    "question": "Which of the following soil types is typically found in tropical rainforest regions?",
+    "options": [
+      "A. Chernozem soils are found in temperate grasslands.",
+      "B. Lateritic soils are heavily leached tropical soils.",
+      "C. Podzolic soils are found in coniferous forests.",
+      "D. Tundra soils are found in very cold climates."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 825,
+    "question": "The formation of a 'stalactite' in a limestone cave is caused by:",
+    "options": [
+      "A. the deposition of calcium carbonate from dripping water.",
+      "B. the erosion of the cave roof by underground rivers.",
+      "C. the accumulation of sand and gravel on the cave floor.",
+      "D. the crystallization of salt from evaporating water."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 826,
+    "question": "The primary source of energy that drives the water cycle is:",
+    "options": [
+      "A. Geothermal heat from the earth's core.",
+      "B. Solar radiation from the sun.",
+      "C. Tidal energy from the moon.",
+      "D. Wind energy from atmospheric pressure."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 827,
+    "question": "Which of the following is an example of a 'fold mountain' in Africa?",
+    "options": [
+      "A. Mount Kilimanjaro is a volcanic mountain.",
+      "B. The Atlas Mountains are fold mountains.",
+      "C. The Drakensberg is a volcanic mountain.",
+      "D. Mount Cameroon is a volcanic mountain."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 828,
+    "question": "The process of 'chemical weathering' that involves the reaction of minerals with oxygen is known as:",
+    "options": [
+      "A. Carbonation involves reaction with carbonic acid.",
+      "B. Hydrolysis involves reaction with water.",
+      "C. Oxidation involves reaction with oxygen.",
+      "D. Solution involves the dissolving of minerals."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 829,
+    "question": "Which of the following best describes the 'water table'?",
+    "options": [
+      "A. The uppermost layer of the soil that holds moisture.",
+      "B. The upper level of the saturated zone in groundwater.",
+      "C. The rate at which water flows in a river channel.",
+      "D. The total amount of rainfall received in a region."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 830,
+    "question": "The 'Koppen climate classification' system is primarily based on:",
+    "options": [
+      "A. the types of vegetation found in a region.",
+      "B. the average annual temperature and precipitation.",
+      "C. the dominant type of soil in a geographical area.",
+      "D. the political boundaries of different countries."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 831,
+    "question": "A 'barchan' is a type of desert landform formed by the action of:",
+    "options": [
+      "A. water erosion during flash floods.",
+      "B. wind deposition of sand particles.",
+      "C. glacial movement over the landscape.",
+      "D. chemical weathering of limestone."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 832,
+    "question": "Which of the following is a major factor contributing to soil erosion?",
+    "options": [
+      "A. The planting of cover crops to protect the soil.",
+      "B. The removal of vegetation through deforestation.",
+      "C. The construction of terraces on steep slopes.",
+      "D. The practice of crop rotation in farmlands."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 833,
+    "question": "The main difference between a 'spring' and a 'well' is that a spring is:",
+    "options": [
+      "A. a man-made hole dug to reach groundwater.",
+      "B. a natural flow of groundwater to the surface.",
+      "C. a large body of water stored underground.",
+      "D. a river that flows only during the rainy season."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 834,
+    "question": "Which of the following is an example of a 'natural hazard' that occurs in Nigeria?",
+    "options": [
+      "A. Industrial pollution in the Niger Delta.",
+      "B. Excessive flooding in coastal regions.",
+      "C. Soil erosion caused by poor farming.",
+      "D. Desertification caused by overgrazing."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 835,
+    "question": "The 'Coriolis effect' causes moving air to deflect to the:",
+    "options": [
+      "A. Left in the northern hemisphere and right in the southern.",
+      "B. Right in the northern hemisphere and left in the southern.",
+      "C. Left in both the northern and southern hemispheres.",
+      "D. Right in both the northern and southern hemispheres."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 836,
+    "question": "The 'Great Barrier Reef' is located off the coast of which country?",
+    "options": [
+      "A. It is located off the coast of Brazil.",
+      "B. It is located off the coast of Australia.",
+      "C. It is located off the coast of Indonesia.",
+      "D. It is located off the coast of South Africa."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 837,
+    "question": "Which of the following is a major characteristic of 'savanna' vegetation?",
+    "options": [
+      "A. It consists mainly of tall evergreen trees.",
+      "B. It is dominated by tall grasses and scattered trees.",
+      "C. It features thick shrubs adapted to salt water.",
+      "D. It includes dense forests with a closed canopy."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 838,
+    "question": "The process by which water changes from a gas to a liquid is called:",
+    "options": [
+      "A. Evaporation is the change from liquid to gas.",
+      "B. Condensation is the change from gas to liquid.",
+      "C. Precipitation is the falling of water to earth.",
+      "D. Transpiration is the loss of water from plants."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 839,
+    "question": "Which of the following is a major cause of earthquakes?",
+    "options": [
+      "A. The sudden movement of tectonic plates.",
+      "B. The gradual erosion of the earth's crust.",
+      "C. The deposition of sediments in the ocean.",
+      "D. The melting of glaciers in polar regions."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Volcanism and Earthquakes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 840,
+    "question": "The 'leeward side' of a mountain is typically characterized by:",
+    "options": [
+      "A. Heavy rainfall and lush vegetation.",
+      "B. Dry conditions due to descending air.",
+      "C. Constant fog and high humidity levels.",
+      "D. Strong winds and low temperatures."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 841,
+    "question": "Which of the following soil properties is most important for agriculture?",
+    "options": [
+      "A. The color of the soil profile.",
+      "B. The fertility and nutrient content.",
+      "C. The depth of the bedrock.",
+      "D. The age of the soil formation."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 842,
+    "question": "The 'Niger River' in Nigeria empties into the:",
+    "options": [
+      "A. The Niger River empties into the Atlantic Ocean.",
+      "B. The Niger River empties into the Indian Ocean.",
+      "C. The Niger River empties into the Pacific Ocean.",
+      "D. The Niger River empties into the Arctic Ocean."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 843,
+    "question": "Which of the following is a feature of 'karst' topography?",
+    "options": [
+      "A. Deep V-shaped valleys caused by river erosion.",
+      "B. Underground caves and swallow holes in limestone.",
+      "C. Sand dunes formed by the action of wind.",
+      "D. Glacial moraines deposited by melting ice."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 844,
+    "question": "The primary cause of the 'Ozone layer depletion' is the release of:",
+    "options": [
+      "A. Carbon dioxide from burning fossil fuels.",
+      "B. Chlorofluorocarbons from refrigerants and aerosols.",
+      "C. Methane from agricultural activities.",
+      "D. Sulfur dioxide from industrial processes."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 845,
+    "question": "Which of the following is an example of a 'renewable' energy resource?",
+    "options": [
+      "A. Coal extracted from underground mines.",
+      "B. Wind energy captured by turbines.",
+      "C. Natural gas extracted from wells.",
+      "D. Crude oil extracted from reserves."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 846,
+    "question": "The 'tropical rainforest' is characterized by:",
+    "options": [
+      "A. Sparse vegetation consisting mainly of thorny shrubs.",
+      "B. Tall, closely packed trees with broad evergreen leaves.",
+      "C. Short grasses with scattered deciduous trees.",
+      "D. Coniferous trees with needle-like leaves and cones."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 847,
+    "question": "The 'water cycle' is driven primarily by:",
+    "options": [
+      "A. The gravitational pull of the moon.",
+      "B. The heat energy from the sun.",
+      "C. The rotation of the earth.",
+      "D. The pressure of the atmosphere."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 848,
+    "question": "Which of the following is a major effect of climate change?",
+    "options": [
+      "A. A decrease in the frequency of extreme weather events.",
+      "B. A rise in global sea levels due to melting ice.",
+      "C. A cooling of the earth's atmosphere.",
+      "D. A reduction in the amount of carbon dioxide."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Climate Change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 849,
+    "question": "A 'plateau' is best described as:",
+    "options": [
+      "A. A low-lying area between two mountains.",
+      "B. An elevated area of relatively flat land.",
+      "C. A steep, pointed peak of a mountain.",
+      "D. A deep valley carved by a river."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 850,
+    "question": "The main cause of 'tsunamis' is:",
+    "options": [
+      "A. Strong winds blowing across the ocean surface.",
+      "B. Underwater earthquakes or volcanic eruptions.",
+      "C. The gravitational pull of the moon on the sea.",
+      "D. The melting of glaciers into the ocean."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Volcanism and Earthquakes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 851,
+    "question": "Which of the following is a characteristic of a 'fertile' soil?",
+    "options": [
+      "A. It has a high content of leached minerals.",
+      "B. It has a high content of organic matter and nutrients.",
+      "C. It has a high proportion of coarse sand particles.",
+      "D. It has a low water retention capacity."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 852,
+    "question": "The process of 'deposition' by a river occurs when:",
+    "options": [
+      "A. The river's velocity increases, carrying more load.",
+      "B. The river's velocity decreases, dropping its load.",
+      "C. The river erodes its banks during a flood.",
+      "D. The river freezes over during winter."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 853,
+    "question": "The 'Sahel' region is known for:",
+    "options": [
+      "A. A dense tropical rainforest vegetation.",
+      "B. A semi-arid climate with sparse rainfall.",
+      "C. A temperate climate with four seasons.",
+      "D. A polar climate with permanent ice."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 854,
+    "question": "Which of the following is a major environmental issue caused by deforestation?",
+    "options": [
+      "A. An increase in the rate of soil infiltration.",
+      "B. Increased surface run-off and soil erosion.",
+      "C. A reduction in the amount of carbon dioxide.",
+      "D. An increase in biodiversity of the region."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 855,
+    "question": "The term 'biodiversity' refers to the:",
+    "options": [
+      "A. Variety of life forms in a given ecosystem.",
+      "B. Total number of people in a region.",
+      "C. Amount of water available in a river.",
+      "D. Type of soil found in a forest."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Environmental Interaction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 856,
+    "question": "Which of the following is an example of a 'metamorphic' rock?",
+    "options": [
+      "A. Limestone is a sedimentary rock.",
+      "B. Marble is formed from limestone under heat.",
+      "C. Granite is an igneous rock.",
+      "D. Basalt is an extrusive igneous rock."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 857,
+    "question": "The primary function of the 'atmosphere' is to:",
+    "options": [
+      "A. Provide a source of minerals for mining.",
+      "B. Protect the earth from harmful solar radiation.",
+      "C. Store water for agricultural use.",
+      "D. Generate geothermal energy for the planet."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 858,
+    "question": "A 'delta' is formed at the mouth of a river when:",
+    "options": [
+      "A. The river's velocity is too high to deposit sediment.",
+      "B. The river deposits sediment faster than it is removed.",
+      "C. The ocean currents carry all the sediment away.",
+      "D. The river flows over a steep, rocky gradient."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 859,
+    "question": "Which of the following is a major component of the 'land ecosystem'?",
+    "options": [
+      "A. The oceans and seas.",
+      "B. The soil and vegetation.",
+      "C. The atmosphere and clouds.",
+      "D. The rivers and lakes."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Interaction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 860,
+    "question": "The term 'desertification' refers to the:",
+    "options": [
+      "A. Expansion of deserts into fertile lands.",
+      "B. Formation of new deserts by tectonic activity.",
+      "C. Natural growth of vegetation in dry areas.",
+      "D. Increase in rainfall in arid regions."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 861,
+    "question": "Which of the following is a major factor influencing the location of a manufacturing industry?",
+    "options": [
+      "A. The availability of raw materials and power.",
+      "B. The presence of a large number of tourists.",
+      "C. The high altitude of the region.",
+      "D. The distance from the capital city."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 862,
+    "question": "The 'balance of trade' is defined as the difference between a country's:",
+    "options": [
+      "A. Total exports and total imports.",
+      "B. Total revenue and total expenditure.",
+      "C. Total population and total resources.",
+      "D. Total production and total consumption."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 863,
+    "question": "Which of the following is an example of a 'quaternary' economic activity?",
+    "options": [
+      "A. The extraction of minerals from the earth.",
+      "B. The manufacturing of electronic devices.",
+      "C. The provision of insurance services.",
+      "D. Research and development in a laboratory."
+    ],
+    "answer": "D",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 864,
+    "question": "The primary cause of 'rural-urban migration' in developing countries is:",
+    "options": [
+      "A. The availability of abundant land in urban areas.",
+      "B. The search for better employment and education.",
+      "C. The high cost of living in the rural areas.",
+      "D. The low population density in the urban areas."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 865,
+    "question": "A 'conurbation' is best described as:",
+    "options": [
+      "A. A single city with a very large population.",
+      "B. A network of interconnected towns and cities.",
+      "C. A rural settlement focused on agriculture.",
+      "D. A small town serving a local market."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 866,
+    "question": "The term 'ecotourism' refers to tourism that:",
+    "options": [
+      "A. Focuses on visiting theme parks and cities.",
+      "B. Is responsible and preserves the natural environment.",
+      "C. Involves traveling to foreign countries only.",
+      "D. Is organized exclusively for business purposes."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 867,
+    "question": "Which of the following is a major problem associated with transportation in tropical Africa?",
+    "options": [
+      "A. The excessive availability of modern vehicles.",
+      "B. The lack of adequate road and rail networks.",
+      "C. The high level of technological advancement.",
+      "D. The low demand for transport services."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 868,
+    "question": "The 'demographic transition model' describes the:",
+    "options": [
+      "A. Movement of people from one country to another.",
+      "B. Change in birth and death rates over time.",
+      "C. Distribution of population across a region.",
+      "D. Age and sex composition of a population."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 869,
+    "question": "Which of the following is a characteristic of a 'primate city'?",
+    "options": [
+      "A. It is the smallest city in the country.",
+      "B. It is significantly larger than other cities.",
+      "C. It has an equal population to other cities.",
+      "D. It is located in a remote rural area."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 870,
+    "question": "The 'Green Revolution' in agriculture refers to the:",
+    "options": [
+      "A. Increase in the use of chemical fertilizers and high-yield crops.",
+      "B. Expansion of agricultural land into forest areas.",
+      "C. Reduction in the use of machinery in farming.",
+      "D. Shift from crop production to livestock farming."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 871,
+    "question": "A 'linear' settlement pattern is typically found:",
+    "options": [
+      "A. Around a central market square.",
+      "B. Along a major road or river.",
+      "C. Scattered across a wide farmland.",
+      "D. Around a resource deposit."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 872,
+    "question": "The main difference between a 'renewable' and a 'non-renewable' resource is that renewable resources:",
+    "options": [
+      "A. Are found only in the tropical regions.",
+      "B. Can be replenished naturally over time.",
+      "C. Require expensive technology to extract.",
+      "D. Are used primarily for industrial manufacturing."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 873,
+    "question": "Which of the following is a major effect of rapid population growth?",
+    "options": [
+      "A. A decrease in the demand for social amenities.",
+      "B. An increase in the available arable land per capita.",
+      "C. A high dependency ratio and unemployment rate.",
+      "D. A reduction in the rate of rural-to-urban migration."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 874,
+    "question": "The 'infant mortality rate' refers to the number of deaths of children under:",
+    "options": [
+      "A. One year of age per 1,000 live births.",
+      "B. Five years of age per 1,000 live births.",
+      "C. Ten years of age per 1,000 live births.",
+      "D. Fifteen years of age per 1,000 live births."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 875,
+    "question": "Which of the following is a major advantage of using railways for transportation?",
+    "options": [
+      "A. They are flexible and can reach remote areas.",
+      "B. They are suitable for bulk transportation of goods.",
+      "C. They are faster than air transport for passengers.",
+      "D. They are cheaper to construct than roads."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 876,
+    "question": "The term 'world trade' refers to the:",
+    "options": [
+      "A. Exchange of goods and services between countries.",
+      "B. Movement of people across international borders.",
+      "C. Distribution of resources within a country.",
+      "D. Production of goods for local consumption."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 877,
+    "question": "Which of the following is an example of a 'dispersed' rural settlement?",
+    "options": [
+      "A. Houses are built closely together around a market.",
+      "B. Farms are located far from the residential areas.",
+      "C. Houses are scattered widely across the farmland.",
+      "D. Buildings are arranged along a single street."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 878,
+    "question": "The main objective of the 'Economic Community of West African States' (ECOWAS) is to:",
+    "options": [
+      "A. Promote economic integration among member states.",
+      "B. Establish a single military command for the region.",
+      "C. Standardize the educational curriculum across states.",
+      "D. Enforce a common language for all member states."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 879,
+    "question": "A 'dormitory town' is best described as a settlement that:",
+    "options": [
+      "A. Serves primarily as a center for agricultural production.",
+      "B. Provides housing for workers who commute to a nearby city.",
+      "C. Acts as a hub for international financial trade.",
+      "D. Offers specialized medical and educational services."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 880,
+    "question": "Which of the following is a major factor affecting the distribution of population in a region?",
+    "options": [
+      "A. The presence of a favorable climate and water supply.",
+      "B. The distance from the nearest international airport.",
+      "C. The number of tourists visiting the region annually.",
+      "D. The type of transportation network available."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 881,
+    "question": "The 'primary sector' of an economy involves activities related to:",
+    "options": [
+      "A. The extraction of raw materials from the earth.",
+      "B. The manufacturing of finished goods in factories.",
+      "C. The provision of services like banking and retail.",
+      "D. The processing of data and research development."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 882,
+    "question": "Which of the following is a major problem associated with urbanization in developing countries?",
+    "options": [
+      "A. A decrease in the population density of the city.",
+      "B. An increase in the availability of affordable housing.",
+      "C. The development of overcrowded and unplanned slums.",
+      "D. A reduction in the demand for public transport."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 883,
+    "question": "The term 'carrying capacity' in population geography refers to the:",
+    "options": [
+      "A. Maximum number of people an environment can support.",
+      "B. Total number of people migrating to a region.",
+      "C. Average age of the population in a region.",
+      "D. Rate at which the population is growing."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 884,
+    "question": "Which of the following is a major export commodity of Nigeria?",
+    "options": [
+      "A. Crude oil extracted from the Niger Delta region.",
+      "B. Cocoa beans produced in the northern savanna.",
+      "C. Groundnut cultivated in the middle belt region.",
+      "D. Palm oil processed in the eastern rainforest."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 885,
+    "question": "A 'nucleated' settlement is characterized by:",
+    "options": [
+      "A. Buildings widely scattered across a large area.",
+      "B. Buildings arranged in a long line along a road.",
+      "C. Buildings clustered closely together around a center.",
+      "D. Buildings separated by large agricultural fields."
+    ],
+    "answer": "C",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 886,
+    "question": "The 'Niger Delta' region of Nigeria is primarily known for its:",
+    "options": [
+      "A. Large deposits of solid minerals.",
+      "B. Extensive production of crude oil.",
+      "C. High agricultural yield of cocoa.",
+      "D. Development of heavy manufacturing."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 887,
+    "question": "Which of the following is a major characteristic of the 'savanna' vegetation in Nigeria?",
+    "options": [
+      "A. It consists mainly of tall evergreen trees.",
+      "B. It is dominated by tall grasses and scattered trees.",
+      "C. It features thick shrubs adapted to salt water.",
+      "D. It includes dense forests with a closed canopy."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 888,
+    "question": "The 'Benue Trough' in Nigeria is an example of a:",
+    "options": [
+      "A. Volcanic mountain range formed by magma intrusion.",
+      "B. Sedimentary basin formed by tectonic down-warping.",
+      "C. Coastal plain formed by the deposition of sediments.",
+      "D. Plateau region formed by resistant basement rocks."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 889,
+    "question": "Which of the following is a major agricultural system practiced in Nigeria?",
+    "options": [
+      "A. Shifting cultivation involving the clearing of land.",
+      "B. Plantation agriculture using advanced machinery.",
+      "C. Ranching and dairy farming in the north.",
+      "D. Hydroponic farming in urban centers."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 890,
+    "question": "The main objective of the 'Economic Community of West African States' (ECOWAS) is to:",
+    "options": [
+      "A. Promote economic integration among member states.",
+      "B. Establish a single military command for the region.",
+      "C. Standardize the educational curriculum across states.",
+      "D. Enforce a common language for all member states."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 891,
+    "question": "Which of the following countries is NOT a member of ECOWAS?",
+    "options": [
+      "A. The Republic of Ghana is a founding member.",
+      "B. The Republic of Cameroon is not a member.",
+      "C. The Republic of Senegal is a member.",
+      "D. The Federal Republic of Nigeria is a member."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 892,
+    "question": "The 'Niger River' in Nigeria empties into the:",
+    "options": [
+      "A. The Niger River empties into the Atlantic Ocean.",
+      "B. The Niger River empties into the Indian Ocean.",
+      "C. The Niger River empties into the Pacific Ocean.",
+      "D. The Niger River empties into the Arctic Ocean."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 893,
+    "question": "Which of the following is a major problem associated with the mining industry in Nigeria?",
+    "options": [
+      "A. The lack of mineral resources in the country.",
+      "B. The environmental degradation caused by mining.",
+      "C. The excessive export of minerals to other countries.",
+      "D. The high level of technology used in mining."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 894,
+    "question": "The 'Sahel' region of Africa is primarily characterized by:",
+    "options": [
+      "A. A dense tropical rainforest vegetation.",
+      "B. A semi-arid climate with sparse rainfall.",
+      "C. A temperate climate with four seasons.",
+      "D. A polar climate with permanent ice."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 895,
+    "question": "Which of the following is a major factor affecting the distribution of vegetation in Nigeria?",
+    "options": [
+      "A. The presence of extensive mineral deposits.",
+      "B. The variation in rainfall and temperature.",
+      "C. The density of the human population.",
+      "D. The type of transportation network."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 896,
+    "question": "The primary cause of soil erosion in the coastal areas of Nigeria is:",
+    "options": [
+      "A. The action of wind blowing across the bare land.",
+      "B. The heavy rainfall and high wave action.",
+      "C. The overgrazing of livestock on the land.",
+      "D. The inappropriate use of agricultural machinery."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 897,
+    "question": "Which of the following is a major export commodity of Nigeria?",
+    "options": [
+      "A. Crude oil extracted from the Niger Delta region.",
+      "B. Cocoa beans produced in the northern savanna.",
+      "C. Groundnut cultivated in the middle belt region.",
+      "D. Palm oil processed in the eastern rainforest."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 898,
+    "question": "The 'Niger Delta' region of Nigeria is primarily known for its:",
+    "options": [
+      "A. Large deposits of solid minerals.",
+      "B. Extensive production of crude oil.",
+      "C. High agricultural yield of cocoa.",
+      "D. Development of heavy manufacturing."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 899,
+    "question": "Which of the following is a major characteristic of the 'savanna' vegetation in Nigeria?",
+    "options": [
+      "A. It consists mainly of tall evergreen trees.",
+      "B. It is dominated by tall grasses and scattered trees.",
+      "C. It features thick shrubs adapted to salt water.",
+      "D. It includes dense forests with a closed canopy."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 900,
+    "question": "The 'Benue Trough' in Nigeria is an example of a:",
+    "options": [
+      "A. Volcanic mountain range formed by magma intrusion.",
+      "B. Sedimentary basin formed by tectonic down-warping.",
+      "C. Coastal plain formed by the deposition of sediments.",
+      "D. Plateau region formed by resistant basement rocks."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 901,
+    "question": "If the vertical interval between two points is 50 meters and the horizontal equivalent is 2.5 kilometers, what is the vertical exaggeration if the horizontal scale is 1:50,000 and the vertical scale is 1:5,000?",
+    "options": [
+      "A. The vertical exaggeration of the map profile is exactly 5 times.",
+      "B. The vertical exaggeration of the map profile is exactly 10 times.",
+      "C. The vertical exaggeration of the map profile is exactly 15 times.",
+      "D. The vertical exaggeration of the map profile is exactly 20 times."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 902,
+    "question": "In Geographic Information Systems, which data format is best suited for representing continuous phenomena like elevation or temperature?",
+    "options": [
+      "A. The vector data model uses points, lines, and polygons.",
+      "B. The raster data model uses a grid of cells or pixels.",
+      "C. The tabular data model uses rows and columns of text.",
+      "D. The relational data model uses linked database tables."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 903,
+    "question": "Which of the following statistical diagrams is most appropriate for showing the proportional contribution of different crops to a country's total agricultural output?",
+    "options": [
+      "A. A simple line graph is best for showing continuous trends.",
+      "B. A divided circle or pie chart is best for proportions.",
+      "C. A compound bar chart is best for comparing sub-groups.",
+      "D. A scatter diagram is best for showing correlations."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 904,
+    "question": "Which of the following map projections preserves the true compass bearing (rhumb line) between any two points?",
+    "options": [
+      "A. The Mercator projection preserves true compass bearings.",
+      "B. The Robinson projection preserves the true global shape.",
+      "C. The Gall-Peters projection preserves the true land area.",
+      "D. The Azimuthal projection preserves the true distance."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 905,
+    "question": "What is the main reason for closing a traverse survey back to its starting point or a known station?",
+    "options": [
+      "A. To eliminate the need for measuring horizontal angles.",
+      "B. To check for and adjust accumulated measurement errors.",
+      "C. To ensure the survey is completed within a short time.",
+      "D. To reduce the cost of purchasing survey equipment."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 906,
+    "question": "On a topographic map, what does a series of closely packed contour lines indicate about the terrain?",
+    "options": [
+      "A. The contour lines indicate a very gentle and flat slope.",
+      "B. The contour lines indicate a steep and rapid change in slope.",
+      "C. The contour lines indicate a depression or a valley floor.",
+      "D. The contour lines indicate a perfectly uniform plateau."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 907,
+    "question": "Which of the following is a primary advantage of using a dot map in geographic data representation?",
+    "options": [
+      "A. It shows precise administrative boundaries very clearly.",
+      "B. It effectively displays the density and distribution of a phenomenon.",
+      "C. It uses continuous shading to represent absolute values.",
+      "D. It connects points of equal value with smooth lines."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 908,
+    "question": "If a map has a scale of 1:10,000, what is the actual area of a rectangular farm that measures 5 cm by 4 cm on the map?",
+    "options": [
+      "A. The actual area of the farm is exactly 0.2 square kilometers.",
+      "B. The actual area of the farm is exactly 2.0 square kilometers.",
+      "C. The actual area of the farm is exactly 20.0 square kilometers.",
+      "D. The actual area of the farm is exactly 200.0 square kilometers."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 909,
+    "question": "What does the term 'hachures' refer to in map interpretation?",
+    "options": [
+      "A. They are lines drawn to show the direction of river flow.",
+      "B. They are short, parallel lines used to indicate slope steepness.",
+      "C. They are symbols used to represent human settlements.",
+      "D. They are the grid lines used for locating coordinates."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 910,
+    "question": "In the context of GIS, what is 'georeferencing'?",
+    "options": [
+      "A. The process of defining a location in physical space.",
+      "B. The process of converting a vector map to a raster map.",
+      "C. The process of collecting data using field surveys.",
+      "D. The process of creating a pie chart from spatial data."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 911,
+    "question": "Which of the following is an example of a 'flow line' map?",
+    "options": [
+      "A. A map showing the physical boundaries of a country.",
+      "B. A map showing the volume of trade between two ports.",
+      "C. A map showing the density of population in a city.",
+      "D. A map showing the elevation of a mountainous area."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 912,
+    "question": "What is the primary function of a 'leveling staff' in surveying?",
+    "options": [
+      "A. To measure the horizontal distance between points.",
+      "B. To determine the difference in height between points.",
+      "C. To measure the magnetic bearing of a survey line.",
+      "D. To calculate the area of a triangular plot."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 913,
+    "question": "A map with a representative fraction of 1:1,000,000 is generally classified as a:",
+    "options": [
+      "A. Large-scale map used for local town planning.",
+      "B. Small-scale map used for regional overviews.",
+      "C. Medium-scale map used for topographic details.",
+      "D. Cadastral map used for land ownership."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Maps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 914,
+    "question": "In map reading, a 'trigonometric station' is typically represented by a:",
+    "options": [
+      "A. A small circle with a dot in the center.",
+      "B. A triangle with a dot in the center.",
+      "C. A square with a cross inside it.",
+      "D. A line with a perpendicular crossbar."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 915,
+    "question": "Which of the following is the most accurate method for measuring the area of an irregularly shaped lake on a topographic map?",
+    "options": [
+      "A. Tracing the outline onto a grid of squares.",
+      "B. Using a pair of dividers to measure the width.",
+      "C. Multiplying the length by the maximum width.",
+      "D. Using the contour lines to estimate the slope."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - Scale and Measurement",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 916,
+    "question": "What is a 'histogram' primarily used for in geography?",
+    "options": [
+      "A. Showing the relationship between two variables.",
+      "B. Displaying the frequency distribution of continuous data.",
+      "C. Showing the proportion of a whole across categories.",
+      "D. Indicating the direction of flow between regions."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Statistical Data",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 917,
+    "question": "Which of the following errors is most likely to occur during a chain survey if the tape is not held horizontally?",
+    "options": [
+      "A. The measured distance will be shorter than the actual.",
+      "B. The measured distance will be longer than the actual.",
+      "C. The measured area will be exactly accurate.",
+      "D. The measured angles will be completely incorrect."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Elementary Surveying",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 918,
+    "question": "In map interpretation, the term 'watershed' is synonymous with:",
+    "options": [
+      "A. The mouth of a river where it enters the sea.",
+      "B. The boundary between two adjacent drainage basins.",
+      "C. The point where a river begins its journey.",
+      "D. The area where a river deposits its sediment."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 919,
+    "question": "Which of the following is a major advantage of using remote sensing for environmental monitoring?",
+    "options": [
+      "A. It allows for the rapid coverage of large areas.",
+      "B. It provides only ground-level photographic data.",
+      "C. It eliminates the need for any field verification.",
+      "D. It is limited to monitoring weather conditions only."
+    ],
+    "answer": "A",
+    "topic": "Practical Geography - GIS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 920,
+    "question": "What is the primary purpose of a 'bearing' in map reading?",
+    "options": [
+      "A. To calculate the total area of a map.",
+      "B. To determine the direction of one point from another.",
+      "C. To measure the height of a mountain peak.",
+      "D. To identify the type of soil in a region."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Map Reading",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 921,
+    "question": "Which of the following landforms is formed by glacial erosion?",
+    "options": [
+      "A. A moraine is a landform formed by glacial deposition.",
+      "B. A cirque is a landform formed by glacial erosion.",
+      "C. An esker is a landform formed by glacial deposition.",
+      "D. A drumlin is a landform formed by glacial deposition."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 922,
+    "question": "A 'spit' is a coastal landform that is primarily formed by:",
+    "options": [
+      "A. The erosion of the coastline by wave action.",
+      "B. The deposition of sediment by longshore drift.",
+      "C. The sudden uplift of the coastal landmass.",
+      "D. The deposition of sediment by a river."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 923,
+    "question": "Which of the following is an example of a slow mass movement of soil?",
+    "options": [
+      "A. A landslide involves the rapid movement of rock.",
+      "B. Soil creep is the extremely slow movement of soil.",
+      "C. A mudflow involves the rapid flow of wet soil.",
+      "D. A rockfall is the rapid fall of rock fragments."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 924,
+    "question": "The 'Inter-Tropical Convergence Zone' (ITCZ) is characterized by:",
+    "options": [
+      "A. High pressure and descending air masses.",
+      "B. Low pressure and converging trade winds.",
+      "C. High pressure and converging westerlies.",
+      "D. Low pressure and diverging polar winds."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 925,
+    "question": "Which of the following is a characteristic of a 'podzol' soil?",
+    "options": [
+      "A. It is highly fertile and rich in organic matter.",
+      "B. It is acidic and found in cool, coniferous forests.",
+      "C. It is found in tropical regions with heavy rainfall.",
+      "D. It is highly saline and found in arid regions."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 926,
+    "question": "The process of 'ecological succession' refers to the:",
+    "options": [
+      "A. Gradual change in plant and animal communities over time.",
+      "B. Movement of animals from one habitat to another.",
+      "C. Sudden destruction of an ecosystem by a natural hazard.",
+      "D. Introduction of foreign species into a new environment."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 927,
+    "question": "Which of the following is a primary method of environmental conservation in forest regions?",
+    "options": [
+      "A. The indiscriminate logging of mature trees.",
+      "B. The establishment of protected forest reserves.",
+      "C. The conversion of forests into urban areas.",
+      "D. The clearing of land for large-scale farming."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 928,
+    "question": "An instrument used to detect and record the intensity of earthquakes is known as a:",
+    "options": [
+      "A. A barometer is used for measuring atmospheric pressure.",
+      "B. A seismograph is used for recording earth vibrations.",
+      "C. An anemometer is used for measuring wind speed.",
+      "D. A hygrometer is used for measuring humidity."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Volcanism and Earthquakes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 929,
+    "question": "Which of the following best describes a 'shield volcano'?",
+    "options": [
+      "A. It has steep sides and is formed by viscous lava.",
+      "B. It has gentle slopes and is formed by fluid lava.",
+      "C. It is formed by explosive eruptions of ash.",
+      "D. It is formed by the collapse of a magma chamber."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Volcanism and Earthquakes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 930,
+    "question": "The process by which rocks break down due to the expansion and contraction caused by temperature changes is called:",
+    "options": [
+      "A. Carbonation is the breakdown of rocks by carbonic acid.",
+      "B. Exfoliation is the peeling of rocks due to temperature.",
+      "C. Hydrolysis is the breakdown of rocks by water.",
+      "D. Oxidation is the breakdown of rocks by oxygen."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 931,
+    "question": "A 'dendritic' drainage pattern is typically developed in areas where the underlying rock is:",
+    "options": [
+      "A. Highly resistant and uniform in structure.",
+      "B. Fractured and jointed in a grid pattern.",
+      "C. Dominated by limestone and karst features.",
+      "D. Covered by extensive glacial deposits."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 932,
+    "question": "The upward movement of cold, nutrient-rich water from the ocean floor to the surface is known as:",
+    "options": [
+      "A. Downwelling is the sinking of dense surface water.",
+      "B. Upwelling is the rising of cold, deep ocean water.",
+      "C. A tsunami is a large wave caused by an earthquake.",
+      "D. A tidal range is the difference in sea level."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 933,
+    "question": "Which of the following is a feature of a 'BWh' climate in the Koppen classification?",
+    "options": [
+      "A. It is a cold desert climate with very low temperatures.",
+      "B. It is a hot desert climate with very low rainfall.",
+      "C. It is a tropical savanna climate with seasonal rain.",
+      "D. It is a humid continental climate with cold winters."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 934,
+    "question": "Mangrove vegetation is typically found in:",
+    "options": [
+      "A. High-altitude mountainous regions with cold climates.",
+      "B. Coastal areas with brackish water and muddy soils.",
+      "C. Arid regions with very low annual rainfall.",
+      "D. Temperate regions with deciduous forest cover."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Vegetation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 935,
+    "question": "Which of the following soil horizons is primarily composed of organic matter?",
+    "options": [
+      "A. The O horizon is the uppermost organic layer.",
+      "B. The A horizon is the topsoil with minerals.",
+      "C. The B horizon is the subsoil of accumulation.",
+      "D. The C horizon is the weathered parent rock."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 936,
+    "question": "The slow, downslope movement of soil and rock fragments due to gravity is known as:",
+    "options": [
+      "A. Erosion is the removal of soil by water or wind.",
+      "B. Mass movement is the downslope transfer of material.",
+      "C. Weathering is the breakdown of rocks in situ.",
+      "D. Deposition is the laying down of eroded material."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 937,
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": [
+      "A. The troposphere is the lowest layer of the atmosphere.",
+      "B. The stratosphere is the layer containing the ozone.",
+      "C. The mesosphere is the layer where meteors burn up.",
+      "D. The thermosphere is the layer with high temperatures."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 938,
+    "question": "A 'meander' in a river is formed by:",
+    "options": [
+      "A. The erosion of the outer bank and deposition on the inner.",
+      "B. The deposition of sediment on the outer bank of the river.",
+      "C. The vertical erosion of the river bed in the upper course.",
+      "D. The sudden drop in the river's gradient in the middle course."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 939,
+    "question": "A 'yardang' is a desert landform formed by:",
+    "options": [
+      "A. The erosive action of wind on alternating rock types.",
+      "B. The deposition of sand by wind around obstacles.",
+      "C. The action of water during flash floods in deserts.",
+      "D. The chemical weathering of limestone in deserts."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 940,
+    "question": "Which of the following is a major strategy for mitigating the effects of climate change?",
+    "options": [
+      "A. Increasing the burning of fossil fuels for energy.",
+      "B. Reducing greenhouse gas emissions and afforestation.",
+      "C. Encouraging the clearing of forests for agriculture.",
+      "D. Expanding the use of chlorofluorocarbons."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Climate Change",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 941,
+    "question": "The transformation of limestone into marble is an example of:",
+    "options": [
+      "A. Igneous intrusion caused by magma heating.",
+      "B. Metamorphism caused by heat and pressure.",
+      "C. Sedimentation caused by water deposition.",
+      "D. Weathering caused by chemical reactions."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 942,
+    "question": "A 'divergent' plate boundary is characterized by:",
+    "options": [
+      "A. Plates moving towards each other and forming mountains.",
+      "B. Plates moving apart and forming new crust.",
+      "C. Plates sliding past each other horizontally.",
+      "D. Plates subducting beneath each other."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 943,
+    "question": "The process by which plants release water vapor into the atmosphere is called:",
+    "options": [
+      "A. Evaporation is the change of water into vapor.",
+      "B. Transpiration is the release of water by plants.",
+      "C. Condensation is the change of vapor into liquid.",
+      "D. Precipitation is the falling of water to earth."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 944,
+    "question": "A 'tombolo' is a coastal landform formed by:",
+    "options": [
+      "A. The deposition of sediment connecting an island to the mainland.",
+      "B. The erosion of a headland creating a sea arch.",
+      "C. The deposition of sediment by a river at its mouth.",
+      "D. The uplift of the sea floor creating a new island."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 945,
+    "question": "Which of the following is a type of glacial deposit?",
+    "options": [
+      "A. A cirque is a landform formed by glacial erosion.",
+      "B. A moraine is a landform formed by glacial deposition.",
+      "C. A hanging valley is formed by glacial erosion.",
+      "D. A roche moutonnee is formed by glacial erosion."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Denudation Processes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 946,
+    "question": "The formation of a 'gully' is primarily a result of:",
+    "options": [
+      "A. Wind erosion in arid and semi-arid regions.",
+      "B. Concentrated surface water run-off during heavy rain.",
+      "C. The slow movement of soil down a gentle slope.",
+      "D. The chemical weathering of rocks by groundwater."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 947,
+    "question": "Which instrument is used to measure wind direction?",
+    "options": [
+      "A. An anemometer is used to measure wind speed.",
+      "B. A wind vane is used to show wind direction.",
+      "C. A barometer is used to measure air pressure.",
+      "D. A hygrometer is used to measure humidity."
+    ],
+    "answer": "B",
+    "topic": "Practical Geography - Weather Instruments",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 948,
+    "question": "In a food chain, organisms that break down dead organic matter are known as:",
+    "options": [
+      "A. Producers are organisms that make their own food.",
+      "B. Consumers are organisms that eat other organisms.",
+      "C. Decomposers are organisms that break down dead matter.",
+      "D. Predators are organisms that hunt other animals."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Environmental Interaction",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 949,
+    "question": "Which of the following is a structural method of flood control?",
+    "options": [
+      "A. The construction of levees and dams.",
+      "B. The planting of vegetation along rivers.",
+      "C. The enforcement of zoning regulations.",
+      "D. The education of communities on flood risks."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 950,
+    "question": "A 'stalagmite' is a cave formation that grows from the:",
+    "options": [
+      "A. The ceiling of the cave downwards.",
+      "B. The floor of the cave upwards.",
+      "C. The walls of the cave outwards.",
+      "D. The entrance of the cave inwards."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth Crust",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 951,
+    "question": "Frontal rainfall occurs when:",
+    "options": [
+      "A. Moist air is forced to rise over a mountain barrier.",
+      "B. Warm and cold air masses meet and the warm air rises.",
+      "C. The ground is heated intensely causing convection.",
+      "D. The air is forced to rise by the ITCZ."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 952,
+    "question": "The rotation of the earth on its axis causes:",
+    "options": [
+      "A. The change in the seasons.",
+      "B. The alternation of day and night.",
+      "C. The variation in the length of the year.",
+      "D. The formation of the equator."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth as a Planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 953,
+    "question": "Which planet in the solar system is closest to the sun?",
+    "options": [
+      "A. Venus is the second planet from the sun.",
+      "B. Mercury is the first planet from the sun.",
+      "C. Earth is the third planet from the sun.",
+      "D. Mars is the fourth planet from the sun."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Earth as a Planet",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 954,
+    "question": "The term 'catchment area' in river geography refers to the:",
+    "options": [
+      "A. Area drained by a river and its tributaries.",
+      "B. Point where a river enters the ocean.",
+      "C. Volume of water flowing in a river.",
+      "D. Speed at which a river flows."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Water Bodies",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 955,
+    "question": "The tropical savanna climate is characterized by:",
+    "options": [
+      "A. A distinct wet and dry season.",
+      "B. Rainfall throughout the year.",
+      "C. Extremely low temperatures.",
+      "D. No dry season at all."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Weather and Climate",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 956,
+    "question": "The dark, organic material in soil formed from decomposed plants and animals is called:",
+    "options": [
+      "A. Humus is the dark organic matter in soil.",
+      "B. Bedrock is the solid rock beneath soil.",
+      "C. Parent material is the source of soil.",
+      "D. Subsoil is the layer below topsoil."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Soils",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 957,
+    "question": "Which of the following is an example of a non-renewable resource?",
+    "options": [
+      "A. Solar energy is a renewable resource.",
+      "B. Wind energy is a renewable resource.",
+      "C. Coal is a non-renewable resource.",
+      "D. Water is a renewable resource."
+    ],
+    "answer": "C",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 958,
+    "question": "The concept of 'environmental balance' suggests that:",
+    "options": [
+      "A. The environment is always in a state of perfect harmony.",
+      "B. Natural ecosystems maintain a stable equilibrium unless disturbed.",
+      "C. Human activities have no impact on environmental stability.",
+      "D. The environment can recover instantly from any damage."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Interaction",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 959,
+    "question": "Which of the following is a major cause of desertification in the Sahel region?",
+    "options": [
+      "A. Overgrazing and deforestation by human activities.",
+      "B. Increased rainfall and flooding in the region.",
+      "C. The expansion of irrigated agricultural lands.",
+      "D. The introduction of new plant species."
+    ],
+    "answer": "A",
+    "topic": "Physical Geography - Environmental Hazards",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 960,
+    "question": "Which of the following is an example of a 'renewable' energy resource?",
+    "options": [
+      "A. Coal extracted from underground mines.",
+      "B. Wind energy captured by turbines.",
+      "C. Natural gas extracted from wells.",
+      "D. Crude oil extracted from reserves."
+    ],
+    "answer": "B",
+    "topic": "Physical Geography - Environmental Resources",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 961,
+    "question": "According to the Malthusian theory, population grows:",
+    "options": [
+      "A. Arithmetic progression while food supply grows geometrically.",
+      "B. Geometric progression while food supply grows arithmetically.",
+      "C. Linearly while food supply grows exponentially.",
+      "D. Exponentially while food supply grows linearly."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 962,
+    "question": "Which of the following is a 'push' factor for rural-urban migration?",
+    "options": [
+      "A. The availability of better jobs in the city.",
+      "B. The lack of agricultural land and services in rural areas.",
+      "C. The availability of educational institutions in the city.",
+      "D. The high standard of living in urban areas."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 963,
+    "question": "In a settlement hierarchy, a 'hamlet' is typically:",
+    "options": [
+      "A. Larger than a city but smaller than a metropolis.",
+      "B. Smaller than a village with very few services.",
+      "C. A large urban center with many functions.",
+      "D. A settlement that serves as a regional capital."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 964,
+    "question": "The outward expansion of urban areas into surrounding rural lands is known as:",
+    "options": [
+      "A. Urban sprawl is the expansion of cities into rural areas.",
+      "B. Urban renewal is the redevelopment of inner cities.",
+      "C. Urban decay is the deterioration of city centers.",
+      "D. Urban hierarchy is the ranking of settlements."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 965,
+    "question": "Which of the following is a primary economic activity?",
+    "options": [
+      "A. The manufacturing of textiles in local factories.",
+      "B. The extraction of raw materials from the earth.",
+      "C. The provision of banking and insurance services.",
+      "D. The processing of agricultural produce into food."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 966,
+    "question": "Plantation agriculture is characterized by:",
+    "options": [
+      "A. Small-scale farming for local consumption.",
+      "B. Large-scale farming of a single cash crop.",
+      "C. Mixed farming of crops and livestock.",
+      "D. Shifting cultivation in tropical forests."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 967,
+    "question": "An industry that can be located in many different places without losing its market is known as a:",
+    "options": [
+      "A. A footloose industry is not tied to specific locations.",
+      "B. A heavy industry requires large amounts of raw materials.",
+      "C. A cottage industry is small-scale and home-based.",
+      "D. A primary industry extracts raw materials."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 968,
+    "question": "The main advantage of water transport over road transport is its:",
+    "options": [
+      "A. High speed for passenger travel.",
+      "B. Low cost for bulky goods.",
+      "C. Flexibility in routes.",
+      "D. Ability to reach remote areas."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 969,
+    "question": "The 'balance of trade' is the difference between a country's:",
+    "options": [
+      "A. Total exports and total imports.",
+      "B. Total revenue and total expenditure.",
+      "C. Total population and total resources.",
+      "D. Total production and total consumption."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 970,
+    "question": "Ecotourism is primarily concerned with:",
+    "options": [
+      "A. Visiting theme parks and amusement centers.",
+      "B. Responsible travel that conserves the environment.",
+      "C. Traveling to foreign countries for business.",
+      "D. Organizing large-scale international conferences."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 971,
+    "question": "The 'dependency ratio' is a measure of the number of:",
+    "options": [
+      "A. People in the working-age group.",
+      "B. Children and elderly compared to the working population.",
+      "C. People migrating to a region.",
+      "D. Employed individuals in an economy."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 972,
+    "question": "A 'conurbation' is formed when:",
+    "options": [
+      "A. A city grows rapidly in population.",
+      "B. Several towns and cities merge into one continuous urban area.",
+      "C. A rural settlement becomes a town.",
+      "D. A city loses its population to rural areas."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 973,
+    "question": "The migration of highly skilled professionals from developing to developed countries is known as:",
+    "options": [
+      "A. Brain drain is the emigration of skilled workers.",
+      "B. Brain gain is the immigration of skilled workers.",
+      "C. Step migration is movement in stages.",
+      "D. Forced migration is involuntary movement."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Population",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 974,
+    "question": "Which of the following is an example of a 'quaternary' economic activity?",
+    "options": [
+      "A. The extraction of minerals from the earth.",
+      "B. The manufacturing of electronic devices.",
+      "C. The provision of insurance services.",
+      "D. Research and development in a laboratory."
+    ],
+    "answer": "D",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 975,
+    "question": "Shifting cultivation is a farming system characterized by:",
+    "options": [
+      "A. Permanent settlement and continuous cropping.",
+      "B. Clearing land and moving to new plots when soil is exhausted.",
+      "C. Large-scale production for international markets.",
+      "D. Intensive use of machinery and fertilizers."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 976,
+    "question": "An agro-allied industry is one that:",
+    "options": [
+      "A. Manufactures agricultural machinery.",
+      "B. Processes agricultural produce into finished goods.",
+      "C. Produces raw materials for other industries.",
+      "D. Provides services to the agricultural sector."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 977,
+    "question": "Which mode of transport is most suitable for the transportation of natural gas over long distances?",
+    "options": [
+      "A. Road transport is flexible for short distances.",
+      "B. Pipelines are used for continuous flow of gas.",
+      "C. Railways are suitable for bulk solid goods.",
+      "D. Air transport is the fastest for all goods."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 978,
+    "question": "A major commodity traded internationally is:",
+    "options": [
+      "A. Crude oil is a major internationally traded commodity.",
+      "B. Local crafts are rarely traded internationally.",
+      "C. Perishable fruits are traded globally in large volumes.",
+      "D. Heavy machinery is the most traded commodity."
+    ],
+    "answer": "A",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 979,
+    "question": "A 'heritage site' is primarily important for:",
+    "options": [
+      "A. Industrial manufacturing and trade.",
+      "B. Preserving cultural and natural history.",
+      "C. Providing residential housing.",
+      "D. Mining and mineral extraction."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 980,
+    "question": "A population census is primarily conducted to:",
+    "options": [
+      "A. Determine the voting patterns of citizens.",
+      "B. Collect demographic data for planning and development.",
+      "C. Establish the number of tourists in a country.",
+      "D. Calculate the amount of taxes to be collected."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Population",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 981,
+    "question": "Which of the following is a primary function of a rural settlement?",
+    "options": [
+      "A. It serves as a center for manufacturing industries.",
+      "B. It provides residential space for agricultural workers.",
+      "C. It acts as a hub for international financial trade.",
+      "D. It offers specialized medical and educational services."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Settlement",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 982,
+    "question": "The 'informal sector' of an economy is characterized by:",
+    "options": [
+      "A. Large, registered corporations with formal contracts.",
+      "B. Small, unregistered businesses with no formal regulation.",
+      "C. Government-owned enterprises and civil service.",
+      "D. Multinational companies operating globally."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 983,
+    "question": "Irrigation is primarily used in agriculture to:",
+    "options": [
+      "A. Increase the salinity of the soil.",
+      "B. Supply water to crops in areas with insufficient rainfall.",
+      "C. Reduce the amount of sunlight reaching the crops.",
+      "D. Prevent the growth of weeds in the field."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 984,
+    "question": "An 'industrial estate' is typically established to:",
+    "options": [
+      "A. Separate industries from residential areas.",
+      "B. Provide shared infrastructure for multiple industries.",
+      "C. Restrict the growth of small-scale businesses.",
+      "D. Encourage farming activities within cities."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 985,
+    "question": "Which of the following is a major advantage of railway transport?",
+    "options": [
+      "A. It is highly flexible and can reach remote areas.",
+      "B. It is efficient for carrying bulky goods over long distances.",
+      "C. It is the fastest mode of transport for passengers.",
+      "D. It requires no maintenance of tracks and stations."
+    ],
+    "answer": "B",
+    "topic": "Human Geography - Economic Activities",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 986,
+    "question": "The major drainage system in Nigeria is dominated by the:",
+    "options": [
+      "A. The Niger-Benue river system is the major drainage.",
+      "B. The Congo river system is the major drainage.",
+      "C. The Nile river system is the major drainage.",
+      "D. The Zambezi river system is the major drainage."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 987,
+    "question": "The vegetation belt immediately north of the rainforest in Nigeria is the:",
+    "options": [
+      "A. The mangrove swamp is found in the coastal areas.",
+      "B. The guinea savanna is north of the rainforest.",
+      "C. The sudan savanna is further north of the guinea.",
+      "D. The sahel savanna is in the extreme north."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 988,
+    "question": "A major objective of ECOWAS is to promote:",
+    "options": [
+      "A. The free movement of people and goods.",
+      "B. A single common currency for the world.",
+      "C. The restriction of trade among member states.",
+      "D. The establishment of a single military force."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 989,
+    "question": "The highest population density in Nigeria is generally found in the:",
+    "options": [
+      "A. The Sahel region in the extreme north.",
+      "B. The coastal areas and major urban centers.",
+      "C. The mountainous regions of the middle belt.",
+      "D. The sparsely populated forest reserves."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 990,
+    "question": "Which of the following is a major cash crop in Nigeria?",
+    "options": [
+      "A. Cocoa is a major cash crop in Nigeria.",
+      "B. Cassava is a major food crop in Nigeria.",
+      "C. Maize is a major food crop in Nigeria.",
+      "D. Yam is a major food crop in Nigeria."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 991,
+    "question": "Nigeria is a major producer of which solid mineral?",
+    "options": [
+      "A. Tin is a solid mineral mined in Nigeria.",
+      "B. Gold is mined in Nigeria but not a major producer.",
+      "C. Diamond is mined in Nigeria but not a major producer.",
+      "D. Copper is not a major mineral in Nigeria."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 992,
+    "question": "The physical setting of Nigeria is characterized by:",
+    "options": [
+      "A. A uniform highland plateau across the entire country.",
+      "B. A variety of landforms including plains, plateaus, and mountains.",
+      "C. A single large coastal plain with no interior highlands.",
+      "D. A completely mountainous terrain with no river valleys."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 993,
+    "question": "The ECOWAS protocol on free movement of persons allows citizens of member states to:",
+    "options": [
+      "A. Enter any member state without a visa for up to 90 days.",
+      "B. Settle permanently in any member state without documentation.",
+      "C. Work in any member state without any form of registration.",
+      "D. Cross borders only with a valid international passport."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 994,
+    "question": "The climate of Nigeria is primarily influenced by the:",
+    "options": [
+      "A. The Inter-Tropical Convergence Zone (ITCZ).",
+      "B. The North Atlantic Oscillation.",
+      "C. The El Nino Southern Oscillation.",
+      "D. The Polar Front Jet Stream."
+    ],
+    "answer": "A",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 995,
+    "question": "Which of the following soil types is most suitable for agriculture in Nigeria?",
+    "options": [
+      "A. The heavily leached lateritic soils.",
+      "B. The fertile alluvial soils in river valleys.",
+      "C. The sandy soils of the coastal areas.",
+      "D. The thin soils of the mountainous regions."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 996,
+    "question": "The major mode of transport for international trade in Nigeria is:",
+    "options": [
+      "A. Rail transport is used for domestic trade.",
+      "B. Road transport is used for local movement.",
+      "C. Sea transport is used for international trade.",
+      "D. Air transport is used for light, high-value goods."
+    ],
+    "answer": "C",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 997,
+    "question": "A major problem facing the manufacturing sector in Nigeria is:",
+    "options": [
+      "A. The excessive availability of skilled labor.",
+      "B. The over-reliance on imported raw materials.",
+      "C. The high level of technological advancement.",
+      "D. The low demand for manufactured goods."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 998,
+    "question": "A major challenge facing ECOWAS is:",
+    "options": [
+      "A. The lack of a common language among members.",
+      "B. The political instability in some member states.",
+      "C. The excessive economic growth in the region.",
+      "D. The lack of natural resources in the region."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - ECOWAS",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 999,
+    "question": "A major tourist attraction in Nigeria is the:",
+    "options": [
+      "A. The Sahara Desert in the north.",
+      "B. The Yankari National Park in Bauchi.",
+      "C. The Great Barrier Reef off the coast.",
+      "D. The Atlas Mountains in the west."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 1000,
+    "question": "A major environmental problem in the Niger Delta region of Nigeria is:",
+    "options": [
+      "A. The excessive snowfall during winter.",
+      "B. The pollution of water and land by oil spills.",
+      "C. The frequent volcanic eruptions in the area.",
+      "D. The expansion of the Sahara Desert."
+    ],
+    "answer": "B",
+    "topic": "Regional Geography - Nigeria",
+    "difficulty": "Easy"
   }
 ]
