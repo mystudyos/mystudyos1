@@ -139,6 +139,54 @@ def convert_inline_fragment(expr: str) -> str:
     return s
 
 
+SUP_SUB_CHARS = set(SUP_CHARS + SUB_CHARS)
+BASE_TOKEN_CHARS = set("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.()")
+
+
+def wrap_sup_sub_tokens(segment: str) -> str:
+    """Wrap tokens containing Unicode superscripts/subscripts in linear O(n) time."""
+    if not any(ch in SUP_SUB_CHARS for ch in segment):
+        return segment
+
+    out: list[str] = []
+    i = 0
+    n = len(segment)
+    while i < n:
+        if segment[i] == MARKER_START:
+            end = segment.find(MARKER_END, i + 1)
+            if end != -1:
+                out.append(segment[i : end + 1])
+                i = end + 1
+                continue
+        if segment[i] in SUP_SUB_CHARS:
+            # Walk back over base token characters already emitted into out (if single-char base pieces)
+            base_chars: list[str] = []
+            while out and len(out[-1]) == 1 and out[-1] in BASE_TOKEN_CHARS:
+                base_chars.append(out.pop())
+            base_chars.reverse()
+            j = i
+            while j < n and segment[j] in SUP_SUB_CHARS:
+                j += 1
+            # Continue if chained like x²y³
+            while j < n and segment[j] in BASE_TOKEN_CHARS:
+                k = j
+                while k < n and segment[k] in BASE_TOKEN_CHARS:
+                    k += 1
+                if k < n and segment[k] in SUP_SUB_CHARS:
+                    while k < n and segment[k] in SUP_SUB_CHARS:
+                        k += 1
+                    j = k
+                else:
+                    break
+            token = "".join(base_chars) + segment[i:j]
+            out.append(wrap_tok(convert_inline_fragment(token)))
+            i = j
+        else:
+            out.append(segment[i])
+            i += 1
+    return "".join(out)
+
+
 def replace_outside_markers(text: str, pattern: re.Pattern[str], repl_fn) -> str:
     parts = re.split(rf"({MARKER_START}.*?{MARKER_END})", text, flags=re.DOTALL)
     out = []
@@ -212,69 +260,68 @@ def format_math_segment(segment: str) -> str:
     )
 
     # 4. Parenthesized exponents like (1/4)^(−1/2), 3^(2x - 1), 4^(1/2), x^(1/2), 2^x
-    s = replace_outside_markers(
-        s,
-        re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^\(([^()]+)\)"),
-        lambda m: wrap_tok(
-            f"{convert_inline_fragment(m.group(1))}^{{{convert_inline_fragment(m.group(2))}}}"
-        ),
-    )
-    s = replace_outside_markers(
-        s,
-        re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^([A-Za-z0-9+-]+)"),
-        lambda m: wrap_tok(f"{convert_inline_fragment(m.group(1))}^{{{m.group(2)}}}"),
-    )
+    if "^" in s:
+        s = replace_outside_markers(
+            s,
+            re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^\(([^()]+)\)"),
+            lambda m: wrap_tok(
+                f"{convert_inline_fragment(m.group(1))}^{{{convert_inline_fragment(m.group(2))}}}"
+            ),
+        )
+        s = replace_outside_markers(
+            s,
+            re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^([A-Za-z0-9+-]+)"),
+            lambda m: wrap_tok(f"{convert_inline_fragment(m.group(1))}^{{{m.group(2)}}}"),
+        )
 
-    # 5. Mixed numbers like 1 3/20, 1 1/12
-    s = replace_outside_markers(
-        s,
-        re.compile(r"(?<![A-Za-z0-9.])(\d+)\s+(\d+)/(\d+)(?![A-Za-z0-9/]|(?:\.\d))"),
-        lambda m: wrap_tok(rf"{m.group(1)}\frac{{{m.group(2)}}}{{{m.group(3)}}}"),
-    )
+    if "/" in s:
+        # 5. Mixed numbers like 1 3/20, 1 1/12
+        s = replace_outside_markers(
+            s,
+            re.compile(r"(?<![A-Za-z0-9.])(\d+)\s+(\d+)/(\d+)(?![A-Za-z0-9/]|(?:\.\d))"),
+            lambda m: wrap_tok(rf"{m.group(1)}\frac{{{m.group(2)}}}{{{m.group(3)}}}"),
+        )
 
-    # 6. Parenthesized fractions like (2y + 4) / 3, 1/(x + 1)², or K/(2m)
-    sup_opt = rf"(?:[{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+)?"
-    paren_atom = rf"\([^()]+\){sup_opt}"
-    atom = rf"[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+"
-    s = replace_outside_markers(
-        s,
-        re.compile(rf"({paren_atom})\s*/\s*({paren_atom}|{atom})"),
-        lambda m: wrap_tok(
-            rf"\frac{{{convert_inline_fragment(m.group(1)[1:-1] if m.group(1).startswith('(') and m.group(1).endswith(')') else m.group(1))}}}{{{convert_inline_fragment(m.group(2)[1:-1] if m.group(2).startswith('(') and m.group(2).endswith(')') else m.group(2))}}}"
-        ),
-    )
-    s = replace_outside_markers(
-        s,
-        re.compile(rf"({atom})\s*/\s*({paren_atom})"),
-        lambda m: wrap_tok(
-            rf"\frac{{{convert_inline_fragment(m.group(1))}}}{{{convert_inline_fragment(m.group(2)[1:-1] if m.group(2).startswith('(') and m.group(2).endswith(')') else m.group(2))}}}"
-        ),
-    )
+        # 6. Parenthesized fractions like (2y + 4) / 3, 1/(x + 1)², or K/(2m)
+        sup_opt = rf"(?:[{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+)?"
+        paren_atom = rf"\([^()]+\){sup_opt}"
+        atom = rf"[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+"
+        s = replace_outside_markers(
+            s,
+            re.compile(rf"({paren_atom})\s*/\s*({paren_atom}|{atom})"),
+            lambda m: wrap_tok(
+                rf"\frac{{{convert_inline_fragment(m.group(1)[1:-1] if m.group(1).startswith('(') and m.group(1).endswith(')') else m.group(1))}}}{{{convert_inline_fragment(m.group(2)[1:-1] if m.group(2).startswith('(') and m.group(2).endswith(')') else m.group(2))}}}"
+            ),
+        )
+        s = replace_outside_markers(
+            s,
+            re.compile(rf"({atom})\s*/\s*({paren_atom})"),
+            lambda m: wrap_tok(
+                rf"\frac{{{convert_inline_fragment(m.group(1))}}}{{{convert_inline_fragment(m.group(2)[1:-1] if m.group(2).startswith('(') and m.group(2).endswith(')') else m.group(2))}}}"
+            ),
+        )
 
-    # 7. Numeric / algebraic fractions like 22/7, 3/4, x/4, 1/x², 3V/4π, 2K/m
-    # Allow sentence-ending period (not followed by a digit) after the denominator
-    frac_num = rf"(?:\d+(?:\.\d+)?|[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]{{1,4}})"
-    s = replace_outside_markers(
-        s,
-        re.compile(rf"(?<![A-Za-z0-9.])({frac_num})\s*/\s*({frac_num})(?![A-Za-z0-9/]|(?:\.\d))"),
-        lambda m: wrap_tok(rf"\frac{{{convert_inline_fragment(m.group(1))}}}{{{convert_inline_fragment(m.group(2))}}}")
-        if (re.search(rf"[\dπθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]", m.group(1) + m.group(2)) or (len(m.group(1)) <= 2 and len(m.group(2)) <= 2))
-        else m.group(0),
-    )
+        # 7. Numeric / algebraic fractions like 22/7, 3/4, x/4, 1/x², 3V/4π, 2K/m
+        # Allow sentence-ending period (not followed by a digit) after the denominator
+        frac_num = rf"(?:\d+(?:\.\d+)?|[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]{{1,4}})"
+        s = replace_outside_markers(
+            s,
+            re.compile(rf"(?<![A-Za-z0-9.])({frac_num})\s*/\s*({frac_num})(?![A-Za-z0-9/]|(?:\.\d))"),
+            lambda m: wrap_tok(rf"\frac{{{convert_inline_fragment(m.group(1))}}}{{{convert_inline_fragment(m.group(2))}}}")
+            if (re.search(rf"[\dπθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]", m.group(1) + m.group(2)) or (len(m.group(1)) <= 2 and len(m.group(2)) <= 2))
+            else m.group(0),
+        )
 
     # 8. Set literals like {1, 2, 3, 4} or {a, b, c}
-    s = replace_outside_markers(
-        s,
-        re.compile(r"\{([A-Za-z0-9,\s+-]+)\}"),
-        lambda m: wrap_tok(rf"\{{{m.group(1).strip()}\}}"),
-    )
+    if "{" in s:
+        s = replace_outside_markers(
+            s,
+            re.compile(r"\{([A-Za-z0-9,\s+-]+)\}"),
+            lambda m: wrap_tok(rf"\{{{m.group(1).strip()}\}}"),
+        )
 
-    # 9. Tokens with Unicode superscripts/subscripts: 4x², 10⁻³, 11011₂, cm³, Aᵀ, etc.
-    s = replace_outside_markers(
-        s,
-        re.compile(rf"([A-Za-z0-9.()]+(?:[{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+)+)"),
-        lambda m: wrap_tok(convert_inline_fragment(m.group(1))),
-    )
+    # 9. Tokens with Unicode superscripts/subscripts: 4x², 10⁻³, 11011₂, cm³, Aᵀ, etc. (strict O(n))
+    s = wrap_sup_sub_tokens(s)
 
     # 10. Standalone degree values like 30°, 540°
     s = replace_outside_markers(
@@ -292,11 +339,9 @@ def format_math_segment(segment: str) -> str:
     )
 
     # 12. Merge adjacent <<LATEX>> blocks separated by numbers/vars/operators/whitespace (not English words)
-    # Single-pass loop until fixed point:
-    # Join `<<LATEX:A>> <connectors/numbers/single-letter vars> <<LATEX:B>>`
+    # Disjoint single-level alternatives (no nested quantifiers, strictly linear O(n))
     connector_re = re.compile(
-        rf"{MARKER_START}(.*?){MARKER_END}(\s*(?:[+\-*/=<>(),\d.]|\b[a-zA-Z]\b|\bdx\b|\bdy\b|\bmod\b|\bsin\b|\bcos\b|\btan\b|\blog\b)+\s*){MARKER_START}(.*?){MARKER_END}",
-        re.DOTALL,
+        rf"{MARKER_START}([^{MARKER_END}]*){MARKER_END}((?:[+\-*/=<>(),\d.\s]|\b(?:[a-zA-Z]|dx|dy|mod|sin|cos|tan|log)\b)+){MARKER_START}([^{MARKER_END}]*){MARKER_END}"
     )
     while True:
         new_s = connector_re.sub(
@@ -312,30 +357,36 @@ def format_math_segment(segment: str) -> str:
     # Expand surrounding equation parts into adjacent marker:
     # Leading math expression right before a marker, e.g. `3x - 2 <<\ge>>` or `sin <<\theta>> = 0.5` or `(A <<\cup>> B)'`
     # Trailing math expression right after a marker, e.g. `<<\ge>> 4x - 6` or `<<\pi>> = 22/7`
-    # Careful not to swallow words like "is", "of", "to", "find", "and"
-    func_prefix_re = re.compile(
-        rf"(?<![A-Za-z])((?:\b(?:sin|cos|tan|log|mod|lim)\b|[(\d-][A-Za-z0-9()+\-*=.,\s]*?(?<!\band\s)(?<!\bof\s)(?<!\bto\s)(?<!\bis\s)(?<!\bin\s)(?<!\bfor\s))\s*){MARKER_START}(.*?){MARKER_END}",
-        re.DOTALL,
-    )
-    # Apply conservative expansion only for clear short math prefixes/suffixes (<= 24 chars, no lowercase >2-letter words except trig/log/dx)
     ALLOWED_MATH_WORDS = {"sin", "cos", "tan", "cot", "sec", "csc", "log", "ln", "mod", "dx", "dy", "dt"}
 
     def clean_math_chunk(raw_chunk: str) -> bool:
         words = re.findall(r"[A-Za-z]+", raw_chunk)
         return all((len(w) <= 2 and w.lower() not in {"is", "in", "of", "to", "on", "at", "by", "if", "or", "an", "as", "it", "be", "we", "he", "no", "so"}) or w.lower() in ALLOWED_MATH_WORDS for w in words)
 
-    parts = re.split(rf"({MARKER_START}.*?{MARKER_END})", s, flags=re.DOTALL)
+    def extract_math_tail(segment_tail: str) -> str:
+        # Linear O(n) scan over flat character class (no nested quantifiers / ReDoS risk)
+        m = re.match(r"^[ \t\r\n+\-*=<>',^()a-zA-Z0-9]*", segment_tail)
+        if not m:
+            return ""
+        cand = m.group(0)
+        # Stop before any 3+ letter English word (except math functions/differentials)
+        for wm in re.finditer(r"[A-Za-z]{3,}", cand):
+            if wm.group(0).lower() not in ALLOWED_MATH_WORDS:
+                cand = cand[:wm.start()]
+                break
+        # Do not consume trailing whitespace before remaining prose/punctuation
+        return cand.rstrip()
+
+    parts = re.split(rf"({MARKER_START}[^{MARKER_END}]*{MARKER_END})", s)
     for idx in range(len(parts)):
         if parts[idx].startswith(MARKER_START) and parts[idx].endswith(MARKER_END):
             inner = parts[idx][1:-1]
-            # Pull immediate trailing math tail like ` = 0` or ` + C` or ` dx` or `' ` from parts[idx+1]
+            # Pull immediate trailing math tail like ` = 0` or ` + C` or ` dx` or `'` from parts[idx+1]
             if idx + 1 < len(parts) and not parts[idx + 1].startswith(MARKER_START):
-                tail_m = re.match(r"^(\s*(?:[+\-*=<>',^]|[a-zA-Z0-9()]+(?:\s*[+\-*=<>]\s*[a-zA-Z0-9()]+)*)+)(?=\s*(?:[.,;?!)]?\s|$|[A-Za-z]{3,}))", parts[idx + 1])
-                if tail_m:
-                    tail = tail_m.group(1)
-                    if clean_math_chunk(tail) and any(ch in tail for ch in "=+-<>'0123456789") and not re.match(r"^\s*\d+\s*$", tail):
-                        inner = f"{inner}{tail}"
-                        parts[idx + 1] = parts[idx + 1][len(tail):]
+                tail = extract_math_tail(parts[idx + 1])
+                if tail and clean_math_chunk(tail) and any(ch in tail for ch in "=+-<>'0123456789") and not re.match(r"^\s*\d+\s*$", tail):
+                    inner = f"{inner}{tail}"
+                    parts[idx + 1] = parts[idx + 1][len(tail):]
             # Pull immediate leading math prefix like `sin ` or `3x - 2 ` or `A = `
             if idx - 1 >= 0 and not parts[idx - 1].startswith(MARKER_START):
                 prev = parts[idx - 1]

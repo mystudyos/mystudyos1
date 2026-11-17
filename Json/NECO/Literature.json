@@ -1,0 +1,4552 @@
+[
+  {
+    "id": 1,
+    "question": "In literary criticism, the term 'denouement' refers to the point in a narrative where the:",
+    "options": [
+      "A. central conflict is initially introduced and developed.",
+      "B. final resolution of the plot's complexities occurs.",
+      "C. protagonist experiences a sudden moment of insight.",
+      "D. narrative temporarily shifts to a past event."
+    ],
+    "answer": "B",
+    "topic": "General Literary Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "question": "A literary work in which the characters and events symbolize broader moral or political concepts is best described as a:",
+    "options": [
+      "A. Satire",
+      "B. Parody",
+      "C. Farce",
+      "D. Allegory"
+    ],
+    "answer": "D",
+    "topic": "General Literary Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "The perspective from which a story is narrated, often shaping the reader's understanding of events, is known as:",
+    "options": [
+      "A. Point of view",
+      "B. Narrative tone",
+      "C. Dramatic irony",
+      "D. Structural frame"
+    ],
+    "answer": "A",
+    "topic": "General Literary Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "When an author provides a hint of what is to come later in the narrative, the literary device employed is:",
+    "options": [
+      "A. Flashback",
+      "B. Epilogue",
+      "C. Foreshadowing",
+      "D. Prolepsis"
+    ],
+    "answer": "C",
+    "topic": "General Literary Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "A character who remains static and unchanging throughout the course of a literary work is best described as:",
+    "options": [
+      "A. A dynamic character.",
+      "B. A flat character.",
+      "C. A round character.",
+      "D. A foil character."
+    ],
+    "answer": "B",
+    "topic": "General Literary Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "question": "The use of a mild or indirect word or expression in place of one that may be considered too harsh is known as:",
+    "options": [
+      "A. Euphemism",
+      "B. Hyperbole",
+      "C. Litotes",
+      "D. Oxymoron"
+    ],
+    "answer": "A",
+    "topic": "Literary Devices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "A figure of speech in which a part is made to represent the whole, or vice versa, is termed:",
+    "options": [
+      "A. Metonymy",
+      "B. Synecdoche",
+      "C. Personification",
+      "D. Apostrophe"
+    ],
+    "answer": "B",
+    "topic": "Literary Devices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 8,
+    "question": "The repetition of consonant sounds at the beginning of closely connected words is a device known as:",
+    "options": [
+      "A. Assonance",
+      "B. Consonance",
+      "C. Alliteration",
+      "D. Onomatopoeia"
+    ],
+    "answer": "C",
+    "topic": "Literary Devices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "An address to an absent or imaginary person, or to a personified abstraction, is called an:",
+    "options": [
+      "A. Ode",
+      "B. Apostrophe",
+      "C. Elegy",
+      "D. Epigram"
+    ],
+    "answer": "B",
+    "topic": "Literary Devices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "In drama, a speech delivered by a character alone on stage, revealing their innermost thoughts, is called a:",
+    "options": [
+      "A. Aside",
+      "B. Monologue",
+      "C. Soliloquy",
+      "D. Dialogue"
+    ],
+    "answer": "C",
+    "topic": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "A brief remark made by a character to the audience that other characters on stage cannot hear is a(n):",
+    "options": [
+      "A. Soliloquy",
+      "B. Aside",
+      "C. Monologue",
+      "D. Pantomime"
+    ],
+    "answer": "B",
+    "topic": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "A tragic flaw or error of judgment that brings about the downfall of a tragic hero is known as:",
+    "options": [
+      "A. Hamartia",
+      "B. Hubris",
+      "C. Catharsis",
+      "D. Peripeteia"
+    ],
+    "answer": "A",
+    "topic": "Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 13,
+    "question": "The purging of emotions, particularly pity and fear, experienced by the audience at the end of a tragedy is called:",
+    "options": [
+      "A. Anagnorisis",
+      "B. Catharsis",
+      "C. Nemesis",
+      "D. Denouement"
+    ],
+    "answer": "B",
+    "topic": "Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "question": "A humorous scene or speech intended to relieve tension in a serious literary work is known as:",
+    "options": [
+      "A. Comic relief",
+      "B. Dramatic irony",
+      "C. Slapstick",
+      "D. Burlesque"
+    ],
+    "answer": "A",
+    "topic": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "In Shakespearean drama, the technique where the audience knows something the characters do not is called:",
+    "options": [
+      "A. Situational irony",
+      "B. Verbal irony",
+      "C. Cosmic irony",
+      "D. Dramatic irony"
+    ],
+    "answer": "D",
+    "topic": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "A fourteen-line poem written in iambic pentameter with a specific rhyme scheme is known as a:",
+    "options": [
+      "A. Sonnet",
+      "B. Ballad",
+      "C. Haiku",
+      "D. Limerick"
+    ],
+    "answer": "A",
+    "topic": "Poetry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The continuation of a sentence without a pause beyond the end of a line in poetry is called:",
+    "options": [
+      "A. Caesura",
+      "B. Enjambment",
+      "C. End-stopping",
+      "D. Refrain"
+    ],
+    "answer": "B",
+    "topic": "Poetry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "A poem written to lament the death of a specific person is known as an:",
+    "options": [
+      "A. Ode",
+      "B. Epic",
+      "C. Elegy",
+      "D. Epithalamion"
+    ],
+    "answer": "C",
+    "topic": "Poetry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "question": "A group of lines forming the basic recurring metrical unit in a poem is called a:",
+    "options": [
+      "A. Stanza",
+      "B. Couplet",
+      "C. Quatrain",
+      "D. Canto"
+    ],
+    "answer": "A",
+    "topic": "Poetry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "question": "In poetry, a metrical foot consisting of one unstressed syllable followed by one stressed syllable is a(n):",
+    "options": [
+      "A. Trochee",
+      "B. Anapest",
+      "C. Iamb",
+      "D. Dactyl"
+    ],
+    "answer": "C",
+    "topic": "Poetry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "Read the following passage: 'The wind whispered through the trees, carrying secrets of the ancient forest.' The dominant literary device is:",
+    "options": [
+      "A. Simile",
+      "B. Personification",
+      "C. Metaphor",
+      "D. Hyperbole"
+    ],
+    "answer": "B",
+    "topic": "Unseen Prose",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "In the sentence, 'Her smile was a beacon of hope in a sea of despair,' the writer employs:",
+    "options": [
+      "A. Metonymy and synecdoche.",
+      "B. Paradox and antithesis.",
+      "C. Metaphor and hyperbole.",
+      "D. Simile and personification."
+    ],
+    "answer": "C",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "An unseen prose passage that relies heavily on sensory details to create a vivid picture for the reader is primarily appealing to the:",
+    "options": [
+      "A. reader's logical reasoning.",
+      "B. reader's sense of imagery.",
+      "C. story's structural pacing.",
+      "D. story's thematic depth."
+    ],
+    "answer": "B",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "When a narrative suddenly jumps forward in time to show the consequences of an action, the author is using:",
+    "options": [
+      "A. Retrospection",
+      "B. Foreshadowing",
+      "C. Flash-forward",
+      "D. Stream of consciousness"
+    ],
+    "answer": "C",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "The overall atmosphere or feeling created by a literary work's setting and descriptions is best described as the:",
+    "options": [
+      "A. Theme",
+      "B. Plot",
+      "C. Mood",
+      "D. Tone"
+    ],
+    "answer": "C",
+    "topic": "Unseen Prose",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "A narrative style that presents a character's continuous, uninterrupted flow of thoughts is known as:",
+    "options": [
+      "A. Epistolary narrative.",
+      "B. Stream of consciousness.",
+      "C. Omniscient narration.",
+      "D. Objective narration."
+    ],
+    "answer": "B",
+    "topic": "Unseen Prose",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 27,
+    "question": "If a narrator knows the thoughts and feelings of all characters in a story, the narrative perspective is:",
+    "options": [
+      "A. First-person limited.",
+      "B. Second-person objective.",
+      "C. Third-person omniscient.",
+      "D. Third-person limited."
+    ],
+    "answer": "C",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "The central struggle between opposing forces that drives the plot forward is called the:",
+    "options": [
+      "A. Climax",
+      "B. Conflict",
+      "C. Exposition",
+      "D. Resolution"
+    ],
+    "answer": "B",
+    "topic": "Unseen Prose",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "An author's attitude toward the subject matter, conveyed through word choice and style, is referred to as the:",
+    "options": [
+      "A. Tone",
+      "B. Mood",
+      "C. Theme",
+      "D. Motif"
+    ],
+    "answer": "A",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "question": "A recurring image, idea, or symbol that contributes to the central theme of a literary work is a:",
+    "options": [
+      "A. Subplot",
+      "B. Motif",
+      "C. Narrative hook",
+      "D. Deus ex machina"
+    ],
+    "answer": "B",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "In Shakespeare's tragedies, the protagonist's downfall is often precipitated by hubris, which translates to:",
+    "options": [
+      "A. Excessive pride and arrogance.",
+      "B. A fatal accident of birth.",
+      "C. Supernatural intervention.",
+      "D. Betrayal by a close friend."
+    ],
+    "answer": "A",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "The moment in a Shakespearean tragedy when the protagonist recognizes the true nature of their situation is called:",
+    "options": [
+      "A. Peripeteia",
+      "B. Catastrophe",
+      "C. Anagnorisis",
+      "D. Nemesis"
+    ],
+    "answer": "C",
+    "topic": "Shakespearean Context",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 33,
+    "question": "Shakespeare's plays are often divided into three main genres. Which of the following is NOT one of those traditional categories?",
+    "options": [
+      "A. Tragedy",
+      "B. Comedy",
+      "C. History",
+      "D. Melodrama"
+    ],
+    "answer": "D",
+    "topic": "Shakespearean Context",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "In many Shakespearean plays, a reversal of fortune experienced by the protagonist is known as:",
+    "options": [
+      "A. Hamartia",
+      "B. Peripeteia",
+      "C. Catharsis",
+      "D. Soliloquy"
+    ],
+    "answer": "B",
+    "topic": "Shakespearean Context",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 35,
+    "question": "The use of supernatural elements, such as witches or ghosts, in Shakespearean drama primarily serves to:",
+    "options": [
+      "A. provide comic relief.",
+      "B. complicate the plot for the audience.",
+      "C. reflect the protagonist's internal state.",
+      "D. obey the conventions of the era."
+    ],
+    "answer": "C",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "Shakespeare often used blank verse, which is characterized by:",
+    "options": [
+      "A. rhyming couplets in iambic pentameter.",
+      "B. unrhymed iambic pentameter lines.",
+      "C. prose format with no meter.",
+      "D. alternating lines of rhyme and prose."
+    ],
+    "answer": "B",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The tragic hero's fatal flaw is often a trait that, in other circumstances, would be considered a:",
+    "options": [
+      "A. minor weakness of character.",
+      "B. sign of noble virtue.",
+      "C. mark of supernatural favor.",
+      "D. cause for public ridicule."
+    ],
+    "answer": "B",
+    "topic": "Shakespearean Context",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 38,
+    "question": "In Shakespearean drama, the subplot frequently serves to:",
+    "options": [
+      "A. delay the main action indefinitely.",
+      "B. mirror or contrast the main plot.",
+      "C. confuse the audience's understanding.",
+      "D. introduce entirely new characters."
+    ],
+    "answer": "B",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "The environment in which a Shakespearean play is staged, often utilizing minimal props, emphasizes the importance of:",
+    "options": [
+      "A. elaborate costume changes.",
+      "B. the audience's imagination.",
+      "C. realistic set designs.",
+      "D. musical accompaniment."
+    ],
+    "answer": "B",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "A common theme in Shakespeare's tragedies is the conflict between individual desires and:",
+    "options": [
+      "A. social or cosmic order.",
+      "B. financial stability.",
+      "C. familial obligations.",
+      "D. romantic love."
+    ],
+    "answer": "A",
+    "topic": "Shakespearean Context",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "In literary analysis, a 'foil' character is one who:",
+    "options": [
+      "A. provides comic relief in serious situations.",
+      "B. contrasts with another character to highlight traits.",
+      "C. serves as the main antagonist in the story.",
+      "D. undergoes significant personal development."
+    ],
+    "answer": "B",
+    "topic": "General Literary Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The term 'anticlimax' refers to a situation where:",
+    "options": [
+      "A. the story ends without resolving the conflict.",
+      "B. the climax is delayed until the final page.",
+      "C. an event is far less significant than expected.",
+      "D. a character dies unexpectedly early."
+    ],
+    "answer": "C",
+    "topic": "General Literary Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "A narrative technique where the story begins in the middle of the action is known as:",
+    "options": [
+      "A. In medias res",
+      "B. Ab initio",
+      "C. Deus ex machina",
+      "D. Tabula rasa"
+    ],
+    "answer": "A",
+    "topic": "General Literary Concepts",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "When an inanimate object or abstract concept is endowed with human attributes, the device is:",
+    "options": [
+      "A. Anthropomorphism",
+      "B. Personification",
+      "C. Apostrophe",
+      "D. Pathetic fallacy"
+    ],
+    "answer": "B",
+    "topic": "Literary Devices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The use of a phrase that seems to contradict itself but may reveal a deeper truth is a:",
+    "options": [
+      "A. Oxymoron",
+      "B. Paradox",
+      "C. Litotes",
+      "D. Irony"
+    ],
+    "answer": "B",
+    "topic": "Literary Devices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "A brief, often witty, poem or statement that expresses a universal truth is called an:",
+    "options": [
+      "A. Epitaph",
+      "B. Epigram",
+      "C. Epistle",
+      "D. Epilogue"
+    ],
+    "answer": "B",
+    "topic": "Poetry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "The deliberate omission of conjunctions between a series of related clauses is known as:",
+    "options": [
+      "A. Polysyndeton",
+      "B. Asyndeton",
+      "C. Chiasmus",
+      "D. Zeugma"
+    ],
+    "answer": "B",
+    "topic": "Literary Devices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 48,
+    "question": "In drama, the term 'catharsis' was first theorized by which ancient philosopher?",
+    "options": [
+      "A. Plato",
+      "B. Socrates",
+      "C. Aristotle",
+      "D. Sophocles"
+    ],
+    "answer": "C",
+    "topic": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "An unseen prose passage that focuses on a character's inner thoughts rather than external action is using:",
+    "options": [
+      "A. Stream of consciousness.",
+      "B. Epistolary narration.",
+      "C. Objective point of view.",
+      "D. Omniscient narration."
+    ],
+    "answer": "A",
+    "topic": "Unseen Prose",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "A literary work that mocks or ridicules human vices or societal flaws through humor is known as a:",
+    "options": [
+      "A. Tragedy",
+      "B. Satire",
+      "C. Romance",
+      "D. Parody"
+    ],
+    "answer": "B",
+    "topic": "General Literary Concepts",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "question": "In the novel, Adah's childhood in Ibuza is marked by her parents' initial disappointment primarily because:",
+    "options": [
+      "A. she was born a girl instead of a boy.",
+      "B. she refused to help with the family trade.",
+      "C. she showed an early interest in western books.",
+      "D. she was physically weaker than her siblings."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Adah's primary motivation for working hard and saving money in Nigeria before moving to the UK is to:",
+    "options": [
+      "A. support her extended family in the village.",
+      "B. buy expensive clothes to impress her peers.",
+      "C. fund her husband's university education abroad.",
+      "D. achieve her dream of getting a higher education."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 53,
+    "question": "Francis's attitude towards Adah's academic and literary ambitions can best be described as:",
+    "options": [
+      "A. supportive and encouraging.",
+      "B. indifferent and hostile.",
+      "C. curious but ultimately jealous.",
+      "D. proud but financially unsupportive."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The title 'Second Class Citizen' primarily refers to the marginalization of the protagonist as:",
+    "options": [
+      "A. an immigrant and a woman in London.",
+      "B. a poor student in a wealthy school.",
+      "C. a mother in a patriarchal society.",
+      "D. a writer in a male-dominated industry."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "question": "How does Adah manage to secure her passage to London despite her father-in-law's objections?",
+    "options": [
+      "A. She asks her mother to pay for her ticket.",
+      "B. She wins a scholarship from the British government.",
+      "C. She keeps her earnings secret and buys it herself.",
+      "D. She relies on Francis to send for her after he leaves."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "Francis's deliberate failure to post Adah's manuscript to a publisher symbolizes his:",
+    "options": [
+      "A. jealousy of her talent and desire to control her.",
+      "B. belief that the manuscript was poorly written.",
+      "C. fear that she would become too famous to care.",
+      "D. misunderstanding of the publishing process."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 57,
+    "question": "The character of Mr. Noble in the novel serves to highlight the:",
+    "options": [
+      "A. generosity of the British working class.",
+      "B. exploitative nature of slum landlords.",
+      "C. lack of proper housing for immigrants.",
+      "D. growing multiculturalism in London."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "Adah's experience working at the Chalk Farm library reveals the presence of:",
+    "options": [
+      "A. equal opportunities for immigrants.",
+      "B. systemic racial discrimination.",
+      "C. a supportive environment for women.",
+      "D. the British public's love for literature."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "The motif of the 'second class' is most literally reinforced in the novel through the:",
+    "options": [
+      "A. dilapidated housing and social treatment of immigrants.",
+      "B. academic grading system Adah encounters at school.",
+      "C. hierarchy within the Nigerian immigrant community.",
+      "D. working conditions at the library where Adah is employed."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 60,
+    "question": "Adah's pregnancy with her daughter Titi is significant because it:",
+    "options": [
+      "A. forces her to rely heavily on Francis, who fails her.",
+      "B. brings her closer to her mother-in-law in Lagos.",
+      "C. leads to her immediately getting a better paying job.",
+      "D. motivates Francis to finally finish his law degree."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "Francis's obsession with his studies and his refusal to work often leads to:",
+    "options": [
+      "A. rapid academic success and social mobility.",
+      "B. severe financial strain and neglect of his family.",
+      "C. resentment from his professors and classmates.",
+      "D. a stronger bond between him and Adah."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The character of Babalola contrasts sharply with Francis because Babalola is:",
+    "options": [
+      "A. ambitious and academically successful.",
+      "B. supportive of his wife and hardworking.",
+      "C. resentful of the British class system.",
+      "D. eager to return to Nigeria with his family."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 63,
+    "question": "How does Adah's mother-in-law initially treat her when they interact in the novel?",
+    "options": [
+      "A. With warmth and maternal affection.",
+      "B. With indifference to her academic goals.",
+      "C. With hostility and demands for more children.",
+      "D. With respect for her financial contributions."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 64,
+    "question": "The narrative style of 'Second Class Citizen' is best described as a:",
+    "options": [
+      "A. first-person retrospective autobiography.",
+      "B. third-person limited perspective.",
+      "C. stream-of-consciousness monologue.",
+      "D. second-person experimental narrative."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 65,
+    "question": "The concept of 'double colonization' in the novel refers to Adah's oppression as both a:",
+    "options": [
+      "A. woman and a Black immigrant.",
+      "B. mother and a working-class citizen.",
+      "C. writer and an uneducated person.",
+      "D. wife and a member of the Igbo tribe."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "Adah's ultimate decision to leave Francis at the end of the novel is directly triggered by:",
+    "options": [
+      "A. his physical abuse of their children.",
+      "B. his destruction of her completed manuscript.",
+      "C. his announcement that he is returning to Nigeria.",
+      "D. his refusal to attend her library graduation."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 67,
+    "question": "The character of Trudy in the novel represents the:",
+    "options": [
+      "A. lack of genuine support from white peers.",
+      "B. possibility of interracial friendship.",
+      "C. strict moral standards of British society.",
+      "D. oppressive nature of the welfare system."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 68,
+    "question": "The significance of Adah's job at the Chalk Farm library is that it:",
+    "options": [
+      "A. allows her to finally finish her first novel.",
+      "B. provides her with a space to study for her A-levels.",
+      "C. introduces her to important literary publishers.",
+      "D. provides her with financial independence from Francis."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Francis's physical abuse of Adah is portrayed in the novel as being rooted in his:",
+    "options": [
+      "A. deep-seated insecurity and patriarchal upbringing.",
+      "B. frustration with the British immigration system.",
+      "C. struggle to find a job after graduating.",
+      "D. misunderstanding of her cultural background."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "The novel highlights the immigrant experience through Adah's struggle with the:",
+    "options": [
+      "A. harsh British weather and unfamiliar culture.",
+      "B. inability to cook traditional Nigerian food.",
+      "C. lack of a community of fellow Igbo people.",
+      "D. pressure to change her name to a British one."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 71,
+    "question": "In the context of the novel, the name 'Adah' is traditionally given to a:",
+    "options": [
+      "A. first daughter in the Igbo culture.",
+      "B. child born during the harvest season.",
+      "C. daughter who is highly educated.",
+      "D. girl who is expected to be a leader."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "Adah's early education in Lagos was primarily funded by:",
+    "options": [
+      "A. her father's successful cocoa business.",
+      "B. a scholarship from the local church.",
+      "C. her own secret earnings from odd jobs.",
+      "D. Francis, who supported her before marriage."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "The relationship between Adah and her father is characterized by his:",
+    "options": [
+      "A. strict opposition to her getting an education.",
+      "B. pride in her academic success and ambition.",
+      "C. desire for her to marry a wealthy farmer.",
+      "D. fear that she will abandon the family."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "The character of Boy (Francis's son) is initially left in Nigeria with:",
+    "options": [
+      "A. Francis's parents in the village.",
+      "B. Adah's cousin in Lagos.",
+      "C. Adah's parents in Ibuza.",
+      "D. a local boarding school."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 75,
+    "question": "The 'second class' status of immigrants in London is visually depicted in the novel through the:",
+    "options": [
+      "A. dilapidated and overcrowded housing conditions.",
+      "B. lack of adequate public transportation.",
+      "C. absence of Black characters in libraries.",
+      "D. inferior uniforms worn by immigrant students."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "How does Francis react to Adah's pregnancy with their third child, Vicky?",
+    "options": [
+      "A. He is overjoyed and takes on extra work.",
+      "B. He demands that she terminate the pregnancy.",
+      "C. He blames her for being irresponsible.",
+      "D. He refuses to take any financial responsibility."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "The novel critiques the Nigerian patriarchal system primarily through the:",
+    "options": [
+      "A. favoritism shown to male children over females.",
+      "B. inheritance laws that favor the first son.",
+      "C. expectation that women must remain silent.",
+      "D. lack of educational opportunities for girls."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Adah's writing ambition primarily serves as a means of:",
+    "options": [
+      "A. proving her worth to her parents back in Nigeria.",
+      "B. escaping the harsh realities of her daily life.",
+      "C. competing with Francis for academic recognition.",
+      "D. documenting the history of the Igbo people."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The character of Janet in the novel is significant because she:",
+    "options": [
+      "A. offers Adah advice on how to handle Francis.",
+      "B. provides Adah with a model of independent womanhood.",
+      "C. introduces Adah to the publishing industry.",
+      "D. is a white woman who openly embraces African culture."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 80,
+    "question": "Francis's reliance on his father for financial support demonstrates his:",
+    "options": [
+      "A. deep respect for traditional family structures.",
+      "B. inability to act as an independent adult.",
+      "C. desire to return to Nigeria as soon as possible.",
+      "D. strategic planning for their long-term survival."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 81,
+    "question": "The structural division of the novel into different sections (or 'bridges') primarily symbolizes Adah's:",
+    "options": [
+      "A. transitions between different phases of her life.",
+      "B. physical journeys between Nigeria and London.",
+      "C. changing relationships with various family members.",
+      "D. evolving understanding of the British class system."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 82,
+    "question": "The character of Pa (Adah's father) demonstrates the complexities of traditional gender biases because he:",
+    "options": [
+      "A. completely rejects his daughter's ambitions.",
+      "B. supports Adah's education despite initial disappointment.",
+      "C. forces Adah to marry Francis against her will.",
+      "D. favors his sons but still loves his daughters equally."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "The novel's conclusion suggests that Adah's future will likely be:",
+    "options": [
+      "A. filled with further struggles against the system.",
+      "B. determined by her successful writing career.",
+      "C. marked by her eventual return to Nigeria.",
+      "D. free from the constraints of her past life."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 84,
+    "question": "The 'white man's country' is initially idealized by Adah as a place of:",
+    "options": [
+      "A. infinite opportunity and intellectual freedom.",
+      "B. strict discipline and moral righteousness.",
+      "C. universal equality and racial harmony.",
+      "D. wealth and easy access to education."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The experience of racism in the novel is most explicitly shown when Adah:",
+    "options": [
+      "A. is denied a promotion at the library.",
+      "B. is asked to leave a restaurant in London.",
+      "C. is denied housing by a prospective landlord.",
+      "D. is ignored by her professors at university."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 86,
+    "question": "The character of Francis is often viewed as a tragic figure because he:",
+    "options": [
+      "A. is physically disabled and unable to work.",
+      "B. is trapped by his own cultural expectations.",
+      "C. loses his entire family in a tragic accident.",
+      "D. is forced to abandon his education in Nigeria."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 87,
+    "question": "The motif of literacy in the novel primarily represents:",
+    "options": [
+      "A. empowerment and the ability to control one's destiny.",
+      "B. the British colonial education system.",
+      "C. the gap between the rich and the poor.",
+      "D. the loss of traditional African oral culture."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "Adah's relationship with her children is characterized by her:",
+    "options": [
+      "A. resentment of the burden they place on her.",
+      "B. fierce determination to protect and provide for them.",
+      "C. decision to send them away to boarding school.",
+      "D. reliance on Francis to handle their discipline."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "The novel highlights the intersection of race and class through the:",
+    "options": [
+      "A. poverty of the immigrant community in London.",
+      "B. educational achievements of Nigerian students.",
+      "C. religious differences between the characters.",
+      "D. job opportunities available to white women."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "The setting of London in the 1960s is crucial because it:",
+    "options": [
+      "A. contextualizes the racial and social tensions of the era.",
+      "B. provides a backdrop of economic prosperity for all.",
+      "C. explains why Francis was able to easily find work.",
+      "D. shows the complete integration of immigrant communities."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 91,
+    "question": "Adah's internal conflict is largely driven by the clash between her:",
+    "options": [
+      "A. traditional upbringing and her modern ambitions.",
+      "B. love for Francis and her hatred of his family.",
+      "C. desire to stay in London and her homesickness.",
+      "D. dream of writing and her duty as a mother."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The use of the third-person narrative voice in the novel allows the reader to:",
+    "options": [
+      "A. fully understand Adah's internal struggles and thoughts.",
+      "B. experience the story from Francis's perspective.",
+      "C. remain completely objective about the characters.",
+      "D. feel alienated from the protagonist's journey."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "The character of Francis's friend, Babalola, contrasts with Francis because Babalola is:",
+    "options": [
+      "A. financially supportive of his extended family in Nigeria.",
+      "B. in London solely to secure a degree and return home.",
+      "C. openly critical of the British colonial education system.",
+      "D. a successful lawyer who employs Francis at his firm."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 94,
+    "question": "The title 'Second Class Citizen' is ultimately an indictment of:",
+    "options": [
+      "A. the systemic inequality and prejudice in British society.",
+      "B. the lack of educational opportunities in Nigeria.",
+      "C. the failure of immigrants to assimilate properly.",
+      "D. the traditional roles assigned to women in Africa."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 95,
+    "question": "Adah's work as a librarian is vital to the narrative because it:",
+    "options": [
+      "A. allows her to secretly fund her writing career.",
+      "B. introduces her to the upper echelons of society.",
+      "C. provides her with the skills needed to educate others.",
+      "D. offers her a safe haven from her abusive marriage."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "The theme of identity is explored in the novel through Adah's struggle to:",
+    "options": [
+      "A. assimilate into British culture while keeping her heritage.",
+      "B. choose between her traditional name and a western one.",
+      "C. maintain her status as the breadwinner of the family.",
+      "D. reconcile her love for Francis with her hatred of him."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Francis's destruction of Adah's manuscript serves as a metaphor for the:",
+    "options": [
+      "A. suppression of female voices in patriarchal societies.",
+      "B. destructive nature of the British immigrant experience.",
+      "C. inherent conflict between artistic and academic pursuits.",
+      "D. inability of women to write compelling literature."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 98,
+    "question": "The novel's conclusion is often described as open-ended because Adah's:",
+    "options": [
+      "A. future remains uncertain but she has gained her freedom.",
+      "B. husband dies suddenly, leaving her finances in chaos.",
+      "C. children are taken away by social services.",
+      "D. manuscript is finally published to critical acclaim."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 99,
+    "question": "The role of the extended family in the novel is shown to be:",
+    "options": [
+      "A. a source of both support and immense pressure.",
+      "B. entirely absent from Adah's life after she moves.",
+      "C. a primary cause of Francis's violent behavior.",
+      "D. a minor detail that does not affect the plot."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Adah's determination to keep her children with her despite poverty shows her:",
+    "options": [
+      "A. defiance of the British social welfare system.",
+      "B. desire to prove Francis wrong about her.",
+      "C. maternal strength and refusal to be a victim.",
+      "D. fear of losing her cultural ties to Nigeria."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 101,
+    "question": "The incident where Adah accidentally sets the house on fire is significant because it primarily symbolizes her:",
+    "options": [
+      "A. reckless disregard for her children's safety.",
+      "B. deep-seated desire to destroy her marriage.",
+      "C. suppressed rage and frustration with her life.",
+      "D. inability to adapt to modern British living."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 102,
+    "question": "Adah's neighbor, Mrs. Okafor, is a significant character because she:",
+    "options": [
+      "A. warns Adah about the dangers of the London slums.",
+      "B. encourages Adah to leave Francis and return home.",
+      "C. introduces Adah to the local Nigerian elite.",
+      "D. represents the traditional expectations of women."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "When Francis loses his job at the post office, his reaction is characterized by:",
+    "options": [
+      "A. immediate action to find a new source of income.",
+      "B. deep remorse and an apology to Adah.",
+      "C. relief that he can finally focus on his studies.",
+      "D. bitter resentment directed at Adah and the children."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "Adah's decision to take the entrance examination for the library job demonstrates her:",
+    "options": [
+      "A. desire to compete directly with Francis.",
+      "B. determination to secure financial independence.",
+      "C. belief that she is overqualified for the role.",
+      "D. intention to eventually become a librarian."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "The reaction of Adah's colleagues at the library to her promotion reveals the presence of:",
+    "options": [
+      "A. genuine support for immigrant workers.",
+      "B. indifference to her professional growth.",
+      "C. subtle and overt racial prejudice.",
+      "D. fear that she will take their jobs."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "The character of the welfare officer who visits Adah's home is portrayed as:",
+    "options": [
+      "A. intrusive and quick to judge the family's situation.",
+      "B. genuinely helpful and sympathetic to their needs.",
+      "C. completely indifferent to the children's welfare.",
+      "D. highly educated but culturally incompetent."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "question": "Adah's miscarriage early in her time in London serves to highlight the:",
+    "options": [
+      "A. inadequacy of the British healthcare system.",
+      "B. emotional toll of her unstable marriage.",
+      "C. physical strain of her working conditions.",
+      "D. lack of support from her extended family."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "The theme of education in the novel is primarily portrayed as a means of:",
+    "options": [
+      "A. escaping poverty and achieving social mobility.",
+      "B. gaining power over less educated individuals.",
+      "C. fulfilling traditional family expectations.",
+      "D. assimilating completely into British culture."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The significance of the title 'Second Class Citizen' is most clearly demonstrated when Adah:",
+    "options": [
+      "A. struggles to understand the British educational system.",
+      "B. is forced to work multiple jobs to pay the bills.",
+      "C. is treated as inferior by both white Britons and Nigerians.",
+      "D. decides to leave Francis and live on her own."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 110,
+    "question": "Adah's father-in-law's view of her is primarily shaped by his belief that:",
+    "options": [
+      "A. she is too educated to be a good wife.",
+      "B. she should focus solely on domestic duties.",
+      "C. she is not from a wealthy enough family.",
+      "D. she is responsible for Francis's failures."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "The novel's critique of the British class system is most evident in the:",
+    "options": [
+      "A. lack of educational opportunities for the poor.",
+      "B. contrast between the wealthy and the working class.",
+      "C. rigid hierarchy within the Nigerian community.",
+      "D. way immigrants are treated as second-class citizens."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 112,
+    "question": "Adah's relationship with her children is characterized by a mix of:",
+    "options": [
+      "A. strict discipline and emotional distance.",
+      "B. deep affection and overwhelming responsibility.",
+      "C. resentment and a desire to be free of them.",
+      "D. reliance on Francis to handle their upbringing."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "question": "The contrast between Adah and Francis is most sharply drawn in their attitudes toward:",
+    "options": [
+      "A. the importance of family ties.",
+      "B. the value of traditional culture.",
+      "C. hard work and personal responsibility.",
+      "D. the role of religion in daily life."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 114,
+    "question": "The symbolic meaning of Adah's writing is that it represents her:",
+    "options": [
+      "A. desire to document the immigrant experience.",
+      "B. need to escape her domestic responsibilities.",
+      "C. hope of achieving fame and fortune abroad.",
+      "D. attempt to compete with Francis academically."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 115,
+    "question": "The role of gossip within the Nigerian immigrant community in London serves to:",
+    "options": [
+      "A. foster a sense of unity and shared identity.",
+      "B. provide a source of entertainment and humor.",
+      "C. help new arrivals adjust to British society.",
+      "D. isolate Adah and increase her vulnerability."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "Adah's experience with the landlord, Mr. Noble, highlights the:",
+    "options": [
+      "A. generosity of landlords toward immigrant families.",
+      "B. exploitative nature of the housing market.",
+      "C. strict regulations governing rental properties.",
+      "D. lack of available housing in the city."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "The significance of the train journey Adah takes in the novel is that it:",
+    "options": [
+      "A. represents her physical escape from her marriage.",
+      "B. introduces her to a new circle of friends.",
+      "C. marks the beginning of her career as a writer.",
+      "D. symbolizes her journey toward self-discovery."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 118,
+    "question": "Adah's internal monologue throughout the novel reveals her:",
+    "options": [
+      "A. desire to return to Nigeria and her family.",
+      "B. constant fear of deportation by authorities.",
+      "C. deep sense of loneliness and isolation.",
+      "D. unwavering optimism about her future."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "The theme of cultural displacement is most clearly shown through Adah's difficulty in:",
+    "options": [
+      "A. learning to speak English fluently.",
+      "B. finding a job that matches her qualifications.",
+      "C. adapting to British food and customs.",
+      "D. maintaining her Nigerian identity in London."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 120,
+    "question": "Francis's physical abuse of Adah is portrayed in the novel as stemming from his:",
+    "options": [
+      "A. struggle to find work in a foreign country.",
+      "B. deep-seated insecurity and patriarchal beliefs.",
+      "C. desire to assert control over his family.",
+      "D. frustration with the British legal system."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Adah's friendship with Janet is significant because Janet:",
+    "options": [
+      "A. offers Adah financial assistance when she is desperate.",
+      "B. introduces Adah to important literary contacts.",
+      "C. provides a rare example of genuine female solidarity.",
+      "D. encourages Adah to return to her husband."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "The role of the church in the novel is depicted as being:",
+    "options": [
+      "A. largely irrelevant to Adah's daily struggles.",
+      "B. a source of comfort and spiritual guidance.",
+      "C. highly critical of Adah's marital difficulties.",
+      "D. a place where the immigrant community gathers."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Adah's reaction to the racism she encounters in London is characterized by her:",
+    "options": [
+      "A. refusal to confront it directly.",
+      "B. desire to prove the racists wrong.",
+      "C. belief that it is a temporary problem.",
+      "D. determination to resist and overcome it."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 124,
+    "question": "The narrative perspective of the novel is particularly effective because it allows the reader to:",
+    "options": [
+      "A. experience Francis's perspective firsthand.",
+      "B. understand the complexities of Adah's inner life.",
+      "C. remain detached from the story's events.",
+      "D. feel the same alienation as British society."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 125,
+    "question": "The ending of the novel, where Adah leaves Francis, is significant because it:",
+    "options": [
+      "A. resolves all of her financial problems.",
+      "B. marks her complete assimilation into British life.",
+      "C. affirms her strength and determination to survive.",
+      "D. reunites her with her family in Nigeria."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "The theme of female solidarity is most clearly demonstrated when Adah:",
+    "options": [
+      "A. finds support from her female colleagues at the library.",
+      "B. connects with other Nigerian women in London.",
+      "C. relies on her mother for advice and guidance.",
+      "D. reaches out to other struggling immigrant mothers."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "The significance of Adah's job at the library is that it:",
+    "options": [
+      "A. exposes her to the world of literature and ideas.",
+      "B. provides her with a steady and reliable income.",
+      "C. allows her to meet people from all walks of life.",
+      "D. becomes a practical symbol of her independence."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The character of Boy is significant because he represents Adah's:",
+    "options": [
+      "A. connection to her Nigerian heritage and past.",
+      "B. greatest challenge in balancing work and family.",
+      "C. hope for a better future in a new country.",
+      "D. first experience with the pain of motherhood."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 129,
+    "question": "Francis's obsession with his studies is portrayed as being fueled by his:",
+    "options": [
+      "A. genuine passion for academic research.",
+      "B. need to prove his superiority over Adah.",
+      "C. desire to return to Nigeria as a success.",
+      "D. fear of failing his family's expectations."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "The role of traditional medicine in the novel is shown to be a:",
+    "options": [
+      "A. reliable alternative to modern healthcare.",
+      "B. dangerous superstition Adah rejects.",
+      "C. way for the community to bond and connect.",
+      "D. reminder of the characters' cultural roots."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 131,
+    "question": "Adah's decision to leave Francis is ultimately an act of:",
+    "options": [
+      "A. desperation and defeat in the face of failure.",
+      "B. revenge for his destruction of her manuscript.",
+      "C. rebellion against traditional gender roles.",
+      "D. self-preservation and reclaiming her identity."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The theme of ambition in the novel is primarily explored through Adah's desire to:",
+    "options": [
+      "A. become a successful writer and provide for her family.",
+      "B. return to Nigeria and build a large house.",
+      "C. become a respected member of the library staff.",
+      "D. prove to her father-in-law that she is worthy."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "The impact of poverty on Adah's family is most clearly seen in:",
+    "options": [
+      "A. the lack of food and warm clothing for the children.",
+      "B. the cramped and unsanitary living conditions.",
+      "C. Francis's inability to afford his university fees.",
+      "D. Adah's decision to seek financial help from the state."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "The character of Titi is significant because she represents Adah's:",
+    "options": [
+      "A. desire for her children to have a better life.",
+      "B. first experience with the responsibilities of motherhood.",
+      "C. connection to her father who died in Nigeria.",
+      "D. greatest source of conflict with her husband."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "Adah's relationship with her mother is characterized by a:",
+    "options": [
+      "A. deep and unconditional bond of love.",
+      "B. lack of understanding of Adah's choices.",
+      "C. complete absence of any communication.",
+      "D. shared commitment to traditional values."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 136,
+    "question": "The significance of the manuscript that Francis destroys is that it represents:",
+    "options": [
+      "A. Adah's only chance at financial security.",
+      "B. months of hard work and her creative voice.",
+      "C. a gift that was meant for her children.",
+      "D. a collaboration with another writer."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "question": "The theme of sacrifice in the novel is most clearly seen in Adah's willingness to:",
+    "options": [
+      "A. give up her education for her husband's career.",
+      "B. send her children to live with relatives abroad.",
+      "C. endure hardship to ensure her children's future.",
+      "D. return to her village to care for her parents."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "The role of the school system in the novel is depicted as a place where:",
+    "options": [
+      "A. immigrant children often struggle to fit in.",
+      "B. Adah's children are able to thrive easily.",
+      "C. the children are safe from their father's temper.",
+      "D. Adah learns about the British education system."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Adah's struggle for independence is most directly opposed by:",
+    "options": [
+      "A. the British government's immigration policies.",
+      "B. the lack of well-paying jobs for women.",
+      "C. her father-in-law's interference in her life.",
+      "D. Francis's refusal to treat her as an equal."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "The portrayal of marriage in the novel is largely negative, emphasizing:",
+    "options": [
+      "A. the importance of love and mutual respect.",
+      "B. the inherent conflict between tradition and modernity.",
+      "C. the inequality and lack of freedom for women.",
+      "D. the ways in which couples can grow together."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 141,
+    "question": "The use of irony in the novel is most evident in Francis's belief that he is:",
+    "options": [
+      "A. a devoted husband and father.",
+      "B. an exceptionally brilliant scholar.",
+      "C. a victim of racial discrimination.",
+      "D. the sole provider for his family."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 142,
+    "question": "The theme of hope in the novel is primarily sustained by Adah's:",
+    "options": [
+      "A. unshakable belief in her own abilities.",
+      "B. faith in the British justice system.",
+      "C. expectation of receiving an inheritance.",
+      "D. reliance on her extended family for support."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "question": "The significance of the new flat that Adah secures at the end of the novel is that it symbolizes:",
+    "options": [
+      "A. the final break from her husband's control.",
+      "B. the social elevation of her family.",
+      "C. the successful completion of her education.",
+      "D. the reunification of her extended family."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 144,
+    "question": "Francis's relationship with his father is depicted as being:",
+    "options": [
+      "A. supportive and full of open communication.",
+      "B. distant and marked by his father's criticism.",
+      "C. characterized by fierce competition and rivalry.",
+      "D. defined by his father's pride in his studies."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "Adah's realization about her marriage is that Francis:",
+    "options": [
+      "A. never truly loved her and only wanted a servant.",
+      "B. would change if they returned to Nigeria.",
+      "C. was actually a very successful man in London.",
+      "D. needed her to support him through his illness."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "The theme of identity in the novel is complicated by Adah's position as a:",
+    "options": [
+      "A. Nigerian woman living in a foreign country.",
+      "B. mother of children who are British citizens.",
+      "C. writer who publishes under a pseudonym.",
+      "D. student who excels in a foreign school."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "The role of education in Adah's life is shown to be:",
+    "options": [
+      "A. a luxury that she cannot easily afford.",
+      "B. the key to unlocking her full potential.",
+      "C. less important than her duties as a mother.",
+      "D. a source of conflict with her husband."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "The contrast between rural life in Ibuza and urban life in London is used to highlight:",
+    "options": [
+      "A. the superiority of European culture.",
+      "B. the different challenges women face in both settings.",
+      "C. the economic opportunities available in London.",
+      "D. the loss of traditional values in modern cities."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "The symbolic meaning of the library where Adah works is that it represents:",
+    "options": [
+      "A. a place of shelter and intellectual freedom.",
+      "B. the British government's control over information.",
+      "C. the elitism of the white upper class.",
+      "D. a space where Adah feels completely alienated."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "Adah's final actions in the novel demonstrate her commitment to:",
+    "options": [
+      "A. breaking free from the cycle of abuse and dependency.",
+      "B. seeking revenge against Francis for his cruelty.",
+      "C. returning to Nigeria to reunite with her father.",
+      "D. becoming a full-time professional writer."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Second Class Citizen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 151,
+    "question": "The historical event that serves as the immediate backdrop for the novel is the:",
+    "options": [
+      "A. Nigerian Civil War of the late 1960s.",
+      "B. mass expulsion of Ghanaians from Nigeria.",
+      "C. Ghanaian coup d'état of the early 1980s.",
+      "D. economic recession in Ghana during the 1970s."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 152,
+    "question": "Nii Tackie's journey back to Ghana is primarily forced by:",
+    "options": [
+      "A. the sudden enforcement of a deportation order.",
+      "B. his failure to secure a business loan in Lagos.",
+      "C. his desire to reunite with his mother in Accra.",
+      "D. the deteriorating political situation in Nigeria."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "Fatima's refusal to follow Nii to Ghana is largely influenced by her:",
+    "options": [
+      "A. fear of facing the same xenophobia he experienced.",
+      "B. lack of financial resources to make the journey.",
+      "C. desire to marry another man in Lagos.",
+      "D. belief that he will soon return to Nigeria."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "The character of Aaron in the novel serves primarily to:",
+    "options": [
+      "A. contrast with Nii's optimistic nature.",
+      "B. represent the harsh realities of deportation.",
+      "C. provide comic relief amid the tragedy.",
+      "D. act as a foil to Fatima's character."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The title 'Unexpected Joy at Dawn' primarily refers to the:",
+    "options": [
+      "A. sudden wealth Nii acquires in Accra.",
+      "B. emotional reunion of Nii and his family.",
+      "C. end of the political crisis in Nigeria.",
+      "D. recovery of Fatima from a severe illness."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 156,
+    "question": "The journey of the deportees across the border is depicted as:",
+    "options": [
+      "A. a well-organized and orderly process.",
+      "B. a celebration of their return to Ghana.",
+      "C. grueling and dehumanizing.",
+      "D. a brief and relatively painless trip."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Fatima's initial reaction to Nii's deportation is one of:",
+    "options": [
+      "A. shock and denial.",
+      "B. relief and acceptance.",
+      "C. anger and resentment.",
+      "D. indifference and apathy."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "The theme of xenophobia is most clearly illustrated through:",
+    "options": [
+      "A. the treatment of Nigerians in Ghana.",
+      "B. the conflict between different ethnic groups.",
+      "C. the economic disparity between the rich and poor.",
+      "D. the treatment of Ghanaians in Nigeria."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 159,
+    "question": "Ama's character is significant because she represents:",
+    "options": [
+      "A. the future of a unified Africa.",
+      "B. the bond between Nii and Fatima.",
+      "C. the innocence of childhood.",
+      "D. the corruption of the political system."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Nii's experience in Ghana after deportation reveals the:",
+    "options": [
+      "A. ease of starting a new life in Accra.",
+      "B. welcoming nature of the Ghanaian people.",
+      "C. harsh realities of starting over.",
+      "D. rapid economic recovery of the nation."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The narrative structure of the novel is characterized by:",
+    "options": [
+      "A. alternating perspectives between Nii and Fatima.",
+      "B. a single, uninterrupted linear timeline.",
+      "C. a series of disconnected short stories.",
+      "D. a focus solely on the political events."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 162,
+    "question": "Fatima's new relationship with a Nigerian man is viewed by Nii with:",
+    "options": [
+      "A. complete understanding and forgiveness.",
+      "B. immediate acceptance and support.",
+      "C. indifference and lack of concern.",
+      "D. understandable jealousy and resentment."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 163,
+    "question": "The crossing of the border is a significant event because it:",
+    "options": [
+      "A. marks a temporary separation.",
+      "B. symbolizes a point of no return.",
+      "C. represents a new business opportunity.",
+      "D. is easily reversed by the characters."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The role of the military in the novel is to:",
+    "options": [
+      "A. enforce the deportation policies.",
+      "B. protect the rights of immigrants.",
+      "C. facilitate peaceful border crossings.",
+      "D. provide aid to the stranded deportees."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "The novel's setting shifts primarily between:",
+    "options": [
+      "A. Lagos and Accra.",
+      "B. Abuja and Kumasi.",
+      "C. London and Lagos.",
+      "D. Accra and London."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 166,
+    "question": "Nii's struggle to find work in Ghana reflects the:",
+    "options": [
+      "A. abundance of opportunities in Accra.",
+      "B. economic instability of the era.",
+      "C. preference for foreign workers.",
+      "D. strict labor laws of the country."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The theme of identity is explored through Nii's feelings of being:",
+    "options": [
+      "A. fully accepted in Ghana.",
+      "B. superior to the local population.",
+      "C. a stranger in his own homeland.",
+      "D. completely disconnected from his roots."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 168,
+    "question": "Fatima's choice to stay in Nigeria highlights her:",
+    "options": [
+      "A. desire for independence from Nii.",
+      "B. fear of displacement and rootlessness.",
+      "C. lack of love for her husband.",
+      "D. loyalty to her Nigerian partner."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The reunion between Nii and his daughter Ama is portrayed as:",
+    "options": [
+      "A. immediate and entirely joyous.",
+      "B. bittersweet and fragile.",
+      "C. formal and lacking in emotion.",
+      "D. tense and ultimately unsuccessful."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "The resolution of the novel offers a sense of:",
+    "options": [
+      "A. cautious optimism.",
+      "B. complete despair.",
+      "C. total closure.",
+      "D. unresolved bitterness."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "Nii's initial optimism in Lagos is abruptly shattered by:",
+    "options": [
+      "A. his wife's infidelity.",
+      "B. a failed business deal.",
+      "C. the sudden deportation notice.",
+      "D. his mother's illness."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "The concept of 'Ghana Must Go' refers to the:",
+    "options": [
+      "A. mass expulsion of Ghanaians in 1983.",
+      "B. migration of Nigerians to Ghana in the 1970s.",
+      "C. political slogan of a Ghanaian leader.",
+      "D. name of the ship used for deportation."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "Fatima's current partner, Joseph, is portrayed as:",
+    "options": [
+      "A. a violent and abusive man.",
+      "B. a pragmatic survivor.",
+      "C. a deeply religious and moral figure.",
+      "D. a wealthy and successful businessman."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "The significance of Nii's mother in the narrative is that she:",
+    "options": [
+      "A. represents the pull of home and tradition.",
+      "B. encourages him to return to Nigeria.",
+      "C. is the main source of conflict in the story.",
+      "D. provides him with financial support."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 175,
+    "question": "The border crossing scene emphasizes the:",
+    "options": [
+      "A. efficiency of the immigration system.",
+      "B. compassion of the border officials.",
+      "C. arbitrary nature of national boundaries.",
+      "D. well-organized nature of the deportation."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 176,
+    "question": "Nii's relationship with Ama is complicated by his:",
+    "options": [
+      "A. lack of interest in her life.",
+      "B. absence during her formative years.",
+      "C. preference for his other children.",
+      "D. inability to speak her language."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "The novel critiques the Nigerian government's policy through the lens of:",
+    "options": [
+      "A. its successful economic outcomes.",
+      "B. the lack of international support.",
+      "C. the protests of the Nigerian people.",
+      "D. its devastating human cost."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Fatima's internal conflict stems from her loyalty to:",
+    "options": [
+      "A. both Nii and her Nigerian roots.",
+      "B. the Nigerian government.",
+      "C. her new partner, Joseph.",
+      "D. her daughter, Ama."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The theme of resilience is most clearly embodied by:",
+    "options": [
+      "A. Fatima's decision to stay in Lagos.",
+      "B. Joseph's pragmatic approach to life.",
+      "C. Nii's determination to survive.",
+      "D. Ama's innocence and hope."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "The psychological impact of deportation on Nii is shown through his:",
+    "options": [
+      "A. recurring nightmares of the event.",
+      "B. immediate success in Ghana.",
+      "C. complete indifference to his past.",
+      "D. quick assimilation into Ghanaian society."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "The use of flashbacks in the novel serves to:",
+    "options": [
+      "A. confuse the reader about the timeline.",
+      "B. provide context for the present relationship.",
+      "C. focus entirely on the political situation.",
+      "D. delay the resolution of the plot."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "Aaron's eventual fate in the novel is a:",
+    "options": [
+      "A. happy conclusion to his struggles.",
+      "B. source of comic relief.",
+      "C. tragic reminder of the journey's risks.",
+      "D. minor detail in the narrative."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 183,
+    "question": "Nii's perception of Ghana before returning is rooted in:",
+    "options": [
+      "A. accurate political analysis.",
+      "B. fear of the unknown.",
+      "C. bitterness and resentment.",
+      "D. nostalgia and idealized memories."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Fatima's decision not to inform Nii about Ama immediately is driven by:",
+    "options": [
+      "A. her desire to hurt him.",
+      "B. fear of reopening old wounds.",
+      "C. her lack of interest in his life.",
+      "D. advice from her new partner."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "The novel's ending suggests that Nii's future will be:",
+    "options": [
+      "A. completely secure and prosperous.",
+      "B. marked by ongoing misery.",
+      "C. entirely focused on his past.",
+      "D. uncertain but filled with new hope."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "The role of the extended family in Ghana is depicted as:",
+    "options": [
+      "A. completely absent from the narrative.",
+      "B. the main cause of Nii's problems.",
+      "C. a wealthy and powerful institution.",
+      "D. a source of initial support and later burden."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 187,
+    "question": "The significance of the title's 'Dawn' suggests:",
+    "options": [
+      "A. the start of a political revolution.",
+      "B. the end of the deportation crisis.",
+      "C. the beginning of Nii's illness.",
+      "D. a new beginning or fresh start."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 188,
+    "question": "The novel's critique of immigration policies is primarily aimed at:",
+    "options": [
+      "A. the lack of empathy in their enforcement.",
+      "B. their failure to generate revenue.",
+      "C. their inability to stop migration.",
+      "D. the strictness of their legal criteria."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "Nii's identity as a Ghanaian is most strongly tested when he:",
+    "options": [
+      "A. is welcomed warmly by his family.",
+      "B. finds a job in Accra easily.",
+      "C. decides to return to Nigeria.",
+      "D. is treated as an outsider in Accra."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "Fatima's character is presented as a woman torn between:",
+    "options": [
+      "A. love for Nigeria and love for Ghana.",
+      "B. her past and her future.",
+      "C. her career and her family.",
+      "D. maternal duty and personal desire."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The physical journey of the deportees serves as a metaphor for:",
+    "options": [
+      "A. the emotional journey of loss.",
+      "B. the economic journey of the nation.",
+      "C. the political evolution of the characters.",
+      "D. the historical journey of the continent."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 192,
+    "question": "The significance of Nii's eventual reconciliation with Fatima is that it:",
+    "options": [
+      "A. resolves all their financial problems.",
+      "B. acknowledges the complexities of their history.",
+      "C. is forced upon them by social pressure.",
+      "D. leads to their immediate remarriage."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "The theme of betrayal in the novel is most closely linked to:",
+    "options": [
+      "A. the behavior of Fatima's new partner.",
+      "B. the actions of the Nigerian government.",
+      "C. the decisions made by Nii's family.",
+      "D. the harshness of the border officials."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Nii's experience with the border officials highlights the:",
+    "options": [
+      "A. corruption of authority figures.",
+      "B. efficiency of the immigration process.",
+      "C. compassion of the state officials.",
+      "D. fairness of the legal system."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "The character of Ama represents the:",
+    "options": [
+      "A. political activists of the future.",
+      "B. wealthy elite of Nigerian society.",
+      "C. successful integration of immigrants.",
+      "D. innocent victims of political decisions."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "Fatima's refusal to join Nii in Ghana is ultimately a:",
+    "options": [
+      "A. selfish decision to abandon her family.",
+      "B. pragmatic decision for survival.",
+      "C. temporary choice based on emotion.",
+      "D. forced decision made by the government."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "The novel uses the metaphor of the 'dawn' to represent:",
+    "options": [
+      "A. the harsh reality of the sun.",
+      "B. the possibility of healing.",
+      "C. the political awakening of the people.",
+      "D. the end of the night's journey."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 198,
+    "question": "The role of memory in the novel is to:",
+    "options": [
+      "A. complicate the present relationships.",
+      "B. provide a simple solution to problems.",
+      "C. distract from the political realities.",
+      "D. highlight the superiority of the past."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "Nii's character development is marked by his transition from:",
+    "options": [
+      "A. wealth to poverty.",
+      "B. despair to cautious optimism.",
+      "C. anger to forgiveness.",
+      "D. independence to dependence."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "The overarching theme of the novel is the:",
+    "options": [
+      "A. human capacity to endure hardship.",
+      "B. triumph of the human spirit over politics.",
+      "C. necessity of strict immigration controls.",
+      "D. impossibility of ever returning home."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "The 'dawn' in the novel's title most directly symbolizes the:",
+    "options": [
+      "A. start of a new and hopeful phase.",
+      "B. end of the night's long journey.",
+      "C. beginning of Nii's physical illness.",
+      "D. sudden outbreak of political violence."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 202,
+    "question": "Nii's determination to cross the border back into Nigeria is driven by his:",
+    "options": [
+      "A. need to find a better paying job.",
+      "B. desire to seek political asylum.",
+      "C. longing to reunite with his family.",
+      "D. plan to start a new business venture."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 203,
+    "question": "The xenophobic attacks in the novel are primarily fueled by:",
+    "options": [
+      "A. religious differences between the groups.",
+      "B. economic hardship and competition for resources.",
+      "C. historical tribal conflicts dating back centuries.",
+      "D. the government's strict immigration policies."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 204,
+    "question": "Fatima's character is torn between her love for Nii and her:",
+    "options": [
+      "A. desire to move to Ghana with him.",
+      "B. loyalty to the Nigerian government.",
+      "C. responsibility to her new partner.",
+      "D. need for stability and survival."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 205,
+    "question": "Joseph, Fatima's new partner, is depicted primarily as a:",
+    "options": [
+      "A. pragmatic survivor who offers stability.",
+      "B. violent and abusive authority figure.",
+      "C. wealthy businessman who exploits others.",
+      "D. deeply religious man with strict morals."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 206,
+    "question": "Aaron's tragic fate during the deportation journey underscores the:",
+    "options": [
+      "A. efficiency of the border control officials.",
+      "B. strong bond between the deportees.",
+      "C. deadly risks and hardships of the process.",
+      "D. support provided by local communities."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 207,
+    "question": "Nii's mother in Ghana is initially portrayed as a figure who:",
+    "options": [
+      "A. rejects Nii upon his return to Accra.",
+      "B. provides him with immediate financial wealth.",
+      "C. encourages him to forget about Fatima.",
+      "D. represents the pull of home and tradition."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "The character of Ama is significant because she represents:",
+    "options": [
+      "A. the corruption of the Nigerian political elite.",
+      "B. the innocent victims of political decisions.",
+      "C. the successful integration of immigrants.",
+      "D. the wealthy future of the African continent."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The border crossing scene emphasizes the:",
+    "options": [
+      "A. arbitrary and harsh nature of national boundaries.",
+      "B. well-organized and orderly immigration process.",
+      "C. compassion and empathy of state officials.",
+      "D. financial opportunities available to travelers."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 210,
+    "question": "Nii's psychological state after being deported is best described as:",
+    "options": [
+      "A. complete relief and happiness.",
+      "B. indifferent and unconcerned.",
+      "C. traumatized and deeply unsettled.",
+      "D. angry but highly motivated."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "Fatima's decision not to follow Nii to Ghana is ultimately based on her:",
+    "options": [
+      "A. lack of love for her husband.",
+      "B. fear of the Ghanaian government.",
+      "C. desire to marry a wealthier man.",
+      "D. need for economic and social stability."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "The economic situation in Ghana upon Nii's return is characterized by:",
+    "options": [
+      "A. widespread prosperity and abundance.",
+      "B. scarcity and a lack of job opportunities.",
+      "C. rapid industrial growth and development.",
+      "D. complete reliance on foreign aid."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The narrative structure of the novel is particularly effective because it:",
+    "options": [
+      "A. presents a single, uninterrupted timeline.",
+      "B. avoids any use of flashbacks or memories.",
+      "C. alternates perspectives to show both sides.",
+      "D. focuses entirely on the political events."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 214,
+    "question": "The concept of 'home' in the novel is portrayed as:",
+    "options": [
+      "A. a complex and elusive idea.",
+      "B. a simple geographical location.",
+      "C. a place of perfect safety.",
+      "D. an unattainable fantasy."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "Nii's struggle with his identity is most clearly seen in his feelings of being:",
+    "options": [
+      "A. fully accepted in Ghana.",
+      "B. superior to the local population.",
+      "C. completely disconnected from his roots.",
+      "D. a stranger in his own homeland."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 216,
+    "question": "The use of memory and flashbacks in the novel serves to:",
+    "options": [
+      "A. distract from the political realities.",
+      "B. complicate the present relationships.",
+      "C. provide simple solutions to problems.",
+      "D. highlight the superiority of the past."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "The theme of resilience is most clearly embodied by Nii's:",
+    "options": [
+      "A. quick assimilation into Ghanaian society.",
+      "B. immediate success in finding a job.",
+      "C. determination to survive and rebuild.",
+      "D. complete indifference to his past."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 218,
+    "question": "The political backdrop of the novel is significant because it:",
+    "options": [
+      "A. dictates the fates of the ordinary citizens.",
+      "B. is easily resolved by the main characters.",
+      "C. has no real impact on the narrative.",
+      "D. is portrayed as a positive force."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 219,
+    "question": "Fatima's relationship with Joseph is presented as being:",
+    "options": [
+      "A. deeply passionate and romantic.",
+      "B. violent and highly abusive.",
+      "C. entirely based on love.",
+      "D. practical and survival-oriented."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "The ending of the novel is best described as:",
+    "options": [
+      "A. completely tragic and hopeless.",
+      "B. bittersweet but cautiously hopeful.",
+      "C. entirely joyous and celebratory.",
+      "D. abrupt and lacking resolution."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 221,
+    "question": "The border between Nigeria and Ghana serves as a metaphor for the:",
+    "options": [
+      "A. economic prosperity of both nations.",
+      "B. historical unity of the African people.",
+      "C. arbitrary divisions created by politics.",
+      "D. ease of travel within West Africa."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 222,
+    "question": "Nii's initial optimism in Lagos is abruptly shattered by the:",
+    "options": [
+      "A. sudden enforcement of a deportation order.",
+      "B. failure of his business to secure a loan.",
+      "C. illness of his daughter Ama.",
+      "D. death of his mother in Ghana."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "The theme of betrayal in the novel is most closely linked to the:",
+    "options": [
+      "A. actions of Fatima's new partner.",
+      "B. decisions of the Nigerian government.",
+      "C. behavior of Nii's family in Accra.",
+      "D. harshness of the border officials."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 224,
+    "question": "The novel suggests that Ama represents the:",
+    "options": [
+      "A. corruption of the political system.",
+      "B. wealth of the Nigerian elite.",
+      "C. rapid economic development of Ghana.",
+      "D. innocent victims of political decisions."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "The contrast between Lagos and Accra is used to highlight the:",
+    "options": [
+      "A. superiority of European culture.",
+      "B. economic opportunities in both cities.",
+      "C. shared challenges of West African nations.",
+      "D. loss of traditional values in urban areas."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 226,
+    "question": "Aaron's function in the narrative is primarily to:",
+    "options": [
+      "A. illustrate the deadly risks of deportation.",
+      "B. provide comic relief amid the tragedy.",
+      "C. act as a foil to Fatima's character.",
+      "D. offer Nii financial support in Ghana."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 227,
+    "question": "The role of the military in the novel is depicted as:",
+    "options": [
+      "A. protecting the rights of immigrants.",
+      "B. enforcing harsh and arbitrary policies.",
+      "C. facilitating peaceful border crossings.",
+      "D. providing aid to stranded deportees."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "Nii's relationship with his extended family in Ghana is characterized by:",
+    "options": [
+      "A. immediate and unconditional support.",
+      "B. complete indifference and neglect.",
+      "C. fierce competition and rivalry.",
+      "D. initial support that later becomes a burden."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 229,
+    "question": "The novel's critique of immigration policies is primarily aimed at their:",
+    "options": [
+      "A. failure to generate government revenue.",
+      "B. inability to stop illegal migration.",
+      "C. lack of empathy and devastating human cost.",
+      "D. strictness in enforcing legal criteria."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 230,
+    "question": "The 'Unexpected Joy' that Nii experiences is primarily related to his:",
+    "options": [
+      "A. reunion with his daughter Ama.",
+      "B. acquisition of sudden wealth.",
+      "C. return to a successful business.",
+      "D. recovery from a severe illness."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "Fatima's internal conflict stems from her loyalty to:",
+    "options": [
+      "A. the Nigerian government.",
+      "B. both Nii and her Nigerian roots.",
+      "C. her new partner, Joseph.",
+      "D. her daughter, Ama."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "Nii's coping mechanism for dealing with the trauma of deportation involves:",
+    "options": [
+      "A. seeking revenge on the government.",
+      "B. immediately remarrying.",
+      "C. reflecting on his memories and past.",
+      "D. abandoning his cultural identity."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 233,
+    "question": "The theme of separation in the novel is most directly caused by:",
+    "options": [
+      "A. a natural disaster.",
+      "B. a personal disagreement.",
+      "C. a business failure.",
+      "D. a political decision."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "Nii's job search in Ghana is complicated by the:",
+    "options": [
+      "A. poor economic conditions and scarcity.",
+      "B. abundance of highly qualified workers.",
+      "C. strict regulations against immigrants.",
+      "D. lack of his professional qualifications."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 235,
+    "question": "The discovery that Fatima has a new partner is made more painful for Nii by:",
+    "options": [
+      "A. the fact that Joseph is a close friend.",
+      "B. his own inability to move on.",
+      "C. the fact that they are planning to marry.",
+      "D. the intervention of his mother."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "The physical journey of the deportees serves as a metaphor for the:",
+    "options": [
+      "A. historical journey of the continent.",
+      "B. economic journey of the nation.",
+      "C. emotional journey of loss and struggle.",
+      "D. political evolution of the characters."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 237,
+    "question": "Fatima's new life with Joseph is portrayed as:",
+    "options": [
+      "A. completely happy and fulfilling.",
+      "B. fraught with violence and danger.",
+      "C. a temporary and unstable arrangement.",
+      "D. a necessary compromise for survival."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "Nii's perception of Ghana before his return is deeply influenced by:",
+    "options": [
+      "A. idealized memories and nostalgia.",
+      "B. accurate political analysis.",
+      "C. fear of the unknown.",
+      "D. bitterness and resentment."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 239,
+    "question": "The impact of the deportation on the family unit is shown to be:",
+    "options": [
+      "A. ultimately positive and strengthening.",
+      "B. deeply destructive and fragmenting.",
+      "C. a minor inconvenience.",
+      "D. easily overcome by the characters."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 240,
+    "question": "The role of social class in the novel is evident in the:",
+    "options": [
+      "A. lack of any financial differences.",
+      "B. equality of all the characters.",
+      "C. differing levels of hardship experienced.",
+      "D. absence of a working class."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 241,
+    "question": "The reunion between Nii and Ama is complicated by the fact that:",
+    "options": [
+      "A. she does not recognize him at first.",
+      "B. she is angry at him for leaving.",
+      "C. he does not want to see her.",
+      "D. she is already married."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 242,
+    "question": "The novel's stance on nationalism is that it:",
+    "options": [
+      "A. can be destructive and inhumane.",
+      "B. is always a positive force.",
+      "C. is irrelevant to modern society.",
+      "D. should be strictly enforced."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 243,
+    "question": "The women in the novel, particularly Fatima, are depicted as:",
+    "options": [
+      "A. entirely passive and weak.",
+      "B. resilient and pragmatic.",
+      "C. manipulative and cruel.",
+      "D. wealthy and powerful."
+    ],
+    "answer": "B",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Nii's character development is marked by his transition from:",
+    "options": [
+      "A. independence to dependence.",
+      "B. anger to forgiveness.",
+      "C. despair to cautious optimism.",
+      "D. wealth to poverty."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 245,
+    "question": "The novel uses irony to highlight the difference between:",
+    "options": [
+      "A. rich and poor.",
+      "B. love and hate.",
+      "C. war and peace.",
+      "D. political promises and reality."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 246,
+    "question": "The title's 'Dawn' suggests a sense of:",
+    "options": [
+      "A. new beginning or fresh start.",
+      "B. approaching darkness.",
+      "C. political revolution.",
+      "D. permanent ending."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 247,
+    "question": "The theme of hope in the novel is primarily sustained by Nii's:",
+    "options": [
+      "A. unshakable belief in his abilities.",
+      "B. expectation of an inheritance.",
+      "C. reliance on extended family support.",
+      "D. faith in the British justice system."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The reality of deportation in the novel is shown to be:",
+    "options": [
+      "A. a simple and painless process.",
+      "B. a highly organized event.",
+      "C. a brutal and dehumanizing experience.",
+      "D. a temporary inconvenience."
+    ],
+    "answer": "C",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "The characters in the novel are shown to be largely at the mercy of:",
+    "options": [
+      "A. their own poor choices.",
+      "B. natural disasters.",
+      "C. supernatural forces.",
+      "D. political and economic forces."
+    ],
+    "answer": "D",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 250,
+    "question": "The overarching message of the novel is about the:",
+    "options": [
+      "A. human capacity to endure hardship.",
+      "B. triumph of the human spirit over politics.",
+      "C. necessity of strict immigration controls.",
+      "D. impossibility of ever returning home."
+    ],
+    "answer": "A",
+    "topic": "African Prose - Unexpected Joy at Dawn",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "The setting of the novel is primarily divided between Wuthering Heights and:",
+    "options": [
+      "A. Thrushcross Grange.",
+      "B. Liverpool.",
+      "C. Gimmerton Kirk.",
+      "D. Penistone Crag."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "Heathcliff's initial introduction to the Earnshaw family occurs when Mr. Earnshaw brings him back from:",
+    "options": [
+      "A. a business trip to London.",
+      "B. a visit to a neighboring estate.",
+      "C. a journey to Liverpool.",
+      "D. a hunting expedition on the moors."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Catherine Earnshaw's famous declaration 'I am Heathcliff' primarily signifies their:",
+    "options": [
+      "A. shared ambition for social advancement.",
+      "B. profound and inseparable spiritual bond.",
+      "C. mutual desire for revenge against Hindley.",
+      "D. physical resemblance to one another."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "Hindley Earnshaw's cruel treatment of Heathcliff after his father's death is primarily driven by:",
+    "options": [
+      "A. his fear of losing his inheritance.",
+      "B. his resentment of Heathcliff's favored status.",
+      "C. his desire to protect his sister Catherine.",
+      "D. his belief that Heathcliff is a thief."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "Catherine's decision to marry Edgar Linton is chiefly motivated by her desire for:",
+    "options": [
+      "A. social status and financial security.",
+      "B. genuine romantic love and passion.",
+      "C. revenge against Heathcliff for leaving.",
+      "D. escape from her brother's abuse."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "The narrative frame of the novel is established through the perspective of:",
+    "options": [
+      "A. Nelly Dean and Mr. Lockwood.",
+      "B. Catherine and Heathcliff.",
+      "C. Edgar and Isabella Linton.",
+      "D. Hindley and Hareton Earnshaw."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 257,
+    "question": "Heathcliff's return to Wuthering Heights after three years is significant because he:",
+    "options": [
+      "A. has acquired wealth and a gentlemanly appearance.",
+      "B. brings a new wife and family with him.",
+      "C. seeks forgiveness from Catherine for leaving.",
+      "D. intends to sell the estate to Edgar Linton."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "The character of Isabella Linton is significant because her marriage to Heathcliff reveals his:",
+    "options": [
+      "A. deep capacity for romantic love.",
+      "B. desire for social acceptance.",
+      "C. cruel and calculating nature.",
+      "D. fear of being alone."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The second generation of characters in the novel includes Hareton Earnshaw and:",
+    "options": [
+      "A. Linton Heathcliff and Cathy Linton.",
+      "B. Edgar Linton and Isabella Linton.",
+      "C. Hindley Earnshaw and Frances Earnshaw.",
+      "D. Mr. Lockwood and Nelly Dean."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "The motif of the window in the novel is most famously associated with:",
+    "options": [
+      "A. Lockwood's dream of Catherine's ghost.",
+      "B. Heathcliff's wedding to Isabella.",
+      "C. Hindley's imprisonment in the attic.",
+      "D. Edgar's reading in the library."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 261,
+    "question": "The contrast between Wuthering Heights and Thrushcross Grange primarily symbolizes the:",
+    "options": [
+      "A. difference between wealth and poverty.",
+      "B. conflict between nature and civilization.",
+      "C. gap between the older and younger generations.",
+      "D. rivalry between two neighboring families."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "Heathcliff's primary motivation for his vengeful actions throughout the novel is his:",
+    "options": [
+      "A. desire to reclaim his lost inheritance.",
+      "B. deep hatred for the Linton family.",
+      "C. resentment of Hindley's treatment and Catherine's betrayal.",
+      "D. plan to take over both estates."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "Nelly Dean's role as a narrator is significant because she:",
+    "options": [
+      "A. provides a completely objective account of events.",
+      "B. acts as a direct participant in all major events.",
+      "C. offers a moralizing and somewhat biased perspective.",
+      "D. represents the voice of the author herself."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 264,
+    "question": "The death of Catherine Earnshaw occurs shortly after she gives birth to:",
+    "options": [
+      "A. a son named Linton.",
+      "B. a daughter named Cathy.",
+      "C. a son named Hareton.",
+      "D. a daughter named Isabella."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 265,
+    "question": "The relationship between the younger Cathy and Hareton ultimately represents:",
+    "options": [
+      "A. a repetition of Heathcliff's revenge.",
+      "B. the triumph of love over brutality.",
+      "C. a purely transactional arrangement.",
+      "D. the continuation of family feuds."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 266,
+    "question": "The supernatural elements in the novel, such as Catherine's ghost, primarily serve to:",
+    "options": [
+      "A. distract from the main romantic plot.",
+      "B. reinforce the intense emotional bonds.",
+      "C. provide comic relief to the reader.",
+      "D. explain the historical context."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 267,
+    "question": "Mr. Lockwood's initial impression of Wuthering Heights is one of:",
+    "options": [
+      "A. warmth and hospitality.",
+      "B. grandeur and elegance.",
+      "C. hostility and isolation.",
+      "D. poverty and neglect."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "Heathcliff's treatment of Hareton Earnshaw is intended to:",
+    "options": [
+      "A. educate him to become a gentleman.",
+      "B. reduce him to a state of servitude.",
+      "C. prepare him to inherit the estate.",
+      "D. protect him from the Linton family."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 269,
+    "question": "The primary cause of Edgar Linton's death is his:",
+    "options": [
+      "A. exposure to the harsh winter weather.",
+      "B. grief over his wife's death.",
+      "C. physical confrontation with Heathcliff.",
+      "D. illness contracted from his daughter."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 270,
+    "question": "The character of Joseph in the novel is primarily characterized by his:",
+    "options": [
+      "A. kind and gentle nature.",
+      "B. strict religious fanaticism.",
+      "C. deep love for Catherine.",
+      "D. loyalty to the Linton family."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "Catherine's illness and eventual death are primarily brought on by her:",
+    "options": [
+      "A. exposure to the harsh weather on the moors.",
+      "B. emotional turmoil and self-starvation.",
+      "C. infection from a servant at the Grange.",
+      "D. complications during her pregnancy."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "The theme of social class is most clearly illustrated in Heathcliff's:",
+    "options": [
+      "A. rapid acceptance by the Linton family.",
+      "B. rejection by Catherine due to his status.",
+      "C. desire to become a farmer.",
+      "D. lack of interest in acquiring wealth."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The character of Frances Earnshaw, Hindley's wife, is significant because her death:",
+    "options": [
+      "A. leads to Hindley's descent into alcoholism.",
+      "B. brings Heathcliff and Catherine closer.",
+      "C. results in the Lintons taking over the estate.",
+      "D. causes Heathcliff to leave the country."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 274,
+    "question": "The younger Cathy's initial reaction to Linton Heathcliff is characterized by:",
+    "options": [
+      "A. immediate hatred and distrust.",
+      "B. pity and a desire to help him.",
+      "C. fear of his father's influence.",
+      "D. indifference to his suffering."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 275,
+    "question": "Heathcliff's ultimate fate at the end of the novel is best described as:",
+    "options": [
+      "A. a peaceful death surrounded by family.",
+      "B. a mysterious death marked by unrest.",
+      "C. an exile to a foreign country.",
+      "D. a triumphant acquisition of the Grange."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "The use of multiple narrators in the novel serves primarily to:",
+    "options": [
+      "A. provide a single, authoritative version of events.",
+      "B. complicate the truth through different perspectives.",
+      "C. speed up the pacing of the narrative.",
+      "D. focus exclusively on Lockwood's experiences."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 277,
+    "question": "The moors in the novel function as a symbol of:",
+    "options": [
+      "A. civilization and refinement.",
+      "B. wildness and natural passion.",
+      "C. economic prosperity.",
+      "D. religious salvation."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "Hindley's gambling addiction is significant because it allows Heathcliff to:",
+    "options": [
+      "A. gain control of Wuthering Heights.",
+      "B. win the hand of Catherine.",
+      "C. become a respected gentleman.",
+      "D. seek revenge on Edgar Linton."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The significance of Hareton and Cathy's relationship at the end of the novel is that it:",
+    "options": [
+      "A. continues the cycle of revenge.",
+      "B. offers a hopeful resolution.",
+      "C. mirrors Heathcliff's tragedy.",
+      "D. remains unresolved."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 280,
+    "question": "The physical descriptions of Wuthering Heights emphasize its:",
+    "options": [
+      "A. ornate architecture and beauty.",
+      "B. sturdy and defensive construction.",
+      "C. modern amenities and comfort.",
+      "D. proximity to the city."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "Catherine's use of the phrase 'I am Heathcliff' suggests that she views their relationship as:",
+    "options": [
+      "A. a temporary romantic affair.",
+      "B. a deeply spiritual connection.",
+      "C. a strategic social alliance.",
+      "D. a purely physical attraction."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Heathcliff's treatment of his son, Linton, is characterized by his:",
+    "options": [
+      "A. genuine affection and care.",
+      "B. indifference and exploitation.",
+      "C. desire to educate him.",
+      "D. fear of losing him."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "The character of Zillah is significant because she:",
+    "options": [
+      "A. provides a neutral perspective on the events.",
+      "B. is a close confidante of Catherine.",
+      "C. acts as a spy for Edgar Linton.",
+      "D. is responsible for Heathcliff's death."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 284,
+    "question": "The theme of education in the novel is primarily explored through the:",
+    "options": [
+      "A. contrast between Hareton and Linton.",
+      "B. friendship between Catherine and Isabella.",
+      "C. schooling of Heathcliff in Liverpool.",
+      "D. reading habits of Mr. Lockwood."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "Edgar Linton's personality is best described as:",
+    "options": [
+      "A. passionate and volatile.",
+      "B. gentle and somewhat weak.",
+      "C. cruel and calculating.",
+      "D. adventurous and outgoing."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "The ghost of Catherine appearing to Mr. Lockwood symbolizes her:",
+    "options": [
+      "A. desire for revenge against Heathcliff.",
+      "B. unresolved longing for Wuthering Heights.",
+      "C. warning about the dangers of the moors.",
+      "D. wish to meet her daughter Cathy."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "The most significant difference between the first and second halves of the novel is the:",
+    "options": [
+      "A. shift from tragedy to a more hopeful resolution.",
+      "B. change in the narrative perspective to Heathcliff.",
+      "C. introduction of a completely new setting.",
+      "D. removal of supernatural elements."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 288,
+    "question": "Heathcliff's accumulation of wealth is primarily a means to:",
+    "options": [
+      "A. achieve social standing and power.",
+      "B. support his extended family.",
+      "C. fund his travels abroad.",
+      "D. purchase a new estate."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "Isabella's letter to Nelly after her marriage reveals her:",
+    "options": [
+      "A. deep love and admiration for Heathcliff.",
+      "B. desperate and abusive living situation.",
+      "C. joy at becoming the mistress of Wuthering Heights.",
+      "D. desire to reconcile with her brother Edgar."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 290,
+    "question": "The novel's title, 'Wuthering Heights', refers to the:",
+    "options": [
+      "A. architectural style of the house.",
+      "B. turbulent weather conditions.",
+      "C. family name of the original owners.",
+      "D. distance from the nearest town."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "The relationship between Catherine and Heathcliff is often described as:",
+    "options": [
+      "A. a typical romantic courtship.",
+      "B. a destructive and obsessive bond.",
+      "C. a purely platonic friendship.",
+      "D. a business partnership."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Nelly Dean's intervention in the lives of the characters often leads to:",
+    "options": [
+      "A. positive outcomes for everyone involved.",
+      "B. unintended and sometimes negative consequences.",
+      "C. the immediate resolution of conflicts.",
+      "D. her dismissal from the estate."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 293,
+    "question": "The theme of nature versus nurture is most clearly explored through the:",
+    "options": [
+      "A. inherited traits of the Linton family.",
+      "B. contrasting upbringings of Hareton and Linton.",
+      "C. natural landscape of the moors.",
+      "D. education of Mr. Lockwood."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Heathcliff's final days are marked by his:",
+    "options": [
+      "A. renewed interest in socializing.",
+      "B. intense focus on accumulating wealth.",
+      "C. strange behavior and visions of Catherine.",
+      "D. reconciliation with Edgar Linton."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "The character of Mr. Earnshaw's favoritism towards Heathcliff leads to:",
+    "options": [
+      "A. harmony within the family.",
+      "B. resentment and division.",
+      "C. the expansion of the estate.",
+      "D. his early death."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Catherine's marriage to Edgar is ultimately ruined by her:",
+    "options": [
+      "A. inability to forget Heathcliff.",
+      "B. dislike of the Thrushcross Grange.",
+      "C. constant arguments with Nelly Dean.",
+      "D. illness and frequent pregnancies."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 297,
+    "question": "The novel's conclusion suggests that the ghosts of Catherine and Heathcliff are:",
+    "options": [
+      "A. finally at peace and reunited.",
+      "B. haunting the new inhabitants.",
+      "C. seeking revenge on the Lintons.",
+      "D. forgotten by the community."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "The structure of the novel, with its double narration, creates a sense of:",
+    "options": [
+      "A. complete objectivity and truth.",
+      "B. distance and ambiguity.",
+      "C. rapid and chaotic action.",
+      "D. linear and straightforward storytelling."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 299,
+    "question": "Hareton's initial hostility towards the younger Cathy is primarily due to his:",
+    "options": [
+      "A. loyalty to Heathcliff.",
+      "B. fear of the Linton family.",
+      "C. embarrassment about his lack of education.",
+      "D. jealousy of her wealth."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 300,
+    "question": "The overall tone of the novel is best described as:",
+    "options": [
+      "A. lighthearted and humorous.",
+      "B. dark and tragic.",
+      "C. optimistic and uplifting.",
+      "D. detached and clinical."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 301,
+    "question": "Heathcliff's social status upon his arrival at Wuthering Heights is best described as a:",
+    "options": [
+      "A. wealthy heir from a neighboring estate.",
+      "B. destitute and nameless foundling.",
+      "C. distant relative of the Earnshaw family.",
+      "D. servant boy hired by Mr. Earnshaw."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 302,
+    "question": "The primary reason Catherine gives for agreeing to marry Edgar Linton is that he is:",
+    "options": [
+      "A. handsome, young, and cheerful.",
+      "B. rich, respectable, and well-connected.",
+      "C. kind, gentle, and deeply in love.",
+      "D. strong, athletic, and protective."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 303,
+    "question": "The contrast between the two main estates in the novel is used to highlight the difference between:",
+    "options": [
+      "A. wealth and poverty.",
+      "B. age and youth.",
+      "C. storm and calm.",
+      "D. city and country."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 304,
+    "question": "The character of Hindley Earnshaw serves primarily as a:",
+    "options": [
+      "A. sympathetic victim of Heathcliff's revenge.",
+      "B. foil to the gentle nature of Edgar Linton.",
+      "C. catalyst for Heathcliff's brutal treatment.",
+      "D. voice of reason within the Earnshaw family."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 305,
+    "question": "Mr. Lockwood's narrative perspective is significant because he is essentially an:",
+    "options": [
+      "A. active participant in the central romance.",
+      "B. omniscient observer of all events.",
+      "C. unreliable narrator with a hidden agenda.",
+      "D. outsider encountering the story as a stranger."
+    ],
+    "answer": "D",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 306,
+    "question": "The death of Frances Earnshaw shortly after giving birth is significant because it drives Hindley to:",
+    "options": [
+      "A. become a strict and loving father.",
+      "B. seek revenge against the Linton family.",
+      "C. abandon his son Hareton entirely.",
+      "D. descend into alcoholism and gambling."
+    ],
+    "answer": "D",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 307,
+    "question": "The most significant consequence of Heathcliff's eavesdropping on Catherine's conversation with Nelly is that he:",
+    "options": [
+      "A. learns of Edgar's plan to propose marriage.",
+      "B. overhears Catherine say it would degrade her to marry him.",
+      "C. decides to leave Wuthering Heights permanently.",
+      "D. realizes that Nelly is his biological mother."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 308,
+    "question": "The younger Cathy's marriage to Linton Heathcliff is primarily orchestrated by:",
+    "options": [
+      "A. Edgar Linton, to unite the two families.",
+      "B. Nelly Dean, to protect Cathy's inheritance.",
+      "C. Heathcliff, to secure control of Thrushcross Grange.",
+      "D. Linton himself, out of genuine romantic love."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 309,
+    "question": "The relationship between the younger Cathy and Hareton is primarily characterized by their:",
+    "options": [
+      "A. mutual disdain for each other's social class.",
+      "B. constant competition for Heathcliff's approval.",
+      "C. shared interest in reading and education.",
+      "D. gradual growth of respect and affection."
+    ],
+    "answer": "D",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 310,
+    "question": "The supernatural element of Catherine's ghost appears to Mr. Lockwood during his stay at:",
+    "options": [
+      "A. Wuthering Heights, in the oak-panelled bed.",
+      "B. Thrushcross Grange, in the master bedroom.",
+      "C. Gimmerton Kirk, during a midnight walk.",
+      "D. Penistone Crag, while hunting on the moors."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 311,
+    "question": "The theme of social class in the novel is most clearly illustrated by Catherine's decision to:",
+    "options": [
+      "A. marry Edgar instead of Heathcliff.",
+      "B. leave Wuthering Heights for London.",
+      "C. become a servant at Thrushcross Grange.",
+      "D. adopt the orphan Heathcliff."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 312,
+    "question": "Heathcliff's naming of his son as Linton is primarily intended to:",
+    "options": [
+      "A. honor the memory of his own father.",
+      "B. ensure a claim to the Linton inheritance.",
+      "C. provoke Edgar Linton into a confrontation.",
+      "D. appease Isabella's family."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 313,
+    "question": "The role of Nelly Dean as a narrator is significant because her account is:",
+    "options": [
+      "A. completely objective and factually accurate.",
+      "B. shaped by her own involvement and judgments.",
+      "C. limited to the second generation of characters.",
+      "D. based entirely on hearsay and rumors."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 314,
+    "question": "The primary reason Edgar Linton disinherits his daughter Cathy in his will is to:",
+    "options": [
+      "A. punish her for marrying Linton Heathcliff.",
+      "B. ensure the estate passes to his nephew Hareton.",
+      "C. prevent Heathcliff from gaining his wealth.",
+      "D. reward Nelly Dean for her loyal service."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 315,
+    "question": "The character of Isabella Linton serves primarily to illustrate the:",
+    "options": [
+      "A. gentleness of the Linton family.",
+      "B. cruelty of Heathcliff's nature.",
+      "C. dangers of marrying for love.",
+      "D. loyalty of the Earnshaw siblings."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 316,
+    "question": "Heathcliff's treatment of his son Linton is characterized by his:",
+    "options": [
+      "A. genuine affection and tenderness.",
+      "B. indifference and manipulative exploitation.",
+      "C. fear of his son's physical weakness.",
+      "D. desire to educate him in literature."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 317,
+    "question": "The overall structure of the novel, which features a story within a story, is known as a:",
+    "options": [
+      "A. linear narrative.",
+      "B. stream of consciousness.",
+      "C. frame narrative.",
+      "D. epistolary format."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 318,
+    "question": "The primary reason Heathcliff digs up Catherine's grave is his inability to:",
+    "options": [
+      "A. accept her death and final separation.",
+      "B. find the necklace she was buried with.",
+      "C. forgive her for marrying Edgar Linton.",
+      "D. prevent Edgar from being buried beside her."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 319,
+    "question": "The character of Joseph in the novel is primarily characterized by his:",
+    "options": [
+      "A. sincere and humble religious devotion.",
+      "B. loyalty and dedication to the Earnshaw family.",
+      "C. harsh and hypocritical religious fanaticism.",
+      "D. kindness toward the younger generation."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 320,
+    "question": "The significance of Hareton Earnshaw's character in the novel is that he represents:",
+    "options": [
+      "A. the continuation of Heathcliff's revenge.",
+      "B. the potential for redemption and renewal.",
+      "C. the corruption of the upper class.",
+      "D. the triumph of sheer physical strength."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 321,
+    "question": "Heathcliff's acquisition of Wuthering Heights is primarily achieved through Hindley's:",
+    "options": [
+      "A. sudden death from a heart attack.",
+      "B. decision to sell the estate outright.",
+      "C. gambling debts and mortgaging the property.",
+      "D. loss of the property in a legal dispute."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 322,
+    "question": "The contrast between the first and second halves of the novel is most clearly seen in the:",
+    "options": [
+      "A. shift from the moors to the city.",
+      "B. change from tragedy to a hopeful resolution.",
+      "C. introduction of a completely new narrator.",
+      "D. replacement of all the original characters."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 323,
+    "question": "The character of Catherine Earnshaw is best described as:",
+    "options": [
+      "A. gentle, submissive, and easily controlled.",
+      "B. wild, passionate, and self-destructive.",
+      "C. cold, calculating, and purely ambitious.",
+      "D. simple, content, and uncomplicated."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 324,
+    "question": "The theme of education in the novel is primarily explored through the contrast between:",
+    "options": [
+      "A. Edgar Linton and Heathcliff.",
+      "B. Catherine Earnshaw and Isabella Linton.",
+      "C. Hareton Earnshaw and Linton Heathcliff.",
+      "D. Mr. Lockwood and Nelly Dean."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 325,
+    "question": "The character of Mr. Earnshaw's decision to bring Heathcliff home is primarily driven by his:",
+    "options": [
+      "A. desire for a servant boy.",
+      "B. wish to expand his business.",
+      "C. pity for the orphaned child.",
+      "D. need to replace his deceased son."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 326,
+    "question": "The eventual marriage of Cathy and Hareton is significant because it:",
+    "options": [
+      "A. resolves the conflict between the two families.",
+      "B. restores the Linton's social status.",
+      "C. fulfills Heathcliff's plan for revenge.",
+      "D. represents the loss of traditional values."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 327,
+    "question": "The physical setting of Wuthering Heights is described as being:",
+    "options": [
+      "A. warm, inviting, and sheltered.",
+      "B. elegant, refined, and ornate.",
+      "C. exposed, harsh, and storm-battered.",
+      "D. lush, green, and fertile."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 328,
+    "question": "The primary reason Catherine experiences a mental breakdown after Heathcliff's return is her:",
+    "options": [
+      "A. guilt over her marriage to Edgar Linton.",
+      "B. fear of losing her social status.",
+      "C. desire to leave Thrushcross Grange.",
+      "D. internal conflict between love and duty."
+    ],
+    "answer": "D",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 329,
+    "question": "The death of Linton Heathcliff occurs shortly after his:",
+    "options": [
+      "A. marriage to Catherine Earnshaw.",
+      "B. marriage to the younger Cathy.",
+      "C. journey to London with Isabella.",
+      "D. escape from Wuthering Heights."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 330,
+    "question": "The role of the natural landscape, specifically the moors, in the novel is to:",
+    "options": [
+      "A. provide a contrast to the elegant estates.",
+      "B. symbolize the wild passion of the characters.",
+      "C. serve as a barrier between the two houses.",
+      "D. reflect the gentle nature of the Lintons."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 331,
+    "question": "Heathcliff's final state of mind before his death is characterized by his:",
+    "options": [
+      "A. satisfaction with his successful revenge.",
+      "B. regret for his treatment of Isabella.",
+      "C. longing to be reunited with Catherine.",
+      "D. fear of dying alone at Wuthering Heights."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 332,
+    "question": "The significance of Heathcliff's change in appearance upon his return is that it:",
+    "options": [
+      "A. shows he is now a respectable gentleman.",
+      "B. proves he has found a new family.",
+      "C. suggests he has renounced his love for Catherine.",
+      "D. reveals his new life as a wealthy man."
+    ],
+    "answer": "D",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 333,
+    "question": "The role of Mr. Lockwood in the novel is primarily to:",
+    "options": [
+      "A. provide an outsider's perspective on the events.",
+      "B. act as a mediator between the feuding families.",
+      "C. serve as a romantic interest for the younger Cathy.",
+      "D. reveal the true identity of Heathcliff's father."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 334,
+    "question": "The theme of inheritance in the novel is most clearly illustrated through the:",
+    "options": [
+      "A. passing of the Earnshaw estate to Hareton.",
+      "B. marriage of Cathy to Linton Heathcliff.",
+      "C. adoption of Heathcliff by Mr. Earnshaw.",
+      "D. loss of the Linton fortune to Heathcliff."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 335,
+    "question": "The primary difference between the love of Catherine and Heathcliff and the love of Cathy and Hareton is that the latter is:",
+    "options": [
+      "A. more turbulent and destructive.",
+      "B. based on mutual respect and growth.",
+      "C. entirely devoid of passion.",
+      "D. a repetition of the first generation's mistakes."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 336,
+    "question": "The character of Edgar Linton is often contrasted with Heathcliff because Edgar is:",
+    "options": [
+      "A. cruel, violent, and unpredictable.",
+      "B. selfish, greedy, and ambitious.",
+      "C. gentle, refined, and somewhat passive.",
+      "D. adventurous, wild, and rebellious."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 337,
+    "question": "The primary reason Catherine marries Edgar instead of Heathcliff is her belief that:",
+    "options": [
+      "A. Heathcliff does not truly love her.",
+      "B. it would degrade her to marry Heathcliff.",
+      "C. Edgar is more physically attractive.",
+      "D. Heathcliff is planning to leave the country."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 338,
+    "question": "The significance of the second-generation characters is that they:",
+    "options": [
+      "A. repeat the exact mistakes of their parents.",
+      "B. offer a chance to break the cycle of revenge.",
+      "C. are entirely unaffected by the past.",
+      "D. become even more violent than their parents."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 339,
+    "question": "The role of Joseph's dialect in the novel primarily serves to:",
+    "options": [
+      "A. make him appear more intelligent.",
+      "B. emphasize his lower social status.",
+      "C. highlight his religious devotion.",
+      "D. confuse the other characters."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 340,
+    "question": "The primary reason Heathcliff is so cruel to Hareton is to:",
+    "options": [
+      "A. seek revenge against Hindley.",
+      "B. educate him in harsh realities.",
+      "C. protect him from the Lintons.",
+      "D. force him to leave the estate."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 341,
+    "question": "The significance of Cathy's initial encounter with Linton Heathcliff is that it:",
+    "options": [
+      "A. reveals the true nature of the Linton family.",
+      "B. initiates Heathcliff's plan for revenge.",
+      "C. leads to the immediate resolution of the feud.",
+      "D. causes Edgar to disown his daughter."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 342,
+    "question": "The role of the housekeeper Nelly Dean in the narrative is primarily that of a:",
+    "options": [
+      "A. passive observer with no opinions.",
+      "B. key participant and moral commentator.",
+      "C. purely objective historian.",
+      "D. minor character with little influence."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 343,
+    "question": "The theme of isolation in the novel is most clearly reflected in the:",
+    "options": [
+      "A. physical remoteness of the two estates.",
+      "B. large number of servants at the Grange.",
+      "C. close proximity to the nearby village.",
+      "D. frequent parties held at Thrushcross Grange."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 344,
+    "question": "The primary reason Heathcliff becomes obsessed with the younger Cathy is that she:",
+    "options": [
+      "A. shares her mother's name and features.",
+      "B. is the sole heir to the Linton fortune.",
+      "C. is kind and gentle like her father.",
+      "D. resembles Isabella in her youth."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 345,
+    "question": "The final impression of Heathcliff and Catherine's relationship is that it is:",
+    "options": [
+      "A. a purely romantic and idealized love.",
+      "B. a tragic but ultimately destructive obsession.",
+      "C. a purely physical and shallow attraction.",
+      "D. a healthy and mutually beneficial partnership."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 346,
+    "question": "The role of religion in the novel is most clearly criticized through the character of:",
+    "options": [
+      "A. Nelly Dean and her practical morality.",
+      "B. Joseph and his hypocritical fanaticism.",
+      "C. Edgar Linton and his quiet faith.",
+      "D. Catherine Earnshaw and her spiritual beliefs."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 347,
+    "question": "The significance of the two estates, Wuthering Heights and Thrushcross Grange, is that they represent:",
+    "options": [
+      "A. the conflict between the old and new generations.",
+      "B. the difference between wealth and poverty.",
+      "C. the opposing forces of nature and civilization.",
+      "D. the division between two religious beliefs."
+    ],
+    "answer": "C",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 348,
+    "question": "The primary reason Hindley treats Heathcliff so cruelly after Mr. Earnshaw's death is his:",
+    "options": [
+      "A. fear of losing his inheritance.",
+      "B. resentment of Heathcliff's favored status.",
+      "C. desire to protect his sister Catherine.",
+      "D. belief that Heathcliff is a thief."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 349,
+    "question": "The final chapter of the novel suggests that the ghosts of Catherine and Heathcliff are:",
+    "options": [
+      "A. finally at peace and reunited.",
+      "B. haunting the new inhabitants of the estate.",
+      "C. seeking revenge on the Linton family.",
+      "D. forgotten by the local community."
+    ],
+    "answer": "A",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 350,
+    "question": "The overall tone of the novel is best described as:",
+    "options": [
+      "A. lighthearted and humorous.",
+      "B. dark and tragic.",
+      "C. optimistic and uplifting.",
+      "D. detached and clinical."
+    ],
+    "answer": "B",
+    "topic": "Non-African Prose - Wuthering Heights",
+    "difficulty": "Easy"
+  }
+]
