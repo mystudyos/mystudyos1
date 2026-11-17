@@ -7,7 +7,7 @@
       "B. Identifying, measuring and communicating economic information",
       "C. Preparation of tax returns for government agencies",
       "D. Auditing of financial statements by external experts"
-    ],
+    ], 
     "answer": "B",
     "topic": "Nature and Significance of Accounting",
     "difficulty": "Easy"
@@ -6367,6 +6367,2606 @@
     ],
     "answer": "B",
     "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 491,
+    "question": "The cost of extending a factory building to increase production capacity is classified as...",
+    "options": [
+      "A. capital expenditure added to asset cost",
+      "B. revenue expenditure in the P&L",
+      "C. deferred revenue expenditure in books",
+      "D. an operating expense of the business"
+    ],
+    "answer": "A",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 492,
+    "question": "A major repair that restores an asset to its original working condition is classified as...",
+    "options": [
+      "A. capital expenditure on the asset",
+      "B. revenue expenditure in the period",
+      "C. deferred capital expenditure only",
+      "D. an addition to the asset's cost"
+    ],
+    "answer": "B",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 493,
+    "question": "Which of the following would be treated as capital expenditure?",
+    "options": [
+      "A. Payment for office cleaning services",
+      "B. Purchase of a delivery van for use",
+      "C. Purchase of stationery for the office",
+      "D. Payment for vehicle servicing costs"
+    ],
+    "answer": "B",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 494,
+    "question": "An improvement that extends the useful life of an existing asset is treated as...",
+    "options": [
+      "A. revenue expenditure in the period",
+      "B. an operating expense in the P&L",
+      "C. a deduction from accumulated depreciation",
+      "D. capital expenditure added to the asset"
+    ],
+    "answer": "D",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is a revenue receipt of a business?",
+    "options": [
+      "A. Rent received from letting part of office",
+      "B. Proceeds from sale of old factory machine",
+      "C. Additional capital introduced by owner",
+      "D. Long-term loan received from a bank"
+    ],
+    "answer": "A",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 496,
+    "question": "The purchase of a second-hand vehicle and its overhauling cost before use is treated as...",
+    "options": [
+      "A. revenue expenditure in the period",
+      "B. part of capital expenditure on vehicle",
+      "C. an operating expense in the P&L",
+      "D. deferred revenue expenditure only"
+    ],
+    "answer": "B",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 497,
+    "question": "Carriage paid on the purchase of new machinery is treated as...",
+    "options": [
+      "A. revenue expenditure in the period",
+      "B. a general operating expense in P&L",
+      "C. part of the machinery capital cost",
+      "D. a deduction from machinery value"
+    ],
+    "answer": "C",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 498,
+    "question": "Which of the following best describes capital receipts?",
+    "options": [
+      "A. Receipts from ordinary trading activities",
+      "B. Receipts from sale of goods for resale",
+      "C. Receipts from services rendered to clients",
+      "D. Receipts from non-trading sources"
+    ],
+    "answer": "D",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 499,
+    "question": "A loan obtained from a bank for the purchase of an asset is treated as a...",
+    "options": [
+      "A. capital receipt credited to the loan account",
+      "B. revenue receipt credited to P&L account",
+      "C. revenue expenditure in the P&L account",
+      "D. capital expenditure in the asset account"
+    ],
+    "answer": "A",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 500,
+    "question": "A legal cost incurred to defend the title of a newly acquired land is classified as...",
+    "options": [
+      "A. revenue expenditure in the period",
+      "B. an operating expense in the P&L",
+      "C. part of the capital cost of land",
+      "D. deferred revenue expenditure only"
+    ],
+    "answer": "C",
+    "topic": "Capital and Revenue Expenditure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 501,
+    "question": "If net profit is ₦90,000 and sales are ₦600,000, the net profit ratio is...",
+    "options": [
+      "A. 10% as the net profit ratio",
+      "B. 15% as the net profit ratio",
+      "C. 20% as the net profit ratio",
+      "D. 25% as the net profit ratio"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 502,
+    "question": "The return on capital employed ratio is calculated as...",
+    "options": [
+      "A. net profit divided by capital employed times 100",
+      "B. gross profit divided by capital employed times 100",
+      "C. net profit divided by total assets times 100",
+      "D. gross profit divided by total sales times 100"
+    ],
+    "answer": "A",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 503,
+    "question": "If closing stock is ₦80,000 and cost of sales is ₦320,000, the stock turnover ratio is...",
+    "options": [
+      "A. 2 times as the stock turnover ratio",
+      "B. 4 times as the stock turnover ratio",
+      "C. 6 times as the stock turnover ratio",
+      "D. 8 times as the stock turnover ratio"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 504,
+    "question": "A stock turnover ratio of 6 times means that the business...",
+    "options": [
+      "A. holds stock for six months average",
+      "B. replenishes stock six times yearly",
+      "C. keeps stock worth six times sales",
+      "D. holds stock six times capital value"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 505,
+    "question": "A low acid test ratio compared to industry norms may indicate that the...",
+    "options": [
+      "A. firm holds excess stock for sale",
+      "B. firm is highly profitable in the year",
+      "C. firm may have short-term liquidity issues",
+      "D. firm has more current assets than liabilities"
+    ],
+    "answer": "C",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 506,
+    "question": "If current assets are ₦500,000, inventory ₦200,000, and current liabilities ₦200,000, the acid test ratio is...",
+    "options": [
+      "A. 1.5:1 as the acid test ratio",
+      "B. 2.5:1 as the acid test ratio",
+      "C. 2.0:1 as the acid test ratio",
+      "D. 1.0:1 as the acid test ratio"
+    ],
+    "answer": "A",
+    "topic": "Accounting Ratios",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 507,
+    "question": "The gross profit margin differs from the mark-up in that the margin is based on...",
+    "options": [
+      "A. the cost of goods sold figure",
+      "B. the selling price of the goods",
+      "C. the purchases made in the year",
+      "D. the opening stock held by the firm"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 508,
+    "question": "If the mark-up on cost is 25%, then the gross profit margin is...",
+    "options": [
+      "A. 20% of the selling price of goods",
+      "B. 25% of the selling price of goods",
+      "C. 30% of the selling price of goods",
+      "D. 15% of the selling price of goods"
+    ],
+    "answer": "A",
+    "topic": "Accounting Ratios",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 509,
+    "question": "The capital gearing ratio measures the relationship between...",
+    "options": [
+      "A. total assets and current liabilities",
+      "B. current assets and stock value",
+      "C. fixed interest capital and equity capital",
+      "D. gross profit and net profit earned"
+    ],
+    "answer": "C",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 510,
+    "question": "The dividend cover ratio measures the number of times...",
+    "options": [
+      "A. profit covers the preference dividend only",
+      "B. total dividends are paid from profit",
+      "C. dividends have been paid by the firm",
+      "D. profit available covers the dividends paid"
+    ],
+    "answer": "D",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 511,
+    "question": "The price-earnings ratio of a company's share is calculated as...",
+    "options": [
+      "A. market price divided by earnings per share",
+      "B. earnings per share divided by market price",
+      "C. dividend paid divided by market price",
+      "D. market price divided by total earnings"
+    ],
+    "answer": "A",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 512,
+    "question": "Debtors collection period is expressed in terms of...",
+    "options": [
+      "A. number of times debtors turned over",
+      "B. number of days debtors take to pay",
+      "C. percentage of sales from debtors",
+      "D. total value of debts collected"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 513,
+    "question": "An increase in the creditors payment period from one year to the next indicates that the business...",
+    "options": [
+      "A. collects its debts more slowly now",
+      "B. pays its suppliers more slowly now",
+      "C. sells inventory more slowly now",
+      "D. earns more profit on each sale"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 514,
+    "question": "The ratio that measures how efficiently a firm uses its assets to generate sales is the...",
+    "options": [
+      "A. net profit margin ratio of the firm",
+      "B. total assets turnover ratio",
+      "C. acid test ratio of the firm",
+      "D. return on capital employed"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 515,
+    "question": "If sales are ₦1,000,000 and total assets are ₦500,000, the total assets turnover is...",
+    "options": [
+      "A. 0.5 times as the assets turnover",
+      "B. 2.0 times as the assets turnover",
+      "C. 2.5 times as the assets turnover",
+      "D. 3.0 times as the assets turnover"
+    ],
+    "answer": "B",
+    "topic": "Accounting Ratios",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 516,
+    "question": "In incomplete records, total credit sales can be determined by preparing the...",
+    "options": [
+      "A. total debtors control account balance",
+      "B. total creditors control account balance",
+      "C. trading account for the financial year",
+      "D. bank reconciliation statement for year"
+    ],
+    "answer": "A",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 517,
+    "question": "The main source of information in single entry accounting is the...",
+    "options": [
+      "A. trial balance and general ledger only",
+      "B. sales day book and purchases day book",
+      "C. cash book and supporting documents",
+      "D. financial statements prepared annually"
+    ],
+    "answer": "C",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 518,
+    "question": "If opening capital is ₦250,000, drawings ₦50,000 and closing capital ₦280,000, the profit for the year is...",
+    "options": [
+      "A. ₦30,000 as the profit for the year",
+      "B. ₦50,000 as the profit for the year",
+      "C. ₦80,000 as the profit for the year",
+      "D. ₦120,000 as the profit for the year"
+    ],
+    "answer": "C",
+    "topic": "Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 519,
+    "question": "A statement of affairs prepared at the end of the period shows...",
+    "options": [
+      "A. the total cash received during the period",
+      "B. the total sales made during the period",
+      "C. the assets and liabilities of the business",
+      "D. the profit earned during the period"
+    ],
+    "answer": "C",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 520,
+    "question": "In incomplete records, the amount of cash stolen or missing can be determined by preparing a...",
+    "options": [
+      "A. trading account and profit and loss",
+      "B. bank reconciliation statement account",
+      "C. sales ledger control account only",
+      "D. cash account and comparing balances"
+    ],
+    "answer": "D",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 521,
+    "question": "If total debtors at the start were ₦80,000, cash received from debtors ₦220,000 and credit sales ₦250,000, the closing debtors are...",
+    "options": [
+      "A. ₦90,000 as the closing debtors balance",
+      "B. ₦110,000 as the closing debtors balance",
+      "C. ₦130,000 as the closing debtors balance",
+      "D. ₦150,000 as the closing debtors balance"
+    ],
+    "answer": "B",
+    "topic": "Incomplete Records",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 522,
+    "question": "In incomplete records, the cost of goods sold can be found by adjusting the...",
+    "options": [
+      "A. opening stock, purchases and closing stock",
+      "B. total sales and the net profit earned",
+      "C. capital account and drawings account",
+      "D. bank account and cash book totals"
+    ],
+    "answer": "A",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 523,
+    "question": "A business with incomplete records may calculate the value of its purchases using the...",
+    "options": [
+      "A. total debtors and total creditors values",
+      "B. creditors control account prepared",
+      "C. total sales made and gross profit rate",
+      "D. cash and bank payments plus closing creditors"
+    ],
+    "answer": "B",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 524,
+    "question": "Which of the following is a limitation of incomplete records?",
+    "options": [
+      "A. It makes financial statements unreliable",
+      "B. It is more accurate than double entry",
+      "C. It is preferred by auditors for firms",
+      "D. It reduces the workload of accountant"
+    ],
+    "answer": "A",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 525,
+    "question": "The excess of assets over liabilities in the statement of affairs represents the...",
+    "options": [
+      "A. net profit for the period covered",
+      "B. total capital owned by the business",
+      "C. total liabilities owed to outsiders",
+      "D. value of fixed assets held by firm"
+    ],
+    "answer": "B",
+    "topic": "Incomplete Records",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 526,
+    "question": "An adjusted cash book balance is prepared before the bank reconciliation statement mainly to...",
+    "options": [
+      "A. record items appearing in the cash book only",
+      "B. correct items that do not appear in cash book",
+      "C. reconcile the bank statement with its records",
+      "D. prepare the bank statement for the customer"
+    ],
+    "answer": "B",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 527,
+    "question": "If the cash book shows a debit balance of ₦50,000 and the bank statement shows a credit balance of ₦48,000, the difference could be due to...",
+    "options": [
+      "A. interest allowed by the bank not in cash book",
+      "B. bank charges not yet recorded in cash book",
+      "C. unpresented cheques still with suppliers",
+      "D. uncredited cheques paid by customers"
+    ],
+    "answer": "B",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 528,
+    "question": "Which of the following will require an entry in the adjusted cash book?",
+    "options": [
+      "A. Unpresented cheques issued to suppliers",
+      "B. Uncredited cheques received by the firm",
+      "C. Standing orders paid by the bank only",
+      "D. Errors made by the bank in the account"
+    ],
+    "answer": "C",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 529,
+    "question": "A bank reconciliation statement is prepared when the cash book and bank statement balances...",
+    "options": [
+      "A. are equal in amount at the year end",
+      "B. differ due to certain timing differences",
+      "C. are both zero at the period start",
+      "D. show debit and debit side entries"
+    ],
+    "answer": "B",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 530,
+    "question": "An overdraft balance in the cash book means the bank column shows a...",
+    "options": [
+      "A. credit balance in the cash book",
+      "B. debit balance in the cash book",
+      "C. zero balance in the cash book",
+      "D. nil balance in the cash book"
+    ],
+    "answer": "A",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 531,
+    "question": "A direct credit by the bank not recorded in the cash book should be adjusted by...",
+    "options": [
+      "A. deducting from the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. adding to the cash book balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "C",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 532,
+    "question": "A standing order paid by the bank not recorded in the cash book is adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. deducting from the bank statement balance",
+      "D. deducting from the cash book balance"
+    ],
+    "answer": "D",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 533,
+    "question": "If the cash book has a credit balance, in a bank reconciliation statement the starting point is...",
+    "options": [
+      "A. an overdraft balance in the cash book",
+      "B. a favourable balance in the cash book",
+      "C. a credit balance in the bank statement",
+      "D. a debit balance in the bank statement"
+    ],
+    "answer": "A",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 534,
+    "question": "A cheque issued by the business and entered in the cash book but not yet presented for payment is called...",
+    "options": [
+      "A. an uncredited cheque issued by the firm",
+      "B. an unpresented cheque issued by firm",
+      "C. a dishonoured cheque returned by bank",
+      "D. a cancelled cheque rejected by the bank"
+    ],
+    "answer": "B",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 535,
+    "question": "When adjusting the cash book for items not recorded, the balance of the adjusted cash book is used in the...",
+    "options": [
+      "A. bank reconciliation statement as start",
+      "B. trial balance as a debit balance",
+      "C. balance sheet as a fixed asset",
+      "D. trading account as a closing entry"
+    ],
+    "answer": "A",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 536,
+    "question": "Bank charges not yet recorded in the cash book are adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. deducting from cash book balance",
+      "C. adding to the bank statement balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "B",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 537,
+    "question": "Interest allowed by the bank on a current account is adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. deducting from the cash book balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "A",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 538,
+    "question": "Dishonoured cheques returned by the bank are adjusted in the cash book as...",
+    "options": [
+      "A. additions to the cash book balance",
+      "B. additions to the bank statement balance",
+      "C. deductions from the cash book balance",
+      "D. deductions from the bank statement"
+    ],
+    "answer": "C",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 539,
+    "question": "The adjusted cash book is also called the...",
+    "options": [
+      "A. bank reconciliation statement account",
+      "B. petty cash book account of the firm",
+      "C. corrected or amended cash book",
+      "D. original cash book of the business"
+    ],
+    "answer": "C",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 540,
+    "question": "If the cash book shows a debit balance of ₦100,000 and unpresented cheques amount to ₦15,000, the bank statement balance would be...",
+    "options": [
+      "A. ₦115,000 as the bank statement balance",
+      "B. ₦85,000 as the bank statement balance",
+      "C. ₦100,000 as the bank statement balance",
+      "D. ₦15,000 as the bank statement balance"
+    ],
+    "answer": "A",
+    "topic": "Advanced Bank Reconciliation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 541,
+    "question": "Which accounting concept records only transactions capable of monetary expression?",
+    "options": [
+      "A. All events affecting the business are recorded in the books",
+      "B. Only credit transactions are recorded in the books",
+      "C. Only cash transactions are recorded in the books",
+      "D. Only transactions measurable in money are recorded"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 542,
+    "question": "The periodicity concept requires that the life of a business be...",
+    "options": [
+      "A. divided into equal time intervals for reporting",
+      "B. recorded at the original cost of acquisition",
+      "C. treated as separate from its owners entirely",
+      "D. recognized when cash is received from customers"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 543,
+    "question": "The objectivity concept requires that accounting entries be...",
+    "options": [
+      "A. recorded at the current market value of items",
+      "B. matched against revenue of the same period",
+      "C. supported by verifiable documentary evidence",
+      "D. prepared at regular intervals during the year"
+    ],
+    "answer": "C",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 544,
+    "question": "The full disclosure concept requires that financial statements...",
+    "options": [
+      "A. show only the profitable transactions of the year",
+      "B. disclose all material information to the users",
+      "C. present only cash transactions to the owners",
+      "D. exclude information considered confidential"
+    ],
+    "answer": "B",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 545,
+    "question": "The accrual concept requires that revenue and expenses be recognized...",
+    "options": [
+      "A. only when cash is actually received or paid",
+      "B. at the original cost of the items involved",
+      "C. when the financial year comes to an end",
+      "D. as they are earned or incurred respectively"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 546,
+    "question": "Under the substance over form concept, transactions are recorded according to their...",
+    "options": [
+      "A. economic reality rather than legal form",
+      "B. legal form rather than economic reality",
+      "C. market value rather than original cost",
+      "D. cash value rather than credit value"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 547,
+    "question": "The accounting function that involves sorting transactions into groups such as assets and expenses is...",
+    "options": [
+      "A. recording of transactions in the books",
+      "B. classifying of transactions into groups",
+      "C. summarizing of transactions for reports",
+      "D. interpreting of financial information"
+    ],
+    "answer": "B",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 548,
+    "question": "The accounting function concerned with presenting financial statements to users is...",
+    "options": [
+      "A. recording of transactions in the ledger",
+      "B. classifying of transactions into groups",
+      "C. interpreting of financial information",
+      "D. communicating of accounting information"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 549,
+    "question": "Employees as users of accounting information are mainly interested in...",
+    "options": [
+      "A. the wage levels and job security of the firm",
+      "B. the market value of the company's shares",
+      "C. the tax liability assessed on the company",
+      "D. the dividend paid to the shareholders"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 550,
+    "question": "The government uses accounting information mainly to...",
+    "options": [
+      "A. determine the dividend policy of the firm",
+      "B. evaluate the competence of managers",
+      "C. assess taxes and regulate business activities",
+      "D. decide the products to be manufactured"
+    ],
+    "answer": "C",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 551,
+    "question": "Customers are interested in the accounting information of a firm in order to assess...",
+    "options": [
+      "A. the amount of tax paid by the company",
+      "B. the salaries earned by the employees",
+      "C. the dividend paid to the shareholders",
+      "D. the ability of the firm to keep supplying"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 552,
+    "question": "Auditing is best described as the...",
+    "options": [
+      "A. preparation of financial statements by staff",
+      "B. independent examination of accounting records",
+      "C. recording of transactions in the ledger",
+      "D. classification of accounts in the ledger"
+    ],
+    "answer": "B",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 553,
+    "question": "The branch of accounting concerned with computing tax liabilities is...",
+    "options": [
+      "A. taxation",
+      "B. auditing",
+      "C. cost accounting",
+      "D. financial accounting"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 554,
+    "question": "The professional body known as ANAN is the...",
+    "options": [
+      "A. Association of Nigerian Auditors and Accountants",
+      "B. Institute of National Accountants of Nigeria",
+      "C. Association of National Accountants of Nigeria",
+      "D. Association of National Auditors of Nigeria"
+    ],
+    "answer": "C",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 555,
+    "question": "The acronym IFRS stands for...",
+    "options": [
+      "A. Internal Financial Reporting System",
+      "B. International Federation of Reporting Standards",
+      "C. International Financial Records Standards",
+      "D. International Financial Reporting Standards"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 556,
+    "question": "Accounting standards are issued mainly to ensure...",
+    "options": [
+      "A. uniformity and comparability of statements",
+      "B. maximum profit for every business firm",
+      "C. uniform tax rates for all businesses",
+      "D. reduction of audit fees charged to firms"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 557,
+    "question": "The qualitative characteristic requiring information to be clearly presented is...",
+    "options": [
+      "A. relevance",
+      "B. reliability",
+      "C. understandability",
+      "D. comparability"
+    ],
+    "answer": "C",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 558,
+    "question": "The characteristic that enables users to compare statements of different periods is...",
+    "options": [
+      "A. timeliness",
+      "B. comparability",
+      "C. neutrality",
+      "D. materiality"
+    ],
+    "answer": "B",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 559,
+    "question": "Accounting information is said to be timely when it is...",
+    "options": [
+      "A. free from material error and bias",
+      "B. presented in a clear and concise manner",
+      "C. capable of affecting user decisions",
+      "D. available before it loses its relevance"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 560,
+    "question": "Accounting information is reliable when it is...",
+    "options": [
+      "A. free from material error and bias",
+      "B. available before it loses relevance",
+      "C. presented in a very detailed manner",
+      "D. comparable with other firms' data"
+    ],
+    "answer": "A",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 561,
+    "question": "One limitation of financial accounting is that it...",
+    "options": [
+      "A. records only credit transactions of the firm",
+      "B. provides information to many user groups",
+      "C. ignores the effect of inflation on accounts",
+      "D. follows standardized accounting principles"
+    ],
+    "answer": "C",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 562,
+    "question": "Window dressing in accounting refers to the...",
+    "options": [
+      "A. preparation of statements at the year end",
+      "B. manipulation of accounts to improve appearance",
+      "C. disclosure of all material information",
+      "D. valuation of stock at the year end date"
+    ],
+    "answer": "B",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 563,
+    "question": "Accounting is described as the language of business because it...",
+    "options": [
+      "A. is spoken by all business persons",
+      "B. records only profitable transactions",
+      "C. is taught in all business schools",
+      "D. communicates the results of business activities"
+    ],
+    "answer": "D",
+    "topic": "Nature and Significance of Accounting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 564,
+    "question": "If total assets are ₦800,000 and liabilities are ₦300,000, the capital is...",
+    "options": [
+      "A. ₦300,000",
+      "B. ₦500,000",
+      "C. ₦800,000",
+      "D. ₦1,100,000"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 565,
+    "question": "If capital is ₦250,000 and liabilities are ₦150,000, total assets are...",
+    "options": [
+      "A. ₦100,000",
+      "B. ₦150,000",
+      "C. ₦400,000",
+      "D. ₦250,000"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 566,
+    "question": "An increase in an expense account is recorded as a...",
+    "options": [
+      "A. credit entry in the account",
+      "B. debit entry in the account",
+      "C. contra entry in the ledger",
+      "D. balancing figure in the account"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 567,
+    "question": "An increase in an income account is recorded as a...",
+    "options": [
+      "A. debit entry in the account",
+      "B. contra entry in the ledger",
+      "C. balancing figure in the account",
+      "D. credit entry in the account"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 568,
+    "question": "An increase in the capital of a business is recorded as a...",
+    "options": [
+      "A. credit entry in the capital account",
+      "B. debit entry in the capital account",
+      "C. contra entry in the general ledger",
+      "D. balancing figure in the account"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 569,
+    "question": "A decrease in a liability account is recorded as a...",
+    "options": [
+      "A. credit entry in the account",
+      "B. contra entry in the ledger",
+      "C. debit entry in the account",
+      "D. balancing figure in the account"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 570,
+    "question": "A decrease in an asset account is recorded as a...",
+    "options": [
+      "A. debit entry in the account",
+      "B. credit entry in the account",
+      "C. contra entry in the ledger",
+      "D. balancing figure in the account"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 571,
+    "question": "Rent paid by cash is recorded by...",
+    "options": [
+      "A. debiting cash and crediting rent",
+      "B. debiting capital and crediting rent",
+      "C. debiting rent and crediting capital",
+      "D. debiting rent and crediting cash"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 572,
+    "question": "Cash received for services rendered is recorded by...",
+    "options": [
+      "A. debiting cash and crediting income",
+      "B. debiting income and crediting cash",
+      "C. debiting capital and crediting cash",
+      "D. debiting cash and crediting capital"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 573,
+    "question": "Additional capital introduced in cash is recorded by...",
+    "options": [
+      "A. debiting capital and crediting cash",
+      "B. debiting cash and crediting drawings",
+      "C. debiting cash and crediting capital",
+      "D. debiting drawings and crediting cash"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 574,
+    "question": "Equipment bought on credit is recorded by...",
+    "options": [
+      "A. debiting supplier and crediting equipment",
+      "B. debiting equipment and crediting supplier",
+      "C. debiting purchases and crediting supplier",
+      "D. debiting equipment and crediting cash"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 575,
+    "question": "Old equipment sold on credit at book value is recorded by...",
+    "options": [
+      "A. debiting the debtor and crediting equipment",
+      "B. debiting equipment and crediting the debtor",
+      "C. debiting the debtor and crediting sales",
+      "D. debiting sales and crediting the debtor"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 576,
+    "question": "The account of a debtor in the ledger is classified as a...",
+    "options": [
+      "A. real account",
+      "B. nominal account",
+      "C. valuation account",
+      "D. personal account"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 577,
+    "question": "The machinery account in the ledger is classified as a...",
+    "options": [
+      "A. personal account",
+      "B. nominal account",
+      "C. real account",
+      "D. valuation account"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 578,
+    "question": "The rent account in the ledger is classified as a...",
+    "options": [
+      "A. nominal account",
+      "B. real account",
+      "C. personal account",
+      "D. valuation account"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 579,
+    "question": "Goods returned by a customer are recorded by...",
+    "options": [
+      "A. debiting the debtor and crediting returns inwards",
+      "B. debiting returns inwards and crediting the debtor",
+      "C. debiting sales and crediting returns inwards",
+      "D. debiting returns inwards and crediting sales"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 580,
+    "question": "Goods returned to a supplier are recorded by...",
+    "options": [
+      "A. debiting returns outwards and crediting the supplier",
+      "B. debiting purchases and crediting returns outwards",
+      "C. debiting returns outwards and crediting purchases",
+      "D. debiting the supplier and crediting returns outwards"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 581,
+    "question": "An account has a debit balance when the...",
+    "options": [
+      "A. total debits exceed the total credits",
+      "B. total credits exceed the total debits",
+      "C. two sides of the account are equal",
+      "D. account has been closed for the period"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 582,
+    "question": "The accumulated depreciation account normally carries a...",
+    "options": [
+      "A. debit balance like the asset account",
+      "B. zero balance at every period end",
+      "C. credit balance treated as a contra asset",
+      "D. debit balance shown as an expense"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 583,
+    "question": "Payment of a creditor by cheque results in a...",
+    "options": [
+      "A. decrease in assets and decrease in capital",
+      "B. decrease in assets and decrease in liabilities",
+      "C. increase in assets and decrease in liabilities",
+      "D. increase in liabilities and decrease in capital"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 584,
+    "question": "Cash withdrawn by the owner for personal use results in a...",
+    "options": [
+      "A. increase in assets and decrease in capital",
+      "B. decrease in liabilities and decrease in capital",
+      "C. increase in liabilities and increase in capital",
+      "D. decrease in assets and decrease in capital"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 585,
+    "question": "When a debtor pays his account by cheque, the effect is that...",
+    "options": [
+      "A. total assets remain unchanged in value",
+      "B. total assets increase and capital increases",
+      "C. total assets decrease and liabilities decrease",
+      "D. total liabilities increase and assets increase"
+    ],
+    "answer": "A",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 586,
+    "question": "Discount received from a supplier is recorded by...",
+    "options": [
+      "A. debiting discount received and crediting supplier",
+      "B. debiting cash and crediting discount received",
+      "C. debiting the supplier and crediting discount received",
+      "D. debiting the supplier and crediting cash"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 587,
+    "question": "Discount allowed to a customer is recorded by...",
+    "options": [
+      "A. debiting the customer and crediting discount allowed",
+      "B. debiting discount allowed and crediting the customer",
+      "C. debiting cash and crediting discount allowed",
+      "D. debiting discount allowed and crediting cash"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 588,
+    "question": "Which transaction increases one asset and decreases another asset?",
+    "options": [
+      "A. purchase of goods on credit from a supplier",
+      "B. cash received from a debtor of the firm",
+      "C. payment of a creditor by cheque to him",
+      "D. introduction of additional capital in cash"
+    ],
+    "answer": "B",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 589,
+    "question": "Balances on real accounts are carried forward because they represent...",
+    "options": [
+      "A. income earned in the current period",
+      "B. expenses incurred in the current period",
+      "C. amounts owed by the business to others",
+      "D. assets with continuing value to the firm"
+    ],
+    "answer": "D",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 590,
+    "question": "When goods are bought on credit, the supplier's account is...",
+    "options": [
+      "A. debited with the cost of the goods",
+      "B. debited and later credited in full",
+      "C. credited with the cost of the goods",
+      "D. closed off at the end of the period"
+    ],
+    "answer": "C",
+    "topic": "Principles of Double Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 591,
+    "question": "Which of the following is a book of original entry?",
+    "options": [
+      "A. The sales ledger containing customers' accounts",
+      "B. The general journal used for adjustments",
+      "C. The trial balance prepared at period end",
+      "D. The balance sheet showing financial position"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 592,
+    "question": "The purchases day book records credit purchases of...",
+    "options": [
+      "A. fixed assets for use in the business",
+      "B. goods intended for resale to customers",
+      "C. office stationery for administration use",
+      "D. services rendered by external providers"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 593,
+    "question": "A credit note issued to a customer is recorded in the...",
+    "options": [
+      "A. sales day book as a credit sale made",
+      "B. purchases day book as a credit purchase",
+      "C. returns inwards book as a return by customer",
+      "D. returns outwards book as a return to supplier"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 594,
+    "question": "The petty cash book is usually maintained under the...",
+    "options": [
+      "A. imprest system with a fixed float amount",
+      "B. double entry system without any float",
+      "C. single entry system with no records",
+      "D. accrual system with periodic adjustments"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 595,
+    "question": "The total of the sales day book is posted to the...",
+    "options": [
+      "A. debit side of the sales account in the general ledger",
+      "B. credit side of the sales account in the general ledger",
+      "C. debit side of the purchases account in the ledger",
+      "D. credit side of the cash account in the general ledger"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 596,
+    "question": "The total of the purchases day book is posted to the...",
+    "options": [
+      "A. credit side of the purchases account in the ledger",
+      "B. debit side of the sales account in the ledger",
+      "C. debit side of the purchases account in the ledger",
+      "D. credit side of the cash account in the ledger"
+    ],
+    "answer": "A",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 597,
+    "question": "Individual entries in the sales day book are posted to the...",
+    "options": [
+      "A. debit side of the customers' accounts in the sales ledger",
+      "B. credit side of the customers' accounts in the sales ledger",
+      "C. debit side of the suppliers' accounts in the purchases ledger",
+      "D. credit side of the general ledger accounts for expenses"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 598,
+    "question": "Individual entries in the purchases day book are posted to the...",
+    "options": [
+      "A. debit side of the customers' accounts in the sales ledger",
+      "B. debit side of the suppliers' accounts in the purchases ledger",
+      "C. credit side of the suppliers' accounts in the purchases ledger",
+      "D. credit side of the general ledger accounts for incomes"
+    ],
+    "answer": "D",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 599,
+    "question": "A debit note sent to a supplier is recorded in the...",
+    "options": [
+      "A. sales day book as a credit sale made",
+      "B. returns inwards book as a return by customer",
+      "C. purchases day book as a credit purchase",
+      "D. returns outwards book as a return to supplier"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 600,
+    "question": "The purchases returns day book records goods returned to...",
+    "options": [
+      "A. customers by the business for credit",
+      "B. suppliers by the business for credit",
+      "C. the business by its customers on credit",
+      "D. the business by its suppliers on credit"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 601,
+    "question": "Which of the following is recorded in the general journal?",
+    "options": [
+      "A. Credit sales of goods to customers on account",
+      "B. Credit purchases of goods from suppliers",
+      "C. Purchase of a fixed asset on credit terms",
+      "D. Cash sales made over the counter to buyers"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 602,
+    "question": "The sales ledger contains the accounts of...",
+    "options": [
+      "A. suppliers from whom goods are purchased",
+      "B. expenses incurred by the business",
+      "C. assets owned by the business entity",
+      "D. customers to whom goods are sold"
+    ],
+    "answer": "A",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 603,
+    "question": "The purchases ledger contains the accounts of...",
+    "options": [
+      "A. customers who buy goods on credit terms",
+      "B. suppliers from whom goods are bought",
+      "C. expenses paid by the business entity",
+      "D. incomes earned by the business firm"
+    ],
+    "answer": "D",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 604,
+    "question": "The general ledger contains accounts other than those in the...",
+    "options": [
+      "A. cash book and petty cash records",
+      "B. trial balance and balance sheet",
+      "C. sales and purchases ledgers",
+      "D. trading and profit and loss accounts"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 605,
+    "question": "Posting from the books of original entry to the ledger is done...",
+    "options": [
+      "A. only at the end of the financial year",
+      "B. regularly as transactions occur in the business",
+      "C. only after the trial balance is prepared",
+      "D. only when the cash is received from debtors"
+    ],
+    "answer": "A",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 606,
+    "question": "The balance of an account is determined by...",
+    "options": [
+      "A. adding all debits and credits together in total",
+      "B. finding the difference between debit and credit sides",
+      "C. transferring the amount to the trial balance",
+      "D. closing the account permanently for the period"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 607,
+    "question": "A trial balance that agrees is proof that...",
+    "options": [
+      "A. all transactions have been correctly recorded in the books",
+      "B. debits and credits are arithmetically equal in total",
+      "C. no errors of principle were made in the records",
+      "D. the financial statements are completely accurate"
+    ],
+    "answer": "D",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 608,
+    "question": "Which error would cause the trial balance to disagree?",
+    "options": [
+      "A. Recording a transaction twice in the ledger books",
+      "B. Omitting a transaction completely from the records",
+      "C. Posting only the debit side of a transaction",
+      "D. Entering a wrong amount on both sides equally"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 609,
+    "question": "The imprest system requires that the petty cashier be reimbursed...",
+    "options": [
+      "A. an amount equal to the expenses paid out",
+      "B. an amount greater than the expenses paid",
+      "C. an amount less than the expenses paid",
+      "D. an amount equal to the original float only"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 610,
+    "question": "In a three-column cash book, the discount columns are...",
+    "options": [
+      "A. balanced and carried forward to the next period",
+      "B. not balanced but totaled and posted to ledger",
+      "C. transferred to the trial balance as balances",
+      "D. used to adjust the bank reconciliation statement"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 611,
+    "question": "The source document for recording credit sales is the...",
+    "options": [
+      "A. credit note issued to the customer for returns",
+      "B. invoice sent to the customer for the goods",
+      "C. receipt issued to the customer for payment",
+      "D. debit note sent to the supplier for returns"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 612,
+    "question": "A statement of account is sent by the seller to the buyer to...",
+    "options": [
+      "A. demand immediate payment of the full amount owed",
+      "B. summarize transactions and show the balance due",
+      "C. confirm that the buyer's payment was received",
+      "D. notify the buyer that goods have been dispatched"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 613,
+    "question": "When a customer returns goods, the seller issues a...",
+    "options": [
+      "A. debit note to the customer for the returned goods",
+      "B. credit note to the customer for the returned goods",
+      "C. receipt to the customer for the returned goods",
+      "D. invoice to the customer for the returned goods"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 614,
+    "question": "The total of the returns inwards book is posted to the...",
+    "options": [
+      "A. debit side of the returns inwards account",
+      "B. credit side of the returns inwards account",
+      "C. debit side of the sales account in ledger",
+      "D. credit side of the purchases account in ledger"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 615,
+    "question": "The total of the returns outwards book is posted to the...",
+    "options": [
+      "A. debit side of the returns outwards account",
+      "B. credit side of the returns outwards account",
+      "C. debit side of the purchases account in ledger",
+      "D. credit side of the sales account in ledger"
+    ],
+    "answer": "D",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 616,
+    "question": "Opening entries in the general journal are used to record...",
+    "options": [
+      "A. transactions at the beginning of a new period",
+      "B. balances brought forward from previous period",
+      "C. closing balances transferred to the balance sheet",
+      "D. adjustments made at the end of the accounting year"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 617,
+    "question": "Closing entries in the general journal are used to transfer balances from...",
+    "options": [
+      "A. asset accounts to liability accounts in the ledger",
+      "B. nominal accounts to the trading and P&L accounts",
+      "C. cash book to the bank reconciliation statement",
+      "D. sales ledger to the purchases ledger accounts"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 618,
+    "question": "The correct treatment of a credit balance in the sales ledger is to...",
+    "options": [
+      "A. add it to the debit balances when extracting the list",
+      "B. deduct it from the debit balances when listing",
+      "C. ignore it as it does not affect the total debtors",
+      "D. transfer it to the purchases ledger control account"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 619,
+    "question": "A contra entry in the cash book is only possible when the cash book has...",
+    "options": [
+      "A. only a cash column with no bank column",
+      "B. both cash and bank columns in operation",
+      "C. both discount allowed and received columns",
+      "D. a single column for petty cash expenses"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 620,
+    "question": "The total of the discount allowed column in the cash book is posted to the...",
+    "options": [
+      "A. debit side of the discount allowed account",
+      "B. credit side of the discount allowed account",
+      "C. debit side of the discount received account",
+      "D. credit side of the discount received account"
+    ],
+    "answer": "A",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 621,
+    "question": "The total of the discount received column in the cash book is posted to the...",
+    "options": [
+      "A. debit side of the discount allowed account",
+      "B. credit side of the discount received account",
+      "C. debit side of the discount received account",
+      "D. credit side of the discount allowed account"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 622,
+    "question": "Which of the following is NOT a book of original entry?",
+    "options": [
+      "A. The sales day book for credit sales",
+      "B. The purchases day book for credit purchases",
+      "C. The trial balance prepared at period end",
+      "D. The general journal for adjustments"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 623,
+    "question": "The sales day book is also known as the...",
+    "options": [
+      "A. sales returns day book for returns",
+      "B. sales journal or sales book for credit sales",
+      "C. purchases journal for credit purchases",
+      "D. general journal for all adjustments"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 624,
+    "question": "The purchases day book is also known as the...",
+    "options": [
+      "A. purchases returns day book for returns",
+      "B. sales journal for credit sales made",
+      "C. purchases journal or purchases book",
+      "D. general journal for all adjustments"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 625,
+    "question": "The main purpose of the petty cash book is to...",
+    "options": [
+      "A. record all bank transactions of the business",
+      "B. record small cash payments for minor expenses",
+      "C. record credit sales made to customers",
+      "D. record credit purchases from suppliers"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 626,
+    "question": "In an analytical petty cash book, the analysis columns are used to...",
+    "options": [
+      "A. record the date of each petty cash payment",
+      "B. classify expenses into different categories",
+      "C. show the total amount received from cashier",
+      "D. calculate the balance remaining in the float"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 627,
+    "question": "The petty cash voucher is used to...",
+    "options": [
+      "A. request reimbursement from the main cashier",
+      "B. authorize and record a petty cash payment",
+      "C. transfer funds from bank to petty cash",
+      "D. record the petty cash balance at year end"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 628,
+    "question": "A receipt is issued by the seller to acknowledge...",
+    "options": [
+      "A. goods sold on credit to the customer",
+      "B. goods returned by the customer",
+      "C. money received from the customer",
+      "D. money owed by the customer in future"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 629,
+    "question": "The sales ledger control account is also known as the...",
+    "options": [
+      "A. total creditors or trade payables account",
+      "B. total debtors or trade receivables account",
+      "C. general ledger reconciliation account",
+      "D. purchases ledger adjustment account"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 630,
+    "question": "The purchases ledger control account is also known as the...",
+    "options": [
+      "A. total debtors or trade receivables account",
+      "B. total creditors or trade payables account",
+      "C. general ledger reconciliation account",
+      "D. sales ledger adjustment account"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 631,
+    "question": "The journal entry to correct an error of principle is passed through the...",
+    "options": [
+      "A. cash book as a contra entry between columns",
+      "B. general journal with a narration explaining it",
+      "C. sales day book as an additional credit sale",
+      "D. purchases day book as an additional purchase"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 632,
+    "question": "The trial balance is a list of...",
+    "options": [
+      "A. all assets and liabilities of the business",
+      "B. all ledger balances showing debit and credit",
+      "C. all cash receipts and payments made",
+      "D. all income and expenses for the period"
+    ],
+    "answer": "A",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 633,
+    "question": "A debit balance in the trial balance normally represents...",
+    "options": [
+      "A. an asset or an expense account balance",
+      "B. a liability or an income account balance",
+      "C. capital or drawings account balances",
+      "D. sales or purchases returns balances"
+    ],
+    "answer": "B",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 634,
+    "question": "A credit balance in the trial balance normally represents...",
+    "options": [
+      "A. an asset or an expense account balance",
+      "B. a liability or an income account balance",
+      "C. cash or bank account balances",
+      "D. drawings or purchases account balances"
+    ],
+    "answer": "C",
+    "topic": "Ledger",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 635,
+    "question": "Which of the following is a source document for recording credit purchases?",
+    "options": [
+      "A. A credit note received from the supplier",
+      "B. An invoice received from the supplier",
+      "C. A receipt issued by the business to supplier",
+      "D. A debit note sent to the supplier by business"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 636,
+    "question": "When goods are returned to a supplier, the buyer sends a...",
+    "options": [
+      "A. credit note to the supplier for the returns",
+      "B. debit note to the supplier for the returns",
+      "C. receipt to the supplier for the returns",
+      "D. invoice to the supplier for the returns"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 637,
+    "question": "The balance of the petty cash book represents the...",
+    "options": [
+      "A. total expenses paid in the period by petty cashier",
+      "B. cash remaining in the petty cash float at any time",
+      "C. amount owed by the business to the petty cashier",
+      "D. total reimbursement received from the main cashier"
+    ],
+    "answer": "B",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 638,
+    "question": "The sales returns day book is used to record...",
+    "options": [
+      "A. goods returned by the business to its suppliers",
+      "B. goods returned by customers to the business",
+      "C. cash refunds made to customers for returns",
+      "D. allowances given to customers for damaged goods"
+    ],
+    "answer": "C",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 639,
+    "question": "The purchases returns day book is used to record...",
+    "options": [
+      "A. goods returned by customers to the business",
+      "B. goods returned by the business to its suppliers",
+      "C. cash refunds received from suppliers for returns",
+      "D. allowances received from suppliers for damages"
+    ],
+    "answer": "D",
+    "topic": "Books of Original Entry",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 640,
+    "question": "A compound journal entry is one that involves...",
+    "options": [
+      "A. only two accounts, one debit and one credit",
+      "B. more than two accounts in a single entry",
+      "C. entries made in two different journals",
+      "D. entries posted to two different ledgers"
+    ],
+    "answer": "A",
+    "topic": "Books of Original Entry",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 641,
+    "question": "A two-column cash book contains columns for...",
+    "options": [
+      "A. cash and discount allowed only",
+      "B. cash and bank balances only",
+      "C. bank and discount received only",
+      "D. cash, bank and discount columns"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 642,
+    "question": "A three-column cash book contains columns for...",
+    "options": [
+      "A. cash, bank and discount",
+      "B. cash, bank and petty cash",
+      "C. cash, discount and returns",
+      "D. bank, discount and expenses"
+    ],
+    "answer": "A",
+    "topic": "Cash Book",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 643,
+    "question": "A contra entry in the cash book affects...",
+    "options": [
+      "A. the cash and discount columns",
+      "B. the bank and discount columns",
+      "C. both the cash and bank columns",
+      "D. only the cash column"
+    ],
+    "answer": "C",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 644,
+    "question": "Discount allowed is recorded on the...",
+    "options": [
+      "A. credit side of the cash book",
+      "B. debit side of the cash book",
+      "C. both sides of the cash book",
+      "D. credit side of the bank column"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 645,
+    "question": "Discount received is recorded on the...",
+    "options": [
+      "A. debit side of the cash book",
+      "B. both sides of the cash book",
+      "C. debit side of the bank column",
+      "D. credit side of the cash book"
+    ],
+    "answer": "D",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 646,
+    "question": "A credit balance in the bank column of the cash book indicates...",
+    "options": [
+      "A. a bank overdraft",
+      "B. cash in hand",
+      "C. a debit balance at bank",
+      "D. an error in the cash book"
+    ],
+    "answer": "A",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 647,
+    "question": "The petty cashier is reimbursed under the imprest system when...",
+    "options": [
+      "A. the float is exhausted and expenses are analyzed",
+      "B. the float is doubled by the main cashier",
+      "C. the cash book is balanced at period end",
+      "D. the bank reconciliation is completed"
+    ],
+    "answer": "A",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 648,
+    "question": "The balance of the petty cash book represents...",
+    "options": [
+      "A. total expenses paid in the period",
+      "B. cash remaining in the petty cash float",
+      "C. amount owed to the petty cashier",
+      "D. total reimbursement received"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 649,
+    "question": "When cash is withdrawn from the bank for office use, the entry is...",
+    "options": [
+      "A. debit bank, credit cash",
+      "B. debit cash, credit bank",
+      "C. debit cash, credit capital",
+      "D. debit bank, credit capital"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 650,
+    "question": "The cash book is both a book of original entry and a...",
+    "options": [
+      "A. subsidiary book",
+      "B. journal proper",
+      "C. ledger account",
+      "D. trial balance"
+    ],
+    "answer": "C",
+    "topic": "Cash Book",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 651,
+    "question": "A bank statement is a document prepared by the...",
+    "options": [
+      "A. customer showing bank transactions",
+      "B. auditor confirming bank balance",
+      "C. bank showing the customer's account",
+      "D. business showing bank payments"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 652,
+    "question": "The main purpose of a bank reconciliation statement is to...",
+    "options": [
+      "A. calculate the interest paid by the bank",
+      "B. explain the difference between cash book and bank statement",
+      "C. correct all errors in the cash book",
+      "D. determine the cash balance for trial balance"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 653,
+    "question": "An unpresented cheque is one that has been...",
+    "options": [
+      "A. issued but not yet presented to the bank",
+      "B. received but not yet recorded",
+      "C. rejected by the bank as invalid",
+      "D. paid by the bank but not recorded"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 654,
+    "question": "An uncredited cheque is one that has been...",
+    "options": [
+      "A. issued to a supplier but not paid",
+      "B. rejected by the bank as invalid",
+      "C. recorded in cash book but not credited by bank",
+      "D. paid by the bank but not recorded"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 655,
+    "question": "A dishonoured cheque returned by the bank is recorded as...",
+    "options": [
+      "A. a debit in the bank column",
+      "B. a credit in the bank column",
+      "C. a debit in the cash column",
+      "D. no entry in the cash book"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 656,
+    "question": "A standing order differs from a direct debit because a standing order is...",
+    "options": [
+      "A. initiated by the bank without instruction",
+      "B. initiated by the payer to pay fixed amounts",
+      "C. initiated by the payee to collect variable amounts",
+      "D. only used for salary payments"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 657,
+    "question": "A direct debit is usually initiated by the...",
+    "options": [
+      "A. payer for a fixed amount periodically",
+      "B. bank on behalf of the government",
+      "C. payee to collect variable amounts owed",
+      "D. employer to pay staff salaries"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 658,
+    "question": "A credit transfer is a payment that is...",
+    "options": [
+      "A. initiated by the payee and paid by the payer",
+      "B. made directly into the payee's account by the payer",
+      "C. made over the counter using a cheque",
+      "D. only used for international transactions"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 659,
+    "question": "If the cash book shows a debit balance and the bank statement shows a credit balance, the difference is...",
+    "options": [
+      "A. always caused by bank errors",
+      "B. the same balance viewed differently",
+      "C. proof that the trial balance is wrong",
+      "D. only adjusted at the year end"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 660,
+    "question": "Unpresented cheques are used in the bank reconciliation statement as...",
+    "options": [
+      "A. a deduction from the bank statement balance",
+      "B. an addition to the bank statement balance",
+      "C. an addition to the cash book balance",
+      "D. a deduction from the cash book balance"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 661,
+    "question": "Uncredited cheques are adjusted in the bank reconciliation statement by...",
+    "options": [
+      "A. deducting from the bank statement balance",
+      "B. deducting from the cash book balance",
+      "C. adding to the cash book balance",
+      "D. adding to the bank statement balance"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 662,
+    "question": "When the bank statement shows a debit balance, it means the bank...",
+    "options": [
+      "A. owes the customer the stated amount",
+      "B. has made an error in the statement",
+      "C. considers the customer as being overdrawn",
+      "D. is holding the customer's deposits"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 663,
+    "question": "Interest charged by the bank not recorded in the cash book must be...",
+    "options": [
+      "A. added to the bank statement balance",
+      "B. added to the cash book balance",
+      "C. deducted from the cash book balance",
+      "D. deducted from the bank statement balance"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 664,
+    "question": "A cheque paid by the bank on behalf of the customer not recorded must be...",
+    "options": [
+      "A. added to the cash book balance",
+      "B. deducted from the cash book balance",
+      "C. added to the bank statement balance",
+      "D. deducted from the bank statement balance"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 665,
+    "question": "Direct credits from customers must be added to the...",
+    "options": [
+      "A. bank statement balance in reconciliation",
+      "B. cash book balance as a receipt",
+      "C. bank statement as a payment",
+      "D. cash book as a payment"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 666,
+    "question": "A bank reconciliation statement is prepared by the...",
+    "options": [
+      "A. bank as part of its statements",
+      "B. customer to explain the difference",
+      "C. auditor during the annual audit",
+      "D. Central Bank of the country"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 667,
+    "question": "The cash book balance and bank statement balance differ mainly because of...",
+    "options": [
+      "A. different accounting periods used",
+      "B. entries not recorded by one party",
+      "C. use of different currency values",
+      "D. total receipts not being added"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 668,
+    "question": "If the cash book shows an overdraft and cheques are unpresented, the adjustment is to...",
+    "options": [
+      "A. add to the bank overdraft balance",
+      "B. deduct from the bank overdraft balance",
+      "C. add to the cash book overdraft balance",
+      "D. make no adjustment at all"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 669,
+    "question": "A cheque that has been entered in the cash book but not yet credited by the bank is called...",
+    "options": [
+      "A. an unpresented cheque",
+      "B. a dishonoured cheque",
+      "C. an uncredited cheque",
+      "D. an endorsed cheque"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 670,
+    "question": "Errors made by the bank in the customer's account should be adjusted by...",
+    "options": [
+      "A. notifying the bank and correcting the statement",
+      "B. recording entries in the customer's cash book",
+      "C. ignoring them until the next period",
+      "D. transferring them to the suspense account"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 671,
+    "question": "An adjusted cash book balance is prepared before the bank reconciliation statement mainly to...",
+    "options": [
+      "A. record items appearing in the cash book only",
+      "B. correct items that do not appear in cash book",
+      "C. reconcile the bank statement with its records",
+      "D. prepare the bank statement for the customer"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 672,
+    "question": "If the cash book shows a debit balance of ₦50,000 and the bank statement shows a credit balance of ₦48,000, the difference could be due to...",
+    "options": [
+      "A. interest allowed by the bank not in cash book",
+      "B. bank charges not yet recorded in cash book",
+      "C. unpresented cheques still with suppliers",
+      "D. uncredited cheques paid by customers"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 673,
+    "question": "Which of the following will require an entry in the adjusted cash book?",
+    "options": [
+      "A. Unpresented cheques issued to suppliers",
+      "B. Uncredited cheques received by the firm",
+      "C. Standing orders paid by the bank only",
+      "D. Errors made by the bank in the account"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 674,
+    "question": "A bank reconciliation statement is prepared when the cash book and bank statement balances...",
+    "options": [
+      "A. are equal in amount at the year end",
+      "B. differ due to certain timing differences",
+      "C. are both zero at the period start",
+      "D. show debit and debit side entries"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 675,
+    "question": "An overdraft balance in the cash book means the bank column shows a...",
+    "options": [
+      "A. credit balance in the cash book",
+      "B. debit balance in the cash book",
+      "C. zero balance in the cash book",
+      "D. nil balance in the cash book"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 676,
+    "question": "A direct credit by the bank not recorded in the cash book should be adjusted by...",
+    "options": [
+      "A. deducting from the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. adding to the cash book balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 677,
+    "question": "A standing order paid by the bank not recorded in the cash book is adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. deducting from the bank statement balance",
+      "D. deducting from the cash book balance"
+    ],
+    "answer": "D",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 678,
+    "question": "If the cash book has a credit balance, in a bank reconciliation statement the starting point is...",
+    "options": [
+      "A. an overdraft balance in the cash book",
+      "B. a favourable balance in the cash book",
+      "C. a credit balance in the bank statement",
+      "D. a debit balance in the bank statement"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 679,
+    "question": "A cheque issued by the business and entered in the cash book but not yet presented for payment is called...",
+    "options": [
+      "A. an uncredited cheque issued by the firm",
+      "B. an unpresented cheque issued by firm",
+      "C. a dishonoured cheque returned by bank",
+      "D. a cancelled cheque rejected by the bank"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 680,
+    "question": "When adjusting the cash book for items not recorded, the balance of the adjusted cash book is used in the...",
+    "options": [
+      "A. bank reconciliation statement as start",
+      "B. trial balance as a debit balance",
+      "C. balance sheet as a fixed asset",
+      "D. trading account as a closing entry"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 681,
+    "question": "Bank charges not yet recorded in the cash book are adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. deducting from cash book balance",
+      "C. adding to the bank statement balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "B",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 682,
+    "question": "Interest allowed by the bank on a current account is adjusted by...",
+    "options": [
+      "A. adding to the cash book balance",
+      "B. adding to the bank statement balance",
+      "C. deducting from the cash book balance",
+      "D. deducting from the bank statement"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 683,
+    "question": "Dishonoured cheques returned by the bank are adjusted in the cash book as...",
+    "options": [
+      "A. additions to the cash book balance",
+      "B. additions to the bank statement balance",
+      "C. deductions from the cash book balance",
+      "D. deductions from the bank statement"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 684,
+    "question": "The adjusted cash book is also called the...",
+    "options": [
+      "A. bank reconciliation statement account",
+      "B. petty cash book account of the firm",
+      "C. corrected or amended cash book",
+      "D. original cash book of the business"
+    ],
+    "answer": "C",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 685,
+    "question": "If the cash book shows a debit balance of ₦100,000 and unpresented cheques amount to ₦15,000, the bank statement balance would be...",
+    "options": [
+      "A. ₦115,000 as the bank statement balance",
+      "B. ₦85,000 as the bank statement balance",
+      "C. ₦100,000 as the bank statement balance",
+      "D. ₦15,000 as the bank statement balance"
+    ],
+    "answer": "A",
+    "topic": "Bank Reconciliation",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 686,
+    "question": "In a petty cash book, the analysis columns are used to...",
+    "options": [
+      "A. show the running balance of the float",
+      "B. classify expenses into categories",
+      "C. record the date of each payment",
+      "D. calculate the total reimbursements"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 687,
+    "question": "A petty cash voucher should be supported by...",
+    "options": [
+      "A. a bank statement from the firm",
+      "B. a receipt or supporting document",
+      "C. a cheque book counterfoil only",
+      "D. a copy of the trial balance"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 688,
+    "question": "When the petty cash float is reduced, the petty cashier will...",
+    "options": [
+      "A. receive a smaller reimbursement amount",
+      "B. request a reduction in the imprest",
+      "C. pay the excess back to the cashier",
+      "D. increase expenses to use the float"
+    ],
+    "answer": "C",
+    "topic": "Cash Book",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 689,
+    "question": "The total of the discount column on the debit side of a three-column cash book is posted to the...",
+    "options": [
+      "A. credit of discount allowed account",
+      "B. debit of discount allowed account",
+      "C. credit of discount received account",
+      "D. debit of discount received account"
+    ],
+    "answer": "B",
+    "topic": "Cash Book",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 690,
+    "question": "The total of the discount column on the credit side of a three-column cash book is posted to the...",
+    "options": [
+      "A. debit of discount allowed account",
+      "B. credit of discount allowed account",
+      "C. credit of discount received account",
+      "D. debit of discount received account"
+    ],
+    "answer": "C",
+    "topic": "Cash Book",
     "difficulty": "Medium"
   }
 ]
