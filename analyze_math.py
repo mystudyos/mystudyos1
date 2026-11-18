@@ -10,6 +10,7 @@ MATH_FILES = [
     Path("Json/BECE/Maths_Solid Q's.json"),
     Path("Json/NECO/Mathematics.json"),
     Path("Json/WAEC/MATHEMATICS.json"),
+    Path("Json/JAMB/Mathematics.json"),
 ]
 
 SUP_DICT = {
@@ -222,14 +223,18 @@ def format_math_segment(segment: str) -> str:
         ),
     )
 
-    # 2. Integrals like ∫₀¹ or bare ∫
+    # 2. Integrals like ∫₀¹, ∫₀^{π/2}, or bare ∫
     s = replace_outside_markers(
         s,
-        re.compile(rf"∫([{re.escape(SUB_CHARS)}]+)?([{re.escape(SUP_CHARS)}]+)?"),
+        re.compile(rf"∫([{re.escape(SUB_CHARS)}]+)?(?:\^\{{([^{{}}]+)\}}|([{re.escape(SUP_CHARS)}]+))?"),
         lambda m: wrap_tok(
             r"\int"
             + (f"_{{{m.group(1).translate(SUB_MAP)}}}" if m.group(1) else "")
-            + (f"^{{{m.group(2).translate(SUP_MAP)}}}" if m.group(2) else "")
+            + (
+                f"^{{{convert_inline_fragment(m.group(2))}}}"
+                if m.group(2)
+                else (f"^{{{m.group(3).translate(SUP_MAP)}}}" if m.group(3) else "")
+            )
         ),
     )
 
@@ -259,8 +264,15 @@ def format_math_segment(segment: str) -> str:
         ),
     )
 
-    # 4. Parenthesized exponents like (1/4)^(−1/2), 3^(2x - 1), 4^(1/2), x^(1/2), 2^x
+    # 4. Exponents like 16^{3/4}, (1/4)^(−1/2), 3^(2x - 1), 4^(1/2), x^(1/2), 2^x
     if "^" in s:
+        s = replace_outside_markers(
+            s,
+            re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^\{([^{}]+)\}"),
+            lambda m: wrap_tok(
+                f"{convert_inline_fragment(m.group(1))}^{{{convert_inline_fragment(m.group(2))}}}"
+            ),
+        )
         s = replace_outside_markers(
             s,
             re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^\(([^()]+)\)"),
@@ -316,7 +328,7 @@ def format_math_segment(segment: str) -> str:
     if "{" in s:
         s = replace_outside_markers(
             s,
-            re.compile(r"\{([A-Za-z0-9,\s+-]+)\}"),
+            re.compile(r"(?<!\^)\{([A-Za-z0-9,\s+-]+)\}"),
             lambda m: wrap_tok(rf"\{{{m.group(1).strip()}\}}"),
         )
 

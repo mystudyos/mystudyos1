@@ -1,9 +1,10 @@
 "use client"
 
 import { useState } from "react"
-import { ArrowLeft, AlertCircle, Check, FileText, ListChecks } from "lucide-react"
+import { ArrowLeft, AlertCircle, Check, Crown, FileText, ListChecks, Lock } from "lucide-react"
 import {
   getSSSSubjectByKey,
+  isSSSExamProOnly,
   isSSSPaperAvailable,
   SSS_EXAM_OPTIONS,
   type SSSExamType,
@@ -14,17 +15,21 @@ import {
 interface SSSExamPickerProps {
   subjectKey: SSSSubjectKey
   mode: "training" | "solidq"
+  isPro?: boolean
   onSelect: (examType: SSSExamType, paperType: SSSPaperType) => void
   onBack: () => void
   onBackToDashboard?: () => void
+  onGoToPro?: () => void
 }
 
 export function SSSExamPicker({
   subjectKey,
   mode,
+  isPro = false,
   onSelect,
   onBack,
   onBackToDashboard,
+  onGoToPro,
 }: SSSExamPickerProps) {
   const subject = getSSSSubjectByKey(subjectKey)
   const visibleExams = SSS_EXAM_OPTIONS.filter((e) => e.enabled)
@@ -35,11 +40,16 @@ export function SSSExamPicker({
   const [selectedExam, setSelectedExam] = useState<SSSExamType>(firstAvailableExam)
   const [selectedPaper, setSelectedPaper] = useState<SSSPaperType>("objective")
   const [notAvailablePaper, setNotAvailablePaper] = useState<string | null>(null)
+  const [proLockLabel, setProLockLabel] = useState<string | null>(null)
 
   const currentExamOption = visibleExams.find((e) => e.type === selectedExam)
   const supportsTheory = currentExamOption?.supportsTheory ?? false
 
   const handleContinue = () => {
+    if (isSSSExamProOnly(subjectKey, selectedExam, selectedPaper) && !isPro) {
+      setProLockLabel(`${subject.name} (${currentExamOption?.label || "JAMB"}) Objective`)
+      return
+    }
     if (!isSSSPaperAvailable(subjectKey, selectedExam, selectedPaper)) {
       const label =
         selectedPaper === "theory"
@@ -53,6 +63,35 @@ export function SSSExamPicker({
 
   return (
     <div className="flex flex-col min-h-full relative pb-10">
+      {/* Pro Required Overlay */}
+      {proLockLabel && (
+        <div className="fixed inset-0 z-50 bg-background/95 backdrop-blur-md flex flex-col items-center justify-center px-8 text-center animate-in fade-in zoom-in duration-300">
+          <div className="w-20 h-20 rounded-3xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center mb-6">
+            <Crown className="w-10 h-10 text-amber-400" />
+          </div>
+          <h2 className="text-2xl font-bold text-foreground mb-3">StudyOS Pro Required</h2>
+          <p className="text-muted-foreground leading-relaxed mb-8 max-w-75">
+            <span className="text-foreground font-semibold">{proLockLabel}</span>{" "}
+            is locked for Free users. Upgrade to StudyOS Pro to unlock full JAMB English CBT practice!
+          </p>
+          <button
+            onClick={() => {
+              setProLockLabel(null)
+              onGoToPro?.()
+            }}
+            className="w-full max-w-64 py-4 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-black text-sm shadow-xl shadow-amber-500/20 active:scale-95 transition-all cursor-pointer flex items-center justify-center gap-2"
+          >
+            <Crown className="w-4 h-4" />
+            Upgrade to Pro
+          </button>
+          <button
+            onClick={() => setProLockLabel(null)}
+            className="mt-4 text-xs font-semibold text-muted-foreground uppercase tracking-widest hover:text-foreground transition-colors cursor-pointer"
+          >
+            Choose another option
+          </button>
+        </div>
+      )}
       {/* Not Available Now Overlay */}
       {notAvailablePaper && (
         <div className="fixed inset-0 z-50 bg-background/95 backdrop-blur-md flex flex-col items-center justify-center px-8 text-center animate-in fade-in zoom-in duration-300">
@@ -110,6 +149,7 @@ export function SSSExamPicker({
             {visibleExams.map((exam) => {
               const isSelected = selectedExam === exam.type
               const examHasObjective = isSSSPaperAvailable(subjectKey, exam.type, "objective")
+              const isProLocked = isSSSExamProOnly(subjectKey, exam.type, "objective")
               return (
                 <button
                   key={exam.type}
@@ -127,13 +167,19 @@ export function SSSExamPicker({
                   }`}
                 >
                   <div className="pr-3">
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-2 flex-wrap">
                       <span className="font-bold text-foreground text-sm sm:text-base">
                         {exam.label}
                       </span>
                       <span className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-primary/15 text-primary">
                         {exam.badge}
                       </span>
+                      {isProLocked && (
+                        <span className="inline-flex items-center gap-1 text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-500 border border-amber-500/30">
+                          {isPro ? <Crown className="w-3 h-3" /> : <Lock className="w-3 h-3" />}
+                          Pro
+                        </span>
+                      )}
                       {!examHasObjective && (
                         <span className="text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-500">
                           Soon

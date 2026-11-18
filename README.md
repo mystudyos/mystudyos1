@@ -1,6 +1,6 @@
 **StudyOS**
 
-**A state-of-the-art, mobile-first educational platform** designed to help Nigerian JSS & SSS students ace their examination preparation. StudyOS combines premium "Apple-inspired" aesthetics, distraction-free learning, and high-performance data handling into a cohesive study experience.
+**A Gamified, mobile-first educational platform** designed to help Nigerian JSS & SSS students ace their examination preparation. StudyOS combines premium "Apple-inspired" aesthetics, distraction-free learning, and high-performance data handling into a cohesive study experience.
 
 
 **What's StudyOS About?**: Updated to highlight verified past questions across **BECE, WAEC (WASSCE), NECO, JAMB (UTME), and Post-UTME** for all secondary school subjects with step-by-step explanations.

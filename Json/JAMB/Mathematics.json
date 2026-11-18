@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Convert 101101₂ to base 10.",
+    "question": "Convert \\(101101_{2}\\) to base 10.",
     "options": [
       "A. 45",
       "B. 47",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "question": "What is the value of 0.101₂ in base 10?",
+    "question": "What is the value of \\(0.101_{2}\\) in base 10?",
     "options": [
       "A. 0.625",
       "B. 0.125",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "question": "Convert 3A₇ to base 10.",
+    "question": "Convert \\(3A_{7}\\) to base 10.",
     "options": [
       "A. 31",
       "B. 27",
@@ -40,12 +40,12 @@
   },
   {
     "id": 4,
-    "question": "Express 45₁₀ in base 5.",
+    "question": "Express \\(45_{10}\\) in base 5.",
     "options": [
-      "A. 140₅",
-      "B. 130₅",
-      "C. 120₅",
-      "D. 150₅"
+      "A. \\(140_{5}\\)",
+      "B. \\(130_{5}\\)",
+      "C. \\(120_{5}\\)",
+      "D. \\(150_{5}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -53,12 +53,12 @@
   },
   {
     "id": 5,
-    "question": "Add 1101₂ and 1011₂.",
+    "question": "Add \\(1101_{2}\\) and \\(1011_{2}\\).",
     "options": [
-      "A. 11000₂",
-      "B. 10100₂",
-      "C. 11100₂",
-      "D. 10010₂"
+      "A. \\(11000_{2}\\)",
+      "B. \\(10100_{2}\\)",
+      "C. \\(11100_{2}\\)",
+      "D. \\(10010_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -66,12 +66,12 @@
   },
   {
     "id": 6,
-    "question": "Subtract 1011₂ from 11001₂.",
+    "question": "Subtract \\(1011_{2}\\) from \\(11001_{2}\\).",
     "options": [
-      "A. 1110₂",
-      "B. 1010₂",
-      "C. 1001₂",
-      "D. 1101₂"
+      "A. \\(1110_{2}\\)",
+      "B. \\(1010_{2}\\)",
+      "C. \\(1001_{2}\\)",
+      "D. \\(1101_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -79,12 +79,12 @@
   },
   {
     "id": 7,
-    "question": "Multiply 101₂ by 11₂.",
+    "question": "Multiply \\(101_{2}\\) by \\(11_{2}\\).",
     "options": [
-      "A. 1111₂",
-      "B. 1101₂",
-      "C. 1011₂",
-      "D. 1001₂"
+      "A. \\(1111_{2}\\)",
+      "B. \\(1101_{2}\\)",
+      "C. \\(1011_{2}\\)",
+      "D. \\(1001_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -92,12 +92,12 @@
   },
   {
     "id": 8,
-    "question": "Convert 0.75₁₀ to base 2.",
+    "question": "Convert \\(0.75_{10}\\) to base 2.",
     "options": [
-      "A. 0.11₂",
-      "B. 0.01₂",
-      "C. 0.10₂",
-      "D. 0.001₂"
+      "A. \\(0.11_{2}\\)",
+      "B. \\(0.01_{2}\\)",
+      "C. \\(0.10_{2}\\)",
+      "D. \\(0.001_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "question": "What is 234₅ in base 10?",
+    "question": "What is \\(234_{5}\\) in base 10?",
     "options": [
       "A. 69",
       "B. 64",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "question": "Convert 1A6₁₆ to base 10.",
+    "question": "Convert \\(1A6_{16}\\) to base 10.",
     "options": [
       "A. 422",
       "B. 412",
@@ -131,7 +131,7 @@
   },
   {
     "id": 11,
-    "question": "Express 2/5 as a decimal correct to 3 significant figures.",
+    "question": "Express \\(\\frac{2}{5}\\) as a decimal correct to 3 significant figures.",
     "options": [
       "A. 0.400",
       "B. 0.40",
@@ -237,10 +237,10 @@
     "id": 19,
     "question": "Express 0.000456 in standard form.",
     "options": [
-      "A. 4.56 × 10⁻⁴",
-      "B. 4.56 × 10⁻³",
-      "C. 4.56 × 10⁻⁵",
-      "D. 45.6 × 10⁻⁵"
+      "A. \\(4.56 \\times 10^{-4}\\)",
+      "B. \\(4.56 \\times 10^{-3}\\)",
+      "C. \\(4.56 \\times 10^{-5}\\)",
+      "D. \\(45.6 \\times 10^{-5}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -248,12 +248,12 @@
   },
   {
     "id": 20,
-    "question": "Simplify (3² × 3⁵) ÷ 3⁴.",
+    "question": "Simplify \\((3^{2} \\times 3^{5} ) \\div 3^{4}\\).",
     "options": [
-      "A. 3³",
-      "B. 3²",
-      "C. 3⁴",
-      "D. 3¹"
+      "A. \\(3^{3}\\)",
+      "B. \\(3^{2}\\)",
+      "C. \\(3^{4}\\)",
+      "D. \\(3^{1}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -261,7 +261,7 @@
   },
   {
     "id": 21,
-    "question": "If log₁₀ 2 = 0.3010 and log₁₀ 3 = 0.4771, find log₁₀ 6.",
+    "question": "If \\(log_{10} 2 = 0\\).3010 and \\(log_{10} 3 = 0\\).4771, find \\(log_{10}\\) 6.",
     "options": [
       "A. 0.7781",
       "B. 0.1761",
@@ -274,7 +274,7 @@
   },
   {
     "id": 22,
-    "question": "Evaluate log₂ 32.",
+    "question": "Evaluate \\(log_{2}\\) 32.",
     "options": [
       "A. 5",
       "B. 4",
@@ -287,12 +287,12 @@
   },
   {
     "id": 23,
-    "question": "Simplify √18 − √8.",
+    "question": "Simplify \\(\\sqrt{18} - \\sqrt{8.}\\)",
     "options": [
-      "A. √2",
-      "B. 2√2",
-      "C. 3√2",
-      "D. √8"
+      "A. \\(\\sqrt{2}\\)",
+      "B. \\(2\\sqrt{2}\\)",
+      "C. \\(3\\sqrt{2}\\)",
+      "D. \\(\\sqrt{8}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -300,12 +300,12 @@
   },
   {
     "id": 24,
-    "question": "Rationalize the denominator of 1/√5.",
+    "question": "Rationalize the denominator of 1/\\(\\sqrt{5.}\\)",
     "options": [
-      "A. √5 / 5",
-      "B. √5 / 2",
-      "C. 5 / √5",
-      "D. √5"
+      "A. \\(\\sqrt{\\frac{5}{5}}\\)",
+      "B. \\(\\sqrt{\\frac{5}{2}}\\)",
+      "C. 5 / \\(\\sqrt{5}\\)",
+      "D. \\(\\sqrt{5}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -313,7 +313,7 @@
   },
   {
     "id": 25,
-    "question": "If 2ˣ = 16, find x.",
+    "question": "If \\(2^{x} = 16,\\) find x.",
     "options": [
       "A. 4",
       "B. 3",
@@ -326,12 +326,12 @@
   },
   {
     "id": 26,
-    "question": "Change log₃ 27 to base 9.",
+    "question": "Change \\(log_{3}\\) 27 to base 9.",
     "options": [
-      "A. log₉ 3",
-      "B. log₉ 9",
-      "C. log₉ 27",
-      "D. log₉ 81"
+      "A. \\(log_{9}\\) 3",
+      "B. \\(log_{9}\\) 9",
+      "C. \\(log_{9}\\) 27",
+      "D. \\(log_{9}\\) 81"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -339,12 +339,12 @@
   },
   {
     "id": 27,
-    "question": "If A = {1,2,3,4}, B = {3,4,5,6}, then A ∩ B is",
+    "question": "If A = \\(\\{1,2,3,4\\} , B = \\{3,4,5,6\\}\\), then A \\(\\cap\\) B is",
     "options": [
-      "A. {3,4}",
-      "B. {1,2}",
-      "C. {5,6}",
-      "D. {1,2,3,4,5,6}"
+      "A. \\(\\{3,4\\}\\)",
+      "B. \\(\\{1,2\\}\\)",
+      "C. \\(\\{5,6\\}\\)",
+      "D. \\(\\{1,2,3,4,5,6\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -352,12 +352,12 @@
   },
   {
     "id": 28,
-    "question": "If U = {1,2,3,4,5,6,7,8}, A = {1,2,3,4}, then A′ is",
+    "question": "If U = \\(\\{1,2,3,4,5,6,7,8\\} , A = \\{1,2,3,4\\}\\), then A′ is",
     "options": [
-      "A. {5,6,7,8}",
-      "B. {1,2,3,4}",
-      "C. {2,4,6,8}",
-      "D. {1,3,5,7}"
+      "A. \\(\\{5,6,7,8\\}\\)",
+      "B. \\(\\{1,2,3,4\\}\\)",
+      "C. \\(\\{2,4,6,8\\}\\)",
+      "D. \\(\\{1,3,5,7\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -378,7 +378,7 @@
   },
   {
     "id": 30,
-    "question": "If n(A) = 15, n(B) = 12 and n(A ∪ B) = 20, then n(A ∩ B) is",
+    "question": "If n(A) = 15, n(B) = 12 and n(A \\(\\cup B) = 20,\\) then n(A \\(\\cap\\) B) is",
     "options": [
       "A. 7",
       "B. 5",
@@ -391,12 +391,12 @@
   },
   {
     "id": 31,
-    "question": "Convert 11011₂ to base 8.",
+    "question": "Convert \\(11011_{2}\\) to base 8.",
     "options": [
-      "A. 33₈",
-      "B. 27₈",
-      "C. 35₈",
-      "D. 31₈"
+      "A. \\(33_{8}\\)",
+      "B. \\(27_{8}\\)",
+      "C. \\(35_{8}\\)",
+      "D. \\(31_{8}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -430,12 +430,12 @@
   },
   {
     "id": 34,
-    "question": "Simplify 8⅓ ÷ 2½.",
+    "question": "Simplify 8⅓ \\(\\div 2 \\frac{1}{2}\\).",
     "options": [
       "A. 3⅓",
       "B. 2⅔",
       "C. 4⅙",
-      "D. 5½"
+      "D. \\(5\\frac{1}{2}\\)"
     ],
     "answer": "A",
     "topic": "Fractions, Decimals, Approximations and Percentages",
@@ -456,7 +456,7 @@
   },
   {
     "id": 36,
-    "question": "Evaluate (√12 + √3)².",
+    "question": "Evaluate (\\(\\sqrt{12} + \\sqrt{3}\\)\\()^{2}\\).",
     "options": [
       "A. 27",
       "B. 15",
@@ -469,7 +469,7 @@
   },
   {
     "id": 37,
-    "question": "If A ⊂ B and n(A) = 8, n(B) = 15, then n(B − A) is",
+    "question": "If A ⊂ B and n(A) = 8, n(B) = 15, then n(B \\(-\\) A) is",
     "options": [
       "A. 7",
       "B. 8",
@@ -495,12 +495,12 @@
   },
   {
     "id": 39,
-    "question": "Convert 47₁₀ to base 3.",
+    "question": "Convert \\(47_{10}\\) to base 3.",
     "options": [
-      "A. 1202₃",
-      "B. 1211₃",
-      "C. 1102₃",
-      "D. 1220₃"
+      "A. \\(1202_{3}\\)",
+      "B. \\(1211_{3}\\)",
+      "C. \\(1102_{3}\\)",
+      "D. \\(1220_{3}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -521,7 +521,7 @@
   },
   {
     "id": 41,
-    "question": "Simplify (2³ × 3²) / (2 × 3).",
+    "question": "Simplify \\(\\frac{2^{3} \\times 3^{2}}{2 \\times 3}\\).",
     "options": [
       "A. 12",
       "B. 18",
@@ -549,10 +549,10 @@
     "id": 43,
     "question": "The set {x : x is an even number between 1 and 10} is",
     "options": [
-      "A. {2,4,6,8}",
-      "B. {2,4,6,8,10}",
-      "C. {1,3,5,7,9}",
-      "D. {0,2,4,6,8}"
+      "A. \\(\\{2,4,6,8\\}\\)",
+      "B. \\(\\{2,4,6,8,10\\}\\)",
+      "C. \\(\\{1,3,5,7,9\\}\\)",
+      "D. \\(\\{0,2,4,6,8\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -560,12 +560,12 @@
   },
   {
     "id": 44,
-    "question": "Find the value of 1010₂ + 110₂.",
+    "question": "Find the value of \\(1010_{2} + 110_{2}\\).",
     "options": [
-      "A. 10000₂",
-      "B. 1110₂",
-      "C. 1100₂",
-      "D. 10110₂"
+      "A. \\(10000_{2}\\)",
+      "B. \\(1110_{2}\\)",
+      "C. \\(1100_{2}\\)",
+      "D. \\(10110_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -586,12 +586,12 @@
   },
   {
     "id": 46,
-    "question": "Simplify √48 − √27.",
+    "question": "Simplify \\(\\sqrt{48} - \\sqrt{27.}\\)",
     "options": [
-      "A. √3",
-      "B. 2√3",
-      "C. 3√3",
-      "D. √12"
+      "A. \\(\\sqrt{3}\\)",
+      "B. \\(2\\sqrt{3}\\)",
+      "C. \\(3\\sqrt{3}\\)",
+      "D. \\(\\sqrt{12}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -599,12 +599,12 @@
   },
   {
     "id": 47,
-    "question": "If A and B are disjoint sets, then A ∩ B is",
+    "question": "If A and B are disjoint sets, then A \\(\\cap\\) B is",
     "options": [
       "A. empty set",
       "B. universal set",
-      "C. A ∪ B",
-      "D. A − B"
+      "C. A \\(\\cup\\) B",
+      "D. A \\(-\\) B"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -612,12 +612,12 @@
   },
   {
     "id": 48,
-    "question": "Convert 0.4₁₀ to base 2 (correct to 4 binary places).",
+    "question": "Convert \\(0.4_{10}\\) to base 2 (correct to 4 binary places).",
     "options": [
-      "A. 0.0110₂",
-      "B. 0.0101₂",
-      "C. 0.0011₂",
-      "D. 0.1001₂"
+      "A. \\(0.0110_{2}\\)",
+      "B. \\(0.0101_{2}\\)",
+      "C. \\(0.0011_{2}\\)",
+      "D. \\(0.1001_{2}\\)"
     ],
     "answer": "A",
     "topic": "Number bases",
@@ -638,7 +638,7 @@
   },
   {
     "id": 50,
-    "question": "If n(U) = 50, n(A) = 30, n(B) = 25 and n(A ∩ B) = 10, then n(A ∪ B)′ is",
+    "question": "If n(U) = 50, n(A) = 30, n(B) = 25 and n(A \\(\\cap B) = 10,\\) then n(A \\(\\cup\\) B)′ is",
     "options": [
       "A. 5",
       "B. 10",
@@ -651,12 +651,12 @@
   },
   {
     "id": 51,
-    "question": "Simplify 2⁴ × 2⁻² ÷ 2³.",
+    "question": "Simplify \\(2^{4} \\times 2^{-2} \\div 2^{3}\\).",
     "options": [
-      "A. 2¹",
-      "B. 2⁰",
-      "C. 2²",
-      "D. 2⁻¹"
+      "A. \\(2^{1}\\)",
+      "B. \\(2^{0}\\)",
+      "C. \\(2^{2}\\)",
+      "D. \\(2^{-1}\\)"
     ],
     "answer": "B",
     "topic": "Indices, Logarithms and Surds",
@@ -664,7 +664,7 @@
   },
   {
     "id": 52,
-    "question": "If log₁₀ 5 = 0.6990, find log₁₀ 50.",
+    "question": "If \\(log_{10} 5 = 0\\).6990, find \\(log_{10}\\) 50.",
     "options": [
       "A. 1.6990",
       "B. 0.6990",
@@ -677,7 +677,7 @@
   },
   {
     "id": 53,
-    "question": "Evaluate log₃ 81 − log₃ 9.",
+    "question": "Evaluate \\(log_{3} 81 - log_{3}\\) 9.",
     "options": [
       "A. 1",
       "B. 2",
@@ -690,12 +690,12 @@
   },
   {
     "id": 54,
-    "question": "Simplify √50 − √18 + √8.",
+    "question": "Simplify \\(\\sqrt{50} - \\sqrt{18} + \\sqrt{8.}\\)",
     "options": [
-      "A. 3√2",
-      "B. 4√2",
-      "C. 5√2",
-      "D. 2√2"
+      "A. \\(3\\sqrt{2}\\)",
+      "B. \\(4\\sqrt{2}\\)",
+      "C. \\(5\\sqrt{2}\\)",
+      "D. \\(2\\sqrt{2}\\)"
     ],
     "answer": "B",
     "topic": "Indices, Logarithms and Surds",
@@ -703,12 +703,12 @@
   },
   {
     "id": 55,
-    "question": "Rationalize 3 / (√7 − √2).",
+    "question": "Rationalize 3 / (\\(\\sqrt{7} - \\sqrt{2}\\)).",
     "options": [
-      "A. √7 + √2",
-      "B. (√7 + √2)/5",
-      "C. (√7 + √2)/3",
-      "D. 3(√7 + √2)/5"
+      "A. \\(\\sqrt{7} + \\sqrt{2}\\)",
+      "B. \\((\\sqrt{7} + \\sqrt{2}\\))/5",
+      "C. \\((\\sqrt{7} + \\sqrt{2}\\))/3",
+      "D. \\(3(\\sqrt{7} + \\sqrt{2}\\))/5"
     ],
     "answer": "D",
     "topic": "Indices, Logarithms and Surds",
@@ -716,7 +716,7 @@
   },
   {
     "id": 56,
-    "question": "If 5ˣ⁺¹ = 125, find the value of x.",
+    "question": "If \\(5^{x+1} = 125,\\) find the value of x.",
     "options": [
       "A. 1",
       "B. 2",
@@ -729,11 +729,11 @@
   },
   {
     "id": 57,
-    "question": "Change log₂ 16 to base 4.",
+    "question": "Change \\(log_{2}\\) 16 to base 4.",
     "options": [
-      "A. log₄ 2",
-      "B. log₄ 4",
-      "C. log₄ 8",
+      "A. \\(log_{4}\\) 2",
+      "B. \\(log_{4}\\) 4",
+      "C. \\(log_{4}\\) 8",
       "D. 2"
     ],
     "answer": "D",
@@ -742,12 +742,12 @@
   },
   {
     "id": 58,
-    "question": "Express 1 / (2 + √3) with rational denominator.",
+    "question": "Express 1 / (2 + \\(\\sqrt{3}\\)) with rational denominator.",
     "options": [
-      "A. 2 − √3",
-      "B. √3 − 2",
-      "C. 2 + √3",
-      "D. √3 + 2"
+      "A. \\(2 - \\sqrt{3}\\)",
+      "B. \\(\\sqrt{3} -\\) 2",
+      "C. \\(2 + \\sqrt{3}\\)",
+      "D. \\(\\sqrt{3} + 2\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -760,7 +760,7 @@
       "A. 5",
       "B. 6",
       "C. 1",
-      "D. 3/2"
+      "D. \\(\\frac{3}{2}\\)"
     ],
     "answer": "B",
     "topic": "Indices, Logarithms and Surds",
@@ -768,12 +768,12 @@
   },
   {
     "id": 60,
-    "question": "Simplify (√5 + √2)(√5 − √2).",
+    "question": "Simplify (\\(\\sqrt{5} + \\sqrt{2} )( \\sqrt{5} - \\sqrt{2}\\)).",
     "options": [
       "A. 3",
       "B. 7",
-      "C. 5 − 2",
-      "D. √10"
+      "C. \\(5 -\\) 2",
+      "D. \\(\\sqrt{10}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -794,12 +794,12 @@
   },
   {
     "id": 62,
-    "question": "Given U = {1,2,3,4,5,6}, A = {1,2,3}, B = {3,4,5}, find A ∪ B.",
+    "question": "Given U = \\(\\{1,2,3,4,5,6\\} , A = \\{1,2,3\\} , B = \\{3,4,5\\}\\), find A \\(\\cup\\) B.",
     "options": [
-      "A. {1,2,3,4,5}",
-      "B. {3}",
-      "C. {1,2,3,4,5,6}",
-      "D. {1,2,4,5}"
+      "A. \\(\\{1,2,3,4,5\\}\\)",
+      "B. \\(\\{3\\}\\)",
+      "C. \\(\\{1,2,3,4,5,6\\}\\)",
+      "D. \\(\\{1,2,4,5\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -807,7 +807,7 @@
   },
   {
     "id": 63,
-    "question": "If n(A) = 20, n(B) = 25, n(A ∩ B) = 8, then n(A ∪ B) is",
+    "question": "If n(A) = 20, n(B) = 25, \\(n(A \\cap B) = 8,\\) then n(A \\(\\cup\\) B) is",
     "options": [
       "A. 37",
       "B. 45",
@@ -833,12 +833,12 @@
   },
   {
     "id": 65,
-    "question": "If A and B are two sets such that A ⊂ B, then A ∩ B equals",
+    "question": "If A and B are two sets such that A ⊂ B, then A \\(\\cap\\) B equals",
     "options": [
       "A. A",
       "B. B",
       "C. empty set",
-      "D. A ∪ B"
+      "D. A \\(\\cup\\) B"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -846,7 +846,7 @@
   },
   {
     "id": 66,
-    "question": "Using a Venn diagram, if n(A only) = 12, n(B only) = 8, n(A ∩ B) = 5 and n(U) = 40, then n(neither) is",
+    "question": "Using a Venn diagram, if n(A only) = 12, n(B only) = 8, \\(n(A \\cap B) = 5\\) and n(U) = 40, then n(neither) is",
     "options": [
       "A. 15",
       "B. 20",
@@ -872,12 +872,12 @@
   },
   {
     "id": 68,
-    "question": "If A = {2,4,6,8}, B = {1,2,3,4}, then A − B is",
+    "question": "If A = \\(\\{2,4,6,8\\} , B = \\{1,2,3,4\\}\\), then A \\(-\\) B is",
     "options": [
-      "A. {6,8}",
-      "B. {1,3}",
-      "C. {2,4}",
-      "D. {1,2,3,4,6,8}"
+      "A. \\(\\{6,8\\}\\)",
+      "B. \\(\\{1,3\\}\\)",
+      "C. \\(\\{2,4\\}\\)",
+      "D. \\(\\{1,2,3,4,6,8\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -885,7 +885,7 @@
   },
   {
     "id": 69,
-    "question": "Three sets A, B, C satisfy n(A ∩ B ∩ C) = 4, n(A ∩ B) = 10. How many elements are in A ∩ B but not in C?",
+    "question": "Three sets A, B, C satisfy n(A \\(\\cap B \\cap C) = 4, n(A \\cap B) = 10\\). How many elements are in A \\(\\cap\\) B but not in C?",
     "options": [
       "A. 6",
       "B. 4",
@@ -911,7 +911,7 @@
   },
   {
     "id": 71,
-    "question": "Simplify 16^{3/4} × 8^{1/3}.",
+    "question": "Simplify \\(16^{\\frac{3}{4}} \\times 8^{\\frac{1}{3}}\\).",
     "options": [
       "A. 8",
       "B. 16",
@@ -924,7 +924,7 @@
   },
   {
     "id": 72,
-    "question": "Evaluate (3√2 − √8)².",
+    "question": "Evaluate (3\\(\\sqrt{2} - \\sqrt{8}\\)\\()^{2}\\).",
     "options": [
       "A. 2",
       "B. 10",
@@ -937,7 +937,7 @@
   },
   {
     "id": 73,
-    "question": "If 3^{2x} = 81, then x equals",
+    "question": "If \\(3^{2x} = 81,\\) then x equals",
     "options": [
       "A. 2",
       "B. 4",
@@ -950,7 +950,7 @@
   },
   {
     "id": 74,
-    "question": "Find the value of log₅ 1.",
+    "question": "Find the value of \\(log_{5}\\) 1.",
     "options": [
       "A. 0",
       "B. 1",
@@ -963,12 +963,12 @@
   },
   {
     "id": 75,
-    "question": "Simplify √(12/27).",
+    "question": "Simplify \\(\\sqrt{\\frac{12}{27}}\\).",
     "options": [
-      "A. 2/3",
-      "B. √(4/9)",
-      "C. √3 / 3",
-      "D. 2√3 / 9"
+      "A. \\(\\frac{2}{3}\\)",
+      "B. \\(\\sqrt{\\frac{4}{9}}\\)",
+      "C. \\(\\sqrt{\\frac{3}{3}}\\)",
+      "D. \\(2\\sqrt{\\frac{3}{9}}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -976,7 +976,7 @@
   },
   {
     "id": 76,
-    "question": "If A ∪ B = U and A ∩ B = ∅, then A and B are",
+    "question": "If A \\(\\cup B = U\\) and A \\(\\cap B = \\emptyset\\), then A and B are",
     "options": [
       "A. complementary sets",
       "B. equal sets",
@@ -1004,10 +1004,10 @@
     "id": 78,
     "question": "Express 0.00081 in standard form.",
     "options": [
-      "A. 8.1 × 10⁻⁴",
-      "B. 8.1 × 10⁻⁵",
-      "C. 81 × 10⁻⁵",
-      "D. 0.81 × 10⁻³"
+      "A. \\(8.1 \\times 10^{-4}\\)",
+      "B. \\(8.1 \\times 10^{-5}\\)",
+      "C. \\(81 \\times 10^{-5}\\)",
+      "D. \\(0.81 \\times 10^{-3}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 79,
-    "question": "If logₓ 27 = 3/2, then x is",
+    "question": "If \\(log_{x} 27 = \\frac{3}{2}\\), then x is",
     "options": [
       "A. 9",
       "B. 3",
@@ -1028,12 +1028,12 @@
   },
   {
     "id": 80,
-    "question": "Simplify 4√3 − 2√12 + √27.",
+    "question": "Simplify 4\\(\\sqrt{3} - 2 \\sqrt{12} + \\sqrt{27.}\\)",
     "options": [
-      "A. 3√3",
-      "B. 5√3",
-      "C. √3",
-      "D. 7√3"
+      "A. \\(3\\sqrt{3}\\)",
+      "B. \\(5\\sqrt{3}\\)",
+      "C. \\(\\sqrt{3}\\)",
+      "D. \\(7\\sqrt{3}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 81,
-    "question": "If n(A) = 12, n(B) = 18 and n(A ∪ B) = 25, find n(A ∩ B).",
+    "question": "If n(A) = 12, n(B) = 18 and n(A \\(\\cup B) = 25,\\) find n(A \\(\\cap\\) B).",
     "options": [
       "A. 5",
       "B. 7",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": 83,
-    "question": "Solve for x: 2^{x+1} = 32.",
+    "question": "Solve for x: \\(2^{x+1} = 32\\).",
     "options": [
       "A. 4",
       "B. 5",
@@ -1093,12 +1093,12 @@
   },
   {
     "id": 85,
-    "question": "Rationalize √5 / (√5 − 2).",
+    "question": "Rationalize \\(\\sqrt{5} / ( \\sqrt{5} - 2)\\).",
     "options": [
-      "A. −(5 + 2√5)",
-      "B. 5 + 2√5",
-      "C. −5 − 2√5",
-      "D. √5 + 2"
+      "A. \\(- (5 + 2 \\sqrt{5}\\))",
+      "B. \\(5 + 2\\sqrt{5}\\)",
+      "C. \\(- 5 - 2 \\sqrt{5}\\)",
+      "D. \\(\\sqrt{5} + 2\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": 86,
-    "question": "Given three sets with n(A ∩ B ∩ C) = 2, the number of elements common to all three is",
+    "question": "Given three sets with n(A \\(\\cap B \\cap C) = 2,\\) the number of elements common to all three is",
     "options": [
       "A. 2",
       "B. 0",
@@ -1119,12 +1119,12 @@
   },
   {
     "id": 87,
-    "question": "Simplify (a³b⁻²) / (a⁻¹b³) when a = 2, b = 3.",
+    "question": "Simplify \\(\\frac{a^{3}b^{-2}}{a^{-1}b^{3}}\\) when a = 2, b = 3.",
     "options": [
-      "A. 8/27",
-      "B. 4/9",
-      "C. 2/3",
-      "D. 16/81"
+      "A. \\(\\frac{8}{27}\\)",
+      "B. \\(\\frac{4}{9}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{16}{81}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1132,7 +1132,7 @@
   },
   {
     "id": 88,
-    "question": "If A = {1,2,3}, the power set of A contains",
+    "question": "If A = \\(\\{1,2,3\\}\\), the power set of A contains",
     "options": [
       "A. 8 elements",
       "B. 6 elements",
@@ -1145,12 +1145,12 @@
   },
   {
     "id": 89,
-    "question": "Evaluate log₂ (1/8).",
+    "question": "Evaluate \\(log_{2} ( \\frac{1}{8}\\)).",
     "options": [
-      "A. −3",
+      "A. \\(-\\)3",
       "B. 3",
-      "C. −2",
-      "D. 1/3"
+      "C. \\(-\\)2",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 91,
-    "question": "Simplify 9^{1/2} × 27^{1/3}.",
+    "question": "Simplify \\(9^{\\frac{1}{2}} \\times 27^{\\frac{1}{3}}\\).",
     "options": [
       "A. 9",
       "B. 3",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 92,
-    "question": "If log₁₀ x = 2.5, then x equals",
+    "question": "If \\(log_{10} x = 2\\).5, then x equals",
     "options": [
       "A. 316.2",
       "B. 250",
@@ -1197,12 +1197,12 @@
   },
   {
     "id": 93,
-    "question": "Find A′ if U = {a,b,c,d,e,f} and A = {a,c,e}.",
+    "question": "Find A′ if U = \\(\\{a,b,c,d,e,f\\}\\) and A = \\(\\{a,c,e\\}\\).",
     "options": [
-      "A. {b,d,f}",
-      "B. {a,c,e}",
-      "C. {a,b,c}",
-      "D. {d,e,f}"
+      "A. \\(\\{b,d,f\\}\\)",
+      "B. \\(\\{a,c,e\\}\\)",
+      "C. \\(\\{a,b,c\\}\\)",
+      "D. \\(\\{d,e,f\\}\\)"
     ],
     "answer": "A",
     "topic": "Sets",
@@ -1210,12 +1210,12 @@
   },
   {
     "id": 94,
-    "question": "Simplify √(75) − √(12).",
+    "question": "Simplify \\(\\sqrt{75} - \\sqrt{12}\\).",
     "options": [
-      "A. 3√3",
-      "B. 5√3",
-      "C. √3",
-      "D. 4√3"
+      "A. \\(3\\sqrt{3}\\)",
+      "B. \\(5\\sqrt{3}\\)",
+      "C. \\(\\sqrt{3}\\)",
+      "D. \\(4\\sqrt{3}\\)"
     ],
     "answer": "A",
     "topic": "Indices, Logarithms and Surds",
@@ -1223,11 +1223,11 @@
   },
   {
     "id": 95,
-    "question": "If 4^x = 1/64, then x is",
+    "question": "If \\(4^{x} = \\frac{1}{64}\\), then x is",
     "options": [
-      "A. −3",
+      "A. \\(-\\)3",
       "B. 3",
-      "C. −2",
+      "C. \\(-\\)2",
       "D. 2"
     ],
     "answer": "A",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 97,
-    "question": "Calculate log₆ 216.",
+    "question": "Calculate \\(log_{6}\\) 216.",
     "options": [
       "A. 3",
       "B. 2",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": 98,
-    "question": "If n(U) = 100, n(A) = 45, n(B) = 40, n(A ∩ B) = 15, then n(A′ ∩ B′) is",
+    "question": "If n(U) = 100, n(A) = 45, n(B) = 40, \\(n(A \\cap B) = 15,\\) then n(A′ \\(\\cap\\) B′) is",
     "options": [
       "A. 30",
       "B. 25",
@@ -1275,10 +1275,10 @@
   },
   {
     "id": 99,
-    "question": "Simplify (√3 + √2)² − (√3 − √2)².",
+    "question": "Simplify (\\(\\sqrt{3} + \\sqrt{2}\\)\\()^{2} - ( \\sqrt{3} - \\sqrt{2}\\)\\()^{2}\\).",
     "options": [
-      "A. 4√6",
-      "B. 2√6",
+      "A. \\(4\\sqrt{6}\\)",
+      "B. \\(2\\sqrt{6}\\)",
       "C. 6",
       "D. 12"
     ],
@@ -1303,10 +1303,10 @@
     "id": 101,
     "question": "Make t the subject of the formula v = u + at.",
     "options": [
-      "A. t = (v − u)/a",
-      "B. t = (v + u)/a",
-      "C. t = a/(v − u)",
-      "D. t = v − u − a"
+      "A. \\(t = \\frac{v - u}{a}\\)",
+      "B. \\(t = \\frac{v + u}{a}\\)",
+      "C. \\(t = \\frac{a}{v - u}\\)",
+      "D. \\(t = v - u -\\) a"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1314,11 +1314,11 @@
   },
   {
     "id": 102,
-    "question": "If f(x) = x³ − 6x² + 11x − 6, the remainder when f(x) is divided by (x − 1) is",
+    "question": "If f(x) = \\(x^{3} - 6x^{2} + 11x - 6,\\) the remainder when f(x) is divided by (x \\(-\\) 1) is",
     "options": [
       "A. 0",
       "B. 1",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 2"
     ],
     "answer": "A",
@@ -1327,12 +1327,12 @@
   },
   {
     "id": 103,
-    "question": "Factorize completely x³ − 8.",
+    "question": "Factorize completely \\(x^{3} -\\) 8.",
     "options": [
-      "A. (x − 2)(x² + 2x + 4)",
-      "B. (x + 2)(x² − 2x + 4)",
-      "C. (x − 2)(x² − 2x + 4)",
-      "D. (x − 2)(x² + 4)"
+      "A. \\((x - 2)(x^{2} + 2x + 4)\\)",
+      "B. \\((x + 2)(x^{2} - 2x + 4)\\)",
+      "C. \\((x - 2)(x^{2} - 2x + 4)\\)",
+      "D. \\((x - 2)(x^{2} + 4)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1340,12 +1340,12 @@
   },
   {
     "id": 104,
-    "question": "Solve the simultaneous equations x + y = 5 and x² + y² = 13.",
+    "question": "Solve the simultaneous equations x + y = 5 and \\(x^{2} + y^{2} = 13\\).",
     "options": [
       "A. (2,3) and (3,2)",
       "B. (1,4) and (4,1)",
       "C. (0,5) and (5,0)",
-      "D. (−1,6) and (6,−1)"
+      "D. \\((-1,6)\\) and (6,\\(-1)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1353,12 +1353,12 @@
   },
   {
     "id": 105,
-    "question": "The roots of the equation x² − 5x + 6 = 0 are",
+    "question": "The roots of the equation \\(x^{2} - 5x + 6 = 0\\) are",
     "options": [
       "A. 2 and 3",
-      "B. −2 and −3",
+      "B. \\(-\\)2 and \\(-\\)3",
       "C. 1 and 6",
-      "D. −1 and −6"
+      "D. \\(-\\)1 and \\(-\\)6"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1366,12 +1366,12 @@
   },
   {
     "id": 106,
-    "question": "If (x − 2) is a factor of x³ − 6x² + 11x − 6, the other factor is",
+    "question": "If (x \\(-\\) 2) is a factor of \\(x^{3} - 6x^{2} + 11x - 6,\\) the other factor is",
     "options": [
-      "A. x² − 4x + 3",
-      "B. x² − 4x − 3",
-      "C. x² + 4x + 3",
-      "D. x² − 2x + 3"
+      "A. \\(x^{2} - 4x + 3\\)",
+      "B. \\(x^{2} - 4x -\\) 3",
+      "C. \\(x^{2} + 4x + 3\\)",
+      "D. \\(x^{2} - 2x + 3\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1379,12 +1379,12 @@
   },
   {
     "id": 107,
-    "question": "Make r the subject of the formula A = πr².",
+    "question": "Make r the subject of the formula A = \\(\\pi\\)\\(r^{2}\\).",
     "options": [
-      "A. r = √(A/π)",
-      "B. r = A/π",
-      "C. r = π/A",
-      "D. r = √(π/A)"
+      "A. \\(r = \\sqrt{A/ \\pi}\\)",
+      "B. \\(r = \\frac{A}{\\pi}\\)",
+      "C. \\(r = \\frac{\\pi}{A}\\)",
+      "D. \\(r = \\sqrt{\\pi /A}\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1392,12 +1392,12 @@
   },
   {
     "id": 108,
-    "question": "Divide x³ + 2x² − 5x − 6 by (x + 1).",
+    "question": "Divide \\(x^{3} + 2x^{2} - 5x -\\) 6 by (x + 1).",
     "options": [
-      "A. x² + x − 6",
-      "B. x² − x − 6",
-      "C. x² + 3x − 6",
-      "D. x² + x + 6"
+      "A. \\(x^{2} + x -\\) 6",
+      "B. \\(x^{2} - x -\\) 6",
+      "C. \\(x^{2} + 3x -\\) 6",
+      "D. \\(x^{2} + x + 6\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1405,10 +1405,10 @@
   },
   {
     "id": 109,
-    "question": "The graph of y = x² − 4x + 3 crosses the x-axis at",
+    "question": "The graph of y = \\(x^{2} - 4x + 3\\) crosses the x-axis at",
     "options": [
       "A. x = 1 and x = 3",
-      "B. x = −1 and x = −3",
+      "B. \\(x = -\\)1 and x = \\(-\\)3",
       "C. x = 0 and x = 4",
       "D. x = 2 and x = 2"
     ],
@@ -1418,10 +1418,10 @@
   },
   {
     "id": 110,
-    "question": "If the remainder theorem is applied to f(x) = 2x³ − 3x² + x − 5 when divided by (x − 2), the remainder is",
+    "question": "If the remainder theorem is applied to f(x) = \\(2x^{3} - 3x^{2} + x -\\) 5 when divided by (x \\(- 2),\\) the remainder is",
     "options": [
       "A. 1",
-      "B. −1",
+      "B. \\(-\\)1",
       "C. 5",
       "D. 0"
     ],
@@ -1431,11 +1431,11 @@
   },
   {
     "id": 111,
-    "question": "Factorize x² − 5x + 6.",
+    "question": "Factorize \\(x^{2} - 5x + 6\\).",
     "options": [
-      "A. (x − 2)(x − 3)",
+      "A. \\((x - 2)(x - 3)\\)",
       "B. (x + 2)(x + 3)",
-      "C. (x − 1)(x − 6)",
+      "C. \\((x - 1)(x - 6)\\)",
       "D. (x + 1)(x + 6)"
     ],
     "answer": "A",
@@ -1444,12 +1444,12 @@
   },
   {
     "id": 112,
-    "question": "Solve for x and y: 2x + y = 7 and x² − y = 3.",
+    "question": "Solve for x and y: 2x + y = 7 and \\(x^{2} - y = 3\\).",
     "options": [
-      "A. (2,3) and (−1,9)",
+      "A. (2,3) and (\\(-1,9)\\)",
       "B. (1,5) and (3,1)",
-      "C. (0,7) and (4,−1)",
-      "D. (5,−3) and (−2,11)"
+      "C. (0,7) and (4,\\(-1)\\)",
+      "D. (5,\\(-3)\\) and (\\(-2,11)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1457,12 +1457,12 @@
   },
   {
     "id": 113,
-    "question": "The turning point of the curve y = x² − 6x + 5 occurs at",
+    "question": "The turning point of the curve y = \\(x^{2} - 6x + 5\\) occurs at",
     "options": [
-      "A. (3, −4)",
+      "A. (3, \\(-4)\\)",
       "B. (3, 4)",
-      "C. (−3, −4)",
-      "D. (2, −3)"
+      "C. \\((- 3, -4)\\)",
+      "D. (2, \\(-3)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1470,12 +1470,12 @@
   },
   {
     "id": 114,
-    "question": "Make h the subject of V = (1/3)πr²h.",
+    "question": "Make h the subject of V = (\\(\\frac{1}{3} ) \\pi\\)\\(r^{2}\\)h.",
     "options": [
-      "A. h = 3V / (πr²)",
-      "B. h = V / (πr²)",
-      "C. h = 3Vπr²",
-      "D. h = πr² / 3V"
+      "A. \\(h = \\frac{3V}{\\pi r^{2}}\\)",
+      "B. \\(h = \\frac{V}{\\pi r^{2}}\\)",
+      "C. \\(h = 3V\\pi\\)\\(r^{2}\\)",
+      "D. \\(h = \\frac{\\pi r^{2}}{3V}\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1483,12 +1483,12 @@
   },
   {
     "id": 115,
-    "question": "If (x + 1) is a factor of x³ + ax² − x − 6, the value of a is",
+    "question": "If (x + 1) is a factor of \\(x^{3} + ax^{2} - x - 6,\\) the value of a is",
     "options": [
       "A. 2",
-      "B. −2",
+      "B. \\(-\\)2",
       "C. 3",
-      "D. −3"
+      "D. \\(-\\)3"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1496,12 +1496,12 @@
   },
   {
     "id": 116,
-    "question": "Multiply (x − 3) by (x² + 3x + 9).",
+    "question": "Multiply (x \\(-\\) 3) by \\((x^{2} + 3x + 9)\\).",
     "options": [
-      "A. x³ − 27",
-      "B. x³ + 27",
-      "C. x³ − 9x − 27",
-      "D. x³ + 9x + 27"
+      "A. \\(x^{3} -\\) 27",
+      "B. \\(x^{3} + 27\\)",
+      "C. \\(x^{3} - 9x -\\) 27",
+      "D. \\(x^{3} + 9x + 27\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1509,10 +1509,10 @@
   },
   {
     "id": 117,
-    "question": "The equation x² − 7x + 12 = 0 has roots",
+    "question": "The equation \\(x^{2} - 7x + 12 = 0\\) has roots",
     "options": [
       "A. 3 and 4",
-      "B. −3 and −4",
+      "B. \\(-\\)3 and \\(-\\)4",
       "C. 2 and 6",
       "D. 1 and 12"
     ],
@@ -1522,11 +1522,11 @@
   },
   {
     "id": 118,
-    "question": "Using the factor theorem, which of the following is a factor of x³ − 3x² − x + 3?",
+    "question": "Using the factor theorem, which of the following is a factor of \\(x^{3} - 3x^{2} - x + 3\\)?",
     "options": [
-      "A. (x − 1)",
+      "A. \\((x - 1)\\)",
       "B. (x + 1)",
-      "C. (x − 3)",
+      "C. \\((x - 3)\\)",
       "D. (x + 3)"
     ],
     "answer": "A",
@@ -1535,12 +1535,12 @@
   },
   {
     "id": 119,
-    "question": "Solve simultaneously: y = 2x − 1 and y = x² − 4.",
+    "question": "Solve simultaneously: \\(y = 2x -\\) 1 and y = \\(x^{2} -\\) 4.",
     "options": [
-      "A. (1,1) and (−3,−7)",
-      "B. (2,3) and (−1,−3)",
-      "C. (0,−1) and (3,5)",
-      "D. (4,7) and (−2,−5)"
+      "A. (1,1) and (\\(- 3, -7)\\)",
+      "B. (2,3) and (\\(- 1, -3)\\)",
+      "C. (0,\\(-1)\\) and (3,5)",
+      "D. (4,7) and (\\(- 2, -5)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1548,11 +1548,11 @@
   },
   {
     "id": 120,
-    "question": "The minimum value of the function y = x² − 4x + 7 is",
+    "question": "The minimum value of the function y = \\(x^{2} -\\) 4x + 7 is",
     "options": [
       "A. 3",
       "B. 7",
-      "C. −3",
+      "C. \\(-\\)3",
       "D. 4"
     ],
     "answer": "A",
@@ -1561,12 +1561,12 @@
   },
   {
     "id": 121,
-    "question": "Change the subject of the formula s = ut + (1/2)at² to a.",
+    "question": "Change the subject of the formula s = ut + (\\(\\frac{1}{2}\\)\\()at^{2}\\) to a.",
     "options": [
-      "A. a = 2(s − ut)/t²",
-      "B. a = (s − ut)/t²",
-      "C. a = 2(s + ut)/t²",
-      "D. a = (s + ut)/2t²"
+      "A. \\(a = 2\\frac{s - ut}{t^{2}}\\)",
+      "B. \\(a = \\frac{s - ut}{t^{2}}\\)",
+      "C. \\(a = 2\\frac{s + ut}{t^{2}}\\)",
+      "D. \\(a = \\frac{s + ut}{2t^{2}}\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1574,12 +1574,12 @@
   },
   {
     "id": 122,
-    "question": "Factorize 2x² − 5x − 3.",
+    "question": "Factorize \\(2x^{2} - 5x -\\) 3.",
     "options": [
-      "A. (2x + 1)(x − 3)",
-      "B. (2x − 1)(x + 3)",
-      "C. (2x − 3)(x + 1)",
-      "D. (2x + 3)(x − 1)"
+      "A. \\((2x + 1)(x - 3)\\)",
+      "B. \\((2x - 1)(x + 3)\\)",
+      "C. \\((2x - 3)(x + 1)\\)",
+      "D. \\((2x + 3)(x - 1)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1587,11 +1587,11 @@
   },
   {
     "id": 123,
-    "question": "If f(x) = x³ − 4x² + x + 6, f(−1) equals",
+    "question": "If f(x) = \\(x^{3} - 4x^{2} + x + 6, f( -1)\\) equals",
     "options": [
       "A. 0",
       "B. 2",
-      "C. −2",
+      "C. \\(-\\)2",
       "D. 4"
     ],
     "answer": "A",
@@ -1600,12 +1600,12 @@
   },
   {
     "id": 124,
-    "question": "The product of the roots of x² − 6x + 8 = 0 is",
+    "question": "The product of the roots of \\(x^{2} -\\) 6x + 8 = 0 is",
     "options": [
       "A. 8",
-      "B. −8",
+      "B. \\(-\\)8",
       "C. 6",
-      "D. −6"
+      "D. \\(-\\)6"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1613,12 +1613,12 @@
   },
   {
     "id": 125,
-    "question": "Divide 2x³ − 5x² + 3x − 1 by (x − 1).",
+    "question": "Divide \\(2x^{3} - 5x^{2} + 3x -\\) 1 by (x \\(- 1)\\).",
     "options": [
-      "A. 2x² − 3x",
-      "B. 2x² − 3x + 1",
-      "C. 2x² − 3x − 1",
-      "D. 2x² + 3x − 1"
+      "A. \\(2x^{2} - 3x\\)",
+      "B. \\(2x^{2} - 3x + 1\\)",
+      "C. \\(2x^{2} - 3x -\\) 1",
+      "D. \\(2x^{2} + 3x -\\) 1"
     ],
     "answer": "B",
     "topic": "Polynomials",
@@ -1626,11 +1626,11 @@
   },
   {
     "id": 126,
-    "question": "The graph of y = −x² + 4x − 3 has a maximum at",
+    "question": "The graph of y = \\(-\\)\\(x^{2} + 4x -\\) 3 has a maximum at",
     "options": [
       "A. (2,1)",
-      "B. (2,−1)",
-      "C. (−2,1)",
+      "B. (2,\\(-1)\\)",
+      "C. \\((-2,1)\\)",
       "D. (1,2)"
     ],
     "answer": "A",
@@ -1639,10 +1639,10 @@
   },
   {
     "id": 127,
-    "question": "Make p the subject of 1/f = 1/p + 1/q.",
+    "question": "Make p the subject of \\(\\frac{1}{f} = \\frac{1}{p} + \\frac{1}{q}\\).",
     "options": [
-      "A. p = fq / (q − f)",
-      "B. p = fq / (f − q)",
+      "A. \\(p = \\frac{fq}{q - f}\\)",
+      "B. \\(p = \\frac{fq}{f - q}\\)",
       "C. p = f + q",
       "D. p = fq"
     ],
@@ -1652,12 +1652,12 @@
   },
   {
     "id": 128,
-    "question": "Which of the following is a root of x³ − 6x² + 11x − 6 = 0?",
+    "question": "Which of the following is a root of \\(x^{3} - 6x^{2} + 11x - 6 = 0\\)?",
     "options": [
       "A. 1",
-      "B. −1",
+      "B. \\(-\\)1",
       "C. 4",
-      "D. −2"
+      "D. \\(-\\)2"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1665,12 +1665,12 @@
   },
   {
     "id": 129,
-    "question": "Solve x + 2y = 8 and x² + y = 7 simultaneously.",
+    "question": "Solve x + 2y = 8 and \\(x^{2} + y = 7\\) simultaneously.",
     "options": [
-      "A. (2,3) and (−4,6)",
+      "A. (2,3) and (\\(-4,6)\\)",
       "B. (4,2) and (0,4)",
       "C. (1,3.5) and (5,1.5)",
-      "D. (3,2.5) and (−1,4.5)"
+      "D. (3,2.5) and (\\(-1,4\\).5)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1678,12 +1678,12 @@
   },
   {
     "id": 130,
-    "question": "Factorize completely x³ + 3x² − 4x − 12.",
+    "question": "Factorize completely \\(x^{3} + 3x^{2} - 4x -\\) 12.",
     "options": [
-      "A. (x + 3)(x + 2)(x − 2)",
-      "B. (x − 3)(x + 2)(x − 2)",
-      "C. (x + 3)(x − 2)(x − 2)",
-      "D. (x + 3)(x² − 4)"
+      "A. \\((x + 3)(x + 2)(x - 2)\\)",
+      "B. \\((x - 3)(x + 2)(x - 2)\\)",
+      "C. \\((x + 3)(x - 2)(x - 2)\\)",
+      "D. \\((x + 3)(x^{2} - 4)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1691,12 +1691,12 @@
   },
   {
     "id": 131,
-    "question": "The sum of the roots of 2x² − 5x + 3 = 0 is",
+    "question": "The sum of the roots of \\(2x^{2} -\\) 5x + 3 = 0 is",
     "options": [
-      "A. 5/2",
-      "B. −5/2",
-      "C. 3/2",
-      "D. −3/2"
+      "A. \\(\\frac{5}{2}\\)",
+      "B. \\(-\\)\\(\\frac{5}{2}\\)",
+      "C. \\(\\frac{3}{2}\\)",
+      "D. \\(-\\)\\(\\frac{3}{2}\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1704,12 +1704,12 @@
   },
   {
     "id": 132,
-    "question": "If (x − 3) is a factor of x³ − 4x² − 3x + 18, the other quadratic factor is",
+    "question": "If (x \\(-\\) 3) is a factor of \\(x^{3} - 4x^{2} - 3x + 18,\\) the other quadratic factor is",
     "options": [
-      "A. x² − x − 6",
-      "B. x² + x − 6",
-      "C. x² − x + 6",
-      "D. x² + x + 6"
+      "A. \\(x^{2} - x -\\) 6",
+      "B. \\(x^{2} + x -\\) 6",
+      "C. \\(x^{2} - x + 6\\)",
+      "D. \\(x^{2} + x + 6\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 133,
-    "question": "Find the value of k if (x − 2) is a factor of x³ − kx² + 5x − 6.",
+    "question": "Find the value of k if (x \\(-\\) 2) is a factor of \\(x^{3} - kx^{2} + 5x -\\) 6.",
     "options": [
       "A. 4",
       "B. 3",
@@ -1730,11 +1730,11 @@
   },
   {
     "id": 134,
-    "question": "The y-intercept of the curve y = x³ − 3x² + 2 is",
+    "question": "The y-intercept of the curve y = \\(x^{3} - 3x^{2}\\) + 2 is",
     "options": [
       "A. 2",
       "B. 0",
-      "C. −2",
+      "C. \\(-\\)2",
       "D. 1"
     ],
     "answer": "A",
@@ -1743,12 +1743,12 @@
   },
   {
     "id": 135,
-    "question": "Solve the equations y = x² − 5x + 6 and y = 2x − 2.",
+    "question": "Solve the equations y = \\(x^{2} - 5x + 6\\) and y = 2x \\(-\\) 2.",
     "options": [
       "A. (2,2) and (4,6)",
       "B. (1,0) and (3,4)",
       "C. (0,6) and (5,8)",
-      "D. (−1,−4) and (6,10)"
+      "D. \\((- 1, -4)\\) and (6,10)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1756,12 +1756,12 @@
   },
   {
     "id": 136,
-    "question": "Make v the subject of the formula E = (1/2)mv².",
+    "question": "Make v the subject of the formula E = (\\(\\frac{1}{2}\\)\\()mv^{2}\\).",
     "options": [
-      "A. v = √(2E/m)",
-      "B. v = √(E/m)",
-      "C. v = 2E/m",
-      "D. v = √(2Em)"
+      "A. \\(v = \\sqrt{\\frac{2E}{m}}\\)",
+      "B. \\(v = \\sqrt{\\frac{E}{m}}\\)",
+      "C. \\(v = \\frac{2E}{m}\\)",
+      "D. \\(v = \\sqrt{2Em}\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1769,12 +1769,12 @@
   },
   {
     "id": 137,
-    "question": "Factorize x³ − x² − 4x + 4.",
+    "question": "Factorize \\(x^{3} - x^{2} - 4x + 4\\).",
     "options": [
-      "A. (x − 1)(x − 2)(x + 2)",
-      "B. (x + 1)(x − 2)(x + 2)",
-      "C. (x − 1)(x + 2)(x + 2)",
-      "D. (x − 1)(x² − 4)"
+      "A. \\((x - 1)(x - 2)(x + 2)\\)",
+      "B. \\((x + 1)(x - 2)(x + 2)\\)",
+      "C. \\((x - 1)(x + 2)(x + 2)\\)",
+      "D. \\((x - 1)(x^{2} - 4)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1782,11 +1782,11 @@
   },
   {
     "id": 138,
-    "question": "The remainder when x³ + 2x² − 5x − 6 is divided by (x + 2) is",
+    "question": "The remainder when \\(x^{3} + 2x^{2} - 5x -\\) 6 is divided by (x + 2) is",
     "options": [
       "A. 0",
       "B. 4",
-      "C. −4",
+      "C. \\(-\\)4",
       "D. 2"
     ],
     "answer": "A",
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 139,
-    "question": "If the roots of x² − px + q = 0 are 2 and 5, then p + q equals",
+    "question": "If the roots of \\(x^{2} - px + q = 0\\) are 2 and 5, then p + q equals",
     "options": [
       "A. 17",
       "B. 7",
@@ -1808,10 +1808,10 @@
   },
   {
     "id": 140,
-    "question": "The axis of symmetry of the parabola y = x² − 8x + 12 is",
+    "question": "The axis of symmetry of the parabola y = \\(x^{2} -\\) 8x + 12 is",
     "options": [
       "A. x = 4",
-      "B. x = −4",
+      "B. \\(x = -\\)4",
       "C. x = 2",
       "D. x = 6"
     ],
@@ -1821,12 +1821,12 @@
   },
   {
     "id": 141,
-    "question": "Multiply (2x − 1) by (x² − 3x + 2).",
+    "question": "Multiply (2x \\(-\\) 1) by \\((x^{2} - 3x + 2)\\).",
     "options": [
-      "A. 2x³ − 7x² + 7x − 2",
-      "B. 2x³ − 5x² + 7x − 2",
-      "C. 2x³ − 7x² + 5x − 2",
-      "D. 2x³ − 7x² + 7x + 2"
+      "A. \\(2x^{3} - 7x^{2} + 7x -\\) 2",
+      "B. \\(2x^{3} - 5x^{2} + 7x -\\) 2",
+      "C. \\(2x^{3} - 7x^{2} + 5x -\\) 2",
+      "D. \\(2x^{3} - 7x^{2} + 7x + 2\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1834,7 +1834,7 @@
   },
   {
     "id": 142,
-    "question": "Find the value of m if x = 2 is a root of x³ − mx² + 4x − 8 = 0.",
+    "question": "Find the value of m if x = 2 is a root of \\(x^{3} - mx^{2} + 4x - 8 = 0\\).",
     "options": [
       "A. 4",
       "B. 2",
@@ -1847,12 +1847,12 @@
   },
   {
     "id": 143,
-    "question": "The quadratic equation with roots 3 and −2 is",
+    "question": "The quadratic equation with roots 3 and \\(-\\)2 is",
     "options": [
-      "A. x² − x − 6 = 0",
-      "B. x² + x − 6 = 0",
-      "C. x² − x + 6 = 0",
-      "D. x² + x + 6 = 0"
+      "A. \\(x^{2} - x - 6 = 0\\)",
+      "B. \\(x^{2} + x - 6 = 0\\)",
+      "C. \\(x^{2} - x + 6 = 0\\)",
+      "D. \\(x^{2} + x + 6 = 0\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1860,10 +1860,10 @@
   },
   {
     "id": 144,
-    "question": "Using remainder theorem, f(3) for f(x) = x³ − 5x² + 2x + 8 is",
+    "question": "Using remainder theorem, f(3) for f(x) = \\(x^{3} - 5x^{2}\\) + 2x + 8 is",
     "options": [
       "A. 2",
-      "B. −2",
+      "B. \\(-\\)2",
       "C. 5",
       "D. 0"
     ],
@@ -1873,12 +1873,12 @@
   },
   {
     "id": 145,
-    "question": "Solve 3x + y = 10 and x² − y = 4 simultaneously for positive x.",
+    "question": "Solve 3x + y = 10 and \\(x^{2} - y = 4\\) simultaneously for positive x.",
     "options": [
       "A. x = 2, y = 4",
       "B. x = 1, y = 7",
       "C. x = 3, y = 1",
-      "D. x = 4, y = −2"
+      "D. x = 4, \\(y = -\\)2"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1886,12 +1886,12 @@
   },
   {
     "id": 146,
-    "question": "Make g the subject of T = 2π√(l/g).",
+    "question": "Make g the subject of T = 2\\(\\pi\\)\\(\\sqrt{\\frac{l}{g}}\\).",
     "options": [
-      "A. g = 4π²l / T²",
-      "B. g = 2πl / T",
-      "C. g = 4π²T² / l",
-      "D. g = T² / 4π²l"
+      "A. \\(g = \\frac{4 \\pi ^{2}l}{T^{2}}\\)",
+      "B. \\(g = \\frac{2 \\pi l}{T}\\)",
+      "C. \\(g = 4\\pi\\)\\(\\frac{^{2}T^{2}}{l}\\)",
+      "D. \\(g = \\frac{T^{2}}{4}\\)\\(\\pi\\)\\(^{2}\\)l"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1899,12 +1899,12 @@
   },
   {
     "id": 147,
-    "question": "Factorize  x³ − 3x² − 9x + 27.",
+    "question": "Factorize  \\(x^{3} - 3x^{2} - 9x + 27\\).",
     "options": [
-      "A. (x − 3)²(x + 3)",
-      "B. (x + 3)²(x − 3)",
-      "C. (x − 3)(x + 3)(x − 3)",
-      "D. (x − 9)(x + 3)"
+      "A. \\((x - 3)^{2}(x + 3)\\)",
+      "B. \\((x + 3)^{2} (x - 3)\\)",
+      "C. \\((x - 3)(x + 3)(x - 3)\\)",
+      "D. \\((x - 9)(x + 3)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1912,11 +1912,11 @@
   },
   {
     "id": 148,
-    "question": "The maximum value of y =  −2x² + 8x − 5 is",
+    "question": "The maximum value of y =  \\(-\\)\\(2x^{2} + 8x -\\) 5 is",
     "options": [
       "A. 3",
       "B. 5",
-      "C. −3",
+      "C. \\(-\\)3",
       "D. 8"
     ],
     "answer": "A",
@@ -1925,12 +1925,12 @@
   },
   {
     "id": 149,
-    "question": "If (x + 2) and (x − 1) are factors of x³ + ax² + bx − 6, then a + b equals",
+    "question": "If (x + 2) and (x \\(- 1)\\) are factors of \\(x^{3} + ax^{2} + bx - 6,\\) then a + b equals",
     "options": [
       "A. 1",
-      "B. −1",
+      "B. \\(-\\)1",
       "C. 3",
-      "D. −3"
+      "D. \\(-\\)3"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -1938,12 +1938,12 @@
   },
   {
     "id": 150,
-    "question": "The coordinates of the vertex of y = x² − 2x − 3 are",
+    "question": "The coordinates of the vertex of y = \\(x^{2} - 2x -\\) 3 are",
     "options": [
-      "A. (1, −4)",
+      "A. (1, \\(-4)\\)",
       "B. (1, 4)",
-      "C. (−1, −4)",
-      "D. (2, −3)"
+      "C. \\((- 1, -4)\\)",
+      "D. (2, \\(-3)\\)"
     ],
     "answer": "A",
     "topic": "Polynomials",
@@ -2029,7 +2029,7 @@
   },
   {
     "id": 157,
-    "question": "Solve the inequality 2x − 5 > 7.",
+    "question": "Solve the inequality 2x \\(- 5 > 7\\).",
     "options": [
       "A. x > 6",
       "B. x < 6",
@@ -2042,12 +2042,12 @@
   },
   {
     "id": 158,
-    "question": "Solve x² − 5x + 6 ≤ 0.",
+    "question": "Solve \\(x^{2} - 5x + 6 \\le\\) 0.",
     "options": [
-      "A. 2 ≤ x ≤ 3",
-      "B. x ≤ 2 or x ≥ 3",
-      "C. x ≤ −2 or x ≥ −3",
-      "D. −3 ≤ x ≤ −2"
+      "A. \\(2 \\le x \\le\\) 3",
+      "B. x \\(\\le\\) 2 or x \\(\\ge\\) 3",
+      "C. x \\(\\le -\\)2 or x \\(\\ge -\\)3",
+      "D. \\(- 3 \\le x \\le -\\)2"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2068,12 +2068,12 @@
   },
   {
     "id": 160,
-    "question": "Solve the quadratic inequality x² − 9 > 0.",
+    "question": "Solve the quadratic inequality \\(x^{2} - 9 > 0\\).",
     "options": [
-      "A. x < −3 or x > 3",
-      "B. −3 < x < 3",
-      "C. x ≤ −3 or x ≥ 3",
-      "D. x > −3 and x < 3"
+      "A. \\(x < -\\)3 or x > 3",
+      "B. \\(-3 < x < 3\\)",
+      "C. x \\(\\le -\\)3 or x \\(\\ge\\) 3",
+      "D. \\(x > -\\)3 and x < 3"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2081,12 +2081,12 @@
   },
   {
     "id": 161,
-    "question": "Which of the following represents the solution of −2x ≥ 8 on a number line?",
+    "question": "Which of the following represents the solution of \\(-2x \\ge\\) 8 on a number line?",
     "options": [
-      "A. x ≤ −4",
-      "B. x ≥ −4",
-      "C. x ≤ 4",
-      "D. x ≥ 4"
+      "A. x \\(\\le -\\)4",
+      "B. x \\(\\ge -\\)4",
+      "C. x \\(\\le\\) 4",
+      "D. x \\(\\ge\\) 4"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2096,7 +2096,7 @@
     "id": 162,
     "question": "The nth term of the sequence 3, 7, 11, 15, … is",
     "options": [
-      "A. 4n − 1",
+      "A. \\(4n -\\) 1",
       "B. 4n + 1",
       "C. 3n + 1",
       "D. 2n + 1"
@@ -2133,11 +2133,11 @@
   },
   {
     "id": 165,
-    "question": "The sum to infinity of the GP 1/2 + 1/4 + 1/8 + … is",
+    "question": "The sum to infinity of the GP \\(\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} +\\) … is",
     "options": [
       "A. 1",
       "B. 2",
-      "C. 1/2",
+      "C. \\(\\frac{1}{2}\\)",
       "D. ∞"
     ],
     "answer": "A",
@@ -2172,12 +2172,12 @@
   },
   {
     "id": 168,
-    "question": "Solve 5 − 3x ≤ 2.",
+    "question": "Solve 5 \\(- 3x \\le\\) 2.",
     "options": [
-      "A. x ≥ 1",
-      "B. x ≤ 1",
-      "C. x ≥ −1",
-      "D. x ≤ −1"
+      "A. x \\(\\ge\\) 1",
+      "B. x \\(\\le\\) 1",
+      "C. x \\(\\ge -\\)1",
+      "D. x \\(\\le -\\)1"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2187,9 +2187,9 @@
     "id": 169,
     "question": "The common ratio of the GP 81, 27, 9, 3, … is",
     "options": [
-      "A. 1/3",
+      "A. \\(\\frac{1}{3}\\)",
       "B. 3",
-      "C. −1/3",
+      "C. \\(-\\)\\(\\frac{1}{3}\\)",
       "D. 9"
     ],
     "answer": "A",
@@ -2211,12 +2211,12 @@
   },
   {
     "id": 171,
-    "question": "Solve the inequality x² − 4x − 5 ≥ 0.",
+    "question": "Solve the inequality \\(x^{2} - 4x - 5 \\ge\\) 0.",
     "options": [
-      "A. x ≤ −1 or x ≥ 5",
-      "B. −1 ≤ x ≤ 5",
-      "C. x ≤ 1 or x ≥ −5",
-      "D. −5 ≤ x ≤ 1"
+      "A. x \\(\\le -\\)1 or x \\(\\ge\\) 5",
+      "B. \\(- 1 \\le x \\le\\) 5",
+      "C. x \\(\\le\\) 1 or x \\(\\ge -\\)5",
+      "D. \\(- 5 \\le x \\le\\) 1"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2224,7 +2224,7 @@
   },
   {
     "id": 172,
-    "question": "The sum of the first n terms of an AP is given by Sₙ = 2n² + 3n. The first term is",
+    "question": "The sum of the first n terms of an AP is given by \\(S_{n} = 2n^{2} + 3n\\). The first term is",
     "options": [
       "A. 5",
       "B. 2",
@@ -2250,11 +2250,11 @@
   },
   {
     "id": 174,
-    "question": "The graphical solution of the inequality y ≤ 2x − 1 is the region",
+    "question": "The graphical solution of the inequality y \\(\\le 2x -\\) 1 is the region",
     "options": [
-      "A. below the line y = 2x − 1",
-      "B. above the line y = 2x − 1",
-      "C. on the line y = 2x − 1 only",
+      "A. below the line y = 2x \\(-\\) 1",
+      "B. above the line y = 2x \\(-\\) 1",
+      "C. on the line y = 2x \\(-\\) 1 only",
       "D. to the left of the line"
     ],
     "answer": "A",
@@ -2289,12 +2289,12 @@
   },
   {
     "id": 177,
-    "question": "Solve 4x + 7 ≥ 3x − 2.",
+    "question": "Solve 4x + 7 \\(\\ge 3x -\\) 2.",
     "options": [
-      "A. x ≥ −9",
-      "B. x ≤ −9",
-      "C. x ≥ 9",
-      "D. x ≤ 9"
+      "A. x \\(\\ge -\\)9",
+      "B. x \\(\\le -\\)9",
+      "C. x \\(\\ge\\) 9",
+      "D. x \\(\\le\\) 9"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2304,9 +2304,9 @@
     "id": 178,
     "question": "The sum of the infinite GP 0.3 + 0.03 + 0.003 + … is",
     "options": [
-      "A. 1/3",
+      "A. \\(\\frac{1}{3}\\)",
       "B. 0.3",
-      "C. 1/9",
+      "C. \\(\\frac{1}{9}\\)",
       "D. 0.33"
     ],
     "answer": "A",
@@ -2328,12 +2328,12 @@
   },
   {
     "id": 180,
-    "question": "The solution of the inequality (x − 2)(x + 3) < 0 is",
+    "question": "The solution of the inequality (x \\(-\\) 2)(x + 3) < 0 is",
     "options": [
-      "A. −3 < x < 2",
-      "B. x < −3 or x > 2",
-      "C. −2 < x < 3",
-      "D. x ≤ −3 or x ≥ 2"
+      "A. \\(-3 < x < 2\\)",
+      "B. \\(x < -\\)3 or x > 2",
+      "C. \\(-2 < x < 3\\)",
+      "D. x \\(\\le -\\)3 or x \\(\\ge\\) 2"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2367,12 +2367,12 @@
   },
   {
     "id": 183,
-    "question": "Solve 2x² − 7x − 4 ≤ 0.",
+    "question": "Solve \\(2x^{2} - 7x - 4 \\le\\) 0.",
     "options": [
-      "A. −1/2 ≤ x ≤ 4",
-      "B. x ≤ −1/2 or x ≥ 4",
-      "C. −4 ≤ x ≤ 1/2",
-      "D. x ≤ −4 or x ≥ 1/2"
+      "A. \\(-\\)\\(\\frac{1}{2} \\le x \\le\\) 4",
+      "B. x \\(\\le -\\)\\(\\frac{1}{2}\\) or x \\(\\ge\\) 4",
+      "C. \\(- 4 \\le x \\le \\frac{1}{2}\\)",
+      "D. x \\(\\le -\\)4 or x \\(\\ge \\frac{1}{2}\\)"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2406,10 +2406,10 @@
   },
   {
     "id": 186,
-    "question": "The inequality 3 − 2x > 7 is equivalent to",
+    "question": "The inequality 3 \\(-\\) 2x > 7 is equivalent to",
     "options": [
-      "A. x < −2",
-      "B. x > −2",
+      "A. \\(x < -\\)2",
+      "B. \\(x > -\\)2",
       "C. x < 2",
       "D. x > 2"
     ],
@@ -2445,12 +2445,12 @@
   },
   {
     "id": 189,
-    "question": "The solution set of x² + x − 6 > 0 is",
+    "question": "The solution set of \\(x^{2} + x -\\) 6 > 0 is",
     "options": [
-      "A. x < −3 or x > 2",
-      "B. −3 < x < 2",
-      "C. x < −2 or x > 3",
-      "D. −2 < x < 3"
+      "A. \\(x < -\\)3 or x > 2",
+      "B. \\(-3 < x < 2\\)",
+      "C. \\(x < -\\)2 or x > 3",
+      "D. \\(-2 < x < 3\\)"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2471,12 +2471,12 @@
   },
   {
     "id": 191,
-    "question": "If the volume V of a sphere varies as the cube of its radius r, and V = 36π when r = 3, find V when r = 2.",
+    "question": "If the volume V of a sphere varies as the cube of its radius r, and V = 36\\(\\pi\\) when r = 3, find V when r = 2.",
     "options": [
-      "A. 32π/3",
-      "B. 16π",
-      "C. 8π",
-      "D. 4π"
+      "A. \\(\\frac{32 \\pi}{3}\\)",
+      "B. \\(16\\pi\\)",
+      "C. \\(8\\pi\\)",
+      "D. \\(4\\pi\\)"
     ],
     "answer": "A",
     "topic": "Variation",
@@ -2484,12 +2484,12 @@
   },
   {
     "id": 192,
-    "question": "Solve the compound inequality −3 < 2x − 1 ≤ 5.",
+    "question": "Solve the compound inequality \\(-3 < 2x - 1 \\le\\) 5.",
     "options": [
-      "A. −1 < x ≤ 3",
-      "B. −2 < x ≤ 3",
-      "C. −1 ≤ x < 3",
-      "D. −2 ≤ x ≤ 3"
+      "A. \\(- 1 < x \\le\\) 3",
+      "B. \\(- 2 < x \\le\\) 3",
+      "C. \\(- 1 \\le x < 3\\)",
+      "D. \\(- 2 \\le x \\le\\) 3"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2499,10 +2499,10 @@
     "id": 193,
     "question": "The sum to infinity of a GP is 20 and the first term is 8. The common ratio is",
     "options": [
-      "A. 3/5",
-      "B. 2/5",
-      "C. 4/5",
-      "D. 1/5"
+      "A. \\(\\frac{3}{5}\\)",
+      "B. \\(\\frac{2}{5}\\)",
+      "C. \\(\\frac{4}{5}\\)",
+      "D. \\(\\frac{1}{5}\\)"
     ],
     "answer": "A",
     "topic": "Progression",
@@ -2510,7 +2510,7 @@
   },
   {
     "id": 194,
-    "question": "If w varies jointly as u and v² and w = 48 when u = 3 and v = 2, find w when u = 4 and v = 3.",
+    "question": "If w varies jointly as u and \\(v^{2}\\) and w = 48 when u = 3 and v = 2, find w when u = 4 and v = 3.",
     "options": [
       "A. 144",
       "B. 108",
@@ -2523,12 +2523,12 @@
   },
   {
     "id": 195,
-    "question": "Which of the following is the solution of x² − 2x − 8 ≤ 0?",
+    "question": "Which of the following is the solution of \\(x^{2} - 2x - 8 \\le\\) 0?",
     "options": [
-      "A. −2 ≤ x ≤ 4",
-      "B. x ≤ −2 or x ≥ 4",
-      "C. −4 ≤ x ≤ 2",
-      "D. x ≤ −4 or x ≥ 2"
+      "A. \\(- 2 \\le x \\le\\) 4",
+      "B. x \\(\\le -\\)2 or x \\(\\ge\\) 4",
+      "C. \\(- 4 \\le x \\le\\) 2",
+      "D. x \\(\\le -\\)4 or x \\(\\ge\\) 2"
     ],
     "answer": "A",
     "topic": "Inequalities",
@@ -2536,7 +2536,7 @@
   },
   {
     "id": 196,
-    "question": "The 15th term of the sequence whose nth term is 3n − 7 is",
+    "question": "The 15th term of the sequence whose nth term is 3n \\(-\\) 7 is",
     "options": [
       "A. 38",
       "B. 35",
@@ -2562,7 +2562,7 @@
   },
   {
     "id": 198,
-    "question": "The region that satisfies both y ≥ x and y ≤ 4 − x is a",
+    "question": "The region that satisfies both y \\(\\ge\\) x and y \\(\\le 4 -\\) x is a",
     "options": [
       "A. triangle",
       "B. rectangle",
@@ -2601,12 +2601,12 @@
   },
   {
     "id": 201,
-    "question": "If a * b = a + b − 2, the identity element is",
+    "question": "If a * b = a + b \\(- 2,\\) the identity element is",
     "options": [
       "A. 0",
       "B. 1",
       "C. 2",
-      "D. −2"
+      "D. \\(-\\)2"
     ],
     "answer": "C",
     "topic": "Binary Operations",
@@ -2614,7 +2614,7 @@
   },
   {
     "id": 202,
-    "question": "The operation a ⊕ b = a + b + ab is",
+    "question": "The operation a \\(\\oplus\\) b = a + b + ab is",
     "options": [
       "A. commutative only",
       "B. associative only",
@@ -2640,12 +2640,12 @@
   },
   {
     "id": 204,
-    "question": "Under the operation a △ b = a² + b², the identity element is",
+    "question": "Under the operation a △ b = \\(a^{2} + b^{2}\\), the identity element is",
     "options": [
       "A. 0",
       "B. 1",
       "C. does not exist",
-      "D. −1"
+      "D. \\(-\\)1"
     ],
     "answer": "C",
     "topic": "Binary Operations",
@@ -2653,9 +2653,9 @@
   },
   {
     "id": 205,
-    "question": "If a * b = ab/2, the inverse of 4 is",
+    "question": "If a * b = \\(\\frac{ab}{2}\\), the inverse of 4 is",
     "options": [
-      "A. 1/2",
+      "A. \\(\\frac{1}{2}\\)",
       "B. 2",
       "C. 1",
       "D. 4"
@@ -2679,12 +2679,12 @@
   },
   {
     "id": 207,
-    "question": "If a ⊕ b = a − b, then a ⊕ (b ⊕ c) equals",
+    "question": "If a \\(\\oplus b = a -\\) b, then a \\(\\oplus (b \\oplus\\) c) equals",
     "options": [
-      "A. a − b + c",
-      "B. a − b − c",
-      "C. a + b − c",
-      "D. −a + b − c"
+      "A. a \\(- b + c\\)",
+      "B. a \\(- b -\\) c",
+      "C. \\(a + b -\\) c",
+      "D. \\(- a + b -\\) c"
     ],
     "answer": "A",
     "topic": "Binary Operations",
@@ -2692,7 +2692,7 @@
   },
   {
     "id": 208,
-    "question": "Find the inverse of 5 under the operation a * b = a + b − 3.",
+    "question": "Find the inverse of 5 under the operation a * b = a + b \\(-\\) 3.",
     "options": [
       "A. 1",
       "B. 2",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": 209,
-    "question": "The operation a ○ b = |a − b| is",
+    "question": "The operation a \\(\\circ b =\\) |a \\(-\\) b| is",
     "options": [
       "A. commutative",
       "B. associative",
@@ -2722,8 +2722,8 @@
     "options": [
       "A. 0",
       "B. 1",
-      "C. −1/2",
-      "D. −1"
+      "C. \\(-\\)\\(\\frac{1}{2}\\)",
+      "D. \\(-\\)1"
     ],
     "answer": "A",
     "topic": "Binary Operations",
@@ -2731,12 +2731,12 @@
   },
   {
     "id": 211,
-    "question": "The matrix [[2, 3], [1, 4]] + [[1, 0], [2, −1]] equals",
+    "question": "The matrix \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix} + \\begin{pmatrix} 1 & 0 \\\\ 2 & -1 \\end{pmatrix}\\) equals",
     "options": [
-      "A. [[3, 3], [3, 3]]",
-      "B. [[3, 3], [3, 3]]",
-      "C. [[3, 3], [3, 3]]",
-      "D. [[3, 3], [3, 3]]"
+      "A. \\(\\begin{pmatrix} 3 & 3 \\\\ 3 & 3 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 3 & 3 \\\\ 3 & 3 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 3 & 3 \\\\ 3 & 3 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 3 & 3 \\\\ 3 & 3 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2744,12 +2744,12 @@
   },
   {
     "id": 212,
-    "question": "If A = [[1, 2], [3, 4]], then 2A is",
+    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\), then 2A is",
     "options": [
-      "A. [[2, 4], [6, 8]]",
-      "B. [[1, 2], [3, 4]]",
-      "C. [[3, 4], [5, 6]]",
-      "D. [[2, 2], [3, 4]]"
+      "A. \\(\\begin{pmatrix} 2 & 4 \\\\ 6 & 8 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 3 & 4 \\\\ 5 & 6 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 2 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2757,7 +2757,7 @@
   },
   {
     "id": 213,
-    "question": "The determinant of [[3, 1], [2, 4]] is",
+    "question": "The determinant of \\(\\begin{pmatrix} 3 & 1 \\\\ 2 & 4 \\end{pmatrix}\\) is",
     "options": [
       "A. 10",
       "B. 14",
@@ -2770,12 +2770,12 @@
   },
   {
     "id": 214,
-    "question": "Find the inverse of the matrix [[2, 1], [5, 3]].",
+    "question": "Find the inverse of the matrix \\(\\begin{pmatrix} 2 & 1 \\\\ 5 & 3 \\end{pmatrix}\\).",
     "options": [
-      "A. [[3, −1], [−5, 2]]",
-      "B. [[3, 1], [5, 2]]",
-      "C. [[−3, 1], [5, −2]]",
-      "D. [[2, −1], [−5, 3]]"
+      "A. \\(\\begin{pmatrix} 3 & -1 \\\\ -5 & 2 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 3 & 1 \\\\ 5 & 2 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} -3 & 1 \\\\ 5 & -2 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 2 & -1 \\\\ -5 & 3 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2783,7 +2783,7 @@
   },
   {
     "id": 215,
-    "question": "If A = [[1, 0], [0, 1]], then A is called the",
+    "question": "If A = \\(\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\), then A is called the",
     "options": [
       "A. identity matrix",
       "B. zero matrix",
@@ -2796,12 +2796,12 @@
   },
   {
     "id": 216,
-    "question": "The product [[1, 2], [3, 4]] × [[2, 0], [1, 3]] equals",
+    "question": "The product \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix} \\times \\begin{pmatrix} 2 & 0 \\\\ 1 & 3 \\end{pmatrix}\\) equals",
     "options": [
-      "A. [[4, 6], [10, 12]]",
-      "B. [[4, 6], [10, 12]]",
-      "C. [[4, 6], [10, 12]]",
-      "D. [[4, 6], [10, 12]]"
+      "A. \\(\\begin{pmatrix} 4 & 6 \\\\ 10 & 12 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 4 & 6 \\\\ 10 & 12 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 4 & 6 \\\\ 10 & 12 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 4 & 6 \\\\ 10 & 12 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2835,12 +2835,12 @@
   },
   {
     "id": 219,
-    "question": "If A = [[a, b], [c, d]], the inverse exists only if",
+    "question": "If A = \\(\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}\\), the inverse exists only if",
     "options": [
-      "A. ad − bc ≠ 0",
-      "B. ad − bc = 0",
+      "A. ad \\(-\\) bc ≠ 0",
+      "B. ad \\(- bc = 0\\)",
       "C. a + d ≠ 0",
-      "D. a − d ≠ 0"
+      "D. a \\(-\\) d ≠ 0"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2848,7 +2848,7 @@
   },
   {
     "id": 220,
-    "question": "Find x if [[2, 3], [1, x]] has determinant 5.",
+    "question": "Find x if \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & x \\end{pmatrix}\\) has determinant 5.",
     "options": [
       "A. 1",
       "B. 2",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": 221,
-    "question": "Under the binary operation a * b = 3a − b, the value of 4 * 5 is",
+    "question": "Under the binary operation a * b = 3a \\(-\\) b, the value of 4 * 5 is",
     "options": [
       "A. 7",
       "B. 12",
@@ -2900,12 +2900,12 @@
   },
   {
     "id": 224,
-    "question": "The identity element for a * b = ab − a − b + 2 is",
+    "question": "The identity element for a * b = ab \\(- a -\\) b + 2 is",
     "options": [
       "A. 1",
       "B. 2",
       "C. 0",
-      "D. −1"
+      "D. \\(-\\)1"
     ],
     "answer": "B",
     "topic": "Binary Operations",
@@ -2915,10 +2915,10 @@
     "id": 225,
     "question": "If A = [[1, 2, 0], [3, 1, 4]], the order of A is",
     "options": [
-      "A. 2 × 3",
-      "B. 3 × 2",
-      "C. 2 × 2",
-      "D. 3 × 3"
+      "A. \\(2 \\times\\) 3",
+      "B. \\(3 \\times\\) 2",
+      "C. \\(2 \\times\\) 2",
+      "D. \\(3 \\times\\) 3"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2939,12 +2939,12 @@
   },
   {
     "id": 227,
-    "question": "If A = [[2, 1], [0, 3]] and B = [[1, 4], [2, 0]], then A − B is",
+    "question": "If A = \\(\\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}\\) and B = \\(\\begin{pmatrix} 1 & 4 \\\\ 2 & 0 \\end{pmatrix}\\), then A \\(-\\) B is",
     "options": [
-      "A. [[1, −3], [−2, 3]]",
-      "B. [[1, 3], [2, 3]]",
-      "C. [[3, 5], [2, 3]]",
-      "D. [[−1, 3], [2, −3]]"
+      "A. \\(\\begin{pmatrix} 1 & -3 \\\\ -2 & 3 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 1 & 3 \\\\ 2 & 3 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 3 & 5 \\\\ 2 & 3 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} -1 & 3 \\\\ 2 & -3 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2952,12 +2952,12 @@
   },
   {
     "id": 228,
-    "question": "The determinant of the matrix [[4, 2], [6, 3]] is",
+    "question": "The determinant of the matrix \\(\\begin{pmatrix} 4 & 2 \\\\ 6 & 3 \\end{pmatrix}\\) is",
     "options": [
       "A. 0",
       "B. 12",
       "C. 24",
-      "D. −12"
+      "D. \\(-\\)12"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -2965,12 +2965,12 @@
   },
   {
     "id": 229,
-    "question": "Find the inverse of [[1, 2], [3, 5]].",
+    "question": "Find the inverse of \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 5 \\end{pmatrix}\\).",
     "options": [
-      "A. [[−5, 2], [3, −1]]",
-      "B. [[5, −2], [−3, 1]]",
-      "C. [[−5, −2], [−3, −1]]",
-      "D. [[5, 2], [3, 1]]"
+      "A. \\(\\begin{pmatrix} -5 & 2 \\\\ 3 & -1 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 5 & -2 \\\\ -3 & 1 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} -5 & -2 \\\\ -3 & -1 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 5 & 2 \\\\ 3 & 1 \\end{pmatrix}\\)"
     ],
     "answer": "B",
     "topic": "Matrices and Determinants",
@@ -2978,7 +2978,7 @@
   },
   {
     "id": 230,
-    "question": "If a * b = (a + b)/2, the operation is",
+    "question": "If a * b = \\(\\frac{a + b}{2}\\), the operation is",
     "options": [
       "A. commutative and associative",
       "B. commutative but not associative",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": 231,
-    "question": "The matrix [[0, 0], [0, 0]] is called the",
+    "question": "The matrix \\(\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}\\) is called the",
     "options": [
       "A. zero matrix",
       "B. identity matrix",
@@ -3004,7 +3004,7 @@
   },
   {
     "id": 232,
-    "question": "If det([[x, 2], [3, 4]]) = 2, then x equals",
+    "question": "If det(\\(\\begin{pmatrix} x & 2 \\\\ 3 & 4 \\end{pmatrix}) = 2,\\) then x equals",
     "options": [
       "A. 2",
       "B. 1",
@@ -3017,12 +3017,12 @@
   },
   {
     "id": 233,
-    "question": "Under multiplication, the inverse of 1/3 in the set of non-zero real numbers is",
+    "question": "Under multiplication, the inverse of \\(\\frac{1}{3}\\) in the set of non-zero real numbers is",
     "options": [
       "A. 3",
-      "B. −3",
-      "C. 1/3",
-      "D. −1/3"
+      "B. \\(-\\)3",
+      "C. \\(\\frac{1}{3}\\)",
+      "D. \\(-\\)\\(\\frac{1}{3}\\)"
     ],
     "answer": "A",
     "topic": "Binary Operations",
@@ -3030,7 +3030,7 @@
   },
   {
     "id": 234,
-    "question": "If A is a 2 × 2 matrix and A² = A, then A is called",
+    "question": "If A is a 2 \\(\\times\\) 2 matrix and \\(A^{2} = A,\\) then A is called",
     "options": [
       "A. idempotent",
       "B. involutory",
@@ -3056,7 +3056,7 @@
   },
   {
     "id": 236,
-    "question": "The operation a * b = b − a is",
+    "question": "The operation a * b = b \\(-\\) a is",
     "options": [
       "A. not commutative",
       "B. commutative",
@@ -3069,12 +3069,12 @@
   },
   {
     "id": 237,
-    "question": "If A = [[1, −1], [2, 3]] and B = [[2, 1], [0, 4]], then AB is",
+    "question": "If A = \\(\\begin{pmatrix} 1 & -1 \\\\ 2 & 3 \\end{pmatrix}\\) and B = \\(\\begin{pmatrix} 2 & 1 \\\\ 0 & 4 \\end{pmatrix}\\), then AB is",
     "options": [
-      "A. [[2, −3], [4, 14]]",
-      "B. [[2, 3], [4, 14]]",
-      "C. [[2, −3], [4, 10]]",
-      "D. [[1, −1], [2, 3]]"
+      "A. \\(\\begin{pmatrix} 2 & -3 \\\\ 4 & 14 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 2 & 3 \\\\ 4 & 14 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} 2 & -3 \\\\ 4 & 10 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 1 & -1 \\\\ 2 & 3 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -3086,7 +3086,7 @@
     "options": [
       "A. 1",
       "B. 0",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. does not exist"
     ],
     "answer": "A",
@@ -3095,7 +3095,7 @@
   },
   {
     "id": 239,
-    "question": "A square matrix A for which Aᵀ = A is called",
+    "question": "A square matrix A for which \\(A^{\\top}\\) = A is called",
     "options": [
       "A. symmetric",
       "B. skew-symmetric",
@@ -3108,7 +3108,7 @@
   },
   {
     "id": 240,
-    "question": "Find the value of k if the matrix [[k, 2], [3, 6]] is singular.",
+    "question": "Find the value of k if the matrix \\(\\begin{pmatrix} k & 2 \\\\ 3 & 6 \\end{pmatrix}\\) is singular.",
     "options": [
       "A. 1",
       "B. 2",
@@ -3121,10 +3121,10 @@
   },
   {
     "id": 241,
-    "question": "If a * b = a² + b² − ab, then a * a equals",
+    "question": "If a * b = \\(a^{2} + b^{2} -\\) ab, then a * a equals",
     "options": [
-      "A. a²",
-      "B. 2a²",
+      "A. \\(a^{2}\\)",
+      "B. \\(2a^{2}\\)",
       "C. 0",
       "D. a"
     ],
@@ -3136,9 +3136,9 @@
     "id": 242,
     "question": "The cofactor of the element 4 in the matrix [[1, 2, 3], [0, 4, 5], [6, 7, 8]] is",
     "options": [
-      "A. −10",
+      "A. \\(-\\)10",
       "B. 10",
-      "C. −8",
+      "C. \\(-\\)8",
       "D. 8"
     ],
     "answer": "A",
@@ -3147,7 +3147,7 @@
   },
   {
     "id": 243,
-    "question": "Under the operation a ⊕ b = 2a + 3b, the value of 5 ⊕ 2 is",
+    "question": "Under the operation a \\(\\oplus b = 2a + 3b,\\) the value of 5 \\(\\oplus\\) 2 is",
     "options": [
       "A. 16",
       "B. 19",
@@ -3160,11 +3160,11 @@
   },
   {
     "id": 244,
-    "question": "If A is invertible and det(A) = 5, then det(A⁻¹) is",
+    "question": "If A is invertible and det(A) = 5, then \\(det(A^{-1}\\)) is",
     "options": [
-      "A. 1/5",
+      "A. \\(\\frac{1}{5}\\)",
       "B. 5",
-      "C. −5",
+      "C. \\(-\\)5",
       "D. 1"
     ],
     "answer": "A",
@@ -3186,7 +3186,7 @@
   },
   {
     "id": 246,
-    "question": "Solve for x and y: [[2, 1], [1, 3]] [[x], [y]] = [[5], [6]].",
+    "question": "Solve for x and y: \\(\\begin{pmatrix} 2 & 1 \\\\ 1 & 3 \\end{pmatrix}\\) [[x], [y]] = [[5], [6]].",
     "options": [
       "A. x = 1.8, y = 1.4",
       "B. x = 2, y = 1",
@@ -3203,7 +3203,7 @@
     "options": [
       "A. 0",
       "B. 1",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 2"
     ],
     "answer": "A",
@@ -3212,7 +3212,7 @@
   },
   {
     "id": 248,
-    "question": "The trace of the matrix [[3, 1], [2, 4]] is",
+    "question": "The trace of the matrix \\(\\begin{pmatrix} 3 & 1 \\\\ 2 & 4 \\end{pmatrix}\\) is",
     "options": [
       "A. 7",
       "B. 12",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": 249,
-    "question": "Which property fails for the operation a * b = a − b on real numbers?",
+    "question": "Which property fails for the operation a * b = a \\(-\\) b on real numbers?",
     "options": [
       "A. commutativity",
       "B. associativity",
@@ -3238,12 +3238,12 @@
   },
   {
     "id": 250,
-    "question": "If A = [[2, 3], [1, 4]] and det(A) = 5, the adj(A) is",
+    "question": "If A = \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}\\) and det(A) = 5, the adj(A) is",
     "options": [
-      "A. [[4, −3], [−1, 2]]",
-      "B. [[4, 3], [1, 2]]",
-      "C. [[−4, 3], [1, −2]]",
-      "D. [[2, 3], [1, 4]]"
+      "A. \\(\\begin{pmatrix} 4 & -3 \\\\ -1 & 2 \\end{pmatrix}\\)",
+      "B. \\(\\begin{pmatrix} 4 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)",
+      "C. \\(\\begin{pmatrix} -4 & 3 \\\\ 1 & -2 \\end{pmatrix}\\)",
+      "D. \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}\\)"
     ],
     "answer": "A",
     "topic": "Matrices and Determinants",
@@ -3253,10 +3253,10 @@
     "id": 251,
     "question": "The sum of the interior angles of a hexagon is",
     "options": [
-      "A. 720°",
-      "B. 540°",
-      "C. 900°",
-      "D. 1080°"
+      "A. \\(720^{\\circ}\\)",
+      "B. \\(540^{\\circ}\\)",
+      "C. \\(900^{\\circ}\\)",
+      "D. \\(1080^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3279,10 +3279,10 @@
     "id": 253,
     "question": "The exterior angle of a regular pentagon is",
     "options": [
-      "A. 72°",
-      "B. 60°",
-      "C. 108°",
-      "D. 90°"
+      "A. \\(72^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(108^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3290,12 +3290,12 @@
   },
   {
     "id": 254,
-    "question": "If two chords AB and CD intersect at P inside a circle, then AP × PB equals",
+    "question": "If two chords AB and CD intersect at P inside a circle, then AP \\(\\times\\) PB equals",
     "options": [
-      "A. CP × PD",
-      "B. AC × BD",
-      "C. AD × BC",
-      "D. AB × CD"
+      "A. CP \\(\\times\\) PD",
+      "B. AC \\(\\times\\) BD",
+      "C. AD \\(\\times\\) BC",
+      "D. AB \\(\\times\\) CD"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3305,10 +3305,10 @@
     "id": 255,
     "question": "The angle in a semicircle is",
     "options": [
-      "A. 90°",
-      "B. 180°",
-      "C. 45°",
-      "D. 60°"
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3318,9 +3318,9 @@
     "id": 256,
     "question": "A cyclic quadrilateral has opposite angles that",
     "options": [
-      "A. sum to 180°",
+      "A. sum to \\(180^{\\circ}\\)",
       "B. are equal",
-      "C. sum to 90°",
+      "C. sum to \\(90^{\\circ}\\)",
       "D. are complementary"
     ],
     "answer": "A",
@@ -3329,11 +3329,11 @@
   },
   {
     "id": 257,
-    "question": "The construction of an angle of 60° requires",
+    "question": "The construction of an angle of \\(60^{\\circ}\\) requires",
     "options": [
       "A. equilateral triangle method",
       "B. perpendicular bisector only",
-      "C. angle bisector of 90°",
+      "C. angle bisector of \\(90^{\\circ}\\)",
       "D. parallel lines"
     ],
     "answer": "A",
@@ -3357,10 +3357,10 @@
     "id": 259,
     "question": "The area of a triangle with base 10 cm and height 6 cm is",
     "options": [
-      "A. 30 cm²",
-      "B. 60 cm²",
-      "C. 16 cm²",
-      "D. 40 cm²"
+      "A. \\(30 \\text{cm}^{2}\\)",
+      "B. \\(60 \\text{cm}^{2}\\)",
+      "C. \\(16 \\text{cm}^{2}\\)",
+      "D. \\(40 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3368,7 +3368,7 @@
   },
   {
     "id": 260,
-    "question": "The circumference of a circle of radius 7 cm is (take π = 22/7)",
+    "question": "The circumference of a circle of radius 7 cm is (take \\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 44 cm",
       "B. 22 cm",
@@ -3381,7 +3381,7 @@
   },
   {
     "id": 261,
-    "question": "The length of an arc of a circle of radius 14 cm subtending 60° at the centre is (π = 22/7)",
+    "question": "The length of an arc of a circle of radius 14 cm subtending \\(60^{\\circ}\\) at the centre is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 14.67 cm",
       "B. 44 cm",
@@ -3394,12 +3394,12 @@
   },
   {
     "id": 262,
-    "question": "The area of a sector of radius 7 cm and angle 90° is (π = 22/7)",
+    "question": "The area of a sector of radius 7 cm and angle \\(90^{\\circ}\\) is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 38.5 cm²",
-      "B. 77 cm²",
-      "C. 154 cm²",
-      "D. 19.25 cm²"
+      "A. \\(38.5 \\text{cm}^{2}\\)",
+      "B. \\(77 \\text{cm}^{2}\\)",
+      "C. \\(154 \\text{cm}^{2}\\)",
+      "D. \\(19.25 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3407,12 +3407,12 @@
   },
   {
     "id": 263,
-    "question": "The volume of a cylinder of radius 7 cm and height 10 cm is (π = 22/7)",
+    "question": "The volume of a cylinder of radius 7 cm and height 10 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 1540 cm³",
-      "B. 440 cm³",
-      "C. 220 cm³",
-      "D. 770 cm³"
+      "A. \\(1540 \\text{cm}^{3}\\)",
+      "B. \\(440 \\text{cm}^{3}\\)",
+      "C. \\(220 \\text{cm}^{3}\\)",
+      "D. \\(770 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3422,10 +3422,10 @@
     "id": 264,
     "question": "The total surface area of a cube of side 5 cm is",
     "options": [
-      "A. 150 cm²",
-      "B. 125 cm²",
-      "C. 100 cm²",
-      "D. 25 cm²"
+      "A. \\(150 \\text{cm}^{2}\\)",
+      "B. \\(125 \\text{cm}^{2}\\)",
+      "C. \\(100 \\text{cm}^{2}\\)",
+      "D. \\(25 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3433,12 +3433,12 @@
   },
   {
     "id": 265,
-    "question": "The volume of a sphere of radius 3 cm is (π = 22/7)",
+    "question": "The volume of a sphere of radius 3 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 113.14 cm³",
-      "B. 36π cm³",
-      "C. 108 cm³",
-      "D. 27π cm³"
+      "A. \\(113.14 \\text{cm}^{3}\\)",
+      "B. \\(36\\pi \\text{cm}^{3}\\)",
+      "C. \\(108 \\text{cm}^{3}\\)",
+      "D. \\(27\\pi \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3446,12 +3446,12 @@
   },
   {
     "id": 266,
-    "question": "The curved surface area of a cone of radius 7 cm and slant height 10 cm is (π = 22/7)",
+    "question": "The curved surface area of a cone of radius 7 cm and slant height 10 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 220 cm²",
-      "B. 154 cm²",
-      "C. 440 cm²",
-      "D. 70 cm²"
+      "A. \\(220 \\text{cm}^{2}\\)",
+      "B. \\(154 \\text{cm}^{2}\\)",
+      "C. \\(440 \\text{cm}^{2}\\)",
+      "D. \\(70 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3459,12 +3459,12 @@
   },
   {
     "id": 267,
-    "question": "Two towns A and B lie on the same parallel of latitude. The distance between them is 1100 km. If the radius of the Earth is 6400 km and π = 22/7, the difference in their longitudes is approximately",
+    "question": "Two towns A and B lie on the same parallel of latitude. The distance between them is 1100 km. If the radius of the Earth is 6400 km and \\(\\pi = \\frac{22}{7}\\), the difference in their longitudes is approximately",
     "options": [
-      "A. 10°",
-      "B. 15°",
-      "C. 20°",
-      "D. 5°"
+      "A. \\(10^{\\circ}\\)",
+      "B. \\(15^{\\circ}\\)",
+      "C. \\(20^{\\circ}\\)",
+      "D. \\(5^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3474,10 +3474,10 @@
     "id": 268,
     "question": "The area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm is",
     "options": [
-      "A. 50 cm²",
-      "B. 100 cm²",
-      "C. 40 cm²",
-      "D. 60 cm²"
+      "A. \\(50 \\text{cm}^{2}\\)",
+      "B. \\(100 \\text{cm}^{2}\\)",
+      "C. \\(40 \\text{cm}^{2}\\)",
+      "D. \\(60 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3498,12 +3498,12 @@
   },
   {
     "id": 270,
-    "question": "The volume of a pyramid with base area 36 cm² and height 10 cm is",
+    "question": "The volume of a pyramid with base area 36 \\(\\text{cm}^{2}\\) and height 10 cm is",
     "options": [
-      "A. 120 cm³",
-      "B. 360 cm³",
-      "C. 180 cm³",
-      "D. 90 cm³"
+      "A. \\(120 \\text{cm}^{3}\\)",
+      "B. \\(360 \\text{cm}^{3}\\)",
+      "C. \\(180 \\text{cm}^{3}\\)",
+      "D. \\(90 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3511,12 +3511,12 @@
   },
   {
     "id": 271,
-    "question": "An angle of 75° can be constructed by combining",
+    "question": "An angle of \\(75^{\\circ}\\) can be constructed by combining",
     "options": [
-      "A. 45° and 30°",
-      "B. 60° and 15°",
-      "C. 90° and 15°",
-      "D. 60° and 45°"
+      "A. \\(45^{\\circ}\\) and \\(30^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\) and \\(15^{\\circ}\\)",
+      "C. \\(90^{\\circ}\\) and \\(15^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\) and \\(45^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3526,10 +3526,10 @@
     "id": 272,
     "question": "The sum of the exterior angles of any polygon is",
     "options": [
-      "A. 360°",
-      "B. 180°",
-      "C. 540°",
-      "D. 720°"
+      "A. \\(360^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(540^{\\circ}\\)",
+      "D. \\(720^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3537,12 +3537,12 @@
   },
   {
     "id": 273,
-    "question": "If the diameter of a circle is 14 cm, the area is (π = 22/7)",
+    "question": "If the diameter of a circle is 14 cm, the area is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 154 cm²",
-      "B. 44 cm²",
-      "C. 88 cm²",
-      "D. 22 cm²"
+      "A. \\(154 \\text{cm}^{2}\\)",
+      "B. \\(44 \\text{cm}^{2}\\)",
+      "C. \\(88 \\text{cm}^{2}\\)",
+      "D. \\(22 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3563,12 +3563,12 @@
   },
   {
     "id": 275,
-    "question": "The total surface area of a closed cylinder of radius 7 cm and height 10 cm is (π = 22/7)",
+    "question": "The total surface area of a closed cylinder of radius 7 cm and height 10 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 748 cm²",
-      "B. 440 cm²",
-      "C. 1540 cm²",
-      "D. 220 cm²"
+      "A. \\(748 \\text{cm}^{2}\\)",
+      "B. \\(440 \\text{cm}^{2}\\)",
+      "C. \\(1540 \\text{cm}^{2}\\)",
+      "D. \\(220 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3589,12 +3589,12 @@
   },
   {
     "id": 277,
-    "question": "The area of a segment of a circle of radius 7 cm and angle 90° is approximately (π = 22/7)",
+    "question": "The area of a segment of a circle of radius 7 cm and angle \\(90^{\\circ}\\) is approximately (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 14 cm²",
-      "B. 28 cm²",
-      "C. 38.5 cm²",
-      "D. 7 cm²"
+      "A. \\(14 \\text{cm}^{2}\\)",
+      "B. \\(28 \\text{cm}^{2}\\)",
+      "C. \\(38.5 \\text{cm}^{2}\\)",
+      "D. \\(7 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3602,12 +3602,12 @@
   },
   {
     "id": 278,
-    "question": "The volume of a cone of radius 3 cm and height 7 cm is (π = 22/7)",
+    "question": "The volume of a cone of radius 3 cm and height 7 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 66 cm³",
-      "B. 198 cm³",
-      "C. 22 cm³",
-      "D. 132 cm³"
+      "A. \\(66 \\text{cm}^{3}\\)",
+      "B. \\(198 \\text{cm}^{3}\\)",
+      "C. \\(22 \\text{cm}^{3}\\)",
+      "D. \\(132 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3628,12 +3628,12 @@
   },
   {
     "id": 280,
-    "question": "The surface area of a sphere of radius 7 cm is (π = 22/7)",
+    "question": "The surface area of a sphere of radius 7 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 616 cm²",
-      "B. 154 cm²",
-      "C. 308 cm²",
-      "D. 44 cm²"
+      "A. \\(616 \\text{cm}^{2}\\)",
+      "B. \\(154 \\text{cm}^{2}\\)",
+      "C. \\(308 \\text{cm}^{2}\\)",
+      "D. \\(44 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": 281,
-    "question": "The number of sides of a regular polygon whose each interior angle is 140° is",
+    "question": "The number of sides of a regular polygon whose each interior angle is \\(140^{\\circ}\\) is",
     "options": [
       "A. 9",
       "B. 8",
@@ -3669,10 +3669,10 @@
     "id": 283,
     "question": "The angle subtended by a diameter at any point on the circumference is",
     "options": [
-      "A. 90°",
-      "B. 180°",
-      "C. 45°",
-      "D. 60°"
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3680,12 +3680,12 @@
   },
   {
     "id": 284,
-    "question": "The lateral surface area of a cuboid 8 cm × 6 cm × 4 cm is",
+    "question": "The lateral surface area of a cuboid 8 cm \\(\\times 6 cm \\times\\) 4 cm is",
     "options": [
-      "A. 112 cm²",
-      "B. 208 cm²",
-      "C. 96 cm²",
-      "D. 192 cm²"
+      "A. \\(112 \\text{cm}^{2}\\)",
+      "B. \\(208 \\text{cm}^{2}\\)",
+      "C. \\(96 \\text{cm}^{2}\\)",
+      "D. \\(192 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3706,12 +3706,12 @@
   },
   {
     "id": 286,
-    "question": "The volume of a hemisphere of radius 7 cm is (π = 22/7)",
+    "question": "The volume of a hemisphere of radius 7 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 718.67 cm³",
-      "B. 1437.33 cm³",
-      "C. 359.33 cm³",
-      "D. 154 cm³"
+      "A. \\(718.67 \\text{cm}^{3}\\)",
+      "B. \\(1437.33 \\text{cm}^{3}\\)",
+      "C. \\(359.33 \\text{cm}^{3}\\)",
+      "D. \\(154 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3734,10 +3734,10 @@
     "id": 288,
     "question": "The area of a rhombus with diagonals 12 cm and 16 cm is",
     "options": [
-      "A. 96 cm²",
-      "B. 192 cm²",
-      "C. 48 cm²",
-      "D. 28 cm²"
+      "A. \\(96 \\text{cm}^{2}\\)",
+      "B. \\(192 \\text{cm}^{2}\\)",
+      "C. \\(48 \\text{cm}^{2}\\)",
+      "D. \\(28 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3745,12 +3745,12 @@
   },
   {
     "id": 289,
-    "question": "If the radius of the Earth is R and two points are on the same longitude separated by latitude difference θ, the distance between them is",
+    "question": "If the radius of the Earth is R and two points are on the same longitude separated by latitude difference \\(\\theta\\), the distance between them is",
     "options": [
-      "A. Rθ (θ in radians)",
-      "B. 2Rθ",
-      "C. Rθ/2",
-      "D. πRθ"
+      "A. R\\(\\theta ( \\theta\\) in radians)",
+      "B. \\(2R\\theta\\)",
+      "C. \\(\\frac{R \\theta}{2}\\)",
+      "D. \\(\\pi R \\theta\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3760,10 +3760,10 @@
     "id": 290,
     "question": "The sum of the interior angles of an octagon is",
     "options": [
-      "A. 1080°",
-      "B. 720°",
-      "C. 900°",
-      "D. 1260°"
+      "A. \\(1080^{\\circ}\\)",
+      "B. \\(720^{\\circ}\\)",
+      "C. \\(900^{\\circ}\\)",
+      "D. \\(1260^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3771,12 +3771,12 @@
   },
   {
     "id": 291,
-    "question": "A sector of a circle of radius 10 cm has an area of 25π cm². The angle of the sector is",
+    "question": "A sector of a circle of radius 10 cm has an area of 25\\(\\pi \\text{cm}^{2}\\). The angle of the sector is",
     "options": [
-      "A. 90°",
-      "B. 60°",
-      "C. 45°",
-      "D. 120°"
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(120^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3797,12 +3797,12 @@
   },
   {
     "id": 293,
-    "question": "The total surface area of a hemisphere of radius 7 cm is (π = 22/7)",
+    "question": "The total surface area of a hemisphere of radius 7 cm is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 462 cm²",
-      "B. 308 cm²",
-      "C. 154 cm²",
-      "D. 616 cm²"
+      "A. \\(462 \\text{cm}^{2}\\)",
+      "B. \\(308 \\text{cm}^{2}\\)",
+      "C. \\(154 \\text{cm}^{2}\\)",
+      "D. \\(616 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3810,12 +3810,12 @@
   },
   {
     "id": 294,
-    "question": "The base angles of an isosceles triangle are equal. If the vertex angle is 40°, each base angle is",
+    "question": "The base angles of an isosceles triangle are equal. If the vertex angle is \\(40^{\\circ}\\), each base angle is",
     "options": [
-      "A. 70°",
-      "B. 40°",
-      "C. 60°",
-      "D. 80°"
+      "A. \\(70^{\\circ}\\)",
+      "B. \\(40^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(80^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Euclidean Geometry",
@@ -3823,12 +3823,12 @@
   },
   {
     "id": 295,
-    "question": "The volume of a cuboid 5 cm × 4 cm × 3 cm is",
+    "question": "The volume of a cuboid 5 cm \\(\\times 4 cm \\times\\) 3 cm is",
     "options": [
-      "A. 60 cm³",
-      "B. 12 cm³",
-      "C. 30 cm³",
-      "D. 45 cm³"
+      "A. \\(60 \\text{cm}^{3}\\)",
+      "B. \\(12 \\text{cm}^{3}\\)",
+      "C. \\(30 \\text{cm}^{3}\\)",
+      "D. \\(45 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -3849,7 +3849,7 @@
   },
   {
     "id": 297,
-    "question": "The perimeter of a sector of radius 7 cm and angle 90° is (π = 22/7)",
+    "question": "The perimeter of a sector of radius 7 cm and angle \\(90^{\\circ}\\) is (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 25 cm",
       "B. 18 cm",
@@ -3875,12 +3875,12 @@
   },
   {
     "id": 299,
-    "question": "A solid consists of a cylinder of radius 7 cm and height 10 cm surmounted by a hemisphere of the same radius. The total volume is approximately (π = 22/7)",
+    "question": "A solid consists of a cylinder of radius 7 cm and height 10 cm surmounted by a hemisphere of the same radius. The total volume is approximately (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
-      "A. 2053 cm³",
-      "B. 1540 cm³",
-      "C. 1027 cm³",
-      "D. 3080 cm³"
+      "A. \\(2053 \\text{cm}^{3}\\)",
+      "B. \\(1540 \\text{cm}^{3}\\)",
+      "C. \\(1027 \\text{cm}^{3}\\)",
+      "D. \\(3080 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Mensuration",
@@ -4018,12 +4018,12 @@
   },
   {
     "id": 310,
-    "question": "Two lines with gradients m₁ and m₂ are parallel if",
+    "question": "Two lines with gradients \\(m_{1}\\) and \\(m_{2}\\) are parallel if",
     "options": [
-      "A. m₁ = m₂",
-      "B. m₁ × m₂ = −1",
-      "C. m₁ + m₂ = 0",
-      "D. m₁ − m₂ = 1"
+      "A. \\(m_{1} = m_{2}\\)",
+      "B. \\(m_{1} \\times m_{2} = -\\)1",
+      "C. \\(m_{1} + m_{2} = 0\\)",
+      "D. \\(m_{1} - m_{2} = 1\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4033,7 +4033,7 @@
     "id": 311,
     "question": "Two lines are perpendicular if the product of their gradients is",
     "options": [
-      "A. −1",
+      "A. \\(-\\)1",
       "B. 1",
       "C. 0",
       "D. infinity"
@@ -4048,7 +4048,7 @@
     "options": [
       "A. y = 2x + 3",
       "B. y = 3x + 2",
-      "C. y = 2x − 3",
+      "C. \\(y = 2x -\\) 3",
       "D. x = 2y + 3"
     ],
     "answer": "A",
@@ -4062,7 +4062,7 @@
       "A. y = 2x",
       "B. y = 2x + 1",
       "C. y = x + 1",
-      "D. y = 3x − 1"
+      "D. \\(y = 3x -\\) 1"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4070,12 +4070,12 @@
   },
   {
     "id": 314,
-    "question": "Find the equation of the line through (2, −1) with gradient −3.",
+    "question": "Find the equation of the line through (2, \\(-1)\\) with gradient \\(-\\)3.",
     "options": [
-      "A. y + 1 = −3(x − 2)",
-      "B. y − 1 = −3(x − 2)",
-      "C. y + 1 = 3(x − 2)",
-      "D. y − 1 = 3(x + 2)"
+      "A. \\(y + 1 = - 3(x - 2)\\)",
+      "B. y \\(- 1 = - 3(x - 2)\\)",
+      "C. \\(y + 1 = 3(x - 2)\\)",
+      "D. y \\(- 1 = 3(x + 2)\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4087,8 +4087,8 @@
     "options": [
       "A. ax + by + c = 0",
       "B. y = mx + c",
-      "C. y − y₁ = m(x − x₁)",
-      "D. (y − y₁)/(x − x₁) = m"
+      "C. y \\(- y_{1} = m(x - x_{1}\\))",
+      "D. \\(\\frac{y - y_{1}}{x - x_{1}} = m\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4096,12 +4096,12 @@
   },
   {
     "id": 316,
-    "question": "The midpoint of the points (−2, 5) and (4, −1) is",
+    "question": "The midpoint of the points (\\(-2, 5)\\) and (4, \\(-\\)1) is",
     "options": [
       "A. (1, 2)",
       "B. (1, 3)",
       "C. (3, 2)",
-      "D. (−3, 2)"
+      "D. \\((-3, 2)\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4114,7 +4114,7 @@
       "A. 0",
       "B. undefined",
       "C. 1",
-      "D. −1"
+      "D. \\(-\\)1"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4135,12 +4135,12 @@
   },
   {
     "id": 319,
-    "question": "Find the distance between A(−3, 2) and B(1, 5).",
+    "question": "Find the distance between A(\\(-3, 2)\\) and B(1, 5).",
     "options": [
       "A. 5",
-      "B. √13",
+      "B. \\(\\sqrt{13}\\)",
       "C. 7",
-      "D. √41"
+      "D. \\(\\sqrt{41}\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4150,10 +4150,10 @@
     "id": 320,
     "question": "The locus of points at a distance of 5 units from the origin is",
     "options": [
-      "A. x² + y² = 25",
-      "B. x² + y² = 5",
+      "A. \\(x^{2} + y^{2} = 25\\)",
+      "B. \\(x^{2} + y^{2} = 5\\)",
       "C. x + y = 5",
-      "D. x² − y² = 25"
+      "D. \\(x^{2} - y^{2} = 25\\)"
     ],
     "answer": "A",
     "topic": "Loci",
@@ -4174,12 +4174,12 @@
   },
   {
     "id": 322,
-    "question": "If a line has gradient 3/4, the gradient of a line perpendicular to it is",
+    "question": "If a line has gradient \\(\\frac{3}{4}\\), the gradient of a line perpendicular to it is",
     "options": [
-      "A. −4/3",
-      "B. 4/3",
-      "C. −3/4",
-      "D. 3/4"
+      "A. \\(-\\)\\(\\frac{4}{3}\\)",
+      "B. \\(\\frac{4}{3}\\)",
+      "C. \\(-\\)\\(\\frac{3}{4}\\)",
+      "D. \\(\\frac{3}{4}\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4187,12 +4187,12 @@
   },
   {
     "id": 323,
-    "question": "The equation of the line passing through (0, 4) and parallel to y = 2x − 1 is",
+    "question": "The equation of the line passing through (0, 4) and parallel to y = 2x \\(-\\) 1 is",
     "options": [
       "A. y = 2x + 4",
-      "B. y = 2x − 4",
-      "C. y = −2x + 4",
-      "D. y = (1/2)x + 4"
+      "B. \\(y = 2x -\\) 4",
+      "C. \\(y = -2x + 4\\)",
+      "D. \\(y = (\\frac{1}{2})x + 4\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4217,7 +4217,7 @@
     "options": [
       "A. y = 2x",
       "B. x = 2y",
-      "C. y = x/2",
+      "C. \\(y = \\frac{x}{2}\\)",
       "D. x + y = 2"
     ],
     "answer": "A",
@@ -4226,12 +4226,12 @@
   },
   {
     "id": 326,
-    "question": "The slope-intercept form of the line 2x − 3y + 6 = 0 is",
+    "question": "The slope-intercept form of the line 2x \\(-\\) 3y + 6 = 0 is",
     "options": [
-      "A. y = (2/3)x + 2",
-      "B. y = (2/3)x − 2",
-      "C. y = −(2/3)x + 2",
-      "D. y = (3/2)x + 2"
+      "A. \\(y = (\\frac{2}{3})x + 2\\)",
+      "B. \\(y = (\\frac{2}{3} )x -\\) 2",
+      "C. \\(y = - ( \\frac{2}{3})x + 2\\)",
+      "D. \\(y = (\\frac{3}{2})x + 2\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4252,7 +4252,7 @@
   },
   {
     "id": 328,
-    "question": "A point moves so that it is always equidistant from the points (1, 0) and (−1, 0). Its locus is",
+    "question": "A point moves so that it is always equidistant from the points (1, 0) and (\\(-1, 0)\\). Its locus is",
     "options": [
       "A. the y-axis",
       "B. the x-axis",
@@ -4267,8 +4267,8 @@
     "id": 329,
     "question": "The equation of the line with x-intercept 3 and y-intercept 4 is",
     "options": [
-      "A. x/3 + y/4 = 1",
-      "B. x/4 + y/3 = 1",
+      "A. \\(\\frac{x}{3} + \\frac{y}{4} = 1\\)",
+      "B. \\(\\frac{x}{4} + \\frac{y}{3} = 1\\)",
       "C. 3x + 4y = 1",
       "D. 4x + 3y = 12"
     ],
@@ -4280,10 +4280,10 @@
     "id": 330,
     "question": "Find the gradient of the line perpendicular to the line joining (2, 3) and (4, 7).",
     "options": [
-      "A. −1/2",
+      "A. \\(-\\)\\(\\frac{1}{2}\\)",
       "B. 2",
-      "C. −2",
-      "D. 1/2"
+      "C. \\(-\\)2",
+      "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4304,12 +4304,12 @@
   },
   {
     "id": 332,
-    "question": "The equation of the line passing through the points (0, −2) and (3, 4) is",
+    "question": "The equation of the line passing through the points (0, \\(-2)\\) and (3, 4) is",
     "options": [
-      "A. y = 2x − 2",
+      "A. \\(y = 2x -\\) 2",
       "B. y = 2x + 2",
-      "C. y = −2x − 2",
-      "D. y = (2/3)x − 2"
+      "C. \\(y = -2x -\\) 2",
+      "D. \\(y = (\\frac{2}{3} )x -\\) 2"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4332,10 +4332,10 @@
     "id": 334,
     "question": "The perpendicular bisector of the line segment joining (2, 3) and (6, 7) has equation",
     "options": [
-      "A. x + y − 9 = 0",
-      "B. x − y − 1 = 0",
-      "C. x + y − 5 = 0",
-      "D. x − y + 1 = 0"
+      "A. \\(x + y - 9 = 0\\)",
+      "B. x \\(- y - 1 = 0\\)",
+      "C. \\(x + y - 5 = 0\\)",
+      "D. x \\(- y + 1 = 0\\)"
     ],
     "answer": "A",
     "topic": "Loci",
@@ -4343,12 +4343,12 @@
   },
   {
     "id": 335,
-    "question": "The y-intercept of the line 3x − 2y + 6 = 0 is",
+    "question": "The y-intercept of the line 3x \\(-\\) 2y + 6 = 0 is",
     "options": [
       "A. 3",
-      "B. −3",
+      "B. \\(-\\)3",
       "C. 2",
-      "D. −2"
+      "D. \\(-\\)2"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4371,10 +4371,10 @@
     "id": 337,
     "question": "The equation of the line through (4, 0) perpendicular to the line y = 3x + 1 is",
     "options": [
-      "A. y = −(1/3)x + 4/3",
-      "B. y = −(1/3)x − 4/3",
-      "C. y = 3x − 12",
-      "D. y = −3x + 12"
+      "A. \\(y = - ( \\frac{1}{3} )x + \\frac{4}{3}\\)",
+      "B. \\(y = - ( \\frac{1}{3} )x - \\frac{4}{3}\\)",
+      "C. \\(y = 3x -\\) 12",
+      "D. \\(y = -3x + 12\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4384,10 +4384,10 @@
     "id": 338,
     "question": "The midpoint of the segment joining (a, b) and (c, d) is",
     "options": [
-      "A. ((a+c)/2, (b+d)/2)",
-      "B. ((a−c)/2, (b−d)/2)",
+      "A. \\((\\frac{a+c}{2} , \\frac{b+d}{2}\\))",
+      "B. \\((\\frac{a-c}{2} , \\frac{b-d}{2}\\))",
       "C. (a+c, b+d)",
-      "D. (ac/2, bd/2)"
+      "D. \\((\\frac{ac}{2} , \\frac{bd}{2}\\))"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4397,9 +4397,9 @@
     "id": 339,
     "question": "The locus of a point which is always 4 units from the point (0, 0) and lies in the first quadrant is part of",
     "options": [
-      "A. the circle x² + y² = 16",
+      "A. the circle \\(x^{2} + y^{2} = 16\\)",
       "B. the line x + y = 4",
-      "C. the parabola y² = 4x",
+      "C. the parabola \\(y^{2} = 4x\\)",
       "D. the line x = 4"
     ],
     "answer": "A",
@@ -4408,12 +4408,12 @@
   },
   {
     "id": 340,
-    "question": "Find the equation of the line that passes through the intersection of x + y = 5 and x − y = 1 and is parallel to 2x + 3y = 0.",
+    "question": "Find the equation of the line that passes through the intersection of x + y = 5 and x \\(- y = 1\\) and is parallel to 2x + 3y = 0.",
     "options": [
-      "A. 2x + 3y − 13 = 0",
+      "A. \\(2x + 3y - 13 = 0\\)",
       "B. 2x + 3y + 13 = 0",
-      "C. 3x + 2y − 13 = 0",
-      "D. 2x − 3y − 13 = 0"
+      "C. \\(3x + 2y - 13 = 0\\)",
+      "D. \\(2x - 3y - 13 = 0\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4421,12 +4421,12 @@
   },
   {
     "id": 341,
-    "question": "The gradient of the line joining the origin to the point (5, −12) is",
+    "question": "The gradient of the line joining the origin to the point (5, \\(-\\)12) is",
     "options": [
-      "A. −12/5",
-      "B. 12/5",
-      "C. −5/12",
-      "D. 5/12"
+      "A. \\(-\\)\\(\\frac{12}{5}\\)",
+      "B. \\(\\frac{12}{5}\\)",
+      "C. \\(-\\)\\(\\frac{5}{12}\\)",
+      "D. \\(\\frac{5}{12}\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4447,12 +4447,12 @@
   },
   {
     "id": 343,
-    "question": "The equation of the line with slope −1/2 and passing through (4, 3) is",
+    "question": "The equation of the line with slope \\(-\\)\\(\\frac{1}{2}\\) and passing through (4, 3) is",
     "options": [
-      "A. x + 2y − 10 = 0",
-      "B. x − 2y − 10 = 0",
-      "C. 2x + y − 10 = 0",
-      "D. 2x − y − 10 = 0"
+      "A. \\(x + 2y - 10 = 0\\)",
+      "B. x \\(- 2y - 10 = 0\\)",
+      "C. \\(2x + y - 10 = 0\\)",
+      "D. \\(2x - y - 10 = 0\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4486,12 +4486,12 @@
   },
   {
     "id": 346,
-    "question": "The intercept form of the line that intersects the axes at (5, 0) and (0, −3) is",
+    "question": "The intercept form of the line that intersects the axes at (5, 0) and (0, \\(-\\)3) is",
     "options": [
-      "A. x/5 − y/3 = 1",
-      "B. x/5 + y/3 = 1",
-      "C. x/3 + y/5 = 1",
-      "D. x/5 − y/3 = −1"
+      "A. \\(\\frac{x}{5} - \\frac{y}{3} = 1\\)",
+      "B. \\(\\frac{x}{5} + \\frac{y}{3} = 1\\)",
+      "C. \\(\\frac{x}{3} + \\frac{y}{5} = 1\\)",
+      "D. \\(\\frac{x}{5} - \\frac{y}{3} = -\\)1"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4499,12 +4499,12 @@
   },
   {
     "id": 347,
-    "question": "A line has equation 4x − 3y = 12. Its gradient is",
+    "question": "A line has equation 4x \\(- 3y = 12\\). Its gradient is",
     "options": [
-      "A. 4/3",
-      "B. −4/3",
-      "C. 3/4",
-      "D. −3/4"
+      "A. \\(\\frac{4}{3}\\)",
+      "B. \\(-\\)\\(\\frac{4}{3}\\)",
+      "C. \\(\\frac{3}{4}\\)",
+      "D. \\(-\\)\\(\\frac{3}{4}\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -4527,10 +4527,10 @@
     "id": 349,
     "question": "Find the equation of the line which is the perpendicular bisector of the points (1, 1) and (5, 5).",
     "options": [
-      "A. x + y − 6 = 0",
-      "B. x − y − 6 = 0",
+      "A. \\(x + y - 6 = 0\\)",
+      "B. x \\(- y - 6 = 0\\)",
       "C. x + y + 6 = 0",
-      "D. x − y + 6 = 0"
+      "D. x \\(- y + 6 = 0\\)"
     ],
     "answer": "A",
     "topic": "Loci",
@@ -4538,11 +4538,11 @@
   },
   {
     "id": 350,
-    "question": "The point (−2, 3) lies on the line 3x + 2y + k = 0. The value of k is",
+    "question": "The point (\\(-2, 3)\\) lies on the line 3x + 2y + k = 0. The value of k is",
     "options": [
       "A. 0",
       "B. 12",
-      "C. −12",
+      "C. \\(-\\)12",
       "D. 6"
     ],
     "answer": "A",
@@ -4551,10 +4551,10 @@
   },
   {
     "id": 351,
-    "question": "The value of sin 30° is",
+    "question": "The value of sin \\(30^{\\circ}\\) is",
     "options": [
-      "A. 1/2",
-      "B. √3/2",
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
       "C. 1",
       "D. 0"
     ],
@@ -4564,10 +4564,10 @@
   },
   {
     "id": 352,
-    "question": "cos 60° equals",
+    "question": "\\(cos 60^{\\circ}\\) equals",
     "options": [
-      "A. 1/2",
-      "B. √3/2",
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
       "C. 0",
       "D. 1"
     ],
@@ -4577,12 +4577,12 @@
   },
   {
     "id": 353,
-    "question": "tan 45° is equal to",
+    "question": "\\(tan 45^{\\circ}\\) is equal to",
     "options": [
       "A. 1",
       "B. 0",
-      "C. √3",
-      "D. 1/√3"
+      "C. \\(\\sqrt{3}\\)",
+      "D. 1/\\(\\sqrt{3}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4590,12 +4590,12 @@
   },
   {
     "id": 354,
-    "question": "sin 90° equals",
+    "question": "\\(sin 90^{\\circ}\\) equals",
     "options": [
       "A. 1",
       "B. 0",
-      "C. 1/2",
-      "D. √3/2"
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4603,12 +4603,12 @@
   },
   {
     "id": 355,
-    "question": "The value of cos 0° is",
+    "question": "The value of cos \\(0^{\\circ}\\) is",
     "options": [
       "A. 1",
       "B. 0",
-      "C. −1",
-      "D. 1/2"
+      "C. \\(-\\)1",
+      "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4616,12 +4616,12 @@
   },
   {
     "id": 356,
-    "question": "If sin θ = 3/5 and θ is acute, then cos θ is",
+    "question": "If sin \\(\\theta = \\frac{3}{5}\\) and \\(\\theta\\) is acute, then cos \\(\\theta\\) is",
     "options": [
-      "A. 4/5",
-      "B. 3/4",
-      "C. 5/3",
-      "D. 5/4"
+      "A. \\(\\frac{4}{5}\\)",
+      "B. \\(\\frac{3}{4}\\)",
+      "C. \\(\\frac{5}{3}\\)",
+      "D. \\(\\frac{5}{4}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4629,10 +4629,10 @@
   },
   {
     "id": 357,
-    "question": "An angle of elevation of the top of a tower from a point 50 m away is 30°. The height of the tower is",
+    "question": "An angle of elevation of the top of a tower from a point 50 m away is \\(30^{\\circ}\\). The height of the tower is",
     "options": [
-      "A. 50/√3 m",
-      "B. 50√3 m",
+      "A. 50/\\(\\sqrt{3}\\) m",
+      "B. \\(50\\sqrt{3}\\) m",
       "C. 25 m",
       "D. 100 m"
     ],
@@ -4642,7 +4642,7 @@
   },
   {
     "id": 358,
-    "question": "From the top of a building 30 m high, the angle of depression of a car on the ground is 45°. The distance of the car from the foot of the building is",
+    "question": "From the top of a building 30 m high, the angle of depression of a car on the ground is \\(45^{\\circ}\\). The distance of the car from the foot of the building is",
     "options": [
       "A. 30 m",
       "B. 15 m",
@@ -4655,12 +4655,12 @@
   },
   {
     "id": 359,
-    "question": "The bearing of B from A is 050°. The bearing of A from B is",
+    "question": "The bearing of B from A is \\(050^{\\circ}\\). The bearing of A from B is",
     "options": [
-      "A. 230°",
-      "B. 050°",
-      "C. 130°",
-      "D. 310°"
+      "A. \\(230^{\\circ}\\)",
+      "B. \\(050^{\\circ}\\)",
+      "C. \\(130^{\\circ}\\)",
+      "D. \\(310^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4668,12 +4668,12 @@
   },
   {
     "id": 360,
-    "question": "In triangle ABC, a = 5 cm, b = 7 cm and angle C = 60°. The area of the triangle is",
+    "question": "In triangle ABC, a = 5 cm, b = 7 cm and angle C = \\(60^{\\circ}\\). The area of the triangle is",
     "options": [
-      "A. (35√3)/4 cm²",
-      "B. (35√3)/2 cm²",
-      "C. 35√3 cm²",
-      "D. 17.5 cm²"
+      "A. \\((35\\sqrt{3} )/4 \\text{cm}^{2}\\)",
+      "B. \\((35\\sqrt{3} )/2 \\text{cm}^{2}\\)",
+      "C. \\(35\\sqrt{3} \\text{cm}^{2}\\)",
+      "D. \\(17.5 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4681,7 +4681,7 @@
   },
   {
     "id": 361,
-    "question": "Using the sine rule, in triangle ABC if a/sin A = 10 and angle A = 30°, then side a is",
+    "question": "Using the sine rule, in triangle ABC if a/sin A = 10 and angle A = \\(30^{\\circ}\\), then side a is",
     "options": [
       "A. 5",
       "B. 10",
@@ -4694,12 +4694,12 @@
   },
   {
     "id": 362,
-    "question": "The cosine rule states that for any triangle ABC, a² =",
+    "question": "The cosine rule states that for any triangle ABC, \\(a^{2} =\\)",
     "options": [
-      "A. b² + c² − 2bc cos A",
-      "B. b² + c² + 2bc cos A",
-      "C. b² − c² − 2bc cos A",
-      "D. b² + c² − 2bc sin A"
+      "A. \\(b^{2} + c^{2} - 2bc cos A\\)",
+      "B. \\(b^{2} + c^{2} + 2bc cos A\\)",
+      "C. \\(b^{2} - c^{2} - 2bc cos A\\)",
+      "D. \\(b^{2} + c^{2} - 2bc sin A\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4711,7 +4711,7 @@
     "options": [
       "A. 1",
       "B. 0",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 2"
     ],
     "answer": "A",
@@ -4722,10 +4722,10 @@
     "id": 364,
     "question": "The period of the function y = cos 2x is",
     "options": [
-      "A. π",
-      "B. 2π",
-      "C. π/2",
-      "D. 4π"
+      "A. \\(\\pi\\)",
+      "B. \\(2\\pi\\)",
+      "C. \\(\\frac{\\pi}{2}\\)",
+      "D. \\(4\\pi\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4733,12 +4733,12 @@
   },
   {
     "id": 365,
-    "question": "sin 150° equals",
+    "question": "\\(sin 150^{\\circ}\\) equals",
     "options": [
-      "A. 1/2",
-      "B. −1/2",
-      "C. √3/2",
-      "D. −√3/2"
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(-\\)\\(\\frac{1}{2}\\)",
+      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4746,12 +4746,12 @@
   },
   {
     "id": 366,
-    "question": "cos 120° is equal to",
+    "question": "\\(cos 120^{\\circ}\\) is equal to",
     "options": [
-      "A. −1/2",
-      "B. 1/2",
-      "C. √3/2",
-      "D. −√3/2"
+      "A. \\(-\\)\\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4759,12 +4759,12 @@
   },
   {
     "id": 367,
-    "question": "tan 180° equals",
+    "question": "\\(tan 180^{\\circ}\\) equals",
     "options": [
       "A. 0",
       "B. 1",
       "C. undefined",
-      "D. −1"
+      "D. \\(-\\)1"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4772,10 +4772,10 @@
   },
   {
     "id": 368,
-    "question": "If the angle of elevation of a point is 60° and the horizontal distance is 20 m, the height is",
+    "question": "If the angle of elevation of a point is \\(60^{\\circ}\\) and the horizontal distance is 20 m, the height is",
     "options": [
-      "A. 20√3 m",
-      "B. 20/√3 m",
+      "A. \\(20\\sqrt{3}\\) m",
+      "B. 20/\\(\\sqrt{3}\\) m",
       "C. 10 m",
       "D. 40 m"
     ],
@@ -4785,7 +4785,7 @@
   },
   {
     "id": 369,
-    "question": "The bearing 270° is the same as",
+    "question": "The bearing \\(270^{\\circ}\\) is the same as",
     "options": [
       "A. due West",
       "B. due East",
@@ -4798,10 +4798,10 @@
   },
   {
     "id": 370,
-    "question": "In triangle ABC, b = 8, c = 6 and angle A = 60°. Using cosine rule, side a is",
+    "question": "In triangle ABC, b = 8, c = 6 and angle A = \\(60^{\\circ}\\). Using cosine rule, side a is",
     "options": [
-      "A. √52",
-      "B. √28",
+      "A. \\(\\sqrt{52}\\)",
+      "B. \\(\\sqrt{28}\\)",
       "C. 7",
       "D. 10"
     ],
@@ -4811,12 +4811,12 @@
   },
   {
     "id": 371,
-    "question": "The area of a triangle with sides 5 cm, 6 cm and included angle 90° is",
+    "question": "The area of a triangle with sides 5 cm, 6 cm and included angle \\(90^{\\circ}\\) is",
     "options": [
-      "A. 15 cm²",
-      "B. 30 cm²",
-      "C. 7.5 cm²",
-      "D. 11 cm²"
+      "A. \\(15 \\text{cm}^{2}\\)",
+      "B. \\(30 \\text{cm}^{2}\\)",
+      "C. \\(7.5 \\text{cm}^{2}\\)",
+      "D. \\(11 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4826,10 +4826,10 @@
     "id": 372,
     "question": "The graph of y = sin x crosses the x-axis at",
     "options": [
-      "A. multiples of π",
-      "B. multiples of π/2",
-      "C. odd multiples of π/2",
-      "D. even multiples of π/2"
+      "A. multiples of \\(\\pi\\)",
+      "B. multiples of \\(\\frac{\\pi}{2}\\)",
+      "C. odd multiples of \\(\\frac{\\pi}{2}\\)",
+      "D. even multiples of \\(\\frac{\\pi}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4837,12 +4837,12 @@
   },
   {
     "id": 373,
-    "question": "sin (−30°) equals",
+    "question": "\\(sin (-\\)\\(30^{\\circ}\\)) equals",
     "options": [
-      "A. −1/2",
-      "B. 1/2",
-      "C. −√3/2",
-      "D. √3/2"
+      "A. \\(-\\)\\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)",
+      "D. \\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4854,8 +4854,8 @@
     "options": [
       "A. 3",
       "B. 1",
-      "C. π",
-      "D. 2π"
+      "C. \\(\\pi\\)",
+      "D. \\(2\\pi\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4863,12 +4863,12 @@
   },
   {
     "id": 375,
-    "question": "If tan θ = 1 and θ is in the first quadrant, θ is",
+    "question": "If tan \\(\\theta = 1\\) and \\(\\theta\\) is in the first quadrant, \\(\\theta\\) is",
     "options": [
-      "A. 45°",
-      "B. 30°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(30^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4876,12 +4876,12 @@
   },
   {
     "id": 376,
-    "question": "From a point on the ground, the angles of elevation of the bottom and top of a flagstaff on a tower are 30° and 60°. If the tower is 20 m high, the height of the flagstaff is",
+    "question": "From a point on the ground, the angles of elevation of the bottom and top of a flagstaff on a tower are \\(30^{\\circ}\\) and \\(60^{\\circ}\\). If the tower is 20 m high, the height of the flagstaff is",
     "options": [
-      "A. 20√3 − 20 m",
+      "A. \\(20\\sqrt{3} - 20 m\\)",
       "B. 20 m",
       "C. 40 m",
-      "D. 10√3 m"
+      "D. \\(10\\sqrt{3}\\) m"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4915,11 +4915,11 @@
   },
   {
     "id": 379,
-    "question": "cos 270° equals",
+    "question": "\\(cos 270^{\\circ}\\) equals",
     "options": [
       "A. 0",
       "B. 1",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. undefined"
     ],
     "answer": "A",
@@ -4928,12 +4928,12 @@
   },
   {
     "id": 380,
-    "question": "The bearing of a ship from a lighthouse is 120°. The bearing of the lighthouse from the ship is",
+    "question": "The bearing of a ship from a lighthouse is \\(120^{\\circ}\\). The bearing of the lighthouse from the ship is",
     "options": [
-      "A. 300°",
-      "B. 120°",
-      "C. 60°",
-      "D. 240°"
+      "A. \\(300^{\\circ}\\)",
+      "B. \\(120^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(240^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4941,7 +4941,7 @@
   },
   {
     "id": 381,
-    "question": "Using the formula Area = (1/2)ab sin C, if a = 10, b = 12 and C = 30°, the area is",
+    "question": "Using the formula Area = (\\(\\frac{1}{2}\\))ab sin C, if a = 10, b = 12 and C = \\(30^{\\circ}\\), the area is",
     "options": [
       "A. 30",
       "B. 60",
@@ -4956,10 +4956,10 @@
     "id": 382,
     "question": "The graph of y = cos x has a maximum at x =",
     "options": [
-      "A. 0°",
-      "B. 90°",
-      "C. 180°",
-      "D. 270°"
+      "A. \\(0^{\\circ}\\)",
+      "B. \\(90^{\\circ}\\)",
+      "C. \\(180^{\\circ}\\)",
+      "D. \\(270^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4967,12 +4967,12 @@
   },
   {
     "id": 383,
-    "question": "sin 45° equals",
+    "question": "\\(sin 45^{\\circ}\\) equals",
     "options": [
-      "A. 1/√2",
-      "B. √2",
-      "C. 1/2",
-      "D. √3/2"
+      "A. 1/\\(\\sqrt{2}\\)",
+      "B. \\(\\sqrt{2}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -4980,10 +4980,10 @@
   },
   {
     "id": 384,
-    "question": "If the angle of depression from a point 40 m above the ground to an object is 30°, the horizontal distance to the object is",
+    "question": "If the angle of depression from a point 40 m above the ground to an object is \\(30^{\\circ}\\), the horizontal distance to the object is",
     "options": [
-      "A. 40√3 m",
-      "B. 40/√3 m",
+      "A. \\(40\\sqrt{3}\\) m",
+      "B. 40/\\(\\sqrt{3}\\) m",
       "C. 20 m",
       "D. 80 m"
     ],
@@ -4993,7 +4993,7 @@
   },
   {
     "id": 385,
-    "question": "In triangle ABC, angle A = 40°, angle B = 60°, side a = 8 cm. Side b is approximately",
+    "question": "In triangle ABC, angle A = \\(40^{\\circ}\\), angle B = \\(60^{\\circ}\\), side a = 8 cm. Side b is approximately",
     "options": [
       "A. 10.4 cm",
       "B. 6.1 cm",
@@ -5006,12 +5006,12 @@
   },
   {
     "id": 386,
-    "question": "The period of y = sin (x/2) is",
+    "question": "The period of y = sin (\\(\\frac{x}{2}\\)) is",
     "options": [
-      "A. 4π",
-      "B. 2π",
-      "C. π",
-      "D. π/2"
+      "A. \\(4\\pi\\)",
+      "B. \\(2\\pi\\)",
+      "C. \\(\\pi\\)",
+      "D. \\(\\frac{\\pi}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5019,10 +5019,10 @@
   },
   {
     "id": 387,
-    "question": "tan 60° equals",
+    "question": "\\(tan 60^{\\circ}\\) equals",
     "options": [
-      "A. √3",
-      "B. 1/√3",
+      "A. \\(\\sqrt{3}\\)",
+      "B. 1/\\(\\sqrt{3}\\)",
       "C. 1",
       "D. 0"
     ],
@@ -5032,12 +5032,12 @@
   },
   {
     "id": 388,
-    "question": "A man walks 5 km on a bearing of 030° and then 5 km on a bearing of 120°. His distance from the starting point is",
+    "question": "A man walks 5 km on a bearing of \\(030^{\\circ}\\) and then 5 km on a bearing of \\(120^{\\circ}\\). His distance from the starting point is",
     "options": [
-      "A. 5√3 km",
+      "A. \\(5\\sqrt{3}\\) km",
       "B. 5 km",
       "C. 10 km",
-      "D. 5√2 km"
+      "D. \\(5\\sqrt{2}\\) km"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5045,12 +5045,12 @@
   },
   {
     "id": 389,
-    "question": "The value of cos 300° is",
+    "question": "The value of cos \\(300^{\\circ}\\) is",
     "options": [
-      "A. 1/2",
-      "B. −1/2",
-      "C. √3/2",
-      "D. −√3/2"
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(-\\)\\(\\frac{1}{2}\\)",
+      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5073,10 +5073,10 @@
     "id": 391,
     "question": "The range of the function y = 2 sin x + 3 is",
     "options": [
-      "A. 1 ≤ y ≤ 5",
-      "B. −2 ≤ y ≤ 2",
-      "C. 0 ≤ y ≤ 5",
-      "D. −1 ≤ y ≤ 5"
+      "A. \\(1 \\le y \\le\\) 5",
+      "B. \\(- 2 \\le y \\le\\) 2",
+      "C. \\(0 \\le y \\le\\) 5",
+      "D. \\(- 1 \\le y \\le\\) 5"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5086,10 +5086,10 @@
     "id": 392,
     "question": "If sin A = cos A, then A in the first quadrant is",
     "options": [
-      "A. 45°",
-      "B. 30°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(30^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5099,10 +5099,10 @@
     "id": 393,
     "question": "Using cosine rule, if a = 5, b = 5 and c = 6, angle C is given by cos C =",
     "options": [
-      "A. 7/25",
-      "B. 11/25",
-      "C. 14/25",
-      "D. 1/2"
+      "A. \\(\\frac{7}{25}\\)",
+      "B. \\(\\frac{11}{25}\\)",
+      "C. \\(\\frac{14}{25}\\)",
+      "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5112,10 +5112,10 @@
     "id": 394,
     "question": "The angle of elevation of the sun when a 6 m pole casts a 6 m shadow is",
     "options": [
-      "A. 45°",
-      "B. 30°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(45^{\\circ}\\)",
+      "B. \\(30^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5123,9 +5123,9 @@
   },
   {
     "id": 395,
-    "question": "sin 270° equals",
+    "question": "\\(sin 270^{\\circ}\\) equals",
     "options": [
-      "A. −1",
+      "A. \\(-\\)1",
       "B. 1",
       "C. 0",
       "D. undefined"
@@ -5138,10 +5138,10 @@
     "id": 396,
     "question": "The area of an equilateral triangle of side 6 cm is",
     "options": [
-      "A. 9√3 cm²",
-      "B. 18√3 cm²",
-      "C. 6√3 cm²",
-      "D. 36√3 cm²"
+      "A. \\(9\\sqrt{3} \\text{cm}^{2}\\)",
+      "B. \\(18\\sqrt{3} \\text{cm}^{2}\\)",
+      "C. \\(6\\sqrt{3} \\text{cm}^{2}\\)",
+      "D. \\(36\\sqrt{3} \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5151,10 +5151,10 @@
     "id": 397,
     "question": "The graph of y = cos x is obtained from y = sin x by a phase shift of",
     "options": [
-      "A. π/2 to the left",
-      "B. π/2 to the right",
-      "C. π to the left",
-      "D. π to the right"
+      "A. \\(\\frac{\\pi}{2}\\) to the left",
+      "B. \\(\\frac{\\pi}{2}\\) to the right",
+      "C. \\(\\pi\\) to the left",
+      "D. \\(\\pi\\) to the right"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5162,12 +5162,12 @@
   },
   {
     "id": 398,
-    "question": "If the bearing of P from Q is 075°, the bearing of Q from P is",
+    "question": "If the bearing of P from Q is \\(075^{\\circ}\\), the bearing of Q from P is",
     "options": [
-      "A. 255°",
-      "B. 075°",
-      "C. 105°",
-      "D. 285°"
+      "A. \\(255^{\\circ}\\)",
+      "B. \\(075^{\\circ}\\)",
+      "C. \\(105^{\\circ}\\)",
+      "D. \\(285^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5177,10 +5177,10 @@
     "id": 399,
     "question": "In triangle ABC with sides a = 7, b = 8, c = 9, the cosine of angle A is",
     "options": [
-      "A. 2/3",
-      "B. 1/2",
-      "C. 4/7",
-      "D. 3/4"
+      "A. \\(\\frac{2}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{4}{7}\\)",
+      "D. \\(\\frac{3}{4}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5188,12 +5188,12 @@
   },
   {
     "id": 400,
-    "question": "The minimum value of y = 4 cos x − 1 is",
+    "question": "The minimum value of y = 4 cos x \\(-\\) 1 is",
     "options": [
-      "A. −5",
-      "B. −3",
-      "C. −4",
-      "D. −1"
+      "A. \\(-\\)5",
+      "B. \\(-\\)3",
+      "C. \\(-\\)4",
+      "D. \\(-\\)1"
     ],
     "answer": "A",
     "topic": "Trigonometry",
@@ -5201,7 +5201,7 @@
   },
   {
     "id": 401,
-    "question": "The limit of (x² − 4)/(x − 2) as x approaches 2 is",
+    "question": "The limit of \\(\\frac{x^{2} - 4}{x - 2}\\) as x approaches 2 is",
     "options": [
       "A. 4",
       "B. 0",
@@ -5214,12 +5214,12 @@
   },
   {
     "id": 402,
-    "question": "If f(x) = 3x² − 5x + 2, then f′(x) is",
+    "question": "If f(x) = \\(3x^{2} - 5x + 2,\\) then f′(x) is",
     "options": [
-      "A. 6x − 5",
+      "A. \\(6x -\\) 5",
       "B. 6x + 5",
-      "C. 3x − 5",
-      "D. 6x − 2"
+      "C. \\(3x -\\) 5",
+      "D. \\(6x -\\) 2"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5230,9 +5230,9 @@
     "question": "The derivative of sin x with respect to x is",
     "options": [
       "A. cos x",
-      "B. −cos x",
+      "B. \\(-\\)cos x",
       "C. sin x",
-      "D. −sin x"
+      "D. \\(-\\)sin x"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5242,10 +5242,10 @@
     "id": 404,
     "question": "The derivative of cos x is",
     "options": [
-      "A. −sin x",
+      "A. \\(-\\)sin x",
       "B. sin x",
       "C. cos x",
-      "D. −cos x"
+      "D. \\(-\\)cos x"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5253,11 +5253,11 @@
   },
   {
     "id": 405,
-    "question": "If y = x³ − 4x² + 3, then dy/dx at x = 1 is",
+    "question": "If y = \\(x^{3} - 4x^{2} + 3,\\) then \\(\\frac{dy}{dx}\\) at x = 1 is",
     "options": [
-      "A. −5",
+      "A. \\(-\\)5",
       "B. 5",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 1"
     ],
     "answer": "A",
@@ -5266,7 +5266,7 @@
   },
   {
     "id": 406,
-    "question": "The gradient of the curve y = 2x² − 3x + 1 at x = 2 is",
+    "question": "The gradient of the curve y = \\(2x^{2} -\\) 3x + 1 at x = 2 is",
     "options": [
       "A. 5",
       "B. 8",
@@ -5279,9 +5279,9 @@
   },
   {
     "id": 407,
-    "question": "A particle moves such that its distance s metres from a fixed point at time t seconds is s = t³ − 6t² + 9t. The velocity when t = 2 is",
+    "question": "A particle moves such that its distance s metres from a fixed point at time t seconds is s = \\(t^{3} - 6t^{2} + 9t\\). The velocity when t = 2 is",
     "options": [
-      "A. −3 m/s",
+      "A. \\(-\\)3 m/s",
       "B. 3 m/s",
       "C. 0 m/s",
       "D. 9 m/s"
@@ -5292,10 +5292,10 @@
   },
   {
     "id": 408,
-    "question": "The stationary points of the curve y = x³ − 3x² − 9x + 5 occur where dy/dx = 0. One of the x-values is",
+    "question": "The stationary points of the curve y = \\(x^{3} - 3x^{2} - 9x + 5\\) occur where \\(\\frac{dy}{dx} = 0\\). One of the x-values is",
     "options": [
       "A. 3",
-      "B. −1",
+      "B. \\(-\\)1",
       "C. 0",
       "D. 5"
     ],
@@ -5305,11 +5305,11 @@
   },
   {
     "id": 409,
-    "question": "The function y = x² − 4x + 5 has a minimum value of",
+    "question": "The function y = \\(x^{2} - 4x + 5\\) has a minimum value of",
     "options": [
       "A. 1",
       "B. 5",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 4"
     ],
     "answer": "A",
@@ -5318,12 +5318,12 @@
   },
   {
     "id": 410,
-    "question": "∫ 3x² dx equals",
+    "question": "\\(\\int 3x^{2}\\) dx equals",
     "options": [
-      "A. x³ + C",
+      "A. \\(x^{3} + C\\)",
       "B. 6x + C",
-      "C. 3x³ + C",
-      "D. x² + C"
+      "C. \\(3x^{3} + C\\)",
+      "D. \\(x^{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5331,12 +5331,12 @@
   },
   {
     "id": 411,
-    "question": "∫ cos x dx is",
+    "question": "\\(\\int\\) cos x dx is",
     "options": [
       "A. sin x + C",
-      "B. −sin x + C",
+      "B. \\(-sin x + C\\)",
       "C. cos x + C",
-      "D. −cos x + C"
+      "D. \\(-cos x + C\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5344,11 +5344,11 @@
   },
   {
     "id": 412,
-    "question": "∫ (2x + 3) dx equals",
+    "question": "\\(\\int (2x + 3) dx\\) equals",
     "options": [
-      "A. x² + 3x + C",
-      "B. 2x² + 3x + C",
-      "C. x² + 3 + C",
+      "A. \\(x^{2} + 3x + C\\)",
+      "B. \\(2x^{2} + 3x + C\\)",
+      "C. \\(x^{2} + 3 + C\\)",
       "D. 2x + 3x + C"
     ],
     "answer": "A",
@@ -5372,9 +5372,9 @@
     "id": 414,
     "question": "The derivative of tan x is",
     "options": [
-      "A. sec² x",
-      "B. cos² x",
-      "C. −sec² x",
+      "A. \\(sec^{2}\\) x",
+      "B. \\(cos^{2}\\) x",
+      "C. \\(-\\)\\(sec^{2}\\) x",
       "D. cot x"
     ],
     "answer": "A",
@@ -5383,12 +5383,12 @@
   },
   {
     "id": 415,
-    "question": "If y = (2x − 1)³, then dy/dx is",
+    "question": "If y = (2x \\(- 1)^{3}\\), then \\(\\frac{dy}{dx}\\) is",
     "options": [
-      "A. 6(2x − 1)²",
-      "B. 3(2x − 1)²",
-      "C. 2(2x − 1)²",
-      "D. 6(2x − 1)"
+      "A. \\(6(2x - 1)^{2}\\)",
+      "B. \\(3(2x - 1)^{2}\\)",
+      "C. \\(2(2x - 1)^{2}\\)",
+      "D. \\(6(2x - 1)\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5396,12 +5396,12 @@
   },
   {
     "id": 416,
-    "question": "The rate of change of the volume of a sphere with respect to its radius when the radius is 3 cm is (V = 4/3 πr³)",
+    "question": "The rate of change of the volume of a sphere with respect to its radius when the radius is 3 cm is (V = \\(\\frac{4}{3} \\pi\\)\\(r^{3}\\))",
     "options": [
-      "A. 36π cm²",
-      "B. 12π cm²",
-      "C. 4π cm²",
-      "D. 9π cm²"
+      "A. \\(36\\pi \\text{cm}^{2}\\)",
+      "B. \\(12\\pi \\text{cm}^{2}\\)",
+      "C. \\(4\\pi \\text{cm}^{2}\\)",
+      "D. \\(9\\pi \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5409,11 +5409,11 @@
   },
   {
     "id": 417,
-    "question": "Find ∫ sin 2x dx.",
+    "question": "Find \\(\\int sin 2x dx\\).",
     "options": [
-      "A. −(1/2) cos 2x + C",
-      "B. (1/2) cos 2x + C",
-      "C. −cos 2x + C",
+      "A. \\(- ( \\frac{1}{2}) cos 2x + C\\)",
+      "B. \\((\\frac{1}{2}) cos 2x + C\\)",
+      "C. \\(-cos 2x + C\\)",
       "D. 2 cos 2x + C"
     ],
     "answer": "A",
@@ -5422,11 +5422,11 @@
   },
   {
     "id": 418,
-    "question": "The second derivative of y = x⁴ − 3x² + 2 is",
+    "question": "The second derivative of y = \\(x^{4} - 3x^{2}\\) + 2 is",
     "options": [
-      "A. 12x² − 6",
-      "B. 4x³ − 6x",
-      "C. 12x² − 3",
+      "A. \\(12x^{2} -\\) 6",
+      "B. \\(4x^{3} - 6x\\)",
+      "C. \\(12x^{2} -\\) 3",
       "D. 24x"
     ],
     "answer": "A",
@@ -5435,7 +5435,7 @@
   },
   {
     "id": 419,
-    "question": "A curve has equation y = x³ − 6x² + 9x + 1. The nature of the stationary point at x = 1 is",
+    "question": "A curve has equation y = \\(x^{3} - 6x^{2} + 9x + 1\\). The nature of the stationary point at x = 1 is",
     "options": [
       "A. maximum",
       "B. minimum",
@@ -5448,12 +5448,12 @@
   },
   {
     "id": 420,
-    "question": "∫ 5 dx equals",
+    "question": "\\(\\int 5 dx\\) equals",
     "options": [
       "A. 5x + C",
       "B. 5 + C",
-      "C. x⁵ + C",
-      "D. 5x² + C"
+      "C. \\(x^{5} + C\\)",
+      "D. \\(5x^{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 421,
-    "question": "The limit as x → 0 of (sin x)/x is",
+    "question": "The limit as x → 0 of \\(\\frac{sin x}{x}\\) is",
     "options": [
       "A. 1",
       "B. 0",
@@ -5474,11 +5474,11 @@
   },
   {
     "id": 422,
-    "question": "If s = 4t² − 3t + 2, the acceleration is",
+    "question": "If s = \\(4t^{2} - 3t + 2,\\) the acceleration is",
     "options": [
       "A. 8",
-      "B. 8t − 3",
-      "C. 4t − 3",
+      "B. \\(8t -\\) 3",
+      "C. \\(4t -\\) 3",
       "D. 8t"
     ],
     "answer": "A",
@@ -5487,7 +5487,7 @@
   },
   {
     "id": 423,
-    "question": "The maximum value of the function f(x) = 12x − x³ is",
+    "question": "The maximum value of the function f(x) = 12x \\(- x^{3}\\) is",
     "options": [
       "A. 16",
       "B. 12",
@@ -5500,12 +5500,12 @@
   },
   {
     "id": 424,
-    "question": "∫ (x² + 1) dx from 0 to 1 equals",
+    "question": "\\(\\int (x^{2} + 1) dx\\) from 0 to 1 equals",
     "options": [
-      "A. 4/3",
+      "A. \\(\\frac{4}{3}\\)",
       "B. 1",
-      "C. 2/3",
-      "D. 5/3"
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{5}{3}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5513,12 +5513,12 @@
   },
   {
     "id": 425,
-    "question": "The derivative of eˣ is",
+    "question": "The derivative of \\(e^{x}\\) is",
     "options": [
-      "A. eˣ",
-      "B. xeˣ",
-      "C. eˣ⁻¹",
-      "D. 1/eˣ"
+      "A. \\(e^{x}\\)",
+      "B. \\(xe^{x}\\)",
+      "C. \\(e^{x-1}\\)",
+      "D. \\(\\frac{1}{e^{x}}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5526,11 +5526,11 @@
   },
   {
     "id": 426,
-    "question": "Find the equation of the tangent to the curve y = x² at the point (2, 4).",
+    "question": "Find the equation of the tangent to the curve y = \\(x^{2}\\) at the point (2, 4).",
     "options": [
-      "A. y = 4x − 4",
+      "A. \\(y = 4x -\\) 4",
       "B. y = 4x + 4",
-      "C. y = 2x − 4",
+      "C. \\(y = 2x -\\) 4",
       "D. y = 2x + 4"
     ],
     "answer": "A",
@@ -5539,11 +5539,11 @@
   },
   {
     "id": 427,
-    "question": "∫ cos 3x dx equals",
+    "question": "\\(\\int cos 3x dx\\) equals",
     "options": [
-      "A. (1/3) sin 3x + C",
+      "A. \\((\\frac{1}{3}) sin 3x + C\\)",
       "B. 3 sin 3x + C",
-      "C. −(1/3) sin 3x + C",
+      "C. \\(- ( \\frac{1}{3}) sin 3x + C\\)",
       "D. sin 3x + C"
     ],
     "answer": "A",
@@ -5552,7 +5552,7 @@
   },
   {
     "id": 428,
-    "question": "The turning point of y = −x² + 6x − 5 is a",
+    "question": "The turning point of y = \\(-\\)\\(x^{2} + 6x -\\) 5 is a",
     "options": [
       "A. maximum",
       "B. minimum",
@@ -5565,12 +5565,12 @@
   },
   {
     "id": 429,
-    "question": "If dy/dx = 6x − 2 and y = 5 when x = 1, then y equals",
+    "question": "If \\(\\frac{dy}{dx} = 6x -\\) 2 and y = 5 when x = 1, then y equals",
     "options": [
-      "A. 3x² − 2x + 4",
-      "B. 3x² − 2x + 5",
-      "C. 6x² − 2x + 1",
-      "D. 3x² − 2x"
+      "A. \\(3x^{2} - 2x + 4\\)",
+      "B. \\(3x^{2} - 2x + 5\\)",
+      "C. \\(6x^{2} - 2x + 1\\)",
+      "D. \\(3x^{2} - 2x\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5578,10 +5578,10 @@
   },
   {
     "id": 430,
-    "question": "The area bounded by the curve y = 4 − x² and the x-axis is",
+    "question": "The area bounded by the curve y = 4 \\(- x^{2}\\) and the x-axis is",
     "options": [
-      "A. 32/3",
-      "B. 16/3",
+      "A. \\(\\frac{32}{3}\\)",
+      "B. \\(\\frac{16}{3}\\)",
       "C. 8",
       "D. 4"
     ],
@@ -5591,12 +5591,12 @@
   },
   {
     "id": 431,
-    "question": "d/dx (5x⁴) equals",
+    "question": "\\(\\frac{d}{dx} (5x^{4}\\)) equals",
     "options": [
-      "A. 20x³",
-      "B. 5x³",
-      "C. 20x⁴",
-      "D. 4x³"
+      "A. \\(20x^{3}\\)",
+      "B. \\(5x^{3}\\)",
+      "C. \\(20x^{4}\\)",
+      "D. \\(4x^{3}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5604,7 +5604,7 @@
   },
   {
     "id": 432,
-    "question": "The velocity of a particle is given by v = 3t² − 4t. The acceleration at t = 2 is",
+    "question": "The velocity of a particle is given by v = \\(3t^{2} - 4t\\). The acceleration at t = 2 is",
     "options": [
       "A. 8",
       "B. 4",
@@ -5617,11 +5617,11 @@
   },
   {
     "id": 433,
-    "question": "∫ (3 cos x − 2 sin x) dx equals",
+    "question": "\\(\\int (3 cos x - 2 sin x) dx\\) equals",
     "options": [
       "A. 3 sin x + 2 cos x + C",
-      "B. 3 sin x − 2 cos x + C",
-      "C. −3 sin x + 2 cos x + C",
+      "B. \\(3 sin x - 2 cos x + C\\)",
+      "C. \\(-3 sin x + 2 cos x + C\\)",
       "D. 3 cos x + 2 sin x + C"
     ],
     "answer": "A",
@@ -5630,12 +5630,12 @@
   },
   {
     "id": 434,
-    "question": "The function f(x) = x³ − 3x has stationary points at",
+    "question": "The function f(x) = \\(x^{3} - 3x\\) has stationary points at",
     "options": [
       "A. x = ±1",
       "B. x = ±3",
       "C. x = 0 and x = 1",
-      "D. x = ±√3"
+      "D. x = ±\\(\\sqrt{3}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5643,7 +5643,7 @@
   },
   {
     "id": 435,
-    "question": "The limit as h → 0 of [f(x + h) − f(x)] / h is the definition of",
+    "question": "The limit as h → 0 of [f(x + h) \\(-\\) f(x)] / h is the definition of",
     "options": [
       "A. the derivative",
       "B. the integral",
@@ -5658,10 +5658,10 @@
     "id": 436,
     "question": "If the radius of a circle is increasing at 0.5 cm/s, the rate of increase of the area when the radius is 4 cm is",
     "options": [
-      "A. 4π cm²/s",
-      "B. 2π cm²/s",
-      "C. 8π cm²/s",
-      "D. π cm²/s"
+      "A. \\(4\\pi \\frac{\\text{cm}^{2}}{s}\\)",
+      "B. \\(2\\pi \\frac{\\text{cm}^{2}}{s}\\)",
+      "C. \\(8\\pi \\frac{\\text{cm}^{2}}{s}\\)",
+      "D. \\(\\pi \\frac{\\text{cm}^{2}}{s}\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5669,11 +5669,11 @@
   },
   {
     "id": 437,
-    "question": "∫ x⁻² dx equals",
+    "question": "\\(\\int x^{-2}\\) dx equals",
     "options": [
-      "A. −1/x + C",
-      "B. 1/x + C",
-      "C. −2/x + C",
+      "A. \\(-\\)\\(\\frac{1}{x} + C\\)",
+      "B. \\(\\frac{1}{x} + C\\)",
+      "C. \\(-\\)\\(\\frac{2}{x} + C\\)",
       "D. ln|x| + C"
     ],
     "answer": "A",
@@ -5682,11 +5682,11 @@
   },
   {
     "id": 438,
-    "question": "The minimum value of y = x² + 4x + 7 is",
+    "question": "The minimum value of y = \\(x^{2}\\) + 4x + 7 is",
     "options": [
       "A. 3",
       "B. 7",
-      "C. −3",
+      "C. \\(-\\)3",
       "D. 4"
     ],
     "answer": "A",
@@ -5695,11 +5695,11 @@
   },
   {
     "id": 439,
-    "question": "d/dx (sin 5x) equals",
+    "question": "\\(\\frac{d}{dx} (sin 5x)\\) equals",
     "options": [
       "A. 5 cos 5x",
       "B. cos 5x",
-      "C. −5 cos 5x",
+      "C. \\(-5 cos 5x\\)",
       "D. 5 sin 5x"
     ],
     "answer": "A",
@@ -5708,10 +5708,10 @@
   },
   {
     "id": 440,
-    "question": "The area under y = √x from x = 0 to x = 4 is",
+    "question": "The area under y = \\(\\sqrt{x}\\) from x = 0 to x = 4 is",
     "options": [
-      "A. 16/3",
-      "B. 8/3",
+      "A. \\(\\frac{16}{3}\\)",
+      "B. \\(\\frac{8}{3}\\)",
       "C. 4",
       "D. 2"
     ],
@@ -5721,7 +5721,7 @@
   },
   {
     "id": 441,
-    "question": "If f(x) = 2x³ − 9x² + 12x − 3, the value of x at which f has a local maximum is",
+    "question": "If f(x) = \\(2x^{3} - 9x^{2} + 12x - 3,\\) the value of x at which f has a local maximum is",
     "options": [
       "A. 1",
       "B. 2",
@@ -5734,12 +5734,12 @@
   },
   {
     "id": 442,
-    "question": "∫ (4x³ − 2x) dx equals",
+    "question": "\\(\\int (4x^{3} - 2x) dx\\) equals",
     "options": [
-      "A. x⁴ − x² + C",
-      "B. 12x² − 2 + C",
-      "C. x⁴ − x²",
-      "D. 4x⁴ − 2x² + C"
+      "A. \\(x^{4} - x^{2} + C\\)",
+      "B. \\(12x^{2} - 2 + C\\)",
+      "C. \\(x^{4} - x^{2}\\)",
+      "D. \\(4x^{4} - 2x^{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5747,12 +5747,12 @@
   },
   {
     "id": 443,
-    "question": "The gradient of the normal to the curve y = x² − 3x at x = 1 is",
+    "question": "The gradient of the normal to the curve y = \\(x^{2} -\\) 3x at x = 1 is",
     "options": [
       "A. 1",
-      "B. −1",
+      "B. \\(-\\)1",
       "C. 2",
-      "D. −2"
+      "D. \\(-\\)2"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5760,12 +5760,12 @@
   },
   {
     "id": 444,
-    "question": "The indefinite integral of 1/x is",
+    "question": "The indefinite integral of \\(\\frac{1}{x}\\) is",
     "options": [
       "A. ln|x| + C",
-      "B. 1/x² + C",
+      "B. \\(\\frac{1}{x^{2}} + C\\)",
       "C. x ln x + C",
-      "D. −1/x + C"
+      "D. \\(-\\)\\(\\frac{1}{x} + C\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5773,7 +5773,7 @@
   },
   {
     "id": 445,
-    "question": "A stone is thrown upwards with distance s = 20t − 5t². The maximum height reached is",
+    "question": "A stone is thrown upwards with distance s = 20t \\(- 5t^{2}\\). The maximum height reached is",
     "options": [
       "A. 20 m",
       "B. 40 m",
@@ -5786,11 +5786,11 @@
   },
   {
     "id": 446,
-    "question": "d/dx (cos² x) equals",
+    "question": "\\(\\frac{d}{dx} (cos^{2}\\) x) equals",
     "options": [
-      "A. −2 cos x sin x",
+      "A. \\(-2 cos x sin x\\)",
       "B. 2 cos x sin x",
-      "C. −sin² x",
+      "C. \\(-\\)\\(sin^{2}\\) x",
       "D. 2 cos x"
     ],
     "answer": "A",
@@ -5799,11 +5799,11 @@
   },
   {
     "id": 447,
-    "question": "The definite integral ∫₀^{π/2} cos x dx equals",
+    "question": "The definite integral \\(\\int_{0}^{\\pi /2}\\) cos x dx equals",
     "options": [
       "A. 1",
       "B. 0",
-      "C. −1",
+      "C. \\(-\\)1",
       "D. 2"
     ],
     "answer": "A",
@@ -5812,7 +5812,7 @@
   },
   {
     "id": 448,
-    "question": "The point of inflection of y = x³ − 6x² + 12x − 5 occurs at",
+    "question": "The point of inflection of y = \\(x^{3} - 6x^{2} + 12x -\\) 5 occurs at",
     "options": [
       "A. x = 2",
       "B. x = 1",
@@ -5825,12 +5825,12 @@
   },
   {
     "id": 449,
-    "question": "If the rate of change of y with respect to x is 4x − 3 and y = 2 when x = 1, then y is",
+    "question": "If the rate of change of y with respect to x is 4x \\(-\\) 3 and y = 2 when x = 1, then y is",
     "options": [
-      "A. 2x² − 3x + 3",
-      "B. 2x² − 3x + 2",
-      "C. 4x² − 3x + 1",
-      "D. 2x² − 3x"
+      "A. \\(2x^{2} - 3x + 3\\)",
+      "B. \\(2x^{2} - 3x + 2\\)",
+      "C. \\(4x^{2} - 3x + 1\\)",
+      "D. \\(2x^{2} - 3x\\)"
     ],
     "answer": "A",
     "topic": "Calculus",
@@ -5838,7 +5838,7 @@
   },
   {
     "id": 450,
-    "question": "The area enclosed by the curve y = 9 − x² and the x-axis is",
+    "question": "The area enclosed by the curve y = 9 \\(- x^{2}\\) and the x-axis is",
     "options": [
       "A. 36",
       "B. 18",

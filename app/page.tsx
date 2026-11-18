@@ -678,6 +678,7 @@ export default function StudyOSApp() {
             <SSSExamPicker
               subjectKey={sssSubject}
               mode="solidq"
+              isPro={Boolean(stats?.isPro)}
               onSelect={(examType, paperType) => {
                 setSssExamType(examType)
                 setSssPaperType(paperType)
@@ -685,6 +686,10 @@ export default function StudyOSApp() {
               }}
               onBack={() => setScreen("solidq-subject")}
               onBackToDashboard={goHome}
+              onGoToPro={() => {
+                setScreen("app")
+                setActiveTab("pro")
+              }}
             />
           </div>
         )}

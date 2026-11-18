@@ -37,7 +37,7 @@ export type SSSSubjectKey =
 export type SSSExamType = "wassce" | "neco" | "utme"
 export type SSSPaperType = "objective" | "theory"
 
-// Subjects that currently have verified internal JSON question banks under Json/NECO/ and Json/WAEC/
+// Subjects that currently have verified internal JSON question banks under Json/NECO/, Json/WAEC/, and Json/JAMB/
 export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey[]> = {
   neco: [
     "accounting",
@@ -50,6 +50,7 @@ export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey
     "crk",
     "economics",
     "english",
+    "englishlit",
     "government",
     "healthedu",
     "mathematics",
@@ -82,7 +83,16 @@ export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey
     "physics",
     "yoruba",
   ],
-  utme: [],
+  utme: [
+    "accounting",
+    "biology",
+    "crk",
+    "english",
+    "englishlit",
+    "geography",
+    "irk",
+    "mathematics",
+  ],
 }
 
 export const AVAILABLE_SSS_THEORY_SUBJECTS: Record<Exclude<SSSExamType, "utme">, SSSSubjectKey[]> = {
@@ -182,10 +192,18 @@ export const SSS_EXAM_OPTIONS: {
     label: "JAMB (UTME)",
     badge: "UTME",
     description: "(Objective Only)",
-    enabled: false,
+    enabled: true,
     supportsTheory: false,
   },
 ]
+
+export function isSSSExamProOnly(
+  subjectKey: SSSSubjectKey,
+  examType: SSSExamType,
+  paperType: SSSPaperType = "objective"
+): boolean {
+  return subjectKey === "english" && examType === "utme" && paperType === "objective"
+}
 
 export function getAvailableObjectiveExamLabels(key: SSSSubjectKey): string[] {
   const labels: string[] = []

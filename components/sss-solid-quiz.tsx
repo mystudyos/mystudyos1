@@ -30,6 +30,7 @@ import necoEconomicsJson from "../Json/NECO/Economics.json"
 import necoEnglishJson from "../Json/NECO/English.json"
 import necoGovernmentJson from "../Json/NECO/Government.json"
 import necoHealthEduJson from "../Json/NECO/HealthEdu.json"
+import necoLiteratureJson from "../Json/NECO/Literature.json"
 import necoMathematicsJson from "../Json/NECO/Mathematics.json"
 import necoNutritionJson from "../Json/NECO/Nutrition.json"
 import necoPhysicsJson from "../Json/NECO/Physics.json"
@@ -57,6 +58,14 @@ import waecMarketingJson from "../Json/WAEC/MARKETING.json"
 import waecMathematicsJson from "../Json/WAEC/MATHEMATICS.json"
 import waecPhysicsJson from "../Json/WAEC/PHYSICS.json"
 import waecYorubaJson from "../Json/WAEC/YORUBA.json"
+import jambAccountingJson from "../Json/JAMB/Accounting.json"
+import jambBiologyJson from "../Json/JAMB/Biology.json"
+import jambCrsJson from "../Json/JAMB/Crs.json"
+import jambEnglishJson from "../Json/JAMB/English.json"
+import jambGeographyJson from "../Json/JAMB/Geography.json"
+import jambIrkJson from "../Json/JAMB/Islamic.json"
+import jambLiteratureJson from "../Json/JAMB/Literature.json"
+import jambMathematicsJson from "../Json/JAMB/Mathematics.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -120,6 +129,7 @@ const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
   crk: necoCrsJson as RawJsonQuestion[],
   economics: necoEconomicsJson as RawJsonQuestion[],
   english: necoEnglishJson as RawJsonQuestion[],
+  englishlit: necoLiteratureJson as RawJsonQuestion[],
   government: necoGovernmentJson as RawJsonQuestion[],
   healthedu: necoHealthEduJson as RawJsonQuestion[],
   mathematics: necoMathematicsJson as RawJsonQuestion[],
@@ -152,6 +162,17 @@ const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
   mathematics: waecMathematicsJson as RawJsonQuestion[],
   physics: waecPhysicsJson as RawJsonQuestion[],
   yoruba: waecYorubaJson as RawJsonQuestion[],
+}
+
+const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
+  accounting: jambAccountingJson as RawJsonQuestion[],
+  biology: jambBiologyJson as RawJsonQuestion[],
+  crk: jambCrsJson as RawJsonQuestion[],
+  english: jambEnglishJson as RawJsonQuestion[],
+  englishlit: jambLiteratureJson as RawJsonQuestion[],
+  geography: jambGeographyJson as RawJsonQuestion[],
+  irk: jambIrkJson as RawJsonQuestion[],
+  mathematics: jambMathematicsJson as RawJsonQuestion[],
 }
 
 interface SSSSolidQuizProps {
@@ -196,7 +217,7 @@ export function SSSSolidQuiz({
         ? NECO_JSON_POOLS[subjectKey]
         : examType === "wassce"
           ? WAEC_JSON_POOLS[subjectKey]
-          : undefined
+          : JAMB_JSON_POOLS[subjectKey]
     if (!rawPool || rawPool.length === 0) {
       return []
     }
