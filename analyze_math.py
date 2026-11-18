@@ -11,6 +11,8 @@ MATH_FILES = [
     Path("Json/NECO/Mathematics.json"),
     Path("Json/WAEC/MATHEMATICS.json"),
     Path("Json/JAMB/Mathematics.json"),
+    Path("Json/JAMB/Chemistry.json"),
+    Path("Json/JAMB/Physics.json"),
 ]
 
 SUP_DICT = {
@@ -36,6 +38,12 @@ SYMBOL_MAP = {
     "θ": r"\theta",
     "α": r"\alpha",
     "β": r"\beta",
+    "γ": r"\gamma",
+    "η": r"\eta",
+    "λ": r"\lambda",
+    "μ": r"\mu",
+    "ρ": r"\rho",
+    "Ω": r"\Omega",
     "≥": r"\ge",
     "≤": r"\le",
     "×": r"\times",
@@ -64,8 +72,18 @@ SYMBOL_MAP = {
 }
 
 PROTECTED_SLASH_RE = re.compile(
-    r"\b(?:km/h|km/hr|m/s²|m/s\^2|m/s|cm/s|cm³/s|cm\^3/s|N/m²|N/m\^2|kg/m³|kg/m\^3|mol/dm³|mol/dm\^3|g/cm³|g/cm\^3|and/or|true/false|yes/no|either/or|profit/loss)\b",
+    r"(?:(?:J|W)/\((?:kg|mol|m)·K\)|\b(?:km/h|km/hr|km/s|m/s²|m/s\^2|m/s|cm/s|cm³/s|cm\^3/s|N/m²|N/m\^2|N/m|N/cm|N/C|kg/m³|kg/m\^3|mol/dm³|mol/dm\^3|g/cm³|g/cm\^3|g/mol|J/kg|J/K|J·kg/K|W/m²|W/m\^2|rad/s|rad/m|and/or|true/false|yes/no|either/or|profit/loss)\b)",
     re.IGNORECASE,
+)
+
+# Known symbol commands that need a trailing space if fused directly with an ASCII letter
+CMD_LETTER_BOUNDARY_RE = re.compile(
+    r"\\(?:pi|theta|alpha|beta|gamma|eta|lambda|mu|rho|Omega|Delta)(?=[A-Za-z])"
+)
+# Compound unit slashes whose surrounding exponents/symbols should still format cleanly,
+# while preventing the slash itself from becoming \frac{...}{...}.
+UNIT_SLASH_RE = re.compile(
+    r"(?:(?<=\s)|(?<=^)|(?<=\())/°[CFK]\b|\b(?:m/°C|m/s\^2|m/s²|N/m\^2|N/m²|W/m\^2|W/m²|m\^2/kg\^2|kg/m³|g/cm³)",
 )
 
 MARKER_START = "\uE000"
@@ -106,13 +124,21 @@ def convert_inline_fragment(expr: str) -> str:
         s,
     )
 
-    # Powers: base^(exp) or base^token
+    # Powers: base^(exp) or base^token (keep negative integers / single letters bounded so ML^-1T^-2 splits cleanly)
     s = re.sub(
         r"\^\(([^()]+)\)",
         lambda m: f"^{{{convert_inline_fragment(m.group(1))}}}",
         s,
     )
-    s = re.sub(r"\^([A-Za-z0-9+-]+)", r"^{\1}", s)
+    s = re.sub(r"\^(-?[0-9]+|-?[A-Za-z])", r"^{\1}", s)
+
+    # Underscore subscripts (e.g. P_atm -> P_{\text{atm}}, 13_10 -> 13_{10})
+    s = re.sub(
+        r"\b([A-Za-z0-9]+)_([A-Za-z]{2,})\b",
+        r"\1_{\\text{\2}}",
+        s,
+    )
+    s = re.sub(r"\b([A-Za-z0-9]+)_([A-Za-z]|\d+)\b", r"\1_{\2}", s)
 
     # Format metric units cleanly inside math mode (e.g. 76cm² -> 76\,\text{cm}^{2})
     s = re.sub(
@@ -136,6 +162,8 @@ def convert_inline_fragment(expr: str) -> str:
             continue
         s = re.sub(re.escape(ch), lambda _m, t=tex: f" {t} " if t.startswith("\\") and not t.startswith("^{") else t, s)
 
+    # Ensure LaTeX symbol commands never fuse into following ASCII letters (e.g. \eta + rv -> \eta rv)
+    s = CMD_LETTER_BOUNDARY_RE.sub(r"\g<0> ", s)
     s = re.sub(r"\s{2,}", " ", s).strip()
     return s
 
@@ -211,7 +239,8 @@ def format_math_segment(segment: str) -> str:
         protected.append(m.group(0))
         return f"\uE002{idx}\uE003"
 
-    s = PROTECTED_SLASH_RE.sub(protect_match, segment)
+    s = UNIT_SLASH_RE.sub(lambda m: m.group(0).replace("/", "\uE004"), segment)
+    s = PROTECTED_SLASH_RE.sub(protect_match, s)
     s = s.replace("³√", "∛")
 
     # 1. 2x2 matrices like [[2,3],[1,4]]
@@ -264,7 +293,41 @@ def format_math_segment(segment: str) -> str:
         ),
     )
 
-    # 4. Exponents like 16^{3/4}, (1/4)^(−1/2), 3^(2x - 1), 4^(1/2), x^(1/2), 2^x
+    # 3b. Scientific notation like 6.02 x 10^23, 4.5 x 10^-3, 2.0 × 10^-5
+    s = replace_outside_markers(
+        s,
+        re.compile(r"(\d+(?:\.\d+)?)\s*[x×]\s*10\^(-?\d+)"),
+        lambda m: wrap_tok(rf"{m.group(1)} \times 10^{{{m.group(2)}}}"),
+    )
+
+    # 3c. ASCII underscore subscripts like P_atm, 13_10, log_b
+    if "_" in s:
+        s = replace_outside_markers(
+            s,
+            re.compile(r"\b([A-Za-z0-9]+)_([A-Za-z]{2,})\b"),
+            lambda m: wrap_tok(rf"{m.group(1)}_{{\text{{{m.group(2)}}}}}"),
+        )
+        s = replace_outside_markers(
+            s,
+            re.compile(r"\b([A-Za-z0-9]+)_([A-Za-z]|\d+)\b"),
+            lambda m: wrap_tok(rf"{m.group(1)}_{{{m.group(2)}}}"),
+        )
+
+    # 3d. Coefficient fractions directly before variables/formulas (1/2at^2, 1/2at, 1/2O2, 7/2O2)
+    # Run BEFORE exponents so `2` in `1/2at^2` is not consumed as part of `2at`.
+    if "/" in s:
+        s = replace_outside_markers(
+            s,
+            re.compile(r"\((1)/(\d+[A-Za-z])\)"),
+            lambda m: wrap_tok(rf"\frac{{{m.group(1)}}}{{{m.group(2)}}}"),
+        )
+        s = replace_outside_markers(
+            s,
+            re.compile(r"(?<![A-Za-z0-9.])(\d+)/(\d+)(?=[A-Za-z])"),
+            lambda m: wrap_tok(rf"\frac{{{m.group(1)}}}{{{m.group(2)}}}"),
+        )
+
+    # 4. Exponents like 16^{3/4}, (1/4)^(−1/2), 3^(2x - 1), ML^-1T^-2, 2^x
     if "^" in s:
         s = replace_outside_markers(
             s,
@@ -282,7 +345,7 @@ def format_math_segment(segment: str) -> str:
         )
         s = replace_outside_markers(
             s,
-            re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^([A-Za-z0-9+-]+)"),
+            re.compile(r"(\([^()]+\)|[A-Za-z0-9]+)\^(-?[0-9]+|-?[A-Za-z])"),
             lambda m: wrap_tok(f"{convert_inline_fragment(m.group(1))}^{{{m.group(2)}}}"),
         )
 
@@ -294,10 +357,24 @@ def format_math_segment(segment: str) -> str:
             lambda m: wrap_tok(rf"{m.group(1)}\frac{{{m.group(2)}}}{{{m.group(3)}}}"),
         )
 
+        # 5b. Fractions with exponent markers on either side like v^2/r or GM/R^2 (unit slashes already use \uE004)
+        exp_atom = rf"(?:{MARKER_START}[^{MARKER_END}]+{MARKER_END}|[A-Za-z0-9πθΔηργλμ]+)"
+        s = re.sub(
+            rf"(?<![A-Za-z0-9.])({exp_atom})\s*/\s*({exp_atom})(?![A-Za-z0-9/]|(?:\.\d))",
+            lambda m: wrap_tok(
+                rf"\frac{{{m.group(1)[1:-1] if m.group(1).startswith(MARKER_START) else convert_inline_fragment(m.group(1))}}}{{{m.group(2)[1:-1] if m.group(2).startswith(MARKER_START) else convert_inline_fragment(m.group(2))}}}"
+            )
+            if (MARKER_START in m.group(1) or MARKER_START in m.group(2))
+            and not any(x.startswith(MARKER_START) and (r"\times" in x or r"\frac" in x) for x in (m.group(1), m.group(2)))
+            else m.group(0),
+            s,
+        )
+
         # 6. Parenthesized fractions like (2y + 4) / 3, 1/(x + 1)², or K/(2m)
         sup_opt = rf"(?:[{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+)?"
         paren_atom = rf"\([^()]+\){sup_opt}"
-        atom = rf"[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+"
+        greek_expr = "πθαβΔηργλμ"
+        atom = rf"[A-Za-z0-9{greek_expr}{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]+"
         s = replace_outside_markers(
             s,
             re.compile(rf"({paren_atom})\s*/\s*({paren_atom}|{atom})"),
@@ -313,16 +390,19 @@ def format_math_segment(segment: str) -> str:
             ),
         )
 
-        # 7. Numeric / algebraic fractions like 22/7, 3/4, x/4, 1/x², 3V/4π, 2K/m
+        # 7. Numeric / algebraic fractions like 22/7, 3/4, x/4, 1/x², 3V/4π, 2K/m, T/μ, mc/Δθ
         # Allow sentence-ending period (not followed by a digit) after the denominator
-        frac_num = rf"(?:\d+(?:\.\d+)?|[A-Za-z0-9πθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]{{1,4}})"
+        frac_num = rf"(?:\d+(?:\.\d+)?|[A-Za-z0-9{greek_expr}{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]{{1,4}})"
         s = replace_outside_markers(
             s,
             re.compile(rf"(?<![A-Za-z0-9.])({frac_num})\s*/\s*({frac_num})(?![A-Za-z0-9/]|(?:\.\d))"),
             lambda m: wrap_tok(rf"\frac{{{convert_inline_fragment(m.group(1))}}}{{{convert_inline_fragment(m.group(2))}}}")
-            if (re.search(rf"[\dπθ{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]", m.group(1) + m.group(2)) or (len(m.group(1)) <= 2 and len(m.group(2)) <= 2))
+            if (re.search(rf"[\d{greek_expr}{re.escape(SUP_CHARS)}{re.escape(SUB_CHARS)}]", m.group(1) + m.group(2)) or (len(m.group(1)) <= 2 and len(m.group(2)) <= 2))
             else m.group(0),
         )
+
+    # Restore unit slashes so exponents/degrees format cleanly without \frac
+    s = s.replace("\uE004", "/")
 
     # 8. Set literals like {1, 2, 3, 4} or {a, b, c}
     if "{" in s:
@@ -335,7 +415,17 @@ def format_math_segment(segment: str) -> str:
     # 9. Tokens with Unicode superscripts/subscripts: 4x², 10⁻³, 11011₂, cm³, Aᵀ, etc. (strict O(n))
     s = wrap_sup_sub_tokens(s)
 
-    # 10. Standalone degree values like 30°, 540°
+    # 10. Temperature & degree values like 27°C, 27 °C, /°C, 30°, 540°
+    s = replace_outside_markers(
+        s,
+        re.compile(r"(\d+(?:\.\d+)?)\s*°([CFK])\b"),
+        lambda m: wrap_tok(rf"{m.group(1)}^{{\circ}}\text{{{m.group(2)}}}"),
+    )
+    s = replace_outside_markers(
+        s,
+        re.compile(r"/°([CFK])\b"),
+        lambda m: wrap_tok(rf"/^{{\circ}}\text{{{m.group(1)}}}"),
+    )
     s = replace_outside_markers(
         s,
         re.compile(r"(\d+(?:\.\d+)?|[A-Za-z])°"),
@@ -349,6 +439,9 @@ def format_math_segment(segment: str) -> str:
         sym_pattern,
         lambda m: wrap_tok(SYMBOL_MAP[m.group(0)]),
     )
+
+    # Collapse directly adjacent markers (e.g. <<ML^{-1}>><<T^{-2}>> or <<\Delta>><<\theta>>)
+    s = s.replace(MARKER_END + MARKER_START, "")
 
     # 12. Merge adjacent <<LATEX>> blocks separated by numbers/vars/operators/whitespace (not English words)
     # Disjoint single-level alternatives (no nested quantifiers, strictly linear O(n))
@@ -372,15 +465,31 @@ def format_math_segment(segment: str) -> str:
     ALLOWED_MATH_WORDS = {"sin", "cos", "tan", "cot", "sec", "csc", "log", "ln", "mod", "dx", "dy", "dt"}
 
     def clean_math_chunk(raw_chunk: str) -> bool:
+        if "->" in raw_chunk:
+            return False
         words = re.findall(r"[A-Za-z]+", raw_chunk)
         return all((len(w) <= 2 and w.lower() not in {"is", "in", "of", "to", "on", "at", "by", "if", "or", "an", "as", "it", "be", "we", "he", "no", "so"}) or w.lower() in ALLOWED_MATH_WORDS for w in words)
 
-    def extract_math_tail(segment_tail: str) -> str:
+    def extract_math_tail(segment_tail: str, inner_open_parens: int = 0) -> str:
         # Linear O(n) scan over flat character class (no nested quantifiers / ReDoS risk)
         m = re.match(r"^[ \t\r\n+\-*=<>',^()a-zA-Z0-9]*", segment_tail)
         if not m:
             return ""
         cand = m.group(0)
+        # Stop before any chemical reaction arrow
+        arrow_idx = cand.find("->")
+        if arrow_idx != -1:
+            cand = cand[:arrow_idx]
+        # Stop before any unmatched closing parenthesis when marker has no open '('
+        bal = inner_open_parens
+        for ci, ch in enumerate(cand):
+            if ch == "(":
+                bal += 1
+            elif ch == ")":
+                if bal <= 0:
+                    cand = cand[:ci]
+                    break
+                bal -= 1
         # Stop before any 3+ letter English word (except math functions/differentials)
         for wm in re.finditer(r"[A-Za-z]{3,}", cand):
             if wm.group(0).lower() not in ALLOWED_MATH_WORDS:
@@ -395,7 +504,7 @@ def format_math_segment(segment: str) -> str:
             inner = parts[idx][1:-1]
             # Pull immediate trailing math tail like ` = 0` or ` + C` or ` dx` or `'` from parts[idx+1]
             if idx + 1 < len(parts) and not parts[idx + 1].startswith(MARKER_START):
-                tail = extract_math_tail(parts[idx + 1])
+                tail = extract_math_tail(parts[idx + 1], inner.count("(") - inner.count(")"))
                 if tail and clean_math_chunk(tail) and any(ch in tail for ch in "=+-<>'0123456789") and not re.match(r"^\s*\d+\s*$", tail):
                     inner = f"{inner}{tail}"
                     parts[idx + 1] = parts[idx + 1][len(tail):]
@@ -403,7 +512,7 @@ def format_math_segment(segment: str) -> str:
             if idx - 1 >= 0 and not parts[idx - 1].startswith(MARKER_START):
                 prev = parts[idx - 1]
                 # Match after colon, comma, space+word, or start
-                lead_m = re.search(r"(?:^|(?<=:\s)|(?<=,\s)|(?<=\.\s)|(?<=\(\s))([A-Za-z0-9()+\-*=<>.\s]{1,28})$", prev)
+                lead_m = re.search(r"(?:^|(?<=:\s)|(?<=,\s)|(?<=\.\s)|(?<=\(\s))([A-Za-z0-9()+\-*=<>.\s/]{1,28})$", prev)
                 if lead_m:
                     cand = lead_m.group(1)
                     if cand.strip() and clean_math_chunk(cand) and (
@@ -427,6 +536,8 @@ def format_math_segment(segment: str) -> str:
     # Convert markers to \( ... \), clean spacing
     def finalize_marker(m: re.Match[str]) -> str:
         tex = m.group(1).strip()
+        tex = CMD_LETTER_BOUNDARY_RE.sub(r"\g<0> ", tex)
+        tex = re.sub(r"(?<!\\)\b(sin|cos|tan|cot|sec|csc|log|ln)\b", r"\\\1", tex)
         tex = re.sub(r"\s{2,}", " ", tex)
         return rf"\({tex}\)"
 
@@ -447,11 +558,13 @@ def format_math_text(text: str) -> str:
     if opt_m:
         prefix, body = opt_m.group(1), opt_m.group(2)
 
-    # Preserve any existing \( ... \) blocks untouched
-    chunks = re.split(r"(\\\(.*?\\\))", body, flags=re.DOTALL)
+    # Preserve any existing \( ... \) or $ ... $ blocks untouched
+    chunks = re.split(r"(\\\(.*?\\\)|\$[^$]+\$)", body, flags=re.DOTALL)
     out = []
     for chunk in chunks:
-        if chunk.startswith(r"\(") and chunk.endswith(r"\)"):
+        if (chunk.startswith(r"\(") and chunk.endswith(r"\)")) or (
+            chunk.startswith("$") and chunk.endswith("$") and len(chunk) >= 2
+        ):
             out.append(chunk)
         else:
             out.append(format_math_segment(chunk))

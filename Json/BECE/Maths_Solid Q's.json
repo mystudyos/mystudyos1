@@ -3043,7 +3043,7 @@
   },
   {
     "id": 240,
-    "question": "Find the base x if the number equation holds true: 21_x = 13_10.",
+    "question": "Find the base x if the number equation holds true: \\(21_{x} = 13_{10}\\).",
     "options": [
       "A. Base 5",
       "B. Base 6",
@@ -3212,7 +3212,7 @@
   },
   {
     "id": 264,
-    "question": "Find the positive base value denoted by n: 104_n = 68_10.",
+    "question": "Find the positive base value denoted by n: \\(104_{n} = 68_{10}\\).",
     "options": [
       "A. Base 6",
       "B. Base 7",
@@ -3433,12 +3433,12 @@
   },
   {
     "id": 295,
-    "question": "Multiply the following base 5 digits: 42_5 \\(\\times\\) 3_5.",
+    "question": "Multiply the following base 5 digits: \\(42_{5}\\) \\(\\times\\) \\(3_{5}\\).",
     "options": [
-      "A. 131_5",
-      "B. 221_5",
-      "C. 231_5",
-      "D. 1211_5"
+      "A. \\(131_{5}\\)",
+      "B. \\(221_{5}\\)",
+      "C. \\(231_{5}\\)",
+      "D. \\(1211_{5}\\)"
     ],
     "answer": "C",
     "topic": "Basic Operations",
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 299,
-    "question": "Find the positive integer value for base k: 312_k = 56_10.",
+    "question": "Find the positive integer value for base k: \\(312_{k} = 56_{10}\\).",
     "options": [
       "A. Base 4",
       "B. Base 5",

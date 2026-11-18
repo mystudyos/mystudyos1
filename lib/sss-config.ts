@@ -86,12 +86,14 @@ export const AVAILABLE_SSS_OBJECTIVE_SUBJECTS: Record<SSSExamType, SSSSubjectKey
   utme: [
     "accounting",
     "biology",
+    "chemistry",
     "crk",
     "english",
     "englishlit",
     "geography",
     "irk",
     "mathematics",
+    "physics",
   ],
 }
 

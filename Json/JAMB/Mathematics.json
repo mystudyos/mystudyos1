@@ -755,7 +755,7 @@
   },
   {
     "id": 59,
-    "question": "If logₐ b = 2 and log_b c = 3, then logₐ c is",
+    "question": "If logₐ b = 2 and \\(log_{b} c = 3,\\) then logₐ c is",
     "options": [
       "A. 5",
       "B. 6",
@@ -5892,10 +5892,10 @@
     "id": 454,
     "question": "In a pie chart, a sector representing 45 students out of a total of 180 students has an angle of:",
     "options": [
-      "A. 60°",
-      "B. 90°",
-      "C. 120°",
-      "D. 45°"
+      "A. \\(60^{\\circ}\\)",
+      "B. \\(90^{\\circ}\\)",
+      "C. \\(120^{\\circ}\\)",
+      "D. \\(45^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Representation of Data (Pie Chart)",
@@ -5996,10 +5996,10 @@
     "id": 462,
     "question": "In a pie chart, a budget item of $72,000 out of a total budget of $432,000 corresponds to an angle of:",
     "options": [
-      "A. 40°",
-      "B. 50°",
-      "C. 60°",
-      "D. 75°"
+      "A. \\(40^{\\circ}\\)",
+      "B. \\(50^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(75^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Representation of Data (Pie Chart)",
@@ -6306,12 +6306,12 @@
   },
   {
     "id": 486,
-    "question": "If the angles of a pie chart are 90°, 120°, 100°, and x°, find the value of x.",
+    "question": "If the angles of a pie chart are \\(90^{\\circ} , 120^{\\circ} , 100^{\\circ}\\), and \\(x^{\\circ}\\), find the value of x.",
     "options": [
-      "A. 30°",
-      "B. 40°",
-      "C. 50°",
-      "D. 60°"
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(40^{\\circ}\\)",
+      "C. \\(50^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Representation of Data (Pie Chart)",
@@ -6376,7 +6376,7 @@
       "A. Mean < Median < Mode",
       "B. Mean > Median > Mode",
       "C. Mean = Median = Mode",
-      "D. Median = (Mean + Mode) / 3"
+      "D. Median = \\(\\frac{Mean + Mode}{3}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Measures of Location Characteristics",
@@ -6451,10 +6451,10 @@
     "id": 497,
     "question": "What is the lower quartile ($Q_1$) position for a dataset with n observations?",
     "options": [
-      "A. n / 4",
-      "B. (n + 1) / 4",
-      "C. 3n / 4",
-      "D. n / 2"
+      "A. \\(\\frac{n}{4}\\)",
+      "B. \\(\\frac{n + 1}{4}\\)",
+      "C. \\(\\frac{3n}{4}\\)",
+      "D. \\(\\frac{n}{2}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Measures of Location (Quartiles)",
@@ -7205,10 +7205,10 @@
     "id": 555,
     "question": "A fair die is tossed once. What is the probability of obtaining a prime number?",
     "options": [
-      "A. 1/6",
-      "B. 1/3",
-      "C. 1/2",
-      "D. 2/3"
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{2}{3}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7218,10 +7218,10 @@
     "id": 556,
     "question": "Two fair coins are tossed simultaneously. What is the probability of getting at least one tail?",
     "options": [
-      "A. 1/4",
-      "B. 1/2",
-      "C. 3/4",
-      "D. 1/3"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{4}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7244,10 +7244,10 @@
     "id": 558,
     "question": "A bag contains 5 red balls, 3 blue balls, and 2 green balls. If one ball is drawn at random, what is the probability that it is either red or green?",
     "options": [
-      "A. 3/10",
-      "B. 1/2",
-      "C. 7/10",
-      "D. 4/5"
+      "A. \\(\\frac{3}{10}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{7}{10}\\)",
+      "D. \\(\\frac{4}{5}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Addition Law / Mutually Exclusive)",
@@ -7268,12 +7268,12 @@
   },
   {
     "id": 560,
-    "question": "The probabilities that two students, Ada and Bola, will pass an examination are 3/4 and 2/3 respectively. Assuming their performances are independent, find the probability that both will pass.",
+    "question": "The probabilities that two students, Ada and Bola, will pass an examination are \\(\\frac{3}{4}\\) and \\(\\frac{2}{3}\\) respectively. Assuming their performances are independent, find the probability that both will pass.",
     "options": [
-      "A. 1/12",
-      "B. 5/12",
-      "C. 1/2",
-      "D. 11/12"
+      "A. \\(\\frac{1}{12}\\)",
+      "B. \\(\\frac{5}{12}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{11}{12}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Multiplication Law / Independent Events)",
@@ -7296,10 +7296,10 @@
     "id": 562,
     "question": "A card is drawn at random from a standard pack of 52 playing cards. What is the probability that it is a king or a heart?",
     "options": [
-      "A. 17/52",
-      "B. 4/13",
-      "C. 1/13",
-      "D. 15/52"
+      "A. \\(\\frac{17}{52}\\)",
+      "B. \\(\\frac{4}{13}\\)",
+      "C. \\(\\frac{1}{13}\\)",
+      "D. \\(\\frac{15}{52}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Addition Law / Non-Mutually Exclusive)",
@@ -7335,10 +7335,10 @@
     "id": 565,
     "question": "Two fair dice are rolled simultaneously. What is the probability of obtaining a total sum of 9?",
     "options": [
-      "A. 1/12",
-      "B. 1/9",
-      "C. 5/36",
-      "D. 1/6"
+      "A. \\(\\frac{1}{12}\\)",
+      "B. \\(\\frac{1}{9}\\)",
+      "C. \\(\\frac{5}{36}\\)",
+      "D. \\(\\frac{1}{6}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7348,10 +7348,10 @@
     "id": 566,
     "question": "A box contains 4 black and 6 white marbles. Two marbles are drawn one after the other without replacement. What is the probability that both marbles are black?",
     "options": [
-      "A. 2/15",
-      "B. 4/25",
-      "C. 1/5",
-      "D. 2/5"
+      "A. \\(\\frac{2}{15}\\)",
+      "B. \\(\\frac{4}{25}\\)",
+      "C. \\(\\frac{1}{5}\\)",
+      "D. \\(\\frac{2}{5}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Multiplication Law / Dependent Events)",
@@ -7400,10 +7400,10 @@
     "id": 570,
     "question": "A number is chosen at random from the integers 1 to 20 inclusive. What is the probability that the number is a multiple of 3 or 5?",
     "options": [
-      "A. 9/20",
-      "B. 1/2",
-      "C. 11/20",
-      "D. 3/5"
+      "A. \\(\\frac{9}{20}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{11}{20}\\)",
+      "D. \\(\\frac{3}{5}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Addition Law / Non-Mutually Exclusive)",
@@ -7426,10 +7426,10 @@
     "id": 572,
     "question": "Three fair coins are tossed together. What is the probability of obtaining exactly two heads?",
     "options": [
-      "A. 1/8",
-      "B. 1/4",
-      "C. 3/8",
-      "D. 1/2"
+      "A. \\(\\frac{1}{8}\\)",
+      "B. \\(\\frac{1}{4}\\)",
+      "C. \\(\\frac{3}{8}\\)",
+      "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7504,10 +7504,10 @@
     "id": 578,
     "question": "A letter is chosen at random from the word 'PROBABILITY'. What is the probability that the chosen letter is a vowel?",
     "options": [
-      "A. 3/11",
-      "B. 4/11",
-      "C. 5/11",
-      "D. 7/11"
+      "A. \\(\\frac{3}{11}\\)",
+      "B. \\(\\frac{4}{11}\\)",
+      "C. \\(\\frac{5}{11}\\)",
+      "D. \\(\\frac{7}{11}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7530,10 +7530,10 @@
     "id": 580,
     "question": "A basket contains 3 red and 7 blue pens. If two pens are picked with replacement, what is the probability that one is red and the other is blue?",
     "options": [
-      "A. 21/100",
-      "B. 21/50",
-      "C. 7/15",
-      "D. 9/100"
+      "A. \\(\\frac{21}{100}\\)",
+      "B. \\(\\frac{21}{50}\\)",
+      "C. \\(\\frac{7}{15}\\)",
+      "D. \\(\\frac{9}{100}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Multiplication Law / Independent Events)",
@@ -7554,12 +7554,12 @@
   },
   {
     "id": 582,
-    "question": "The probability that a hunter hits a target is 2/5, and the probability that another hunter hits the same target is 3/4. If both fire independently, what is the probability that the target is hit?",
+    "question": "The probability that a hunter hits a target is \\(\\frac{2}{5}\\), and the probability that another hunter hits the same target is \\(\\frac{3}{4}\\). If both fire independently, what is the probability that the target is hit?",
     "options": [
-      "A. 3/20",
-      "B. 3/10",
-      "C. 17/20",
-      "D. 23/20"
+      "A. \\(\\frac{3}{20}\\)",
+      "B. \\(\\frac{3}{10}\\)",
+      "C. \\(\\frac{17}{20}\\)",
+      "D. \\(\\frac{23}{20}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Addition & Multiplication Combined)",
@@ -7582,10 +7582,10 @@
     "id": 584,
     "question": "A fair die is thrown twice. Find the probability that the sum of the numbers shown is greater than 10.",
     "options": [
-      "A. 1/18",
-      "B. 1/12",
-      "C. 1/9",
-      "D. 1/6"
+      "A. \\(\\frac{1}{18}\\)",
+      "B. \\(\\frac{1}{12}\\)",
+      "C. \\(\\frac{1}{9}\\)",
+      "D. \\(\\frac{1}{6}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7608,10 +7608,10 @@
     "id": 586,
     "question": "In a class of 40 students, 25 study Physics, 20 study Chemistry, and 10 study both subjects. If a student is selected at random, what is the probability that the student studies neither Physics nor Chemistry?",
     "options": [
-      "A. 1/8",
-      "B. 1/4",
-      "C. 3/8",
-      "D. 7/8"
+      "A. \\(\\frac{1}{8}\\)",
+      "B. \\(\\frac{1}{4}\\)",
+      "C. \\(\\frac{3}{8}\\)",
+      "D. \\(\\frac{7}{8}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Addition Law / Set Application)",
@@ -7634,10 +7634,10 @@
     "id": 588,
     "question": "A bag contains 6 red and 4 green balls. Three balls are drawn at random without replacement. Find the probability that all three balls are green.",
     "options": [
-      "A. 1/30",
-      "B. 1/15",
-      "C. 2/25",
-      "D. 4/125"
+      "A. \\(\\frac{1}{30}\\)",
+      "B. \\(\\frac{1}{15}\\)",
+      "C. \\(\\frac{2}{25}\\)",
+      "D. \\(\\frac{4}{125}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Multiplication Law / Dependent Events)",
@@ -7686,10 +7686,10 @@
     "id": 592,
     "question": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability that it is a black queen?",
     "options": [
-      "A. 1/52",
-      "B. 1/26",
-      "C. 1/13",
-      "D. 2/13"
+      "A. \\(\\frac{1}{52}\\)",
+      "B. \\(\\frac{1}{26}\\)",
+      "C. \\(\\frac{1}{13}\\)",
+      "D. \\(\\frac{2}{13}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Experimental/Simple Probability)",
@@ -7712,10 +7712,10 @@
     "id": 594,
     "question": "A spinner has 5 equal sectors numbered 1 to 5. If spun twice, what is the probability of getting an odd number on both spins?",
     "options": [
-      "A. 4/25",
-      "B. 6/25",
-      "C. 9/25",
-      "D. 3/5"
+      "A. \\(\\frac{4}{25}\\)",
+      "B. \\(\\frac{6}{25}\\)",
+      "C. \\(\\frac{9}{25}\\)",
+      "D. \\(\\frac{3}{5}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Multiplication Law / Independent Events)",
@@ -7764,10 +7764,10 @@
     "id": 598,
     "question": "Two balls are drawn randomly without replacement from a jar containing 5 yellow and 5 blue balls. Find the probability that the two balls are of different colors.",
     "options": [
-      "A. 4/9",
-      "B. 1/2",
-      "C. 5/9",
-      "D. 5/18"
+      "A. \\(\\frac{4}{9}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{5}{9}\\)",
+      "D. \\(\\frac{5}{18}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Multiplication & Addition Combined)",
@@ -7790,10 +7790,10 @@
     "id": 600,
     "question": "A fair coin is tossed and a fair die is rolled simultaneously. What is the probability of getting a head on the coin and a number greater than 4 on the die?",
     "options": [
-      "A. 1/12",
-      "B. 1/6",
-      "C. 1/4",
-      "D. 1/3"
+      "A. \\(\\frac{1}{12}\\)",
+      "B. \\(\\frac{1}{6}\\)",
+      "C. \\(\\frac{1}{4}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Multiplication Law / Independent Events)",
@@ -7907,10 +7907,10 @@
     "id": 609,
     "question": "Simplify $\\frac{3\\frac{1}{4} - 1\\frac{2}{3}}{2\\frac{1}{6} + \\frac{1}{2}}$ to its lowest terms.",
     "options": [
-      "A. 19/32",
-      "B. 17/32",
-      "C. 15/32",
-      "D. 13/32"
+      "A. \\(\\frac{19}{32}\\)",
+      "B. \\(\\frac{17}{32}\\)",
+      "C. \\(\\frac{15}{32}\\)",
+      "D. \\(\\frac{13}{32}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration - Fractions, Approximations and Percentages (Fractions)",
@@ -8011,10 +8011,10 @@
     "id": 617,
     "question": "Simplify $\\frac{27^{2/3} \\times 16^{-3/4}}{81^{-1/4}}$.",
     "options": [
-      "A. 27/8",
-      "B. 9/8",
-      "C. 3/8",
-      "D. 27/2"
+      "A. \\(\\frac{27}{8}\\)",
+      "B. \\(\\frac{9}{8}\\)",
+      "C. \\(\\frac{3}{8}\\)",
+      "D. \\(\\frac{27}{2}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration - Indices, Logarithms and Surds (Laws of Indices)",
@@ -8037,10 +8037,10 @@
     "id": 619,
     "question": "Evaluate $\\log_8 32 + \\log_4 8 - \\log_2 4$.",
     "options": [
-      "A. 7/6",
-      "B. 11/6",
-      "C. 13/6",
-      "D. 17/6"
+      "A. \\(\\frac{7}{6}\\)",
+      "B. \\(\\frac{11}{6}\\)",
+      "C. \\(\\frac{13}{6}\\)",
+      "D. \\(\\frac{17}{6}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration - Indices, Logarithms and Surds (Change of Base)",
@@ -8258,10 +8258,10 @@
     "id": 636,
     "question": "Express the recurring decimal $0.\\dot{3}\\dot{6}$ as a fraction in its simplest form.",
     "options": [
-      "A. 9/25",
-      "B. 4/11",
-      "C. 12/33",
-      "D. 3/8"
+      "A. \\(\\frac{9}{25}\\)",
+      "B. \\(\\frac{4}{11}\\)",
+      "C. \\(\\frac{12}{33}\\)",
+      "D. \\(\\frac{3}{8}\\)"
     ],
     "answer": "B",
     "topic": "Number and Numeration - Fractions, Approximations and Percentages (Fractions and Decimals)",
@@ -8284,10 +8284,10 @@
     "id": 638,
     "question": "Evaluate $\\left(\\frac{0.064}{0.125}\\right)^{-2/3}$.",
     "options": [
-      "A. 16/25",
-      "B. 4/5",
-      "C. 5/4",
-      "D. 25/16"
+      "A. \\(\\frac{16}{25}\\)",
+      "B. \\(\\frac{4}{5}\\)",
+      "C. \\(\\frac{5}{4}\\)",
+      "D. \\(\\frac{25}{16}\\)"
     ],
     "answer": "D",
     "topic": "Number and Numeration - Indices, Logarithms and Surds (Laws of Indices)",
@@ -8505,10 +8505,10 @@
     "id": 655,
     "question": "If $\\alpha$ and $\\beta$ are the roots of the quadratic equation $3x^2 - 7x + 2 = 0$, evaluate $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$.",
     "options": [
-      "A. 2/7",
-      "B. 3/2",
-      "C. 7/2",
-      "D. 7/3"
+      "A. \\(\\frac{2}{7}\\)",
+      "B. \\(\\frac{3}{2}\\)",
+      "C. \\(\\frac{7}{2}\\)",
+      "D. \\(\\frac{7}{3}\\)"
     ],
     "answer": "C",
     "topic": "Algebra - Polynomials (Roots of Polynomials)",
@@ -8921,10 +8921,10 @@
     "id": 687,
     "question": "In a Geometric Progression, the first term is $5$ and the sum to infinity is $20$. What is the common ratio?",
     "options": [
-      "A. 1/4",
-      "B. 1/2",
-      "C. 3/4",
-      "D. 4/5"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{4}\\)",
+      "D. \\(\\frac{4}{5}\\)"
     ],
     "answer": "C",
     "topic": "Algebra - Progression (Sum to Infinity of G.P.)",
@@ -9103,10 +9103,10 @@
     "id": 701,
     "question": "Calculate the sum of the interior angles of a regular polygon having 12 sides.",
     "options": [
-      "A. 1,440°",
-      "B. 1,620°",
-      "C. 1,800°",
-      "D. 2,160°"
+      "A. 1,\\(440^{\\circ}\\)",
+      "B. 1,\\(620^{\\circ}\\)",
+      "C. 1,\\(800^{\\circ}\\)",
+      "D. 2,\\(160^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Euclidean Geometry (Polygons)",
@@ -9114,7 +9114,7 @@
   },
   {
     "id": 702,
-    "question": "Each interior angle of a regular polygon is 156°. How many sides does the polygon have?",
+    "question": "Each interior angle of a regular polygon is \\(156^{\\circ}\\). How many sides does the polygon have?",
     "options": [
       "A. 12",
       "B. 14",
@@ -9127,12 +9127,12 @@
   },
   {
     "id": 703,
-    "question": "In a cyclic quadrilateral PQRS, angle P = (2x + 10)° and its opposite angle R = (3x - 30)°. Find the value of x.",
+    "question": "In a cyclic quadrilateral PQRS, angle P = (2x + 10)\\(^{\\circ}\\) and its opposite angle R = (3x - 30)\\(^{\\circ}\\). Find the value of x.",
     "options": [
-      "A. 36°",
-      "B. 40°",
-      "C. 44°",
-      "D. 50°"
+      "A. \\(36^{\\circ}\\)",
+      "B. \\(40^{\\circ}\\)",
+      "C. \\(44^{\\circ}\\)",
+      "D. \\(50^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Euclidean Geometry (Cyclic Quadrilaterals)",
@@ -9166,12 +9166,12 @@
   },
   {
     "id": 706,
-    "question": "Which combination of special angles can be constructed using only a pair of compasses and a straightedge by bisecting a 90° angle and a 60° angle?",
+    "question": "Which combination of special angles can be constructed using only a pair of compasses and a straightedge by bisecting a \\(90^{\\circ}\\) angle and a \\(60^{\\circ}\\) angle?",
     "options": [
-      "A. 40°",
-      "B. 75°",
-      "C. 80°",
-      "D. 100°"
+      "A. \\(40^{\\circ}\\)",
+      "B. \\(75^{\\circ}\\)",
+      "C. \\(80^{\\circ}\\)",
+      "D. \\(100^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Euclidean Geometry (Construction)",
@@ -9192,12 +9192,12 @@
   },
   {
     "id": 708,
-    "question": "Find the area of a sector of a circle of radius 14 cm that subtends an angle of 45° at the center. (Take $\\pi = 22/7$)",
+    "question": "Find the area of a sector of a circle of radius 14 cm that subtends an angle of \\(45^{\\circ}\\) at the center. (Take $\\pi = 22/7$)",
     "options": [
-      "A. 38.5 cm²",
-      "B. 77.0 cm²",
-      "C. 154.0 cm²",
-      "D. 308.0 cm²"
+      "A. \\(38.5 \\text{cm}^{2}\\)",
+      "B. \\(77.0 \\text{cm}^{2}\\)",
+      "C. \\(154.0 \\text{cm}^{2}\\)",
+      "D. \\(308.0 \\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Mensuration (Sectors of Circles)",
@@ -9205,7 +9205,7 @@
   },
   {
     "id": 709,
-    "question": "Calculate the perimeter of a sector of a circle of radius 21 cm if the angle of the sector is 120°. (Take $\\pi = 22/7$)",
+    "question": "Calculate the perimeter of a sector of a circle of radius 21 cm if the angle of the sector is \\(120^{\\circ}\\). (Take $\\pi = 22/7$)",
     "options": [
       "A. 44 cm",
       "B. 65 cm",
@@ -9220,10 +9220,10 @@
     "id": 710,
     "question": "A right circular cone has a base radius of 7 cm and a vertical height of 24 cm. Find its total surface area. (Take $\\pi = 22/7$)",
     "options": [
-      "A. 550 cm²",
-      "B. 682 cm²",
-      "C. 704 cm²",
-      "D. 748 cm²"
+      "A. \\(550 \\text{cm}^{2}\\)",
+      "B. \\(682 \\text{cm}^{2}\\)",
+      "C. \\(704 \\text{cm}^{2}\\)",
+      "D. \\(748 \\text{cm}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Mensuration (Surface Area of Solids)",
@@ -9246,10 +9246,10 @@
     "id": 712,
     "question": "A right pyramid has a square base of side 10 cm and a perpendicular height of 12 cm. Calculate its volume.",
     "options": [
-      "A. 360 cm³",
-      "B. 400 cm³",
-      "C. 600 cm³",
-      "D. 1,200 cm³"
+      "A. \\(360 \\text{cm}^{3}\\)",
+      "B. \\(400 \\text{cm}^{3}\\)",
+      "C. \\(600 \\text{cm}^{3}\\)",
+      "D. 1,200 \\(\\text{cm}^{3}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Mensuration (Volumes of Solids)",
@@ -9257,7 +9257,7 @@
   },
   {
     "id": 713,
-    "question": "Two towns P(40°N, 15°E) and Q(40°N, 45°W) lie on the same parallel of latitude. Taking the radius of the Earth $R = 6400\\text{ km}$ and $\\pi = 22/7$, calculate the distance PQ along the parallel of latitude correct to the nearest kilometer.",
+    "question": "Two towns P(\\(40^{\\circ} N, 15^{\\circ}\\)E) and Q(\\(40^{\\circ} N, 45^{\\circ}\\)W) lie on the same parallel of latitude. Taking the radius of the Earth $R = 6400\\text{ km}$ and $\\pi = 22/7$, calculate the distance PQ along the parallel of latitude correct to the nearest kilometer.",
     "options": [
       "A. 5,136 km",
       "B. 6,705 km",
@@ -9270,7 +9270,7 @@
   },
   {
     "id": 714,
-    "question": "Find the shortest distance along the meridian between town A(25°N, 30°E) and town B(20°S, 30°E). (Take $R = 6400\\text{ km}$ and $\\pi = 22/7$)",
+    "question": "Find the shortest distance along the meridian between town A(\\(25^{\\circ} N, 30^{\\circ}\\)E) and town B(\\(20^{\\circ} S, 30^{\\circ}\\)E). (Take $R = 6400\\text{ km}$ and $\\pi = 22/7$)",
     "options": [
       "A. 559 km",
       "B. 2,794 km",
@@ -9350,10 +9350,10 @@
     "id": 720,
     "question": "Find the acute angle between the straight lines $y = x + 3$ and $y = \\sqrt{3}x - 1$.",
     "options": [
-      "A. 15°",
-      "B. 30°",
-      "C. 45°",
-      "D. 60°"
+      "A. \\(15^{\\circ}\\)",
+      "B. \\(30^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(60^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Coordinate Geometry (Gradient and Angles)",
@@ -9376,10 +9376,10 @@
     "id": 722,
     "question": "Given that $\\tan \\theta = \\frac{5}{12}$ and $180^\\circ < \\theta < 270^\\circ$, find the value of $\\sin \\theta - \\cos \\theta$.",
     "options": [
-      "A. -7/13",
-      "B. 7/13",
-      "C. -17/13",
-      "D. 17/13"
+      "A. \\(-\\frac{7}{13}\\)",
+      "B. \\(\\frac{7}{13}\\)",
+      "C. \\(-\\frac{17}{13}\\)",
+      "D. \\(\\frac{17}{13}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Trigonometry (Quadrants and Ratios)",
@@ -9400,7 +9400,7 @@
   },
   {
     "id": 724,
-    "question": "From the top of a vertical cliff 60 m high, the angle of depression of a boat at sea is 30°. How far is the boat from the foot of the cliff?",
+    "question": "From the top of a vertical cliff 60 m high, the angle of depression of a boat at sea is \\(30^{\\circ}\\). How far is the boat from the foot of the cliff?",
     "options": [
       "A. $20\\sqrt{3}\\text{ m}$",
       "B. $30\\sqrt{3}\\text{ m}$",
@@ -9413,7 +9413,7 @@
   },
   {
     "id": 725,
-    "question": "A ship sails 10 km on a bearing of 060° and then 10 km on a bearing of 150°. Calculate the direct distance of the ship from its starting point.",
+    "question": "A ship sails 10 km on a bearing of \\(060^{\\circ}\\) and then 10 km on a bearing of \\(150^{\\circ}\\). Calculate the direct distance of the ship from its starting point.",
     "options": [
       "A. 10 km",
       "B. $10\\sqrt{2}\\text{ km}$",
@@ -9426,12 +9426,12 @@
   },
   {
     "id": 726,
-    "question": "If the bearing of town Y from town X is 235°, what is the bearing of town X from town Y?",
+    "question": "If the bearing of town Y from town X is \\(235^{\\circ}\\), what is the bearing of town X from town Y?",
     "options": [
-      "A. 035°",
-      "B. 055°",
-      "C. 125°",
-      "D. 145°"
+      "A. \\(035^{\\circ}\\)",
+      "B. \\(055^{\\circ}\\)",
+      "C. \\(125^{\\circ}\\)",
+      "D. \\(145^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Trigonometry (Bearings)",
@@ -9454,10 +9454,10 @@
     "id": 728,
     "question": "In triangle PQR, $p = 7\\text{ cm}$, $q = 5\\text{ cm}$, and $r = 8\\text{ cm}$. Use the cosine rule to find the value of $\\cos R$.",
     "options": [
-      "A. 1/7",
-      "B. 2/7",
-      "C. 1/2",
-      "D. 5/7"
+      "A. \\(\\frac{1}{7}\\)",
+      "B. \\(\\frac{2}{7}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{5}{7}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Trigonometry (Cosine Formula)",
@@ -9480,10 +9480,10 @@
     "id": 730,
     "question": "What is the amplitude and period of the trigonometric function $y = 4\\sin(3x)$?",
     "options": [
-      "A. Amplitude 4, Period 120°",
-      "B. Amplitude 3, Period 120°",
-      "C. Amplitude 4, Period 360°",
-      "D. Amplitude 4, Period 1080°"
+      "A. Amplitude 4, Period \\(120^{\\circ}\\)",
+      "B. Amplitude 3, Period \\(120^{\\circ}\\)",
+      "C. Amplitude 4, Period \\(360^{\\circ}\\)",
+      "D. Amplitude 4, Period \\(1080^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Trigonometry (Graphs of Sine and Cosine)",
@@ -9493,10 +9493,10 @@
     "id": 731,
     "question": "Find all values of $\\theta$ in the range $0^\\circ \\le \\theta \\le 360^\\circ$ for which $2\\cos\\theta + 1 = 0$.",
     "options": [
-      "A. 60°, 300°",
-      "B. 120°, 240°",
-      "C. 150°, 210°",
-      "D. 120°, 300°"
+      "A. \\(60^{\\circ} , 300^{\\circ}\\)",
+      "B. \\(120^{\\circ} , 240^{\\circ}\\)",
+      "C. \\(150^{\\circ} , 210^{\\circ}\\)",
+      "D. \\(120^{\\circ} , 300^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Trigonometry (Trigonometric Equations)",
@@ -9504,12 +9504,12 @@
   },
   {
     "id": 732,
-    "question": "Calculate the area of a minor segment of a circle of radius 10 cm cut off by a chord that subtends an angle of 90° at the center. (Take $\\pi = 3.14$)",
+    "question": "Calculate the area of a minor segment of a circle of radius 10 cm cut off by a chord that subtends an angle of \\(90^{\\circ}\\) at the center. (Take $\\pi = 3.14$)",
     "options": [
-      "A. 28.5 cm²",
-      "B. 50.0 cm²",
-      "C. 78.5 cm²",
-      "D. 128.5 cm²"
+      "A. \\(28.5 \\text{cm}^{2}\\)",
+      "B. \\(50.0 \\text{cm}^{2}\\)",
+      "C. \\(78.5 \\text{cm}^{2}\\)",
+      "D. \\(128.5 \\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Mensuration (Segments of Circles)",
@@ -9519,10 +9519,10 @@
     "id": 733,
     "question": "A cylindrical tank closed at both ends has a base radius of 3.5 m and a height of 10 m. Calculate its total surface area. (Take $\\pi = 22/7$)",
     "options": [
-      "A. 220 m²",
-      "B. 258.5 m²",
-      "C. 297 m²",
-      "D. 385 m²"
+      "A. \\(220 \\text{m}^{2}\\)",
+      "B. \\(258.5 \\text{m}^{2}\\)",
+      "C. \\(297 \\text{m}^{2}\\)",
+      "D. \\(385 \\text{m}^{2}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Mensuration (Surface Area of Solids)",
@@ -9532,10 +9532,10 @@
     "id": 734,
     "question": "A triangular prism has a right-angled triangular cross-section with legs 6 cm and 8 cm. If the length of the prism is 15 cm, find its volume.",
     "options": [
-      "A. 360 cm³",
-      "B. 480 cm³",
-      "C. 600 cm³",
-      "D. 720 cm³"
+      "A. \\(360 \\text{cm}^{3}\\)",
+      "B. \\(480 \\text{cm}^{3}\\)",
+      "C. \\(600 \\text{cm}^{3}\\)",
+      "D. \\(720 \\text{cm}^{3}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Mensuration (Volumes of Solids)",
@@ -9545,10 +9545,10 @@
     "id": 735,
     "question": "In circle geometry, the angle subtended by an arc at the center of a circle is $136^\\circ$. What is the angle subtended by the same arc at any point on the remaining part of the circumference?",
     "options": [
-      "A. 44°",
-      "B. 68°",
-      "C. 112°",
-      "D. 272°"
+      "A. \\(44^{\\circ}\\)",
+      "B. \\(68^{\\circ}\\)",
+      "C. \\(112^{\\circ}\\)",
+      "D. \\(272^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Euclidean Geometry (Circle Theorems)",
@@ -9558,10 +9558,10 @@
     "id": 736,
     "question": "Two parallel lines are cut by a transversal, forming consecutive interior angles of $(3x + 15)^\\circ$ and $(2x + 25)^\\circ$. Find the value of $x$.",
     "options": [
-      "A. 10°",
-      "B. 20°",
-      "C. 28°",
-      "D. 40°"
+      "A. \\(10^{\\circ}\\)",
+      "B. \\(20^{\\circ}\\)",
+      "C. \\(28^{\\circ}\\)",
+      "D. \\(40^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Euclidean Geometry (Properties of Angles and Lines)",
@@ -9675,10 +9675,10 @@
     "id": 745,
     "question": "Find the area of a trapezium whose parallel sides are 11 cm and 17 cm, and the perpendicular distance between them is 8 cm.",
     "options": [
-      "A. 56 cm²",
-      "B. 112 cm²",
-      "C. 136 cm²",
-      "D. 224 cm²"
+      "A. \\(56 \\text{cm}^{2}\\)",
+      "B. \\(112 \\text{cm}^{2}\\)",
+      "C. \\(136 \\text{cm}^{2}\\)",
+      "D. \\(224 \\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Mensuration (Plane Figures)",
@@ -9714,10 +9714,10 @@
     "id": 748,
     "question": "If $\\sin x = \\cos(x + 20^\\circ)$ for an acute angle $x$, determine the value of $x$.",
     "options": [
-      "A. 20°",
-      "B. 35°",
-      "C. 45°",
-      "D. 70°"
+      "A. \\(20^{\\circ}\\)",
+      "B. \\(35^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(70^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Trigonometry (Complementary Angles)",
@@ -9727,10 +9727,10 @@
     "id": 749,
     "question": "At what value of $x$ in the interval $0^\\circ \\le x \\le 360^\\circ$ does the function $y = 2 - 3\\cos x$ attain its maximum value?",
     "options": [
-      "A. 0°",
-      "B. 90°",
-      "C. 180°",
-      "D. 270°"
+      "A. \\(0^{\\circ}\\)",
+      "B. \\(90^{\\circ}\\)",
+      "C. \\(180^{\\circ}\\)",
+      "D. \\(270^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Trigonometry (Graphs of Sine and Cosine)",
@@ -9740,10 +9740,10 @@
     "id": 750,
     "question": "A solid hemisphere has a radius of 7 cm. Calculate its total surface area. (Take $\\pi = 22/7$)",
     "options": [
-      "A. 308 cm²",
-      "B. 462 cm²",
-      "C. 616 cm²",
-      "D. 718.7 cm²"
+      "A. \\(308 \\text{cm}^{2}\\)",
+      "B. \\(462 \\text{cm}^{2}\\)",
+      "C. \\(616 \\text{cm}^{2}\\)",
+      "D. \\(718.7 \\text{cm}^{2}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Mensuration (Surface Area of Solids)",
@@ -9780,8 +9780,8 @@
     "question": "Evaluate $\\lim_{x \\to 0} \\frac{\\sin 5x}{2x}$.",
     "options": [
       "A. 0",
-      "B. 2/5",
-      "C. 5/2",
+      "B. \\(\\frac{2}{5}\\)",
+      "C. \\(\\frac{5}{2}\\)",
       "D. 5"
     ],
     "answer": "C",
@@ -9884,8 +9884,8 @@
     "question": "Find the gradient of the normal to the curve $y = x^3 - 2x^2 + 4$ at the point where $x = 2$.",
     "options": [
       "A. -4",
-      "B. -1/4",
-      "C. 1/4",
+      "B. \\(-\\frac{1}{4}\\)",
+      "C. \\(\\frac{1}{4}\\)",
       "D. 4"
     ],
     "answer": "B",
@@ -10117,9 +10117,9 @@
     "id": 779,
     "question": "Find the finite area enclosed between the curve $y = 4x - x^2$ and the x-axis.",
     "options": [
-      "A. 16/3 sq. units",
-      "B. 32/3 sq. units",
-      "C. 64/3 sq. units",
+      "A. \\(\\frac{16}{3}\\) sq. units",
+      "B. \\(\\frac{32}{3}\\) sq. units",
+      "C. \\(\\frac{64}{3}\\) sq. units",
       "D. 16 sq. units"
     ],
     "answer": "B",
@@ -10130,9 +10130,9 @@
     "id": 780,
     "question": "Determine the area of the region enclosed between the parabola $y = x^2$ and the straight line $y = 2x$.",
     "options": [
-      "A. 2/3 sq. units",
-      "B. 4/3 sq. units",
-      "C. 8/3 sq. units",
+      "A. \\(\\frac{2}{3}\\) sq. units",
+      "B. \\(\\frac{4}{3}\\) sq. units",
+      "C. \\(\\frac{8}{3}\\) sq. units",
       "D. 4 sq. units"
     ],
     "answer": "B",
@@ -10144,8 +10144,8 @@
     "question": "Evaluate $\\lim_{x \\to 4} \\frac{\\sqrt{x} - 2}{x - 4}$.",
     "options": [
       "A. 0",
-      "B. 1/4",
-      "C. 1/2",
+      "B. \\(\\frac{1}{4}\\)",
+      "C. \\(\\frac{1}{2}\\)",
       "D. 4"
     ],
     "answer": "B",
@@ -10156,10 +10156,10 @@
     "id": 782,
     "question": "If $y = \\sqrt{5x + 4}$, find $\\frac{dy}{dx}$ when $x = 1$.",
     "options": [
-      "A. 1/6",
-      "B. 5/6",
-      "C. 5/3",
-      "D. 3/2"
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(\\frac{5}{6}\\)",
+      "C. \\(\\frac{5}{3}\\)",
+      "D. \\(\\frac{3}{2}\\)"
     ],
     "answer": "B",
     "topic": "Calculus - Differentiation (Chain Rule)",
@@ -10234,9 +10234,9 @@
     "id": 788,
     "question": "Calculate the total area bounded by the curve $y = x^2 - 4$, the x-axis, and the lines $x = 0$ and $x = 2$.",
     "options": [
-      "A. 8/3 sq. units",
-      "B. 16/3 sq. units",
-      "C. 20/3 sq. units",
+      "A. \\(\\frac{8}{3}\\) sq. units",
+      "B. \\(\\frac{16}{3}\\) sq. units",
+      "C. \\(\\frac{20}{3}\\) sq. units",
       "D. 8 sq. units"
     ],
     "answer": "B",
@@ -10326,8 +10326,8 @@
     "question": "Evaluate $\\int_{0}^{\\pi/3} \\sin(3x) \\, dx$.",
     "options": [
       "A. 0",
-      "B. 1/3",
-      "C. 2/3",
+      "B. \\(\\frac{1}{3}\\)",
+      "C. \\(\\frac{2}{3}\\)",
       "D. 2"
     ],
     "answer": "C",
@@ -10494,10 +10494,10 @@
     "id": 808,
     "question": "A bag contains 4 white, 3 red, and 5 blue marbles. Two marbles are drawn at random without replacement. What is the probability that both marbles are of the same color?",
     "options": [
-      "A. 19/66",
-      "B. 7/22",
-      "C. 5/33",
-      "D. 13/33"
+      "A. \\(\\frac{19}{66}\\)",
+      "B. \\(\\frac{7}{22}\\)",
+      "C. \\(\\frac{5}{33}\\)",
+      "D. \\(\\frac{13}{33}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Dependent Events / Combined Laws)",
@@ -10531,7 +10531,7 @@
   },
   {
     "id": 811,
-    "question": "In a pie chart representing a total budget of $360,000, an expenditure sector has an angle of 72°. How much is spent on this item?",
+    "question": "In a pie chart representing a total budget of $360,000, an expenditure sector has an angle of \\(72^{\\circ}\\). How much is spent on this item?",
     "options": [
       "A. $36,000",
       "B. $72,000",
@@ -10598,10 +10598,10 @@
     "id": 816,
     "question": "Three unbiased coins are tossed. Find the probability of obtaining at least two heads.",
     "options": [
-      "A. 1/4",
-      "B. 3/8",
-      "C. 1/2",
-      "D. 5/8"
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{3}{8}\\)",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\frac{5}{8}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability (Simple Probability)",
@@ -10624,10 +10624,10 @@
     "id": 818,
     "question": "A card is drawn from a standard deck of 52 playing cards. What is the probability that it is neither a club nor a face card?",
     "options": [
-      "A. 6/13",
-      "B. 7/13",
-      "C. 25/52",
-      "D. 27/52"
+      "A. \\(\\frac{6}{13}\\)",
+      "B. \\(\\frac{7}{13}\\)",
+      "C. \\(\\frac{25}{52}\\)",
+      "D. \\(\\frac{27}{52}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Complementary and Addition Laws)",
@@ -10676,10 +10676,10 @@
     "id": 822,
     "question": "A box contains 5 red pens and 3 blue pens. Two pens are drawn at random with replacement. What is the probability that both are of different colors?",
     "options": [
-      "A. 15/32",
-      "B. 15/64",
-      "C. 15/28",
-      "D. 5/16"
+      "A. \\(\\frac{15}{32}\\)",
+      "B. \\(\\frac{15}{64}\\)",
+      "C. \\(\\frac{15}{28}\\)",
+      "D. \\(\\frac{5}{16}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Independent Events / Multiplication & Addition)",
@@ -10793,10 +10793,10 @@
     "id": 831,
     "question": "Two dice are rolled. What is the probability that the product of the numbers appearing on top is 12?",
     "options": [
-      "A. 1/9",
-      "B. 1/12",
-      "C. 1/18",
-      "D. 1/36"
+      "A. \\(\\frac{1}{9}\\)",
+      "B. \\(\\frac{1}{12}\\)",
+      "C. \\(\\frac{1}{18}\\)",
+      "D. \\(\\frac{1}{36}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Simple Probability)",
@@ -10858,10 +10858,10 @@
     "id": 836,
     "question": "A bag contains 3 white and 5 black balls. Two balls are drawn successively without replacement. Find the probability that the second ball is black given that the first was white.",
     "options": [
-      "A. 5/8",
-      "B. 5/7",
-      "C. 3/7",
-      "D. 1/2"
+      "A. \\(\\frac{5}{8}\\)",
+      "B. \\(\\frac{5}{7}\\)",
+      "C. \\(\\frac{3}{7}\\)",
+      "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Conditional Probability)",
@@ -10910,10 +10910,10 @@
     "id": 840,
     "question": "A box of 20 bulbs contains 4 defective ones. If 3 bulbs are chosen at random without replacement, what is the probability that exactly one is defective?",
     "options": [
-      "A. 14/57",
-      "B. 28/57",
-      "C. 16/57",
-      "D. 32/57"
+      "A. \\(\\frac{14}{57}\\)",
+      "B. \\(\\frac{28}{57}\\)",
+      "C. \\(\\frac{16}{57}\\)",
+      "D. \\(\\frac{32}{57}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Combinations in Probability)",
@@ -10962,10 +10962,10 @@
     "id": 844,
     "question": "A letter is selected at random from the word 'STATISTICS'. What is the probability that the letter is 'S'?",
     "options": [
-      "A. 1/10",
-      "B. 3/10",
-      "C. 2/5",
-      "D. 3/5"
+      "A. \\(\\frac{1}{10}\\)",
+      "B. \\(\\frac{3}{10}\\)",
+      "C. \\(\\frac{2}{5}\\)",
+      "D. \\(\\frac{3}{5}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability (Simple Probability)",
@@ -11027,10 +11027,10 @@
     "id": 849,
     "question": "A bag contains 5 green, 4 yellow, and 3 white discs. Three discs are drawn at random. What is the probability that they are all of different colors?",
     "options": [
-      "A. 3/11",
-      "B. 4/11",
-      "C. 3/22",
-      "D. 9/44"
+      "A. \\(\\frac{3}{11}\\)",
+      "B. \\(\\frac{4}{11}\\)",
+      "C. \\(\\frac{3}{22}\\)",
+      "D. \\(\\frac{9}{44}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability (Combinations in Probability)",
@@ -11183,10 +11183,10 @@
     "id": 861,
     "question": "A binary operation $*$ is defined on real numbers by $a * b = a + b + 2ab$. Find the inverse of $2$ under $*$.",
     "options": [
-      "A. -2/5",
-      "B. -1/2",
-      "C. 2/5",
-      "D. -2/3"
+      "A. \\(-\\frac{2}{5}\\)",
+      "B. \\(-\\frac{1}{2}\\)",
+      "C. \\(\\frac{2}{5}\\)",
+      "D. \\(-\\frac{2}{3}\\)"
     ],
     "answer": "A",
     "topic": "Algebra - Binary Operations",
@@ -11196,10 +11196,10 @@
     "id": 862,
     "question": "An exterior angle of a regular polygon is $24^\\circ$. Calculate the sum of all interior angles of the polygon.",
     "options": [
-      "A. 1,980°",
-      "B. 2,160°",
-      "C. 2,340°",
-      "D. 2,700°"
+      "A. 1,\\(980^{\\circ}\\)",
+      "B. 2,\\(160^{\\circ}\\)",
+      "C. 2,\\(340^{\\circ}\\)",
+      "D. 2,\\(700^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Euclidean Geometry",
@@ -11223,8 +11223,8 @@
     "question": "Find the gradient of the line perpendicular to the straight line joining the points $A(2, 5)$ and $B(-1, 11)$.",
     "options": [
       "A. -2",
-      "B. -1/2",
-      "C. 1/2",
+      "B. \\(-\\frac{1}{2}\\)",
+      "C. \\(\\frac{1}{2}\\)",
       "D. 2"
     ],
     "answer": "C",
@@ -11235,10 +11235,10 @@
     "id": 865,
     "question": "Given that $\\sin \\theta = \\frac{8}{17}$ and $\\theta$ is an acute angle, calculate the value of $\\cos \\theta + \\tan \\theta$.",
     "options": [
-      "A. 23/17",
-      "B. 361/255",
-      "C. 289/255",
-      "D. 15/17"
+      "A. \\(\\frac{23}{17}\\)",
+      "B. \\(\\frac{361}{255}\\)",
+      "C. \\(\\frac{289}{255}\\)",
+      "D. \\(\\frac{15}{17}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Trigonometry",
@@ -11339,10 +11339,10 @@
     "id": 873,
     "question": "A fair die is tossed once. What is the probability of getting an even number or a number greater than 4?",
     "options": [
-      "A. 1/3",
-      "B. 1/2",
-      "C. 2/3",
-      "D. 5/6"
+      "A. \\(\\frac{1}{3}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{5}{6}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability",
@@ -11534,9 +11534,9 @@
     "id": 888,
     "question": "Two fair coins are tossed once. What is the probability of obtaining two heads?",
     "options": [
-      "A. 1/4",
-      "B. 1/2",
-      "C. 3/4",
+      "A. \\(\\frac{1}{4}\\)",
+      "B. \\(\\frac{1}{2}\\)",
+      "C. \\(\\frac{3}{4}\\)",
       "D. 1"
     ],
     "answer": "A",
@@ -11690,10 +11690,10 @@
     "id": 900,
     "question": "A card is drawn at random from a standard pack of 52 cards. What is the probability that it is an Ace?",
     "options": [
-      "A. 1/52",
-      "B. 1/26",
-      "C. 1/13",
-      "D. 4/13"
+      "A. \\(\\frac{1}{52}\\)",
+      "B. \\(\\frac{1}{26}\\)",
+      "C. \\(\\frac{1}{13}\\)",
+      "D. \\(\\frac{4}{13}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability",
@@ -11898,10 +11898,10 @@
     "id": 916,
     "question": "In triangle ABC, $a = 5\\text{ cm}$, $b = 7\\text{ cm}$, and $c = 8\\text{ cm}$. Calculate the measure of angle B.",
     "options": [
-      "A. 30°",
-      "B. 45°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(45^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "C",
     "topic": "Geometry and Trigonometry - Trigonometry",
@@ -12002,10 +12002,10 @@
     "id": 924,
     "question": "A bag contains 4 red, 5 blue, and 6 green balls. Two balls are drawn at random without replacement. Find the probability that one is red and the other is blue.",
     "options": [
-      "A. 2/21",
-      "B. 4/21",
-      "C. 2/15",
-      "D. 4/45"
+      "A. \\(\\frac{2}{21}\\)",
+      "B. \\(\\frac{4}{21}\\)",
+      "C. \\(\\frac{2}{15}\\)",
+      "D. \\(\\frac{4}{45}\\)"
     ],
     "answer": "B",
     "topic": "Statistics - Probability",
@@ -12015,10 +12015,10 @@
     "id": 925,
     "question": "Simplify $\\left(\\frac{16}{81}\\right)^{-3/4} \\times \\left(\\frac{9}{4}\\right)^{-1/2}$.",
     "options": [
-      "A. 9/4",
-      "B. 3/2",
-      "C. 2/3",
-      "D. 4/9"
+      "A. \\(\\frac{9}{4}\\)",
+      "B. \\(\\frac{3}{2}\\)",
+      "C. \\(\\frac{2}{3}\\)",
+      "D. \\(\\frac{4}{9}\\)"
     ],
     "answer": "A",
     "topic": "Number and Numeration - Indices, Logarithms and Surds",
@@ -12106,10 +12106,10 @@
     "id": 932,
     "question": "The interior angles of a pentagon are $x^\\circ, (x + 10)^\\circ, (x + 20)^\\circ, (x + 30)^\\circ,$ and $(x + 40)^\\circ$. Find the value of $x$.",
     "options": [
-      "A. 52°",
-      "B. 88°",
-      "C. 108°",
-      "D. 128°"
+      "A. \\(52^{\\circ}\\)",
+      "B. \\(88^{\\circ}\\)",
+      "C. \\(108^{\\circ}\\)",
+      "D. \\(128^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Euclidean Geometry",
@@ -12159,8 +12159,8 @@
     "question": "Evaluate $\\lim_{x \\to 0} \\frac{3x^2 + 5x}{2x}$.",
     "options": [
       "A. 0",
-      "B. 3/2",
-      "C. 5/2",
+      "B. \\(\\frac{3}{2}\\)",
+      "C. \\(\\frac{5}{2}\\)",
       "D. 5"
     ],
     "answer": "C",
@@ -12301,10 +12301,10 @@
     "id": 947,
     "question": "A cyclic quadrilateral ABCD has $\\angle A = 78^\\circ$ and $\\angle B = 105^\\circ$. Find the value of $\\angle C + \\angle D$.",
     "options": [
-      "A. 177°",
-      "B. 180°",
-      "C. 183°",
-      "D. 255°"
+      "A. \\(177^{\\circ}\\)",
+      "B. \\(180^{\\circ}\\)",
+      "C. \\(183^{\\circ}\\)",
+      "D. \\(255^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Euclidean Geometry",
@@ -12314,10 +12314,10 @@
     "id": 948,
     "question": "Determine the gradient of the line $4x + 5y - 20 = 0$.",
     "options": [
-      "A. -4/5",
-      "B. 4/5",
-      "C. -5/4",
-      "D. 5/4"
+      "A. \\(-\\frac{4}{5}\\)",
+      "B. \\(\\frac{4}{5}\\)",
+      "C. \\(-\\frac{5}{4}\\)",
+      "D. \\(\\frac{5}{4}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Coordinate Geometry",
@@ -12470,8 +12470,8 @@
     "id": 960,
     "question": "A binary operation $*$ is defined on real numbers by $a * b = \\frac{ab}{3}$. Find the inverse of $6$ under $*$.",
     "options": [
-      "A. 1/2",
-      "B. 3/2",
+      "A. \\(\\frac{1}{2}\\)",
+      "B. \\(\\frac{3}{2}\\)",
       "C. 2",
       "D. 3"
     ],
@@ -12535,10 +12535,10 @@
     "id": 965,
     "question": "If $\\cos \\theta = \\frac{12}{13}$ and $270^\\circ < \\theta < 360^\\circ$, find the exact value of $\\tan \\theta$.",
     "options": [
-      "A. -5/12",
-      "B. 5/12",
-      "C. -12/5",
-      "D. 12/5"
+      "A. \\(-\\frac{5}{12}\\)",
+      "B. \\(\\frac{5}{12}\\)",
+      "C. \\(-\\frac{12}{5}\\)",
+      "D. \\(\\frac{12}{5}\\)"
     ],
     "answer": "A",
     "topic": "Geometry and Trigonometry - Trigonometry",
@@ -12561,9 +12561,9 @@
     "id": 967,
     "question": "Evaluate $\\lim_{x \\to 1} \\frac{x^3 - 1}{x^2 - 1}$.",
     "options": [
-      "A. 1/2",
+      "A. \\(\\frac{1}{2}\\)",
       "B. 1",
-      "C. 3/2",
+      "C. \\(\\frac{3}{2}\\)",
       "D. 3"
     ],
     "answer": "C",
@@ -12601,7 +12601,7 @@
     "question": "Evaluate $\\int_{0}^{\\pi/4} \\sec^2 x \\, dx$.",
     "options": [
       "A. 0",
-      "B. 1/2",
+      "B. \\(\\frac{1}{2}\\)",
       "C. 1",
       "D. $\\sqrt{2}$"
     ],
@@ -12639,10 +12639,10 @@
     "id": 973,
     "question": "Two fair dice are tossed simultaneously. What is the probability of obtaining a double (the same number on both dice)?",
     "options": [
-      "A. 1/36",
-      "B. 1/12",
-      "C. 1/6",
-      "D. 1/3"
+      "A. \\(\\frac{1}{36}\\)",
+      "B. \\(\\frac{1}{12}\\)",
+      "C. \\(\\frac{1}{6}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "C",
     "topic": "Statistics - Probability",
@@ -12704,10 +12704,10 @@
     "id": 978,
     "question": "Find the sum to infinity of the series $1 - \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{27} + \\dots$.",
     "options": [
-      "A. 2/3",
-      "B. 3/4",
-      "C. 3/2",
-      "D. 4/3"
+      "A. \\(\\frac{2}{3}\\)",
+      "B. \\(\\frac{3}{4}\\)",
+      "C. \\(\\frac{3}{2}\\)",
+      "D. \\(\\frac{4}{3}\\)"
     ],
     "answer": "B",
     "topic": "Algebra - Progression",
@@ -12782,10 +12782,10 @@
     "id": 984,
     "question": "Find the acute angle between the line $y = x - 4$ and the positive x-axis.",
     "options": [
-      "A. 30°",
-      "B. 45°",
-      "C. 60°",
-      "D. 90°"
+      "A. \\(30^{\\circ}\\)",
+      "B. \\(45^{\\circ}\\)",
+      "C. \\(60^{\\circ}\\)",
+      "D. \\(90^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Geometry and Trigonometry - Coordinate Geometry",
@@ -12873,10 +12873,10 @@
     "id": 991,
     "question": "A bag contains 7 white and 3 black balls. One ball is drawn at random. What is the probability that it is black?",
     "options": [
-      "A. 3/10",
-      "B. 3/7",
-      "C. 7/10",
-      "D. 1/3"
+      "A. \\(\\frac{3}{10}\\)",
+      "B. \\(\\frac{3}{7}\\)",
+      "C. \\(\\frac{7}{10}\\)",
+      "D. \\(\\frac{1}{3}\\)"
     ],
     "answer": "A",
     "topic": "Statistics - Probability",
@@ -12951,7 +12951,7 @@
     "id": 997,
     "question": "Find the gradient of the line segment joining $(1, 3)$ and $(4, 9)$.",
     "options": [
-      "A. 1/2",
+      "A. \\(\\frac{1}{2}\\)",
       "B. 2",
       "C. 3",
       "D. 6"
@@ -12990,9 +12990,9 @@
     "id": 1000,
     "question": "If the probability of winning a game is $\\frac{3}{7}$, what is the probability of losing the game?",
     "options": [
-      "A. 3/7",
-      "B. 4/7",
-      "C. 3/4",
+      "A. \\(\\frac{3}{7}\\)",
+      "B. \\(\\frac{4}{7}\\)",
+      "C. \\(\\frac{3}{4}\\)",
       "D. 1"
     ],
     "answer": "B",

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following processes is most suitable for obtaining pure water from sea water?",
+    "options": [
+      "A. Simple distillation process",
+      "B. Fractional distillation",
+      "C. Evaporation to dryness",
+      "D. Filtration technique"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "A mixture of sand and ammonium chloride can be separated by the process of:",
+    "options": [
+      "A. Filtration and evaporation",
+      "B. Sublimation and filtration",
+      "C. Distillation and filtration",
+      "D. Decantation and sublimation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following substances is a compound rather than a mixture?",
+    "options": [
+      "A. Brass metal alloy",
+      "B. Atmospheric air",
+      "C. Distilled water",
+      "D. Crude petroleum"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "The boiling point of a liquid is a useful criterion for determining its:",
+    "options": [
+      "A. Chemical reactivity",
+      "B. Degree of purity",
+      "C. Molecular mass",
+      "D. Density value"
+    ],
+    "answer": "B",
+    "topic": "Boiling and Melting Points",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following changes is purely physical in nature?",
+    "options": [
+      "A. Rusting of iron nails",
+      "B. Burning of wood logs",
+      "C. Melting of candle wax",
+      "D. Souring of fresh milk"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The separation of a mixture of ethanol and water is best achieved using:",
+    "options": [
+      "A. Simple distillation apparatus",
+      "B. Fractional distillation column",
+      "C. Separating funnel method",
+      "D. Paper chromatography technique"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following techniques is used to separate a mixture of pigments in ink?",
+    "options": [
+      "A. Column chromatography",
+      "B. Simple filtration",
+      "C. Fractional distillation",
+      "D. Crystallization"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "question": "A pure substance will always have a:",
+    "options": [
+      "A. Sharp and constant melting point",
+      "B. Variable boiling point range",
+      "C. Variable melting point range",
+      "D. Constant density at all temperatures"
+    ],
+    "answer": "A",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "question": "The process of separating an insoluble solid from a liquid is known as:",
+    "options": [
+      "A. Decantation method",
+      "B. Distillation process",
+      "C. Filtration technique",
+      "D. Sublimation process"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an impure substance?",
+    "options": [
+      "A. Pure oxygen gas",
+      "B. Distilled water",
+      "C. Common table salt",
+      "D. Sea water"
+    ],
+    "answer": "D",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "The separation of a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following separation methods relies on the difference in particle sizes?",
+    "options": [
+      "A. Evaporation process",
+      "B. Filtration technique",
+      "C. Distillation method",
+      "D. Crystallization process"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 13,
+    "question": "The formation of a new substance is always characteristic of a:",
+    "options": [
+      "A. Physical change process",
+      "B. Chemical change reaction",
+      "C. Reversible state change",
+      "D. Dissolution process"
+    ],
+    "answer": "B",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following mixtures can be separated using a separating funnel?",
+    "options": [
+      "A. Ethanol and water",
+      "B. Salt and water",
+      "C. Oil and water",
+      "D. Sand and water"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Sublimation is a separation technique that involves the direct transition from:",
+    "options": [
+      "A. Liquid to solid state",
+      "B. Solid to liquid state",
+      "C. Gas to solid state",
+      "D. Solid to gas state"
+    ],
+    "answer": "D",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "An element can be defined as a substance which:",
+    "options": [
+      "A. Cannot be split into simpler substances",
+      "B. Contains two or more combined elements",
+      "C. Can be separated by physical methods",
+      "D. Has a variable composition by mass"
+    ],
+    "answer": "A",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The process of obtaining crystals of copper(II) sulfate from its saturated solution is called:",
+    "options": [
+      "A. Decantation process",
+      "B. Crystallization process",
+      "C. Sublimation method",
+      "D. Filtration technique"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements about a mixture is always true?",
+    "options": [
+      "A. It has a definite melting point",
+      "B. It can be separated by physical means",
+      "C. It has a constant chemical composition",
+      "D. Its components are chemically bonded"
+    ],
+    "answer": "B",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "Paper chromatography is primarily used for the separation of:",
+    "options": [
+      "A. Gases with different densities",
+      "B. Soluble colored substances",
+      "C. Immiscible liquid mixtures",
+      "D. Volatile solid compounds"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is an example of a heterogeneous mixture?",
+    "options": [
+      "A. Aqueous sodium chloride",
+      "B. A mixture of sand and water",
+      "C. A mixture of ethanol and water",
+      "D. A mixture of oxygen and nitrogen"
+    ],
+    "answer": "B",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "The method of separating a mixture of kerosene and water is by:",
+    "options": [
+      "A. Simple distillation",
+      "B. Fractional distillation",
+      "C. Using a separating funnel",
+      "D. Evaporation to dryness"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "question": "A solid is said to be pure if it melts at a:",
+    "options": [
+      "A. Sharp and constant temperature",
+      "B. Range of varying temperatures",
+      "C. High temperature only",
+      "D. Low temperature only"
+    ],
+    "answer": "A",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following processes involves a chemical change?",
+    "options": [
+      "A. Evaporation of water",
+      "B. Condensation of steam",
+      "C. Combustion of magnesium",
+      "D. Dissolution of sugar"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "question": "The technique used to separate a mixture of soluble salts from an insoluble impurity is:",
+    "options": [
+      "A. Sublimation followed by filtration",
+      "B. Filtration followed by evaporation",
+      "C. Distillation followed by decantation",
+      "D. Crystallization followed by sublimation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a noble gas found in the atmosphere?",
+    "options": [
+      "A. Nitrogen gas",
+      "B. Argon gas",
+      "C. Oxygen gas",
+      "D. Carbon dioxide"
+    ],
+    "answer": "B",
+    "topic": "Air",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "question": "The process of pouring off a liquid from a sediment without disturbing the sediment is called:",
+    "options": [
+      "A. Filtration method",
+      "B. Decantation process",
+      "C. Distillation technique",
+      "D. Sublimation procedure"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "question": "A compound differs from a mixture because a compound:",
+    "options": [
+      "A. Has a variable composition by mass",
+      "B. Can be separated by physical methods",
+      "C. Has a definite chemical composition",
+      "D. Is always in the liquid state"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following methods is suitable for separating a mixture of two miscible liquids with different boiling points?",
+    "options": [
+      "A. Simple distillation method",
+      "B. Fractional distillation method",
+      "C. Separating funnel technique",
+      "D. Paper chromatography method"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 29,
+    "question": "The property of a substance to sublime is best demonstrated by:",
+    "options": [
+      "A. Sodium chloride crystals",
+      "B. Ammonium chloride powder",
+      "C. Copper(II) sulfate crystals",
+      "D. Calcium carbonate powder"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following physical properties is used to distinguish between a pure liquid and an impure liquid?",
+    "options": [
+      "A. Its colour and transparency",
+      "B. Its volume and density",
+      "C. Its boiling point range",
+      "D. Its electrical conductivity"
+    ],
+    "answer": "C",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The separation of a mixture of common salt and water can be achieved by:",
+    "options": [
+      "A. Filtration and condensation",
+      "B. Evaporation and crystallization",
+      "C. Sublimation and decantation",
+      "D. Distillation and magnetization"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is an example of a homogeneous mixture?",
+    "options": [
+      "A. A mixture of oil and water",
+      "B. A mixture of sand and water",
+      "C. A solution of salt in water",
+      "D. A mixture of iron and sulfur"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "question": "The separation of a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following changes is reversible?",
+    "options": [
+      "A. Burning of a piece of paper",
+      "B. Rusting of an iron nail",
+      "C. Melting of an ice block",
+      "D. Digestion of food"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "The method used to separate a mixture of ammonium chloride and sodium chloride is:",
+    "options": [
+      "A. Filtration and evaporation",
+      "B. Sublimation and filtration",
+      "C. Distillation and filtration",
+      "D. Decantation and sublimation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a pure substance?",
+    "options": [
+      "A. Air",
+      "B. Sea water",
+      "C. Distilled water",
+      "D. Brass"
+    ],
+    "answer": "C",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "question": "The most suitable method for separating a mixture of sand and water is:",
+    "options": [
+      "A. Filtration",
+      "B. Sublimation",
+      "C. Distillation",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "question": "The technique of fractional crystallization is used to separate substances based on their differences in:",
+    "options": [
+      "A. Boiling points",
+      "B. Solubilities",
+      "C. Melting points",
+      "D. Densities"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following statements about an element is true?",
+    "options": [
+      "A. It can be split into simpler substances by chemical means",
+      "B. It consists of only one type of atom",
+      "C. It consists of two or more different atoms chemically combined",
+      "D. It can be separated into its components by physical methods"
+    ],
+    "answer": "B",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "question": "The process of separating a solid from a liquid by heating the mixture until the liquid boils off is called:",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Evaporation",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is a characteristic property of a mixture?",
+    "options": [
+      "A. It has a fixed melting point",
+      "B. It has a definite chemical formula",
+      "C. Its components retain their individual properties",
+      "D. Its components are chemically bonded together"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 42,
+    "question": "The separation of a mixture of ethanol and water is best achieved using:",
+    "options": [
+      "A. Simple distillation apparatus",
+      "B. Fractional distillation column",
+      "C. Separating funnel method",
+      "D. Paper chromatography technique"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following processes is used to purify a solid by dissolving it in a suitable solvent and then allowing it to crystallize?",
+    "options": [
+      "A. Sublimation",
+      "B. Filtration",
+      "C. Recrystallization",
+      "D. Distillation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "A. Melting of ice",
+      "B. Dissolving sugar in water",
+      "C. Burning of wood",
+      "D. Evaporation of alcohol"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "question": "The process of separation of a mixture of two or more miscible liquids with different boiling points is known as:",
+    "options": [
+      "A. Simple distillation",
+      "B. Fractional distillation",
+      "C. Evaporation",
+      "D. Chromatography"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following statements is true about a compound?",
+    "options": [
+      "A. It can be separated into its constituents by physical means",
+      "B. It has a variable composition",
+      "C. Its constituents are chemically combined in a fixed ratio",
+      "D. It retains the properties of its constituent elements"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 47,
+    "question": "A mixture of kerosene and water can be separated using a:",
+    "options": [
+      "A. Distillation flask",
+      "B. Separating funnel",
+      "C. Filter paper",
+      "D. Chromatography column"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is not a separation technique?",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Oxidation",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "question": "The property of a substance to absorb moisture from the atmosphere and dissolve in it is called:",
+    "options": [
+      "A. Efflorescence",
+      "B. Deliquescence",
+      "C. Hygroscopy",
+      "D. Sublimation"
+    ],
+    "answer": "B",
+    "topic": "Water",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following techniques is used to separate a mixture of pigments in ink?",
+    "options": [
+      "A. Column chromatography",
+      "B. Simple filtration",
+      "C. Fractional distillation",
+      "D. Crystallization"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "The process of separating a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a mixture?",
+    "options": [
+      "A. Distilled water",
+      "B. Common salt",
+      "C. Air",
+      "D. Copper"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following methods is most suitable for obtaining pure water from sea water?",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Decantation",
+      "D. Evaporation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "question": "The process of separating a mixture of ammonium chloride and sodium chloride is based on the fact that ammonium chloride:",
+    "options": [
+      "A. Is soluble in water",
+      "B. Sublimes on heating",
+      "C. Has a high melting point",
+      "D. Reacts with sodium chloride"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following changes is a physical change?",
+    "options": [
+      "A. Rusting of iron",
+      "B. Burning of magnesium",
+      "C. Melting of ice",
+      "D. Souring of milk"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "question": "The separation of a mixture of two solids with different solubilities in a solvent is best achieved by:",
+    "options": [
+      "A. Sublimation",
+      "B. Fractional crystallization",
+      "C. Distillation",
+      "D. Filtration"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following statements about a pure substance is correct?",
+    "options": [
+      "A. It has a sharp melting point",
+      "B. It can be separated by physical means",
+      "C. It has a variable composition",
+      "D. It is always a compound"
+    ],
+    "answer": "A",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 58,
+    "question": "The process of separating a mixture of miscible liquids is known as:",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Decantation",
+      "D. Sublimation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is an example of a compound?",
+    "options": [
+      "A. Air",
+      "B. Sea water",
+      "C. Water",
+      "D. Brass"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "The technique used to separate a mixture of an insoluble solid and a liquid is:",
+    "options": [
+      "A. Distillation",
+      "B. Filtration",
+      "C. Sublimation",
+      "D. Evaporation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following processes involves a chemical change?",
+    "options": [
+      "A. Dissolving salt in water",
+      "B. Melting of wax",
+      "C. Burning of paper",
+      "D. Condensation of steam"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "The separation of a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is a pure substance?",
+    "options": [
+      "A. Air",
+      "B. Sea water",
+      "C. Distilled water",
+      "D. Brass"
+    ],
+    "answer": "C",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "The most suitable method for separating a mixture of sand and water is:",
+    "options": [
+      "A. Filtration",
+      "B. Sublimation",
+      "C. Distillation",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 65,
+    "question": "The technique of fractional crystallization is used to separate substances based on their differences in:",
+    "options": [
+      "A. Boiling points",
+      "B. Solubilities",
+      "C. Melting points",
+      "D. Densities"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following statements about an element is true?",
+    "options": [
+      "A. It can be split into simpler substances by chemical means",
+      "B. It consists of only one type of atom",
+      "C. It consists of two or more different atoms chemically combined",
+      "D. It can be separated into its components by physical methods"
+    ],
+    "answer": "B",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "The process of separating a solid from a liquid by heating the mixture until the liquid boils off is called:",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Evaporation",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is a characteristic property of a mixture?",
+    "options": [
+      "A. It has a fixed melting point",
+      "B. It has a definite chemical formula",
+      "C. Its components retain their individual properties",
+      "D. Its components are chemically bonded together"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "The separation of a mixture of ethanol and water is best achieved using:",
+    "options": [
+      "A. Simple distillation apparatus",
+      "B. Fractional distillation column",
+      "C. Separating funnel method",
+      "D. Paper chromatography technique"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 70,
+    "question": "Which of the following processes is used to purify a solid by dissolving it in a suitable solvent and then allowing it to crystallize?",
+    "options": [
+      "A. Sublimation",
+      "B. Filtration",
+      "C. Recrystallization",
+      "D. Distillation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "A. Melting of ice",
+      "B. Dissolving sugar in water",
+      "C. Burning of wood",
+      "D. Evaporation of alcohol"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 72,
+    "question": "The process of separation of a mixture of two or more miscible liquids with different boiling points is known as:",
+    "options": [
+      "A. Simple distillation",
+      "B. Fractional distillation",
+      "C. Evaporation",
+      "D. Chromatography"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following statements is true about a compound?",
+    "options": [
+      "A. It can be separated into its constituents by physical means",
+      "B. It has a variable composition",
+      "C. Its constituents are chemically combined in a fixed ratio",
+      "D. It retains the properties of its constituent elements"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 74,
+    "question": "A mixture of kerosene and water can be separated using a:",
+    "options": [
+      "A. Distillation flask",
+      "B. Separating funnel",
+      "C. Filter paper",
+      "D. Chromatography column"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is not a separation technique?",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Oxidation",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 76,
+    "question": "The property of a substance to absorb moisture from the atmosphere and dissolve in it is called:",
+    "options": [
+      "A. Efflorescence",
+      "B. Deliquescence",
+      "C. Hygroscopy",
+      "D. Sublimation"
+    ],
+    "answer": "B",
+    "topic": "Water",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following techniques is used to separate a mixture of pigments in ink?",
+    "options": [
+      "A. Column chromatography",
+      "B. Simple filtration",
+      "C. Fractional distillation",
+      "D. Crystallization"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "The process of separating a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is a mixture?",
+    "options": [
+      "A. Distilled water",
+      "B. Common salt",
+      "C. Air",
+      "D. Copper"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following methods is most suitable for obtaining pure water from sea water?",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Decantation",
+      "D. Evaporation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "The process of separating a mixture of ammonium chloride and sodium chloride is based on the fact that ammonium chloride:",
+    "options": [
+      "A. Is soluble in water",
+      "B. Sublimes on heating",
+      "C. Has a high melting point",
+      "D. Reacts with sodium chloride"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following changes is a physical change?",
+    "options": [
+      "A. Rusting of iron",
+      "B. Burning of magnesium",
+      "C. Melting of ice",
+      "D. Souring of milk"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 83,
+    "question": "The separation of a mixture of two solids with different solubilities in a solvent is best achieved by:",
+    "options": [
+      "A. Sublimation",
+      "B. Fractional crystallization",
+      "C. Distillation",
+      "D. Filtration"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following statements about a pure substance is correct?",
+    "options": [
+      "A. It has a sharp melting point",
+      "B. It can be separated by physical means",
+      "C. It has a variable composition",
+      "D. It is always a compound"
+    ],
+    "answer": "A",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "The process of separating a mixture of miscible liquids is known as:",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Decantation",
+      "D. Sublimation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is an example of a compound?",
+    "options": [
+      "A. Air",
+      "B. Sea water",
+      "C. Water",
+      "D. Brass"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "The technique used to separate a mixture of an insoluble solid and a liquid is:",
+    "options": [
+      "A. Distillation",
+      "B. Filtration",
+      "C. Sublimation",
+      "D. Evaporation"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following processes involves a chemical change?",
+    "options": [
+      "A. Dissolving salt in water",
+      "B. Melting of wax",
+      "C. Burning of paper",
+      "D. Condensation of steam"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "The separation of a mixture of iron filings and sulfur powder can be achieved using:",
+    "options": [
+      "A. A magnet for extraction",
+      "B. Sublimation apparatus",
+      "C. A separating funnel",
+      "D. Simple distillation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is a pure substance?",
+    "options": [
+      "A. Air",
+      "B. Sea water",
+      "C. Distilled water",
+      "D. Brass"
+    ],
+    "answer": "C",
+    "topic": "Pure and Impure Substances",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "The most suitable method for separating a mixture of sand and water is:",
+    "options": [
+      "A. Filtration",
+      "B. Sublimation",
+      "C. Distillation",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 92,
+    "question": "The technique of fractional crystallization is used to separate substances based on their differences in:",
+    "options": [
+      "A. Boiling points",
+      "B. Solubilities",
+      "C. Melting points",
+      "D. Densities"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following statements about an element is true?",
+    "options": [
+      "A. It can be split into simpler substances by chemical means",
+      "B. It consists of only one type of atom",
+      "C. It consists of two or more different atoms chemically combined",
+      "D. It can be separated into its components by physical methods"
+    ],
+    "answer": "B",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The process of separating a solid from a liquid by heating the mixture until the liquid boils off is called:",
+    "options": [
+      "A. Filtration",
+      "B. Distillation",
+      "C. Evaporation",
+      "D. Sublimation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is a characteristic property of a mixture?",
+    "options": [
+      "A. It has a fixed melting point",
+      "B. It has a definite chemical formula",
+      "C. Its components retain their individual properties",
+      "D. Its components are chemically bonded together"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "The separation of a mixture of ethanol and water is best achieved using:",
+    "options": [
+      "A. Simple distillation apparatus",
+      "B. Fractional distillation column",
+      "C. Separating funnel method",
+      "D. Paper chromatography technique"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following processes is used to purify a solid by dissolving it in a suitable solvent and then allowing it to crystallize?",
+    "options": [
+      "A. Sublimation",
+      "B. Filtration",
+      "C. Recrystallization",
+      "D. Distillation"
+    ],
+    "answer": "C",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is an example of a chemical change?",
+    "options": [
+      "A. Melting of ice",
+      "B. Dissolving sugar in water",
+      "C. Burning of wood",
+      "D. Evaporation of alcohol"
+    ],
+    "answer": "C",
+    "topic": "Chemical and Physical Changes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 99,
+    "question": "The process of separation of a mixture of two or more miscible liquids with different boiling points is known as:",
+    "options": [
+      "A. Simple distillation",
+      "B. Fractional distillation",
+      "C. Evaporation",
+      "D. Chromatography"
+    ],
+    "answer": "B",
+    "topic": "Separation of Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following statements is true about a compound?",
+    "options": [
+      "A. It can be separated into its constituents by physical means",
+      "B. It has a variable composition",
+      "C. Its constituents are chemically combined in a fixed ratio",
+      "D. It retains the properties of its constituent elements"
+    ],
+    "answer": "C",
+    "topic": "Elements, Compounds, Mixtures",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "The law of conservation of matter states that in a chemical reaction, the total mass of the reactants is always:",
+    "options": [
+      "A. Greater than the mass of the products formed",
+      "B. Less than the mass of the products formed",
+      "C. Equal to the mass of the products formed",
+      "D. Unrelated to the mass of the products formed"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following statements best describes the Law of Definite Proportions?",
+    "options": [
+      "A. Elements combine in any ratio to form different compounds",
+      "B. The mass of reactants equals the mass of the products",
+      "C. Gases combine in simple whole-number volume ratios",
+      "D. A given compound always contains the same elements in a fixed mass ratio"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 103,
+    "question": "The relative atomic mass of an element is based on the standard isotope of:",
+    "options": [
+      "A. Carbon-12 having an exact mass of 12 units",
+      "B. Oxygen-16 having an exact mass of 16 units",
+      "C. Hydrogen-1 having an exact mass of 1 unit",
+      "D. Nitrogen-14 having an exact mass of 14 units"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "question": "How many moles of oxygen atoms are present in 0.5 moles of aluminum sulfate, Al2(SO4)3?",
+    "options": [
+      "A. 1.5 moles of oxygen atoms",
+      "B. 6.0 moles of oxygen atoms",
+      "C. 0.5 moles of oxygen atoms",
+      "D. 3.0 moles of oxygen atoms"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 105,
+    "question": "Gay-Lussac's Law of Combining Volumes applies specifically to reactions involving:",
+    "options": [
+      "A. Solids and liquids at high temperatures",
+      "B. Liquids and gases at constant pressure",
+      "C. Gaseous reactants and gaseous products",
+      "D. Aqueous solutions of ionic compounds"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "If 2.0 g of hydrogen reacts completely with 16.0 g of oxygen to form water, what mass of water is produced?",
+    "options": [
+      "A. 18.0 g",
+      "B. 14.0 g",
+      "C. 32.0 g",
+      "D. 16.0 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "The empirical formula of a compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass is:",
+    "options": [
+      "A. C2H4O2",
+      "B. CH2O",
+      "C. C2H6O",
+      "D. CH4O"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 108,
+    "question": "Avogadro's Law states that equal volumes of all gases at the same temperature and pressure contain:",
+    "options": [
+      "A. Equal masses of the gas molecules",
+      "B. Equal numbers of gas molecules",
+      "C. The same density of gas molecules",
+      "D. The same kinetic energy of molecules"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 109,
+    "question": "What is the number of moles in 22 g of carbon(IV) oxide? (C=12, O=16)",
+    "options": [
+      "A. 0.25 moles",
+      "B. 1.00 moles",
+      "C. 0.50 moles",
+      "D. 2.00 moles"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "The law of multiple proportions is best illustrated by the compounds:",
+    "options": [
+      "A. Water and hydrogen peroxide",
+      "B. Sodium chloride and potassium chloride",
+      "C. Methane and ethane",
+      "D. Carbon monoxide and carbon dioxide"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "Avogadro's number is the number of particles present in:",
+    "options": [
+      "A. One gram of any chemical substance",
+      "B. One mole of any chemical substance",
+      "C. One molecule of a gaseous element",
+      "D. One atom of a specific isotope"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "Calculate the volume of oxygen required to completely burn 20 cm3 of methane at standard conditions.",
+    "options": [
+      "A. 10 cm3 of oxygen gas",
+      "B. 20 cm3 of oxygen gas",
+      "C. 40 cm3 of oxygen gas",
+      "D. 60 cm3 of oxygen gas"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following chemical formulas is correct for iron(III) oxide?",
+    "options": [
+      "A. FeO",
+      "B. Fe2O3",
+      "C. Fe3O4",
+      "D. FeO2"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "In the reaction N2(g) + 3H2(g) -> 2NH3(g), 1 mole of nitrogen requires how many moles of hydrogen?",
+    "options": [
+      "A. 1 mole of hydrogen",
+      "B. 2 moles of hydrogen",
+      "C. 3 moles of hydrogen",
+      "D. 4 moles of hydrogen"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "The relative molecular mass of a gas is numerically equal to its:",
+    "options": [
+      "A. Density at standard temperature and pressure",
+      "B. Molar volume at room temperature",
+      "C. Vapour density multiplied by two",
+      "D. Mass of one mole of the gas"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "question": "A compound contains 80% copper and 20% oxygen by mass. The empirical formula of the compound is: (Cu=64, O=16)",
+    "options": [
+      "A. CuO",
+      "B. Cu2O",
+      "C. CuO2",
+      "D. Cu2O3"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is the correct balanced equation for the combustion of ethane?",
+    "options": [
+      "A. C2H6 + 2O2 -> 2CO2 + 3H2O",
+      "B. \\(C2H6 + \\frac{7}{2}O2\\) -> 2CO2 + 3H2O",
+      "C. 2C2H6 + 7O2 -> 4CO2 + 6H2O",
+      "D. C2H6 + 3O2 -> 2CO2 + 3H2O"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 118,
+    "question": "The mass of 1.5 moles of sodium trioxocarbonate(IV) is: (Na2CO3 = 106)",
+    "options": [
+      "A. 70.7 g",
+      "B. 106.0 g",
+      "C. 212.0 g",
+      "D. 159.0 g"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "question": "If 10 cm3 of a gaseous hydrocarbon requires 30 cm3 of oxygen for complete combustion, the hydrocarbon is:",
+    "options": [
+      "A. Methane",
+      "B. Ethane",
+      "C. Propane",
+      "D. Ethene"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 120,
+    "question": "The percentage by mass of nitrogen in ammonium chloride is: (NH4Cl = 53.5, N = 14)",
+    "options": [
+      "A. 26.2%",
+      "B. 35.0%",
+      "C. 14.0%",
+      "D. 53.5%"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Which of the following statements about the mole concept is correct?",
+    "options": [
+      "A. One mole of a gas occupies 22.4 dm3 at all temperatures",
+      "B. One mole of a substance contains the Avogadro number of particles",
+      "C. The mole is the mass of one molecule of a substance",
+      "D. The mole is the volume of one gram of a substance"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "question": "The Law of Multiple Proportions states that when two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other are in a ratio of:",
+    "options": [
+      "A. Small whole numbers",
+      "B. Complex decimals",
+      "C. Variable fractions",
+      "D. Random integers"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "question": "Calculate the number of molecules in 4.4 g of carbon(IV) oxide. (CO2 = 44, \\(NA = 6.02 \\times 10^{23}\\))",
+    "options": [
+      "A. \\(6.02 \\times 10^{22}\\) molecules",
+      "B. \\(6.02 \\times 10^{23}\\) molecules",
+      "C. \\(1.20 \\times 10^{24}\\) molecules",
+      "D. \\(3.01 \\times 10^{23}\\) molecules"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 124,
+    "question": "In a chemical equation, the symbol (g) after a formula indicates that the substance is:",
+    "options": [
+      "A. Dissolved in water",
+      "B. A solid precipitate",
+      "C. A gaseous product",
+      "D. A liquid substance"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "question": "A hydrocarbon contains 85.7% carbon and 14.3% hydrogen by mass. Its empirical formula is:",
+    "options": [
+      "A. CH",
+      "B. C2H4",
+      "C. CH2",
+      "D. C2H6"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 126,
+    "question": "What volume of carbon(IV) oxide at s.t.p. is produced when 10 g of calcium carbonate is completely decomposed? (CaCO3 = 100, molar volume = 22.4 dm3)",
+    "options": [
+      "A. 1.12 dm3",
+      "B. 2.24 dm3",
+      "C. 4.48 dm3",
+      "D. 11.20 dm3"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 127,
+    "question": "The law of definite proportions implies that a pure chemical compound:",
+    "options": [
+      "A. Can exist in different isotopic forms",
+      "B. Has a constant elemental composition by mass",
+      "C. Varies in composition depending on its source",
+      "D. Contains elements combined in random ratios"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "How many moles of electrons are transferred when 1 mole of aluminum forms Al3+ ions?",
+    "options": [
+      "A. 1 mole of electrons",
+      "B. 2 moles of electrons",
+      "C. 3 moles of electrons",
+      "D. 6 moles of electrons"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "question": "The molar mass of a gas is 32 g/mol. What is the mass of 5.6 dm3 of this gas at s.t.p.?",
+    "options": [
+      "A. 8.0 g",
+      "B. 16.0 g",
+      "C. 4.0 g",
+      "D. 32.0 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "Which of the following equations is correctly balanced?",
+    "options": [
+      "A. Fe + H2O -> Fe3O4 + H2",
+      "B. 3Fe + 4H2O -> Fe3O4 + 4H2",
+      "C. 2Fe + 3H2O -> Fe2O3 + 3H2",
+      "D. Fe + 2H2O -> FeO2 + 2H2"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "Avogadro's constant has a value of approximately:",
+    "options": [
+      "A. \\(6.02 \\times 10^{23}\\) particles per mole",
+      "B. \\(6.02 \\times 10^{-23}\\) particles per mole",
+      "C. \\(3.01 \\times 10^{23}\\) particles per mole",
+      "D. \\(1.60 \\times 10^{-19}\\) particles per mole"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "question": "The empirical formula of a compound is CH2O and its relative molecular mass is 180. The molecular formula is:",
+    "options": [
+      "A. C2H4O2",
+      "B. C3H6O3",
+      "C. C6H12O6",
+      "D. C4H8O4"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 133,
+    "question": "When 2 volumes of hydrogen react with 1 volume of oxygen, the volume of water vapour produced at the same temperature and pressure is:",
+    "options": [
+      "A. 1 volume",
+      "B. 2 volumes",
+      "C. 3 volumes",
+      "D. 4 volumes"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 134,
+    "question": "Which of the following contains the highest number of atoms?",
+    "options": [
+      "A. 1 mole of carbon dioxide gas",
+      "B. 1 mole of oxygen gas",
+      "C. 1 mole of methane gas",
+      "D. 1 mole of ammonia gas"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 135,
+    "question": "The law of conservation of matter is also known as the law of:",
+    "options": [
+      "A. Definite proportions",
+      "B. Multiple proportions",
+      "C. Indestructibility of matter",
+      "D. Combining volumes"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "question": "What is the mass of 1 atom of oxygen? (O = 16, \\(NA = 6.02 \\times 10^{23}\\))",
+    "options": [
+      "A. \\(2.66 \\times 10^{-23}\\) g",
+      "B. \\(1.66 \\times 10^{-24}\\) g",
+      "C. \\(6.02 \\times 10^{-23}\\) g",
+      "D. \\(16.00 \\times 10^{23}\\) g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 137,
+    "question": "In the formula Al2(SO4)3, the total number of atoms in one formula unit is:",
+    "options": [
+      "A. 12 atoms",
+      "B. 15 atoms",
+      "C. 17 atoms",
+      "D. 20 atoms"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is the correct IUPAC name for the compound with formula Fe2O3?",
+    "options": [
+      "A. Iron(II) oxide",
+      "B. Iron(III) oxide",
+      "C. Diiron trioxide",
+      "D. Iron oxide"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "question": "If 50 cm3 of hydrogen and 50 cm3 of chlorine are mixed and reacted to form hydrogen chloride, what volume of the product is formed at the same conditions?",
+    "options": [
+      "A. 25 cm3",
+      "B. 50 cm3",
+      "C. 100 cm3",
+      "D. 150 cm3"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "The mass of silver deposited when 0.1 mole of electrons is passed through silver trioxonitrate(V) solution is: (Ag = 108)",
+    "options": [
+      "A. 1.08 g",
+      "B. 10.8 g",
+      "C. 5.40 g",
+      "D. 21.6 g"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 141,
+    "question": "Which of the following statements about stoichiometry is correct?",
+    "options": [
+      "A. It is the study of reaction rates and mechanisms",
+      "B. It deals with the mass relationships in chemical reactions",
+      "C. It only applies to reactions occurring in aqueous solutions",
+      "D. It describes the energy changes during chemical reactions"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "A compound of nitrogen and oxygen contains 30.4% nitrogen and 69.6% oxygen. Its empirical formula is: (N=14, O=16)",
+    "options": [
+      "A. NO",
+      "B. NO2",
+      "C. N2O",
+      "D. N2O5"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 143,
+    "question": "The volume occupied by 1.5 moles of an ideal gas at s.t.p. is:",
+    "options": [
+      "A. 22.4 dm3",
+      "B. 33.6 dm3",
+      "C. 44.8 dm3",
+      "D. 11.2 dm3"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following pairs of compounds illustrates the law of multiple proportions?",
+    "options": [
+      "A. H2O and D2O",
+      "B. CO and CO2",
+      "C. NaCl and KCl",
+      "D. CH4 and C2H6"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 145,
+    "question": "The number of moles of sodium hydroxide required to neutralize 25 cm3 of 0.1 M hydrochloric acid is:",
+    "options": [
+      "A. 0.0025 moles",
+      "B. 0.0050 moles",
+      "C. 0.0100 moles",
+      "D. 0.0250 moles"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "The relative molecular mass of hydrated copper(II) sulfate is 250. If the anhydrous salt has a mass of 160, the number of moles of water of crystallization is: (H2O = 18)",
+    "options": [
+      "A. 2 moles",
+      "B. 3 moles",
+      "C. 5 moles",
+      "D. 10 moles"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following gas laws is used to deduce the molar volume of a gas?",
+    "options": [
+      "A. Boyle's Law",
+      "B. Charles's Law",
+      "C. Avogadro's Law",
+      "D. Dalton's Law"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "question": "The percentage of water in hydrated magnesium sulfate, MgSO4.7H2O, is: (MgSO4 = 120, H2O = 18)",
+    "options": [
+      "A. 51.2%",
+      "B. 41.5%",
+      "C. 60.0%",
+      "D. 75.5%"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 149,
+    "question": "What mass of sodium chloride is required to prepare 250 cm3 of a 0.2 M solution? (NaCl = 58.5)",
+    "options": [
+      "A. 2.93 g",
+      "B. 5.85 g",
+      "C. 11.70 g",
+      "D. 1.46 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "In the reaction 2KClO3 -> 2KCl + 3O2, how many moles of oxygen are produced from 4 moles of KClO3?",
+    "options": [
+      "A. 3 moles",
+      "B. 6 moles",
+      "C. 4 moles",
+      "D. 2 moles"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "Which of the following equations represents the formation of an empirical formula?",
+    "options": [
+      "A. C2H4 -> (CH2)n",
+      "B. C6H12O6 -> C6H12O6",
+      "C. \\(H2 + \\frac{1}{2}O2\\) -> H2O",
+      "D. N2 + 3H2 -> 2NH3"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "The mass of 2.24 dm3 of a gas at s.t.p. is 4.4 g. The relative molecular mass of the gas is:",
+    "options": [
+      "A. 22",
+      "B. 44",
+      "C. 88",
+      "D. 11"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The law which states that the total pressure exerted by a mixture of non-reacting gases is the sum of their individual partial pressures is:",
+    "options": [
+      "A. Graham's Law",
+      "B. Dalton's Law",
+      "C. Boyle's Law",
+      "D. Charles's Law"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 154,
+    "question": "What is the number of moles of water produced when 1 mole of propane is completely burned in excess oxygen?",
+    "options": [
+      "A. 1 mole",
+      "B. 2 moles",
+      "C. 3 moles",
+      "D. 4 moles"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The relative atomic mass of an element X is 35.5. The element is likely to be:",
+    "options": [
+      "A. Chlorine",
+      "B. Fluorine",
+      "C. Bromine",
+      "D. Iodine"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "The number of ions present in 1 mole of sodium chloride is:",
+    "options": [
+      "A. \\(6.02 \\times 10^{23}\\) ions",
+      "B. \\(1.20 \\times 10^{24}\\) ions",
+      "C. \\(3.01 \\times 10^{23}\\) ions",
+      "D. \\(1.81 \\times 10^{24}\\) ions"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "Which of the following pairs of compounds can be used to illustrate the law of reciprocal proportions?",
+    "options": [
+      "A. CO and CO2",
+      "B. H2O and H2O2",
+      "C. CH4 and C2H6",
+      "D. FeCl2 and FeCl3"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 158,
+    "question": "The volume of 0.1 M hydrochloric acid needed to completely neutralize 20 cm3 of 0.2 M sodium hydroxide is:",
+    "options": [
+      "A. 10 cm3",
+      "B. 20 cm3",
+      "C. 40 cm3",
+      "D. 60 cm3"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "A gaseous hydrocarbon with the empirical formula CH2 and a relative molecular mass of 42 has the molecular formula:",
+    "options": [
+      "A. CH2",
+      "B. C2H4",
+      "C. C3H6",
+      "D. C4H8"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 160,
+    "question": "In a balanced chemical equation, the coefficients represent the:",
+    "options": [
+      "A. Molar masses of the reactants and products",
+      "B. Number of moles of the reacting species",
+      "C. Volumes of the gases involved in the reaction",
+      "D. Densities of the substances involved in the reaction"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following samples contains the largest number of oxygen atoms?",
+    "options": [
+      "A. 1 mole of oxygen gas (O2)",
+      "B. 1 mole of water (H2O)",
+      "C. 1 mole of ozone (O3)",
+      "D. 1 mole of carbon dioxide (CO2)"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "The mass of one molecule of water is approximately: (H=1, O=16, \\(NA=6.02 \\times 10^{23}\\))",
+    "options": [
+      "A. 18.0 g",
+      "B. \\(3.0 \\times 10^{-23}\\) g",
+      "C. \\(1.8 \\times 10^{-22}\\) g",
+      "D. \\(6.0 \\times 10^{-23}\\) g"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 163,
+    "question": "How many moles of hydrochloric acid are required to react completely with 0.5 moles of zinc?",
+    "options": [
+      "A. 0.25 moles",
+      "B. 0.50 moles",
+      "C. 1.00 moles",
+      "D. 2.00 moles"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "The law of combining volumes is applicable to:",
+    "options": [
+      "A. Solid reactants only",
+      "B. Liquid reactants only",
+      "C. Gaseous reactants and products",
+      "D. Aqueous solutions of salts"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 165,
+    "question": "Which of the following formulas represents a compound with a relative molecular mass of 64?",
+    "options": [
+      "A. SO2",
+      "B. SO3",
+      "C. H2SO4",
+      "D. NO2"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "The Avogadro number is the number of:",
+    "options": [
+      "A. Electrons in one mole of a gas",
+      "B. Protons in one gram of hydrogen",
+      "C. Particles in one mole of a substance",
+      "D. Atoms in one molecule of oxygen"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 167,
+    "question": "What is the empirical formula of a compound containing 2.4 g of carbon and 0.8 g of hydrogen?",
+    "options": [
+      "A. CH",
+      "B. CH2",
+      "C. CH3",
+      "D. CH4"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "If 24 g of magnesium reacts completely with oxygen, what mass of magnesium oxide is produced? (Mg = 24, O = 16)",
+    "options": [
+      "A. 40 g",
+      "B. 48 g",
+      "C. 64 g",
+      "D. 80 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The law of conservation of mass is valid for:",
+    "options": [
+      "A. Only reactions involving gases",
+      "B. Only reactions in closed systems",
+      "C. All chemical reactions, nuclear or otherwise",
+      "D. All chemical reactions in open or closed systems"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 170,
+    "question": "What is the mass of 0.25 moles of sodium hydroxide? (NaOH = 40)",
+    "options": [
+      "A. 40 g",
+      "B. 20 g",
+      "C. 10 g",
+      "D. 5 g"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following statements about Avogadro's law is true?",
+    "options": [
+      "A. The volume of a gas is directly proportional to its mass",
+      "B. The volume of a gas is directly proportional to the number of moles",
+      "C. The pressure of a gas is directly proportional to its volume",
+      "D. The temperature of a gas is directly proportional to its mass"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "The molar volume of an ideal gas at s.t.p. is:",
+    "options": [
+      "A. 22.4 dm3",
+      "B. 24.0 dm3",
+      "C. 11.2 dm3",
+      "D. 44.8 dm3"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 173,
+    "question": "A compound contains 1.2 g of carbon and 3.2 g of oxygen. The empirical formula is: (C=12, O=16)",
+    "options": [
+      "A. CO",
+      "B. CO2",
+      "C. C2O",
+      "D. C2O3"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "The percentage by mass of oxygen in water (H2O) is:",
+    "options": [
+      "A. 11.1%",
+      "B. 88.9%",
+      "C. 50.0%",
+      "D. 66.7%"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "How many moles of oxygen gas are produced when 4 moles of potassium chlorate(V) decompose?",
+    "options": [
+      "A. 2 moles",
+      "B. 4 moles",
+      "C. 6 moles",
+      "D. 8 moles"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "The relative molecular mass of a gas is 28. The mass of 2.24 dm3 of the gas at s.t.p. is:",
+    "options": [
+      "A. 2.8 g",
+      "B. 5.6 g",
+      "C. 11.2 g",
+      "D. 14.0 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 177,
+    "question": "The formula of an oxide of nitrogen containing 36.8% nitrogen is: (N=14, O=16)",
+    "options": [
+      "A. NO",
+      "B. N2O",
+      "C. NO2",
+      "D. N2O3"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following equations correctly represents the reaction between hydrogen and oxygen?",
+    "options": [
+      "A. H2 + O2 -> H2O",
+      "B. 2H2 + O2 -> 2H2O",
+      "C. H2 + O -> H2O",
+      "D. H2 + 2O2 -> 2H2O"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 179,
+    "question": "The number of atoms in 0.5 moles of helium gas is:",
+    "options": [
+      "A. \\(3.01 \\times 10^{23}\\) atoms",
+      "B. \\(6.02 \\times 10^{23}\\) atoms",
+      "C. \\(1.20 \\times 10^{24}\\) atoms",
+      "D. \\(1.81 \\times 10^{24}\\) atoms"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "The law of multiple proportions was proposed by:",
+    "options": [
+      "A. Antoine Lavoisier",
+      "B. Joseph Proust",
+      "C. John Dalton",
+      "D. Gay-Lussac"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 181,
+    "question": "What volume of 0.5 M sulfuric acid is required to neutralize 25 cm3 of 1.0 M sodium hydroxide?",
+    "options": [
+      "A. 12.5 cm3",
+      "B. 25.0 cm3",
+      "C. 50.0 cm3",
+      "D. 75.0 cm3"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "The mass of 1 mole of an element is called its:",
+    "options": [
+      "A. Empirical mass",
+      "B. Molar mass",
+      "C. Relative atomic mass",
+      "D. Molecular mass"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 183,
+    "question": "In the reaction CaCO3 -> CaO + CO2, the number of moles of CO2 produced from 100 g of CaCO3 is: (CaCO3 = 100)",
+    "options": [
+      "A. 0.5 moles",
+      "B. 1.0 moles",
+      "C. 2.0 moles",
+      "D. 4.0 moles"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following statements is true about the empirical formula?",
+    "options": [
+      "A. It is always the same as the molecular formula",
+      "B. It shows the actual number of atoms in a molecule",
+      "C. It shows the simplest whole-number ratio of atoms",
+      "D. It is determined by the mass of the compound only"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 185,
+    "question": "The relative atomic mass of an element is the average mass of its naturally occurring isotopes relative to:",
+    "options": [
+      "A. \\(\\frac{1}{12}\\) the mass of a carbon-12 atom",
+      "B. \\(\\frac{1}{16}\\) the mass of an oxygen-16 atom",
+      "C. The mass of a hydrogen-1 atom",
+      "D. The mass of a nitrogen-14 atom"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "What is the number of moles of ions in 1 mole of aluminum sulfate, Al2(SO4)3?",
+    "options": [
+      "A. 2 moles",
+      "B. 3 moles",
+      "C. 5 moles",
+      "D. 6 moles"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 187,
+    "question": "Which of the following compounds has the highest percentage of nitrogen by mass?",
+    "options": [
+      "A. NH3",
+      "B. NO",
+      "C. NO2",
+      "D. N2O"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 188,
+    "question": "The equation 2H2O2 -> 2H2O + O2 represents the:",
+    "options": [
+      "A. Decomposition of water",
+      "B. Formation of water",
+      "C. Decomposition of hydrogen peroxide",
+      "D. Combustion of hydrogen"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 189,
+    "question": "The volume of oxygen required to burn 10 cm3 of carbon monoxide at the same temperature and pressure is:",
+    "options": [
+      "A. 5 cm3",
+      "B. 10 cm3",
+      "C. 15 cm3",
+      "D. 20 cm3"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "The mass of 0.2 moles of calcium trioxocarbonate(IV) is: (CaCO3 = 100)",
+    "options": [
+      "A. 10 g",
+      "B. 20 g",
+      "C. 50 g",
+      "D. 100 g"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 191,
+    "question": "The number of moles of water in 90 g of water is: (H2O = 18)",
+    "options": [
+      "A. 2 moles",
+      "B. 3 moles",
+      "C. 4 moles",
+      "D. 5 moles"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 192,
+    "question": "Which of the following is a valid deduction from the law of definite proportions?",
+    "options": [
+      "A. The mass of a compound varies with its source",
+      "B. The elements in a compound are combined in fixed ratios",
+      "C. Compounds can be separated by physical means",
+      "D. The properties of a compound are a mixture of its elements"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "The molar mass of a gas with a vapour density of 16 is:",
+    "options": [
+      "A. 8 g/mol",
+      "B. 16 g/mol",
+      "C. 32 g/mol",
+      "D. 64 g/mol"
+    ],
+    "answer": "C",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "The law of conservation of matter was established by:",
+    "options": [
+      "A. Antoine Lavoisier",
+      "B. John Dalton",
+      "C. J.J. Thomson",
+      "D. Ernest Rutherford"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 195,
+    "question": "How many grams of oxygen are needed to completely react with 4 g of hydrogen to form water? (H2 + \\(\\frac{1}{2}O2\\) -> H2O)",
+    "options": [
+      "A. 16 g",
+      "B. 32 g",
+      "C. 8 g",
+      "D. 64 g"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "The relative molecular mass of a compound is 60. Its empirical formula is CH2O. The molecular formula is:",
+    "options": [
+      "A. CH2O",
+      "B. C2H4O2",
+      "C. C3H6O3",
+      "D. C4H8O4"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 197,
+    "question": "Which of the following equations is balanced?",
+    "options": [
+      "A. H2 + Cl2 -> HCl",
+      "B. 2H2 + Cl2 -> 2HCl",
+      "C. H2 + 2Cl2 -> 2HCl",
+      "D. H2 + Cl2 -> 2HCl"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 198,
+    "question": "The Avogadro constant is used to convert between:",
+    "options": [
+      "A. Mass and volume of a gas",
+      "B. Moles and number of particles",
+      "C. Mass and moles of a substance",
+      "D. Volume and temperature of a gas"
+    ],
+    "answer": "B",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The number of moles of oxygen atoms in 2 moles of sulfuric acid, H2SO4, is:",
+    "options": [
+      "A. 2 moles",
+      "B. 4 moles",
+      "C. 6 moles",
+      "D. 8 moles"
+    ],
+    "answer": "D",
+    "topic": "Chemical Combination",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "A given mass of a gas occupies 100 cm3 at s.t.p. If the molar mass of the gas is 44 g/mol, the mass of the gas is approximately:",
+    "options": [
+      "A. 0.20 g",
+      "B. 0.44 g",
+      "C. 4.40 g",
+      "D. 44.0 g"
+    ],
+    "answer": "A",
+    "topic": "Chemical Combination",
+    "difficulty": "Hard"
+  }
+]

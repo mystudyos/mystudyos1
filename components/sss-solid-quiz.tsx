@@ -60,12 +60,14 @@ import waecPhysicsJson from "../Json/WAEC/PHYSICS.json"
 import waecYorubaJson from "../Json/WAEC/YORUBA.json"
 import jambAccountingJson from "../Json/JAMB/Accounting.json"
 import jambBiologyJson from "../Json/JAMB/Biology.json"
+import jambChemistryJson from "../Json/JAMB/Chemistry.json"
 import jambCrsJson from "../Json/JAMB/Crs.json"
 import jambEnglishJson from "../Json/JAMB/English.json"
 import jambGeographyJson from "../Json/JAMB/Geography.json"
 import jambIrkJson from "../Json/JAMB/Islamic.json"
 import jambLiteratureJson from "../Json/JAMB/Literature.json"
 import jambMathematicsJson from "../Json/JAMB/Mathematics.json"
+import jambPhysicsJson from "../Json/JAMB/Physics.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -113,7 +115,10 @@ function mapNecoJsonToQuestions(
       options: shuffledOptions,
       correctIndex: newCorrectIndex >= 0 ? newCorrectIndex : 0,
       explanation: `The correct answer is ${shuffledOptions[newCorrectIndex] || ""}.`,
-      usesLatex: subjectKey === "mathematics",
+      usesLatex:
+        subjectKey === "mathematics" ||
+        subjectKey === "physics" ||
+        subjectKey === "chemistry",
     }
   })
 }
@@ -167,12 +172,14 @@ const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
 const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
   accounting: jambAccountingJson as RawJsonQuestion[],
   biology: jambBiologyJson as RawJsonQuestion[],
+  chemistry: jambChemistryJson as RawJsonQuestion[],
   crk: jambCrsJson as RawJsonQuestion[],
   english: jambEnglishJson as RawJsonQuestion[],
   englishlit: jambLiteratureJson as RawJsonQuestion[],
   geography: jambGeographyJson as RawJsonQuestion[],
   irk: jambIrkJson as RawJsonQuestion[],
   mathematics: jambMathematicsJson as RawJsonQuestion[],
+  physics: jambPhysicsJson as RawJsonQuestion[],
 }
 
 interface SSSSolidQuizProps {
