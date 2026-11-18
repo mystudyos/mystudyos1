@@ -9098,5 +9098,3905 @@
     "answer": "C",
     "topic": "A Government Driver on his Retirement - Character",
     "difficulty": "Medium"
+  },
+  {
+    "id": 701,
+    "question": "In classical drama, the protagonist's downfall is typically precipitated by:",
+    "options": [
+      "A. A sudden intervention by the gods",
+      "B. An inherent flaw in their character",
+      "C. The overwhelming power of nature",
+      "D. A conspiracy by minor characters"
+    ],
+    "answer": "B",
+    "topic": "Drama - Types (Tragedy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 702,
+    "question": "A dramatic work characterized by exaggerated emotions and sensational plot is called:",
+    "options": [
+      "A. A classical tragedy",
+      "B. A modern farce",
+      "C. A melodrama",
+      "D. A tragicomedy"
+    ],
+    "answer": "C",
+    "topic": "Drama - Types (Melodrama)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 703,
+    "question": "The use of flashback in a play primarily serves to:",
+    "options": [
+      "A. Provide background information on the plot",
+      "B. Increase the pace of the dramatic action",
+      "C. Introduce comic relief to the audience",
+      "D. Highlight the physical setting of the stage"
+    ],
+    "answer": "A",
+    "topic": "Drama - Techniques (Flashback)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 704,
+    "question": "A soliloquy is best described as a speech delivered by a character:",
+    "options": [
+      "A. While engaging in a dialogue with others",
+      "B. Alone on stage, revealing inner thoughts",
+      "C. Directly addressing the audience in a group",
+      "D. To summarize the events of the previous acts"
+    ],
+    "answer": "B",
+    "topic": "Drama - Techniques (Soliloquy)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 705,
+    "question": "Which of the following elements is most characteristic of a farce?",
+    "options": [
+      "A. The use of highly poetic and elevated language",
+      "B. The exploration of deep psychological trauma",
+      "C. The inclusion of highly improbable situations",
+      "D. The strict adherence to classical unities"
+    ],
+    "answer": "C",
+    "topic": "Drama - Types (Farce)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 706,
+    "question": "The primary function of comic relief in a tragedy is to:",
+    "options": [
+      "A. Completely change the tragic tone of the play",
+      "B. Provide a temporary break from tragic tension",
+      "C. Mock the main character's tragic situation",
+      "D. Introduce a new subplot to confuse the audience"
+    ],
+    "answer": "B",
+    "topic": "Drama - Techniques (Comic Relief)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 707,
+    "question": "An aside is a dramatic convention where a character:",
+    "options": [
+      "A. Speaks directly to the audience unheard by others",
+      "B. Engages in a lengthy monologue alone on stage",
+      "C. Exits the stage while speaking to the audience",
+      "D. Discusses the plot with another character privately"
+    ],
+    "answer": "A",
+    "topic": "Drama - Techniques (Aside)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 708,
+    "question": "In theatrical production, the term 'decor' refers to the:",
+    "options": [
+      "A. Costumes worn by the principal actors",
+      "B. Background music played during scenes",
+      "C. Physical scenery and stage furnishings",
+      "D. Special lighting effects used in the play"
+    ],
+    "answer": "C",
+    "topic": "Drama - Techniques (Décor)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 709,
+    "question": "In 'Lion and the Jewel', Lakunle's primary conflict with the villagers stems from his:",
+    "options": [
+      "A. Desire to modernize Ilujinle rapidly",
+      "B. Refusal to pay the bride price for Sidi",
+      "C. Hidden alliance with the colonial masters",
+      "D. Jealousy towards Baroka's polygamous lifestyle"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Character (Lakunle)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 710,
+    "question": "Sidi's initial attitude towards Baroka in the play is characterized by:",
+    "options": [
+      "A. Deep admiration and romantic affection",
+      "B. Fear of his political authority in the village",
+      "C. Haughty disdain and mockery of his age",
+      "D. Indifference to his wealth and status"
+    ],
+    "answer": "C",
+    "topic": "Lion and the Jewel - Character (Sidi)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 711,
+    "question": "Baroka's cunning strategy to win Sidi's hand involves:",
+    "options": [
+      "A. Forcefully abducting her from her home",
+      "B. Using a stamp machine to trap her curiosity",
+      "C. Bribing her father with a large sum of money",
+      "D. Challenging Lakunle to a public wrestling match"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 712,
+    "question": "The character of the photographer in 'Lion and the Jewel' symbolizes:",
+    "options": [
+      "A. The complete destruction of African culture",
+      "B. The intrusion of Western technology and values",
+      "C. The economic prosperity of the village of Ilujinle",
+      "D. The political unity between rival villages"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 713,
+    "question": "Sadiku's role in Baroka's household is best described as his:",
+    "options": [
+      "A. Secret political adviser and strategist",
+      "B. Senior wife who manages the household",
+      "C. Biological mother and caretaker",
+      "D. Personal servant and physical protector"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Character (Sadiku)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 714,
+    "question": "The central thematic conflict in 'Lion and the Jewel' is between:",
+    "options": [
+      "A. Rich and poor social classes",
+      "B. Men and women in society",
+      "C. Tradition and modernity",
+      "D. Urban and rural lifestyles"
+    ],
+    "answer": "C",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 715,
+    "question": "Baroka's physical condition in the play is significant because it:",
+    "options": [
+      "A. Proves his complete physical weakness",
+      "B. Masks his enduring mental and political vitality",
+      "C. Causes him to lose his title as the Bale",
+      "D. Forces him to rely entirely on Sadiku's counsel"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Character (Baroka)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 716,
+    "question": "The setting of 'Lion and the Jewel' is the fictional village of:",
+    "options": [
+      "A. Ilujinle",
+      "B. Umuofia",
+      "C. Aiyetoro",
+      "D. Esa-Odo"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Setting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 717,
+    "question": "Lakunle's refusal to pay the bride-price is viewed by the villagers as:",
+    "options": [
+      "A. A wise adaptation to modern economics",
+      "B. A progressive step for women's rights",
+      "C. An insult to their cultural traditions",
+      "D. A necessary requirement of his Christian faith"
+    ],
+    "answer": "C",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 718,
+    "question": "The 'jewel' in the title of Soyinka's play primarily refers to:",
+    "options": [
+      "A. The precious stones in Baroka's palace",
+      "B. The beautiful village of Ilujinle",
+      "C. The character of Sidi and her beauty",
+      "D. The book of laws owned by Lakunle"
+    ],
+    "answer": "C",
+    "topic": "Lion and the Jewel - Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 719,
+    "question": "Jimmy Porter's persistent anger in 'Look Back in Anger' is largely fueled by:",
+    "options": [
+      "A. His inability to find stable employment",
+      "B. His frustration with social inequality",
+      "C. The infidelity of his wife Alison",
+      "D. The constant nagging of Cliff Lewis"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 720,
+    "question": "Alison's family background is significant because she comes from:",
+    "options": [
+      "A. A working-class mining community",
+      "B. A wealthy upper-middle-class family",
+      "C. A family of struggling immigrants",
+      "D. A traditional aristocratic household"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Character (Alison)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 721,
+    "question": "Cliff Lewis functions in the play primarily as a:",
+    "options": [
+      "A. Rival to Jimmy for Alison's love",
+      "B. Mediator between Jimmy and Alison",
+      "C. Voice of conservative political views",
+      "D. Symbol of middle-class respectability"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Character (Cliff)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 722,
+    "question": "The ironing board in 'Look Back in Anger' serves as a symbol of:",
+    "options": [
+      "A. Alison's domestic oppression and stagnation",
+      "B. Jimmy's commitment to household chores",
+      "C. The economic prosperity of the Porter family",
+      "D. Helena's intrusive presence in the household"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 723,
+    "question": "Helena Charles' decision to leave her acting career to join the Porters is driven by:",
+    "options": [
+      "A. Her secret romantic love for Jimmy",
+      "B. Her desire to help Alison with the housework",
+      "C. Her need to escape her strict father",
+      "D. Her wish to study at a local university"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Helena)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 724,
+    "question": "Colonel Redfern's attitude towards Jimmy and Alison's marriage can be described as:",
+    "options": [
+      "A. Fiercely hostile and deeply resentful",
+      "B. Completely indifferent and apathetic",
+      "C. Baffled but fundamentally tolerant",
+      "D. Joyfully supportive and financially generous"
+    ],
+    "answer": "C",
+    "topic": "Look Back in Anger - Character (Colonel)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 725,
+    "question": "The 'bear and squirrel' game that Jimmy and Alison play represents:",
+    "options": [
+      "A. Their shared attempt to escape harsh reality",
+      "B. Jimmy's obsession with wild animals",
+      "C. Alison's rejection of her upper-class roots",
+      "D. Cliff's exclusion from their private world"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 726,
+    "question": "The physical setting of the attic apartment in the play emphasizes:",
+    "options": [
+      "A. The luxurious lifestyle of the main characters",
+      "B. The cramped and stifling nature of their lives",
+      "C. The close proximity to the wealthy elite",
+      "D. The architectural beauty of the midlands"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Setting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 727,
+    "question": "The loss of Alison's unborn child near the end of the play serves to:",
+    "options": [
+      "A. Bring about a final, permanent separation",
+      "B. Deepen Jimmy's emotional isolation and grief",
+      "C. Resolve the financial struggles of the couple",
+      "D. Cause Helena to immediately abandon the house"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Plot",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 728,
+    "question": "The play concludes with Jimmy and Alison:",
+    "options": [
+      "A. Divorcing and going their separate ways",
+      "B. Leaving the apartment to start a new life",
+      "C. Returning to their animalistic role-play",
+      "D. Moving in with Helena and her father"
+    ],
+    "answer": "C",
+    "topic": "Look Back in Anger - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 729,
+    "question": "A novel that follows the adventures of a roguish hero of low social class is known as a:",
+    "options": [
+      "A. Picaresque novel",
+      "B. Gothic novel",
+      "C. Epistolary novel",
+      "D. Bildungsroman"
+    ],
+    "answer": "A",
+    "topic": "Prose - Types (Fiction)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 730,
+    "question": "In the omniscient point of view, the narrator:",
+    "options": [
+      "A. Participates directly in the action as a character",
+      "B. Knows the thoughts of all characters",
+      "C. Observes events strictly from the outside",
+      "D. Addresses the reader directly as 'you'"
+    ],
+    "answer": "B",
+    "topic": "Prose - Narrative Techniques (POV)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 731,
+    "question": "A foil character in a literary work is one who:",
+    "options": [
+      "A. Replaces the protagonist in the climax",
+      "B. Highlights the qualities of another character",
+      "C. Represents the author's personal beliefs",
+      "D. Introduces the main conflict of the story"
+    ],
+    "answer": "B",
+    "topic": "Prose - Characterization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 732,
+    "question": "A novel written entirely in the form of letters exchanged between characters is called:",
+    "options": [
+      "A. An epistolary novel",
+      "B. A didactic novel",
+      "C. A pastoral novel",
+      "D. A historical novel"
+    ],
+    "answer": "A",
+    "topic": "Prose - Types (Fiction)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 733,
+    "question": "One major limitation of the first-person point of view is that it:",
+    "options": [
+      "A. Lacks the emotional depth of third-person",
+      "B. Cannot easily describe the actions of other characters",
+      "C. Is strictly limited to the narrator's experiences",
+      "D. Is overly complex for young adult readers"
+    ],
+    "answer": "C",
+    "topic": "Prose - Narrative Techniques (POV)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 734,
+    "question": "An antihero is a protagonist who:",
+    "options": [
+      "A. Lacks conventional heroic qualities",
+      "B. Vigorously opposes the main villain",
+      "C. Acts as a spy for the opposing side",
+      "D. Represents the forces of pure evil"
+    ],
+    "answer": "A",
+    "topic": "Prose - Characterization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 735,
+    "question": "The term 'faction' in literature refers to a blend of:",
+    "options": [
+      "A. Poetry and dramatic dialogue",
+      "B. Factual events and fictional elements",
+      "C. Tragic and comic narrative styles",
+      "D. Oral tradition and written records"
+    ],
+    "answer": "B",
+    "topic": "Prose - Types (Faction)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 736,
+    "question": "The literary technique that presents a character's continuous flow of thoughts is:",
+    "options": [
+      "A. Stream of consciousness",
+      "B. Direct characterization",
+      "C. Flashback narrative",
+      "D. Dramatic irony"
+    ],
+    "answer": "A",
+    "topic": "Prose - Narrative Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 737,
+    "question": "Adah Ofili's primary motivation for traveling to the United Kingdom is to:",
+    "options": [
+      "A. Escape an arranged marriage in Nigeria",
+      "B. Pursue advanced studies and a better life",
+      "C. Reunite with her extended family members",
+      "D. Run away from the Biafran civil war"
+    ],
+    "answer": "B",
+    "topic": "Second Class Citizen - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 738,
+    "question": "Francis Ofili's character in the novel is marked by his:",
+    "options": [
+      "A. Ambition and support for Adah's dreams",
+      "B. Laziness and dependence on others",
+      "C. Inability to adapt to London life",
+      "D. Constant demands for Adah to work harder"
+    ],
+    "answer": "B",
+    "topic": "Second Class Citizen - Character (Francis)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 739,
+    "question": "The title 'Second Class Citizen' primarily refers to the:",
+    "options": [
+      "A. Lower social status of women in Nigeria",
+      "B. Economic disparity in the United Kingdom",
+      "C. Legal classification of immigrants in London",
+      "D. Treatment of black immigrants in Britain"
+    ],
+    "answer": "D",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 740,
+    "question": "Adah's experience at the library in London reveals the theme of:",
+    "options": [
+      "A. The importance of literacy in society",
+      "B. Racial discrimination and hostility",
+      "C. The lack of proper infrastructure",
+      "D. Her passion for reading literature"
+    ],
+    "answer": "B",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 741,
+    "question": "In the novel, Adah's children are named:",
+    "options": [
+      "A. Titi and Vicky",
+      "B. Nkechi and Obi",
+      "C. Sade and Femi",
+      "D. Obinna and Chika"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Characters",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 742,
+    "question": "The contrast between life in Nigeria and the UK in the novel highlights:",
+    "options": [
+      "A. The superiority of the British education system",
+      "B. The resilience required by African immigrants",
+      "C. The technological advancements in Nigeria",
+      "D. The cultural similarities between both nations"
+    ],
+    "answer": "B",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 743,
+    "question": "Pa Noble's attitude towards Adah's education in Nigeria is best described as:",
+    "options": [
+      "A. Fiercely opposed and deeply resentful",
+      "B. Completely indifferent and apathetic",
+      "C. Encouraging and financially supportive",
+      "D. Conditionally supportive based on her gender"
+    ],
+    "answer": "C",
+    "topic": "Second Class Citizen - Character (Pa Noble)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 744,
+    "question": "The societal pressure Adah faces from her extended family after Francis's failure is rooted in:",
+    "options": [
+      "A. Traditional expectations of female submission",
+      "B. The political instability of Lagos",
+      "C. Her refusal to practice the Christian faith",
+      "D. The scarcity of housing in the city"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 745,
+    "question": "Francis's decision to join the army during the civil war is primarily motivated by:",
+    "options": [
+      "A. A deep sense of patriotic duty to Biafra",
+      "B. A desire to secure military rations for Adah",
+      "C. His need to escape domestic responsibilities",
+      "D. An opportunity for rapid promotion and wealth"
+    ],
+    "answer": "C",
+    "topic": "Second Class Citizen - Plot",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 746,
+    "question": "The novel ends with Adah:",
+    "options": [
+      "A. Returning to Nigeria to face her family",
+      "B. Confronting Francis and reclaiming her freedom",
+      "C. Moving to America in search of a new life",
+      "D. Acknowledging her defeat and giving up her job"
+    ],
+    "answer": "B",
+    "topic": "Second Class Citizen - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 747,
+    "question": "In 'Unexpected Joy at Dawn', Nii Tackie's primary goal is to:",
+    "options": [
+      "A. Find his long-lost mother in Nigeria",
+      "B. Amass wealth through cross-border trade",
+      "C. Escape political persecution in Ghana",
+      "D. Establish a school for refugee children"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Plot",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 748,
+    "question": "The squatters' camp in the novel primarily serves as:",
+    "options": [
+      "A. A temporary shelter for transient tourists",
+      "B. A haven for undocumented immigrants",
+      "C. A recreational center for the youth",
+      "D. A military outpost for border security"
+    ],
+    "answer": "B",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 749,
+    "question": "Mama Orojo's character in the narrative functions as:",
+    "options": [
+      "A. A ruthless antagonist to Nii Tackie",
+      "B. A strict enforcer of immigration laws",
+      "C. A compassionate maternal figure",
+      "D. A secret informant to the police"
+    ],
+    "answer": "C",
+    "topic": "Unexpected Joy at Dawn - Character",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 750,
+    "question": "The experiences of the characters in the novel highlight the theme of:",
+    "options": [
+      "A. Xenophobia and immigrant struggles",
+      "B. Romantic love overcoming cultural barriers",
+      "C. Technological advancement in West Africa",
+      "D. The collapse of traditional educational systems"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 751,
+    "question": "The physical journey of Nii Tackie oscillates primarily between:",
+    "options": [
+      "A. Ghana and Togo",
+      "B. Nigeria and Benin",
+      "C. Ghana and Nigeria",
+      "D. Ivory Coast and Ghana"
+    ],
+    "answer": "C",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 752,
+    "question": "Nii Tackie's search for his mother is complicated by the fact that she:",
+    "options": [
+      "A. Had migrated to Nigeria and disappeared",
+      "B. Was imprisoned for illegal border crossing",
+      "C. Had joined a radical political movement",
+      "D. Had intentionally abandoned him at birth"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 753,
+    "question": "The concept of 'home' in the novel is primarily portrayed as:",
+    "options": [
+      "A. A fixed geographical location with borders",
+      "B. A place of emotional connection and belonging",
+      "C. An unattainable dream for all immigrants",
+      "D. A political entity defined by legal documents"
+    ],
+    "answer": "B",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 754,
+    "question": "Joe's character in the novel is significant because he:",
+    "options": [
+      "A. Serves as a father figure and guide to Nii",
+      "B. Leads the police raid on the squatters' camp",
+      "C. Steals Nii's money after a failed business deal",
+      "D. Introduces Nii to the illegal drug trade"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Character",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 755,
+    "question": "The novel's title 'Unexpected Joy at Dawn' metaphorically refers to:",
+    "options": [
+      "A. The economic boom of the early morning markets",
+      "B. The sudden resolution of conflicts through war",
+      "C. The possibility of hope after severe hardship",
+      "D. The climatic change that ends the drought"
+    ],
+    "answer": "C",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 756,
+    "question": "The narrative structure of 'Unexpected Joy at Dawn' predominantly utilizes:",
+    "options": [
+      "A. A single, omniscient first-person narrator",
+      "B. Multiple perspectives and shifting viewpoints",
+      "C. Epistolary exchanges between the characters",
+      "D. A stream-of-consciousness internal monologue"
+    ],
+    "answer": "B",
+    "topic": "Unexpected Joy at Dawn - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 757,
+    "question": "A poem written to mourn the death of a specific person is known as an:",
+    "options": [
+      "A. Epic",
+      "B. Elegy",
+      "C. Ode",
+      "D. Sonnet"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Types (Elegy)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 758,
+    "question": "The primary characteristic of an ode is its:",
+    "options": [
+      "A. Highly formal structure with fourteen lines",
+      "B. Focus on narrative storytelling and dialogue",
+      "C. Elevated language of praise or celebration",
+      "D. Rhythmic pattern mimicking natural sounds"
+    ],
+    "answer": "C",
+    "topic": "Poetry - Types (Ode)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 759,
+    "question": "A Shakespearean sonnet is structurally divided into:",
+    "options": [
+      "A. An octave and a sestet",
+      "B. Three quatrains and a couplet",
+      "C. Two heroic couplets and a stanza",
+      "D. Four independent four-line stanzas"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Types (Sonnet)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 760,
+    "question": "A ballad is traditionally characterized by its:",
+    "options": [
+      "A. Lack of regular rhyme scheme",
+      "B. Narrative of folk history or legend",
+      "C. Use of highly complex philosophical themes",
+      "D. Exclusive focus on natural landscape beauty"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Types (Ballad)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 761,
+    "question": "A panegyric poem is primarily intended to:",
+    "options": [
+      "A. Criticize the social and political elite",
+      "B. Praise and extol a person's achievements",
+      "C. Describe the beauty of the natural world",
+      "D. Narrate the historical origins of a tribe"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Types (Panegyric)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 762,
+    "question": "An epic poem is typically defined by its:",
+    "options": [
+      "A. Short length and intense emotional focus",
+      "B. Grand scale and heroic subject matter",
+      "C. Use of informal and colloquial language",
+      "D. Focus on ordinary domestic life events"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Types (Epic)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 763,
+    "question": "Blank verse in poetry refers to lines that are:",
+    "options": [
+      "A. Unrhymed but written in iambic pentameter",
+      "B. Completely free of any rhythmic structure",
+      "C. Rhymed in pairs of varying lengths",
+      "D. Written exclusively in the form of dialogue"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Types (Blank Verse)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 764,
+    "question": "The use of words that appeal to the five physical senses in poetry is called:",
+    "options": [
+      "A. Diction",
+      "B. Meter",
+      "C. Imagery",
+      "D. Rhyme"
+    ],
+    "answer": "C",
+    "topic": "Poetry - Poetic Devices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 765,
+    "question": "In Senghor's 'Black Woman', the subject is primarily compared to:",
+    "options": [
+      "A. The vastness of the African savannah",
+      "B. The fertility of the natural earth",
+      "C. The destructive power of the ocean",
+      "D. The unchanging nature of the stars"
+    ],
+    "answer": "B",
+    "topic": "Black Woman - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 766,
+    "question": "The overarching theme of Senghor's 'Black Woman' is the:",
+    "options": [
+      "A. Celebration of African female beauty and identity",
+      "B. Lamentation of the effects of colonialism",
+      "C. Rejection of Western ideals of romance",
+      "D. Description of the hardships of rural life"
+    ],
+    "answer": "A",
+    "topic": "Black Woman - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 767,
+    "question": "In 'The Leader and the Led', Osundare utilizes the animal kingdom to:",
+    "options": [
+      "A. Encourage a return to hunting and gathering",
+      "B. Allegorize the failures of political leadership",
+      "C. Describe the ecological balance of the forest",
+      "D. Highlight the superiority of physical strength"
+    ],
+    "answer": "B",
+    "topic": "The Leader and the Led - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 768,
+    "question": "The structure of 'The Leader and the Led' relies heavily on:",
+    "options": [
+      "A. A series of rhetorical questions and repetition",
+      "B. A rigid fourteen-line sonnet format",
+      "C. The use of archaic English vocabulary",
+      "D. A narrative ballad storytelling style"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Style",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 769,
+    "question": "Neto's 'The Grieved Lands' is essentially a poem about:",
+    "options": [
+      "A. The joy of African independence",
+      "B. The exploitation and suffering of Africa",
+      "C. The technological progress of Europe",
+      "D. The beauty of the African landscape"
+    ],
+    "answer": "B",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 770,
+    "question": "The tone of the persona in 'The Grieved Lands' can be described as:",
+    "options": [
+      "A. Playful and lighthearted",
+      "B. Anguished and melancholic",
+      "C. Triumphant and celebratory",
+      "D. Indifferent and detached"
+    ],
+    "answer": "B",
+    "topic": "The Grieved Lands - Tone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 771,
+    "question": "In Sesay's 'The Song of the Women of the Land', the women's struggles are primarily against:",
+    "options": [
+      "A. The encroaching forces of modernization",
+      "B. The oppressive structures of patriarchy",
+      "C. The unpredictable forces of nature",
+      "D. The colonial educational system"
+    ],
+    "answer": "B",
+    "topic": "The Song of the Women - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 772,
+    "question": "The poem 'The Song of the Women of the Land' employs the imagery of:",
+    "options": [
+      "A. Heavy machinery and urban landscapes",
+      "B. Agricultural labor and burdens",
+      "C. Deep sea diving and marine life",
+      "D. Mountain climbing and exploration"
+    ],
+    "answer": "B",
+    "topic": "The Song of the Women - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 773,
+    "question": "In Wosornu's 'Raider of the Treasure Trove', the persona reflects on:",
+    "options": [
+      "A. The fleeting nature of life's pleasures",
+      "B. The complexities of romantic relationships",
+      "C. The historical legacy of the empire",
+      "D. The importance of military conquest"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 774,
+    "question": "The 'treasure trove' in Wosornu's poem metaphorically represents:",
+    "options": [
+      "A. A literal chest of gold buried underground",
+      "B. The accumulated wisdom from life's experiences",
+      "C. The physical beauty of the persona's lover",
+      "D. The wealth acquired through political corruption"
+    ],
+    "answer": "B",
+    "topic": "Raider of the Treasure Trove - Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 775,
+    "question": "The retirement of the persona in 'A Government Driver on his Retirement' is met with:",
+    "options": [
+      "A. Deep sorrow and fear of the future",
+      "B. A sense of relief and freedom",
+      "C. Anger towards the government",
+      "D. Indifference to his new status"
+    ],
+    "answer": "B",
+    "topic": "A Government Driver... - Tone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 776,
+    "question": "Chibuike's poem highlights the theme of:",
+    "options": [
+      "A. The corruption in government parastatals",
+      "B. The dignity and dedication of labor",
+      "C. The dangers of drunk driving",
+      "D. The modernization of the transport sector"
+    ],
+    "answer": "B",
+    "topic": "A Government Driver... - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 777,
+    "question": "In 'A Government Driver on his Retirement', the driver's long years of service are symbolized by:",
+    "options": [
+      "A. The worn-out tires of his vehicle",
+      "B. The shining medals on his chest",
+      "C. The large mansion he built",
+      "D. The young apprentices he trained"
+    ],
+    "answer": "A",
+    "topic": "A Government Driver... - Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 778,
+    "question": "The poetic device used in the line 'The leader is a towering iroko' is a:",
+    "options": [
+      "A. Simile",
+      "B. Metaphor",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "B",
+    "topic": "Poetry - Poetic Devices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 779,
+    "question": "In Donne's 'The Good Morrow', the lovers' previous experiences are compared to:",
+    "options": [
+      "A. A beautiful garden of Eden",
+      "B. A deep and dark cave",
+      "C. A restless and chaotic sleep",
+      "D. A long and perilous journey"
+    ],
+    "answer": "C",
+    "topic": "The Good Morrow - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 780,
+    "question": "The primary theme of John Donne's 'The Good Morrow' is the:",
+    "options": [
+      "A. Transience of physical beauty",
+      "B. Awakening of true spiritual love",
+      "C. Destruction caused by war",
+      "D. Exploration of the new world"
+    ],
+    "answer": "B",
+    "topic": "The Good Morrow - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 781,
+    "question": "In Maya Angelou's 'Caged Bird', the free bird symbolizes:",
+    "options": [
+      "A. The oppressive nature of society",
+      "B. The desire for freedom and opportunity",
+      "C. The fear of the unknown future",
+      "D. The beauty of the natural world"
+    ],
+    "answer": "B",
+    "topic": "Caged Bird - Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 782,
+    "question": "The caged bird in Angelou's poem sings of freedom because it:",
+    "options": [
+      "A. Is unaware of its physical confinement",
+      "B. Has hope despite its dire circumstances",
+      "C. Wants to entertain its captors",
+      "D. Believes it will soon be released"
+    ],
+    "answer": "B",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 783,
+    "question": "T.S. Eliot's 'The Journey of the Magi' is narrated from the perspective of:",
+    "options": [
+      "A. An omniscient narrator",
+      "B. One of the Magi reflecting later",
+      "C. The baby Jesus in the manger",
+      "D. King Herod's royal courtier"
+    ],
+    "answer": "B",
+    "topic": "The Journey of the Magi - Persona",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 784,
+    "question": "The tone of 'The Journey of the Magi' can be characterized as:",
+    "options": [
+      "A. Joyful and celebratory",
+      "B. Reflective and disillusioned",
+      "C. Angry and rebellious",
+      "D. Humorous and lighthearted"
+    ],
+    "answer": "B",
+    "topic": "The Journey of the Magi - Tone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 785,
+    "question": "In D.H. Lawrence's 'Bats', the creatures are initially described with:",
+    "options": [
+      "A. Deep admiration and reverence",
+      "B. Disgust and a sense of the grotesque",
+      "C. Fear and superstition",
+      "D. Indifference and boredom"
+    ],
+    "answer": "B",
+    "topic": "Bats - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 786,
+    "question": "The poem 'Bats' ultimately reveals the poet's:",
+    "options": [
+      "A. Desire to eradicate the bat population",
+      "B. Fascination with the creatures' flight",
+      "C. Realization of nature's intricate beauty",
+      "D. Fear of the dark and enclosed spaces"
+    ],
+    "answer": "C",
+    "topic": "Bats - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 787,
+    "question": "The metaphysical conceit in 'The Good Morrow' is primarily established through:",
+    "options": [
+      "A. The use of elaborate geographical imagery",
+      "B. The inclusion of classical mythological references",
+      "C. The strict adherence to a consistent rhyme scheme",
+      "D. The use of colloquial and informal language"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Poetic Devices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 788,
+    "question": "The central contrast in 'Caged Bird' is between:",
+    "options": [
+      "A. The rich and the poor",
+      "B. Freedom and captivity",
+      "C. Nature and technology",
+      "D. Youth and old age"
+    ],
+    "answer": "B",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 789,
+    "question": "The Magi's journey in Eliot's poem is physically arduous, which mirrors their:",
+    "options": [
+      "A. Lack of proper navigation skills",
+      "B. Spiritual transformation and doubts",
+      "C. Desire for political power",
+      "D. Fear of returning to their homeland"
+    ],
+    "answer": "B",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 790,
+    "question": "In 'Bats', the poet's initial perception of the bats changes when he:",
+    "options": [
+      "A. Observes them in the light of day",
+      "B. Watches them flutter in the sunset",
+      "C. Hears them screeching in the dark",
+      "D. Realizes they are harmless creatures"
+    ],
+    "answer": "B",
+    "topic": "Bats - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 791,
+    "question": "A literary device where hints are given about events that will occur later is called:",
+    "options": [
+      "A. Flashback",
+      "B. Foreshadowing",
+      "C. Suspense",
+      "D. Irony"
+    ],
+    "answer": "B",
+    "topic": "Literary Principles (Foreshadowing)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 792,
+    "question": "Satire in literature is primarily used to:",
+    "options": [
+      "A. Celebrate the achievements of a society",
+      "B. Criticize human follies and vices",
+      "C. Create a sense of deep tragedy",
+      "D. Describe the beauty of nature"
+    ],
+    "answer": "B",
+    "topic": "Literary Principles (Satire)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 793,
+    "question": "When an object in a story represents a deeper abstract idea, the writer is using:",
+    "options": [
+      "A. Symbolism",
+      "B. Personification",
+      "C. Hyperbole",
+      "D. Onomatopoeia"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Symbolism)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 794,
+    "question": "The feeling of anticipation and uncertainty about the outcome of a plot is termed:",
+    "options": [
+      "A. Climax",
+      "B. Suspense",
+      "C. Resolution",
+      "D. Exposition"
+    ],
+    "answer": "B",
+    "topic": "Literary Principles (Suspense)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 795,
+    "question": "The literary technique that mimics the unbroken flow of a character's mental process is called:",
+    "options": [
+      "A. Interior monologue",
+      "B. Direct speech",
+      "C. Epic simile",
+      "D. Pathetic fallacy"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Stream of Consciousness)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 796,
+    "question": "Read the extract: 'The sun has set, and darkness creeps / Upon the silent, waiting streets.' The mood of this excerpt is:",
+    "options": [
+      "A. Joyful and energetic",
+      "B. Ominous and expectant",
+      "C. Chaotic and confusing",
+      "D. Bright and cheerful"
+    ],
+    "answer": "B",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 797,
+    "question": "Read the extract: 'He looked at the vast ocean, realizing his smallness in the universe.' The literary device used here is:",
+    "options": [
+      "A. Irony",
+      "B. Metaphor",
+      "C. Contrast",
+      "D. Oxymoron"
+    ],
+    "answer": "C",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 798,
+    "question": "An unseen passage describes a man who laughs at a funeral but cries at a wedding. This is an example of:",
+    "options": [
+      "A. Paradox",
+      "B. Situational irony",
+      "C. Dramatic irony",
+      "D. Verbal irony"
+    ],
+    "answer": "B",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 799,
+    "question": "Read the extract: 'The wind whispered secrets to the trembling leaves.' The device used is:",
+    "options": [
+      "A. Simile",
+      "B. Personification",
+      "C. Onomatopoeia",
+      "D. Alliteration"
+    ],
+    "answer": "B",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 800,
+    "question": "In the extract 'The old man's face was a map of a thousand journeys,' the primary device is a:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Synecdoche",
+      "D. Metonymy"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 801,
+    "question": "In 'Lion and the Jewel', Baroka's successful wooing of Sidi primarily symbolizes the:",
+    "options": [
+      "A. Ultimate triumph of tradition over shallow modernity",
+      "B. Complete destruction of the village's cultural heritage",
+      "C. Superiority of physical strength in romantic pursuits",
+      "D. Rejection of all forms of Western technological progress"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 802,
+    "question": "Sidi's decision to go to Baroka's palace is initially driven by her desire to:",
+    "options": [
+      "A. Express her deep romantic love for the Bale",
+      "B. Mock him for supposedly losing his manhood",
+      "C. Seek his permission to marry Lakunle",
+      "D. Warn him about an impending village attack"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 803,
+    "question": "Jimmy Porter's intense anger in 'Look Back in Anger' is best described as a reaction to:",
+    "options": [
+      "A. The suffocating nature of a class-ridden society",
+      "B. His wife's inability to perform domestic chores",
+      "C. The constant interference of Colonel Redfern",
+      "D. His failure to secure a highly lucrative job"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 804,
+    "question": "The 'bear and squirrel' game in Osborne's play serves primarily to illustrate the couple's:",
+    "options": [
+      "A. Deep connection and escape from harsh reality",
+      "B. Shared love for wild animals and nature",
+      "C. Immaturity and refusal to accept responsibility",
+      "D. Attempt to annoy Cliff and Helena with noise"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 805,
+    "question": "Sadiku's role in the downfall of Baroka's perceived weakness is ironic because she:",
+    "options": [
+      "A. Accidentally reveals his secret plan to Sidi",
+      "B. Unknowingly helps him achieve his romantic goal",
+      "C. Plots with Lakunle to overthrow the Bale",
+      "D. Becomes the new wife of the village chief"
+    ],
+    "answer": "B",
+    "topic": "Lion and the Jewel - Character (Sadiku)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 806,
+    "question": "Alison's return to the apartment at the end of 'Look Back in Anger' signifies her:",
+    "options": [
+      "A. Acceptance of her subordinate role in marriage",
+      "B. Complete submission to Jimmy's emotional abuse",
+      "C. Willingness to endure suffering alongside Jimmy",
+      "D. Desire to seek revenge on Helena for leaving"
+    ],
+    "answer": "C",
+    "topic": "Look Back in Anger - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 807,
+    "question": "The village of Ilujinle is socially structured around the traditional authority of the:",
+    "options": [
+      "A. Bale and the council of elders",
+      "B. Young educated elites like Lakunle",
+      "C. Christian missionaries and their converts",
+      "D. Colonial administrative officers"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Setting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 808,
+    "question": "Helena Charles' temporary relationship with Jimmy reveals her hidden:",
+    "options": [
+      "A. Desire for social rebellion and slumming",
+      "B. Dislike for the upper-class values she was raised with",
+      "C. Plan to steal Alison's inheritance for herself",
+      "D. Ambition to become a famous playwright"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Character (Helena)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 809,
+    "question": "The visual image of Sidi in the magazine is significant because it:",
+    "options": [
+      "A. Makes her realize the power of her own beauty",
+      "B. Convinces Lakunle to finally pay the bride price",
+      "C. Angers Baroka into banishing the photographer",
+      "D. Disrupts the traditional rituals of the village"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 810,
+    "question": "Cliff Lewis' decision to leave the Porter household at the end of the play suggests:",
+    "options": [
+      "A. The end of his friendship with Jimmy",
+      "B. The resolution of Jimmy and Alison's crisis",
+      "C. His acceptance of Helena's marriage proposal",
+      "D. His need to find a well-paying job"
+    ],
+    "answer": "B",
+    "topic": "Look Back in Anger - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 811,
+    "question": "The primary reason Adah faces hostility from her husband's family in Nigeria is her:",
+    "options": [
+      "A. Decision to pursue education and financial independence",
+      "B. Refusal to cook traditional meals for Francis",
+      "C. Inability to bear a male child for the family",
+      "D. Conversion to a foreign religious belief"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 812,
+    "question": "Nii Tackie's journey in 'Unexpected Joy at Dawn' highlights the challenges of:",
+    "options": [
+      "A. Cross-border migration in West Africa",
+      "B. Religious conflicts in the northern region",
+      "C. The rapid urbanization of coastal towns",
+      "D. The breakdown of traditional family structures"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 813,
+    "question": "Francis Ofili's borrowing habits in London primarily serve to demonstrate his:",
+    "options": [
+      "A. Financial irresponsibility and dependency",
+      "B. Clever manipulation of the banking system",
+      "C. Generosity towards his struggling friends",
+      "D. Desire to provide a better life for his kids"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Character (Francis)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 814,
+    "question": "The border crossing scenes in Agyiri's novel expose the:",
+    "options": [
+      "A. Arbitrary nature of colonial-drawn boundaries",
+      "B. Efficiency of the West African immigration system",
+      "C. Economic prosperity of the border towns",
+      "D. Cooperation between the different security agencies"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 815,
+    "question": "Adah's job as a librarian in London is significant because it:",
+    "options": [
+      "A. Fulfills her childhood dream of working with books",
+      "B. Exposes her to a wider network of wealthy suitors",
+      "C. Allows her to secretly fund the Biafran war",
+      "D. Brings her into direct conflict with Francis"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 816,
+    "question": "Mama Orojo's treatment of Nii Tackie contrasts with the general attitude of the camp because she:",
+    "options": [
+      "A. Views him with compassion and maternal care",
+      "B. Charges him exorbitant rates for shelter",
+      "C. Reports his movements to the police",
+      "D. Forces him to join the local gang"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Character (Mama Orojo)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 817,
+    "question": "The theme of marital disillusionment in 'Second Class Citizen' is most evident in:",
+    "options": [
+      "A. Adah's eventual loss of respect for Francis",
+      "B. Pa Noble's strict discipline of his children",
+      "C. The rapid breakdown of Boy and Titi's marriage",
+      "D. The separation of Adah from her first employer"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 818,
+    "question": "The squatters in 'Unexpected Joy at Dawn' primarily rely on what for their survival?",
+    "options": [
+      "A. Informal trade and occasional manual labor",
+      "B. Government-sponsored relief packages",
+      "C. Large-scale agricultural farming",
+      "D. The generosity of international charities"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 819,
+    "question": "The narrative pace in 'Second Class Citizen' can best be described as:",
+    "options": [
+      "A. A steady progression with chronological flashbacks",
+      "B. A fragmented and non-linear exploration of time",
+      "C. A highly suspenseful thriller-like pacing",
+      "D. A slow and detailed stream of consciousness"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 820,
+    "question": "Nii Tackie's search for his mother is ultimately a search for his:",
+    "options": [
+      "A. True identity and sense of belonging",
+      "B. Inheritance and family property",
+      "C. Political rights as a Ghanaian",
+      "D. Childhood friends and lost memories"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 821,
+    "question": "In 'Black Woman', Senghor's primary purpose is to:",
+    "options": [
+      "A. Reclaim African identity and beauty from colonial narratives",
+      "B. Criticize the traditional roles of women in Africa",
+      "C. Describe the geographical features of Senegal",
+      "D. Celebrate the technological progress of Africa"
+    ],
+    "answer": "A",
+    "topic": "Black Woman - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 822,
+    "question": "The animal characters in 'The Leader and the Led' fail to unite because of their:",
+    "options": [
+      "A. Overwhelming desire for personal power and pride",
+      "B. Inability to understand human language",
+      "C. Fear of the supernatural forces in the forest",
+      "D. Complete lack of intelligent leadership"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 823,
+    "question": "The phrase 'grieved lands' in Neto's poem refers to the:",
+    "options": [
+      "A. Physical destruction caused by natural disasters",
+      "B. Historical trauma of slavery and colonialism",
+      "C. Vast, uninhabited deserts of the continent",
+      "D. Unfulfilled promises of independence leaders"
+    ],
+    "answer": "B",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 824,
+    "question": "The tone of the women in Sesay's poem is best described as:",
+    "options": [
+      "A. Resolute defiance against systemic oppression",
+      "B. Passive acceptance of their societal fate",
+      "C. Joyful celebration of their domestic roles",
+      "D. Bitter regret over their lost youth"
+    ],
+    "answer": "A",
+    "topic": "The Song of the Women - Tone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 825,
+    "question": "The persona in 'Raider of the Treasure Trove' refers to his life as a:",
+    "options": [
+      "A. Journey of accumulating wealth and status",
+      "B. Continuous struggle against a hostile world",
+      "C. Gradual loss of all material possessions",
+      "D. Joyous pursuit of spiritual enlightenment"
+    ],
+    "answer": "B",
+    "topic": "Raider of the Treasure Trove - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 826,
+    "question": "The central metaphor of Chibuike's poem compares the driver's career to a:",
+    "options": [
+      "A. Long and tiring but worthwhile journey",
+      "B. Brief and insignificant flash of light",
+      "C. Dangerous race against time",
+      "D. Mechanical routine devoid of purpose"
+    ],
+    "answer": "A",
+    "topic": "A Government Driver... - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 827,
+    "question": "The 'sleep' mentioned in the first stanza of Donne's 'The Good Morrow' represents:",
+    "options": [
+      "A. Physical exhaustion from a long journey",
+      "B. Spiritual ignorance before finding love",
+      "C. A deep state of dreamless rest",
+      "D. The illusion of the physical world"
+    ],
+    "answer": "B",
+    "topic": "The Good Morrow - Imagery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 828,
+    "question": "The caged bird's physical actions in Angelou's poem are limited to:",
+    "options": [
+      "A. Pacing and singing in its narrow cage",
+      "B. Attempting to break the iron bars",
+      "C. Hiding silently in a corner",
+      "D. Plucking its own feathers in despair"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Plot",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 829,
+    "question": "The Magi's observation of the 'satisfactory' but strange birth in Eliot's poem causes them to feel:",
+    "options": [
+      "A. Deeply joyful and ready to celebrate",
+      "B. Disillusioned and alienated from their past",
+      "C. Angry at the lack of proper hospitality",
+      "D. Confused about the political implications"
+    ],
+    "answer": "B",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 830,
+    "question": "Lawrence's description of the bats as 'a horror' before describing them as 'beautiful' highlights:",
+    "options": [
+      "A. The shifting nature of human perception and aesthetics",
+      "B. The inherent danger associated with wildlife",
+      "C. The poet's confusion regarding animal species",
+      "D. The physical transformation of the bats at sunset"
+    ],
+    "answer": "A",
+    "topic": "Bats - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 831,
+    "question": "The concept of Negritude is most strongly reflected in which of the following poems?",
+    "options": [
+      "A. Black Woman by Leopold Sedar Senghor",
+      "B. The Journey of the Magi by T.S. Eliot",
+      "C. Bats by D.H. Lawrence",
+      "D. A Government Driver on his Retirement by Chibuike"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 832,
+    "question": "The structural organization of 'The Leader and the Led' relies heavily on:",
+    "options": [
+      "A. A circular narrative that repeats the opening",
+      "B. A series of questions and symbolic answers",
+      "C. A strict rhyme scheme in heroic couplets",
+      "D. A dialogue between the lion and the antelope"
+    ],
+    "answer": "B",
+    "topic": "The Leader and the Led - Style",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 833,
+    "question": "The imagery of 'the shackled feet' in Neto's poem symbolizes:",
+    "options": [
+      "A. The physical and psychological chains of colonialism",
+      "B. The traditional dances of the African people",
+      "C. The destruction of the colonial railway system",
+      "D. The heavy agricultural tools used by farmers"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 834,
+    "question": "The women in Sesay's poem are described as bearing the 'burden of the land', which means they:",
+    "options": [
+      "A. Perform the most arduous physical and emotional labor",
+      "B. Own the largest portions of agricultural land",
+      "C. Are responsible for the political leadership",
+      "D. Carry the dead to their final resting places"
+    ],
+    "answer": "A",
+    "topic": "The Song of the Women - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 835,
+    "question": "The resolution in 'Raider of the Treasure Trove' occurs when the persona:",
+    "options": [
+      "A. Accepts his fate and finds peace in his past",
+      "B. Discovers a literal treasure chest in his home",
+      "C. Decides to embark on a new journey of conquest",
+      "D. Reunites with a long-lost family member"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Plot",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 836,
+    "question": "The driver in Chibuike's poem reflects on his life with a sense of:",
+    "options": [
+      "A. Pride in his long service and integrity",
+      "B. Regret over not amassing illicit wealth",
+      "C. Bitterness towards the government's pension",
+      "D. Relief that he no longer needs to work"
+    ],
+    "answer": "A",
+    "topic": "A Government Driver... - Tone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 837,
+    "question": "The geographical references in 'The Good Morrow' primarily serve to emphasize the:",
+    "options": [
+      "A. Boundless and complete nature of the lovers' world",
+      "B. Importance of physical exploration and discovery",
+      "C. Vastness of the British colonial empire",
+      "D. Lovers' desire to travel around the world"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Imagery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 838,
+    "question": "The contrast between the free bird and the caged bird in Angelou's poem highlights:",
+    "options": [
+      "A. The severe inequality in societal opportunities",
+      "B. The natural superiority of the caged bird",
+      "C. The need for better animal rights laws",
+      "D. The freedom that comes with physical flight"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 839,
+    "question": "The final stanza of 'The Journey of the Magi' suggests that the narrator wishes for:",
+    "options": [
+      "A. Another journey to the birthplace of Christ",
+      "B. The complete end of his old way of life",
+      "C. A return to the comfort of his homeland",
+      "D. A political revolution in his own country"
+    ],
+    "answer": "B",
+    "topic": "The Journey of the Magi - Plot",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 840,
+    "question": "In 'Bats', the sunset serves as a catalyst for:",
+    "options": [
+      "A. The sudden appearance and observation of the bats",
+      "B. The poet's realization of the coming storm",
+      "C. The peaceful sleep of the natural world",
+      "D. The return of the poet to his home"
+    ],
+    "answer": "A",
+    "topic": "Bats - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 841,
+    "question": "A figure of speech that uses a part to represent the whole is known as:",
+    "options": [
+      "A. Synecdoche",
+      "B. Metonymy",
+      "C. Oxymoron",
+      "D. Litotes"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Synecdoche)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 842,
+    "question": "The use of contradictory terms placed side by side for effect is called:",
+    "options": [
+      "A. Paradox",
+      "B. Oxymoron",
+      "C. Irony",
+      "D. Hyperbole"
+    ],
+    "answer": "B",
+    "topic": "Literary Principles (Oxymoron)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 843,
+    "question": "When nature is described as having human emotions, the writer employs:",
+    "options": [
+      "A. Personification",
+      "B. Pathetic fallacy",
+      "C. Apostrophe",
+      "D. Onomatopoeia"
+    ],
+    "answer": "B",
+    "topic": "Literary Principles (Pathetic Fallacy)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 844,
+    "question": "A deliberate understatement used for emphasis is known as:",
+    "options": [
+      "A. Litotes",
+      "B. Hyperbole",
+      "C. Euphemism",
+      "D. Sarcasm"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Litotes)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 845,
+    "question": "Read the extract: 'The sky was a bruised eye, weeping over the ruined city.' The primary device used here is:",
+    "options": [
+      "A. A complex metaphor",
+      "B. A sweeping simile",
+      "C. A strict personification",
+      "D. An extended hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 846,
+    "question": "Read the extract: 'Oh, how I love to hear the loud and jarring sirens!' The tone of this line is:",
+    "options": [
+      "A. Sarcastic and ironic",
+      "B. Genuinely joyful",
+      "C. Melancholic and sad",
+      "D. Angry and resentful"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 847,
+    "question": "An unseen poem describes a warrior who conquers many lands but is finally defeated by his own pride. This illustrates the theme of:",
+    "options": [
+      "A. The inevitability of tragic flaws",
+      "B. The futility of physical strength",
+      "C. The glory of military conquest",
+      "D. The randomness of natural disasters"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 848,
+    "question": "Read the extract: 'The snake moved, a silent shadow in the grass.' The device used is a:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Metonymy",
+      "D. Synecdoche"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 849,
+    "question": "In an unseen drama extract, a character says to the audience, 'He knows not that I hold the key to his ruin.' This is an example of:",
+    "options": [
+      "A. Dramatic irony",
+      "B. Verbal irony",
+      "C. Situational irony",
+      "D. Cosmic irony"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 850,
+    "question": "Read the extract: 'The ancient tree stood as a sentinel, guarding the secrets of the forgotten village.' The device used is:",
+    "options": [
+      "A. Personification",
+      "B. Hyperbole",
+      "C. Simile",
+      "D. Oxymoron"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 851,
+    "question": "The use of a closely related term to substitute for the actual name of something is called:",
+    "options": [
+      "A. Metonymy",
+      "B. Synecdoche",
+      "C. Antithesis",
+      "D. Paradox"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Metonymy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 852,
+    "question": "A poem that mourns the passing of a specific individual is traditionally called:",
+    "options": [
+      "A. An elegy",
+      "B. An epic",
+      "C. An ode",
+      "D. A ballad"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Types (Elegy)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 853,
+    "question": "The repetition of consonant sounds at the beginning of closely connected words is known as:",
+    "options": [
+      "A. Alliteration",
+      "B. Assonance",
+      "C. Consonance",
+      "D. Onomatopoeia"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Poetic Devices",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 854,
+    "question": "In 'Lion and the Jewel', Lakunle's insistence on not paying the bride price is a direct critique of the:",
+    "options": [
+      "A. Commodification of women in traditional society",
+      "B. Western education system's influence",
+      "C. Village's lack of modern infrastructure",
+      "D. Bale's polygamous lifestyle"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 855,
+    "question": "Jimmy Porter's frequent references to his working-class roots while living in a middle-class environment highlight his:",
+    "options": [
+      "A. Deep-seated insecurity and alienation",
+      "B. Pride in his humble background",
+      "C. Desire to return to the mines",
+      "D. Respect for the British class system"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 856,
+    "question": "The structural choice of Agyiri in 'Unexpected Joy at Dawn' to alternate between different characters' stories serves to:",
+    "options": [
+      "A. Show the interconnectedness of human experiences",
+      "B. Confuse the reader about the main plotline",
+      "C. Highlight the chaos of the border camps",
+      "D. Suggest the impossibility of a single truth"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 857,
+    "question": "Adah's refusal to remain silent in the face of injustice in 'Second Class Citizen' demonstrates her:",
+    "options": [
+      "A. Unyielding spirit and desire for self-actualization",
+      "B. Blind ambition and disregard for her family",
+      "C. Inability to understand cultural norms",
+      "D. Desire to humiliate her husband publicly"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Character (Adah)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 858,
+    "question": "The description of the bats in Lawrence's poem shifts from grotesque to elegant, suggesting the poet's:",
+    "options": [
+      "A. Changing perspective on nature's beauty",
+      "B. Fear of the dark and flying creatures",
+      "C. Desire to keep the bats as pets",
+      "D. Preference for day over night"
+    ],
+    "answer": "A",
+    "topic": "Bats - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 859,
+    "question": "The physical journey of the Magi in Eliot's poem is ultimately a metaphor for:",
+    "options": [
+      "A. The difficult path of spiritual enlightenment",
+      "B. The geographical exploration of the East",
+      "C. The political unification of the world",
+      "D. The transience of human existence"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 860,
+    "question": "In 'The Good Morrow', Donne argues that true love makes physical exploration unnecessary because:",
+    "options": [
+      "A. The lovers find their complete world in each other",
+      "B. The world beyond their room is too dangerous",
+      "C. They are both too poor to travel",
+      "D. Science has mapped the entire globe"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 861,
+    "question": "In 'The Song of the Women of the Land', the repetition of the phrase 'we are the women' serves to:",
+    "options": [
+      "A. Emphasize their collective identity and shared burden",
+      "B. Create a musical rhythm for the poem",
+      "C. Question their role in the society",
+      "D. Divide them into different social classes"
+    ],
+    "answer": "A",
+    "topic": "The Song of the Women - Style",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 862,
+    "question": "The use of the word 'grieved' in Neto's title implies that the land:",
+    "options": [
+      "A. Is actively suffering from historical wounds",
+      "B. Has lost its capacity to produce crops",
+      "C. Is mourning the death of a specific leader",
+      "D. Is angry with the actions of its people"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 863,
+    "question": "The image of the 'caged bird' in Angelou's poem is a metaphor for the:",
+    "options": [
+      "A. African American experience of oppression",
+      "B. Beauty of exotic pets in Western homes",
+      "C. Loss of habitat due to deforestation",
+      "D. Natural instinct of birds to migrate"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 864,
+    "question": "The persona in 'Raider of the Treasure Trove' describes his life as a raid because it has been:",
+    "options": [
+      "A. Full of sudden losses and unexpected gains",
+      "B. Marked by illegal and violent activities",
+      "C. A series of carefully planned achievements",
+      "D. Completely devoid of any meaningful events"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 865,
+    "question": "The tone of 'The Leader and the Led' can best be described as:",
+    "options": [
+      "A. Critical and didactic",
+      "B. Humorous and lighthearted",
+      "C. Nostalgic and romantic",
+      "D. Angry and aggressive"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Tone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 866,
+    "question": "In 'Look Back in Anger', Alison's decision to leave Jimmy is precipitated by:",
+    "options": [
+      "A. Jimmy's physical abuse during an argument",
+      "B. The interference of her father, Colonel Redfern",
+      "C. Her discovery of Jimmy's affair with Helena",
+      "D. The death of her unborn child"
+    ],
+    "answer": "C",
+    "topic": "Look Back in Anger - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 867,
+    "question": "The irony in 'Lion and the Jewel' is most evident when Sidi, who mocked Baroka's age, ends up:",
+    "options": [
+      "A. Marrying him and becoming his youngest wife",
+      "B. Becoming the new Bale of Ilujinle",
+      "C. Eloping with the photographer to Lagos",
+      "D. Rejecting both Baroka and Lakunle"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 868,
+    "question": "Adah's determination to get an education in Nigeria despite the disapproval of her community shows her:",
+    "options": [
+      "A. Strong will and desire to break gender barriers",
+      "B. Disrespect for her parents and traditions",
+      "C. Desire to become a political leader",
+      "D. Belief in the superiority of Western culture"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 869,
+    "question": "The fate of the squatters in 'Unexpected Joy at Dawn' highlights the:",
+    "options": [
+      "A. Precarious existence of undocumented migrants",
+      "B. Success of the local refugee integration program",
+      "C. Economic boom of the border towns",
+      "D. Hospitality of the host communities"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 870,
+    "question": "The opening lines of 'Black Woman' establish a tone of:",
+    "options": [
+      "A. Deep admiration and reverence",
+      "B. Critical analysis and skepticism",
+      "C. Melancholic reflection and loss",
+      "D. Playful teasing and humor"
+    ],
+    "answer": "A",
+    "topic": "Black Woman - Tone",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 871,
+    "question": "The physical setting of 'The Good Morrow' is primarily:",
+    "options": [
+      "A. A bedchamber where the lovers are waking up",
+      "B. A ship bound for the New World",
+      "C. A garden filled with exotic flowers",
+      "D. A mountain top overlooking the sea"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Setting",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 872,
+    "question": "In 'Bats', the poet's description of the bats' flight as 'a cloudy, confusing flutter' emphasizes their:",
+    "options": [
+      "A. Chaotic and disorienting movement",
+      "B. Graceful and coordinated aerobatics",
+      "C. Rapid and aggressive attacks",
+      "D. Slow and predictable path"
+    ],
+    "answer": "A",
+    "topic": "Bats - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 873,
+    "question": "The Magi in Eliot's poem are described as 'not a little afraid' primarily because of the:",
+    "options": [
+      "A. Unfamiliar and harsh terrain of the journey",
+      "B. Threat of King Herod's soldiers",
+      "C. The strange and unsettling nature of the birth",
+      "D. The loss of their precious gifts"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 874,
+    "question": "The role of the chorus in traditional drama is primarily to:",
+    "options": [
+      "A. Comment on the action and provide background",
+      "B. Play the role of the main protagonist",
+      "C. Direct the movement of the actors",
+      "D. Manage the stage props and scenery"
+    ],
+    "answer": "A",
+    "topic": "Drama - Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 875,
+    "question": "A play that ends in the downfall and death of the main character is classified as a:",
+    "options": [
+      "A. Tragedy",
+      "B. Comedy",
+      "C. Farce",
+      "D. Melodrama"
+    ],
+    "answer": "A",
+    "topic": "Drama - Types",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 876,
+    "question": "The use of a narrator who is a character in the story and uses 'I' is called:",
+    "options": [
+      "A. First-person point of view",
+      "B. Third-person omniscient point of view",
+      "C. Objective point of view",
+      "D. Stream of consciousness"
+    ],
+    "answer": "A",
+    "topic": "Prose - Narrative Techniques",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 877,
+    "question": "A character who remains unchanged throughout the narrative is described as:",
+    "options": [
+      "A. A flat character",
+      "B. A round character",
+      "C. A dynamic character",
+      "D. A foil character"
+    ],
+    "answer": "A",
+    "topic": "Prose - Characterization",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 878,
+    "question": "The central idea or message conveyed by a literary work is known as its:",
+    "options": [
+      "A. Theme",
+      "B. Plot",
+      "C. Setting",
+      "D. Style"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 879,
+    "question": "Read the extract: 'The politician promised to build a bridge where there was no river.' This is an example of:",
+    "options": [
+      "A. Irony",
+      "B. Hyperbole",
+      "C. Metaphor",
+      "D. Euphemism"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 880,
+    "question": "Read the extract: 'The soldier stood still, a statue of courage, as the bullets flew past.' The device used is:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Personification",
+      "D. Onomatopoeia"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 881,
+    "question": "In 'Lion and the Jewel', Lakunle's use of big, complex words that the villagers do not understand highlights his:",
+    "options": [
+      "A. Intellectual pretentiousness and alienation",
+      "B. Deep respect for traditional education",
+      "C. Natural talent for public speaking",
+      "D. Desire to become the next Bale"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Character (Lakunle)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 882,
+    "question": "The primary source of conflict between Jimmy and Alison in 'Look Back in Anger' is their differing:",
+    "options": [
+      "A. Social backgrounds and emotional expectations",
+      "B. Political affiliations and voting preferences",
+      "C. Religious beliefs and church attendance",
+      "D. Career ambitions and financial goals"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 883,
+    "question": "Adah's triumph at the end of 'Second Class Citizen' is primarily a victory of her:",
+    "options": [
+      "A. Resilience and refusal to be defined by others",
+      "B. Financial success in the stock market",
+      "C. Return to her traditional African roots",
+      "D. Ability to manipulate her husband"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 884,
+    "question": "The narrative perspective in 'Unexpected Joy at Dawn' shifts between characters to emphasize the:",
+    "options": [
+      "A. Complexities of the migrant experience",
+      "B. Unreliability of all the narrators",
+      "C. Fragmented nature of modern society",
+      "D. Linear progression of time"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 885,
+    "question": "The pastoral imagery in 'The Good Morrow' is used by Donne to create a sense of:",
+    "options": [
+      "A. Peace, innocence, and perfect love",
+      "B. Danger, wilderness, and isolation",
+      "C. Rural poverty and hardship",
+      "D. The fleeting nature of time"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Imagery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 886,
+    "question": "In 'Caged Bird', the 'grave of dreams' represents the:",
+    "options": [
+      "A. Death of hope and ambition due to oppression",
+      "B. Physical location of the bird's cage",
+      "C. Afterlife that the bird hopes to reach",
+      "D. Loss of the bird's natural singing voice"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 887,
+    "question": "The tone of 'The Journey of the Magi' is heavily influenced by the narrator's:",
+    "options": [
+      "A. Sense of alienation from his old world",
+      "B. Joy at returning to his homeland",
+      "C. Anger at the high cost of the journey",
+      "D. Fear of the new religion spreading"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Tone",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 888,
+    "question": "The structure of 'Bats' moves from the poet's initial repulsion to a final recognition of the bats':",
+    "options": [
+      "A. Place in the natural order of beauty",
+      "B. Threat to the safety of the town",
+      "C. Role in pollinating the local crops",
+      "D. Superiority over other bird species"
+    ],
+    "answer": "A",
+    "topic": "Bats - Structure",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 889,
+    "question": "The persona in 'The Grieved Lands' calls upon the ancestors to:",
+    "options": [
+      "A. Rise up and fight against modern oppression",
+      "B. Forgive the colonial masters for their actions",
+      "C. Guide the people back to traditional ways",
+      "D. Provide food and shelter for the living"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 890,
+    "question": "The use of animal characters in 'The Leader and the Led' is an example of:",
+    "options": [
+      "A. An allegory",
+      "B. A farce",
+      "C. A tragedy",
+      "D. A ballad"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Style",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 891,
+    "question": "In 'Second Class Citizen', the education Adah receives in Nigeria primarily serves to:",
+    "options": [
+      "A. Awaken her desire for independence and equality",
+      "B. Prepare her for a life of domestic servitude",
+      "C. Make her reject all aspects of her culture",
+      "D. Ensure she becomes a wealthy businesswoman"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 892,
+    "question": "The physical deterioration of the squatters' camp in 'Unexpected Joy at Dawn' mirrors the:",
+    "options": [
+      "A. Psychological decay of the characters' hopes",
+      "B. Economic prosperity of the surrounding city",
+      "C. Modernization of the border infrastructure",
+      "D. Military strength of the host country"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 893,
+    "question": "The 'jewel' in Soyinka's play ultimately represents the:",
+    "options": [
+      "A. Beauty and vitality of the African tradition",
+      "B. Superficiality of modern Western education",
+      "C. Wealth of the colonial administration",
+      "D. Naivety of the young generation"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 894,
+    "question": "The ironing board in 'Look Back in Anger' is a symbol of Alison's:",
+    "options": [
+      "A. Oppressive domesticity and lack of purpose",
+      "B. Dedication to keeping the house spotless",
+      "C. Upper-class upbringing and good manners",
+      "D. Hidden talent as a fashion designer"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Symbols",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 895,
+    "question": "The use of the word 'caged' in Angelou's title immediately establishes a theme of:",
+    "options": [
+      "A. Confinement and restricted freedom",
+      "B. Protection from external dangers",
+      "C. Domestication of wild animals",
+      "D. Architectural design of the aviary"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 896,
+    "question": "The Magi in Eliot's poem are described as coming from 'the old dispensation', meaning they are from:",
+    "options": [
+      "A. A previous era of religious belief",
+      "B. A different political empire",
+      "C. A lower social class of society",
+      "D. A distant, unknown continent"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 897,
+    "question": "In 'Bats', the poet describes the bats as 'creatures of the night', which emphasizes their:",
+    "options": [
+      "A. Nocturnal nature and mysterious quality",
+      "B. Fear of the sunlight and warmth",
+      "C. Inability to see during the day",
+      "D. Role as predators of sleeping insects"
+    ],
+    "answer": "A",
+    "topic": "Bats - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 898,
+    "question": "The principal contrast in 'The Good Morrow' is between the lovers' past state of ignorance and their current:",
+    "options": [
+      "A. State of mutual awakening and love",
+      "B. Wealth and financial stability",
+      "C. Physical distance from each other",
+      "D. Fear of the outside world"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 899,
+    "question": "The tone of 'The Leader and the Led' becomes increasingly:",
+    "options": [
+      "A. Frustrated and critical of the leadership",
+      "B. Hopeful and optimistic about the future",
+      "C. Nostalgic for the old leadership",
+      "D. Indifferent to the political situation"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Tone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 900,
+    "question": "Read the extract: 'The wind howled in agony, as the ship sank into the abyss.' The literary device used is:",
+    "options": [
+      "A. Pathetic fallacy",
+      "B. Oxymoron",
+      "C. Hyperbole",
+      "D. Litotes"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 901,
+    "question": "A comparative analysis of Lakunle in 'Lion and the Jewel' and Jimmy Porter in 'Look Back in Anger' reveals that both characters:",
+    "options": [
+      "A. Harbor deep resentment towards the established social order",
+      "B. Successfully achieve their romantic goals through persistence",
+      "C. Reject their respective cultural backgrounds entirely",
+      "D. Rely on physical violence to solve their personal problems"
+    ],
+    "answer": "A",
+    "topic": "Cross-Text Comparison (Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 902,
+    "question": "Unlike Baroka, who uses tradition to his advantage, Jimmy Porter's downfall is largely caused by his:",
+    "options": [
+      "A. Inability to reconcile his ideals with his reality",
+      "B. Lack of formal education and social refinement",
+      "C. Overwhelming desire to inherit his father-in-law's wealth",
+      "D. Refusal to participate in any form of manual labor"
+    ],
+    "answer": "C",
+    "topic": "Cross-Text Comparison (Character)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 903,
+    "question": "The theme of female resilience is most prominently contrasted between Adah in 'Second Class Citizen' and:",
+    "options": [
+      "A. Alison in her initial submission to Jimmy's abuse",
+      "B. Sidi in her eventual acceptance of the Bale's proposal",
+      "C. Sadiku in her manipulative role within the palace",
+      "D. Helena in her sudden abandonment of the attic"
+    ],
+    "answer": "B",
+    "topic": "Cross-Text Comparison (Prose/Drama)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 904,
+    "question": "The motif of physical confinement is explored in all of the following texts EXCEPT:",
+    "options": [
+      "A. 'Look Back in Anger' through the cramped attic apartment",
+      "B. 'Caged Bird' through the image of the narrow cage",
+      "C. 'Unexpected Joy at Dawn' through the squatters' camp",
+      "D. 'The Good Morrow' through the lovers' bedchamber"
+    ],
+    "answer": "D",
+    "topic": "Cross-Text Comparison (Themes)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 905,
+    "question": "In 'The Journey of the Magi' and 'The Grieved Lands', the speakers both reflect on:",
+    "options": [
+      "A. The profound psychological impact of transformative journeys",
+      "B. The necessity of physical violence for political change",
+      "C. The joy of discovering a new and prosperous homeland",
+      "D. The complete rejection of their ancestral religious beliefs"
+    ],
+    "answer": "A",
+    "topic": "Cross-Text Comparison (Poetry)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 906,
+    "question": "Which pair of texts most strongly utilizes the natural world to reflect human emotional states?",
+    "options": [
+      "A. 'Second Class Citizen' and 'The Leader and the Led'",
+      "B. 'Look Back in Anger' and 'A Government Driver on his Retirement'",
+      "C. 'Bats' and 'The Song of the Women of the Land'",
+      "D. 'Lion and the Jewel' and 'The Journey of the Magi'"
+    ],
+    "answer": "C",
+    "topic": "Cross-Text Comparison (Stylistic Devices)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 907,
+    "question": "The use of animal imagery to satirize human political behavior is a central technique in:",
+    "options": [
+      "A. 'The Leader and the Led' by Niyi Osundare",
+      "B. 'Black Woman' by Leopold Sedar Senghor",
+      "C. 'The Good Morrow' by John Donne",
+      "D. 'Raider of the Treasure Trove' by Lade Wosornu"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 908,
+    "question": "In 'Second Class Citizen', Adah's internal conflict is primarily characterized by the tension between her:",
+    "options": [
+      "A. Traditional upbringing and modern aspirations",
+      "B. Love for Francis and her desire for independence",
+      "C. Nigerian heritage and British citizenship",
+      "D. Financial success and her family's poverty"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Character (Adah)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 909,
+    "question": "An unseen poem reads: 'The city sleeps, yet I wake / To the rhythm of a silent drum.' The literary device used here is:",
+    "options": [
+      "A. Personification and oxymoron",
+      "B. Simile and metaphor",
+      "C. Hyperbole and litotes",
+      "D. Synecdoche and metonymy"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 910,
+    "question": "An unseen prose excerpt describes a character whose actions contradict his stated morals. This is a clear example of:",
+    "options": [
+      "A. Situational irony",
+      "B. Verbal irony",
+      "C. Dramatic irony",
+      "D. Cosmic irony"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 911,
+    "question": "In 'Unexpected Joy at Dawn', Nii Tackie's encounter with various characters on his journey primarily serves to:",
+    "options": [
+      "A. Highlight the widespread nature of human displacement",
+      "B. Prove that border officials are universally corrupt",
+      "C. Suggest that finding his mother is impossible",
+      "D. Emphasize the superiority of Ghanaian culture"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 912,
+    "question": "The use of the second-person pronoun 'you' in an unseen poem is typically intended to:",
+    "options": [
+      "A. Directly engage the reader or a specific subject",
+      "B. Show that the poet is confused about the audience",
+      "C. Indicate that the poem is a historical narrative",
+      "D. Restrict the poem's meaning to a single person"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 913,
+    "question": "A dramatic technique where the audience knows a crucial piece of information that the protagonist does not is called:",
+    "options": [
+      "A. Dramatic irony",
+      "B. Soliloquy",
+      "C. Aside",
+      "D. Foreshadowing"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Drama)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 914,
+    "question": "In 'Lion and the Jewel', Lakunle's modern ideas are consistently undermined by:",
+    "options": [
+      "A. His hypocritical refusal to pay the bride price",
+      "B. His inability to speak the English language",
+      "C. His physical weakness compared to Baroka",
+      "D. The villagers' complete lack of interest in him"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Character (Lakunle)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 915,
+    "question": "The psychological impact of racism on immigrants in Britain is most directly depicted in:",
+    "options": [
+      "A. 'Second Class Citizen'",
+      "B. 'Unexpected Joy at Dawn'",
+      "C. 'Look Back in Anger'",
+      "D. 'The Journey of the Magi'"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 916,
+    "question": "An unseen drama extract features a protagonist who speaks in long, poetic monologues while the other characters speak in short, aggressive sentences. This contrast highlights the protagonist's:",
+    "options": [
+      "A. Isolation and superior intellect",
+      "B. Lack of communication skills",
+      "C. Desire to become a poet",
+      "D. Hidden villainous nature"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 917,
+    "question": "The tone of a literary work is best defined as the:",
+    "options": [
+      "A. Writer's attitude towards the subject matter",
+      "B. Emotional response of the characters",
+      "C. Physical setting where the story occurs",
+      "D. Sequence of events in the narrative"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Tone)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 918,
+    "question": "In 'Look Back in Anger', the character of Colonel Redfern represents the:",
+    "options": [
+      "A. Fading values of the British upper class",
+      "B. Rising power of the working class",
+      "C. Brutality of the colonial military",
+      "D. Ideal of a supportive father figure"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Colonel)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 919,
+    "question": "The 'squatters' camp' in 'Unexpected Joy at Dawn' is symbolic of:",
+    "options": [
+      "A. The temporary and precarious nature of migrant lives",
+      "B. The economic potential of the border regions",
+      "C. The failure of the local agricultural sector",
+      "D. The triumph of community over government"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 920,
+    "question": "An unseen poem: 'The broken bridge hangs over the river / A monument to the storm.' The primary mood created is:",
+    "options": [
+      "A. Reflective and somber",
+      "B. Joyful and celebratory",
+      "C. Tense and suspenseful",
+      "D. Angry and accusatory"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 921,
+    "question": "The concept of 'narrative distance' in prose refers to the:",
+    "options": [
+      "A. Spatial or psychological gap between the narrator and the story",
+      "B. Physical distance between the main characters",
+      "C. Length of time the story takes to read",
+      "D. Number of chapters in the novel"
+    ],
+    "answer": "A",
+    "topic": "Prose - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 922,
+    "question": "In 'Second Class Citizen', Francis's failure to support Adah financially is a reflection of his:",
+    "options": [
+      "A. Deep-seated insecurity and patriarchal pride",
+      "B. Physical illness and inability to work",
+      "C. Commitment to pursuing higher education",
+      "D. Desire to force Adah back to Nigeria"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Character (Francis)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 923,
+    "question": "Which poetic device is most prominent in the line: 'The caged bird sings of freedom'?",
+    "options": [
+      "A. Situational irony",
+      "B. Metaphor",
+      "C. Hyperbole",
+      "D. Simile"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Poetic Devices",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 924,
+    "question": "In 'Lion and the Jewel', the photographer serves as a symbol of:",
+    "options": [
+      "A. Modern technology and its disruptive influence",
+      "B. The village's connection to the outside world",
+      "C. Lakunle's failed attempts at modernization",
+      "D. Sidi's vanity and superficial desires"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 925,
+    "question": "An unseen prose passage: 'He walked into the room like a bull in a china shop.' The device used is:",
+    "options": [
+      "A. Simile",
+      "B. Metaphor",
+      "C. Personification",
+      "D. Metonymy"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 926,
+    "question": "The 'dream deferred' concept in African-American literature is most closely aligned with the theme of:",
+    "options": [
+      "A. Suppressed potential due to systemic oppression",
+      "B. The literal loss of sleep experienced by the character",
+      "C. The hope of returning to the African homeland",
+      "D. The celebration of material wealth"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 927,
+    "question": "In 'The Journey of the Magi', the poet's use of free verse primarily serves to:",
+    "options": [
+      "A. Reflect the natural rhythm of speech and thought",
+      "B. Show a lack of skill in traditional meter",
+      "C. Make the poem easier for children to read",
+      "D. Mock the structure of traditional hymns"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Style",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 928,
+    "question": "In 'Look Back in Anger', Jimmy's verbal attacks on Alison are primarily a projection of his:",
+    "options": [
+      "A. Deep frustration with his own social immobility",
+      "B. Genuine hatred for her aristocratic family",
+      "C. Secret desire to end the marriage quickly",
+      "D. Lack of respect for women in general"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 929,
+    "question": "An author's choice of words and phrasing is referred to as:",
+    "options": [
+      "A. Diction",
+      "B. Syntax",
+      "C. Imagery",
+      "D. Meter"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Diction)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 930,
+    "question": "The resolution of 'Second Class Citizen' is marked by Adah's realization that she must:",
+    "options": [
+      "A. Rely on her own strength to secure her future",
+      "B. Return to her family in Nigeria for support",
+      "C. Seek revenge on Francis and his family",
+      "D. Abandon her children to pursue her career"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 931,
+    "question": "In 'Unexpected Joy at Dawn', the use of multiple languages or dialects primarily serves to:",
+    "options": [
+      "A. Authenticate the cross-cultural border setting",
+      "B. Confuse the reader about the characters' origins",
+      "C. Show the superiority of the Ghanaian language",
+      "D. Highlight the lack of formal education"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Style",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 932,
+    "question": "An unseen poem: 'The sun is a golden coin / Spent on the ocean's floor.' This is an example of an extended:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 933,
+    "question": "Which of the following best describes the dramatic technique of 'breaking the fourth wall'?",
+    "options": [
+      "A. A character directly addressing the audience",
+      "B. The sudden collapse of the stage scenery",
+      "C. The insertion of a musical interlude",
+      "D. A rapid change in the lighting design"
+    ],
+    "answer": "A",
+    "topic": "Drama - Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 934,
+    "question": "In 'Lion and the Jewel', Baroka's cunning is best illustrated by his ability to:",
+    "options": [
+      "A. Manipulate Sadiku into spreading false information",
+      "B. Defeat Lakunle in a public debate",
+      "C. Withstand the physical challenges of youth",
+      "D. Persuade the villagers to reject modernity"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Character (Baroka)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 935,
+    "question": "The term 'bildungsroman' refers to a novel that focuses on the:",
+    "options": [
+      "A. Psychological and moral growth of the protagonist",
+      "B. Historical events of a specific nation",
+      "C. Romantic entanglements of the upper class",
+      "D. Political downfall of a corrupt leader"
+    ],
+    "answer": "A",
+    "topic": "Prose - Types",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 936,
+    "question": "In 'Bats', the poet's final realization about the creatures suggests that:",
+    "options": [
+      "A. Beauty can be found in unexpected and initially repulsive forms",
+      "B. Bats are actually harmless and friendly animals",
+      "C. Nighttime is superior to daytime for observation",
+      "D. The poet has decided to study zoology"
+    ],
+    "answer": "A",
+    "topic": "Bats - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 937,
+    "question": "The use of 'stream of consciousness' is most effective in conveying a character's:",
+    "options": [
+      "A. Internal psychological state and fragmented thoughts",
+      "B. Physical appearance and clothing style",
+      "C. Relationship with the natural environment",
+      "D. Political ideology and voting history"
+    ],
+    "answer": "A",
+    "topic": "Prose - Narrative Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 938,
+    "question": "In 'Look Back in Anger', Cliff Lewis' neutral stance between Jimmy and Alison primarily highlights his role as a:",
+    "options": [
+      "A. Peacemaker and stabilizing presence",
+      "B. Secret antagonist to Jimmy's happiness",
+      "C. Symbol of British political neutrality",
+      "D. Weak and indecisive character"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Cliff)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 939,
+    "question": "The 'irony of the setting' in a literary work often occurs when the physical environment:",
+    "options": [
+      "A. Directly contradicts the emotional state of the characters",
+      "B. Is described in excessive and unnecessary detail",
+      "C. Is constantly changing without reason",
+      "D. Has no impact on the plot or characters"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Irony)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 940,
+    "question": "An unseen drama extract ends with the protagonist saying, 'I have won the battle, but lost the war.' This is an example of:",
+    "options": [
+      "A. A paradoxical resolution",
+      "B. A comic ending",
+      "C. A deus ex machina",
+      "D. A soliloquy"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 941,
+    "question": "In 'Second Class Citizen', the education Adah receives in Nigeria primarily serves to:",
+    "options": [
+      "A. Awaken her desire for independence and equality",
+      "B. Prepare her for a life of domestic servitude",
+      "C. Make her reject all aspects of her culture",
+      "D. Ensure she becomes a wealthy businesswoman"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 942,
+    "question": "The physical journey in 'Unexpected Joy at Dawn' can be interpreted as a metaphor for:",
+    "options": [
+      "A. The search for identity and belonging",
+      "B. The economic migration to Europe",
+      "C. The literal transport of goods across borders",
+      "D. The return to pre-colonial African society"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 943,
+    "question": "The poem 'The Grieved Lands' primarily mourns the:",
+    "options": [
+      "A. Loss of African cultural heritage due to colonialism",
+      "B. Destruction of the environment by industrialization",
+      "C. Death of a specific political leader",
+      "D. Failure of the agricultural sector"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 944,
+    "question": "The primary rhetorical question posed in 'The Leader and the Led' addresses the:",
+    "options": [
+      "A. Lack of unity among the oppressed groups",
+      "B. Cruelty of the natural predators",
+      "C. Beauty of the forest ecosystem",
+      "D. Intelligence of the smaller animals"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 945,
+    "question": "In 'Raider of the Treasure Trove', the persona's reflection on his past reveals a tone of:",
+    "options": [
+      "A. Philosophical acceptance and wisdom",
+      "B. Bitter resentment and regret",
+      "C. Joyful nostalgia and longing",
+      "D. Terrifying fear of the future"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Tone",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 946,
+    "question": "The contrast between the driver's pride in his career and the government's indifference in Chibuike's poem highlights the theme of:",
+    "options": [
+      "A. The exploitation of loyal workers",
+      "B. The dangers of drunk driving",
+      "C. The benefits of modern transport",
+      "D. The corruption of the driver"
+    ],
+    "answer": "A",
+    "topic": "A Government Driver... - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 947,
+    "question": "The use of geographical imagery in 'The Good Morrow' serves to illustrate the:",
+    "options": [
+      "A. Boundless and self-contained nature of true love",
+      "B. Importance of physical travel for education",
+      "C. Vastness of the British Empire",
+      "D. Lovers' desire to escape their room"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Imagery",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 948,
+    "question": "In 'Caged Bird', the 'free bird' is described as daring to claim the sky, which symbolizes:",
+    "options": [
+      "A. The unhindered pursuit of opportunities and dreams",
+      "B. The dangers of flying too close to the sun",
+      "C. The natural instinct of birds to migrate",
+      "D. The physical strength of the free bird"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 949,
+    "question": "An unseen poem reads: 'The ancient walls whisper tales of the forgotten kings.' The device used is:",
+    "options": [
+      "A. Personification",
+      "B. Metaphor",
+      "C. Simile",
+      "D. Hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 950,
+    "question": "The term 'denouement' in literature refers to the:",
+    "options": [
+      "A. Final resolution of the plot's complexities",
+      "B. Introduction of the main characters",
+      "C. Climax of the narrative",
+      "D. Initial conflict in the story"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Plot)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 951,
+    "question": "The theme of cultural alienation is most explicitly explored in 'Second Class Citizen' when Adah:",
+    "options": [
+      "A. Struggles to adapt to the British weather and food",
+      "B. Decides to return to Nigeria immediately",
+      "C. Refuses to speak her native language",
+      "D. Rejects the help of other Nigerian immigrants"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 952,
+    "question": "In 'Lion and the Jewel', the conflict between Baroka and Lakunle is primarily a conflict between:",
+    "options": [
+      "A. Traditional wisdom and superficial modernity",
+      "B. Physical strength and intellectual prowess",
+      "C. Wealth and poverty",
+      "D. Christianity and Islam"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 953,
+    "question": "The character of Alison in 'Look Back in Anger' can be seen as a symbol of:",
+    "options": [
+      "A. The oppressive nature of upper-class convention",
+      "B. The struggles of the working-class woman",
+      "C. The ideal of a modern, independent wife",
+      "D. The failure of the British education system"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Alison)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 954,
+    "question": "An unseen prose passage describes a character who constantly interrupts others. This primarily serves to:",
+    "options": [
+      "A. Reveal their domineering personality",
+      "B. Show their deep knowledge of the subject",
+      "C. Indicate their nervousness and insecurity",
+      "D. Highlight their lack of education"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 955,
+    "question": "A literary work that uses humor and wit to expose societal flaws is known as a:",
+    "options": [
+      "A. Satire",
+      "B. Tragedy",
+      "C. Pastoral",
+      "D. Epic"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Satire)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 956,
+    "question": "In 'Unexpected Joy at Dawn', the narrative shifts between characters to primarily show the:",
+    "options": [
+      "A. Interconnectedness of the border-crossing experience",
+      "B. Unreliability of the Ghanaian police",
+      "C. Superiority of the Nigerian economy",
+      "D. Chaos of the squatters' camp"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Narrative Techniques",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 957,
+    "question": "The repetition of the word 'never' in an unseen poem primarily serves to emphasize the:",
+    "options": [
+      "A. Absolute certainty of the speaker's statement",
+      "B. Speaker's uncertainty about the future",
+      "C. Historical context of the poem",
+      "D. Rhythmic structure of the stanza"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 958,
+    "question": "Which of the following best describes the concept of 'cosmic irony'?",
+    "options": [
+      "A. The universe's indifference to human suffering",
+      "B. A character's deliberate deception of another",
+      "C. The audience knowing more than the character",
+      "D. A statement that means the opposite of what is said"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Irony)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 959,
+    "question": "In 'Lion and the Jewel', Lakunle's use of complex vocabulary that the villagers do not understand is an example of:",
+    "options": [
+      "A. Verbal irony",
+      "B. Dramatic irony",
+      "C. Situational irony",
+      "D. Cosmic irony"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Style",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 960,
+    "question": "The transition from the 'exposition' to the 'rising action' in a narrative is characterized by the:",
+    "options": [
+      "A. Introduction of the central conflict",
+      "B. Resolution of the main problem",
+      "C. Final climax of the story",
+      "D. Death of the protagonist"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Plot)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 961,
+    "question": "In 'Second Class Citizen', the theme of 'the outsider' is most evident in Adah's experiences at:",
+    "options": [
+      "A. The library and the hospital",
+      "B. Her home in Nigeria",
+      "C. The local market in London",
+      "D. Francis's family house"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 962,
+    "question": "The 'squatters' in 'Unexpected Joy at Dawn' are primarily searching for:",
+    "options": [
+      "A. Economic survival and a sense of community",
+      "B. Political asylum from a repressive regime",
+      "C. A way to return to their home countries",
+      "D. The ruins of an ancient civilization"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 963,
+    "question": "The visual element of the 'jewel' in Soyinka's play is most closely associated with the character of:",
+    "options": [
+      "A. Sidi",
+      "B. Sadiku",
+      "C. Lakunle",
+      "D. Baroka"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Symbols",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 964,
+    "question": "The primary source of Jimmy's anger in 'Look Back in Anger' is his feeling of being:",
+    "options": [
+      "A. Trapped by his social circumstances",
+      "B. Betrayed by his best friend Cliff",
+      "C. Unloved by his wife Alison",
+      "D. Underpaid by his employer"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 965,
+    "question": "An unseen poem: 'The world is too much with us; late and soon / Getting and spending, we lay waste our powers.' The main theme is:",
+    "options": [
+      "A. The destructive nature of materialism",
+      "B. The beauty of the natural world",
+      "C. The inevitability of death",
+      "D. The joy of human connection"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 966,
+    "question": "The use of a 'foil' character is most effective in highlighting the:",
+    "options": [
+      "A. Distinctive traits of the protagonist",
+      "B. Historical setting of the narrative",
+      "C. Author's personal political views",
+      "D. Climax of the story"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Characterization)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 967,
+    "question": "The term 'verse' in poetry refers to:",
+    "options": [
+      "A. A single line of metrical writing",
+      "B. A group of stanzas in a poem",
+      "C. The rhyme scheme of a sonnet",
+      "D. The emotional tone of the poem"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Structure",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 968,
+    "question": "In 'The Journey of the Magi', the Magi's return to their homeland is characterized by a feeling of:",
+    "options": [
+      "A. Discomfort and alienation",
+      "B. Joy and celebration",
+      "C. Fear of the authorities",
+      "D. Desire for more travel"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 969,
+    "question": "The 'caged bird' in Angelou's poem is depicted as singing because it:",
+    "options": [
+      "A. Has no other way to express its despair",
+      "B. Is happy with its comfortable cage",
+      "C. Wants to attract a mate",
+      "D. Is trained to sing for humans"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 970,
+    "question": "An unseen drama extract features a character who speaks in prose while all others speak in verse. This technique primarily serves to:",
+    "options": [
+      "A. Highlight the character's lower social class or realism",
+      "B. Show the character's lack of education",
+      "C. Indicate the character's physical illness",
+      "D. Suggest the character is from another country"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 971,
+    "question": "The primary conflict in 'Lion and the Jewel' is resolved through:",
+    "options": [
+      "A. Baroka's cunning manipulation of Sidi's vanity",
+      "B. Lakunle's intellectual persuasion of the village",
+      "C. Sadiku's intervention on behalf of Sidi",
+      "D. The photographer's influence on the Bale"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 972,
+    "question": "In 'Second Class Citizen', Adah's relationship with her children is characterized by her:",
+    "options": [
+      "A. Fierce protectiveness and desire for their future",
+      "B. Indifference and neglect",
+      "C. Overwhelming fear of losing them",
+      "D. Desire to send them back to Nigeria"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Character (Adah)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 973,
+    "question": "The theme of 'hope' in 'Unexpected Joy at Dawn' is most strongly symbolized by:",
+    "options": [
+      "A. The dawn itself and the search for family",
+      "B. The physical structure of the squatters' camp",
+      "C. The border crossing process",
+      "D. The characters' constant movement"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 974,
+    "question": "The use of 'animalistic' imagery to describe Jimmy in 'Look Back in Anger' primarily emphasizes his:",
+    "options": [
+      "A. Primal and aggressive nature",
+      "B. Connection to the natural world",
+      "C. Lack of human intelligence",
+      "D. Physical strength and agility"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 975,
+    "question": "An unseen poem: 'The fog comes on little cat feet.' The device used is:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 976,
+    "question": "The term 'assonance' refers to the repetition of:",
+    "options": [
+      "A. Vowel sounds in nearby words",
+      "B. Consonant sounds at the start of words",
+      "C. The same word at the start of clauses",
+      "D. The final syllables of lines"
+    ],
+    "answer": "A",
+    "topic": "Poetry - Poetic Devices",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 977,
+    "question": "The 'grieved lands' in Neto's poem are personified to emphasize their:",
+    "options": [
+      "A. Capacity for suffering and resilience",
+      "B. Physical beauty and fertility",
+      "C. Political independence",
+      "D. Abundance of natural resources"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Imagery",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 978,
+    "question": "In 'The Leader and the Led', the animals' failure to choose a leader is a critique of:",
+    "options": [
+      "A. The divisive nature of tribal politics",
+      "B. The superiority of the lion",
+      "C. The lack of intelligence among animals",
+      "D. The dangers of the natural environment"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 979,
+    "question": "The 'treasure trove' in Wosornu's poem is ultimately revealed to be:",
+    "options": [
+      "A. The sum of the poet's life experiences",
+      "B. A literal chest of gold",
+      "C. The poet's romantic partner",
+      "D. The poet's political legacy"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 980,
+    "question": "An unseen prose passage: 'She was a walking encyclopedia, always ready with an answer.' The device is:",
+    "options": [
+      "A. Metaphor",
+      "B. Simile",
+      "C. Metonymy",
+      "D. Synecdoche"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 981,
+    "question": "A play that blends tragic and comic elements is known as a:",
+    "options": [
+      "A. Tragicomedy",
+      "B. Melodrama",
+      "C. Farce",
+      "D. Masque"
+    ],
+    "answer": "A",
+    "topic": "Drama - Types",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 982,
+    "question": "The primary function of 'comic relief' in a tragedy is to:",
+    "options": [
+      "A. Provide a temporary break from tragic tension",
+      "B. Completely change the tone of the play",
+      "C. Mock the protagonist's suffering",
+      "D. Introduce a new subplot"
+    ],
+    "answer": "A",
+    "topic": "Drama - Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 983,
+    "question": "In 'Lion and the Jewel', the character of Lakunle can be best described as a:",
+    "options": [
+      "A. Foil to Baroka's traditional wisdom",
+      "B. Villainous antagonist to the village",
+      "C. Tragic hero who fails to win Sidi",
+      "D. Comic sidekick to the Bale"
+    ],
+    "answer": "A",
+    "topic": "Lion and the Jewel - Character (Lakunle)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 984,
+    "question": "The 'ironing board' in 'Look Back in Anger' is a symbol of:",
+    "options": [
+      "A. Alison's domestic entrapment",
+      "B. Jimmy's commitment to housework",
+      "C. Cliff's helpful nature",
+      "D. Helena's upper-class skills"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 985,
+    "question": "In 'Second Class Citizen', Adah's constant struggle for education highlights the theme of:",
+    "options": [
+      "A. Female empowerment against societal norms",
+      "B. The failure of the Nigerian education system",
+      "C. The importance of wealth in achieving success",
+      "D. The dangers of Western education"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 986,
+    "question": "The novel 'Unexpected Joy at Dawn' is primarily set in:",
+    "options": [
+      "A. A border town between Ghana and Nigeria",
+      "B. The capital city of Ghana",
+      "C. A rural village in Nigeria",
+      "D. A refugee camp in Europe"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Setting",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 987,
+    "question": "In 'The Good Morrow', Donne argues that true love makes physical exploration unnecessary because:",
+    "options": [
+      "A. The lovers find their complete world in each other",
+      "B. The world beyond their room is too dangerous",
+      "C. They are both too poor to travel",
+      "D. Science has mapped the entire globe"
+    ],
+    "answer": "A",
+    "topic": "The Good Morrow - Themes",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 988,
+    "question": "The 'caged bird' in Angelou's poem is a metaphor for the:",
+    "options": [
+      "A. African American experience of oppression",
+      "B. Beauty of exotic pets in Western homes",
+      "C. Loss of habitat due to deforestation",
+      "D. Natural instinct of birds to migrate"
+    ],
+    "answer": "A",
+    "topic": "Caged Bird - Themes",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 989,
+    "question": "In 'The Journey of the Magi', the narrator's later reflection suggests he finds his old religion:",
+    "options": [
+      "A. Unsatisfactory and outdated",
+      "B. Completely true and satisfying",
+      "C. Superior to the new faith",
+      "D. Irrelevant to his daily life"
+    ],
+    "answer": "A",
+    "topic": "The Journey of the Magi - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 990,
+    "question": "In 'Bats', the poet's description of the creatures changes from 'horror' to 'beautiful' because:",
+    "options": [
+      "A. He sees them in the fading light of sunset",
+      "B. They stop flying and sleep in the cave",
+      "C. He realizes they are harmless to humans",
+      "D. His guide explains their ecological importance"
+    ],
+    "answer": "A",
+    "topic": "Bats - Plot",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 991,
+    "question": "A literary device in which the writer addresses an absent person or a personified abstraction is called:",
+    "options": [
+      "A. Apostrophe",
+      "B. Personification",
+      "C. Synecdoche",
+      "D. Metonymy"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Apostrophe)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 992,
+    "question": "The term 'denouement' refers to the:",
+    "options": [
+      "A. Final resolution of the plot's complexities",
+      "B. Introduction of the main characters",
+      "C. Climax of the narrative",
+      "D. Initial conflict in the story"
+    ],
+    "answer": "A",
+    "topic": "Literary Principles (Plot)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 993,
+    "question": "The thematic preoccupation of 'The Grieved Lands' is the:",
+    "options": [
+      "A. Historical trauma of slavery and colonialism",
+      "B. Joy of African independence",
+      "C. Beauty of the African landscape",
+      "D. Technological progress of Europe"
+    ],
+    "answer": "A",
+    "topic": "The Grieved Lands - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 994,
+    "question": "In 'The Leader and the Led', Osundare utilizes the animal kingdom to:",
+    "options": [
+      "A. Allegorize the failures of political leadership",
+      "B. Encourage a return to hunting and gathering",
+      "C. Describe the ecological balance of the forest",
+      "D. Highlight the superiority of physical strength"
+    ],
+    "answer": "A",
+    "topic": "The Leader and the Led - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 995,
+    "question": "The 'treasure trove' in Wosornu's poem metaphorically represents:",
+    "options": [
+      "A. The accumulated wisdom from life's experiences",
+      "B. A literal chest of gold buried underground",
+      "C. The physical beauty of the persona's lover",
+      "D. The wealth acquired through political corruption"
+    ],
+    "answer": "A",
+    "topic": "Raider of the Treasure Trove - Symbols",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 996,
+    "question": "Chibuike's poem highlights the theme of:",
+    "options": [
+      "A. The dignity and dedication of labor",
+      "B. The corruption in government parastatals",
+      "C. The dangers of drunk driving",
+      "D. The modernization of the transport sector"
+    ],
+    "answer": "A",
+    "topic": "A Government Driver... - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 997,
+    "question": "In 'Look Back in Anger', Jimmy's verbal attacks on Alison are primarily a projection of his:",
+    "options": [
+      "A. Deep frustration with his own social immobility",
+      "B. Genuine hatred for her aristocratic family",
+      "C. Secret desire to end the marriage quickly",
+      "D. Lack of respect for women in general"
+    ],
+    "answer": "A",
+    "topic": "Look Back in Anger - Character (Jimmy)",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 998,
+    "question": "The primary reason Adah faces hostility from her husband's family in Nigeria is her:",
+    "options": [
+      "A. Decision to pursue education and financial independence",
+      "B. Refusal to cook traditional meals for Francis",
+      "C. Inability to bear a male child for the family",
+      "D. Conversion to a foreign religious belief"
+    ],
+    "answer": "A",
+    "topic": "Second Class Citizen - Themes",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 999,
+    "question": "The narrative structure of 'Unexpected Joy at Dawn' predominantly utilizes:",
+    "options": [
+      "A. Multiple perspectives and shifting viewpoints",
+      "B. A single, omniscient first-person narrator",
+      "C. Epistolary exchanges between the characters",
+      "D. A stream-of-consciousness internal monologue"
+    ],
+    "answer": "A",
+    "topic": "Unexpected Joy at Dawn - Narrative Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 1000,
+    "question": "An unseen poem reads: 'The ancient walls whisper tales of the forgotten kings.' The device used is:",
+    "options": [
+      "A. Personification",
+      "B. Metaphor",
+      "C. Simile",
+      "D. Hyperbole"
+    ],
+    "answer": "A",
+    "topic": "Literary Appreciation (Unseen)",
+    "difficulty": "Easy"
   }
 ]
