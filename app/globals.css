@@ -397,6 +397,31 @@ html, body {
   }
 }
 
+/* Lightweight GPU-composited landing marquee & fast mobile tap responsiveness */
+@keyframes landing-marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.landing-marquee-track {
+  animation: landing-marquee 26s linear infinite;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .landing-marquee-track {
+    animation: none;
+  }
+}
+
+button, a, [role="button"] {
+  touch-action: manipulation;
+}
+
 /* Enable text selection on desktop */
 @media (min-width: 1024px) {
   body {

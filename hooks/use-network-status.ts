@@ -1,8 +1,6 @@
 "use client"
 
 import { useState, useEffect, useCallback } from "react"
-import { db } from "@/lib/firebase"
-import { doc, getDocFromServer } from "firebase/firestore"
 
 interface NetworkStatus {
   isOnline: boolean
@@ -15,7 +13,9 @@ export function useNetworkStatus(): NetworkStatus {
   const [isOnline, setIsOnline] = useState<boolean>(
     typeof window !== "undefined" ? navigator.onLine : true
   )
-  const [isNetworkUnstable, setIsNetworkUnstable] = useState<boolean>(false)
+  const [isNetworkUnstable, setIsNetworkUnstable] = useState<boolean>(
+    typeof window !== "undefined" ? !navigator.onLine : false
+  )
   const [isChecking, setIsChecking] = useState<boolean>(false)
 
   const checkPing = useCallback(async (): Promise<boolean> => {
@@ -28,7 +28,6 @@ export function useNetworkStatus(): NetworkStatus {
 
     setIsChecking(true)
     try {
-      // Use cache-busting fetch to verify active internet connectivity
       const controller = new AbortController()
       const timeoutId = setTimeout(() => controller.abort(), 4000)
 
@@ -40,7 +39,7 @@ export function useNetworkStatus(): NetworkStatus {
 
       clearTimeout(timeoutId)
 
-      const online = response !== null && response.ok || navigator.onLine
+      const online = (response !== null && response.ok) || navigator.onLine
       setIsOnline(online)
       setIsNetworkUnstable(!online)
       return online
@@ -58,7 +57,7 @@ export function useNetworkStatus(): NetworkStatus {
 
     const handleOnline = () => {
       setIsOnline(true)
-      checkPing()
+      setIsNetworkUnstable(false)
     }
 
     const handleOffline = () => {
@@ -69,14 +68,11 @@ export function useNetworkStatus(): NetworkStatus {
     window.addEventListener("online", handleOnline)
     window.addEventListener("offline", handleOffline)
 
-    // Initial ping check
-    checkPing()
-
     return () => {
       window.removeEventListener("online", handleOnline)
       window.removeEventListener("offline", handleOffline)
     }
-  }, [checkPing])
+  }, [])
 
   return {
     isOnline,

@@ -5,10 +5,6 @@ import dynamic from "next/dynamic"
 import { Home, Crown, User, ShieldCheck, MessageCircle, TrendingUp, Sun, Moon, LogOut, RotateCw, PanelLeftClose, PanelLeft } from "lucide-react"
 import { useTheme } from "next-themes"
 import { LandingView } from "@/components/landing-view"
-import { AuthView } from "@/components/auth-view"
-import { DashboardView } from "@/components/dashboard-view"
-import { UnstableNetworkScreen } from "@/components/unstable-network-screen"
-import { QuotaExceededScreen } from "@/components/quota-exceeded-screen"
 import { subscribeQuotaExceeded, resetQuotaExceededState } from "@/lib/quota"
 import { readCache } from "@/lib/cache"
 import { createOrGetChatSession } from "@/lib/dm"
@@ -30,6 +26,10 @@ import {
 import { type Survey } from "@/lib/surveys"
 import { useNotifications } from "@/hooks/use-notifications"
 
+const AuthView = dynamic(() => import("@/components/auth-view").then((m) => m.AuthView))
+const DashboardView = dynamic(() => import("@/components/dashboard-view").then((m) => m.DashboardView))
+const UnstableNetworkScreen = dynamic(() => import("@/components/unstable-network-screen").then((m) => m.UnstableNetworkScreen))
+const QuotaExceededScreen = dynamic(() => import("@/components/quota-exceeded-screen").then((m) => m.QuotaExceededScreen))
 const ProView = dynamic(() => import("@/components/pro-view").then((m) => m.ProView))
 const ProfileView = dynamic(() => import("@/components/profile-view").then((m) => m.ProfileView))
 const SubjectPicker = dynamic(() => import("@/components/subject-picker").then((m) => m.SubjectPicker))

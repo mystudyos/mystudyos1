@@ -1,8 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { Download, X, Smartphone } from "lucide-react"
-import { getFCMServiceWorker } from "@/lib/fcm-client"
+import { Smartphone } from "lucide-react"
 
 export function PWARegistration() {
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null)
@@ -10,8 +9,19 @@ export function PWARegistration() {
   const [canShowInstall, setCanShowInstall] = useState(false)
 
   useEffect(() => {
-    // Register the single unified Service Worker for both PWA install & FCM push
-    getFCMServiceWorker()
+    // Defer Service Worker registration until browser is idle so it never blocks FCP/LCP
+    let idleId: number | null = null
+    let swTimer: ReturnType<typeof setTimeout> | null = null
+    const registerSW = () => {
+      import("@/lib/fcm-client")
+        .then((m) => m.getFCMServiceWorker())
+        .catch(() => {})
+    }
+    if (typeof window !== "undefined" && "requestIdleCallback" in window) {
+      idleId = (window as any).requestIdleCallback(registerSW, { timeout: 2500 })
+    } else {
+      swTimer = setTimeout(registerSW, 1200)
+    }
 
     // Check if Notification popup (1st popup) is already resolved or not needed
     const isNotificationResolved = () => {
@@ -60,6 +70,10 @@ export function PWARegistration() {
 
     return () => {
       if (delayTimer) clearTimeout(delayTimer)
+      if (swTimer) clearTimeout(swTimer)
+      if (idleId !== null && typeof window !== "undefined" && "cancelIdleCallback" in window) {
+        ;(window as any).cancelIdleCallback(idleId)
+      }
       window.removeEventListener("beforeinstallprompt", handleBeforeInstallPrompt)
       window.removeEventListener("studyos-notification-prompt-resolved", handleNotificationResolved)
     }

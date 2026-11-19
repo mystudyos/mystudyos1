@@ -18,56 +18,6 @@ import {
   type SSSSubjectKey,
 } from "@/lib/sss-config"
 import { shuffleArray, type Question } from "@/lib/question-types"
-import necoAccountingJson from "../Json/NECO/Accounting.json"
-import necoAgricJson from "../Json/NECO/Agricsci.json"
-import necoBiologyJson from "../Json/NECO/Biology.json"
-import necoChemistryJson from "../Json/NECO/Chemistry.json"
-import necoCivicJson from "../Json/NECO/Civic.json"
-import necoCommerceJson from "../Json/NECO/Commerce.json"
-import necoComputerJson from "../Json/NECO/Computer.json"
-import necoCrsJson from "../Json/NECO/Crs.json"
-import necoEconomicsJson from "../Json/NECO/Economics.json"
-import necoEnglishJson from "../Json/NECO/English.json"
-import necoGovernmentJson from "../Json/NECO/Government.json"
-import necoHealthEduJson from "../Json/NECO/HealthEdu.json"
-import necoLiteratureJson from "../Json/NECO/Literature.json"
-import necoMathematicsJson from "../Json/NECO/Mathematics.json"
-import necoNutritionJson from "../Json/NECO/Nutrition.json"
-import necoPhysicsJson from "../Json/NECO/Physics.json"
-import necoVirtualArtJson from "../Json/NECO/VirtualArt.json"
-import waecAccountingJson from "../Json/WAEC/FINANCIAL ACCOUNTS.json"
-import waecAgricJson from "../Json/WAEC/AGRIC.json"
-import waecAnimalHusbandryJson from "../Json/WAEC/ANIMAL HUSBANDRY.json"
-import waecBiologyJson from "../Json/WAEC/BIOLOGY.json"
-import waecChemistryJson from "../Json/WAEC/CHEMISTRY.json"
-import waecCivicJson from "../Json/WAEC/CIVIC EDUCATION.json"
-import waecCommerceJson from "../Json/WAEC/COMMERCE.json"
-import waecComputerJson from "../Json/WAEC/COMPUTER.json"
-import waecCrsJson from "../Json/WAEC/CRS.json"
-import waecDataProcessingJson from "../Json/WAEC/DATA PROCESSING.json"
-import waecEconomicsJson from "../Json/WAEC/ECONOMICS.json"
-import waecEnglishJson from "../Json/WAEC/ENGLISH.json"
-import waecFrenchJson from "../Json/WAEC/FRENCH.json"
-import waecGeographyJson from "../Json/WAEC/GEOGRAPHY.json"
-import waecGovernmentJson from "../Json/WAEC/GOVERNMENT.json"
-import waecHistoryJson from "../Json/WAEC/HISTORY.json"
-import waecIctJson from "../Json/WAEC/ICT.json"
-import waecIrkJson from "../Json/WAEC/IRS.json"
-import waecLiteratureJson from "../Json/WAEC/LITERATURE.json"
-import waecMarketingJson from "../Json/WAEC/MARKETING.json"
-import waecMathematicsJson from "../Json/WAEC/MATHEMATICS.json"
-import waecPhysicsJson from "../Json/WAEC/PHYSICS.json"
-import waecYorubaJson from "../Json/WAEC/YORUBA.json"
-import jambAccountingJson from "../Json/JAMB/Accounting.json"
-import jambBiologyJson from "../Json/JAMB/Biology.json"
-import jambChemistryJson from "../Json/JAMB/Chemistry.json"
-import jambCrsJson from "../Json/JAMB/Crs.json"
-import jambEnglishJson from "../Json/JAMB/English.json"
-import jambGeographyJson from "../Json/JAMB/Geography.json"
-import jambIrkJson from "../Json/JAMB/Islamic.json"
-import jambLiteratureJson from "../Json/JAMB/Literature.json"
-import jambMathematicsJson from "../Json/JAMB/Mathematics.json"
-import jambPhysicsJson from "../Json/JAMB/Physics.json"
 
 interface RawJsonQuestion {
   id: number | string
@@ -123,63 +73,65 @@ function mapNecoJsonToQuestions(
   })
 }
 
-const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
-  accounting: necoAccountingJson as RawJsonQuestion[],
-  agriculture: necoAgricJson as RawJsonQuestion[],
-  biology: necoBiologyJson as RawJsonQuestion[],
-  chemistry: necoChemistryJson as RawJsonQuestion[],
-  civiledu: necoCivicJson as RawJsonQuestion[],
-  commerce: necoCommerceJson as RawJsonQuestion[],
-  computer: necoComputerJson as RawJsonQuestion[],
-  crk: necoCrsJson as RawJsonQuestion[],
-  economics: necoEconomicsJson as RawJsonQuestion[],
-  english: necoEnglishJson as RawJsonQuestion[],
-  englishlit: necoLiteratureJson as RawJsonQuestion[],
-  government: necoGovernmentJson as RawJsonQuestion[],
-  healthedu: necoHealthEduJson as RawJsonQuestion[],
-  mathematics: necoMathematicsJson as RawJsonQuestion[],
-  nutrition: necoNutritionJson as RawJsonQuestion[],
-  physics: necoPhysicsJson as RawJsonQuestion[],
-  visualart: necoVirtualArtJson as RawJsonQuestion[],
+type JsonPoolLoader = () => Promise<{ default: RawJsonQuestion[] }>
+
+const NECO_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
+  accounting: () => import("../Json/NECO/Accounting.json") as Promise<{ default: RawJsonQuestion[] }>,
+  agriculture: () => import("../Json/NECO/Agricsci.json") as Promise<{ default: RawJsonQuestion[] }>,
+  biology: () => import("../Json/NECO/Biology.json") as Promise<{ default: RawJsonQuestion[] }>,
+  chemistry: () => import("../Json/NECO/Chemistry.json") as Promise<{ default: RawJsonQuestion[] }>,
+  civiledu: () => import("../Json/NECO/Civic.json") as Promise<{ default: RawJsonQuestion[] }>,
+  commerce: () => import("../Json/NECO/Commerce.json") as Promise<{ default: RawJsonQuestion[] }>,
+  computer: () => import("../Json/NECO/Computer.json") as Promise<{ default: RawJsonQuestion[] }>,
+  crk: () => import("../Json/NECO/Crs.json") as Promise<{ default: RawJsonQuestion[] }>,
+  economics: () => import("../Json/NECO/Economics.json") as Promise<{ default: RawJsonQuestion[] }>,
+  english: () => import("../Json/NECO/English.json") as Promise<{ default: RawJsonQuestion[] }>,
+  englishlit: () => import("../Json/NECO/Literature.json") as Promise<{ default: RawJsonQuestion[] }>,
+  government: () => import("../Json/NECO/Government.json") as Promise<{ default: RawJsonQuestion[] }>,
+  healthedu: () => import("../Json/NECO/HealthEdu.json") as Promise<{ default: RawJsonQuestion[] }>,
+  mathematics: () => import("../Json/NECO/Mathematics.json") as Promise<{ default: RawJsonQuestion[] }>,
+  nutrition: () => import("../Json/NECO/Nutrition.json") as Promise<{ default: RawJsonQuestion[] }>,
+  physics: () => import("../Json/NECO/Physics.json") as Promise<{ default: RawJsonQuestion[] }>,
+  visualart: () => import("../Json/NECO/VirtualArt.json") as Promise<{ default: RawJsonQuestion[] }>,
 }
 
-const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
-  accounting: waecAccountingJson as RawJsonQuestion[],
-  agriculture: waecAgricJson as RawJsonQuestion[],
-  animalhusbandry: waecAnimalHusbandryJson as RawJsonQuestion[],
-  biology: waecBiologyJson as RawJsonQuestion[],
-  chemistry: waecChemistryJson as RawJsonQuestion[],
-  civiledu: waecCivicJson as RawJsonQuestion[],
-  commerce: waecCommerceJson as RawJsonQuestion[],
-  computer: waecComputerJson as RawJsonQuestion[],
-  crk: waecCrsJson as RawJsonQuestion[],
-  dataprocessing: waecDataProcessingJson as RawJsonQuestion[],
-  economics: waecEconomicsJson as RawJsonQuestion[],
-  english: waecEnglishJson as RawJsonQuestion[],
-  englishlit: waecLiteratureJson as RawJsonQuestion[],
-  french: waecFrenchJson as RawJsonQuestion[],
-  geography: waecGeographyJson as RawJsonQuestion[],
-  government: waecGovernmentJson as RawJsonQuestion[],
-  history: waecHistoryJson as RawJsonQuestion[],
-  ict: waecIctJson as RawJsonQuestion[],
-  irk: waecIrkJson as RawJsonQuestion[],
-  marketing: waecMarketingJson as RawJsonQuestion[],
-  mathematics: waecMathematicsJson as RawJsonQuestion[],
-  physics: waecPhysicsJson as RawJsonQuestion[],
-  yoruba: waecYorubaJson as RawJsonQuestion[],
+const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
+  accounting: () => import("../Json/WAEC/FINANCIAL ACCOUNTS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  agriculture: () => import("../Json/WAEC/AGRIC.json") as Promise<{ default: RawJsonQuestion[] }>,
+  animalhusbandry: () => import("../Json/WAEC/ANIMAL HUSBANDRY.json") as Promise<{ default: RawJsonQuestion[] }>,
+  biology: () => import("../Json/WAEC/BIOLOGY.json") as Promise<{ default: RawJsonQuestion[] }>,
+  chemistry: () => import("../Json/WAEC/CHEMISTRY.json") as Promise<{ default: RawJsonQuestion[] }>,
+  civiledu: () => import("../Json/WAEC/CIVIC EDUCATION.json") as Promise<{ default: RawJsonQuestion[] }>,
+  commerce: () => import("../Json/WAEC/COMMERCE.json") as Promise<{ default: RawJsonQuestion[] }>,
+  computer: () => import("../Json/WAEC/COMPUTER.json") as Promise<{ default: RawJsonQuestion[] }>,
+  crk: () => import("../Json/WAEC/CRS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  dataprocessing: () => import("../Json/WAEC/DATA PROCESSING.json") as Promise<{ default: RawJsonQuestion[] }>,
+  economics: () => import("../Json/WAEC/ECONOMICS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  english: () => import("../Json/WAEC/ENGLISH.json") as Promise<{ default: RawJsonQuestion[] }>,
+  englishlit: () => import("../Json/WAEC/LITERATURE.json") as Promise<{ default: RawJsonQuestion[] }>,
+  french: () => import("../Json/WAEC/FRENCH.json") as Promise<{ default: RawJsonQuestion[] }>,
+  geography: () => import("../Json/WAEC/GEOGRAPHY.json") as Promise<{ default: RawJsonQuestion[] }>,
+  government: () => import("../Json/WAEC/GOVERNMENT.json") as Promise<{ default: RawJsonQuestion[] }>,
+  history: () => import("../Json/WAEC/HISTORY.json") as Promise<{ default: RawJsonQuestion[] }>,
+  ict: () => import("../Json/WAEC/ICT.json") as Promise<{ default: RawJsonQuestion[] }>,
+  irk: () => import("../Json/WAEC/IRS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  marketing: () => import("../Json/WAEC/MARKETING.json") as Promise<{ default: RawJsonQuestion[] }>,
+  mathematics: () => import("../Json/WAEC/MATHEMATICS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  physics: () => import("../Json/WAEC/PHYSICS.json") as Promise<{ default: RawJsonQuestion[] }>,
+  yoruba: () => import("../Json/WAEC/YORUBA.json") as Promise<{ default: RawJsonQuestion[] }>,
 }
 
-const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, RawJsonQuestion[]>> = {
-  accounting: jambAccountingJson as RawJsonQuestion[],
-  biology: jambBiologyJson as RawJsonQuestion[],
-  chemistry: jambChemistryJson as RawJsonQuestion[],
-  crk: jambCrsJson as RawJsonQuestion[],
-  english: jambEnglishJson as RawJsonQuestion[],
-  englishlit: jambLiteratureJson as RawJsonQuestion[],
-  geography: jambGeographyJson as RawJsonQuestion[],
-  irk: jambIrkJson as RawJsonQuestion[],
-  mathematics: jambMathematicsJson as RawJsonQuestion[],
-  physics: jambPhysicsJson as RawJsonQuestion[],
+const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
+  accounting: () => import("../Json/JAMB/Accounting.json") as Promise<{ default: RawJsonQuestion[] }>,
+  biology: () => import("../Json/JAMB/Biology.json") as Promise<{ default: RawJsonQuestion[] }>,
+  chemistry: () => import("../Json/JAMB/Chemistry.json") as Promise<{ default: RawJsonQuestion[] }>,
+  crk: () => import("../Json/JAMB/Crs.json") as Promise<{ default: RawJsonQuestion[] }>,
+  english: () => import("../Json/JAMB/English.json") as Promise<{ default: RawJsonQuestion[] }>,
+  englishlit: () => import("../Json/JAMB/Literature.json") as Promise<{ default: RawJsonQuestion[] }>,
+  geography: () => import("../Json/JAMB/Geography.json") as Promise<{ default: RawJsonQuestion[] }>,
+  irk: () => import("../Json/JAMB/Islamic.json") as Promise<{ default: RawJsonQuestion[] }>,
+  mathematics: () => import("../Json/JAMB/Mathematics.json") as Promise<{ default: RawJsonQuestion[] }>,
+  physics: () => import("../Json/JAMB/Physics.json") as Promise<{ default: RawJsonQuestion[] }>,
 }
 
 interface SSSSolidQuizProps {
@@ -215,22 +167,53 @@ export function SSSSolidQuiz({
   const paperLabel = paperType === "theory" ? "Theory" : "Objective"
   const topicLabel = `${examLabel} ${paperLabel} — Full Syllabus`
 
-  const questions = useMemo(() => {
+  const [questions, setQuestions] = useState<Question[]>([])
+  const [poolLoading, setPoolLoading] = useState(true)
+
+  useEffect(() => {
+    let active = true
     if (paperType !== "objective") {
-      return []
+      setQuestions([])
+      setPoolLoading(false)
+      return
     }
-    const rawPool =
+    const loader =
       examType === "neco"
         ? NECO_JSON_POOLS[subjectKey]
         : examType === "wassce"
           ? WAEC_JSON_POOLS[subjectKey]
           : JAMB_JSON_POOLS[subjectKey]
-    if (!rawPool || rawPool.length === 0) {
-      return []
+
+    if (!loader) {
+      setQuestions([])
+      setPoolLoading(false)
+      return
     }
-    const mapped = mapNecoJsonToQuestions(rawPool, subjectKey, examType)
-    const shuffled = shuffleArray(mapped)
-    return shuffled.slice(0, Math.min(questionCount, shuffled.length))
+
+    setPoolLoading(true)
+    loader()
+      .then((mod) => {
+        if (!active) return
+        const rawPool = mod.default || []
+        if (rawPool.length === 0) {
+          setQuestions([])
+        } else {
+          const mapped = mapNecoJsonToQuestions(rawPool, subjectKey, examType)
+          const shuffled = shuffleArray(mapped)
+          setQuestions(shuffled.slice(0, Math.min(questionCount, shuffled.length)))
+        }
+      })
+      .catch((err) => {
+        console.error("Failed to load SSS question pool:", err)
+        if (active) setQuestions([])
+      })
+      .finally(() => {
+        if (active) setPoolLoading(false)
+      })
+
+    return () => {
+      active = false
+    }
   }, [subjectKey, examType, paperType, questionCount])
 
   const [currentIdx, setCurrentIdx] = useState(0)
@@ -289,6 +272,17 @@ export function SSSSolidQuiz({
   useEffect(() => {
     if (timeLeft === 0 && !submitted && questions.length > 0) handleSubmit()
   }, [timeLeft, submitted, questions.length, handleSubmit])
+
+  if (poolLoading) {
+    return (
+      <div className="min-h-full flex flex-col items-center justify-center px-8 text-center">
+        <div className="w-8 h-8 rounded-full border-2 border-primary border-t-transparent animate-spin mb-4" />
+        <p className="text-sm font-medium text-muted-foreground">
+          Loading {subject.name} questions...
+        </p>
+      </div>
+    )
+  }
 
   if (questions.length === 0) {
     return (

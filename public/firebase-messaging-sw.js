@@ -85,13 +85,138 @@ self.addEventListener('notificationclick', function(event) {
   );
 });
 
-self.addEventListener('install', function() {
+const STATIC_CACHE = 'studyos-static-v1';
+const PAGES_CACHE = 'studyos-pages-v1';
+const PRECACHE_ASSETS = [
+  '/',
+  '/manifest.json',
+  '/icon-logo.webp',
+  '/icon-192x192.png',
+  '/landing/student-blue.webp',
+  '/landing/student-coral.webp',
+  '/landing/student-green.webp',
+  '/landing/student-purple.webp',
+  '/landing/student-yellow.webp',
+];
+
+self.addEventListener('install', function(event) {
   self.skipWaiting();
+  event.waitUntil(
+    caches.open(STATIC_CACHE).then(function(cache) {
+      return cache.addAll(PRECACHE_ASSETS).catch(function() {});
+    })
+  );
 });
 
 self.addEventListener('activate', function(event) {
-  event.waitUntil(clients.claim());
+  event.waitUntil(
+    caches.keys().then(function(keys) {
+      return Promise.all(
+        keys.map(function(key) {
+          if (key !== STATIC_CACHE && key !== PAGES_CACHE) {
+            return caches.delete(key);
+          }
+        })
+      );
+    }).then(function() {
+      return clients.claim();
+    })
+  );
 });
 
-// Minimal fetch listener to satisfy PWA installability without altering network streams
-self.addEventListener('fetch', function() {});
+// Fast PWA shell & immutable static asset caching (skips API/auth/cross-origin requests)
+self.addEventListener('fetch', function(event) {
+  const req = event.request;
+  if (req.method !== 'GET') return;
+
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin) return;
+  if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/__/')) return;
+
+  // Immutable Next.js build assets: Cache-First (0ms on repeat PWA launches)
+  if (url.pathname.startsWith('/_next/static/')) {
+    event.respondWith(
+      caches.match(req).then(function(cached) {
+        if (cached) return cached;
+        return fetch(req).then(function(res) {
+          if (res && res.ok) {
+            const copy = res.clone();
+            caches.open(STATIC_CACHE).then(function(cache) {
+              cache.put(req, copy);
+            });
+          }
+          return res;
+        });
+      })
+    );
+    return;
+  }
+
+  // Navigation requests (PWA home-screen tap): Network-First with 1.5s fallback to cached shell
+  if (req.mode === 'navigate') {
+    event.respondWith(
+      new Promise(function(resolve) {
+        let settled = false;
+        const fallbackTimer = setTimeout(function() {
+          if (settled) return;
+          caches.match(req).then(function(cachedPage) {
+            return cachedPage || caches.match('/');
+          }).then(function(hit) {
+            if (hit && !settled) {
+              settled = true;
+              resolve(hit);
+            }
+          });
+        }, 1500);
+
+        fetch(req).then(function(networkRes) {
+          clearTimeout(fallbackTimer);
+          if (networkRes && networkRes.ok) {
+            const copy = networkRes.clone();
+            caches.open(PAGES_CACHE).then(function(cache) {
+              cache.put(req, copy);
+            });
+          }
+          if (!settled) {
+            settled = true;
+            resolve(networkRes);
+          }
+        }).catch(function() {
+          clearTimeout(fallbackTimer);
+          if (settled) return;
+          caches.match(req).then(function(cachedPage) {
+            return cachedPage || caches.match('/');
+          }).then(function(hit) {
+            settled = true;
+            resolve(hit || Response.error());
+          });
+        });
+      })
+    );
+    return;
+  }
+
+  // Local static images & icons: Stale-While-Revalidate
+  if (
+    url.pathname.startsWith('/landing/') ||
+    url.pathname.startsWith('/exams/') ||
+    /\.(?:webp|png|jpe?g|svg|ico)$/i.test(url.pathname)
+  ) {
+    event.respondWith(
+      caches.match(req).then(function(cached) {
+        const networkFetch = fetch(req).then(function(res) {
+          if (res && res.ok) {
+            const copy = res.clone();
+            caches.open(STATIC_CACHE).then(function(cache) {
+              cache.put(req, copy);
+            });
+          }
+          return res;
+        }).catch(function() {
+          return cached;
+        });
+        return cached || networkFetch;
+      })
+    );
+  }
+});

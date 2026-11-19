@@ -76,7 +76,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${dmSans.variable} ${paytoneOne.variable} bg-background`} suppressHydrationWarning>
-      <head>
+      <body className="font-sans antialiased">
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange>
+          <PWARegistration />
+          {children}
+          <ToastProvider />
+        </ThemeProvider>
+        <Analytics />
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-2NMQ5CW6G6" strategy="lazyOnload" />
         <Script id="google-analytics" strategy="lazyOnload">
           {`
@@ -87,14 +93,6 @@ export default function RootLayout({
             gtag('config', 'G-2NMQ5CW6G6');
           `}
         </Script>
-      </head>
-      <body className="font-sans antialiased">
-        <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange>
-          <PWARegistration />
-          {children}
-          <ToastProvider />
-        </ThemeProvider>
-        <Analytics />
       </body>
     </html>
   )

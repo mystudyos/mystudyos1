@@ -2,7 +2,6 @@
 
 import { useState, useRef } from "react"
 import Image from "next/image"
-import { motion, AnimatePresence } from "framer-motion"
 import {
   BookOpen,
   GraduationCap,
@@ -21,27 +20,27 @@ interface LandingViewProps {
 
 const CAPSULE_STUDENTS = {
   col1Top: {
-    src: "/landing/student-blue.png",
+    src: "/landing/student-blue.webp",
     alt: "Junior secondary student smiling with notebooks",
     bg: "#1849c6",
   },
   col1Bottom: {
-    src: "/landing/student-coral.png",
+    src: "/landing/student-coral.webp",
     alt: "Junior secondary student holding textbooks",
     bg: "#ea4c56",
   },
   col2Top: {
-    src: "/landing/student-purple.png",
+    src: "/landing/student-purple.webp",
     alt: "Junior secondary student ready for class",
     bg: "#9f92c7",
   },
   col2Bottom: {
-    src: "/landing/student-yellow.png",
+    src: "/landing/student-yellow.webp",
     alt: "Junior secondary student with study notes",
     bg: "#efc026",
   },
   col3Center: {
-    src: "/landing/student-green.png",
+    src: "/landing/student-green.webp",
     alt: "Junior secondary student smiling",
     bg: "#53b852",
   },
@@ -51,32 +50,32 @@ const EXAM_BOARDS = [
   {
     name: "WAEC",
     subtitle: "WASSCE (Senior Secondary)",
-    logo: "/exams/waec.png",
+    logo: "/exams/waec.webp",
   },
   {
     name: "NECO",
     subtitle: "SSCE & National Exams",
-    logo: "/exams/neco.png",
+    logo: "/exams/neco.webp",
   },
   {
     name: "JAMB",
     subtitle: "UTME Tertiary Entrance",
-    logo: "/exams/jamb.jpeg",
+    logo: "/exams/jamb.webp",
   },
   {
     name: "BECE",
     subtitle: "Junior Secondary",
-    logo: "/exams/bece.png",
+    logo: "/exams/bece.webp",
   },
   {
     name: "Post-UTME",
     subtitle: "University Screening",
-    logo: "/exams/post-utme.png",
+    logo: "/exams/post-utme.webp",
   },
   {
     name: "NABTEB",
     subtitle: "Technical & Business",
-    logo: "/exams/nabteb.png",
+    logo: "/exams/nabteb.webp",
   },
 ]
 
@@ -120,12 +119,7 @@ export function LandingView({
       className="h-dvh w-full bg-white text-slate-900 overflow-y-auto overflow-x-hidden scroll-smooth select-none"
     >
       {/* Fixed Floating Responsive Navbar */}
-      <motion.header
-        initial={{ opacity: 0, y: -16 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.4, ease: "easeOut" }}
-        className="fixed top-0 inset-x-0 z-50 px-4 sm:px-8 lg:px-14 pt-3 sm:pt-4 pointer-events-none"
-      >
+      <header className="fixed top-0 inset-x-0 z-50 px-4 sm:px-8 lg:px-14 pt-3 sm:pt-4 pointer-events-none">
         <div className="max-w-7xl mx-auto pointer-events-auto rounded-2xl bg-white/90 backdrop-blur-md border border-slate-200/80 px-4 sm:px-6 py-3">
           <div className="flex items-center justify-between gap-4">
             {/* Brand: Logo + StudyOS */}
@@ -135,7 +129,7 @@ export function LandingView({
               className="inline-flex items-center gap-2.5 text-left group"
             >
               <Image
-                src="/icon-192-removebg-preview.png"
+                src="/icon-logo.webp"
                 alt="StudyOS logo"
                 width={34}
                 height={34}
@@ -196,126 +190,86 @@ export function LandingView({
               aria-expanded={mobileMenuOpen}
               className="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 transition-colors"
             >
-              <AnimatePresence mode="wait" initial={false}>
-                {mobileMenuOpen ? (
-                  <motion.span
-                    key="close"
-                    initial={{ rotate: -90, opacity: 0 }}
-                    animate={{ rotate: 0, opacity: 1 }}
-                    exit={{ rotate: 90, opacity: 0 }}
-                    transition={{ duration: 0.18 }}
-                  >
-                    <X className="w-5 h-5" />
-                  </motion.span>
-                ) : (
-                  <motion.span
-                    key="menu"
-                    initial={{ rotate: 90, opacity: 0 }}
-                    animate={{ rotate: 0, opacity: 1 }}
-                    exit={{ rotate: -90, opacity: 0 }}
-                    transition={{ duration: 0.18 }}
-                  >
-                    <Menu className="w-5 h-5" />
-                  </motion.span>
-                )}
-              </AnimatePresence>
+              {mobileMenuOpen ? (
+                <X className="w-5 h-5" />
+              ) : (
+                <Menu className="w-5 h-5" />
+              )}
             </button>
           </div>
 
-          {/* Mobile Dropdown Menu with Smooth Framer Motion */}
-          <AnimatePresence>
-            {mobileMenuOpen && (
-              <motion.div
-                initial={{ height: 0, opacity: 0 }}
-                animate={{ height: "auto", opacity: 1 }}
-                exit={{ height: 0, opacity: 0 }}
-                transition={{ duration: 0.28, ease: [0.22, 1, 0.36, 1] }}
-                className="md:hidden overflow-hidden"
-              >
-                <div className="pt-4 pb-2 mt-3 border-t border-slate-200/80 flex flex-col gap-2">
-                  <button
-                    type="button"
-                    onClick={() => scrollToSection("about")}
-                    className="w-full text-left px-3 py-2.5 rounded-xl text-sm font-normal text-slate-700 hover:bg-primary/10 hover:text-primary transition-colors"
-                  >
-                    About
-                  </button>
+          {/* Mobile Dropdown Menu */}
+          {mobileMenuOpen && (
+            <div className="md:hidden overflow-hidden">
+              <div className="pt-4 pb-2 mt-3 border-t border-slate-200/80 flex flex-col gap-2">
+                <button
+                  type="button"
+                  onClick={() => scrollToSection("about")}
+                  className="w-full text-left px-3 py-2.5 rounded-xl text-sm font-normal text-slate-700 hover:bg-primary/10 hover:text-primary transition-colors"
+                >
+                  About
+                </button>
 
-                  {isAuthenticated ? (
-                    <div className="pt-2 mt-1 border-t border-slate-100">
-                      <button
-                        type="button"
-                        onClick={handleMainCta}
-                        className="w-full py-2.5 rounded-full rounded-br-lg bg-primary hover:bg-primary/90 text-primary-foreground text-sm font-normal transition-colors text-center"
-                      >
-                        {mainCtaLabel}
-                      </button>
-                    </div>
-                  ) : (
-                    <div className="grid grid-cols-2 gap-2.5 pt-2 mt-1 border-t border-slate-100">
-                      <button
-                        type="button"
-                        onClick={() => {
-                          setMobileMenuOpen(false)
-                          onContinueToAuth("signin")
-                        }}
-                        className="w-full py-2.5 rounded-full rounded-bl-lg bg-slate-100 hover:bg-slate-200 text-slate-800 text-sm font-normal transition-colors text-center"
-                      >
-                        Log in
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => {
-                          setMobileMenuOpen(false)
-                          onContinueToAuth("signup")
-                        }}
-                        className="w-full py-2.5 rounded-full rounded-br-lg bg-primary hover:bg-primary/90 text-primary-foreground text-sm font-normal transition-colors text-center"
-                      >
-                        Register
-                      </button>
-                    </div>
-                  )}
-                </div>
-              </motion.div>
-            )}
-          </AnimatePresence>
+                {isAuthenticated ? (
+                  <div className="pt-2 mt-1 border-t border-slate-100">
+                    <button
+                      type="button"
+                      onClick={handleMainCta}
+                      className="w-full py-2.5 rounded-full rounded-br-lg bg-primary hover:bg-primary/90 text-primary-foreground text-sm font-normal transition-colors text-center"
+                    >
+                      {mainCtaLabel}
+                    </button>
+                  </div>
+                ) : (
+                  <div className="grid grid-cols-2 gap-2.5 pt-2 mt-1 border-t border-slate-100">
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setMobileMenuOpen(false)
+                        onContinueToAuth("signin")
+                      }}
+                      className="w-full py-2.5 rounded-full rounded-bl-lg bg-slate-100 hover:bg-slate-200 text-slate-800 text-sm font-normal transition-colors text-center"
+                    >
+                      Log in
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setMobileMenuOpen(false)
+                        onContinueToAuth("signup")
+                      }}
+                      className="w-full py-2.5 rounded-full rounded-br-lg bg-primary hover:bg-primary/90 text-primary-foreground text-sm font-normal transition-colors text-center"
+                    >
+                      Register
+                    </button>
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
         </div>
-      </motion.header>
+      </header>
 
       {/* Main Dribbble Hero Canvas */}
+      <main>
       <div className="relative max-w-7xl mx-auto px-5 sm:px-10 lg:px-16 pt-28 sm:pt-32 pb-14 lg:pb-20">
 
         {/* Main Hero Grid */}
         <div className="mt-2 lg:mt-4 grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-8 items-center">
           {/* Left Column: Headline, Story, CTAs, Categories */}
           <div className="lg:col-span-6 flex flex-col items-start text-left z-10">
-            <motion.h1
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.1 }}
-              className="text-4xl sm:text-5xl lg:text-[54px] font-bold leading-[1.12] tracking-tight text-primary"
-            >
+            <h1 className="text-4xl sm:text-5xl lg:text-[54px] font-bold leading-[1.12] tracking-tight text-primary">
               Your Modern
               <br />
               Study Hub
-            </motion.h1>
+            </h1>
 
-            <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.18 }}
-              className="mt-5 sm:mt-6 text-sm sm:text-base text-black font-normal leading-relaxed max-w-md"
-            >
+            <p className="mt-5 sm:mt-6 text-sm sm:text-base text-black font-normal leading-relaxed max-w-md">
               [ StudyOS ] is an interactive exam preparation and learning hub built for Secondary students to master Exam past questions, build daily study streaks, and excel across every subject.
-            </motion.p>
+            </p>
 
             {/* Primary CTA Row (Dribbble Start Today) */}
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.25 }}
-              className="mt-7 sm:mt-8 flex flex-wrap items-center gap-4"
-            >
+            <div className="mt-7 sm:mt-8 flex flex-wrap items-center gap-4">
               <button
                 type="button"
                 onClick={handleMainCta}
@@ -323,31 +277,22 @@ export function LandingView({
               >
                 Start Today
               </button>
-            </motion.div>
+            </div>
 
             {/* Categories */}
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.32 }}
-              className="mt-10 sm:mt-14 lg:mt-16 w-full"
-            >
+            <div className="mt-10 sm:mt-14 lg:mt-16 w-full">
               <h2 className="text-lg sm:text-xl font-normal text-slate-900 mb-4 sm:mb-5">
                 Categories
               </h2>
               <div className="flex flex-wrap items-center gap-6 sm:gap-10 text-xs sm:text-sm font-normal text-slate-600">
-                <p
-                  className="hover:text-primary transition-colors text-sm"
-                >
-                  JSS1-3 (BECE Prep) 
+                <p className="hover:text-primary transition-colors text-sm">
+                  JSS1-3 (BECE Prep)
                 </p>
-                                <p
-                  className="hover:text-primary transition-colors text-sm"
-                >
-                  SSS1-3 (UTME, WAEC, NECO and Post-UTME) 
+                <p className="hover:text-primary transition-colors text-sm">
+                  SSS1-3 (UTME, WAEC, NECO and Post-UTME)
                 </p>
               </div>
-            </motion.div>
+            </div>
           </div>
 
           {/* Right Column: Staggered 5-Capsule Vertical Collage (Junior Secondary Faces) */}
@@ -355,10 +300,7 @@ export function LandingView({
             <div className="grid grid-cols-3 gap-3 sm:gap-5 items-center max-w-md sm:max-w-lg w-full">
               {/* Capsule Column 1 (Blue Top + Coral Bottom) */}
               <div className="flex flex-col gap-3.5 sm:gap-6 mt-6 sm:mt-12">
-                <motion.div
-                  initial={{ opacity: 0, y: 28 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.55, delay: 0.15 }}
+                <div
                   style={{ backgroundColor: CAPSULE_STUDENTS.col1Top.bg }}
                   className="relative w-full aspect-[1/2.05] rounded-full overflow-hidden"
                 >
@@ -370,12 +312,9 @@ export function LandingView({
                     sizes="(max-width: 768px) 30vw, 180px"
                     className="object-cover object-top"
                   />
-                </motion.div>
+                </div>
 
-                <motion.div
-                  initial={{ opacity: 0, y: 28 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.55, delay: 0.25 }}
+                <div
                   style={{ backgroundColor: CAPSULE_STUDENTS.col1Bottom.bg }}
                   className="relative w-full aspect-[1/1.85] rounded-full overflow-hidden"
                 >
@@ -386,15 +325,12 @@ export function LandingView({
                     sizes="(max-width: 768px) 30vw, 180px"
                     className="object-cover object-top"
                   />
-                </motion.div>
+                </div>
               </div>
 
               {/* Capsule Column 2 (Purple Top — Elevated + Yellow Bottom) */}
               <div className="flex flex-col gap-3.5 sm:gap-6 -mt-4 sm:-mt-10">
-                <motion.div
-                  initial={{ opacity: 0, y: -24 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.55, delay: 0.2 }}
+                <div
                   style={{ backgroundColor: CAPSULE_STUDENTS.col2Top.bg }}
                   className="relative w-full aspect-[1/2.05] rounded-full overflow-hidden"
                 >
@@ -406,12 +342,9 @@ export function LandingView({
                     sizes="(max-width: 768px) 30vw, 180px"
                     className="object-cover object-top"
                   />
-                </motion.div>
+                </div>
 
-                <motion.div
-                  initial={{ opacity: 0, y: 28 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.55, delay: 0.3 }}
+                <div
                   style={{ backgroundColor: CAPSULE_STUDENTS.col2Bottom.bg }}
                   className="relative w-full aspect-[1/1.95] rounded-full overflow-hidden"
                 >
@@ -422,15 +355,12 @@ export function LandingView({
                     sizes="(max-width: 768px) 30vw, 180px"
                     className="object-cover object-top"
                   />
-                </motion.div>
+                </div>
               </div>
 
               {/* Capsule Column 3 (Green Middle-Right) */}
               <div className="flex flex-col justify-center mt-4 sm:mt-10">
-                <motion.div
-                  initial={{ opacity: 0, x: 24 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ duration: 0.55, delay: 0.35 }}
+                <div
                   style={{ backgroundColor: CAPSULE_STUDENTS.col3Center.bg }}
                   className="relative w-full aspect-[1/2.05] rounded-full overflow-hidden"
                 >
@@ -442,19 +372,14 @@ export function LandingView({
                     sizes="(max-width: 768px) 30vw, 180px"
                     className="object-cover object-top"
                   />
-                </motion.div>
+                </div>
               </div>
             </div>
           </div>
         </div>
 
         {/* Center Continue Button */}
-        <motion.div
-          initial={{ opacity: 0, y: 16 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.4 }}
-          className="mt-12 lg:mt-14 flex flex-col items-center justify-center text-center"
-        >
+        <div className="mt-12 lg:mt-14 flex flex-col items-center justify-center text-center">
           <button
             type="button"
             onClick={handleMainCta}
@@ -463,10 +388,10 @@ export function LandingView({
             <span>{mainCtaLabel}</span>
             <ArrowRight className="w-4 h-4" />
           </button>
-          <p className="mt-2.5 text-xs text-slate-500 font-normal">
+          <p className="mt-2.5 text-xs text-slate-600 font-normal">
             New or Returning? Tap Continue
           </p>
-        </motion.div>
+        </div>
       </div>
 
       {/* Investor & Student Overview Sections: What StudyOS Is About, Who We Built It For, Benefits */}
@@ -474,12 +399,8 @@ export function LandingView({
         <div className="max-w-7xl mx-auto px-5 sm:px-10 lg:px-16 py-14 sm:py-16 lg:py-20 space-y-12 sm:space-y-16">
           {/* Section 1: About StudyOS, Who We Built It For, Benefits */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <motion.div
+            <div
               id="about"
-              initial={{ opacity: 0, y: 16 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.45 }}
               className="scroll-mt-28 rounded-2xl bg-white border border-slate-200/80 p-6"
             >
               <div className="w-10 h-10 rounded-xl bg-primary/10 text-primary flex items-center justify-center mb-4">
@@ -489,15 +410,9 @@ export function LandingView({
               <p className="text-sm text-black font-normal leading-relaxed">
                 StudyOS is a dedicated digital exam preparation platform aggregating thousands of verified past questions across BECE, WAEC (WASSCE), NECO, JAMB (UTME), and Post-UTME for all secondary school subjects with step-by-step explanations.
               </p>
-            </motion.div>
+            </div>
 
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.45, delay: 0.1 }}
-              className="scroll-mt-28 rounded-2xl bg-white border border-slate-200/80 p-6"
-            >
+            <div className="scroll-mt-28 rounded-2xl bg-white border border-slate-200/80 p-6">
               <div className="w-10 h-10 rounded-xl bg-primary/10 text-primary flex items-center justify-center mb-4">
                 <GraduationCap className="w-5 h-5" />
               </div>
@@ -505,15 +420,9 @@ export function LandingView({
               <p className="text-sm text-black font-normal leading-relaxed">
                 Purpose-built for Secondary School students (JSS 1–3 &amp; SSS 1–3 / Year 7–12) and partner schools preparing candidates for top performance across Junior and Senior national examinations.
               </p>
-            </motion.div>
+            </div>
 
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.45, delay: 0.2 }}
-              className="scroll-mt-28 rounded-2xl bg-white border border-slate-200/80 p-6"
-            >
+            <div className="scroll-mt-28 rounded-2xl bg-white border border-slate-200/80 p-6">
               <div className="w-10 h-10 rounded-xl bg-primary/10 text-primary flex items-center justify-center mb-4">
                 <Target className="w-5 h-5" />
               </div>
@@ -521,7 +430,7 @@ export function LandingView({
               <p className="text-sm text-black font-normal leading-relaxed">
                 Students practice under real timed exam simulation conditions, build protected daily exam streaks, track subject mastery, compete on the National Ranking Leaderboard, and study together in peer rooms.
               </p>
-            </motion.div>
+            </div>
           </div>
 
           {/* Section 2: Official Examination Boards Auto-Scrolling Marquee */}
@@ -540,42 +449,43 @@ export function LandingView({
               <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-10 sm:w-20 bg-linear-to-r from-slate-50/95 to-transparent" />
               <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-10 sm:w-20 bg-linear-to-l from-slate-50/95 to-transparent" />
 
-              <motion.div
-                className="flex items-center gap-4 sm:gap-6 w-max"
-                animate={{ x: ["0%", "-50%"] }}
-                transition={{
-                  repeat: Infinity,
-                  ease: "linear",
-                  duration: 26,
-                }}
-              >
-                {[...EXAM_BOARDS, ...EXAM_BOARDS].map((board, idx) => (
-                  <div
-                    key={`${board.name}-${idx}`}
-                    className="shrink-0 w-56 sm:w-64 h-20 sm:h-22 rounded-2xl bg-white border border-slate-200/80 px-4 py-3 flex items-center gap-3.5 shadow-[0_2px_10px_rgba(0,0,0,0.03)]"
-                  >
-                    <div className="shrink-0 w-12 h-12 sm:w-13 sm:h-13 rounded-xl bg-slate-50 border border-slate-100 p-1.5 flex items-center justify-center overflow-hidden">
-                      <img
-                        src={board.logo}
-                        alt={`${board.name} official logo`}
-                        className="w-full h-full object-contain shrink-0"
-                      />
+              <div className="landing-marquee-track flex items-center gap-4 sm:gap-6 w-max">
+                {[...EXAM_BOARDS, ...EXAM_BOARDS].map((board, idx) => {
+                  const isDuplicate = idx >= EXAM_BOARDS.length
+                  return (
+                    <div
+                      key={`${board.name}-${idx}`}
+                      aria-hidden={isDuplicate ? true : undefined}
+                      className="shrink-0 w-56 sm:w-64 h-20 sm:h-22 rounded-2xl bg-white border border-slate-200/80 px-4 py-3 flex items-center gap-3.5 shadow-[0_2px_10px_rgba(0,0,0,0.03)]"
+                    >
+                      <div className="shrink-0 w-12 h-12 sm:w-13 sm:h-13 rounded-xl bg-slate-50 border border-slate-100 p-1.5 flex items-center justify-center overflow-hidden">
+                        <img
+                          src={board.logo}
+                          alt={isDuplicate ? "" : `${board.name} official logo`}
+                          width={48}
+                          height={48}
+                          loading="lazy"
+                          decoding="async"
+                          className="w-full h-full object-contain shrink-0"
+                        />
+                      </div>
+                      <div className="min-w-0 flex-1 text-left">
+                        <p className="text-sm sm:text-base font-extrabold text-slate-900 leading-tight truncate">
+                          {board.name}
+                        </p>
+                        <p className="text-[11px] sm:text-xs text-slate-600 font-medium mt-0.5 truncate">
+                          {board.subtitle}
+                        </p>
+                      </div>
                     </div>
-                    <div className="min-w-0 flex-1 text-left">
-                      <p className="text-sm sm:text-base font-extrabold text-slate-900 leading-tight truncate">
-                        {board.name}
-                      </p>
-                      <p className="text-[11px] sm:text-xs text-slate-500 font-medium mt-0.5 truncate">
-                        {board.subtitle}
-                      </p>
-                    </div>
-                  </div>
-                ))}
-              </motion.div>
+                  )
+                })}
+              </div>
             </div>
           </div>
         </div>
       </div>
+      </main>
 
       {/* Responsive Bottom Footer */}
       <footer className="border-t border-slate-200/80 bg-white">
@@ -585,7 +495,7 @@ export function LandingView({
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-2.5 sm:gap-3 text-center md:text-left">
               <div className="inline-flex items-center gap-2">
                 <Image
-                  src="/icon-192-removebg-preview.png"
+                  src="/icon-logo.webp"
                   alt="StudyOS logo"
                   width={28}
                   height={28}
@@ -643,7 +553,7 @@ export function LandingView({
 
             {/* Right: Backed / Verified by Google Cloud with Official 4-Color SVG Logo */}
             <div className="inline-flex items-center gap-2.5 px-3.5 py-2 rounded-full bg-slate-50 border border-slate-200/80">
-              <span className="text-[11px] sm:text-xs font-medium text-slate-500">
+              <span className="text-[11px] sm:text-xs font-medium text-slate-600">
                 Verified by
               </span>
               <span className="inline-flex items-center gap-1.5">

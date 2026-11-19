@@ -7,18 +7,6 @@ import { MathText } from "./math-text"
 import { type SubjectKey, getSubjectByKey, getQuestionsForSubject, shuffleArray } from "@/lib/question-types"
 import type { Question } from "@/lib/question-types"
 import { ALL_QUESTIONS } from "@/lib/questions"
-import englishSolidJson from "../Json/BECE/English Lang_Solid Q's.json"
-import mathsSolidJson from "../Json/BECE/Maths_Solid Q's.json"
-import crsSolidJson from "../Json/BECE/CRS_Solid Q's.json"
-import bstSolidJson from "../Json/BECE/BST_Solid Q's.json"
-import pvsSolidJson from "../Json/BECE/PVS_Solid Q's.json"
-import bussSolidJson from "../Json/BECE/BUSS Solid Q's.json"
-import nveSolidJson from "../Json/BECE/NVE_Solid Q's.json"
-import ccaSolidJson from "../Json/BECE/CCA_Solid Q's.json"
-import historySolidJson from "../Json/BECE/History_Solid Q's.json"
-import frenchSolidJson from "../Json/BECE/French_Solid Q's.json"
-import yorubaSolidJson from "../Json/BECE/Yoruba_Solid Q's.json"
-import igboSolidJson from "../Json/BECE/Igbo_Solid Q's.json"
 
 function mapJsonToQuestions(json: any[], subjectId: string): Question[] {
   return json.map((q) => {
@@ -54,18 +42,22 @@ function mapJsonToQuestions(json: any[], subjectId: string): Question[] {
   })
 }
 
-const mappedEnglishJson = mapJsonToQuestions(englishSolidJson as any[], "english")
-const mappedMathsJson = mapJsonToQuestions(mathsSolidJson as any[], "mathematics")
-const mappedCrsJson = mapJsonToQuestions(crsSolidJson as any[], "crs")
-const mappedBstJson = mapJsonToQuestions(bstSolidJson as any[], "bst")
-const mappedPvsJson = mapJsonToQuestions(pvsSolidJson as any[], "pvs")
-const mappedBussJson = mapJsonToQuestions(bussSolidJson as any[], "business")
-const mappedNveJson = mapJsonToQuestions(nveSolidJson as any[], "nve")
-const mappedCcaJson = mapJsonToQuestions(ccaSolidJson as any[], "cca")
-const mappedHistoryJson = mapJsonToQuestions(historySolidJson as any[], "history")
-const mappedFrenchJson = mapJsonToQuestions(frenchSolidJson as any[], "french")
-const mappedYorubaJson = mapJsonToQuestions(yorubaSolidJson as any[], "yoruba")
-const mappedIgboJson = mapJsonToQuestions(igboSolidJson as any[], "igbo")
+type BecePoolLoader = () => Promise<{ default: any[] }>
+
+const BECE_JSON_LOADERS: Partial<Record<SubjectKey, BecePoolLoader>> = {
+  english: () => import("../Json/BECE/English Lang_Solid Q's.json") as Promise<{ default: any[] }>,
+  mathematics: () => import("../Json/BECE/Maths_Solid Q's.json") as Promise<{ default: any[] }>,
+  crs: () => import("../Json/BECE/CRS_Solid Q's.json") as Promise<{ default: any[] }>,
+  bst: () => import("../Json/BECE/BST_Solid Q's.json") as Promise<{ default: any[] }>,
+  pvs: () => import("../Json/BECE/PVS_Solid Q's.json") as Promise<{ default: any[] }>,
+  business: () => import("../Json/BECE/BUSS Solid Q's.json") as Promise<{ default: any[] }>,
+  nve: () => import("../Json/BECE/NVE_Solid Q's.json") as Promise<{ default: any[] }>,
+  cca: () => import("../Json/BECE/CCA_Solid Q's.json") as Promise<{ default: any[] }>,
+  history: () => import("../Json/BECE/History_Solid Q's.json") as Promise<{ default: any[] }>,
+  french: () => import("../Json/BECE/French_Solid Q's.json") as Promise<{ default: any[] }>,
+  yoruba: () => import("../Json/BECE/Yoruba_Solid Q's.json") as Promise<{ default: any[] }>,
+  igbo: () => import("../Json/BECE/Igbo_Solid Q's.json") as Promise<{ default: any[] }>,
+}
 
 interface SolidQuizProps {
   subjectKey: SubjectKey
@@ -85,53 +77,61 @@ interface SolidQuizProps {
 
 export function SolidQuiz({ subjectKey, questionCount, timeLimit, onBack, onComplete }: SolidQuizProps) {
   const subject = getSubjectByKey(subjectKey)
+  const [questions, setQuestions] = useState<Question[]>([])
+  const [poolLoading, setPoolLoading] = useState(true)
 
-  const questions = useMemo(() => {
-    let pool: Question[]
-    if (subjectKey === "english") {
-      pool = mappedEnglishJson
-    } else if (subjectKey === "mathematics") {
-      pool = mappedMathsJson
-    } else if (subjectKey === "crs") {
-      pool = mappedCrsJson
-    } else if (subjectKey === "bst") {
-      pool = mappedBstJson
-    } else if (subjectKey === "pvs") {
-      pool = mappedPvsJson
-    } else if (subjectKey === "business") {
-      pool = mappedBussJson
-    } else if (subjectKey === "nve") {
-      pool = mappedNveJson
-    } else if (subjectKey === "cca") {
-      pool = mappedCcaJson
-    } else if (subjectKey === "history") {
-      pool = mappedHistoryJson
-    } else if (subjectKey === "french") {
-      pool = mappedFrenchJson
-    } else if (subjectKey === "yoruba") {
-      pool = mappedYorubaJson
-    } else if (subjectKey === "igbo") {
-      pool = mappedIgboJson
-    } else {
-      pool = getQuestionsForSubject(subjectKey, ALL_QUESTIONS)
+  useEffect(() => {
+    let active = true
+    const loader = BECE_JSON_LOADERS[subjectKey]
+    if (!loader) {
+      const pool = getQuestionsForSubject(subjectKey, ALL_QUESTIONS)
+      const shuffled = shuffleArray(pool)
+      setQuestions(shuffled.slice(0, Math.min(questionCount, shuffled.length)))
+      setPoolLoading(false)
+      return
     }
-    const shuffled = shuffleArray(pool)
-    return shuffled.slice(0, Math.min(questionCount, shuffled.length))
+
+    setPoolLoading(true)
+    loader()
+      .then((mod) => {
+        if (!active) return
+        const pool = mapJsonToQuestions(mod.default || [], subjectKey)
+        const shuffled = shuffleArray(pool)
+        setQuestions(shuffled.slice(0, Math.min(questionCount, shuffled.length)))
+      })
+      .catch((err) => {
+        console.error("Failed to load BECE question pool:", err)
+        if (active) setQuestions([])
+      })
+      .finally(() => {
+        if (active) setPoolLoading(false)
+      })
+
+    return () => {
+      active = false
+    }
   }, [subjectKey, questionCount])
 
   const [currentIdx, setCurrentIdx] = useState(0)
-  const [answers, setAnswers] = useState<(number | null)[]>(Array(questions.length).fill(null))
+  const [answers, setAnswers] = useState<(number | null)[]>([])
   const [timeLeft, setTimeLeft] = useState(timeLimit * 60)
   const [submitted, setSubmitted] = useState(false)
   const [showConfirm, setShowConfirm] = useState(false)
   const [showStartWarning, setShowStartWarning] = useState(true)
   const timerRef = useRef<NodeJS.Timeout | null>(null)
 
+  useEffect(() => {
+    setCurrentIdx(0)
+    setAnswers(Array(questions.length).fill(null))
+    setTimeLeft(timeLimit * 60)
+    setSubmitted(false)
+  }, [questions.length, timeLimit])
+
   const q = questions[currentIdx]
 
   // Timer
   useEffect(() => {
-    if (submitted || showStartWarning) return
+    if (submitted || showStartWarning || questions.length === 0) return
     timerRef.current = setInterval(() => {
       setTimeLeft((t) => {
         if (t <= 1) {
@@ -142,12 +142,12 @@ export function SolidQuiz({ subjectKey, questionCount, timeLimit, onBack, onComp
       })
     }, 1000)
     return () => { if (timerRef.current) clearInterval(timerRef.current) }
-  }, [submitted, showStartWarning])
+  }, [submitted, showStartWarning, questions.length])
 
   // Auto-submit when time runs out
   useEffect(() => {
-    if (timeLeft === 0 && !submitted) handleSubmit()
-  }, [timeLeft, submitted])
+    if (timeLeft === 0 && !submitted && questions.length > 0) handleSubmit()
+  }, [timeLeft, submitted, questions.length])
 
   const handleSelect = (idx: number) => {
     if (submitted) return
@@ -175,6 +175,17 @@ export function SolidQuiz({ subjectKey, questionCount, timeLimit, onBack, onComp
   const secs = timeLeft % 60
   const isLowTime = timeLeft < 300 // less than 5 minutes
   const answeredCount = answers.filter((a) => a !== null).length
+
+  if (poolLoading) {
+    return (
+      <div className="min-h-full flex flex-col items-center justify-center px-8 text-center">
+        <div className="w-8 h-8 rounded-full border-2 border-primary border-t-transparent animate-spin mb-4" />
+        <p className="text-sm font-medium text-muted-foreground">
+          Loading {subject.name} questions...
+        </p>
+      </div>
+    )
+  }
 
   if (!q) return null
 
