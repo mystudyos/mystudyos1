@@ -44,7 +44,7 @@ function getFirebaseErrorMessage(error: any): string {
   
   // Fallback for untranslated Firebase errors
   if (message.includes("Firebase:")) {
-    return "An authentication error occurred. Please check your details and try again."
+    return "An error occurred. Please check your details and try again."
   }
   
   return message || "An unexpected error occurred. Please try again."
