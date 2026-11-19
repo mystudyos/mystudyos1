@@ -100,22 +100,9 @@ export function NotificationPermissionDialog({
               Enable Push Notifications
             </h3>
             <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
-              Stay connected and receive real-time alerts on StudyOS.
+              Get real-time alerts on StudyOS.
             </p>
           </div>
-        </div>
-
-        {/* Features preview */}
-        <div className="mt-4 p-3 rounded-2xl bg-muted/50 border border-border/60 flex items-center justify-between text-[9px] sm:text-xs font-medium">
-          <span className="flex items-center gap-1.5 text-foreground/90">
-            <MessageSquare className="w-3.5 h-3.5 text-primary" /> Real-time DMs
-          </span>
-          <span className="flex items-center gap-1.5 text-foreground/90">
-            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" /> Private & Safe
-          </span>
-          <span className="flex items-center gap-1.5 text-foreground/90">
-            <Bell className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" /> Instant Alerts
-          </span>
         </div>
 
         {/* Actions */}
