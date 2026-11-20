@@ -21,6 +21,7 @@ import { query, collection, where, getDocs } from "firebase/firestore"
 import { db } from "@/lib/firebase"
 import { reportFirestoreError } from "@/lib/quota"
 import { ChatComposerBar } from "./chat-composer-bar"
+import { useChatViewport } from "@/hooks/use-chat-viewport"
 import { ADMIN_EMAIL } from "@/lib/constants"
 import { 
   ArrowLeft, 
@@ -378,6 +379,7 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
   const [showEmojiPicker, setShowEmojiPicker] = useState(false)
   const [replyTo, setReplyTo] = useState<{ id: string; text: string; displayName: string } | null>(null)
   const [typists, setTypists] = useState<{ uid: string; displayName: string }[]>([])
+  const { viewportStyle } = useChatViewport(!hideHeader)
   const [onlineUsers, setOnlineUsers] = useState<Set<string>>(new Set())
   const [adminUsers, setAdminUsers] = useState<Set<string>>(new Set())
   const [isTyping, setIsTyping] = useState(false)
@@ -577,11 +579,23 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
       return
     }
 
+    const replySnapshot = replyTo
+    const editingSnapshot = editingMessage
+
+    // Optimistic instant clear so keyboard stays up and user can keep typing immediately
+    setText("")
+    setReplyTo(null)
+    if (editingSnapshot) {
+      setEditingMessage(null)
+    }
+    setIsTyping(false)
+    setTypingStatus(user.uid, user.displayName || "Anonymous", false)
+    if (typingTimeoutRef.current) clearTimeout(typingTimeoutRef.current)
+
     setSending(true)
     try {
-      if (editingMessage) {
-        await editMessage(editingMessage.id, trimmed)
-        setEditingMessage(null)
+      if (editingSnapshot) {
+        await editMessage(editingSnapshot.id, trimmed)
         toast.success("Message edited")
       } else {
         await sendMessage(
@@ -590,30 +604,27 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
           user.photoURL || null,
           isAdmin ? "Admin" : (stats?.school || null),
           trimmed,
-          replyTo
+          replySnapshot
         )
       }
-      setText("")
-      setReplyTo(null)
-      setShowEmojiPicker(false)
-      setIsTyping(false)
-      setTypingStatus(user.uid, user.displayName || "Anonymous", false)
-      if (typingTimeoutRef.current) clearTimeout(typingTimeoutRef.current)
 
-      if (!editingMessage) {
+      if (!editingSnapshot) {
         markChatRead(user.uid)
         isNearBottom.current = true
         messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
       }
 
       // Cooldown (only for new messages, not editing)
-      if (!editingMessage) {
+      if (!editingSnapshot) {
         setCooldown(true)
         setTimeout(() => setCooldown(false), 3000)
       }
     } catch (err) {
       console.error(err)
-      toast.error(editingMessage ? "Failed to edit message" : "Failed to send message")
+      setText((curr) => curr || trimmed)
+      if (replySnapshot) setReplyTo(replySnapshot)
+      if (editingSnapshot) setEditingMessage(editingSnapshot)
+      toast.error(editingSnapshot ? "Failed to edit message" : "Failed to send message")
     } finally {
       setSending(false)
     }
@@ -649,13 +660,17 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
   const handleReply = useCallback((id: string, text: string, displayName: string) => {
     setReplyTo({ id, text, displayName })
     setEditingMessage(null)
+    setShowEmojiPicker(false)
+    // Call synchronously inside user gesture so mobile browsers pop up the soft keyboard
+    inputRef.current?.focus({ preventScroll: true })
   }, [])
 
   const handleEdit = useCallback((msg: ChatMessage) => {
     setEditingMessage(msg)
     setText(msg.text)
     setReplyTo(null)
-    setTimeout(() => inputRef.current?.focus(), 50)
+    setShowEmojiPicker(false)
+    inputRef.current?.focus({ preventScroll: true })
   }, [])
 
   // Unpin handler (admin)
@@ -711,10 +726,13 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
   }, [messages])
 
   return (
-    <div className="flex flex-col h-full bg-background select-text apple-font relative overflow-hidden min-h-0" style={{ userSelect: 'text', WebkitUserSelect: 'text' }}>
+    <div
+      className="flex flex-col h-full bg-background select-text apple-font relative overflow-hidden min-h-0"
+      style={{ userSelect: 'text', WebkitUserSelect: 'text', ...viewportStyle }}
+    >
       {/* Header */}
       {!hideHeader && (
-        <div className="sticky top-0 z-30 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4">
+        <div className="sticky top-0 z-30 shrink-0 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4">
           <div className="max-w-3xl mx-auto flex items-center gap-3">
             <button 
               onClick={() => { markChatRead(user.uid); onBack() }}
@@ -741,7 +759,7 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
 
       {/* Pinned Messages Banner */}
       {pinnedMessages.length > 0 && (
-        <div className="sticky top-0 z-20 divide-y divide-amber-500/10 border-b border-amber-500/20 backdrop-blur-md">
+        <div className="sticky top-0 z-20 shrink-0 divide-y divide-amber-500/10 border-b border-amber-500/20 backdrop-blur-md">
           {pinnedMessages.map((pin) => (
             <div 
               key={pin.messageId}
@@ -827,7 +845,7 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
 
       {/* Edit Context Bar */}
       {!isBanned && editingMessage && (
-        <div className="px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
+        <div className="shrink-0 px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
           <div className="flex items-center gap-2 min-w-0">
             <Pencil className="w-3.5 h-3.5 text-primary shrink-0" />
             <div className="min-w-0 flex-1">
@@ -849,7 +867,7 @@ export function GlobalChatView({ user, stats, onBack, onUserClick, hideHeader }:
 
       {/* Reply Context Bar */}
       {!isBanned && replyTo && (
-        <div className="px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
+        <div className="shrink-0 px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
           <div className="flex items-center gap-2 min-w-0">
             <Reply className="w-3.5 h-3.5 text-primary shrink-0" />
             <div className="min-w-0 flex-1">

@@ -76,10 +76,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${dmSans.variable} ${paytoneOne.variable} bg-background`} suppressHydrationWarning>
+      <head />
       <body className="font-sans antialiased">
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange>
-          <PWARegistration />
           {children}
+          <PWARegistration />
           <ToastProvider />
         </ThemeProvider>
         <Analytics />

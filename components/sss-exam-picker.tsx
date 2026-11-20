@@ -231,7 +231,7 @@ export function SSSExamPicker({
                     </span>
                   </div>
                   <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
-                    Timed multiple-choice CBT practice
+                    Timed CBT practice
                   </p>
                 </div>
               </div>

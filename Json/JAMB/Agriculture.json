@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes the modern scope of agriculture?",
+    "options": [
+      "A. Cultivation of crops and rearing of animals for family use",
+      "B. Production, processing, and marketing of plant and animal products",
+      "C. Management of soil and water resources for crop production",
+      "D. Raising of livestock and poultry for commercial purposes"
+    ],
+    "answer": "B",
+    "topic": "Meaning and Scope of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "The branch of agriculture that deals with the study of field crops is known as:",
+    "options": [
+      "A. Horticulture",
+      "B. Animal science",
+      "C. Forestry",
+      "D. Agronomy"
+    ],
+    "answer": "D",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is classified under the production branch of agriculture?",
+    "options": [
+      "A. Crop husbandry and animal husbandry",
+      "B. Agricultural economics and extension",
+      "C. Farm machinery and equipment design",
+      "D. Soil survey and land evaluation"
+    ],
+    "answer": "A",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Agriculture practiced primarily to feed the farmer and his family is described as:",
+    "options": [
+      "A. Commercial agriculture",
+      "B. Plantation agriculture",
+      "C. Subsistence agriculture",
+      "D. Mechanized agriculture"
+    ],
+    "answer": "C",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a characteristic feature of commercial agriculture?",
+    "options": [
+      "A. Small farm holdings scattered across villages",
+      "B. Large-scale production primarily for sale",
+      "C. Use of crude implements and family labour",
+      "D. Production mainly for household consumption"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "The branch of agriculture that studies the relationship between organisms and their environment is:",
+    "options": [
+      "A. Agricultural economics",
+      "B. Agricultural engineering",
+      "C. Animal science",
+      "D. Agricultural ecology"
+    ],
+    "answer": "D",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a branch of agriculture?",
+    "options": [
+      "A. Mining and geology",
+      "B. Crop science",
+      "C. Animal science",
+      "D. Agricultural extension"
+    ],
+    "answer": "A",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "The type of agriculture that involves the use of large capital, machinery, and hired labour is:",
+    "options": [
+      "A. Subsistence agriculture",
+      "B. Peasant agriculture",
+      "C. Commercial agriculture",
+      "D. Shifting cultivation"
+    ],
+    "answer": "C",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a primary role of agriculture in economic development?",
+    "options": [
+      "A. Provision of manufactured goods for export",
+      "B. Generation of foreign exchange through exports",
+      "C. Development of urban infrastructure",
+      "D. Regulation of international trade policies"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "Agriculture contributes to rural development primarily through:",
+    "options": [
+      "A. Establishment of heavy industries in villages",
+      "B. Provision of employment and income to rural dwellers",
+      "C. Construction of international airports in rural areas",
+      "D. Relocation of urban populations to rural areas"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following agro-allied industries depends directly on agricultural raw materials?",
+    "options": [
+      "A. Cement manufacturing",
+      "B. Textile production from cotton",
+      "C. Steel rolling",
+      "D. Petroleum refining"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "The ecological zone characterized by high rainfall, tall trees, and dense vegetation is the:",
+    "options": [
+      "A. Sudan savanna",
+      "B. Sahel savanna",
+      "C. Rainforest zone",
+      "D. Guinea savanna"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following crops is best adapted to the rainforest ecological zone?",
+    "options": [
+      "A. Millet and sorghum",
+      "B. Cocoa and oil palm",
+      "C. Wheat and barley",
+      "D. Groundnut and cotton"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "The savanna ecological zone is best described as having:",
+    "options": [
+      "A. Continuous heavy rainfall throughout the year",
+      "B. Distinct wet and dry seasons with grasses",
+      "C. Permanent waterlogged soil conditions",
+      "D. Extremely low temperatures all year round"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is an abiotic factor affecting agricultural production?",
+    "options": [
+      "A. Pest infestation",
+      "B. Soil pH level",
+      "C. Weed competition",
+      "D. Disease pathogens"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "question": "Biotic factors affecting crop production include:",
+    "options": [
+      "A. Temperature and humidity",
+      "B. Rainfall and sunlight",
+      "C. Pests and diseases",
+      "D. Soil texture and structure"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "question": "The mangrove ecological zone is typically found in:",
+    "options": [
+      "A. Northern Nigeria near the Sahara desert",
+      "B. Coastal areas with brackish water",
+      "C. High altitude mountainous regions",
+      "D. Central Nigeria plateau areas"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following livestock is best suited to the Sahel ecological zone?",
+    "options": [
+      "A. Pigs and poultry",
+      "B. Camels and goats",
+      "C. Rabbits and guinea pigs",
+      "D. Dairy cattle and sheep"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 19,
+    "question": "The Guinea savanna zone is most suitable for the production of:",
+    "options": [
+      "A. Rubber and cocoa",
+      "B. Yam and cassava",
+      "C. Maize and groundnut",
+      "D. Wheat and barley"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 20,
+    "question": "Which environmental factor most directly influences the rate of photosynthesis in crops?",
+    "options": [
+      "A. Soil pH",
+      "B. Wind velocity",
+      "C. Light intensity",
+      "D. Soil texture"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "question": "The Sudan savanna ecological zone is characterized by:",
+    "options": [
+      "A. Very high rainfall and dense forests",
+      "B. Moderate rainfall and short grasses",
+      "C. Low rainfall and scattered trees",
+      "D. Permanent flooding and marsh vegetation"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is a major effect of high temperature on crop production?",
+    "options": [
+      "A. Increased soil organic matter content",
+      "B. Enhanced nutrient availability in soil",
+      "C. Increased evapotranspiration and water loss",
+      "D. Improved seed germination rates"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "question": "The main agricultural product of the mangrove ecological zone is:",
+    "options": [
+      "A. Cocoa",
+      "B. Rice",
+      "C. Fish and shellfish",
+      "D. Cotton"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a consequence of climate change on agricultural production?",
+    "options": [
+      "A. Decreased frequency of extreme weather events",
+      "B. Increased predictability of rainfall patterns",
+      "C. Altered growing seasons and crop yields",
+      "D. Reduced incidence of crop pests and diseases"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 25,
+    "question": "The role of soil microorganisms in agricultural ecology includes:",
+    "options": [
+      "A. Increasing soil erosion rates",
+      "B. Decomposing organic matter and cycling nutrients",
+      "C. Reducing soil water-holding capacity",
+      "D. Eliminating all beneficial soil fauna"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following best defines agriculture?",
+    "options": [
+      "A. The art and science of cultivating soil and growing crops",
+      "B. The production of food and fiber for human consumption",
+      "C. The science and art of producing, processing, and marketing crops and livestock",
+      "D. The management of natural resources for recreational purposes"
+    ],
+    "answer": "C",
+    "topic": "Meaning and Scope of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "question": "Horticulture is a branch of agriculture that deals with the production of:",
+    "options": [
+      "A. Field crops like maize and rice",
+      "B. Fruits, vegetables, and ornamental plants",
+      "C. Large ruminant animals",
+      "D. Forest trees and timber"
+    ],
+    "answer": "B",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is an example of a subsistence farming practice?",
+    "options": [
+      "A. Large-scale mechanized rice production",
+      "B. Shifting cultivation by rural families",
+      "C. Commercial poultry farming",
+      "D. Plantation agriculture"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "question": "Agriculture provides raw materials to agro-allied industries such as:",
+    "options": [
+      "A. Textile mills and flour mills",
+      "B. Steel rolling mills",
+      "C. Cement factories",
+      "D. Petroleum refineries"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a source of agricultural credit for small-scale farmers?",
+    "options": [
+      "A. International monetary fund",
+      "B. Agricultural development banks",
+      "C. Stock exchange markets",
+      "D. Commercial real estate firms"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 31,
+    "question": "The ecological zone in West Africa with the lowest annual rainfall is the:",
+    "options": [
+      "A. Rainforest zone",
+      "B. Guinea savanna zone",
+      "C. Sudan savanna zone",
+      "D. Sahel savanna zone"
+    ],
+    "answer": "D",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following crops is commonly grown in the mangrove ecological zone?",
+    "options": [
+      "A. Cocoyam",
+      "B. Rice",
+      "C. Cotton",
+      "D. Millet"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 33,
+    "question": "The effect of wind on crop production includes:",
+    "options": [
+      "A. Increased soil fertility",
+      "B. Enhanced pollination and seed dispersal",
+      "C. Reduced water loss through transpiration",
+      "D. Increased soil organic matter"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a biotic component of the agricultural ecosystem?",
+    "options": [
+      "A. Soil minerals",
+      "B. Rainfall",
+      "C. Earthworms",
+      "D. Sunlight"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "question": "The main reason for the establishment of agricultural research institutes in Nigeria is to:",
+    "options": [
+      "A. Increase importation of agricultural products",
+      "B. Develop improved crop varieties and farming techniques",
+      "C. Reduce the number of farmers in rural areas",
+      "D. Promote urban migration"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 36,
+    "question": "IITA, located in Ibadan, is an international research institute specializing in:",
+    "options": [
+      "A. Livestock production and health",
+      "B. Tropical agriculture and food crops",
+      "C. Fisheries and aquatic resources",
+      "D. Forestry and wildlife management"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 37,
+    "question": "The primary purpose of Agricultural Development Projects (ADPs) in Nigeria is to:",
+    "options": [
+      "A. Reduce agricultural production in rural areas",
+      "B. Improve rural infrastructure and agricultural productivity",
+      "C. Increase importation of food items",
+      "D. Promote urban industrialization"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 38,
+    "question": "The Land Use Act of 1978 in Nigeria was designed to:",
+    "options": [
+      "A. Abolish all forms of land ownership",
+      "B. Vest all land in the state for easier acquisition",
+      "C. Encourage foreign land ownership",
+      "D. Promote individual land speculation"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is a fiscal policy measure used by government to promote agriculture?",
+    "options": [
+      "A. Increase in import duties on agricultural inputs",
+      "B. Ban on importation of certain agricultural products",
+      "C. Reduction of agricultural extension services",
+      "D. Elimination of agricultural credit facilities"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 40,
+    "question": "Non-governmental organizations contribute to agricultural development mainly through:",
+    "options": [
+      "A. Enactment of agricultural laws",
+      "B. Provision of training and micro-credit to farmers",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 41,
+    "question": "The term 'agriculture' is derived from two Latin words meaning:",
+    "options": [
+      "A. Soil and water",
+      "B. Field and cultivation",
+      "C. Plant and animal",
+      "D. Farm and harvest"
+    ],
+    "answer": "B",
+    "topic": "Meaning and Scope of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a social benefit of agriculture?",
+    "options": [
+      "A. Provision of employment opportunities",
+      "B. Depletion of natural resources",
+      "C. Increase in rural-urban migration",
+      "D. Reduction in food supply"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "question": "The ecological zone that covers the largest land area in Nigeria is the:",
+    "options": [
+      "A. Rainforest zone",
+      "B. Guinea savanna zone",
+      "C. Sudan savanna zone",
+      "D. Mangrove zone"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following agricultural products is associated with the rainforest zone?",
+    "options": [
+      "A. Gum arabic",
+      "B. Rubber",
+      "C. Millet",
+      "D. Cowpea"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 45,
+    "question": "Relative humidity affects crop production by influencing:",
+    "options": [
+      "A. Soil mineral content",
+      "B. Transpiration and disease incidence",
+      "C. Soil pH levels",
+      "D. Seed dormancy"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 46,
+    "question": "The type of agriculture that involves clearing land by burning and moving to new land when fertility declines is:",
+    "options": [
+      "A. Mixed farming",
+      "B. Shifting cultivation",
+      "C. Plantation agriculture",
+      "D. Intensive farming"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "question": "The National Accelerated Food Production Programme (NAFPP) was established to:",
+    "options": [
+      "A. Reduce food production in Nigeria",
+      "B. Increase the production of staple food crops",
+      "C. Promote importation of food items",
+      "D. Discourage local farmers from farming"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 48,
+    "question": "Government provision of infrastructure such as roads and communication systems helps agriculture by:",
+    "options": [
+      "A. Reducing market access for farmers",
+      "B. Facilitating transportation and marketing of produce",
+      "C. Increasing post-harvest losses",
+      "D. Discouraging rural development"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is an example of an international agricultural research institute?",
+    "options": [
+      "A. NCRI",
+      "B. IAR",
+      "C. IITA",
+      "D. NIHORT"
+    ],
+    "answer": "C",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 50,
+    "question": "The major environmental factor responsible for the distribution of vegetation zones in West Africa is:",
+    "options": [
+      "A. Soil type",
+      "B. Rainfall pattern",
+      "C. Wind direction",
+      "D. Altitude"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is NOT a role of agriculture in national development?",
+    "options": [
+      "A. Provision of food for the population",
+      "B. Generation of employment opportunities",
+      "C. Production of raw materials for industries",
+      "D. Promotion of urban congestion"
+    ],
+    "answer": "D",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "question": "The practice of growing crops and raising animals on the same farm is called:",
+    "options": [
+      "A. Monoculture",
+      "B. Mixed farming",
+      "C. Shifting cultivation",
+      "D. Plantation farming"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following crop combinations is best suited to the Sudan savanna zone?",
+    "options": [
+      "A. Cocoa and rubber",
+      "B. Millet and sorghum",
+      "C. Oil palm and coconut",
+      "D. Yam and cocoyam"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 54,
+    "question": "The greenhouse effect is a phenomenon that affects agriculture by:",
+    "options": [
+      "A. Reducing global temperatures",
+      "B. Causing climate change and altering growing seasons",
+      "C. Increasing soil fertility uniformly",
+      "D. Eliminating all crop pests"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following government programmes was aimed at increasing food production through the use of improved inputs?",
+    "options": [
+      "A. Operation Feed the Nation",
+      "B. Structural Adjustment Programme",
+      "C. National Housing Policy",
+      "D. Universal Basic Education"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 56,
+    "question": "The role of extension services in agricultural development is to:",
+    "options": [
+      "A. Enforce agricultural laws on farmers",
+      "B. Educate farmers on improved farming techniques",
+      "C. Collect taxes from farmers",
+      "D. Regulate food prices in markets"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 57,
+    "question": "The main product of the forestry branch of agriculture is:",
+    "options": [
+      "A. Meat and milk",
+      "B. Timber and wood products",
+      "C. Fruits and vegetables",
+      "D. Cereals and grains"
+    ],
+    "answer": "B",
+    "topic": "Branches of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is a characteristic of the Sahel savanna ecological zone?",
+    "options": [
+      "A. Very high rainfall and dense forests",
+      "B. Low rainfall and sparse vegetation",
+      "C. Permanent waterlogging and marshes",
+      "D. Moderate rainfall and tall grasses"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 59,
+    "question": "The process by which green plants manufacture food using sunlight is called:",
+    "options": [
+      "A. Respiration",
+      "B. Photosynthesis",
+      "C. Transpiration",
+      "D. Digestion"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 60,
+    "question": "Which of the following is a way agriculture contributes to capital formation?",
+    "options": [
+      "A. Through savings and investment from agricultural income",
+      "B. Through increased importation of goods",
+      "C. Through reduction in rural employment",
+      "D. Through urban migration"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 61,
+    "question": "The type of farming where a farmer produces mainly for the market is called:",
+    "options": [
+      "A. Subsistence farming",
+      "B. Commercial farming",
+      "C. Peasant farming",
+      "D. Shifting cultivation"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is an abiotic factor that affects livestock production?",
+    "options": [
+      "A. Feed quality",
+      "B. Disease organisms",
+      "C. Temperature",
+      "D. Predators"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 63,
+    "question": "The ecological zone that is waterlogged and dominated by mangrove trees is found in:",
+    "options": [
+      "A. Northern Nigeria",
+      "B. Coastal areas",
+      "C. Central plateau",
+      "D. Mountainous regions"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 64,
+    "question": "Agricultural laws and reforms in Nigeria are aimed at:",
+    "options": [
+      "A. Discouraging agricultural production",
+      "B. Regulating land use and promoting agricultural development",
+      "C. Encouraging land speculation",
+      "D. Reducing farmer access to credit"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is a reason for the establishment of national research institutes?",
+    "options": [
+      "A. To promote importation of agricultural machinery",
+      "B. To conduct research on improved crop and animal production",
+      "C. To reduce the number of agricultural graduates",
+      "D. To discourage local food production"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 66,
+    "question": "The importance of agriculture in providing employment is greatest in:",
+    "options": [
+      "A. Urban industrial areas",
+      "B. Rural areas",
+      "C. Coastal cities",
+      "D. International markets"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following describes the scope of agricultural economics?",
+    "options": [
+      "A. Study of crop diseases and pests",
+      "B. Study of production, distribution, and consumption of agricultural products",
+      "C. Study of soil formation processes",
+      "D. Study of animal anatomy and physiology"
+    ],
+    "answer": "B",
+    "topic": "Meaning and Scope of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 68,
+    "question": "The Guinea savanna zone is characterized by:",
+    "options": [
+      "A. Very short grasses and scattered trees",
+      "B. Tall grasses and scattered trees",
+      "C. Dense forest with tall trees",
+      "D. Permanent swamp vegetation"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is a contribution of agriculture to industrial development?",
+    "options": [
+      "A. Provision of raw materials for factories",
+      "B. Reduction of industrial output",
+      "C. Increased importation of finished goods",
+      "D. Decrease in market size for industrial products"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 70,
+    "question": "The primary aim of agricultural extension is to:",
+    "options": [
+      "A. Increase the use of crude implements",
+      "B. Disseminate improved agricultural technologies to farmers",
+      "C. Reduce farmer participation in decision making",
+      "D. Limit farmers' access to information"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is an example of a national agricultural research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. WARDA",
+      "C. NCRI",
+      "D. ICRISAT"
+    ],
+    "answer": "C",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 72,
+    "question": "The effect of low rainfall on crop production includes:",
+    "options": [
+      "A. Increased water availability for plants",
+      "B. Reduced soil moisture and poor crop growth",
+      "C. Enhanced nutrient uptake by plants",
+      "D. Increased photosynthesis rates"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 73,
+    "question": "Agriculture is important for the development of rural areas because it:",
+    "options": [
+      "A. Encourages rural-urban migration",
+      "B. Provides income and employment to rural dwellers",
+      "C. Reduces rural infrastructure development",
+      "D. Decreases rural population"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is a characteristic of the rainforest ecological zone?",
+    "options": [
+      "A. Low rainfall and sparse vegetation",
+      "B. High rainfall and dense vegetation",
+      "C. Moderate rainfall and short grasses",
+      "D. Very low rainfall and desert conditions"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 75,
+    "question": "The main objective of the Green Revolution programme in Nigeria was to:",
+    "options": [
+      "A. Reduce agricultural production",
+      "B. Achieve self-sufficiency in food production",
+      "C. Increase food importation",
+      "D. Discourage local farming"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is a way by which government can encourage agricultural production?",
+    "options": [
+      "A. Imposing high taxes on farm inputs",
+      "B. Providing subsidies on agricultural inputs",
+      "C. Banning all agricultural exports",
+      "D. Reducing agricultural credit facilities"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 77,
+    "question": "The study of the interrelationships between crops and their environment is called:",
+    "options": [
+      "A. Crop pathology",
+      "B. Crop ecology",
+      "C. Crop genetics",
+      "D. Crop physiology"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following livestock species is commonly raised in the rainforest zone?",
+    "options": [
+      "A. Camels",
+      "B. Pigs",
+      "C. Donkeys",
+      "D. Yaks"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 79,
+    "question": "The term 'subsistence agriculture' refers to farming that is:",
+    "options": [
+      "A. Mainly for sale and export",
+      "B. Mainly for family consumption",
+      "C. Fully mechanized and large-scale",
+      "D. Exclusively for livestock production"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is a contribution of agriculture to foreign exchange earnings?",
+    "options": [
+      "A. Importation of agricultural machinery",
+      "B. Exportation of cash crops like cocoa and groundnut",
+      "C. Reduction in agricultural output",
+      "D. Increase in food importation"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 81,
+    "question": "The ecological zone that is best suited for cattle rearing in Nigeria is the:",
+    "options": [
+      "A. Rainforest zone",
+      "B. Mangrove zone",
+      "C. Savanna zone",
+      "D. Swamp zone"
+    ],
+    "answer": "C",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is a function of agricultural extension agents?",
+    "options": [
+      "A. Enforcing tax collection from farmers",
+      "B. Linking research findings to farmers",
+      "C. Regulating food prices in markets",
+      "D. Conducting laboratory experiments"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 83,
+    "question": "The National Agricultural Land Development Authority (NALDA) was established to:",
+    "options": [
+      "A. Reduce agricultural land availability",
+      "B. Develop and manage agricultural land resources",
+      "C. Promote urban land speculation",
+      "D. Discourage farming activities"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 84,
+    "question": "The effect of high humidity on crop production includes:",
+    "options": [
+      "A. Increased rate of transpiration",
+      "B. Reduced water loss and increased disease incidence",
+      "C. Increased soil erosion",
+      "D. Enhanced nutrient leaching"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is an example of a cash crop?",
+    "options": [
+      "A. Cassava",
+      "B. Cocoa",
+      "C. Maize",
+      "D. Yam"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 86,
+    "question": "The type of agriculture that involves the use of family labour and small land holdings is:",
+    "options": [
+      "A. Commercial agriculture",
+      "B. Peasant agriculture",
+      "C. Plantation agriculture",
+      "D. Mechanized agriculture"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following environmental factors affects the spread of crop diseases?",
+    "options": [
+      "A. Soil mineral content",
+      "B. Temperature and humidity",
+      "C. Land tenure system",
+      "D. Farm machinery type"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 88,
+    "question": "The primary role of agriculture in providing raw materials to industries is to:",
+    "options": [
+      "A. Reduce industrial output",
+      "B. Supply inputs for agro-based industries",
+      "C. Increase importation of finished goods",
+      "D. Decrease market demand for industrial products"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is a national agricultural programme in Nigeria?",
+    "options": [
+      "A. Operation Feed the Nation",
+      "B. Universal Primary Education",
+      "C. National Health Insurance Scheme",
+      "D. Petroleum Technology Development Fund"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 90,
+    "question": "The provision of credit facilities to farmers by government is aimed at:",
+    "options": [
+      "A. Discouraging agricultural production",
+      "B. Enabling farmers to purchase inputs and expand production",
+      "C. Reducing farmer access to capital",
+      "D. Increasing rural poverty"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is a characteristic of the Sudan savanna zone?",
+    "options": [
+      "A. High rainfall and dense forests",
+      "B. Low rainfall and short grasses",
+      "C. Permanent waterlogging",
+      "D. Very high humidity all year"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 92,
+    "question": "The term 'agricultural ecology' refers to the study of:",
+    "options": [
+      "A. Agricultural machinery design",
+      "B. Relationships between crops and their environment",
+      "C. Farm economics and marketing",
+      "D. Animal anatomy and physiology"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following is a contribution of agriculture to the national economy?",
+    "options": [
+      "A. Reduction of foreign exchange earnings",
+      "B. Generation of revenue through exports",
+      "C. Increase in food importation",
+      "D. Decrease in rural employment"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 94,
+    "question": "The main purpose of agricultural research institutes is to:",
+    "options": [
+      "A. Reduce agricultural productivity",
+      "B. Develop improved technologies and crop varieties",
+      "C. Increase importation of agricultural products",
+      "D. Discourage local food production"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is an example of an agricultural incentive provided by government?",
+    "options": [
+      "A. High taxes on farm inputs",
+      "B. Subsidies on fertilizers and seeds",
+      "C. Ban on agricultural exports",
+      "D. Reduction of agricultural credit"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 96,
+    "question": "The mangrove ecological zone is important for agriculture because it supports:",
+    "options": [
+      "A. Wheat production",
+      "B. Fisheries and rice cultivation",
+      "C. Cocoa production",
+      "D. Millet production"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following describes commercial agriculture?",
+    "options": [
+      "A. Farming mainly for family consumption",
+      "B. Large-scale production primarily for sale",
+      "C. Use of crude implements and family labour",
+      "D. Small scattered farm holdings"
+    ],
+    "answer": "B",
+    "topic": "Types of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 98,
+    "question": "The role of agriculture in providing food for the population is classified under:",
+    "options": [
+      "A. Social importance of agriculture",
+      "B. Economic importance of agriculture",
+      "C. Environmental importance of agriculture",
+      "D. Political importance of agriculture"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is a reason for the establishment of Agricultural Development Projects (ADPs)?",
+    "options": [
+      "A. To reduce rural infrastructure",
+      "B. To improve agricultural productivity and rural livelihoods",
+      "C. To increase food importation",
+      "D. To discourage farmer participation"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 100,
+    "question": "The study of the effects of climate change on agricultural production is important because it helps to:",
+    "options": [
+      "A. Increase greenhouse gas emissions",
+      "B. Develop adaptation and mitigation strategies",
+      "C. Reduce crop diversity",
+      "D. Eliminate all agricultural pests"
+    ],
+    "answer": "B",
+    "topic": "Agricultural Ecology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 101,
+    "question": "Mendel's first law of inheritance is also known as the law of:",
+    "options": [
+      "A. Independent assortment",
+      "B. Segregation",
+      "C. Dominance",
+      "D. Linkage"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following best defines an allele?",
+    "options": [
+      "A. The physical location of a gene on a chromosome",
+      "B. Alternative forms of a gene at the same locus",
+      "C. The outward expression of a genetic trait",
+      "D. The complete set of genes in an organism"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "question": "The genotypic ratio expected from a cross between two heterozygous tall pea plants (Tt × Tt) is:",
+    "options": [
+      "A. 1:2:1",
+      "B. 3:1",
+      "C. 1:1",
+      "D. 9:3:3:1"
+    ],
+    "answer": "A",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 104,
+    "question": "In genetics, the term 'homozygous' refers to an organism that:",
+    "options": [
+      "A. Carries two different alleles for a trait",
+      "B. Carries two identical alleles for a trait",
+      "C. Shows the recessive phenotype only",
+      "D. Has no alleles for a particular trait"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is an example of a sex-linked trait in farm animals?",
+    "options": [
+      "A. Coat colour in cattle",
+      "B. Feather colour in poultry",
+      "C. Horn shape in goats",
+      "D. Body weight in pigs"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 106,
+    "question": "The process of cell division that produces gametes with half the chromosome number is called:",
+    "options": [
+      "A. Mitosis",
+      "B. Meiosis",
+      "C. Binary fission",
+      "D. Budding"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 107,
+    "question": "Mendel's second law of inheritance is the law of:",
+    "options": [
+      "A. Segregation",
+      "B. Independent assortment",
+      "C. Dominance",
+      "D. Purity of gametes"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 108,
+    "question": "A cross between a homozygous dominant tall plant (TT) and a homozygous recessive dwarf plant (tt) will produce offspring that are:",
+    "options": [
+      "A. All tall",
+      "B. All dwarf",
+      "C. 50% tall and 50% dwarf",
+      "D. 75% tall and 25% dwarf"
+    ],
+    "answer": "A",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 109,
+    "question": "The observable physical characteristics of an organism are referred to as its:",
+    "options": [
+      "A. Genotype",
+      "B. Phenotype",
+      "C. Karyotype",
+      "D. Allelotype"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is NOT a source of genetic variation in crop plants?",
+    "options": [
+      "A. Mutation",
+      "B. Recombination",
+      "C. Cloning",
+      "D. Hybridization"
+    ],
+    "answer": "C",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 111,
+    "question": "A gene that is masked by the presence of another gene is described as:",
+    "options": [
+      "A. Dominant",
+      "B. Recessive",
+      "C. Codominant",
+      "D. Epistatic"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "question": "In a monohybrid cross between two heterozygous individuals, the expected phenotypic ratio is:",
+    "options": [
+      "A. 1:2:1",
+      "B. 3:1",
+      "C. 1:1",
+      "D. 9:3:3:1"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 113,
+    "question": "Which of the following cell divisions is responsible for growth and repair in farm animals?",
+    "options": [
+      "A. Meiosis",
+      "B. Mitosis",
+      "C. Fertilization",
+      "D. Gametogenesis"
+    ],
+    "answer": "B",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "question": "The term 'locus' in genetics refers to:",
+    "options": [
+      "A. The position of a gene on a chromosome",
+      "B. The number of chromosomes in a cell",
+      "C. The type of allele present",
+      "D. The expression of a trait"
+    ],
+    "answer": "A",
+    "topic": "Genetics",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "question": "Which of the following is an example of a farm input?",
+    "options": [
+      "A. Maize grain harvested from the farm",
+      "B. Fertilizer applied to the soil",
+      "C. Cocoa beans exported to Europe",
+      "D. Palm oil processed from palm fruits"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 116,
+    "question": "Farm inputs can be broadly classified into:",
+    "options": [
+      "A. Biological and chemical inputs",
+      "B. Mechanical and electrical inputs",
+      "C. Natural and artificial inputs",
+      "D. Organic and synthetic inputs"
+    ],
+    "answer": "A",
+    "topic": "Farm Inputs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is a biological farm input?",
+    "options": [
+      "A. Urea fertilizer",
+      "B. Improved seeds",
+      "C. Herbicides",
+      "D. Tractors"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "question": "The main purpose of applying agrochemicals on farms is to:",
+    "options": [
+      "A. Increase soil organic matter",
+      "B. Control pests, diseases, and weeds",
+      "C. Improve soil structure",
+      "D. Increase water retention"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is an example of a mechanical farm input?",
+    "options": [
+      "A. Poultry feed",
+      "B. Tractor",
+      "C. Veterinary drugs",
+      "D. Seeds"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "question": "The use of certified seeds is important because it ensures:",
+    "options": [
+      "A. Higher market price for produce",
+      "B. High germination rate and genetic purity",
+      "C. Reduced need for fertilizer",
+      "D. Elimination of all pests"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 121,
+    "question": "Which of the following farm inputs is classified as a soil amendment?",
+    "options": [
+      "A. Insecticide",
+      "B. Lime",
+      "C. Fungicide",
+      "D. Nematicide"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 122,
+    "question": "The primary function of fertilizers as farm inputs is to:",
+    "options": [
+      "A. Control weeds in the field",
+      "B. Supply essential plant nutrients",
+      "C. Increase soil water-holding capacity",
+      "D. Improve soil texture"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 123,
+    "question": "Which of the following is a source of farm power?",
+    "options": [
+      "A. Fertilizer",
+      "B. Draft animals",
+      "C. Herbicide",
+      "D. Seeds"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "question": "The choice of farm inputs depends mainly on:",
+    "options": [
+      "A. The farmer's age and gender",
+      "B. The type of crop and available resources",
+      "C. The distance to the nearest market",
+      "D. The number of family members"
+    ],
+    "answer": "B",
+    "topic": "Farm Inputs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 125,
+    "question": "Which of the following is a national agricultural research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. NCRI",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 126,
+    "question": "The Nigerian Institute for Oil Palm Research (NIFOR) is located in:",
+    "options": [
+      "A. Ibadan",
+      "B. Benin City",
+      "C. Zaria",
+      "D. Umudike"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 127,
+    "question": "Which international research institute focuses on livestock improvement in Africa?",
+    "options": [
+      "A. IITA",
+      "B. ILRI",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 128,
+    "question": "The Cocoa Research Institute of Nigeria (CRIN) is headquartered in:",
+    "options": [
+      "A. Ibadan",
+      "B. Ikom",
+      "C. Benin City",
+      "D. Zaria"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 129,
+    "question": "WARDA is an international research institute specializing in:",
+    "options": [
+      "A. Maize improvement",
+      "B. Rice improvement",
+      "C. Cassava improvement",
+      "D. Cowpea improvement"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "question": "The major objective of Agricultural Development Projects (ADPs) in Nigeria is to:",
+    "options": [
+      "A. Reduce rural infrastructure",
+      "B. Increase agricultural productivity and rural incomes",
+      "C. Promote importation of food",
+      "D. Discourage smallholder farmers"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "question": "FADAMA projects in Nigeria are primarily aimed at developing:",
+    "options": [
+      "A. Upland crop production",
+      "B. Irrigated agriculture in floodplains",
+      "C. Deep-sea fishing",
+      "D. Forestry plantations"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 132,
+    "question": "The National Accelerated Food Production Programme (NAFPP) was designed to:",
+    "options": [
+      "A. Reduce food production",
+      "B. Accelerate the production of staple food crops",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a national agricultural programme in Nigeria?",
+    "options": [
+      "A. Operation Feed the Nation",
+      "B. Universal Basic Education",
+      "C. National Health Insurance Scheme",
+      "D. Petroleum Technology Development Fund"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "question": "The Green Revolution programme in Nigeria was launched to achieve:",
+    "options": [
+      "A. Self-sufficiency in food production",
+      "B. Increased food importation",
+      "C. Reduction in agricultural output",
+      "D. Decreased rural employment"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 135,
+    "question": "The Project Coordinating Unit (PCU) in Nigeria's agricultural sector was established to:",
+    "options": [
+      "A. Coordinate agricultural development projects",
+      "B. Reduce agricultural funding",
+      "C. Promote urban development",
+      "D. Discourage farmer participation"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is a fiscal policy measure used to promote agriculture?",
+    "options": [
+      "A. Increase in import duties on agricultural inputs",
+      "B. Ban on importation of certain agricultural products",
+      "C. Reduction of agricultural extension services",
+      "D. Elimination of agricultural credit facilities"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 137,
+    "question": "The Land Use Act of 1978 in Nigeria was designed to:",
+    "options": [
+      "A. Abolish all forms of land ownership",
+      "B. Vest all land in the state for easier acquisition",
+      "C. Encourage foreign land ownership",
+      "D. Promote individual land speculation"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 138,
+    "question": "Government provision of subsidies on agricultural inputs is aimed at:",
+    "options": [
+      "A. Reducing the cost of production for farmers",
+      "B. Increasing the cost of farm inputs",
+      "C. Discouraging agricultural production",
+      "D. Reducing farmer access to inputs"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 139,
+    "question": "Non-governmental organizations contribute to agricultural development mainly through:",
+    "options": [
+      "A. Enactment of agricultural laws",
+      "B. Provision of training and micro-credit to farmers",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 140,
+    "question": "The provision of rural roads by government helps agriculture by:",
+    "options": [
+      "A. Reducing market access for farmers",
+      "B. Facilitating transportation of produce to markets",
+      "C. Increasing post-harvest losses",
+      "D. Discouraging rural development"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "question": "Which of the following is an example of an agricultural law in Nigeria?",
+    "options": [
+      "A. Land Use Act",
+      "B. Education Act",
+      "C. Health Insurance Act",
+      "D. Petroleum Act"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "question": "Government credit facilities to farmers are intended to:",
+    "options": [
+      "A. Discourage agricultural production",
+      "B. Enable farmers to purchase inputs and expand production",
+      "C. Reduce farmer access to capital",
+      "D. Increase rural poverty"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 143,
+    "question": "Which of the following is a contribution of NGOs to agricultural development?",
+    "options": [
+      "A. Enactment of land use laws",
+      "B. Provision of extension services and training",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 144,
+    "question": "The establishment of agricultural research institutes is aimed at:",
+    "options": [
+      "A. Reducing agricultural productivity",
+      "B. Developing improved technologies and crop varieties",
+      "C. Increasing importation of agricultural products",
+      "D. Discouraging local food production"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "question": "Which of the following is an international agricultural research institute?",
+    "options": [
+      "A. NCRI",
+      "B. IAR",
+      "C. IITA",
+      "D. NIHORT"
+    ],
+    "answer": "C",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 146,
+    "question": "IITA is located in:",
+    "options": [
+      "A. Ibadan",
+      "B. Zaria",
+      "C. Benin City",
+      "D. Umudike"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "question": "The Institute for Agricultural Research (IAR) is based in:",
+    "options": [
+      "A. Zaria",
+      "B. Ibadan",
+      "C. Benin City",
+      "D. Ikom"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is a mandate of the Nigerian Institute for Oil Palm Research (NIFOR)?",
+    "options": [
+      "A. Research on oil palm and other palms",
+      "B. Research on maize and sorghum",
+      "C. Research on cattle and sheep",
+      "D. Research on fisheries"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 149,
+    "question": "The Forestry Research Institute of Nigeria (FRIN) is located in:",
+    "options": [
+      "A. Ibadan",
+      "B. Zaria",
+      "C. Benin City",
+      "D. Ikom"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is a national agricultural programme aimed at poverty reduction?",
+    "options": [
+      "A. National Poverty Eradication Programme (NAPEP)",
+      "B. Universal Basic Education",
+      "C. National Health Insurance Scheme",
+      "D. Petroleum Technology Development Fund"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 151,
+    "question": "The main purpose of agricultural extension services is to:",
+    "options": [
+      "A. Enforce agricultural laws on farmers",
+      "B. Educate farmers on improved farming techniques",
+      "C. Collect taxes from farmers",
+      "D. Regulate food prices in markets"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 152,
+    "question": "Which of the following is a way by which government can encourage agricultural production?",
+    "options": [
+      "A. Imposing high taxes on farm inputs",
+      "B. Providing subsidies on agricultural inputs",
+      "C. Banning all agricultural exports",
+      "D. Reducing agricultural credit facilities"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The primary aim of the National Agricultural Land Development Authority (NALDA) is to:",
+    "options": [
+      "A. Reduce agricultural land availability",
+      "B. Develop and manage agricultural land resources",
+      "C. Promote urban land speculation",
+      "D. Discourage farming activities"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is an example of a fiscal incentive for agriculture?",
+    "options": [
+      "A. Tax holidays for agricultural investors",
+      "B. High import duties on farm machinery",
+      "C. Reduction of agricultural credit",
+      "D. Ban on agricultural exports"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 155,
+    "question": "The provision of storage facilities by government helps to reduce:",
+    "options": [
+      "A. Post-harvest losses",
+      "B. Agricultural production",
+      "C. Farmer income",
+      "D. Market access"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 156,
+    "question": "Which of the following is a role of NGOs in agricultural development?",
+    "options": [
+      "A. Enactment of agricultural laws",
+      "B. Provision of training and capacity building for farmers",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 157,
+    "question": "The main objective of the National Special Programme for Food Security (NSPFS) in Nigeria is to:",
+    "options": [
+      "A. Reduce food production",
+      "B. Increase food security and reduce poverty",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is a national research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. NIHORT",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 159,
+    "question": "The National Root Crops Research Institute (NRCRI) is located in:",
+    "options": [
+      "A. Umudike",
+      "B. Ibadan",
+      "C. Zaria",
+      "D. Benin City"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following is a mandate of the National Cereals Research Institute (NCRI)?",
+    "options": [
+      "A. Research on cereals like rice and maize",
+      "B. Research on oil palm",
+      "C. Research on cattle",
+      "D. Research on fisheries"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 161,
+    "question": "The main purpose of the Agricultural Credit Guarantee Scheme Fund (ACGSF) in Nigeria is to:",
+    "options": [
+      "A. Discourage agricultural lending",
+      "B. Guarantee loans to farmers to enhance production",
+      "C. Increase agricultural taxes",
+      "D. Reduce farmer access to credit"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a contribution of agriculture to rural development?",
+    "options": [
+      "A. Provision of employment and income to rural dwellers",
+      "B. Encouragement of rural-urban migration",
+      "C. Reduction of rural infrastructure",
+      "D. Decrease in rural population"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 163,
+    "question": "The main role of agricultural extension agents is to:",
+    "options": [
+      "A. Enforce tax collection from farmers",
+      "B. Link research findings to farmers",
+      "C. Regulate food prices in markets",
+      "D. Conduct laboratory experiments"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is a non-governmental organization involved in agricultural development in Nigeria?",
+    "options": [
+      "A. Food and Agriculture Organization (FAO)",
+      "B. Central Bank of Nigeria",
+      "C. Federal Ministry of Agriculture",
+      "D. National Population Commission"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 165,
+    "question": "The provision of agricultural insurance by government is aimed at:",
+    "options": [
+      "A. Reducing risks and encouraging investment in agriculture",
+      "B. Discouraging farmers from taking risks",
+      "C. Increasing the cost of production",
+      "D. Reducing farmer access to credit"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is a challenge facing agricultural development in Nigeria?",
+    "options": [
+      "A. Adequate infrastructure",
+      "B. Land tenure system",
+      "C. Sufficient credit facilities",
+      "D. Stable government policies"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 167,
+    "question": "The main objective of the Root and Tuber Expansion Programme (RTEP) in Nigeria is to:",
+    "options": [
+      "A. Reduce root and tuber production",
+      "B. Expand the production of root and tuber crops",
+      "C. Increase importation of root crops",
+      "D. Discourage local farmers"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 168,
+    "question": "Which of the following is a national agricultural research institute?",
+    "options": [
+      "A. IITA",
+      "B. LCRI",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 169,
+    "question": "The Lake Chad Research Institute (LCRI) is based in:",
+    "options": [
+      "A. Maiduguri",
+      "B. Ibadan",
+      "C. Zaria",
+      "D. Benin City"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is a mandate of the National Horticultural Research Institute (NIHORT)?",
+    "options": [
+      "A. Research on fruits, vegetables, and ornamental plants",
+      "B. Research on cereals",
+      "C. Research on cattle",
+      "D. Research on fisheries"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 171,
+    "question": "The main purpose of the National Fadama Development Project in Nigeria is to:",
+    "options": [
+      "A. Develop irrigated agriculture in floodplains",
+      "B. Reduce agricultural production",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 172,
+    "question": "Which of the following is an international agricultural research institute?",
+    "options": [
+      "A. NCRI",
+      "B. IAR&T",
+      "C. WARDA",
+      "D. NIHORT"
+    ],
+    "answer": "C",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 173,
+    "question": "The Institute of Agricultural Research and Training (IAR&T) is located in:",
+    "options": [
+      "A. Ibadan",
+      "B. Zaria",
+      "C. Benin City",
+      "D. Umudike"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is a contribution of agriculture to foreign exchange earnings?",
+    "options": [
+      "A. Importation of agricultural machinery",
+      "B. Exportation of cash crops like cocoa and groundnut",
+      "C. Reduction in agricultural output",
+      "D. Increase in food importation"
+    ],
+    "answer": "B",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "The main objective of the National Agricultural Research Project (NARP) in Nigeria was to:",
+    "options": [
+      "A. Strengthen agricultural research and extension linkages",
+      "B. Reduce agricultural research funding",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 176,
+    "question": "Which of the following is a government policy aimed at promoting agricultural exports?",
+    "options": [
+      "A. Export incentives and subsidies",
+      "B. High export taxes",
+      "C. Ban on agricultural exports",
+      "D. Reduction of export facilities"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 177,
+    "question": "The main purpose of agricultural cooperatives is to:",
+    "options": [
+      "A. Reduce farmer access to inputs",
+      "B. Enable farmers to pool resources and access inputs and markets",
+      "C. Increase agricultural taxes",
+      "D. Discourage farmer participation"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is a contribution of NGOs to agricultural development?",
+    "options": [
+      "A. Enactment of land use laws",
+      "B. Provision of extension services and training",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 179,
+    "question": "The main objective of the Agricultural Transformation Agenda (ATA) in Nigeria was to:",
+    "options": [
+      "A. Transform agriculture into a business-oriented sector",
+      "B. Reduce agricultural production",
+      "C. Increase food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 180,
+    "question": "Which of the following is a national agricultural research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. RRI",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 181,
+    "question": "The Rubber Research Institute of Nigeria (RRI) is located in:",
+    "options": [
+      "A. Ikom",
+      "B. Ibadan",
+      "C. Zaria",
+      "D. Benin City"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 182,
+    "question": "Which of the following is a mandate of the Nigerian Institute for Oceanography and Marine Research (NIOMR)?",
+    "options": [
+      "A. Research on fisheries and marine resources",
+      "B. Research on cereals",
+      "C. Research on cattle",
+      "D. Research on forestry"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 183,
+    "question": "The main purpose of the National Agricultural Extension and Research Liaison Services (NAERLS) is to:",
+    "options": [
+      "A. Link research findings to extension agents and farmers",
+      "B. Reduce agricultural research funding",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 184,
+    "question": "Which of the following is a government policy aimed at protecting local agricultural production?",
+    "options": [
+      "A. Ban on importation of certain agricultural products",
+      "B. Reduction of import duties",
+      "C. Increase in agricultural exports",
+      "D. Reduction of agricultural subsidies"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 185,
+    "question": "The main purpose of the National Agricultural Insurance Scheme in Nigeria is to:",
+    "options": [
+      "A. Provide insurance cover to farmers against risks",
+      "B. Increase agricultural taxes",
+      "C. Reduce farmer access to credit",
+      "D. Discourage agricultural production"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is a contribution of agriculture to industrial development?",
+    "options": [
+      "A. Provision of raw materials for factories",
+      "B. Reduction of industrial output",
+      "C. Increased importation of finished goods",
+      "D. Decrease in market size for industrial products"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 187,
+    "question": "The main objective of the National Agricultural Seed Council (NASC) in Nigeria is to:",
+    "options": [
+      "A. Regulate and certify agricultural seeds",
+      "B. Reduce seed quality",
+      "C. Promote importation of seeds",
+      "D. Discourage local seed production"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 188,
+    "question": "Which of the following is a challenge facing agricultural extension services in Nigeria?",
+    "options": [
+      "A. Adequate funding",
+      "B. Inadequate transportation facilities",
+      "C. Sufficient extension agents",
+      "D. Strong research-extension linkages"
+    ],
+    "answer": "B",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 189,
+    "question": "The main purpose of the National Food Security Programme (NFSP) in Nigeria is to:",
+    "options": [
+      "A. Ensure food availability and affordability",
+      "B. Increase food importation",
+      "C. Reduce agricultural production",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is a national agricultural research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. NSPRI",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 191,
+    "question": "The Nigerian Stored Products Research Institute (NSPRI) is located in:",
+    "options": [
+      "A. Ilorin",
+      "B. Ibadan",
+      "C. Zaria",
+      "D. Benin City"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 192,
+    "question": "Which of the following is a mandate of the Nigerian Building and Road Research Institute (NBRRI)?",
+    "options": [
+      "A. Research on building and road materials",
+      "B. Research on cereals",
+      "C. Research on cattle",
+      "D. Research on fisheries"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 193,
+    "question": "The main purpose of the National Biotechnology Development Agency (NABDA) in Nigeria is to:",
+    "options": [
+      "A. Promote biotechnology research and development",
+      "B. Reduce agricultural research funding",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 194,
+    "question": "Which of the following is a government policy aimed at promoting agricultural mechanization?",
+    "options": [
+      "A. Provision of tractor hire services",
+      "B. Reduction of agricultural credit",
+      "C. Ban on agricultural exports",
+      "D. Reduction of agricultural subsidies"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 195,
+    "question": "The main purpose of the National Agricultural Research and Innovation Fund (NARIF) in Nigeria is to:",
+    "options": [
+      "A. Provide funding for agricultural research and innovation",
+      "B. Reduce agricultural research funding",
+      "C. Promote food importation",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 196,
+    "question": "Which of the following is a contribution of agriculture to capital formation?",
+    "options": [
+      "A. Through savings and investment from agricultural income",
+      "B. Through increased importation of goods",
+      "C. Through reduction in rural employment",
+      "D. Through urban migration"
+    ],
+    "answer": "A",
+    "topic": "Importance of Agriculture",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 197,
+    "question": "The main objective of the National Agricultural Policy in Nigeria is to:",
+    "options": [
+      "A. Achieve self-sufficiency in food production",
+      "B. Increase food importation",
+      "C. Reduce agricultural production",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 198,
+    "question": "Which of the following is a national agricultural research institute in Nigeria?",
+    "options": [
+      "A. IITA",
+      "B. NIFOR",
+      "C. WARDA",
+      "D. ICRISAT"
+    ],
+    "answer": "B",
+    "topic": "History of Agricultural Development",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 199,
+    "question": "The main purpose of the National Agricultural Quarantine Service (NAQS) in Nigeria is to:",
+    "options": [
+      "A. Prevent the introduction and spread of pests and diseases",
+      "B. Promote importation of agricultural products",
+      "C. Reduce agricultural production",
+      "D. Discourage local farmers"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 200,
+    "question": "Which of the following is a contribution of NGOs to agricultural development in Nigeria?",
+    "options": [
+      "A. Provision of training and capacity building for farmers",
+      "B. Enactment of land use laws",
+      "C. Collection of agricultural taxes",
+      "D. Regulation of food prices"
+    ],
+    "answer": "A",
+    "topic": "Roles of Government and NGOs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 201,
+    "question": "Which of the following rock types is formed from the cooling and solidification of molten magma?",
+    "options": [
+      "A. Sedimentary rock",
+      "B. Igneous rock",
+      "C. Metamorphic rock",
+      "D. Calcareous rock"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 202,
+    "question": "The process by which rocks are broken down by physical forces without changing their chemical composition is called:",
+    "options": [
+      "A. Chemical weathering",
+      "B. Biological weathering",
+      "C. Physical weathering",
+      "D. Mineralization"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following is a factor that affects the rate of rock weathering and soil formation?",
+    "options": [
+      "A. Soil colour",
+      "B. Climate",
+      "C. Crop type",
+      "D. Farm size"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 204,
+    "question": "The soil horizon that is richest in organic matter and dark in colour is the:",
+    "options": [
+      "A. A horizon",
+      "B. B horizon",
+      "C. C horizon",
+      "D. R horizon"
+    ],
+    "answer": "A",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following soil particles is the smallest in size?",
+    "options": [
+      "A. Sand",
+      "B. Silt",
+      "C. Clay",
+      "D. Gravel"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 206,
+    "question": "The arrangement of soil particles into aggregates is referred to as soil:",
+    "options": [
+      "A. Texture",
+      "B. Structure",
+      "C. Porosity",
+      "D. Consistency"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 207,
+    "question": "A soil with a pH of 5.5 is best described as:",
+    "options": [
+      "A. Neutral",
+      "B. Alkaline",
+      "C. Acidic",
+      "D. Saline"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 208,
+    "question": "Which of the following is a primary silicate mineral commonly found in soils?",
+    "options": [
+      "A. Calcite",
+      "B. Feldspar",
+      "C. Gypsum",
+      "D. Halite"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 209,
+    "question": "The parent material of a soil refers to:",
+    "options": [
+      "A. The organic matter content of the soil",
+      "B. The rock or deposit from which the soil formed",
+      "C. The water-holding capacity of the soil",
+      "D. The living organisms in the soil"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 210,
+    "question": "Which of the following processes is an example of chemical weathering?",
+    "options": [
+      "A. Frost action",
+      "B. Root penetration",
+      "C. Oxidation of iron minerals",
+      "D. Wind abrasion"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 211,
+    "question": "The soil profile is best defined as:",
+    "options": [
+      "A. A vertical section of soil showing different horizons",
+      "B. The surface layer of soil used for farming",
+      "C. The arrangement of soil particles in aggregates",
+      "D. The total depth of soil above bedrock"
+    ],
+    "answer": "A",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following soil textures has the highest water-holding capacity?",
+    "options": [
+      "A. Sandy soil",
+      "B. Loamy soil",
+      "C. Clayey soil",
+      "D. Gravelly soil"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 213,
+    "question": "The addition of lime to an acidic soil is done to:",
+    "options": [
+      "A. Increase soil acidity",
+      "B. Raise soil pH",
+      "C. Lower soil pH",
+      "D. Increase soil salinity"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following is a metamorphic rock?",
+    "options": [
+      "A. Limestone",
+      "B. Granite",
+      "C. Marble",
+      "D. Sandstone"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 215,
+    "question": "The C horizon in a soil profile is characterized by:",
+    "options": [
+      "A. High organic matter content",
+      "B. Weathered parent material",
+      "C. Accumulation of clay",
+      "D. Unweathered bedrock"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 216,
+    "question": "Which of the following factors is NOT a soil-forming factor?",
+    "options": [
+      "A. Climate",
+      "B. Topography",
+      "C. Soil colour",
+      "D. Parent material"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 217,
+    "question": "Soil alkalinity is indicated by a pH value that is:",
+    "options": [
+      "A. Below 7",
+      "B. Exactly 7",
+      "C. Above 7",
+      "D. Equal to 0"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 218,
+    "question": "Which of the following is a biological agent of weathering?",
+    "options": [
+      "A. Temperature changes",
+      "B. Plant roots",
+      "C. Wind action",
+      "D. Water freezing"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 219,
+    "question": "The type of soil structure that is most favourable for plant growth is:",
+    "options": [
+      "A. Platy",
+      "B. Blocky",
+      "C. Granular",
+      "D. Massive"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is a sedimentary rock?",
+    "options": [
+      "A. Basalt",
+      "B. Limestone",
+      "C. Quartzite",
+      "D. Schist"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 221,
+    "question": "The water held in soil that is unavailable to plants is called:",
+    "options": [
+      "A. Gravitational water",
+      "B. Capillary water",
+      "C. Hygroscopic water",
+      "D. Field capacity"
+    ],
+    "answer": "C",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 222,
+    "question": "The point at which soil is saturated and water begins to drain freely is called:",
+    "options": [
+      "A. Field capacity",
+      "B. Permanent wilting point",
+      "C. Saturation point",
+      "D. Infiltration rate"
+    ],
+    "answer": "C",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 223,
+    "question": "Which type of soil water is most readily available to plants?",
+    "options": [
+      "A. Hygroscopic water",
+      "B. Capillary water",
+      "C. Gravitational water",
+      "D. Groundwater"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 224,
+    "question": "The permanent wilting point is the soil moisture level at which:",
+    "options": [
+      "A. Plants can no longer extract water and wilt permanently",
+      "B. Soil is fully saturated with water",
+      "C. Water drains freely from the soil",
+      "D. Capillary water is at maximum"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 225,
+    "question": "The movement of water downward through the soil profile is called:",
+    "options": [
+      "A. Capillary rise",
+      "B. Percolation",
+      "C. Transpiration",
+      "D. Runoff"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following is a method of soil conservation?",
+    "options": [
+      "A. Monocropping",
+      "B. Contour ploughing",
+      "C. Slash-and-burn",
+      "D. Overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 227,
+    "question": "Leaching is best described as the:",
+    "options": [
+      "A. Accumulation of salts in the topsoil",
+      "B. Downward movement of dissolved nutrients out of the root zone",
+      "C. Upward movement of water by capillary action",
+      "D. Loss of soil by wind action"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 228,
+    "question": "The type of erosion characterized by the removal of a thin layer of topsoil by rain splash is called:",
+    "options": [
+      "A. Gully erosion",
+      "B. Rill erosion",
+      "C. Sheet erosion",
+      "D. Splash erosion"
+    ],
+    "answer": "D",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following practices helps to prevent soil erosion on sloping land?",
+    "options": [
+      "A. Clean clearing of all vegetation",
+      "B. Terracing",
+      "C. Continuous grazing",
+      "D. Deep ploughing downslope"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 230,
+    "question": "The continuous cropping of land without replenishing nutrients leads to:",
+    "options": [
+      "A. Increased soil fertility",
+      "B. Soil nutrient depletion",
+      "C. Improved soil structure",
+      "D. Reduced soil erosion"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 231,
+    "question": "Burning of vegetation on farmland often results in:",
+    "options": [
+      "A. Increased soil organic matter",
+      "B. Destruction of soil structure and loss of nutrients",
+      "C. Improved soil water retention",
+      "D. Reduced soil erosion"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 232,
+    "question": "The oxidation of organic matter in soil leads to:",
+    "options": [
+      "A. Increase in soil organic carbon",
+      "B. Release of carbon dioxide and loss of organic matter",
+      "C. Improved soil aggregation",
+      "D. Increased water-holding capacity"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following is a source of soil water?",
+    "options": [
+      "A. Wind",
+      "B. Rainfall",
+      "C. Sunlight",
+      "D. Temperature"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 234,
+    "question": "Mulching is used in soil water conservation mainly to:",
+    "options": [
+      "A. Increase evaporation from the soil surface",
+      "B. Reduce evaporation and conserve soil moisture",
+      "C. Increase soil temperature",
+      "D. Promote weed growth"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 235,
+    "question": "The water-holding capacity of a soil is mainly determined by its:",
+    "options": [
+      "A. Colour",
+      "B. Texture and organic matter content",
+      "C. Slope",
+      "D. Depth"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 236,
+    "question": "Which of the following is NOT a cause of soil erosion?",
+    "options": [
+      "A. Deforestation",
+      "B. Overgrazing",
+      "C. Contour ploughing",
+      "D. Bush burning"
+    ],
+    "answer": "C",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 237,
+    "question": "Gully erosion is characterized by:",
+    "options": [
+      "A. Uniform removal of topsoil",
+      "B. Deep channels cut into the soil",
+      "C. Small channels less than 30 cm deep",
+      "D. Deposition of soil at the base of slopes"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 238,
+    "question": "The practice of growing cover crops to protect the soil from erosion is called:",
+    "options": [
+      "A. Monocropping",
+      "B. Cover cropping",
+      "C. Shifting cultivation",
+      "D. Clean clearing"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 239,
+    "question": "Field capacity is the amount of water held in soil:",
+    "options": [
+      "A. After gravitational water has drained away",
+      "B. When the soil is completely dry",
+      "C. At the permanent wilting point",
+      "D. When the soil is saturated"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 240,
+    "question": "Which of the following irrigation methods delivers water directly to the plant root zone drop by drop?",
+    "options": [
+      "A. Surface irrigation",
+      "B. Sprinkler irrigation",
+      "C. Drip irrigation",
+      "D. Flood irrigation"
+    ],
+    "answer": "C",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 241,
+    "question": "The main purpose of drainage in agriculture is to:",
+    "options": [
+      "A. Increase soil water content",
+      "B. Remove excess water from the root zone",
+      "C. Increase soil salinity",
+      "D. Promote waterlogging"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 242,
+    "question": "Which of the following is a surface irrigation method?",
+    "options": [
+      "A. Drip irrigation",
+      "B. Sprinkler irrigation",
+      "C. Furrow irrigation",
+      "D. Subsurface irrigation"
+    ],
+    "answer": "C",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 243,
+    "question": "A major challenge of irrigation in agriculture is:",
+    "options": [
+      "A. Increased crop yield",
+      "B. Waterlogging and salinization",
+      "C. Reduced water use",
+      "D. Improved soil structure"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 244,
+    "question": "Which of the following is an importance of irrigation?",
+    "options": [
+      "A. It eliminates the need for fertilizers",
+      "B. It allows crop production during dry seasons",
+      "C. It increases soil erosion",
+      "D. It reduces crop yields"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 245,
+    "question": "Sprinkler irrigation is most suitable for:",
+    "options": [
+      "A. Rice paddies",
+      "B. Sloping and uneven land",
+      "C. Waterlogged fields",
+      "D. Deep sandy soils only"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 246,
+    "question": "Subsurface drainage is designed to:",
+    "options": [
+      "A. Remove excess water from below the soil surface",
+      "B. Apply water to the soil surface",
+      "C. Increase water infiltration",
+      "D. Promote surface runoff"
+    ],
+    "answer": "A",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 247,
+    "question": "Which of the following is a challenge associated with drip irrigation?",
+    "options": [
+      "A. High water wastage",
+      "B. Clogging of emitters",
+      "C. Increased soil erosion",
+      "D. Difficulty in installation"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 248,
+    "question": "The process by which water moves upward through soil pores from a wet layer to a dry layer is called:",
+    "options": [
+      "A. Percolation",
+      "B. Capillary rise",
+      "C. Infiltration",
+      "D. Runoff"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 249,
+    "question": "Which of the following practices is used to conserve soil moisture in dry areas?",
+    "options": [
+      "A. Deep ploughing",
+      "B. Mulching",
+      "C. Clean clearing",
+      "D. Overgrazing"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 250,
+    "question": "The infiltration rate of a soil refers to:",
+    "options": [
+      "A. The speed at which water enters the soil surface",
+      "B. The amount of water held in the soil",
+      "C. The downward movement of water through the profile",
+      "D. The upward movement of water by capillarity"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 251,
+    "question": "Which of the following is an effect of soil erosion on agricultural production?",
+    "options": [
+      "A. Increased soil fertility",
+      "B. Loss of topsoil and reduced crop yield",
+      "C. Improved water retention",
+      "D. Increased organic matter content"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 252,
+    "question": "The practice of planting trees to control soil erosion is known as:",
+    "options": [
+      "A. Deforestation",
+      "B. Afforestation",
+      "C. Overgrazing",
+      "D. Monocropping"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following soil conservation methods involves planting crops along the contour lines of a slope?",
+    "options": [
+      "A. Terracing",
+      "B. Contour cropping",
+      "C. Strip cropping",
+      "D. Crop rotation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 254,
+    "question": "A soil with a high proportion of sand is likely to have:",
+    "options": [
+      "A. High water-holding capacity",
+      "B. Low water-holding capacity",
+      "C. High organic matter content",
+      "D. High clay content"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 255,
+    "question": "The process of soil formation from parent material is called:",
+    "options": [
+      "A. Pedogenesis",
+      "B. Weathering",
+      "C. Erosion",
+      "D. Leaching"
+    ],
+    "answer": "A",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 256,
+    "question": "Which of the following is a chemical property of soil?",
+    "options": [
+      "A. Soil texture",
+      "B. Soil structure",
+      "C. Soil pH",
+      "D. Soil colour"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 257,
+    "question": "The B horizon of a soil profile is also known as the:",
+    "options": [
+      "A. Topsoil",
+      "B. Subsoil",
+      "C. Parent material",
+      "D. Bedrock"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 258,
+    "question": "Which of the following is an example of a physical weathering process?",
+    "options": [
+      "A. Oxidation",
+      "B. Hydrolysis",
+      "C. Frost action",
+      "D. Carbonation"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 259,
+    "question": "The addition of organic manure to soil improves its:",
+    "options": [
+      "A. Acidity",
+      "B. Water-holding capacity and structure",
+      "C. Salinity",
+      "D. Erosion rate"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is a cause of soil salinity in irrigated areas?",
+    "options": [
+      "A. Excessive leaching",
+      "B. Poor drainage and high evaporation",
+      "C. Addition of organic matter",
+      "D. Crop rotation"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 261,
+    "question": "The main advantage of drip irrigation over surface irrigation is that it:",
+    "options": [
+      "A. Uses more water",
+      "B. Saves water and reduces weed growth",
+      "C. Causes waterlogging",
+      "D. Increases soil erosion"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 262,
+    "question": "Which of the following is a type of surface drainage?",
+    "options": [
+      "A. Tile drainage",
+      "B. Open ditch drainage",
+      "C. Subsoiling",
+      "D. Mole drainage"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 263,
+    "question": "The process of water entering the soil surface is known as:",
+    "options": [
+      "A. Infiltration",
+      "B. Percolation",
+      "C. Capillary rise",
+      "D. Evaporation"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 264,
+    "question": "Which of the following practices can lead to soil compaction?",
+    "options": [
+      "A. Crop rotation",
+      "B. Continuous use of heavy machinery",
+      "C. Mulching",
+      "D. Contour ploughing"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 265,
+    "question": "Soil texture refers to the:",
+    "options": [
+      "A. Arrangement of soil particles",
+      "B. Relative proportions of sand, silt, and clay",
+      "C. Colour of the soil",
+      "D. pH of the soil"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 266,
+    "question": "Which of the following is a method of conserving soil water?",
+    "options": [
+      "A. Deep ploughing",
+      "B. Terracing",
+      "C. Overgrazing",
+      "D. Deforestation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 267,
+    "question": "The type of erosion that occurs when water flows in small channels that can be removed by tillage is:",
+    "options": [
+      "A. Splash erosion",
+      "B. Rill erosion",
+      "C. Gully erosion",
+      "D. Sheet erosion"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 268,
+    "question": "Which of the following is a benefit of irrigation to crop production?",
+    "options": [
+      "A. It reduces crop yields",
+      "B. It enables year-round crop production",
+      "C. It increases soil erosion",
+      "D. It causes waterlogging"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 269,
+    "question": "The practice of leaving crop residues on the soil surface to conserve moisture is called:",
+    "options": [
+      "A. Mulching",
+      "B. Ploughing",
+      "C. Harrowing",
+      "D. Ridging"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 270,
+    "question": "Which of the following soil types is most susceptible to erosion?",
+    "options": [
+      "A. Sandy soil",
+      "B. Clayey soil",
+      "C. Loamy soil",
+      "D. Gravelly soil"
+    ],
+    "answer": "A",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 271,
+    "question": "The main cause of gully erosion is:",
+    "options": [
+      "A. Wind action",
+      "B. Concentrated runoff water",
+      "C. Frost action",
+      "D. Root penetration"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 272,
+    "question": "Which of the following is a chemical weathering process?",
+    "options": [
+      "A. Frost wedging",
+      "B. Hydrolysis",
+      "C. Wind abrasion",
+      "D. Root expansion"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 273,
+    "question": "The pH scale ranges from:",
+    "options": [
+      "A. 0 to 7",
+      "B. 7 to 14",
+      "C. 0 to 14",
+      "D. 1 to 10"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 274,
+    "question": "Which of the following is an importance of soil conservation?",
+    "options": [
+      "A. It increases soil erosion",
+      "B. It maintains soil fertility and productivity",
+      "C. It reduces crop yields",
+      "D. It promotes deforestation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 275,
+    "question": "The type of drainage that uses underground pipes to remove excess water is called:",
+    "options": [
+      "A. Surface drainage",
+      "B. Tile drainage",
+      "C. Open ditch drainage",
+      "D. Flood drainage"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 276,
+    "question": "Which of the following is a factor affecting infiltration rate?",
+    "options": [
+      "A. Soil colour",
+      "B. Soil texture",
+      "C. Crop type",
+      "D. Farm size"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 277,
+    "question": "The main purpose of terracing on sloping land is to:",
+    "options": [
+      "A. Increase runoff",
+      "B. Reduce soil erosion and conserve water",
+      "C. Promote gully formation",
+      "D. Increase soil salinity"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 278,
+    "question": "Which of the following is a source of soil acidity?",
+    "options": [
+      "A. Addition of lime",
+      "B. Application of ammonium-based fertilizers",
+      "C. Addition of organic manure",
+      "D. Irrigation with neutral water"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 279,
+    "question": "The process of water loss from soil surface to the atmosphere is called:",
+    "options": [
+      "A. Transpiration",
+      "B. Evaporation",
+      "C. Infiltration",
+      "D. Percolation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 280,
+    "question": "Which of the following is a disadvantage of surface irrigation?",
+    "options": [
+      "A. Low water loss",
+      "B. High water loss through runoff and evaporation",
+      "C. Low cost of installation",
+      "D. Uniform water distribution"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 281,
+    "question": "The practice of growing crops in strips alternating with strips of cover crops is called:",
+    "options": [
+      "A. Contour cropping",
+      "B. Strip cropping",
+      "C. Terracing",
+      "D. Crop rotation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following soil particles has the highest permeability?",
+    "options": [
+      "A. Clay",
+      "B. Silt",
+      "C. Sand",
+      "D. Humus"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 283,
+    "question": "The process of converting organic nitrogen into ammonium nitrogen in the soil is called:",
+    "options": [
+      "A. Nitrification",
+      "B. Ammonification",
+      "C. Denitrification",
+      "D. Nitrogen fixation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following is a method of irrigation that is most efficient in water use?",
+    "options": [
+      "A. Flood irrigation",
+      "B. Furrow irrigation",
+      "C. Drip irrigation",
+      "D. Basin irrigation"
+    ],
+    "answer": "C",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 285,
+    "question": "The loss of soil nutrients through the downward movement of water is called:",
+    "options": [
+      "A. Erosion",
+      "B. Leaching",
+      "C. Runoff",
+      "D. Evaporation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 286,
+    "question": "Which of the following is a biological method of soil conservation?",
+    "options": [
+      "A. Terracing",
+      "B. Contour bunding",
+      "C. Afforestation",
+      "D. Check dams"
+    ],
+    "answer": "C",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 287,
+    "question": "The amount of water that a soil can hold against gravity is called:",
+    "options": [
+      "A. Saturation point",
+      "B. Field capacity",
+      "C. Permanent wilting point",
+      "D. Infiltration rate"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 288,
+    "question": "Which of the following is a cause of waterlogging in irrigated fields?",
+    "options": [
+      "A. Proper drainage",
+      "B. Excessive irrigation without drainage",
+      "C. Crop rotation",
+      "D. Mulching"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 289,
+    "question": "The main objective of soil conservation is to:",
+    "options": [
+      "A. Increase soil erosion",
+      "B. Maintain soil productivity and prevent degradation",
+      "C. Reduce crop yields",
+      "D. Promote deforestation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 290,
+    "question": "Which of the following is a physical property of soil?",
+    "options": [
+      "A. pH",
+      "B. Cation exchange capacity",
+      "C. Texture",
+      "D. Nutrient content"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 291,
+    "question": "The type of weathering caused by the action of living organisms is called:",
+    "options": [
+      "A. Physical weathering",
+      "B. Chemical weathering",
+      "C. Biological weathering",
+      "D. Mechanical weathering"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 292,
+    "question": "Which of the following is an effect of soil erosion on water bodies?",
+    "options": [
+      "A. Increased water clarity",
+      "B. Sedimentation and pollution",
+      "C. Reduced water turbidity",
+      "D. Improved aquatic habitat"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 293,
+    "question": "The practice of constructing small barriers across gullies to slow water flow is called:",
+    "options": [
+      "A. Terracing",
+      "B. Check dams",
+      "C. Contour bunding",
+      "D. Strip cropping"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following is a characteristic of clay soil?",
+    "options": [
+      "A. High permeability",
+      "B. Low water-holding capacity",
+      "C. High water-holding capacity",
+      "D. Low nutrient retention"
+    ],
+    "answer": "C",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 295,
+    "question": "The main advantage of sprinkler irrigation is that it:",
+    "options": [
+      "A. Causes waterlogging",
+      "B. Can be used on uneven terrain",
+      "C. Increases soil erosion",
+      "D. Requires no maintenance"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 296,
+    "question": "Which of the following is a method of soil water conservation?",
+    "options": [
+      "A. Deep ploughing",
+      "B. Contour ploughing",
+      "C. Overgrazing",
+      "D. Deforestation"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 297,
+    "question": "The process by which soluble salts accumulate in the soil surface layer is called:",
+    "options": [
+      "A. Leaching",
+      "B. Salinization",
+      "C. Erosion",
+      "D. Percolation"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 298,
+    "question": "Which of the following is a factor that influences soil formation?",
+    "options": [
+      "A. Crop rotation",
+      "B. Time",
+      "C. Irrigation method",
+      "D. Fertilizer application"
+    ],
+    "answer": "B",
+    "topic": "Rocks and Soil Formation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 299,
+    "question": "The removal of topsoil by wind is called:",
+    "options": [
+      "A. Water erosion",
+      "B. Wind erosion",
+      "C. Gully erosion",
+      "D. Splash erosion"
+    ],
+    "answer": "B",
+    "topic": "Soil Water and Conservation",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 300,
+    "question": "The main purpose of land drainage in agriculture is to:",
+    "options": [
+      "A. Increase soil water content",
+      "B. Remove excess water and improve aeration",
+      "C. Increase soil salinity",
+      "D. Promote waterlogging"
+    ],
+    "answer": "B",
+    "topic": "Irrigation and Drainage",
+    "difficulty": "Easy"
+  }
+]

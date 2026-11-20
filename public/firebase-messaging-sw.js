@@ -85,8 +85,9 @@ self.addEventListener('notificationclick', function(event) {
   );
 });
 
-const STATIC_CACHE = 'studyos-static-v1';
-const PAGES_CACHE = 'studyos-pages-v1';
+const STATIC_CACHE = 'studyos-static-v2';
+const PAGES_CACHE = 'studyos-pages-v2';
+const IS_LOCALHOST = self.location.hostname === 'localhost' || self.location.hostname === '127.0.0.1';
 const PRECACHE_ASSETS = [
   '/',
   '/manifest.json',
@@ -101,6 +102,7 @@ const PRECACHE_ASSETS = [
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
+  if (IS_LOCALHOST) return;
   event.waitUntil(
     caches.open(STATIC_CACHE).then(function(cache) {
       return cache.addAll(PRECACHE_ASSETS).catch(function() {});
@@ -113,7 +115,7 @@ self.addEventListener('activate', function(event) {
     caches.keys().then(function(keys) {
       return Promise.all(
         keys.map(function(key) {
-          if (key !== STATIC_CACHE && key !== PAGES_CACHE) {
+          if (IS_LOCALHOST || (key !== STATIC_CACHE && key !== PAGES_CACHE)) {
             return caches.delete(key);
           }
         })
@@ -124,8 +126,9 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fast PWA shell & immutable static asset caching (skips API/auth/cross-origin requests)
+// Fast PWA shell & immutable static asset caching (skips localhost dev, API, auth, and cross-origin requests)
 self.addEventListener('fetch', function(event) {
+  if (IS_LOCALHOST) return;
   const req = event.request;
   if (req.method !== 'GET') return;
 

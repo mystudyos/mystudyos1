@@ -5,6 +5,7 @@ import { type User as FirebaseUser } from "firebase/auth"
 import { doc, onSnapshot } from "firebase/firestore"
 import { db } from "@/lib/firebase"
 import { ChatComposerBar } from "./chat-composer-bar"
+import { useChatViewport } from "@/hooks/use-chat-viewport"
 import {
   sendDM,
   subscribeToDMMessages,
@@ -63,7 +64,7 @@ function formatLastSeen(lastSeen: any): string {
 }
 
 // ─── Forbidden Words ───
-const FORBIDDEN_WORDS = ["fuck", "stupid", "crazy", "papa", "mama", "mad", "fool", "foolish"]
+const FORBIDDEN_WORDS = ["fuck", "stupid", "hell", "crazy", "papa", "mama", "mad", "fool", "foolish"]
 function hasForbiddenWords(input: string): boolean {
   const normalized = input.toLowerCase()
   return FORBIDDEN_WORDS.some((word) => {
@@ -101,6 +102,7 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
   const [isOtherTyping, setIsOtherTyping] = useState(false)
   const [isTyping, setIsTyping] = useState(false)
   const typingTimeoutRef = useRef<NodeJS.Timeout | null>(null)
+  const { viewportStyle } = useChatViewport()
 
   const otherUid = chat.users.find((u) => u !== user.uid) || ""
   const [otherUserStatus, setOtherUserStatus] = useState<{
@@ -235,19 +237,26 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
       return
     }
 
+    const replySnapshot = replyTo
+    const editingSnapshot = editingMessage
+
+    // Optimistic instant clear so keyboard stays up and user can keep typing immediately
+    setText("")
+    setReplyTo(null)
+    if (editingSnapshot) {
+      setEditingMessage(null)
+    }
+
     setSending(true)
     try {
-      if (editingMessage) {
-        await editDMMessage(chat.id, editingMessage.id, trimmed)
-        setEditingMessage(null)
+      if (editingSnapshot) {
+        await editDMMessage(chat.id, editingSnapshot.id, trimmed)
         toast.success("Message edited")
       } else {
-        await sendDM(chat.id, user.uid, user.displayName || "Anonymous", user.photoURL || null, trimmed, replyTo)
+        await sendDM(chat.id, user.uid, user.displayName || "Anonymous", user.photoURL || null, trimmed, replySnapshot)
       }
-      setText("")
-      setReplyTo(null)
 
-      if (!editingMessage) {
+      if (!editingSnapshot) {
         isNearBottom.current = true
         messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
         setCooldown(true)
@@ -255,6 +264,9 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
       }
     } catch (err) {
       console.error(err)
+      setText((curr) => curr || trimmed)
+      if (replySnapshot) setReplyTo(replySnapshot)
+      if (editingSnapshot) setEditingMessage(editingSnapshot)
       toast.error("Failed to send message")
     } finally {
       setSending(false)
@@ -333,13 +345,17 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
   const handleReply = useCallback((id: string, text: string, displayName: string) => {
     setReplyTo({ id, text, displayName })
     setEditingMessage(null)
+    setShowEmojiPicker(false)
+    // Call synchronously inside user gesture so mobile browsers pop up the soft keyboard
+    inputRef.current?.focus({ preventScroll: true })
   }, [])
 
   const handleEdit = useCallback((msg: DMMessage) => {
     setEditingMessage(msg)
     setText(msg.text)
     setReplyTo(null)
-    setTimeout(() => inputRef.current?.focus(), 50)
+    setShowEmojiPicker(false)
+    inputRef.current?.focus({ preventScroll: true })
   }, [])
 
   const handleTextChange = useCallback(
@@ -393,9 +409,12 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
   )
 
   return (
-    <div className="flex flex-col h-full bg-background select-text apple-font relative overflow-hidden min-h-0" style={{ userSelect: "text", WebkitUserSelect: "text" }}>
+    <div
+      className="flex flex-col h-full bg-background select-text apple-font relative overflow-hidden min-h-0"
+      style={{ userSelect: "text", WebkitUserSelect: "text", ...viewportStyle }}
+    >
       {/* Header */}
-      <div className="sticky top-0 z-30 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4">
+      <div className="sticky top-0 z-30 shrink-0 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4">
         <div className="max-w-3xl mx-auto flex items-center gap-3">
           <button
             onClick={onBack}
@@ -648,7 +667,7 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
 
       {/* Edit Context Bar */}
       {editingMessage && (
-        <div className="px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
+        <div className="shrink-0 px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
           <div className="flex items-center gap-2 min-w-0">
             <Pencil className="w-3.5 h-3.5 text-primary shrink-0" />
             <div className="min-w-0 flex-1">
@@ -670,7 +689,7 @@ export function DMChatView({ user, chat, onBack, onViewProfile, onRefreshChats }
 
       {/* Reply Context Bar */}
       {replyTo && (
-        <div className="px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
+        <div className="shrink-0 px-4 py-2 bg-muted/80 border-t border-border flex items-center justify-between backdrop-blur-md">
           <div className="flex items-center gap-2 min-w-0">
             <Reply className="w-3.5 h-3.5 text-primary shrink-0" />
             <div className="min-w-0 flex-1">

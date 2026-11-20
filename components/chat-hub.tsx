@@ -11,6 +11,7 @@ import {
 } from "@/lib/dm"
 import { GlobalChatView } from "./global-chat-view"
 import { DMChatView } from "./dm-chat-view"
+import { useChatViewport } from "@/hooks/use-chat-viewport"
 import { 
   ArrowLeft, 
   Pin, 
@@ -51,6 +52,7 @@ export function ChatHub({
   const [removingChatId, setRemovingChatId] = useState<string | null>(null)
   const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
   const longPressTriggeredRef = useRef(false)
+  const { viewportStyle } = useChatViewport(!selectedChat)
 
   // Hide mobile bottom bar when Note Room or an active Private DM chat is open
   const shouldHideBottomNav = activeSubTab === "global" || selectedChat !== null
@@ -160,9 +162,12 @@ export function ChatHub({
   }
 
   return (
-    <div className="flex flex-col h-full bg-background apple-font select-none overflow-hidden min-h-0">
+    <div
+      className="flex flex-col h-full bg-background apple-font select-none overflow-hidden min-h-0"
+      style={viewportStyle}
+    >
       {/* Unified Header */}
-      <div className="sticky top-0 z-30 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4 flex flex-col gap-4">
+      <div className="sticky top-0 z-30 shrink-0 bg-background border-b border-white/5 px-5 pt-10 lg:pt-5 pb-4 flex flex-col gap-4">
         <div className="max-w-3xl mx-auto w-full flex items-center gap-3">
           <button
             onClick={onBack}

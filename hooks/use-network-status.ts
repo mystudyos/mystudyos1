@@ -10,12 +10,8 @@ interface NetworkStatus {
 }
 
 export function useNetworkStatus(): NetworkStatus {
-  const [isOnline, setIsOnline] = useState<boolean>(
-    typeof window !== "undefined" ? navigator.onLine : true
-  )
-  const [isNetworkUnstable, setIsNetworkUnstable] = useState<boolean>(
-    typeof window !== "undefined" ? !navigator.onLine : false
-  )
+  const [isOnline, setIsOnline] = useState<boolean>(true)
+  const [isNetworkUnstable, setIsNetworkUnstable] = useState<boolean>(false)
   const [isChecking, setIsChecking] = useState<boolean>(false)
 
   const checkPing = useCallback(async (): Promise<boolean> => {
@@ -54,6 +50,13 @@ export function useNetworkStatus(): NetworkStatus {
 
   useEffect(() => {
     if (typeof window === "undefined") return
+
+    const syncInitial = () => {
+      const online = navigator.onLine
+      setIsOnline(online)
+      setIsNetworkUnstable(!online)
+    }
+    syncInitial()
 
     const handleOnline = () => {
       setIsOnline(true)

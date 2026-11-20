@@ -59,6 +59,7 @@ export function ChatComposerBar({
   const { resolvedTheme } = useTheme()
   const [emojiMounted, setEmojiMounted] = useState(false)
   const [textareaHeight, setTextareaHeight] = useState(SINGLE_LINE_HEIGHT)
+  const lastSendTapRef = useRef(0)
   const selectionRef = useRef<{ start: number; end: number }>({
     start: text.length,
     end: text.length,
@@ -134,6 +135,22 @@ export function ChatComposerBar({
   const canSend = Boolean(text.trim()) && !sending && !cooldown && !hasForbiddenWords
   const isSingleLine = textareaHeight <= SINGLE_LINE_HEIGHT
 
+  const handleSendAction = (e?: React.SyntheticEvent) => {
+    const now = Date.now()
+    if (now - lastSendTapRef.current < 350) {
+      e?.preventDefault()
+      return
+    }
+    if (!canSend) return
+    lastSendTapRef.current = now
+
+    const wasKeyboardActive = !showEmojiPicker && document.activeElement === inputRef.current
+    onSend()
+    if (wasKeyboardActive) {
+      inputRef.current?.focus({ preventScroll: true })
+    }
+  }
+
   return (
     <div className="border-t border-border bg-background flex flex-col shrink-0 pb-[env(safe-area-inset-bottom)]">
       <div className="max-w-3xl mx-auto w-full px-2.5 sm:px-4 py-2">
@@ -183,7 +200,6 @@ export function ChatComposerBar({
               className={`flex-1 block ${
                 isSingleLine ? "translate-y-[0.5px] my-0" : "my-[10px]"
               } pl-1.5 pr-1 py-0 bg-transparent text-[13px] leading-[22px] focus:outline-none placeholder:text-muted-foreground/55 resize-none scrollbar-hide text-foreground min-w-0`}
-              disabled={sending}
               rows={1}
               style={{
                 height: `${textareaHeight}px`,
@@ -207,13 +223,22 @@ export function ChatComposerBar({
           {/* Send Button (44px circle matching 1-line pill height) */}
           <button
             type="button"
+            tabIndex={-1}
+            onPointerDown={(e) => {
+              // Keep virtual keyboard focused instead of blurring textarea before click completes
+              e.preventDefault()
+            }}
+            onMouseDown={(e) => {
+              e.preventDefault()
+            }}
             onTouchEnd={(e) => {
               e.preventDefault()
               e.stopPropagation()
-              onSend()
+              handleSendAction(e)
             }}
-            onClick={onSend}
+            onClick={(e) => handleSendAction(e)}
             disabled={!canSend}
+            aria-label="Send message"
             className={`w-11 h-11 shrink-0 rounded-full flex items-center justify-center transition-all ${
               canSend
                 ? "bg-primary text-primary-foreground active:scale-95 cursor-pointer shadow-lg shadow-primary/20"

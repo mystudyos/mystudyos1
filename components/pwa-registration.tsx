@@ -9,6 +9,18 @@ export function PWARegistration() {
   const [canShowInstall, setCanShowInstall] = useState(false)
 
   useEffect(() => {
+    // Purge any stale caches in local dev so Next HMR chunks are never shadowed
+    if (
+      typeof window !== "undefined" &&
+      (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") &&
+      "caches" in window
+    ) {
+      caches
+        .keys()
+        .then((keys) => Promise.all(keys.filter((k) => k.startsWith("studyos-")).map((k) => caches.delete(k))))
+        .catch(() => {})
+    }
+
     // Defer Service Worker registration until browser is idle so it never blocks FCP/LCP
     let idleId: number | null = null
     let swTimer: ReturnType<typeof setTimeout> | null = null

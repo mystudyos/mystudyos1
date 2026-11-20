@@ -686,7 +686,7 @@ export function LeaderboardView({
                 <button
                   type="button"
                   onClick={() => setShowFlexModal(true)}
-                  className="px-2 py-0.5 rounded bg-primary hover:bg-primary/90 text-primary-foreground text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider active:scale-95 transition-all cursor-pointer shadow-xs"
+                  className="px-2 py-0.5 rounded bg-primary hover:bg-primary/90 text-primary-foreground text-[8px] sm:text-[8px] font-extrabold uppercase tracking-wider active:scale-95 transition-all cursor-pointer shadow-xs"
                 >
                   FLEX SCORE
                 </button>
