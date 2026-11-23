@@ -96,28 +96,27 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
     return () => unsub()
   }, [user, stats?.lastChatReadAt])
 
-  // Pre-load CXGenie script in background if user is Pro
+  // Pre-load CXGenie StudyOS AI script in background for all authenticated users
   useEffect(() => {
-    if (stats?.isPro && !cxgenieLoaded.current) {
-      // Check if script already exists to avoid duplicate script elements
-      const existingScript = document.querySelector('script[src="https://widget.cxgenie.ai/widget.js"]')
-      if (existingScript) {
-        cxgenieLoaded.current = true
-        return
-      }
-
-      const script = document.createElement("script")
-      script.src = "https://widget.cxgenie.ai/widget.js"
-      script.setAttribute("data-aid", "78f8c818-088b-4897-a1f3-e766c75db6e5")
-      script.setAttribute("data-lang", "en")
-      script.setAttribute("data-hide-widget-button", "true")
-      script.async = true
-      script.onload = () => {
-        cxgenieLoaded.current = true
-      }
-      document.body.appendChild(script)
+    if (!user || cxgenieLoaded.current) return
+    // Check if script already exists to avoid duplicate script elements
+    const existingScript = document.querySelector('script[src="https://widget.cxgenie.ai/widget.js"]')
+    if (existingScript) {
+      cxgenieLoaded.current = true
+      return
     }
-  }, [stats?.isPro])
+
+    const script = document.createElement("script")
+    script.src = "https://widget.cxgenie.ai/widget.js"
+    script.setAttribute("data-aid", "78f8c818-088b-4897-a1f3-e766c75db6e5")
+    script.setAttribute("data-lang", "en")
+    script.setAttribute("data-hide-widget-button", "true")
+    script.async = true
+    script.onload = () => {
+      cxgenieLoaded.current = true
+    }
+    document.body.appendChild(script)
+  }, [user])
 
   const completedIds = stats?.surveyResults
     ? Object.keys(stats.surveyResults).filter((id) => {
@@ -517,91 +516,89 @@ export function ProfileView({ user, stats, statsLoading, onLogout, onShowLegal, 
         </div>
       )}
 
-      {/* StudyOS AI Chat — Pro Only */}
-      {stats?.isPro && (
-        <button
-          onClick={() => {
-            if ((window as any).openCXGenieChatWidget) {
-              try {
-                (window as any).openCXGenieChatWidget()
-              } catch {}
-            } else {
-              setAiChatLoading(true)
-              
-              // Poll for initialization (runs every 100ms)
-              const checkInterval = setInterval(() => {
-                if ((window as any).openCXGenieChatWidget) {
-                  clearInterval(checkInterval)
-                  try {
-                    (window as any).openCXGenieChatWidget()
-                  } catch {}
-                  setAiChatLoading(false)
-                }
-              }, 100)
-
-              // If script has not been loaded/appended yet (safety fallback)
-              const existingScript = document.querySelector('script[src="https://widget.cxgenie.ai/widget.js"]')
-              if (!existingScript) {
-                const script = document.createElement("script")
-                script.src = "https://widget.cxgenie.ai/widget.js"
-                script.setAttribute("data-aid", "78f8c818-088b-4897-a1f3-e766c75db6e5")
-                script.setAttribute("data-lang", "en")
-                script.setAttribute("data-hide-widget-button", "true")
-                script.async = true
-                script.onload = () => {
-                  cxgenieLoaded.current = true
-                }
-                script.onerror = () => {
-                  clearInterval(checkInterval)
-                  setAiChatLoading(false)
-                }
-                document.body.appendChild(script)
+      {/* StudyOS AI Chat (unlocked for Free & Pro users) */}
+      <button
+        onClick={() => {
+          if ((window as any).openCXGenieChatWidget) {
+            try {
+              (window as any).openCXGenieChatWidget()
+            } catch {}
+          } else {
+            setAiChatLoading(true)
+            
+            // Poll for initialization (runs every 100ms)
+            const checkInterval = setInterval(() => {
+              if ((window as any).openCXGenieChatWidget) {
+                clearInterval(checkInterval)
+                try {
+                  (window as any).openCXGenieChatWidget()
+                } catch {}
+                setAiChatLoading(false)
               }
+            }, 100)
 
-              // Safety timeout: stop spinner if it fails to initialize in 5s
-              setTimeout(() => {
+            // If script has not been loaded/appended yet (safety fallback)
+            const existingScript = document.querySelector('script[src="https://widget.cxgenie.ai/widget.js"]')
+            if (!existingScript) {
+              const script = document.createElement("script")
+              script.src = "https://widget.cxgenie.ai/widget.js"
+              script.setAttribute("data-aid", "78f8c818-088b-4897-a1f3-e766c75db6e5")
+              script.setAttribute("data-lang", "en")
+              script.setAttribute("data-hide-widget-button", "true")
+              script.async = true
+              script.onload = () => {
+                cxgenieLoaded.current = true
+              }
+              script.onerror = () => {
                 clearInterval(checkInterval)
                 setAiChatLoading(false)
-              }, 5000)
+              }
+              document.body.appendChild(script)
             }
+
+            // Safety timeout: stop spinner if it fails to initialize in 5s
+            setTimeout(() => {
+              clearInterval(checkInterval)
+              setAiChatLoading(false)
+            }, 5000)
+          }
+        }}
+        disabled={aiChatLoading}
+        className="group relative w-full rounded-2xl p-px overflow-hidden mb-5 active:scale-[0.98] transition-all duration-200"
+      >
+        {/* Animated gradient border */}
+        <div
+          className="absolute inset-0 rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300"
+          style={{
+            background: "linear-gradient(135deg, oklch(0.72 0.16 192), oklch(0.62 0.18 240), oklch(0.62 0.18 295), oklch(0.72 0.16 192))",
+            backgroundSize: "300% 300%",
+            animation: "aiGradientShift 4s ease infinite",
           }}
-          disabled={aiChatLoading}
-          className="group relative w-full rounded-2xl p-px overflow-hidden mb-5 active:scale-[0.98] transition-all duration-200"
-        >
-          {/* Animated gradient border */}
+        />
+        {/* Inner content */}
+        <div className="relative flex items-center gap-3 px-4 py-3.5 rounded-[calc(1rem-1px)] bg-background/95 backdrop-blur-xl">
           <div
-            className="absolute inset-0 rounded-2xl opacity-80 group-hover:opacity-100 transition-opacity duration-300"
+            className="w-9 h-9 rounded-xl flex items-center justify-center shrink-0"
             style={{
-              background: "linear-gradient(135deg, oklch(0.72 0.16 192), oklch(0.62 0.18 240), oklch(0.62 0.18 295), oklch(0.72 0.16 192))",
-              backgroundSize: "300% 300%",
-              animation: "aiGradientShift 4s ease infinite",
+              background: "linear-gradient(135deg, oklch(0.72 0.16 192 / 0.2), oklch(0.62 0.18 295 / 0.2))",
+              border: "1px solid oklch(0.72 0.16 192 / 0.3)",
             }}
-          />
-          {/* Inner content */}
-          <div className="relative flex items-center gap-3 px-4 py-3.5 rounded-[calc(1rem-1px)] bg-background/95 backdrop-blur-xl">
-            <div
-              className="w-9 h-9 rounded-xl flex items-center justify-center shrink-0"
-              style={{
-                background: "linear-gradient(135deg, oklch(0.72 0.16 192 / 0.2), oklch(0.62 0.18 295 / 0.2))",
-                border: "1px solid oklch(0.72 0.16 192 / 0.3)",
-              }}
-            >
-              {aiChatLoading ? (
-                <div className="w-4 h-4 border-2 border-primary/30 border-t-primary rounded-full animate-spin" />
-              ) : (
-                <Bot className="w-4.5 h-4.5 text-primary" strokeWidth={2} />
-              )}
-            </div>
-            <div className="flex-1 text-left">
-              <p className="text-sm font-bold text-foreground leading-tight">Chat StudyOS AI</p>
-              <p className="text-[10px] text-muted-foreground font-medium mt-0.5">Ask anything about your subjects</p>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="text-[8px] font-black uppercase tracking-widest px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-400">Pro</span>
-            </div>
+          >
+            {aiChatLoading ? (
+              <div className="w-4 h-4 border-2 border-primary/30 border-t-primary rounded-full animate-spin" />
+            ) : (
+              <Bot className="w-4.5 h-4.5 text-primary" strokeWidth={2} />
+            )}
           </div>
-        </button>
-      )}
+          <div className="flex-1 text-left">
+            <p className="text-sm font-bold text-foreground leading-tight">Chat StudyOS AI</p>
+            <p className="text-[10px] text-muted-foreground font-medium mt-0.5">Ask anything about your subjects</p>
+          </div>
+          <div className="flex items-center gap-1.5">
+            <span className="text-[8px] font-black uppercase tracking-widest px-2 py-0.5 rounded-md bg-emerald-500/15 text-emerald-500">Free</span>
+          </div>
+        </div>
+      </button>
 
       {/* Logout */}
       <button

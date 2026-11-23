@@ -224,7 +224,7 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
                     <span className="text-[9px] text-foreground font-semibold tabular-nums">August 4, 2026</span>
                   </div>
                   <p className="text-[13px] font-bold text-foreground leading-tight">Web Push Notifications are Live!</p>
-                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Stay connected in real-time and get instant background push notifications for new private DMs and Chat Room messages even when StudyOS is closed.</p>
+                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Stay connected in real-time and get instant background push notifications for new private DMs and Note Room messages even when StudyOS is closed.</p>
                 </div>
               </div>
 
@@ -308,7 +308,7 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
                     <span className="text-[9px] text-foreground font-semibold tabular-nums">May 13, 2026</span>
                   </div>
                   <p className="text-[13px] font-bold text-foreground leading-tight">Streak Reliability Updated</p>
-                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Streaks now correctly increment once per day (instead of every quiz), preventing unrealistic inflation and making progress feel earned.</p>
+                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Streaks now correctly increment once per every quiz, making progress feel earned.</p>
                 </div>
               </div>
 
@@ -325,7 +325,7 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
                     <span className="text-[9px] text-foreground font-semibold tabular-nums">May 12, 2026</span>
                   </div>
                   <p className="text-[13px] font-bold text-foreground leading-tight">StudyOS Pro Unlocked! 👑</p>
-                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Upgrade to Pro to unlock the Advanced Analytics dashboard, Performance Trends, Subject Mastery matrix, and your exact Global Rank!</p>
+                  <p className="text-[11px] text-foreground mt-0.5 leading-relaxed">Upgrade to Pro to unlock the Leaderboard identification & Study Games!</p>
                 </div>
               </div>
 
@@ -430,8 +430,8 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
           <div className="relative flex items-center gap-3">
             <div className="flex-1 min-w-0">
               <p className="text-sm font-bold text-white leading-tight">StudyOS Pro</p>
-              <p className="text-xs text-purple-200/80 mt-0.5 leading-tight">
-                Unlock Explanations &amp; Analytics
+              <p className="text-xs text-white font-bold mt-0.5 leading-tight">
+                {isSSS ? "Identification Badge, Theory & Study Games" : "Identification Badge & Study Games"}
               </p>
             </div>
             <div className="shrink-0">
@@ -603,12 +603,10 @@ export function DashboardView({ user, stats, statsLoading, onStartTraining, onSt
         </div>
       </div>
 
-      {/* Pro Analytics View */}
-      {stats?.isPro && (
-        <div className="mt-8">
-          <ProAnalyticsView user={user} stats={stats} />
-        </div>
-      )}
+      {/* Analytics & Insights (unlocked for all users) */}
+      <div className="mt-8">
+        <ProAnalyticsView user={user} stats={stats} />
+      </div>
 
     </div>
   )

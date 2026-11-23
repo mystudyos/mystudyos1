@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts"
 import { TrendingUp, BarChart2, Target, Trophy, Loader2 } from "lucide-react"
 import { fetchRecentQuizResults, fetchLeaderboard, type UserStats } from "@/lib/user-stats"
+import { reportFirestoreError } from "@/lib/quota"
 import type { User as FirebaseUser } from "firebase/auth"
 
 interface ProAnalyticsViewProps {
@@ -19,36 +20,40 @@ export function ProAnalyticsView({ user, stats }: ProAnalyticsViewProps) {
 
   useEffect(() => {
     if (!user) return
+    if (typeof window !== "undefined" && !navigator.onLine) {
+      setLoading(false)
+      return
+    }
 
     async function loadAnalytics() {
       try {
-        // Fetch recent quizzes for the trend chart
-        const results = await fetchRecentQuizResults(user!.uid, 15)
-        
+        // Fetch recent quizzes & cached leaderboard standing in parallel
+        const [results, board] = await Promise.all([
+          fetchRecentQuizResults(user!.uid, 15),
+          fetchLeaderboard(200),
+        ])
+
         // Format for Recharts (reverse to get chronological order)
         const formattedData = results.reverse().map((r, i) => ({
           name: `Q${i + 1}`,
           accuracy: r.accuracy,
-          score: r.score
+          score: r.score,
         }))
         setChartData(formattedData)
 
-        // Fetch leaderboard to calculate standing
-        const board = await fetchLeaderboard(500) // Get top 500 for accurate ranking
-        
-        const rankIndex = board.findIndex(entry => entry.uid === user!.uid)
+        const rankIndex = board.findIndex((entry) => entry.uid === user!.uid)
         if (rankIndex !== -1) {
           setGlobalRank(rankIndex + 1)
         }
-        
+
         // Calculate top 10 average accuracy
         if (board.length > 0) {
           const top10 = board.slice(0, 10)
           const avg = top10.reduce((acc, curr) => acc + curr.accuracy, 0) / top10.length
           setTopAverage(Math.round(avg))
         }
-
       } catch (err) {
+        reportFirestoreError(err)
         console.error("Failed to load analytics:", err)
       } finally {
         setLoading(false)
@@ -82,7 +87,7 @@ export function ProAnalyticsView({ user, stats }: ProAnalyticsViewProps) {
         <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center">
           <BarChart2 className="w-4 h-4 text-primary" />
         </div>
-        <h2 className="text-xs font-bold uppercase tracking-widest text-muted-foreground">Pro Insights</h2>
+        <h2 className="text-xs font-bold uppercase tracking-widest text-muted-foreground">Analytics &amp; Insights</h2>
       </div>
 
       {/* 1. Performance Trend Chart */}
@@ -119,7 +124,7 @@ export function ProAnalyticsView({ user, stats }: ProAnalyticsViewProps) {
             </ResponsiveContainer>
           </div>
         ) : (
-          <div className="h-40 w-full flex items-center justify-center text-xs text-muted-foreground/60 border border-dashed border-white/10 rounded-xl">
+          <div className="h-40 w-full flex items-center justify-center text-xs text-muted-foreground border border-dashed border-white rounded-xl">
             Take more quizzes to see your trend.
           </div>
         )}

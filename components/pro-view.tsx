@@ -10,33 +10,32 @@ const FEATURES_FREE_JSS = [
   "Exam Practice (Solid Question) mode",
   "All BECE subjects",
   "Basic progress tracking",
+  "StudyOS AI",
+  "Advanced analytics & insights",
+  "Performance comparisons",
+  "Priority support",
 ]
 
 const FEATURES_FREE_SSS = [
   "Exam Practice (Solid Question) mode",
   "All SSS subjects (WAEC, NECO & JAMB)",
   "Basic progress tracking",
+  "StudyOS AI",
+  "Advanced analytics & insights",
+  "Performance comparisons",
+  "Priority support",
 ]
 
 const FEATURES_PRO_JSS = [
   { text: "Everything in Free", active: true },
   { text: "Leaderboard identification", active: true },
-  { text: "StudyOS AI", active: true },
-  { text: "Advanced analytics & insights", active: true },
-  { text: "Performance comparisons", active: true },
-  { text: "Priority support", active: true },
   { text: "Game Study Challenge", active: false },
 ]
 
 const FEATURES_PRO_SSS = [
   { text: "Everything in Free", active: true },
   { text: "Leaderboard identification", active: true },
-  { text: "StudyOS AI", active: true },
-  { text: "Advanced analytics & insights", active: true },
-  { text: "Performance comparisons", active: true },
-  { text: "Priority support", active: true },
   { text: "Theory explanation", active: false },
-  { text: "JAMB Exam Prep", active: true },
   { text: "Game Study Challenge", active: false },
 ]
 
@@ -132,7 +131,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
         <h1 className="text-2xl font-bold text-foreground mb-2 text-balance">
           Upgrade to StudyOS <span className="text-accent">Pro</span>
         </h1>
-        <p className="text-sm text-muted-foreground leading-relaxed text-balance">
+        <p className="text-sm text-muted-foreground font-bold leading-relaxed text-balance">
           {isSSS
             ? "Get the full power of StudyOS and maximise your WAEC, NECO & JAMB scores."
             : "Get the full power of StudyOS and maximise your BECE score."}
@@ -154,12 +153,12 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
         />
         <div className="flex items-end gap-2 mb-1">
           <span className="text-4xl font-black text-white">{isSSS ? "₦1,000" : "₦500"}</span>
-          <span className="text-muted-foreground pb-1">{isSSS ? "/3 months" : "/2 months"}</span>
+          <span className="text-white pb-1">{isSSS ? "/3 months" : "/2 months"}</span>
           {!isSSS && (
-            <span className="text-sm text-muted-foreground/60 line-through pb-1">/1 month</span>
+            <span className="text-sm text-white line-through pb-1">/1 month</span>
           )}
         </div>
-        <p className="text-xs text-purple-200/70 mb-5">
+        <p className="text-xs text-white font-bold mb-5">
           {isSSS ? "Billed every 3 months · Cancel anytime" : "Billed every 2 months · Cancel anytime"}
         </p>
 
@@ -202,14 +201,14 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
       {/* Secure badge */}
       <div className="flex items-center justify-center gap-2 mb-5">
         <Shield className="w-3.5 h-3.5 text-emerald-500" />
-        <span className="text-[10px] text-muted-foreground/60 font-medium uppercase tracking-wider">Secured by Paystack · 256-bit encryption</span>
+        <span className="text-[10px] text-muted-foreground font-bold uppercase tracking-wider">Secured by Paystack · 256-bit encryption</span>
       </div>
 
       {/* Features Grid */}
       <div className="lg:grid lg:grid-cols-2 lg:gap-4 mb-4">
         {/* Pro Feature list */}
         <div className="glass rounded-2xl p-4 lg:mb-0 mb-4 flex flex-col">
-          <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground mb-3">
+          <p className="text-xs font-bold uppercase tracking-widest text-muted-foreground mb-3">
             Pro Features
           </p>
           <div className="flex flex-col gap-2.5">
@@ -237,7 +236,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
 
         {/* Free Plan */}
         <div className="glass rounded-2xl p-4 flex flex-col">
-          <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground mb-3">
+          <p className="text-xs font-bold uppercase tracking-widest text-muted-foreground mb-3">
             Free Plan
           </p>
           <div className="flex flex-col gap-2.5">
@@ -253,7 +252,7 @@ export function ProView({ user, isPro, onUpgradeSuccess, category = "JSS" }: Pro
         </div>
       </div>
 
-      <p className="text-center text-xs text-muted-foreground mt-4">
+      <p className="text-center uppercase text-xs font-bold text-muted-foreground mt-4">
         Secure Payment
       </p>
     </div>

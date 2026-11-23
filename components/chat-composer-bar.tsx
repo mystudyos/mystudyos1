@@ -167,13 +167,13 @@ export function ChatComposerBar({
               aria-label={showEmojiPicker ? "Switch to keyboard" : "Open emoji picker"}
               title={showEmojiPicker ? "Keyboard" : "Emojis"}
               className={`w-8 h-8 ${
-                isSingleLine ? "my-0" : "my-[5px]"
+                isSingleLine ? "my-0" : "my-1.25"
               } shrink-0 rounded-full flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-foreground/5 transition-colors active:scale-95 cursor-pointer`}
             >
               {showEmojiPicker ? (
-                <Keyboard className="w-[22px] h-[22px]" strokeWidth={1.9} />
+                <Keyboard className="w-5.5 h-5.5" strokeWidth={1.9} />
               ) : (
-                <Smile className="w-[22px] h-[22px]" strokeWidth={1.9} />
+                <Smile className="w-5.5 h-5.5" strokeWidth={1.9} />
               )}
             </button>
 
@@ -198,8 +198,8 @@ export function ChatComposerBar({
               }}
               placeholder="Type a message..."
               className={`flex-1 block ${
-                isSingleLine ? "translate-y-[0.5px] my-0" : "my-[10px]"
-              } pl-1.5 pr-1 py-0 bg-transparent text-[13px] leading-[22px] focus:outline-none placeholder:text-muted-foreground/55 resize-none scrollbar-hide text-foreground min-w-0`}
+                isSingleLine ? "translate-y-[0.5px] my-0" : "my-2.5"
+              } pl-1.5 pr-1 py-0 bg-transparent text-[13px] leading-5.5 focus:outline-none placeholder:text-muted-foreground/55 resize-none scrollbar-hide text-foreground min-w-0`}
               rows={1}
               style={{
                 height: `${textareaHeight}px`,
@@ -209,7 +209,7 @@ export function ChatComposerBar({
 
             {text.length > 400 && (
               <span
-                className={`self-end pb-[10px] pl-1.5 text-[9px] font-bold shrink-0 ${
+                className={`self-end pb-2.5 pl-1.5 text-[9px] font-bold shrink-0 ${
                   text.length >= MAX_MESSAGE_LENGTH
                     ? "text-destructive"
                     : "text-muted-foreground/40"

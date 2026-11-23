@@ -200,11 +200,11 @@ export const SSS_EXAM_OPTIONS: {
 ]
 
 export function isSSSExamProOnly(
-  subjectKey: SSSSubjectKey,
-  examType: SSSExamType,
-  paperType: SSSPaperType = "objective"
+  _subjectKey: SSSSubjectKey,
+  _examType: SSSExamType,
+  _paperType: SSSPaperType = "objective"
 ): boolean {
-  return subjectKey === "english" && examType === "utme" && paperType === "objective"
+  return false
 }
 
 export function getAvailableObjectiveExamLabels(key: SSSSubjectKey): string[] {
