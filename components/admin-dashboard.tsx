@@ -627,7 +627,7 @@ export function AdminDashboard({ user, onBack }: AdminDashboardProps) {
                         </span>
                       )}
                     </div>
-                    {student.lastSeen && (Date.now() - student.lastSeen.toMillis()) < 300000 && (
+                    {student.lastSeen && toMillisSafe(student.lastSeen) > 0 && (Date.now() - toMillisSafe(student.lastSeen)) < 300000 && (
                       <div className="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-emerald-500 border-4 border-card" />
                     )}
                   </div>
