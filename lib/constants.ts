@@ -73,7 +73,7 @@ Welcome to StudyOS! We're thrilled to have you on board.
 Your account has been successfully registered, and you're now part of a growing community of students preparing smarter for their exams.
 
 Here's what you can do right away:
-• Start practicing with curated BECE past questions
+• Start practicing with curated past questions
 • Track your progress on the leaderboard
 • Compete with other students and climb the ranks
 • Chat with other students and study together
