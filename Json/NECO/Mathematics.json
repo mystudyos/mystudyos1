@@ -294,7 +294,7 @@
       "C. \\(110000_{2}\\)",
       "D. \\(100010_{2}\\)"
     ],
-    "answer": "B",
+    "answer": "A",
     "topic": "Number Bases",
     "difficulty": "Medium"
   },
@@ -365,7 +365,7 @@
   },
   {
     "id": 29,
-    "question": "Evaluate (12 \\(\\times 5)\\) mod 7.",
+    "question": "Evaluate \\((12 \\times 5)\\) mod 7.",
     "options": [
       "A. 1",
       "B. 2",
@@ -378,7 +378,7 @@
   },
   {
     "id": 30,
-    "question": "Evaluate (20 \\(- 13)\\) mod 4.",
+    "question": "Evaluate \\((20 - 13)\\) mod 4.",
     "options": [
       "A. 1",
       "B. 3",
@@ -391,7 +391,7 @@
   },
   {
     "id": 31,
-    "question": "Find the value of \\(-\\)1 mod 5.",
+    "question": "Find the value of \\(-1\\) mod 5.",
     "options": [
       "A. 1",
       "B. 2",
@@ -404,7 +404,7 @@
   },
   {
     "id": 32,
-    "question": "If a \\(\\equiv\\) 3 (mod 5) and b \\(\\equiv\\) 4 (mod 5), find (a + b) mod 5.",
+    "question": "If \\(a \\equiv 3\\) (mod 5) and \\(b \\equiv 4\\) (mod 5), find \\((a + b)\\) mod 5.",
     "options": [
       "A. 2",
       "B. 1",
@@ -417,7 +417,7 @@
   },
   {
     "id": 33,
-    "question": "If x \\(\\equiv\\) 2 (mod 7), find 5x mod 7.",
+    "question": "If \\(x \\equiv 2\\) (mod 7), find \\(5x\\) mod 7.",
     "options": [
       "A. 1",
       "B. 2",
@@ -430,7 +430,7 @@
   },
   {
     "id": 34,
-    "question": "Evaluate \\((3^{2}\\)) mod 4.",
+    "question": "Evaluate \\((3^{2})\\) mod 4.",
     "options": [
       "A. 0",
       "B. 1",
@@ -469,7 +469,7 @@
   },
   {
     "id": 37,
-    "question": "Evaluate (6 \\(\\times 9)\\) mod 11.",
+    "question": "Evaluate \\((6 \\times 9)\\) mod 11.",
     "options": [
       "A. 8",
       "B. 9",
@@ -482,7 +482,7 @@
   },
   {
     "id": 38,
-    "question": "If 3x \\(\\equiv\\) 1 (mod 5), find the value of x.",
+    "question": "If \\(3x \\equiv 1\\) (mod 5), find the value of \\(x\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -508,7 +508,7 @@
   },
   {
     "id": 40,
-    "question": "Evaluate (17 \\(- 25)\\) mod 6.",
+    "question": "Evaluate \\((17 - 25)\\) mod 6.",
     "options": [
       "A. 4",
       "B. 3",
@@ -521,7 +521,7 @@
   },
   {
     "id": 41,
-    "question": "If a \\(\\equiv\\) 2 (mod 5) and b \\(\\equiv\\) 3 (mod 5), find (a \\(\\times\\) b) mod 5.",
+    "question": "If \\(a \\equiv 2\\) (mod 5) and \\(b \\equiv 3\\) (mod 5), find \\((a \\times b)\\) mod 5.",
     "options": [
       "A. 2",
       "B. 3",
@@ -560,7 +560,7 @@
   },
   {
     "id": 44,
-    "question": "Find the least positive value of x such that 3x \\(\\equiv\\) 2 (mod 5).",
+    "question": "Find the least positive value of \\(x\\) such that \\(3x \\equiv 2\\) (mod 5).",
     "options": [
       "A. 4",
       "B. 3",
@@ -573,7 +573,7 @@
   },
   {
     "id": 45,
-    "question": "Evaluate (11 \\(\\times 13)\\) mod 9.",
+    "question": "Evaluate \\((11 \\times 13)\\) mod 9.",
     "options": [
       "A. 6",
       "B. 7",
@@ -625,7 +625,7 @@
   },
   {
     "id": 49,
-    "question": "Evaluate: \\(1.25 \\times\\) 0.4.",
+    "question": "Evaluate: \\(1.25 \\times 0.4\\).",
     "options": [
       "A. 0.05",
       "B. 5.0",
@@ -677,7 +677,7 @@
   },
   {
     "id": 53,
-    "question": "Simplify: \\((\\frac{2}{5} ) \\div ( \\frac{4}{15}\\)).",
+    "question": "Simplify: \\(\\left(\\frac{2}{5}\\right) \\div \\left(\\frac{4}{15}\\right)\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
       "B. \\(\\frac{2}{3}\\)",
@@ -716,7 +716,7 @@
   },
   {
     "id": 56,
-    "question": "Evaluate: \\(2.5 + 3.75 -\\) 1.25.",
+    "question": "Evaluate: \\(2.5 + 3.75 - 1.25\\).",
     "options": [
       "A. 5.0",
       "B. 4.5",
@@ -859,7 +859,7 @@
   },
   {
     "id": 67,
-    "question": "Simplify: \\((3^{2}\\)\\()^{3}\\).",
+    "question": "Simplify: \\((3^{2})^{3}\\).",
     "options": [
       "A. \\(3^{5}\\)",
       "B. \\(3^{8}\\)",
@@ -911,7 +911,7 @@
   },
   {
     "id": 71,
-    "question": "Evaluate: \\((\\frac{2}{3}\\)\\()^{-2}\\).",
+    "question": "Evaluate: \\(\\left(\\frac{2}{3}\\right)^{-2}\\).",
     "options": [
       "A. \\(\\frac{4}{9}\\)",
       "B. \\(\\frac{3}{2}\\)",
@@ -937,7 +937,7 @@
   },
   {
     "id": 73,
-    "question": "Write 6.789 \\(\\times 10^{4}\\) in ordinary form.",
+    "question": "Write \\(6.789 \\times 10^{4}\\) in ordinary form.",
     "options": [
       "A. 6789",
       "B. 678900",
@@ -963,14 +963,14 @@
   },
   {
     "id": 75,
-    "question": "Simplify: \\((2a^{2}\\)\\()^{3}\\).",
+    "question": "Simplify: \\((2a^{2})^{3}\\).",
     "options": [
       "A. \\(6a^{5}\\)",
       "B. \\(8a^{6}\\)",
       "C. \\(2a^{6}\\)",
       "D. \\(8a^{5}\\)"
     ],
-    "answer": "C",
+    "answer": "B",
     "topic": "Indices",
     "difficulty": "Medium"
   },
@@ -978,9 +978,9 @@
     "id": 76,
     "question": "Evaluate: \\(2^{-3}\\).",
     "options": [
-      "A. \\(-\\)8",
+      "A. \\(-8\\)",
       "B. \\(\\frac{1}{8}\\)",
-      "C. \\(-\\)\\(\\frac{1}{8}\\)",
+      "C. \\(-\\frac{1}{8}\\)",
       "D. 8"
     ],
     "answer": "B",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": 80,
-    "question": "Simplify: \\((x^{3}\\)\\()^{2} \\times x^{4}\\).",
+    "question": "Simplify: \\((x^{3})^{2} \\times x^{4}\\).",
     "options": [
       "A. \\(x^{9}\\)",
       "B. \\(x^{10}\\)",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 85,
-    "question": "Write 3.45 \\(\\times 10^{-3}\\) in ordinary form.",
+    "question": "Write \\(3.45 \\times 10^{-3}\\) in ordinary form.",
     "options": [
       "A. 3450",
       "B. 0.0345",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": 86,
-    "question": "Evaluate: \\(log_{10}\\) 1000.",
+    "question": "Evaluate: \\(\\log_{10} 1000\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": 87,
-    "question": "Evaluate: \\(log_{2}\\) 16.",
+    "question": "Evaluate: \\(\\log_{2} 16\\).",
     "options": [
       "A. 4",
       "B. 2",
@@ -1132,7 +1132,7 @@
   },
   {
     "id": 88,
-    "question": "Simplify: \\(log_{10} 4 + log_{10}\\) 25.",
+    "question": "Simplify: \\(\\log_{10} 4 + \\log_{10} 25\\).",
     "options": [
       "A. 1",
       "B. 3",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 89,
-    "question": "Simplify: \\(log_{10} 100 - log_{10}\\) 10.",
+    "question": "Simplify: \\(\\log_{10} 100 - \\log_{10} 10\\).",
     "options": [
       "A. 0",
       "B. 1",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": 90,
-    "question": "Evaluate: \\(log_{3}\\) 81.",
+    "question": "Evaluate: \\(\\log_{3} 81\\).",
     "options": [
       "A. 3",
       "B. 9",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 91,
-    "question": "If \\(log_{10}\\) 2 = 0.3010, find \\(log_{10}\\) 8.",
+    "question": "If \\(\\log_{10} 2 = 0.3010\\), find \\(\\log_{10} 8\\).",
     "options": [
       "A. 0.9030",
       "B. 0.6020",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 92,
-    "question": "Simplify: \\(2log_{10} 5 + log_{10}\\) 4.",
+    "question": "Simplify: \\(2\\log_{10} 5 + \\log_{10} 4\\).",
     "options": [
       "A. 1",
       "B. 3",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": 93,
-    "question": "Evaluate: \\(log_{5}\\) 125.",
+    "question": "Evaluate: \\(\\log_{5} 125\\).",
     "options": [
       "A. 5",
       "B. 3",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": 94,
-    "question": "Simplify: \\(log_{10} 20 + log_{10}\\) 5.",
+    "question": "Simplify: \\(\\log_{10} 20 + \\log_{10} 5\\).",
     "options": [
       "A. 1",
       "B. 3",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": 95,
-    "question": "Evaluate: \\(log_{4}\\) 64.",
+    "question": "Evaluate: \\(\\log_{4} 64\\).",
     "options": [
       "A. 3",
       "B. 4",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": 96,
-    "question": "If \\(log_{10}\\) 3 = 0.4771, find \\(log_{10}\\) 9.",
+    "question": "If \\(\\log_{10} 3 = 0.4771\\), find \\(\\log_{10} 9\\).",
     "options": [
       "A. 0.4771",
       "B. 1.4313",
@@ -1249,12 +1249,12 @@
   },
   {
     "id": 97,
-    "question": "Simplify: \\(log_{10} 16 - 2log_{10}\\) 2.",
+    "question": "Simplify: \\(\\log_{10} 16 - 2\\log_{10} 2\\).",
     "options": [
-      "A. \\(log_{10}\\) 2",
-      "B. \\(log_{10}\\) 4",
-      "C. \\(log_{10}\\) 8",
-      "D. \\(log_{10}\\) 12"
+      "A. \\(\\log_{10} 2\\)",
+      "B. \\(\\log_{10} 4\\)",
+      "C. \\(\\log_{10} 8\\)",
+      "D. \\(\\log_{10} 12\\)"
     ],
     "answer": "B",
     "topic": "Logarithms",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": 98,
-    "question": "Evaluate: \\(log_{2}\\) 32.",
+    "question": "Evaluate: \\(\\log_{2} 32\\).",
     "options": [
       "A. 4",
       "B. 6",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 99,
-    "question": "Simplify: \\(log_{10} 50 + log_{10}\\) 2.",
+    "question": "Simplify: \\(\\log_{10} 50 + \\log_{10} 2\\).",
     "options": [
       "A. 2",
       "B. 1",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 100,
-    "question": "Evaluate: \\(log_{6}\\) 36.",
+    "question": "Evaluate: \\(\\log_{6} 36\\).",
     "options": [
       "A. 1",
       "B. 3",
@@ -1444,14 +1444,14 @@
   },
   {
     "id": 112,
-    "question": "The sum of the first n terms of an AP is given by \\(S_{n} = n^{2} +\\) 2n. Find the 4th term.",
+    "question": "The sum of the first n terms of an AP is given by \\(S_{n} = n^{2} + 2n\\). Find the 4th term.",
     "options": [
       "A. 9",
       "B. 13",
       "C. 7",
       "D. 11"
     ],
-    "answer": "D",
+    "answer": "A",
     "topic": "Sequences and Series",
     "difficulty": "Hard"
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 121,
-    "question": "Given that A = \\(\\{1, 2, 3, 4\\}\\) and B = \\(\\{3, 4, 5, 6\\}\\), find A \\(\\cap\\) B.",
+    "question": "Given that \\(A = \\{1, 2, 3, 4\\}\\) and \\(B = \\{3, 4, 5, 6\\}\\), find \\(A \\cap B\\).",
     "options": [
       "A. \\(\\{3, 4\\}\\)",
       "B. \\(\\{1, 2\\}\\)",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": 122,
-    "question": "Given that P = \\(\\{a, b, c\\}\\) and Q = \\(\\{b, c, d\\}\\), find P \\(\\cup\\) Q.",
+    "question": "Given that \\(P = \\{a, b, c\\}\\) and \\(Q = \\{b, c, d\\}\\), find \\(P \\cup Q\\).",
     "options": [
       "A. \\(\\{b, c\\}\\)",
       "B. \\(\\{a, b, c, d\\}\\)",
@@ -1626,7 +1626,7 @@
   },
   {
     "id": 126,
-    "question": "If n(A) = 12, n(B) = 15, and n(A \\(\\cup B) = 20,\\) find n(A \\(\\cap\\) B).",
+    "question": "If \\(n(A) = 12\\), \\(n(B) = 15\\), and \\(n(A \\cup B) = 20\\), find \\(n(A \\cap B)\\).",
     "options": [
       "A. 5",
       "B. 8",
@@ -1652,7 +1652,7 @@
   },
   {
     "id": 128,
-    "question": "Given that A = \\(\\{1, 2, 3\\}\\) and B = \\(\\{2, 3, 4\\}\\), find A \\(-\\) B.",
+    "question": "Given that \\(A = \\{1, 2, 3\\}\\) and \\(B = \\{2, 3, 4\\}\\), find \\(A - B\\).",
     "options": [
       "A. \\(\\{1\\}\\)",
       "B. \\(\\{2, 3\\}\\)",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": 130,
-    "question": "If A = {x : x is a factor of 12} and B = {x : x is a factor of 18}, find A \\(\\cap\\) B.",
+    "question": "If \\(A = \\{x : x \\text{ is a factor of } 12\\}\\) and \\(B = \\{x : x \\text{ is a factor of } 18\\}\\), find \\(A \\cap B\\).",
     "options": [
       "A. \\(\\{1, 2, 3, 4, 6\\}\\)",
       "B. \\(\\{1, 2, 3, 9\\}\\)",
@@ -1717,12 +1717,12 @@
   },
   {
     "id": 133,
-    "question": "In a Venn diagram, if A and B are disjoint sets, then n(A \\(\\cap\\) B) equals:",
+    "question": "In a Venn diagram, if \\(A\\) and \\(B\\) are disjoint sets, then \\(n(A \\cap B)\\) equals:",
     "options": [
-      "A. n(A) + n(B)",
+      "A. \\(n(A) + n(B)\\)",
       "B. 0",
-      "C. \\(n(A) -\\) n(B)",
-      "D. \\(n(A) \\times\\) n(B)"
+      "C. \\(n(A) - n(B)\\)",
+      "D. \\(n(A) \\times n(B)\\)"
     ],
     "answer": "B",
     "topic": "Sets",
@@ -1730,7 +1730,7 @@
   },
   {
     "id": 134,
-    "question": "If U = \\(\\{1, 2, 3, 4, 5, 6\\}\\), \\(A = \\{1, 3, 5\\}\\), and B = \\(\\{2, 4, 6\\}\\), find (A \\(\\cup\\) B)'.",
+    "question": "If \\(U = \\{1, 2, 3, 4, 5, 6\\}\\), \\(A = \\{1, 3, 5\\}\\), and \\(B = \\{2, 4, 6\\}\\), find \\((A \\cup B)'\\).",
     "options": [
       "A. \\(\\{1, 2, 3, 4, 5, 6\\}\\)",
       "B. \\(\\{1, 3, 5\\}\\)",
@@ -1786,7 +1786,7 @@
     "options": [
       "A. Some Nigerians are not citizens",
       "B. All citizens are Nigerians",
-      "C. Some Nigerians are citizens",
+      "C. There is no Nigerian who is not a citizen",
       "D. No Nigerian is a citizen"
     ],
     "answer": "C",
@@ -1875,10 +1875,10 @@
     "id": 145,
     "question": "The statement 'If x > 2, then x > 1' is logically equivalent to:",
     "options": [
-      "A. If x > 1, then x > 2",
-      "B. If x \\(\\le 1,\\) then x \\(\\le\\) 2",
-      "C. If x \\(\\le 2,\\) then x \\(\\le\\) 1",
-      "D. If x > 2, then x \\(\\le\\) 1"
+      "A. If \\(x > 1\\), then \\(x > 2\\)",
+      "B. If \\(x \\le 1\\), then \\(x \\le 2\\)",
+      "C. If \\(x \\le 2\\), then \\(x \\le 1\\)",
+      "D. If \\(x > 2\\), then \\(x \\le 1\\)"
     ],
     "answer": "B",
     "topic": "Logical Reasoning",
@@ -1899,7 +1899,7 @@
   },
   {
     "id": 147,
-    "question": "Evaluate: \\((-4) \\times\\) (-6).",
+    "question": "Evaluate: \\((-4) \\times (-6)\\).",
     "options": [
       "A. -24",
       "B. 10",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": 148,
-    "question": "Simplify: \\(-12 \\div\\) 3 + 5.",
+    "question": "Simplify: \\(-12 \\div 3 + 5\\).",
     "options": [
       "A. 1",
       "B. 9",
@@ -1938,7 +1938,7 @@
   },
   {
     "id": 150,
-    "question": "Simplify: \\(3 - 4 \\times\\) (-2).",
+    "question": "Simplify: \\(3 - 4 \\times (-2)\\).",
     "options": [
       "A. 5",
       "B. -5",
@@ -2003,7 +2003,7 @@
   },
   {
     "id": 155,
-    "question": "Simplify: \\((-3)^{2} \\times\\) (-2).",
+    "question": "Simplify: \\((-3)^{2} \\times (-2)\\).",
     "options": [
       "A. 18",
       "B. 12",
@@ -2068,7 +2068,7 @@
   },
   {
     "id": 160,
-    "question": "Simplify: \\(\\frac{2}{3} \\times (- \\frac{9}{4}\\)).",
+    "question": "Simplify: \\(\\frac{2}{3} \\times \\left(-\\frac{9}{4}\\right)\\).",
     "options": [
       "A. \\(-\\frac{3}{2}\\)",
       "B. \\(\\frac{3}{2}\\)",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": 161,
-    "question": "Simplify: \\(\\sqrt{18.}\\)",
+    "question": "Simplify: \\(\\sqrt{18}\\).",
     "options": [
       "A. \\(2\\sqrt{3}\\)",
       "B. \\(3\\sqrt{2}\\)",
@@ -2094,7 +2094,7 @@
   },
   {
     "id": 162,
-    "question": "Simplify: \\(\\sqrt{50.}\\)",
+    "question": "Simplify: \\(\\sqrt{50}\\).",
     "options": [
       "A. \\(2\\sqrt{5}\\)",
       "B. \\(10\\sqrt{5}\\)",
@@ -2107,12 +2107,12 @@
   },
   {
     "id": 163,
-    "question": "Rationalize the denominator: 1/\\(\\sqrt{2.}\\)",
+    "question": "Rationalize the denominator: \\(\\frac{1}{\\sqrt{2}}\\).",
     "options": [
       "A. \\(2\\sqrt{2}\\)",
       "B. \\(\\sqrt{2}\\)",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(\\sqrt{\\frac{2}{2}}\\)"
+      "D. \\(\\frac{\\sqrt{2}}{2}\\)"
     ],
     "answer": "D",
     "topic": "Surds",
@@ -2120,7 +2120,7 @@
   },
   {
     "id": 164,
-    "question": "Simplify: \\(\\sqrt{8} \\times \\sqrt{2.}\\)",
+    "question": "Simplify: \\(\\sqrt{8} \\times \\sqrt{2}\\).",
     "options": [
       "A. 4",
       "B. \\(2\\sqrt{2}\\)",
@@ -2133,7 +2133,7 @@
   },
   {
     "id": 165,
-    "question": "Simplify: \\(\\sqrt{12} - \\sqrt{3.}\\)",
+    "question": "Simplify: \\(\\sqrt{12} - \\sqrt{3}\\).",
     "options": [
       "A. \\(2\\sqrt{3}\\)",
       "B. \\(\\sqrt{3}\\)",
@@ -2146,12 +2146,12 @@
   },
   {
     "id": 166,
-    "question": "Rationalize the denominator: 3/(\\(\\sqrt{5} -\\) 2).",
+    "question": "Rationalize the denominator: \\(\\frac{3}{\\sqrt{5} - 2}\\).",
     "options": [
       "A. \\(3(\\sqrt{5} - 2)\\)",
-      "B. \\(\\sqrt{5} +\\) 2",
-      "C. \\(3(\\sqrt{5} +\\) 2)",
-      "D. 3/(\\(\\sqrt{5} +\\) 2)"
+      "B. \\(\\sqrt{5} + 2\\)",
+      "C. \\(3(\\sqrt{5} + 2)\\)",
+      "D. \\(3\\sqrt{5} + 2\\)"
     ],
     "answer": "C",
     "topic": "Surds",
@@ -2159,7 +2159,7 @@
   },
   {
     "id": 167,
-    "question": "Simplify: \\((\\sqrt{3} + 1)(\\sqrt{3} -\\) 1).",
+    "question": "Simplify: \\((\\sqrt{3} + 1)(\\sqrt{3} - 1)\\).",
     "options": [
       "A. 4",
       "B. 3",
@@ -2172,7 +2172,7 @@
   },
   {
     "id": 168,
-    "question": "Simplify: \\(\\sqrt{75} / \\sqrt{3.}\\)",
+    "question": "Simplify: \\(\\frac{\\sqrt{75}}{\\sqrt{3}}\\).",
     "options": [
       "A. 5",
       "B. 25",
@@ -2185,11 +2185,11 @@
   },
   {
     "id": 169,
-    "question": "Evaluate: \\((\\sqrt{2} + \\sqrt{3}\\)\\()^{2}\\).",
+    "question": "Evaluate: \\((\\sqrt{2} + \\sqrt{3})^{2}\\).",
     "options": [
       "A. \\(5 + \\sqrt{6}\\)",
       "B. \\(5 + 2\\sqrt{6}\\)",
-      "C. \\(5 - 2 \\sqrt{6}\\)",
+      "C. \\(5 - 2\\sqrt{6}\\)",
       "D. \\(5 + 6\\sqrt{2}\\)"
     ],
     "answer": "B",
@@ -2198,7 +2198,7 @@
   },
   {
     "id": 170,
-    "question": "Simplify: \\(\\sqrt{32} - \\sqrt{18.}\\)",
+    "question": "Simplify: \\(\\sqrt{32} - \\sqrt{18}\\).",
     "options": [
       "A. \\(2\\sqrt{2}\\)",
       "B. \\(3\\sqrt{2}\\)",
@@ -2211,12 +2211,12 @@
   },
   {
     "id": 171,
-    "question": "Rationalize the denominator: 2/\\(\\sqrt{3.}\\)",
+    "question": "Rationalize the denominator: \\(\\frac{2}{\\sqrt{3}}\\).",
     "options": [
-      "A. \\(\\sqrt{\\frac{3}{3}}\\)",
+      "A. \\(\\frac{\\sqrt{3}}{3}\\)",
       "B. \\(2\\sqrt{3}\\)",
       "C. \\(3\\sqrt{2}\\)",
-      "D. \\(2\\sqrt{\\frac{3}{3}}\\)"
+      "D. \\(\\frac{2\\sqrt{3}}{3}\\)"
     ],
     "answer": "D",
     "topic": "Surds",
@@ -2224,7 +2224,7 @@
   },
   {
     "id": 172,
-    "question": "Simplify: \\((\\sqrt{7}\\)\\()^{2}\\).",
+    "question": "Simplify: \\((\\sqrt{7})^{2}\\).",
     "options": [
       "A. 7",
       "B. 49",
@@ -2237,11 +2237,11 @@
   },
   {
     "id": 173,
-    "question": "Simplify: \\(\\sqrt{6} \\times \\sqrt{10.}\\)",
+    "question": "Simplify: \\(\\sqrt{6} \\times \\sqrt{10}\\).",
     "options": [
       "A. \\(4\\sqrt{15}\\)",
       "B. \\(2\\sqrt{15}\\)",
-      "C. \\(\\sqrt{60}\\)",
+      "C. \\(3\\sqrt{10}\\)",
       "D. \\(6\\sqrt{10}\\)"
     ],
     "answer": "B",
@@ -2250,7 +2250,7 @@
   },
   {
     "id": 174,
-    "question": "Simplify: \\((\\sqrt{5} - \\sqrt{2} )( \\sqrt{5} + \\sqrt{2}\\)).",
+    "question": "Simplify: \\((\\sqrt{5} - \\sqrt{2})(\\sqrt{5} + \\sqrt{2})\\).",
     "options": [
       "A. 7",
       "B. 5",
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 175,
-    "question": "If \\(\\sqrt{x} =\\) 5, find the value of x.",
+    "question": "If \\(\\sqrt{x} = 5\\), find the value of \\(x\\).",
     "options": [
       "A. 10",
       "B. 5",
@@ -2328,12 +2328,12 @@
   },
   {
     "id": 180,
-    "question": "Find the order of the matrix [[1, 2, 3], [4, 5, 6]].",
+    "question": "Find the order of the matrix \\(\\begin{pmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\end{pmatrix}\\).",
     "options": [
-      "A. \\(3 \\times\\) 2",
-      "B. \\(2 \\times\\) 3",
-      "C. \\(2 \\times\\) 2",
-      "D. \\(3 \\times\\) 3"
+      "A. \\(3 \\times 2\\)",
+      "B. \\(2 \\times 3\\)",
+      "C. \\(2 \\times 2\\)",
+      "D. \\(3 \\times 3\\)"
     ],
     "answer": "B",
     "topic": "Matrices and Determinants",
@@ -2395,10 +2395,10 @@
     "id": 185,
     "question": "If A = \\(\\begin{pmatrix} 2 & 3 \\\\ 1 & 4 \\end{pmatrix}\\), find the inverse of A.",
     "options": [
-      "A. \\((\\frac{1}{5} ) \\begin{pmatrix} 4 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)",
-      "B. \\((\\frac{1}{5} ) \\begin{pmatrix} 2 & -3 \\\\ -1 & 4 \\end{pmatrix}\\)",
-      "C. \\((\\frac{1}{5} ) \\begin{pmatrix} 4 & -3 \\\\ -1 & 2 \\end{pmatrix}\\)",
-      "D. \\((\\frac{1}{5} ) \\begin{pmatrix} 4 & -3 \\\\ 1 & 2 \\end{pmatrix}\\)"
+      "A. \\(\\frac{1}{5}\\begin{pmatrix} 4 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)",
+      "B. \\(\\frac{1}{5}\\begin{pmatrix} 2 & -3 \\\\ -1 & 4 \\end{pmatrix}\\)",
+      "C. \\(\\frac{1}{5}\\begin{pmatrix} 4 & -3 \\\\ -1 & 2 \\end{pmatrix}\\)",
+      "D. \\(\\frac{1}{5}\\begin{pmatrix} 4 & -3 \\\\ 1 & 2 \\end{pmatrix}\\)"
     ],
     "answer": "C",
     "topic": "Matrices and Determinants",
@@ -2406,7 +2406,7 @@
   },
   {
     "id": 186,
-    "question": "If A = \\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\) and B = \\(\\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}\\), find A \\(-\\) B.",
+    "question": "If \\(A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\) and \\(B = \\begin{pmatrix} 2 & 1 \\\\ 0 & 3 \\end{pmatrix}\\), find \\(A - B\\).",
     "options": [
       "A. \\(\\begin{pmatrix} 1 & 1 \\\\ 3 & 1 \\end{pmatrix}\\)",
       "B. \\(\\begin{pmatrix} -1 & 1 \\\\ 3 & 2 \\end{pmatrix}\\)",
@@ -2614,7 +2614,7 @@
   },
   {
     "id": 202,
-    "question": "Simplify 4a \\(- 2a\\) + 3a.",
+    "question": "Simplify \\(4a - 2a + 3a\\).",
     "options": [
       "A. 5a",
       "B. 9a",
@@ -2666,7 +2666,7 @@
   },
   {
     "id": 206,
-    "question": "Evaluate 5p \\(- 3q\\) when p = 4 and q = 2.",
+    "question": "Evaluate \\(5p - 3q\\) when \\(p = 4\\) and \\(q = 2\\).",
     "options": [
       "A. 14",
       "B. 26",
@@ -2679,7 +2679,7 @@
   },
   {
     "id": 207,
-    "question": "Simplify 7m \\(- 3m\\) + 2m.",
+    "question": "Simplify \\(7m - 3m + 2m\\).",
     "options": [
       "A. 6m",
       "B. 12m",
@@ -2692,12 +2692,12 @@
   },
   {
     "id": 208,
-    "question": "Expand 3(2x \\(-\\) 1).",
+    "question": "Expand \\(3(2x - 1)\\).",
     "options": [
-      "A. \\(6x -\\) 1",
-      "B. \\(6x -\\) 3",
-      "C. 6x + 3",
-      "D. \\(3x -\\) 3"
+      "A. \\(6x - 1\\)",
+      "B. \\(6x - 3\\)",
+      "C. \\(6x + 3\\)",
+      "D. \\(3x - 3\\)"
     ],
     "answer": "B",
     "topic": "Expansion",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": 209,
-    "question": "Factorize 8y \\(-\\) 12.",
+    "question": "Factorize \\(8y - 12\\).",
     "options": [
       "A. \\(4(2y - 3)\\)",
       "B. \\(2(4y - 6)\\)",
@@ -2718,7 +2718,7 @@
   },
   {
     "id": 210,
-    "question": "Solve 3x \\(-\\) 7 = 8.",
+    "question": "Solve \\(3x - 7 = 8\\).",
     "options": [
       "A. 5",
       "B. 15",
@@ -2744,7 +2744,7 @@
   },
   {
     "id": 212,
-    "question": "Simplify 5x + 2y \\(- 3x\\) + y.",
+    "question": "Simplify \\(5x + 2y - 3x + y\\).",
     "options": [
       "A. 2x + 3y",
       "B. 8x + 3y",
@@ -2759,10 +2759,10 @@
     "id": 213,
     "question": "Expand (x + 2)(x + 3).",
     "options": [
-      "A. \\(x^{2} +\\) 5x + 6",
-      "B. \\(x^{2} +\\) 6x + 5",
-      "C. \\(x^{2} +\\) 5x + 5",
-      "D. \\(x^{2} +\\) 6x + 6"
+      "A. \\(x^{2} + 5x + 6\\)",
+      "B. \\(x^{2} + 6x + 5\\)",
+      "C. \\(x^{2} + 5x + 5\\)",
+      "D. \\(x^{2} + 6x + 6\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -2770,7 +2770,7 @@
   },
   {
     "id": 214,
-    "question": "Factorize \\(x^{2} +\\) 5x + 6.",
+    "question": "Factorize \\(x^{2} + 5x + 6\\).",
     "options": [
       "A. (x + 2)(x + 3)",
       "B. (x + 1)(x + 6)",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 217,
-    "question": "Simplify 2(3x + 4) \\(-\\) 5x.",
+    "question": "Simplify \\(2(3x + 4) - 5x\\).",
     "options": [
       "A. x + 8",
       "B. 11x + 8",
@@ -2822,12 +2822,12 @@
   },
   {
     "id": 218,
-    "question": "Factorize \\(3x^{2} +\\) 9x.",
+    "question": "Factorize \\(3x^{2} + 9x\\).",
     "options": [
-      "A. 3x(x + 3)",
-      "B. \\(3(x^{2} +\\) 3x)",
-      "C. x(3x + 9)",
-      "D. 3x(x + 9)"
+      "A. \\(3x(x + 3)\\)",
+      "B. \\(3(x^{2} + 3x)\\)",
+      "C. \\(x(3x + 9)\\)",
+      "D. \\(3x(x + 9)\\)"
     ],
     "answer": "A",
     "topic": "Factorization",
@@ -2835,7 +2835,7 @@
   },
   {
     "id": 219,
-    "question": "Solve 5(x \\(- 2)\\) = 20.",
+    "question": "Solve \\(5(x - 2) = 20\\).",
     "options": [
       "A. 6",
       "B. 4",
@@ -2861,12 +2861,12 @@
   },
   {
     "id": 221,
-    "question": "Expand (2x + 1)(x \\(-\\) 3).",
+    "question": "Expand \\((2x + 1)(x - 3)\\).",
     "options": [
-      "A. \\(2x^{2} - 5x -\\) 3",
-      "B. \\(2x^{2} + 5x -\\) 3",
+      "A. \\(2x^{2} - 5x - 3\\)",
+      "B. \\(2x^{2} + 5x - 3\\)",
       "C. \\(2x^{2} - 5x + 3\\)",
-      "D. \\(2x^{2} - 6x -\\) 3"
+      "D. \\(2x^{2} - 6x - 3\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -2874,11 +2874,11 @@
   },
   {
     "id": 222,
-    "question": "Factorize \\(2x^{2} -\\) 8.",
+    "question": "Factorize \\(2x^{2} - 8\\) completely.",
     "options": [
       "A. \\(2(x^{2} - 4)\\)",
       "B. \\(2(x - 2)(x + 2)\\)",
-      "C. \\((2x - 4)(x + 2)\\)",
+      "C. \\(2(x - 2)^{2}\\)",
       "D. \\(2(x - 4)(x + 2)\\)"
     ],
     "answer": "B",
@@ -2887,7 +2887,7 @@
   },
   {
     "id": 223,
-    "question": "Solve 2(x + 1) = 3(x \\(-\\) 1).",
+    "question": "Solve \\(2(x + 1) = 3(x - 1)\\).",
     "options": [
       "A. 5",
       "B. 1",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": 224,
-    "question": "Evaluate 4a \\(- 2b\\) when a = 5 and b = 3.",
+    "question": "Evaluate \\(4a - 2b\\) when \\(a = 5\\) and \\(b = 3\\).",
     "options": [
       "A. 14",
       "B. 26",
@@ -2913,12 +2913,12 @@
   },
   {
     "id": 225,
-    "question": "Simplify 3(2x + 1) \\(- 2(x\\) + 3).",
+    "question": "Simplify \\(3(2x + 1) - 2(x + 3)\\).",
     "options": [
-      "A. \\(4x -\\) 3",
-      "B. 4x + 3",
-      "C. \\(8x -\\) 3",
-      "D. 8x + 3"
+      "A. \\(4x - 3\\)",
+      "B. \\(4x + 3\\)",
+      "C. \\(8x - 3\\)",
+      "D. \\(8x + 3\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -2926,7 +2926,7 @@
   },
   {
     "id": 226,
-    "question": "Factorize \\(x^{2} -\\) 9.",
+    "question": "Factorize \\(x^{2} - 9\\).",
     "options": [
       "A. \\((x - 3)(x + 3)\\)",
       "B. \\((x - 9)(x + 1)\\)",
@@ -2952,7 +2952,7 @@
   },
   {
     "id": 228,
-    "question": "Evaluate \\(2x^{2} +\\) 3x when x = 2.",
+    "question": "Evaluate \\(2x^{2} + 3x\\) when \\(x = 2\\).",
     "options": [
       "A. 14",
       "B. 10",
@@ -2965,12 +2965,12 @@
   },
   {
     "id": 229,
-    "question": "Expand (x \\(- 4)(x\\) + 4).",
+    "question": "Expand \\((x - 4)(x + 4)\\).",
     "options": [
-      "A. \\(x^{2} -\\) 16",
-      "B. \\(x^{2} +\\) 16",
+      "A. \\(x^{2} - 16\\)",
+      "B. \\(x^{2} + 16\\)",
       "C. \\(x^{2} - 8x + 16\\)",
-      "D. \\(x^{2} - 8x -\\) 16"
+      "D. \\(x^{2} - 8x - 16\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -2978,7 +2978,7 @@
   },
   {
     "id": 230,
-    "question": "Factorize \\(4x^{2} -\\) 1.",
+    "question": "Factorize \\(4x^{2} - 1\\).",
     "options": [
       "A. \\((2x - 1)(2x + 1)\\)",
       "B. \\((4x - 1)(x + 1)\\)",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": 231,
-    "question": "Solve 5x \\(- 3 = 2x\\) + 9.",
+    "question": "Solve \\(5x - 3 = 2x + 9\\).",
     "options": [
       "A. 4",
       "B. 2",
@@ -3017,12 +3017,12 @@
   },
   {
     "id": 233,
-    "question": "Simplify 2(3x \\(- 1) + 3(2x\\) + 1).",
+    "question": "Simplify \\(2(3x - 1) + 3(2x + 1)\\).",
     "options": [
-      "A. 12x + 1",
-      "B. \\(12x -\\) 1",
-      "C. 6x + 1",
-      "D. \\(6x -\\) 1"
+      "A. \\(12x + 1\\)",
+      "B. \\(12x - 1\\)",
+      "C. \\(6x + 1\\)",
+      "D. \\(6x - 1\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -3030,12 +3030,12 @@
   },
   {
     "id": 234,
-    "question": "Factorize \\(6x^{2} +\\) 9x.",
+    "question": "Factorize \\(6x^{2} + 9x\\).",
     "options": [
-      "A. 3x(2x + 3)",
-      "B. \\(3(2x^{2} +\\) 3x)",
-      "C. x(6x + 9)",
-      "D. 3x(2x + 9)"
+      "A. \\(3x(2x + 3)\\)",
+      "B. \\(3(2x^{2} + 3x)\\)",
+      "C. \\(x(6x + 9)\\)",
+      "D. \\(3x(2x + 9)\\)"
     ],
     "answer": "A",
     "topic": "Factorization",
@@ -3043,7 +3043,7 @@
   },
   {
     "id": 235,
-    "question": "Solve 4(x \\(- 1) = 2(x\\) + 3).",
+    "question": "Solve \\(4(x - 1) = 2(x + 3)\\).",
     "options": [
       "A. 5",
       "B. 3",
@@ -3056,7 +3056,7 @@
   },
   {
     "id": 236,
-    "question": "Evaluate 3x \\(- 2y\\) when x = 4 and y = 5.",
+    "question": "Evaluate \\(3x - 2y\\) when \\(x = 4\\) and \\(y = 5\\).",
     "options": [
       "A. 2",
       "B. 22",
@@ -3069,12 +3069,12 @@
   },
   {
     "id": 237,
-    "question": "Expand (3x + 2)(x + 1).",
+    "question": "Expand \\((3x + 2)(x + 1)\\).",
     "options": [
-      "A. \\(3x^{2} +\\) 5x + 2",
-      "B. \\(3x^{2} +\\) 5x + 1",
-      "C. \\(3x^{2} +\\) 6x + 2",
-      "D. \\(3x^{2} +\\) 3x + 2"
+      "A. \\(3x^{2} + 5x + 2\\)",
+      "B. \\(3x^{2} + 5x + 1\\)",
+      "C. \\(3x^{2} + 6x + 2\\)",
+      "D. \\(3x^{2} + 3x + 2\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -3082,7 +3082,7 @@
   },
   {
     "id": 238,
-    "question": "Factorize \\(x^{2} +\\) 7x + 12.",
+    "question": "Factorize \\(x^{2} + 7x + 12\\).",
     "options": [
       "A. (x + 3)(x + 4)",
       "B. (x + 2)(x + 6)",
@@ -3108,7 +3108,7 @@
   },
   {
     "id": 240,
-    "question": "Evaluate (x + \\(y)^{2}\\) when x = 2 and y = 3.",
+    "question": "Evaluate \\((x + y)^{2}\\) when \\(x = 2\\) and \\(y = 3\\).",
     "options": [
       "A. 25",
       "B. 13",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": 241,
-    "question": "If a \\(\\star b = a + b -\\) ab, find 2 \\(\\star\\) 3.",
+    "question": "If \\(a \\star b = a + b - ab\\), find \\(2 \\star 3\\).",
     "options": [
       "A. -1",
       "B. 5",
@@ -3134,7 +3134,7 @@
   },
   {
     "id": 242,
-    "question": "If x \\(\\oplus y = 2x -\\) y, find 3 \\(\\oplus\\) 4.",
+    "question": "If \\(x \\oplus y = 2x - y\\), find \\(3 \\oplus 4\\).",
     "options": [
       "A. 2",
       "B. 10",
@@ -3147,7 +3147,7 @@
   },
   {
     "id": 243,
-    "question": "If p * q = \\(p^{2} +\\) q, find 2 * 5.",
+    "question": "If \\(p * q = p^{2} + q\\), find \\(2 * 5\\).",
     "options": [
       "A. 9",
       "B. 7",
@@ -3173,7 +3173,7 @@
   },
   {
     "id": 245,
-    "question": "If m \\(\\odot n = mn + m + n,\\) find 2 \\(\\odot\\) 3.",
+    "question": "If \\(m \\odot n = mn + m + n\\), find \\(2 \\odot 3\\).",
     "options": [
       "A. 11",
       "B. 6",
@@ -3186,14 +3186,14 @@
   },
   {
     "id": 246,
-    "question": "If a * b = a \\(- b + ab,\\) find 3 * 2.",
+    "question": "If \\(a * b = a - b + ab\\), find \\(3 * 2\\).",
     "options": [
       "A. 5",
       "B. 1",
       "C. 7",
       "D. -1"
     ],
-    "answer": "A",
+    "answer": "C",
     "topic": "Binary Operations",
     "difficulty": "Medium"
   },
@@ -3212,7 +3212,7 @@
   },
   {
     "id": 248,
-    "question": "If p \\(\\diamondsuit q = 2p + 3q,\\) find 1 \\(\\diamondsuit\\) 2.",
+    "question": "If \\(p \\diamondsuit q = 2p + 3q\\), find \\(1 \\diamondsuit 2\\).",
     "options": [
       "A. 8",
       "B. 7",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": 249,
-    "question": "If a \\(\\circ b = a^{2}\\)b, find 2 \\(\\circ\\) 3.",
+    "question": "If \\(a \\circ b = a^{2}b\\), find \\(2 \\circ 3\\).",
     "options": [
       "A. 12",
       "B. 6",
@@ -3238,7 +3238,7 @@
   },
   {
     "id": 250,
-    "question": "If x \\(\\boxplus y = x + y + xy,\\) find 1 \\(\\boxplus\\) 2.",
+    "question": "If \\(x \\boxplus y = x + y + xy\\), find \\(1 \\boxplus 2\\).",
     "options": [
       "A. 5",
       "B. 3",
@@ -3251,7 +3251,7 @@
   },
   {
     "id": 251,
-    "question": "If a \\(\\clubsuit b = a -\\) ab, find 4 \\(\\clubsuit\\) 1.",
+    "question": "If \\(a \\clubsuit b = a - ab\\), find \\(4 \\clubsuit 1\\).",
     "options": [
       "A. 0",
       "B. 3",
@@ -3264,7 +3264,7 @@
   },
   {
     "id": 252,
-    "question": "If m * n = \\(\\text{m}^{2} - n^{2}\\), find 4 * 1.",
+    "question": "If \\(m * n = m^{2} - n^{2}\\), find \\(4 * 1\\).",
     "options": [
       "A. 15",
       "B. 17",
@@ -3303,7 +3303,7 @@
   },
   {
     "id": 255,
-    "question": "If p \\(\\star q = p - q + 2pq,\\) find 2 \\(\\star\\) 1.",
+    "question": "If \\(p \\star q = p - q + 2pq\\), find \\(2 \\star 1\\).",
     "options": [
       "A. 5",
       "B. 1",
@@ -3316,7 +3316,7 @@
   },
   {
     "id": 256,
-    "question": "Solve the simultaneous equations: x + y = 5, x \\(-\\) y = 1.",
+    "question": "Solve the simultaneous equations: \\(x + y = 5\\), \\(x - y = 1\\).",
     "options": [
       "A. x=3, y=2",
       "B. x=2, y=3",
@@ -3329,7 +3329,7 @@
   },
   {
     "id": 257,
-    "question": "Solve: 2x + y = 7, x \\(-\\) y = 2.",
+    "question": "Solve: \\(2x + y = 7\\), \\(x - y = 2\\).",
     "options": [
       "A. x=3, y=1",
       "B. x=1, y=3",
@@ -3342,7 +3342,7 @@
   },
   {
     "id": 258,
-    "question": "Solve: 3x + 2y = 12, x \\(-\\) y = 1.",
+    "question": "Solve: \\(3x + 2y = 12\\), \\(x - y = 1\\).",
     "options": [
       "A. x=2.8, y=1.8",
       "B. x=2, y=3",
@@ -3355,7 +3355,7 @@
   },
   {
     "id": 259,
-    "question": "Solve: x + 2y = 8, \\(2x -\\) y = 1.",
+    "question": "Solve: \\(x + 2y = 8\\), \\(2x - y = 1\\).",
     "options": [
       "A. x=2, y=3",
       "B. x=3, y=2",
@@ -3368,7 +3368,7 @@
   },
   {
     "id": 260,
-    "question": "Solve: 4x + y = 9, \\(2x -\\) y = 3.",
+    "question": "Solve: \\(4x + y = 9\\), \\(2x - y = 3\\).",
     "options": [
       "A. x=2, y=1",
       "B. x=1, y=5",
@@ -3381,7 +3381,7 @@
   },
   {
     "id": 261,
-    "question": "Solve: \\(5x - 2y = 4,\\) x + y = 5.",
+    "question": "Solve: \\(5x - 2y = 4\\), \\(x + y = 5\\).",
     "options": [
       "A. x=2, y=3",
       "B. x=3, y=2",
@@ -3394,7 +3394,7 @@
   },
   {
     "id": 262,
-    "question": "Solve: 2x + 3y = 13, \\(3x -\\) y = 3.",
+    "question": "Solve: \\(2x + 3y = 13\\), \\(3x - y = 3\\).",
     "options": [
       "A. x=2, y=3",
       "B. x=3, y=2",
@@ -3407,7 +3407,7 @@
   },
   {
     "id": 263,
-    "question": "Solve: x + y = 7, \\(2x -\\) y = 2.",
+    "question": "Solve: \\(x + y = 7\\), \\(2x - y = 2\\).",
     "options": [
       "A. x=3, y=4",
       "B. x=4, y=3",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": 265,
-    "question": "Solve: \\(2x - 3y = 1,\\) x + y = 3.",
+    "question": "Solve: \\(2x - 3y = 1\\), \\(x + y = 3\\).",
     "options": [
       "A. x=2, y=1",
       "B. x=1, y=2",
@@ -3446,7 +3446,7 @@
   },
   {
     "id": 266,
-    "question": "Solve: \\(4x - y = 5,\\) x + 2y = 8.",
+    "question": "Solve: \\(4x - y = 5\\), \\(x + 2y = 8\\).",
     "options": [
       "A. x=2, y=3",
       "B. x=3, y=2",
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 267,
-    "question": "Solve: x + 3y = 10, \\(2x -\\) y = 1.",
+    "question": "Solve: \\(x + 3y = 10\\), \\(2x - y = -1\\).",
     "options": [
       "A. x=1, y=3",
       "B. x=3, y=1",
@@ -3472,7 +3472,7 @@
   },
   {
     "id": 268,
-    "question": "Solve: 5x + 2y = 16, \\(3x -\\) y = 5.",
+    "question": "Solve: \\(5x + 2y = 16\\), \\(3x - y = 3\\).",
     "options": [
       "A. x=2, y=3",
       "B. x=3, y=2",
@@ -3485,7 +3485,7 @@
   },
   {
     "id": 269,
-    "question": "Solve: x \\(- y = 2,\\) 3x + y = 10.",
+    "question": "Solve: \\(x - y = 2\\), \\(3x + y = 10\\).",
     "options": [
       "A. x=3, y=1",
       "B. x=1, y=3",
@@ -3498,7 +3498,7 @@
   },
   {
     "id": 270,
-    "question": "Solve: 2x + y = 8, x \\(-\\) y = 1.",
+    "question": "Solve: \\(2x + y = 8\\), \\(x - y = 1\\).",
     "options": [
       "A. x=3, y=2",
       "B. x=2, y=3",
@@ -3515,7 +3515,7 @@
     "options": [
       "A. \\(x = \\frac{y - 3}{2}\\)",
       "B. \\(x = \\frac{y + 3}{2}\\)",
-      "C. \\(x = 2y -\\) 3",
+      "C. \\(x = 2y - 3\\)",
       "D. \\(x = 2(y - 3)\\)"
     ],
     "answer": "A",
@@ -3524,7 +3524,7 @@
   },
   {
     "id": 272,
-    "question": "Make y the subject of the formula x = 3y \\(-\\) 4.",
+    "question": "Make y the subject of the formula \\(x = 3y - 4\\).",
     "options": [
       "A. \\(y = \\frac{x + 4}{3}\\)",
       "B. \\(y = \\frac{x - 4}{3}\\)",
@@ -3537,12 +3537,12 @@
   },
   {
     "id": 273,
-    "question": "Make r the subject of the formula A = \\(\\pi\\)\\(r^{2}\\).",
+    "question": "Make r the subject of the formula \\(A = \\pi r^{2}\\).",
     "options": [
-      "A. \\(r = \\sqrt{A/ \\pi}\\)",
+      "A. \\(r = \\sqrt{\\frac{A}{\\pi}}\\)",
       "B. \\(r = \\frac{A}{\\pi}\\)",
       "C. \\(r = \\sqrt{A \\pi}\\)",
-      "D. \\(r = \\pi\\)\\(A^{2}\\)"
+      "D. \\(r = \\pi A^{2}\\)"
     ],
     "answer": "A",
     "topic": "Change of Subject",
@@ -3550,7 +3550,7 @@
   },
   {
     "id": 274,
-    "question": "Make h the subject of the formula V = (\\(\\frac{1}{3} ) \\pi\\)\\(r^{2}\\)h.",
+    "question": "Make h the subject of the formula \\(V = \\frac{1}{3}\\pi r^{2}h\\).",
     "options": [
       "A. \\(h = \\frac{3V}{\\pi r^{2}}\\)",
       "B. \\(h = \\frac{V}{3 \\pi r^{2}}\\)",
@@ -3563,12 +3563,12 @@
   },
   {
     "id": 275,
-    "question": "Make x the subject of the formula y = \\(\\frac{x + 1}{2}\\).",
+    "question": "Make x the subject of the formula \\(y = \\frac{x + 1}{2}\\).",
     "options": [
-      "A. \\(x = 2y -\\) 1",
+      "A. \\(x = 2y - 1\\)",
       "B. x = 2y + 1",
       "C. \\(x = \\frac{y - 1}{2}\\)",
-      "D. \\(x = \\frac{y}{2} -\\) 1"
+      "D. \\(x = \\frac{y}{2} - 1\\)"
     ],
     "answer": "A",
     "topic": "Change of Subject",
@@ -3576,7 +3576,7 @@
   },
   {
     "id": 276,
-    "question": "Make x the subject of the formula y = 5x \\(-\\) 2.",
+    "question": "Make x the subject of the formula \\(y = 5x - 2\\).",
     "options": [
       "A. \\(x = \\frac{y + 2}{5}\\)",
       "B. \\(x = \\frac{y - 2}{5}\\)",
@@ -3589,12 +3589,12 @@
   },
   {
     "id": 277,
-    "question": "Make b the subject of the formula a = \\(\\frac{b + c}{d}\\).",
+    "question": "Make b the subject of the formula \\(a = \\frac{b + c}{d}\\).",
     "options": [
-      "A. \\(b = ad -\\) c",
+      "A. \\(b = ad - c\\)",
       "B. b = ad + c",
-      "C. \\(b = a(d -\\) c)",
-      "D. \\(b = \\frac{a}{d} -\\) c"
+      "C. \\(b = a(d - c)\\)",
+      "D. \\(b = \\frac{a}{d} - c\\)"
     ],
     "answer": "A",
     "topic": "Change of Subject",
@@ -3602,12 +3602,12 @@
   },
   {
     "id": 278,
-    "question": "Make x the subject of the formula y = \\(\\sqrt{x + 1}\\).",
+    "question": "Make x the subject of the formula \\(y = \\sqrt{x + 1}\\).",
     "options": [
-      "A. \\(x = y^{2} -\\) 1",
-      "B. \\(x = y^{2} +\\) 1",
+      "A. \\(x = y^{2} - 1\\)",
+      "B. \\(x = y^{2} + 1\\)",
       "C. \\(x = \\sqrt{y - 1}\\)",
-      "D. \\(x = y -\\) 1"
+      "D. \\(x = y - 1\\)"
     ],
     "answer": "A",
     "topic": "Change of Subject",
@@ -3615,12 +3615,12 @@
   },
   {
     "id": 279,
-    "question": "Make x the subject of the formula y = \\(\\frac{1}{x} +\\) 2.",
+    "question": "Make x the subject of the formula \\(y = \\frac{1}{x} + 2\\).",
     "options": [
       "A. \\(x = \\frac{1}{y - 2}\\)",
       "B. \\(x = \\frac{1}{y + 2}\\)",
       "C. \\(x = \\frac{y - 2}{1}\\)",
-      "D. \\(x = \\frac{y}{2} -\\) 1"
+      "D. \\(x = \\frac{y}{2} - 1\\)"
     ],
     "answer": "A",
     "topic": "Change of Subject",
@@ -3628,11 +3628,11 @@
   },
   {
     "id": 280,
-    "question": "Make p the subject of the formula q = \\(p^{2} +\\) r.",
+    "question": "Make p the subject of the formula \\(q = p^{2} + r\\).",
     "options": [
       "A. \\(p = \\sqrt{q - r}\\)",
       "B. \\(p = \\sqrt{q + r}\\)",
-      "C. \\(p = q^{2} -\\) r",
+      "C. \\(p = q^{2} - r\\)",
       "D. \\(p = (q - r)^{2}\\)"
     ],
     "answer": "A",
@@ -3654,7 +3654,7 @@
   },
   {
     "id": 282,
-    "question": "If a = 4 and b = 1, evaluate \\(a^{2} -\\) 2b.",
+    "question": "If a = 4 and b = 1, evaluate \\(a^{2} - 2b\\).",
     "options": [
       "A. 14",
       "B. 15",
@@ -3667,7 +3667,7 @@
   },
   {
     "id": 283,
-    "question": "If m = 3, evaluate (m + \\(2)^{2}\\).",
+    "question": "If m = 3, evaluate \\((m + 2)^{2}\\).",
     "options": [
       "A. 25",
       "B. 16",
@@ -3680,7 +3680,7 @@
   },
   {
     "id": 284,
-    "question": "If x = 2, evaluate \\(3x^{2} -\\) 1.",
+    "question": "If x = 2, evaluate \\(3x^{2} - 1\\).",
     "options": [
       "A. 11",
       "B. 13",
@@ -3693,7 +3693,7 @@
   },
   {
     "id": 285,
-    "question": "If p = 5 and q = 2, evaluate (p \\(- q)^{2}\\).",
+    "question": "If p = 5 and q = 2, evaluate \\((p - q)^{2}\\).",
     "options": [
       "A. 9",
       "B. 7",
@@ -3706,7 +3706,7 @@
   },
   {
     "id": 286,
-    "question": "Solve 7x \\(- 2 = 5x\\) + 6.",
+    "question": "Solve \\(7x - 2 = 5x + 6\\).",
     "options": [
       "A. 4",
       "B. 2",
@@ -3719,7 +3719,7 @@
   },
   {
     "id": 287,
-    "question": "Solve 3(x \\(- 1) = 2(x\\) + 2).",
+    "question": "Solve \\(3(x - 1) = 2(x + 2)\\).",
     "options": [
       "A. 7",
       "B. 1",
@@ -3732,7 +3732,7 @@
   },
   {
     "id": 288,
-    "question": "Factorize \\(2x^{2} +\\) 5x + 3.",
+    "question": "Factorize \\(2x^{2} + 5x + 3\\).",
     "options": [
       "A. (2x + 3)(x + 1)",
       "B. (2x + 1)(x + 3)",
@@ -3745,11 +3745,11 @@
   },
   {
     "id": 289,
-    "question": "Expand (2x \\(- 3)(x\\) + 4).",
+    "question": "Expand \\((2x - 3)(x + 4)\\).",
     "options": [
-      "A. \\(2x^{2} + 5x -\\) 12",
-      "B. \\(2x^{2} - 5x -\\) 12",
-      "C. \\(2x^{2} +\\) 5x + 12",
+      "A. \\(2x^{2} + 5x - 12\\)",
+      "B. \\(2x^{2} - 5x - 12\\)",
+      "C. \\(2x^{2} + 5x + 12\\)",
       "D. \\(2x^{2} - 5x + 12\\)"
     ],
     "answer": "A",
@@ -3758,7 +3758,7 @@
   },
   {
     "id": 290,
-    "question": "If a \\(\\diamondsuit b = 3a - b^{2}\\), find 2 \\(\\diamondsuit\\) 1.",
+    "question": "If \\(a \\diamondsuit b = 3a - b^{2}\\), find \\(2 \\diamondsuit 1\\).",
     "options": [
       "A. 5",
       "B. 7",
@@ -3771,7 +3771,7 @@
   },
   {
     "id": 291,
-    "question": "Solve: 3x + 2y = 16, x \\(-\\) y = 1.",
+    "question": "Solve: \\(3x + 2y = 13\\), \\(x - y = 1\\).",
     "options": [
       "A. x=3, y=2",
       "B. x=2, y=3",
@@ -3788,7 +3788,7 @@
     "options": [
       "A. \\(x = \\frac{y - 1}{4}\\)",
       "B. \\(x = \\frac{y + 1}{4}\\)",
-      "C. \\(x = 4y -\\) 1",
+      "C. \\(x = 4y - 1\\)",
       "D. \\(x = 4(y - 1)\\)"
     ],
     "answer": "A",
@@ -3797,7 +3797,7 @@
   },
   {
     "id": 293,
-    "question": "If x = 3, evaluate \\(2x^{2} + 4x -\\) 1.",
+    "question": "If x = 3, evaluate \\(2x^{2} + 4x - 1\\).",
     "options": [
       "A. 29",
       "B. 27",
@@ -3810,7 +3810,7 @@
   },
   {
     "id": 294,
-    "question": "Simplify 5a \\(- 2b + 3a\\) + 4b.",
+    "question": "Simplify \\(5a - 2b + 3a + 4b\\).",
     "options": [
       "A. 8a + 2b",
       "B. \\(8a - 2b\\)",
@@ -3823,7 +3823,7 @@
   },
   {
     "id": 295,
-    "question": "Factorize \\(x^{2} -\\) 4x.",
+    "question": "Factorize \\(x^{2} - 4x\\).",
     "options": [
       "A. \\(x(x - 4)\\)",
       "B. x(x + 4)",
@@ -3836,12 +3836,12 @@
   },
   {
     "id": 296,
-    "question": "Expand (x + 5)(x \\(-\\) 5).",
+    "question": "Expand \\((x + 5)(x - 5)\\).",
     "options": [
-      "A. \\(x^{2} -\\) 25",
-      "B. \\(x^{2} +\\) 25",
+      "A. \\(x^{2} - 25\\)",
+      "B. \\(x^{2} + 25\\)",
       "C. \\(x^{2} - 10x + 25\\)",
-      "D. \\(x^{2} + 10x -\\) 25"
+      "D. \\(x^{2} + 10x - 25\\)"
     ],
     "answer": "A",
     "topic": "Expansion",
@@ -3849,7 +3849,7 @@
   },
   {
     "id": 297,
-    "question": "If a \\(\\star b = a^{2} -\\) b, find 3 \\(\\star\\) 5.",
+    "question": "If \\(a \\star b = a^{2} - b\\), find \\(3 \\star 5\\).",
     "options": [
       "A. 4",
       "B. 14",
@@ -3862,7 +3862,7 @@
   },
   {
     "id": 298,
-    "question": "Solve: 2x + y = 11, x \\(-\\) y = 1.",
+    "question": "Solve: \\(2x + y = 11\\), \\(x - y = 1\\).",
     "options": [
       "A. x=4, y=3",
       "B. x=3, y=4",
@@ -3879,7 +3879,7 @@
     "options": [
       "A. \\(t = \\frac{v - u}{a}\\)",
       "B. \\(t = \\frac{v + u}{a}\\)",
-      "C. \\(t = a(v -\\) u)",
+      "C. \\(t = a(v - u)\\)",
       "D. t = a(v + u)"
     ],
     "answer": "A",
@@ -3888,7 +3888,7 @@
   },
   {
     "id": 300,
-    "question": "If p = 2 and q = 5, evaluate (p + \\(q)^{2} -\\) pq.",
+    "question": "If p = 2 and q = 5, evaluate \\((p + q)^{2} - pq\\).",
     "options": [
       "A. 39",
       "B. 49",
@@ -3901,7 +3901,7 @@
   },
   {
     "id": 301,
-    "question": "Solve \\(x^{2} - 5x + 6\\) = 0.",
+    "question": "Solve \\(x^{2} - 5x + 6 = 0\\).",
     "options": [
       "A. x = 1 or x = 6",
       "B. x = -2 or x = -3",
@@ -3914,7 +3914,7 @@
   },
   {
     "id": 302,
-    "question": "Solve \\(x^{2} -\\) 9 = 0.",
+    "question": "Solve \\(x^{2} - 9 = 0\\).",
     "options": [
       "A. x = 3 or x = -3",
       "B. x = 9 or x = -9",
@@ -3927,7 +3927,7 @@
   },
   {
     "id": 303,
-    "question": "Solve \\(x^{2} +\\) 4x = 0.",
+    "question": "Solve \\(x^{2} + 4x = 0\\).",
     "options": [
       "A. x = 4 only",
       "B. x = -4 only",
@@ -3940,7 +3940,7 @@
   },
   {
     "id": 304,
-    "question": "Find the discriminant of \\(2x^{2} + 3x -\\) 5 = 0.",
+    "question": "Find the discriminant of \\(2x^{2} + 3x - 5 = 0\\).",
     "options": [
       "A. 9",
       "B. 49",
@@ -3953,7 +3953,7 @@
   },
   {
     "id": 305,
-    "question": "Find the sum of the roots of \\(3x^{2} - 12x + 7\\) = 0.",
+    "question": "Find the sum of the roots of \\(3x^{2} - 12x + 7 = 0\\).",
     "options": [
       "A. \\(\\frac{7}{3}\\)",
       "B. 4",
@@ -3966,7 +3966,7 @@
   },
   {
     "id": 306,
-    "question": "Find the product of the roots of \\(x^{2} - 7x + 10\\) = 0.",
+    "question": "Find the product of the roots of \\(x^{2} - 7x + 10 = 0\\).",
     "options": [
       "A. 7",
       "B. -7",
@@ -3982,7 +3982,7 @@
     "question": "Form the quadratic equation whose roots are 2 and 5.",
     "options": [
       "A. \\(x^{2} - 7x + 10 = 0\\)",
-      "B. \\(x^{2} +\\) 7x + 10 = 0",
+      "B. \\(x^{2} + 7x + 10 = 0\\)",
       "C. \\(x^{2} - 7x - 10 = 0\\)",
       "D. \\(x^{2} + 7x - 10 = 0\\)"
     ],
@@ -3994,10 +3994,10 @@
     "id": 308,
     "question": "Form the quadratic equation whose roots are -3 and 4.",
     "options": [
-      "A. \\(x^{2} +\\) x \\(- 12 = 0\\)",
+      "A. \\(x^{2} + x - 12 = 0\\)",
       "B. \\(x^{2} - x + 12 = 0\\)",
       "C. \\(x^{2} - x - 12 = 0\\)",
-      "D. \\(x^{2} +\\) x + 12 = 0"
+      "D. \\(x^{2} + x + 12 = 0\\)"
     ],
     "answer": "C",
     "topic": "Quadratic Equations",
@@ -4005,7 +4005,7 @@
   },
   {
     "id": 309,
-    "question": "Solve \\(2x^{2} -\\) 8 = 0.",
+    "question": "Solve \\(2x^{2} - 8 = 0\\).",
     "options": [
       "A. x = 2 or x = -2",
       "B. x = 4 or x = -4",
@@ -4031,7 +4031,7 @@
   },
   {
     "id": 311,
-    "question": "Solve \\(x^{2} +\\) x \\(-\\) 6 = 0.",
+    "question": "Solve \\(x^{2} + x - 6 = 0\\).",
     "options": [
       "A. x = 3 or x = 2",
       "B. x = -3 or x = 2",
@@ -4057,7 +4057,7 @@
   },
   {
     "id": 313,
-    "question": "Solve \\(3x^{2} - 5x + 2\\) = 0.",
+    "question": "Solve \\(3x^{2} - 5x + 2 = 0\\).",
     "options": [
       "A. x = 2 or x = 3",
       "B. \\(x = \\frac{2}{3}\\) or x = -1",
@@ -4070,7 +4070,7 @@
   },
   {
     "id": 314,
-    "question": "For what positive value of k does \\(x^{2} +\\) kx + 9 = 0 have equal roots?",
+    "question": "For what positive value of k does \\(x^{2} + kx + 9 = 0\\) have equal roots?",
     "options": [
       "A. 3",
       "B. 6",
@@ -4083,7 +4083,7 @@
   },
   {
     "id": 315,
-    "question": "Solve \\(x^{2} - 2x -\\) 15 = 0.",
+    "question": "Solve \\(x^{2} - 2x - 15 = 0\\).",
     "options": [
       "A. x = 5 or x = 3",
       "B. x = -5 or x = -3",
@@ -4096,7 +4096,7 @@
   },
   {
     "id": 316,
-    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} - 4x + 1 = 0,\\) find \\(\\alpha + \\beta\\).",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} - 4x + 1 = 0\\), find \\(\\alpha + \\beta\\).",
     "options": [
       "A. 4",
       "B. -4",
@@ -4109,7 +4109,7 @@
   },
   {
     "id": 317,
-    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} - 4x + 1 = 0,\\) find \\(\\alpha\\)\\(\\beta\\).",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} - 4x + 1 = 0\\), find \\(\\alpha\\beta\\).",
     "options": [
       "A. 4",
       "B. -4",
@@ -4124,9 +4124,9 @@
     "id": 318,
     "question": "Form the quadratic equation whose roots are 3 and -2.",
     "options": [
-      "A. \\(x^{2} +\\) x + 6 = 0",
+      "A. \\(x^{2} + x + 6 = 0\\)",
       "B. \\(x^{2} - x + 6 = 0\\)",
-      "C. \\(x^{2} +\\) x \\(- 6 = 0\\)",
+      "C. \\(x^{2} + x - 6 = 0\\)",
       "D. \\(x^{2} - x - 6 = 0\\)"
     ],
     "answer": "D",
@@ -4135,7 +4135,7 @@
   },
   {
     "id": 319,
-    "question": "Solve (x \\(- 2)(x + 3)\\) = 0.",
+    "question": "Solve \\((x - 2)(x + 3) = 0\\).",
     "options": [
       "A. x = 2 or x = -3",
       "B. x = -2 or x = 3",
@@ -4152,7 +4152,7 @@
     "options": [
       "A. \\(2x^{2} - 5x - 3 = 0\\)",
       "B. \\(2x^{2} + 5x - 3 = 0\\)",
-      "C. \\(2x^{2} +\\) 5x + 3 = 0",
+      "C. \\(2x^{2} + 5x + 3 = 0\\)",
       "D. \\(2x^{2} - 5x + 3 = 0\\)"
     ],
     "answer": "B",
@@ -4161,7 +4161,7 @@
   },
   {
     "id": 321,
-    "question": "Solve \\(x^{2} =\\) 16.",
+    "question": "Solve \\(x^{2} = 16\\).",
     "options": [
       "A. x = 4 or x = -4",
       "B. x = 16 or x = -16",
@@ -4174,7 +4174,7 @@
   },
   {
     "id": 322,
-    "question": "Find the discriminant of \\(x^{2} +\\) 5x + 6 = 0.",
+    "question": "Find the discriminant of \\(x^{2} + 5x + 6 = 0\\).",
     "options": [
       "A. 49",
       "B. 1",
@@ -4187,12 +4187,12 @@
   },
   {
     "id": 323,
-    "question": "Solve \\(4x^{2} -\\) 9 = 0.",
+    "question": "Solve \\(4x^{2} - 9 = 0\\).",
     "options": [
       "A. x = 3 or x = -3",
-      "B. \\(x = \\frac{9}{4}\\) or x = -\\(\\frac{9}{4}\\)",
-      "C. \\(x = \\frac{2}{3}\\) or x = -\\(\\frac{2}{3}\\)",
-      "D. \\(x = \\frac{3}{2}\\) or x = -\\(\\frac{3}{2}\\)"
+      "B. \\(x = \\frac{9}{4}\\) or \\(x = -\\frac{9}{4}\\)",
+      "C. \\(x = \\frac{2}{3}\\) or \\(x = -\\frac{2}{3}\\)",
+      "D. \\(x = \\frac{3}{2}\\) or \\(x = -\\frac{3}{2}\\)"
     ],
     "answer": "D",
     "topic": "Quadratic Equations",
@@ -4200,7 +4200,7 @@
   },
   {
     "id": 324,
-    "question": "If the roots of \\(x^{2} +\\) bx + c = 0 are 2 and 5, find b and c.",
+    "question": "If the roots of \\(x^{2} + bx + c = 0\\) are 2 and 5, find b and c.",
     "options": [
       "A. b = 7, c = 10",
       "B. b = -7, c = -10",
@@ -4213,7 +4213,7 @@
   },
   {
     "id": 325,
-    "question": "Solve \\(x^{2} - 7x\\) = 0.",
+    "question": "Solve \\(x^{2} - 7x = 0\\).",
     "options": [
       "A. x = 7 only",
       "B. x = 0 or x = 7",
@@ -4226,7 +4226,7 @@
   },
   {
     "id": 326,
-    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(2x^{2} - 5x + 3 = 0,\\) find \\(\\alpha + \\beta + \\alpha\\)\\(\\beta\\).",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(2x^{2} - 5x + 3 = 0\\), find \\(\\alpha + \\beta + \\alpha\\beta\\).",
     "options": [
       "A. 2",
       "B. 3",
@@ -4239,7 +4239,7 @@
   },
   {
     "id": 327,
-    "question": "Solve \\(2x^{2} +\\) 5x + 3 = 0.",
+    "question": "Solve \\(2x^{2} + 5x + 3 = 0\\).",
     "options": [
       "A. \\(x = -\\frac{3}{2}\\) or x = -1",
       "B. \\(x = \\frac{3}{2}\\) or x = 1",
@@ -4257,7 +4257,7 @@
       "A. \\(x^{2} - 3x + 2 = 0\\)",
       "B. \\(x^{2} - 3x - 2 = 0\\)",
       "C. \\(x^{2} + 3x - 2 = 0\\)",
-      "D. \\(x^{2} +\\) 3x + 2 = 0"
+      "D. \\(x^{2} + 3x + 2 = 0\\)"
     ],
     "answer": "D",
     "topic": "Quadratic Equations",
@@ -4265,7 +4265,7 @@
   },
   {
     "id": 329,
-    "question": "Solve \\(x^{2} + 2x -\\) 8 = 0.",
+    "question": "Solve \\(x^{2} + 2x - 8 = 0\\).",
     "options": [
       "A. x = 4 or x = -2",
       "B. x = 4 or x = 2",
@@ -4278,7 +4278,7 @@
   },
   {
     "id": 330,
-    "question": "Determine the nature of the roots of \\(x^{2} +\\) 2x + 5 = 0.",
+    "question": "Determine the nature of the roots of \\(x^{2} + 2x + 5 = 0\\).",
     "options": [
       "A. No real roots",
       "B. Two equal real roots",
@@ -4304,7 +4304,7 @@
   },
   {
     "id": 332,
-    "question": "Find the gradient of the line y = 3x \\(-\\) 2.",
+    "question": "Find the gradient of the line \\(y = 3x - 2\\).",
     "options": [
       "A. -2",
       "B. -3",
@@ -4317,7 +4317,7 @@
   },
   {
     "id": 333,
-    "question": "Find the y-intercept of the line y = 4x \\(-\\) 5.",
+    "question": "Find the y-intercept of the line \\(y = 4x - 5\\).",
     "options": [
       "A. 4",
       "B. 5",
@@ -4330,7 +4330,7 @@
   },
   {
     "id": 334,
-    "question": "Find the x-intercept of the line y = 2x \\(-\\) 6.",
+    "question": "Find the x-intercept of the line \\(y = 2x - 6\\).",
     "options": [
       "A. -3",
       "B. 3",
@@ -4343,7 +4343,7 @@
   },
   {
     "id": 335,
-    "question": "The vertex of the graph of y = \\(x^{2} - 4x + 3\\) is at:",
+    "question": "The vertex of the graph of \\(y = x^{2} - 4x + 3\\) is at:",
     "options": [
       "A. (2, 1)",
       "B. (-2, -1)",
@@ -4356,7 +4356,7 @@
   },
   {
     "id": 336,
-    "question": "From the graph of y = \\(x^{2} - 5x + 6,\\) the roots of the equation are:",
+    "question": "From the graph of \\(y = x^{2} - 5x + 6\\), the roots of the equation are:",
     "options": [
       "A. x = 2 and x = 3",
       "B. x = -2 and x = -3",
@@ -4371,10 +4371,10 @@
     "id": 337,
     "question": "Find the equation of a line with gradient 2 passing through (1, 3).",
     "options": [
-      "A. \\(y = 2x -\\) 1",
+      "A. \\(y = 2x - 1\\)",
       "B. y = 2x + 1",
       "C. y = 3x + 2",
-      "D. \\(y = 3x -\\) 2"
+      "D. \\(y = 3x - 2\\)"
     ],
     "answer": "B",
     "topic": "Graphs of Linear and Quadratic Functions",
@@ -4384,10 +4384,10 @@
     "id": 338,
     "question": "Find the equation of the line passing through (2, 3) and (4, 7).",
     "options": [
-      "A. \\(y = 2x -\\) 1",
+      "A. \\(y = 2x - 1\\)",
       "B. y = 2x + 1",
       "C. y = x + 1",
-      "D. \\(y = 3x -\\) 3"
+      "D. \\(y = 3x - 3\\)"
     ],
     "answer": "A",
     "topic": "Graphs of Linear and Quadratic Functions",
@@ -4421,7 +4421,7 @@
   },
   {
     "id": 341,
-    "question": "The graph of y = \\(x^{2} - 2x -\\) 3 crosses the x-axis at:",
+    "question": "The graph of \\(y = x^{2} - 2x - 3\\) crosses the x-axis at:",
     "options": [
       "A. x = 3 and x = -1",
       "B. x = 1 and x = -3",
@@ -4447,7 +4447,7 @@
   },
   {
     "id": 343,
-    "question": "The coordinates of the vertex of y = \\(x^{2} +\\) 4x + 1 are:",
+    "question": "The coordinates of the vertex of \\(y = x^{2} + 4x + 1\\) are:",
     "options": [
       "A. (2, -3)",
       "B. (-2, 3)",
@@ -4473,7 +4473,7 @@
   },
   {
     "id": 345,
-    "question": "Which of these points lies on the line y = 3x \\(-\\) 4?",
+    "question": "Which of these points lies on the line \\(y = 3x - 4\\)?",
     "options": [
       "A. (1, 2)",
       "B. (0, 3)",
@@ -4486,7 +4486,7 @@
   },
   {
     "id": 346,
-    "question": "The graph of y = \\(ax^{2} +\\) bx + c opens upward when:",
+    "question": "The graph of \\(y = ax^{2} + bx + c\\) opens upward when:",
     "options": [
       "A. a < 0",
       "B. b > 0",
@@ -4499,7 +4499,7 @@
   },
   {
     "id": 347,
-    "question": "Find the y-intercept of y = \\(x^{2} - 3x\\) + 2.",
+    "question": "Find the y-intercept of \\(y = x^{2} - 3x + 2\\).",
     "options": [
       "A. -2",
       "B. 2",
@@ -4512,7 +4512,7 @@
   },
   {
     "id": 348,
-    "question": "The equation of the axis of symmetry of y = \\(x^{2} - 6x + 5\\) is:",
+    "question": "The equation of the axis of symmetry of \\(y = x^{2} - 6x + 5\\) is:",
     "options": [
       "A. x = 3",
       "B. x = -3",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 349,
-    "question": "If the graph of y = \\(x^{2} +\\) k passes through (2, 7), find k.",
+    "question": "If the graph of \\(y = x^{2} + k\\) passes through (2, 7), find k.",
     "options": [
       "A. 5",
       "B. 3",
@@ -4538,7 +4538,7 @@
   },
   {
     "id": 350,
-    "question": "The minimum value of y = \\(x^{2} - 4x + 7\\) is:",
+    "question": "The minimum value of \\(y = x^{2} - 4x + 7\\) is:",
     "options": [
       "A. 7",
       "B. -3",
@@ -4564,12 +4564,12 @@
   },
   {
     "id": 352,
-    "question": "Solve the inequality -3x \\(\\ge\\) 9.",
+    "question": "Solve the inequality \\(-3x \\ge 9\\).",
     "options": [
-      "A. x \\(\\ge -3\\)",
-      "B. x \\(\\ge\\) 3",
-      "C. x \\(\\le -3\\)",
-      "D. x \\(\\le\\) 3"
+      "A. \\(x \\ge -3\\)",
+      "B. \\(x \\ge 3\\)",
+      "C. \\(x \\le -3\\)",
+      "D. \\(x \\le 3\\)"
     ],
     "answer": "C",
     "topic": "Linear Inequalities",
@@ -4577,11 +4577,11 @@
   },
   {
     "id": 353,
-    "question": "Solve 5x \\(- 2 \\le 3x\\) + 8.",
+    "question": "Solve \\(5x - 2 \\le 3x + 8\\).",
     "options": [
-      "A. x \\(\\ge\\) 5",
+      "A. \\(x \\ge 5\\)",
       "B. x < 5",
-      "C. x \\(\\le\\) 5",
+      "C. \\(x \\le 5\\)",
       "D. x > 5"
     ],
     "answer": "C",
@@ -4590,7 +4590,7 @@
   },
   {
     "id": 354,
-    "question": "Which of the following is a solution to 3x \\(-\\) 1 > 5?",
+    "question": "Which of the following is a solution to \\(3x - 1 > 5\\)?",
     "options": [
       "A. 3",
       "B. 2",
@@ -4603,7 +4603,7 @@
   },
   {
     "id": 355,
-    "question": "Solve 4 \\(-\\) x < 2.",
+    "question": "Solve \\(4 - x < 2\\).",
     "options": [
       "A. x < 2",
       "B. x > 2",
@@ -4629,12 +4629,12 @@
   },
   {
     "id": 357,
-    "question": "Solve 3(x \\(- 1) \\le 2x\\) + 4.",
+    "question": "Solve \\(3(x - 1) \\le 2x + 4\\).",
     "options": [
-      "A. x \\(\\ge\\) 7",
-      "B. x \\(\\le\\) 1",
-      "C. x \\(\\ge\\) 1",
-      "D. x \\(\\le\\) 7"
+      "A. \\(x \\ge 7\\)",
+      "B. \\(x \\le 1\\)",
+      "C. \\(x \\ge 1\\)",
+      "D. \\(x \\le 7\\)"
     ],
     "answer": "D",
     "topic": "Linear Inequalities",
@@ -4642,7 +4642,7 @@
   },
   {
     "id": 358,
-    "question": "The solution set of \\(\\frac{x}{2} +\\) 1 > 3 is:",
+    "question": "The solution set of \\(\\frac{x}{2} + 1 > 3\\) is:",
     "options": [
       "A. x > 2",
       "B. x > 4",
@@ -4681,10 +4681,10 @@
   },
   {
     "id": 361,
-    "question": "Solve 5x + 2 \\(\\ge 3x\\) + 8.",
+    "question": "Solve \\(5x + 2 \\ge 3x + 8\\).",
     "options": [
-      "A. x \\(\\ge\\) 3",
-      "B. x \\(\\le\\) 3",
+      "A. \\(x \\ge 3\\)",
+      "B. \\(x \\le 3\\)",
       "C. x > 3",
       "D. x < 3"
     ],
@@ -4694,12 +4694,12 @@
   },
   {
     "id": 362,
-    "question": "Solve -\\(\\frac{x}{3} \\le\\) 2.",
+    "question": "Solve \\(-\\frac{x}{3} \\le 2\\).",
     "options": [
-      "A. x \\(\\le -6\\)",
-      "B. x \\(\\le\\) 6",
-      "C. x \\(\\ge -6\\)",
-      "D. x \\(\\ge\\) 6"
+      "A. \\(x \\le -6\\)",
+      "B. \\(x \\le 6\\)",
+      "C. \\(x \\ge -6\\)",
+      "D. \\(x \\ge 6\\)"
     ],
     "answer": "C",
     "topic": "Linear Inequalities",
@@ -4711,8 +4711,8 @@
     "options": [
       "A. x < 5",
       "B. x > 5",
-      "C. x \\(\\ge\\) 5",
-      "D. x \\(\\le\\) 5"
+      "C. \\(x \\ge 5\\)",
+      "D. \\(x \\le 5\\)"
     ],
     "answer": "D",
     "topic": "Linear Inequalities",
@@ -4720,7 +4720,7 @@
   },
   {
     "id": 364,
-    "question": "Solve 7 \\(- 2x\\) > 1.",
+    "question": "Solve \\(7 - 2x > 1\\).",
     "options": [
       "A. x > 3",
       "B. x < 3",
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 365,
-    "question": "Solve 2(x + 3) > 4x \\(-\\) 2.",
+    "question": "Solve \\(2(x + 3) > 4x - 2\\).",
     "options": [
       "A. x > 4",
       "B. x > -4",
@@ -4746,7 +4746,7 @@
   },
   {
     "id": 366,
-    "question": "Which of the following satisfies 2 \\(\\le x + 1\\) < 5?",
+    "question": "Which of the following satisfies \\(2 \\le x + 1 < 5\\)?",
     "options": [
       "A. x = 0",
       "B. x = -1",
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 367,
-    "question": "Solve \\(\\frac{x}{4} -\\) 1 < 2.",
+    "question": "Solve \\(\\frac{x}{4} - 1 < 2\\).",
     "options": [
       "A. x < 8",
       "B. x < 12",
@@ -4772,7 +4772,7 @@
   },
   {
     "id": 368,
-    "question": "The region y \\(\\le x + 2\\) is:",
+    "question": "The region \\(y \\le x + 2\\) is:",
     "options": [
       "A. Below and including the line y = x + 2",
       "B. Above and including the line y = x + 2",
@@ -4785,7 +4785,7 @@
   },
   {
     "id": 369,
-    "question": "Solve 3x \\(- 4 < 2x\\) + 1.",
+    "question": "Solve \\(3x - 4 < 2x + 1\\).",
     "options": [
       "A. x > 5",
       "B. x < 5",
@@ -4798,10 +4798,10 @@
   },
   {
     "id": 370,
-    "question": "Solve the inequality -4 \\(\\le 2x\\) < 6.",
+    "question": "Solve the inequality \\(-4 \\le 2x < 6\\).",
     "options": [
       "A. \\(-2 \\le x < 3\\)",
-      "B. \\(-2 < x \\le\\) 3",
+      "B. \\(-2 < x \\le 3\\)",
       "C. \\(2 \\le x < 3\\)",
       "D. \\(-3 \\le x < 2\\)"
     ],
@@ -4813,8 +4813,8 @@
     "id": 371,
     "question": "Simplify \\(\\frac{x^{2} - 4}{x - 2}\\).",
     "options": [
-      "A. x \\(-\\) 2",
-      "B. \\(x^{2} -\\) 2",
+      "A. \\(x - 2\\)",
+      "B. \\(x^{2} - 2\\)",
       "C. x + 4",
       "D. x + 2"
     ],
@@ -4827,8 +4827,8 @@
     "question": "Simplify \\(\\frac{x^{2} - 9}{x + 3}\\).",
     "options": [
       "A. x + 3",
-      "B. \\(x^{2} -\\) 3",
-      "C. x \\(-\\) 3",
+      "B. \\(x^{2} - 3\\)",
+      "C. \\(x - 3\\)",
       "D. x + 9"
     ],
     "answer": "C",
@@ -4868,7 +4868,7 @@
       "A. x + 3",
       "B. x + 2",
       "C. x + 6",
-      "D. \\(x^{2} +\\) 3"
+      "D. \\(x^{2} + 3\\)"
     ],
     "answer": "A",
     "topic": "Algebraic Fractions",
@@ -4943,8 +4943,8 @@
     "id": 381,
     "question": "Simplify \\(\\frac{x^{2} - 16}{x - 4}\\).",
     "options": [
-      "A. x \\(-\\) 4",
-      "B. \\(x^{2} +\\) 4",
+      "A. \\(x - 4\\)",
+      "B. \\(x^{2} + 4\\)",
       "C. x + 4",
       "D. x + 16"
     ],
@@ -4995,8 +4995,8 @@
     "id": 385,
     "question": "Simplify \\(\\frac{1}{x + 2} - \\frac{1}{x + 3}\\).",
     "options": [
-      "A. 2/((x + 2)(x + 3))",
-      "B. 1/((x + 2)(x + 3))",
+      "A. \\(\\frac{2}{(x + 2)(x + 3)}\\)",
+      "B. \\(\\frac{1}{(x + 2)(x + 3)}\\)",
       "C. \\(\\frac{1}{x + 2}\\)",
       "D. \\(\\frac{1}{x + 3}\\)"
     ],
@@ -5034,7 +5034,7 @@
     "id": 388,
     "question": "Simplify \\(\\frac{x^{2} - 4x}{x}\\).",
     "options": [
-      "A. x \\(-\\) 4",
+      "A. x - 4",
       "B. x + 4",
       "C. x",
       "D. 4x"
@@ -5060,9 +5060,9 @@
     "id": 390,
     "question": "Simplify \\(\\frac{x^{2} - 2x + 1}{x - 1}\\).",
     "options": [
-      "A. x \\(-\\) 1",
+      "A. x - 1",
       "B. x + 1",
-      "C. \\(x^{2} -\\) 1",
+      "C. \\(x^{2} - 1\\)",
       "D. x"
     ],
     "answer": "A",
@@ -5084,7 +5084,7 @@
   },
   {
     "id": 392,
-    "question": "If f(x) = \\(x^{2} - 1,\\) find f(3).",
+    "question": "If f(x) = \\(x^{2} - 1\\), find f(3).",
     "options": [
       "A. 4",
       "B. 5",
@@ -5097,7 +5097,7 @@
   },
   {
     "id": 393,
-    "question": "If f(x) = 3x \\(- 2,\\) find f(0).",
+    "question": "If f(x) = 3x - 2, find f(0).",
     "options": [
       "A. -2",
       "B. 2",
@@ -5110,7 +5110,7 @@
   },
   {
     "id": 394,
-    "question": "If f(x) = \\(x^{2} +\\) 1 and g(x) = 2x, find f(g(2)).",
+    "question": "If f(x) = \\(x^{2} + 1\\) and g(x) = 2x, find f(g(2)).",
     "options": [
       "A. 9",
       "B. 10",
@@ -5123,7 +5123,7 @@
   },
   {
     "id": 395,
-    "question": "If f(x) = 4x \\(- 1,\\) find the value of x for which f(x) = 7.",
+    "question": "If f(x) = 4x - 1, find the value of x for which f(x) = 7.",
     "options": [
       "A. 1",
       "B. 2",
@@ -5188,7 +5188,7 @@
   },
   {
     "id": 400,
-    "question": "If f(x) = \\(x^{2} - 3x,\\) find f(2).",
+    "question": "If f(x) = \\(x^{2} - 3x\\), find f(2).",
     "options": [
       "A. 2",
       "B. -2",
@@ -5266,7 +5266,7 @@
   },
   {
     "id": 406,
-    "question": "A square has a diagonal of length 10\\(\\sqrt{2}\\) cm. Find the length of its side.",
+    "question": "A square has a diagonal of length \\(10\\sqrt{2}\\) cm. Find the length of its side.",
     "options": [
       "A. 5 cm",
       "B. 10 cm",
@@ -5435,11 +5435,11 @@
   },
   {
     "id": 419,
-    "question": "In triangle ABC, a = 10 cm, b = 12 cm and c = 14 cm. Find angle C.",
+    "question": "In triangle ABC, a = 10 cm, b = 12 cm and c = 14 cm. Find angle C (to the nearest degree).",
     "options": [
-      "A. \\(30^{\\circ}\\)",
-      "B. \\(45^{\\circ}\\)",
-      "C. \\(60^{\\circ}\\)",
+      "A. \\(44^{\\circ}\\)",
+      "B. \\(57^{\\circ}\\)",
+      "C. \\(78^{\\circ}\\)",
       "D. \\(90^{\\circ}\\)"
     ],
     "answer": "C",
@@ -5489,9 +5489,9 @@
     "id": 423,
     "question": "In triangle ABC, a = 7 cm, b = 9 cm and angle C = \\(45^{\\circ}\\). Find the length of side c.",
     "options": [
-      "A. \\(\\sqrt{37}\\) cm",
-      "B. \\(\\sqrt{47}\\) cm",
-      "C. \\(\\sqrt{57}\\) cm",
+      "A. \\(\\sqrt{130 - 63\\sqrt{2}}\\) cm",
+      "B. \\(\\sqrt{130 + 63\\sqrt{2}}\\) cm",
+      "C. \\(\\sqrt{130 - 63\\sqrt{3}}\\) cm",
       "D. \\(\\sqrt{67}\\) cm"
     ],
     "answer": "A",
@@ -5520,7 +5520,7 @@
       "C. \\(\\sqrt{147}\\) cm",
       "D. \\(\\sqrt{157}\\) cm"
     ],
-    "answer": "B",
+    "answer": "C",
     "topic": "Sine and Cosine Rules",
     "difficulty": "Medium"
   },
@@ -5529,9 +5529,9 @@
     "question": "Find the length of an arc of a circle of radius 7 cm that subtends an angle of \\(60^{\\circ}\\) at the centre (take \\(\\pi = \\frac{22}{7}\\)).",
     "options": [
       "A. 7.33 cm",
-      "B. 7.33 cm",
-      "C. 7.33 cm",
-      "D. 7.33 cm"
+      "B. 11.00 cm",
+      "C. 14.67 cm",
+      "D. 22.00 cm"
     ],
     "answer": "A",
     "topic": "Arc Length and Perimeter",
@@ -5604,12 +5604,12 @@
   },
   {
     "id": 432,
-    "question": "The perimeter of a sector of a circle of radius 9 cm is 33 cm. Find the angle subtended at the centre.",
+    "question": "The perimeter of a sector of a circle of radius 9 cm is 33 cm. Find the angle subtended at the centre (to 1 decimal place).",
     "options": [
-      "A. \\(80^{\\circ}\\)",
-      "B. \\(90^{\\circ}\\)",
-      "C. \\(100^{\\circ}\\)",
-      "D. \\(110^{\\circ}\\)"
+      "A. \\(85.5^{\\circ}\\)",
+      "B. \\(95.5^{\\circ}\\)",
+      "C. \\(105.5^{\\circ}\\)",
+      "D. \\(115.5^{\\circ}\\)"
     ],
     "answer": "B",
     "topic": "Arc Length and Perimeter",
@@ -5643,14 +5643,14 @@
   },
   {
     "id": 435,
-    "question": "Find the perimeter of a sector of a circle of radius 5 cm and angle \\(72^{\\circ}\\) (take \\(\\pi =\\) 3.14).",
+    "question": "Find the perimeter of a sector of a circle of radius 5 cm and angle \\(72^{\\circ}\\) (take \\(\\pi = 3.14\\)).",
     "options": [
       "A. 10.28 cm",
       "B. 12.28 cm",
       "C. 14.28 cm",
       "D. 16.28 cm"
     ],
-    "answer": "B",
+    "answer": "D",
     "topic": "Arc Length and Perimeter",
     "difficulty": "Medium"
   },
@@ -5684,10 +5684,10 @@
     "id": 438,
     "question": "Find the distance between two points on the same longitude with latitudes \\(20^{\\circ}\\)N and \\(40^{\\circ}\\)N (radius = 6400 km, \\(\\pi = \\frac{22}{7}\\)).",
     "options": [
-      "A. 1111 km",
-      "B. 2222 km",
-      "C. 3333 km",
-      "D. 4444 km"
+      "A. 1117 km",
+      "B. 2235 km",
+      "C. 3352 km",
+      "D. 4470 km"
     ],
     "answer": "B",
     "topic": "Longitudes and Latitudes",
@@ -5942,7 +5942,7 @@
   },
   {
     "id": 458,
-    "question": "Find the area of a semicircle of radius 10 cm (take \\(\\pi =\\) 3.14).",
+    "question": "Find the area of a semicircle of radius 10 cm (take \\(\\pi = 3.14\\)).",
     "options": [
       "A. \\(31.4 \\text{cm}^{2}\\)",
       "B. \\(62.8 \\text{cm}^{2}\\)",
@@ -6189,7 +6189,7 @@
   },
   {
     "id": 477,
-    "question": "Find the total surface area of a cone of radius 6 cm and slant height 10 cm (take \\(\\pi =\\) 3.14).",
+    "question": "Find the total surface area of a cone of radius 6 cm and slant height 10 cm (take \\(\\pi = 3.14\\)).",
     "options": [
       "A. \\(188.4 \\text{cm}^{2}\\)",
       "B. \\(301.44 \\text{cm}^{2}\\)",
@@ -6839,7 +6839,7 @@
   },
   {
     "id": 527,
-    "question": "Adjacent angles on a straight line are (2x + 10)\\(^{\\circ}\\) and (3x \\(- 20) ^{\\circ}\\). Find x.",
+    "question": "Adjacent angles on a straight line are \\((2x + 10)^{\\circ}\\) and \\((3x - 20)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(38^{\\circ}\\)",
       "B. \\(36^{\\circ}\\)",
@@ -6852,7 +6852,7 @@
   },
   {
     "id": 528,
-    "question": "Vertically opposite angles are (3x + 10)\\(^{\\circ}\\) and \\(70^{\\circ}\\). Find x.",
+    "question": "Vertically opposite angles are \\((3x + 10)^{\\circ}\\) and \\(70^{\\circ}\\). Find x.",
     "options": [
       "A. \\(10^{\\circ}\\)",
       "B. \\(15^{\\circ}\\)",
@@ -6891,7 +6891,7 @@
   },
   {
     "id": 531,
-    "question": "Vertically opposite angles are (4x \\(- 10) ^{\\circ}\\) and (2x + 30)\\(^{\\circ}\\). Find x.",
+    "question": "Vertically opposite angles are \\((4x - 10)^{\\circ}\\) and \\((2x + 30)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(20^{\\circ}\\)",
       "B. \\(25^{\\circ}\\)",
@@ -6982,7 +6982,7 @@
   },
   {
     "id": 538,
-    "question": "Angles on a straight line are (3x + 15)\\(^{\\circ}\\) and (2x + 10)\\(^{\\circ}\\). Find x.",
+    "question": "Angles on a straight line are \\((3x + 15)^{\\circ}\\) and \\((2x + 10)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(29^{\\circ}\\)",
       "B. \\(31^{\\circ}\\)",
@@ -7060,7 +7060,7 @@
   },
   {
     "id": 544,
-    "question": "Alternate angles are (3x + 10)\\(^{\\circ}\\) and \\(70^{\\circ}\\). Find x.",
+    "question": "Alternate angles are \\((3x + 10)^{\\circ}\\) and \\(70^{\\circ}\\). Find x.",
     "options": [
       "A. \\(15^{\\circ}\\)",
       "B. \\(18^{\\circ}\\)",
@@ -7073,7 +7073,7 @@
   },
   {
     "id": 545,
-    "question": "Corresponding angles are (2x + 30)\\(^{\\circ}\\) and \\(80^{\\circ}\\). Find x.",
+    "question": "Corresponding angles are \\((2x + 30)^{\\circ}\\) and \\(80^{\\circ}\\). Find x.",
     "options": [
       "A. \\(20^{\\circ}\\)",
       "B. \\(22^{\\circ}\\)",
@@ -7086,7 +7086,7 @@
   },
   {
     "id": 546,
-    "question": "Co-interior angles are (2x + 20)\\(^{\\circ}\\) and (3x \\(- 10) ^{\\circ}\\). Find x.",
+    "question": "Co-interior angles are \\((2x + 20)^{\\circ}\\) and \\((3x - 10)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(34^{\\circ}\\)",
@@ -7125,7 +7125,7 @@
   },
   {
     "id": 549,
-    "question": "Alternate angles are (4x \\(- 10) ^{\\circ}\\) and (2x + 30)\\(^{\\circ}\\). Find x.",
+    "question": "Alternate angles are \\((4x - 10)^{\\circ}\\) and \\((2x + 30)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(15^{\\circ}\\)",
       "B. \\(18^{\\circ}\\)",
@@ -7138,7 +7138,7 @@
   },
   {
     "id": 550,
-    "question": "Corresponding angles are (5x \\(- 20) ^{\\circ}\\) and (3x + 40)\\(^{\\circ}\\). Find x.",
+    "question": "Corresponding angles are \\((5x - 20)^{\\circ}\\) and \\((3x + 40)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(25^{\\circ}\\)",
       "B. \\(30^{\\circ}\\)",
@@ -7190,7 +7190,7 @@
   },
   {
     "id": 554,
-    "question": "Alternate angles are (6x \\(- 10) ^{\\circ}\\) and (4x + 30)\\(^{\\circ}\\). Find x.",
+    "question": "Alternate angles are \\((6x - 10)^{\\circ}\\) and \\((4x + 30)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(15^{\\circ}\\)",
       "B. \\(20^{\\circ}\\)",
@@ -7229,7 +7229,7 @@
   },
   {
     "id": 557,
-    "question": "Co-interior angles are (3x + 10)\\(^{\\circ}\\) and (2x + 20)\\(^{\\circ}\\). Find x.",
+    "question": "Co-interior angles are \\((3x + 10)^{\\circ}\\) and \\((2x + 20)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(25^{\\circ}\\)",
       "B. \\(28^{\\circ}\\)",
@@ -7242,7 +7242,7 @@
   },
   {
     "id": 558,
-    "question": "Alternate angles are (5x + 5)\\(^{\\circ}\\) and \\(65^{\\circ}\\). Find x.",
+    "question": "Alternate angles are \\((5x + 5)^{\\circ}\\) and \\(65^{\\circ}\\). Find x.",
     "options": [
       "A. \\(10^{\\circ}\\)",
       "B. \\(12^{\\circ}\\)",
@@ -7348,7 +7348,7 @@
     "id": 566,
     "question": "The sum of the interior angles of an n-sided polygon is:",
     "options": [
-      "A. n \\(\\times 180^{\\circ}\\)",
+      "A. \\(n \\times 180^{\\circ}\\)",
       "B. \\((n - 2) 180^{\\circ}\\)",
       "C. \\((n + 2)180^{\\circ}\\)",
       "D. \\((2n - 2) 180^{\\circ}\\)"
@@ -7567,7 +7567,7 @@
   },
   {
     "id": 583,
-    "question": "A polygon has 12 sides. Each exterior angle is:",
+    "question": "A regular polygon has 12 sides. Each exterior angle is:",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(36^{\\circ}\\)",
@@ -7827,7 +7827,7 @@
   },
   {
     "id": 603,
-    "question": "In a cyclic quadrilateral, two opposite angles are (2x + 10)\\(^{\\circ}\\) and (3x \\(- 20) ^{\\circ}\\). Find x.",
+    "question": "In a cyclic quadrilateral, two opposite angles are \\((2x + 10)^{\\circ}\\) and \\((3x - 20)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(34^{\\circ}\\)",
@@ -7931,7 +7931,7 @@
   },
   {
     "id": 611,
-    "question": "In a circle, the angle at the centre is 2x and the angle at the circumference is x + 30. Find x.",
+    "question": "In a circle, the angle at the centre is 4x and the angle at the circumference subtended by the same arc is x + 30. Find x.",
     "options": [
       "A. \\(20^{\\circ}\\)",
       "B. \\(25^{\\circ}\\)",
@@ -7983,14 +7983,14 @@
   },
   {
     "id": 615,
-    "question": "The angle at the centre of a circle is 3 times the angle at the circumference. If the angle at the centre is \\(120^{\\circ}\\), find the angle at the circumference.",
+    "question": "The angle at the centre of a circle is twice the angle at the circumference subtended by the same arc. If the angle at the centre is \\(120^{\\circ}\\), find the angle at the circumference.",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(45^{\\circ}\\)",
       "C. \\(40^{\\circ}\\)",
       "D. \\(60^{\\circ}\\)"
     ],
-    "answer": "C",
+    "answer": "D",
     "topic": "Circles",
     "difficulty": "Medium"
   },
@@ -8022,7 +8022,7 @@
   },
   {
     "id": 618,
-    "question": "In a cyclic quadrilateral, two opposite angles are (3x + 20)\\(^{\\circ}\\) and (2x + 10)\\(^{\\circ}\\). Find x.",
+    "question": "In a cyclic quadrilateral, two opposite angles are \\((3x + 20)^{\\circ}\\) and \\((2x + 10)^{\\circ}\\). Find x.",
     "options": [
       "A. \\(25^{\\circ}\\)",
       "B. \\(35^{\\circ}\\)",
@@ -8362,9 +8362,9 @@
     "id": 644,
     "question": "Find the equation of the line with gradient 3 passing through (0, 2).",
     "options": [
-      "A. y = 2x + 3",
-      "B. y = 3x + 2",
-      "C. \\(y = 3x -\\) 2",
+      "A. \\(y = 2x + 3\\)",
+      "B. \\(y = 3x + 2\\)",
+      "C. \\(y = 3x - 2\\)",
       "D. \\(y = -3x + 2\\)"
     ],
     "answer": "B",
@@ -8412,12 +8412,12 @@
   },
   {
     "id": 648,
-    "question": "Find the equation of the line passing through (2, 3) and (4, 7).",
+    "question": "Find the equation of the line passing through (2, 1) and (5, 7).",
     "options": [
-      "A. y = 2x + 1",
-      "B. \\(y = 2x -\\) 1",
-      "C. y = x + 1",
-      "D. \\(y = 3x -\\) 3"
+      "A. \\(y = 2x + 3\\)",
+      "B. \\(y = 2x - 3\\)",
+      "C. \\(y = 3x - 5\\)",
+      "D. \\(y = x - 1\\)"
     ],
     "answer": "B",
     "topic": "Coordinate Geometry",
@@ -8438,7 +8438,7 @@
   },
   {
     "id": 650,
-    "question": "Find the midpoint of the line joining (\\(-2,\\) 3) and (4, \\(-\\)1).",
+    "question": "Find the midpoint of the line joining \\((-2, 3)\\) and \\((4, -1)\\).",
     "options": [
       "A. (1, 1)",
       "B. (2, 2)",
@@ -8481,7 +8481,7 @@
     "options": [
       "A. 6",
       "B. \\(\\frac{1}{3}\\)",
-      "C. \\(-\\)3",
+      "C. \\(-3\\)",
       "D. 3"
     ],
     "answer": "D",
@@ -8490,12 +8490,12 @@
   },
   {
     "id": 654,
-    "question": "Find the equation of the line with gradient \\(-\\)2 passing through (0, 5).",
+    "question": "Find the equation of the line with gradient \\(-2\\) passing through (0, 5).",
     "options": [
       "A. \\(y = -2x + 5\\)",
-      "B. y = 2x + 5",
-      "C. \\(y = -2x -\\) 5",
-      "D. \\(y = 2x -\\) 5"
+      "B. \\(y = 2x + 5\\)",
+      "C. \\(y = -2x - 5\\)",
+      "D. \\(y = 2x - 5\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -8529,12 +8529,12 @@
   },
   {
     "id": 657,
-    "question": "Find the gradient of the line y = 3x \\(-\\) 5.",
+    "question": "Find the gradient of the line \\(y = 3x - 5\\).",
     "options": [
-      "A. \\(-\\)5",
+      "A. \\(-5\\)",
       "B. 5",
       "C. 3",
-      "D. \\(-\\)3"
+      "D. \\(-3\\)"
     ],
     "answer": "C",
     "topic": "Coordinate Geometry",
@@ -8544,10 +8544,10 @@
     "id": 658,
     "question": "Find the equation of the line passing through (1, 2) and (3, 8).",
     "options": [
-      "A. \\(y = 3x -\\) 1",
-      "B. y = 3x + 1",
-      "C. y = 2x + 1",
-      "D. y = x + 1"
+      "A. \\(y = 3x - 1\\)",
+      "B. \\(y = 3x + 1\\)",
+      "C. \\(y = 2x + 1\\)",
+      "D. \\(y = x + 1\\)"
     ],
     "answer": "A",
     "topic": "Coordinate Geometry",
@@ -8555,7 +8555,7 @@
   },
   {
     "id": 659,
-    "question": "Find the distance between the points (\\(-1,\\) 2) and (2, 6).",
+    "question": "Find the distance between the points \\((-1, 2)\\) and \\((2, 6)\\).",
     "options": [
       "A. 4 units",
       "B. 6 units",
@@ -8599,7 +8599,7 @@
       "A. 4",
       "B. 2",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)2"
+      "D. \\(-2\\)"
     ],
     "answer": "B",
     "topic": "Coordinate Geometry",
@@ -8607,12 +8607,12 @@
   },
   {
     "id": 663,
-    "question": "Find the equation of the line with gradient 4 passing through (0, \\(-\\)3).",
+    "question": "Find the equation of the line with gradient 4 passing through \\((0, -3)\\).",
     "options": [
-      "A. y = 4x + 3",
-      "B. \\(y = -4x -\\) 3",
-      "C. \\(y = 4x -\\) 3",
-      "D. \\(y = 3x -\\) 4"
+      "A. \\(y = 4x + 3\\)",
+      "B. \\(y = -4x - 3\\)",
+      "C. \\(y = 4x - 3\\)",
+      "D. \\(y = 3x - 4\\)"
     ],
     "answer": "C",
     "topic": "Coordinate Geometry",
@@ -8633,7 +8633,7 @@
   },
   {
     "id": 665,
-    "question": "Find the midpoint of the line joining (\\(-3,\\) 2) and (5, 8).",
+    "question": "Find the midpoint of the line joining \\((-3, 2)\\) and \\((5, 8)\\).",
     "options": [
       "A. (1, 5)",
       "B. (2, 10)",
@@ -8651,7 +8651,7 @@
       "A. 8",
       "B. 2",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)2"
+      "D. \\(-2\\)"
     ],
     "answer": "B",
     "topic": "Coordinate Geometry",
@@ -8661,9 +8661,9 @@
     "id": 667,
     "question": "Find the equation of the line passing through (0, 3) and (2, 7).",
     "options": [
-      "A. \\(y = 2x -\\) 3",
-      "B. y = 3x + 2",
-      "C. y = 2x + 3",
+      "A. \\(y = 2x - 3\\)",
+      "B. \\(y = 3x + 2\\)",
+      "C. \\(y = 2x + 3\\)",
       "D. \\(y = -2x + 3\\)"
     ],
     "answer": "C",
@@ -8711,7 +8711,7 @@
   },
   {
     "id": 671,
-    "question": "Find the distance between the points (\\(- 2, -3)\\) and (2, 0).",
+    "question": "Find the distance between the points \\((-2, -3)\\) and \\((2, 0)\\).",
     "options": [
       "A. 4 units",
       "B. 5 units",
@@ -8726,10 +8726,10 @@
     "id": 672,
     "question": "Find the equation of the line with gradient \\(\\frac{1}{2}\\) passing through (0, 4).",
     "options": [
-      "A. y = 2x + 4",
-      "B. \\(y = \\frac{1}{2x} -\\) 4",
-      "C. \\(y = \\frac{1}{2x} +\\) 4",
-      "D. \\(y = -\\)\\(\\frac{1}{2x} +\\) 4"
+      "A. \\(y = 2x + 4\\)",
+      "B. \\(y = \\frac{1}{2}x - 4\\)",
+      "C. \\(y = \\frac{1}{2}x + 4\\)",
+      "D. \\(y = -\\frac{1}{2}x + 4\\)"
     ],
     "answer": "C",
     "topic": "Coordinate Geometry",
@@ -8737,7 +8737,7 @@
   },
   {
     "id": 673,
-    "question": "Find the midpoint of the line joining (0, \\(-2)\\) and (6, 4).",
+    "question": "Find the midpoint of the line joining \\((0, -2)\\) and \\((6, 4)\\).",
     "options": [
       "A. (3, 1)",
       "B. (6, 2)",
@@ -8754,7 +8754,7 @@
     "options": [
       "A. 9",
       "B. \\(\\frac{1}{3}\\)",
-      "C. \\(-\\)3",
+      "C. \\(-3\\)",
       "D. 3"
     ],
     "answer": "D",
@@ -8776,12 +8776,12 @@
   },
   {
     "id": 676,
-    "question": "Find the gradient of the line y = \\(-3x\\) + 7.",
+    "question": "Find the gradient of the line \\(y = -3x + 7\\).",
     "options": [
       "A. 7",
       "B. 3",
-      "C. \\(-\\)3",
-      "D. \\(-\\)7"
+      "C. \\(-3\\)",
+      "D. \\(-7\\)"
     ],
     "answer": "C",
     "topic": "Coordinate Geometry",
@@ -8802,7 +8802,7 @@
   },
   {
     "id": 678,
-    "question": "Find the midpoint of the line joining (\\(- 1, -1)\\) and (5, 7).",
+    "question": "Find the midpoint of the line joining \\((-1, -1)\\) and \\((5, 7)\\).",
     "options": [
       "A. (4, 6)",
       "B. (3, 4)",
@@ -8818,9 +8818,9 @@
     "question": "Find the gradient of the line passing through (2, 6) and (5, 0).",
     "options": [
       "A. 2",
-      "B. \\(-\\)2",
+      "B. \\(-2\\)",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)\\(\\frac{1}{2}\\)"
+      "D. \\(-\\frac{1}{2}\\)"
     ],
     "answer": "B",
     "topic": "Coordinate Geometry",
@@ -8830,10 +8830,10 @@
     "id": 680,
     "question": "Find the equation of the line passing through (1, 4) and (3, 10).",
     "options": [
-      "A. \\(y = 3x -\\) 1",
-      "B. y = 2x + 2",
-      "C. y = 3x + 1",
-      "D. y = x + 3"
+      "A. \\(y = 3x - 1\\)",
+      "B. \\(y = 2x + 2\\)",
+      "C. \\(y = 3x + 1\\)",
+      "D. \\(y = x + 3\\)"
     ],
     "answer": "C",
     "topic": "Coordinate Geometry",
@@ -8843,7 +8843,7 @@
     "id": 681,
     "question": "Evaluate sin \\(30^{\\circ}\\).",
     "options": [
-      "A. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "A. \\(\\frac{\\sqrt{3}}{2}\\)",
       "B. \\(\\frac{1}{2}\\)",
       "C. 1",
       "D. 0"
@@ -8857,7 +8857,7 @@
     "question": "Evaluate cos \\(60^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "B. \\(\\frac{\\sqrt{3}}{2}\\)",
       "C. 1",
       "D. 0"
     ],
@@ -8872,7 +8872,7 @@
       "A. 0",
       "B. \\(\\sqrt{3}\\)",
       "C. 1",
-      "D. 1/\\(\\sqrt{3}\\)"
+      "D. \\(\\frac{1}{\\sqrt{3}}\\)"
     ],
     "answer": "C",
     "topic": "Trigonometric Ratios",
@@ -8883,7 +8883,7 @@
     "question": "Evaluate sin \\(90^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
+      "B. \\(\\frac{\\sqrt{3}}{2}\\)",
       "C. 0",
       "D. 1"
     ],
@@ -8898,7 +8898,7 @@
       "A. 1",
       "B. 0",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)1"
+      "D. \\(-1\\)"
     ],
     "answer": "A",
     "topic": "Trigonometric Ratios",
@@ -8911,7 +8911,7 @@
       "A. 1",
       "B. 0",
       "C. undefined",
-      "D. \\(-\\)1"
+      "D. \\(-1\\)"
     ],
     "answer": "B",
     "topic": "Trigonometric Ratios",
@@ -8923,8 +8923,8 @@
     "options": [
       "A. \\(\\frac{1}{2}\\)",
       "B. 1",
-      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "D. 1/\\(\\sqrt{2}\\)"
+      "C. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "D. \\(\\frac{1}{\\sqrt{2}}\\)"
     ],
     "answer": "C",
     "topic": "Trigonometric Ratios",
@@ -8936,8 +8936,8 @@
     "options": [
       "A. \\(\\frac{1}{2}\\)",
       "B. 1",
-      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "D. 1/\\(\\sqrt{2}\\)"
+      "C. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "D. \\(\\frac{1}{\\sqrt{2}}\\)"
     ],
     "answer": "D",
     "topic": "Trigonometric Ratios",
@@ -8974,7 +8974,7 @@
     "question": "Evaluate sin \\(180^{\\circ}\\).",
     "options": [
       "A. 1",
-      "B. \\(-\\)1",
+      "B. \\(-1\\)",
       "C. 0",
       "D. \\(\\frac{1}{2}\\)"
     ],
@@ -8989,7 +8989,7 @@
       "A. 1",
       "B. 0",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)1"
+      "D. \\(-1\\)"
     ],
     "answer": "D",
     "topic": "Trigonometric Ratios",
@@ -8999,7 +8999,7 @@
     "id": 693,
     "question": "Evaluate tan \\(30^{\\circ}\\).",
     "options": [
-      "A. 1/\\(\\sqrt{3}\\)",
+      "A. \\(\\frac{1}{\\sqrt{3}}\\)",
       "B. \\(\\sqrt{3}\\)",
       "C. 1",
       "D. \\(\\frac{1}{2}\\)"
@@ -9013,7 +9013,7 @@
     "question": "Evaluate sin \\(270^{\\circ}\\).",
     "options": [
       "A. 1",
-      "B. \\(-\\)1",
+      "B. \\(-1\\)",
       "C. 0",
       "D. \\(\\frac{1}{2}\\)"
     ],
@@ -9028,7 +9028,7 @@
       "A. 1",
       "B. \\(\\frac{1}{2}\\)",
       "C. 0",
-      "D. \\(-\\)1"
+      "D. \\(-1\\)"
     ],
     "answer": "C",
     "topic": "Trigonometric Ratios",
@@ -9052,9 +9052,9 @@
     "question": "Evaluate sin \\(150^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "C. \\(-\\)\\(\\frac{1}{2}\\)",
-      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
+      "B. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "C. \\(-\\frac{1}{2}\\)",
+      "D. \\(-\\frac{\\sqrt{3}}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometric Ratios",
@@ -9065,9 +9065,9 @@
     "question": "Evaluate cos \\(120^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(-\\)\\(\\frac{1}{2}\\)",
-      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
+      "B. \\(-\\frac{1}{2}\\)",
+      "C. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "D. \\(-\\frac{\\sqrt{3}}{2}\\)"
     ],
     "answer": "B",
     "topic": "Trigonometric Ratios",
@@ -9077,7 +9077,7 @@
     "id": 699,
     "question": "Evaluate tan \\(60^{\\circ}\\).",
     "options": [
-      "A. 1/\\(\\sqrt{3}\\)",
+      "A. \\(\\frac{1}{\\sqrt{3}}\\)",
       "B. 1",
       "C. \\(\\sqrt{3}\\)",
       "D. 2"
@@ -9091,7 +9091,7 @@
     "question": "Evaluate sin \\(360^{\\circ}\\).",
     "options": [
       "A. 1",
-      "B. \\(-\\)1",
+      "B. \\(-1\\)",
       "C. \\(\\frac{1}{2}\\)",
       "D. 0"
     ],
@@ -9105,7 +9105,7 @@
     "options": [
       "A. 0",
       "B. 1",
-      "C. \\(-\\)1",
+      "C. \\(-1\\)",
       "D. \\(\\frac{1}{2}\\)"
     ],
     "answer": "A",
@@ -9130,9 +9130,9 @@
     "question": "Evaluate sin \\(210^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "C. \\(-\\)\\(\\frac{1}{2}\\)",
-      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
+      "B. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "C. \\(-\\frac{1}{2}\\)",
+      "D. \\(-\\frac{\\sqrt{3}}{2}\\)"
     ],
     "answer": "C",
     "topic": "Trigonometric Ratios",
@@ -9143,9 +9143,9 @@
     "question": "Evaluate cos \\(300^{\\circ}\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
-      "B. \\(-\\)\\(\\frac{1}{2}\\)",
-      "C. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "D. \\(-\\)\\(\\sqrt{\\frac{3}{2}}\\)"
+      "B. \\(-\\frac{1}{2}\\)",
+      "C. \\(\\frac{\\sqrt{3}}{2}\\)",
+      "D. \\(-\\frac{\\sqrt{3}}{2}\\)"
     ],
     "answer": "A",
     "topic": "Trigonometric Ratios",
@@ -9156,9 +9156,9 @@
     "question": "Evaluate tan \\(135^{\\circ}\\).",
     "options": [
       "A. 1",
-      "B. \\(-\\)1",
+      "B. \\(-1\\)",
       "C. \\(\\sqrt{3}\\)",
-      "D. \\(-\\)\\(\\sqrt{3}\\)"
+      "D. \\(-\\sqrt{3}\\)"
     ],
     "answer": "B",
     "topic": "Trigonometric Ratios",
@@ -9197,7 +9197,7 @@
       "A. 0",
       "B. 1",
       "C. \\(\\frac{1}{2}\\)",
-      "D. \\(-\\)1"
+      "D. \\(-1\\)"
     ],
     "answer": "D",
     "topic": "Graphs of Trigonometric Functions",
@@ -9205,12 +9205,12 @@
   },
   {
     "id": 709,
-    "question": "Simplify sin(\\(90^{\\circ} - \\theta\\)).",
+    "question": "Simplify \\(\\sin(90^{\\circ} - \\theta)\\).",
     "options": [
-      "A. \\(cos \\theta\\)",
-      "B. \\(sin \\theta\\)",
-      "C. \\(tan \\theta\\)",
-      "D. \\(- cos \\theta\\)"
+      "A. \\(\\cos \\theta\\)",
+      "B. \\(\\sin \\theta\\)",
+      "C. \\(\\tan \\theta\\)",
+      "D. \\(-\\cos \\theta\\)"
     ],
     "answer": "A",
     "topic": "Trigonometric Ratios",
@@ -9218,12 +9218,12 @@
   },
   {
     "id": 710,
-    "question": "Simplify cos(\\(90^{\\circ} - \\theta\\)).",
+    "question": "Simplify \\(\\cos(90^{\\circ} - \\theta)\\).",
     "options": [
-      "A. \\(cos \\theta\\)",
-      "B. \\(sin \\theta\\)",
-      "C. \\(tan \\theta\\)",
-      "D. \\(- sin \\theta\\)"
+      "A. \\(\\cos \\theta\\)",
+      "B. \\(\\sin \\theta\\)",
+      "C. \\(\\tan \\theta\\)",
+      "D. \\(-\\sin \\theta\\)"
     ],
     "answer": "B",
     "topic": "Trigonometric Ratios",
@@ -9273,7 +9273,7 @@
     "question": "The angle of depression from the top of a 100 m cliff to a boat is \\(30^{\\circ}\\). Find the distance of the boat from the foot of the cliff.",
     "options": [
       "A. 50 m",
-      "B. 100/\\(\\sqrt{3}\\) m",
+      "B. \\(\\frac{100}{\\sqrt{3}}\\) m",
       "C. \\(50\\sqrt{3}\\) m",
       "D. \\(100\\sqrt{3}\\) m"
     ],
@@ -9361,7 +9361,7 @@
   },
   {
     "id": 721,
-    "question": "A vertical pole 12 m high casts a shadow of 4\\(\\sqrt{3}\\) m. Find the angle of elevation of the sun.",
+    "question": "A vertical pole 12 m high casts a shadow of \\(4\\sqrt{3}\\) m. Find the angle of elevation of the sun.",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(45^{\\circ}\\)",
@@ -9379,7 +9379,7 @@
       "A. 100 m",
       "B. 50 m",
       "C. \\(50\\sqrt{3}\\) m",
-      "D. \\(100\\sqrt{\\frac{3}{3}}\\) m"
+      "D. \\(\\frac{100\\sqrt{3}}{3}\\) m"
     ],
     "answer": "D",
     "topic": "Angles of Elevation and Depression",
@@ -9667,7 +9667,7 @@
       "C. 0",
       "D. 12"
     ],
-    "answer": "D",
+    "answer": "C",
     "topic": "Differentiation",
     "difficulty": "Easy"
   },
@@ -9699,12 +9699,12 @@
   },
   {
     "id": 747,
-    "question": "Differentiate \\(2x^{3} +\\) 5x with respect to x.",
+    "question": "Differentiate \\(2x^{3} + 5x\\) with respect to x.",
     "options": [
-      "A. \\(2x^{2} +\\) 5",
-      "B. \\(6x^{2} +\\) 5x",
-      "C. \\(6x^{2} +\\) 5",
-      "D. \\(6x^{3} +\\) 5"
+      "A. \\(2x^{2} + 5\\)",
+      "B. \\(6x^{2} + 5x\\)",
+      "C. \\(6x^{2} + 5\\)",
+      "D. \\(6x^{3} + 5\\)"
     ],
     "answer": "C",
     "topic": "Differentiation",
@@ -9714,10 +9714,10 @@
     "id": 748,
     "question": "Differentiate \\(x^{2} - 4x + 1\\) with respect to x.",
     "options": [
-      "A. x \\(-\\) 4",
-      "B. 2x + 4",
-      "C. \\(2x^{2} -\\) 4",
-      "D. \\(2x -\\) 4"
+      "A. \\(x - 4\\)",
+      "B. \\(2x + 4\\)",
+      "C. \\(2x^{2} - 4\\)",
+      "D. \\(2x - 4\\)"
     ],
     "answer": "D",
     "topic": "Differentiation",
@@ -9727,10 +9727,10 @@
     "id": 749,
     "question": "Differentiate \\(6x^{2} - 3x + 2\\) with respect to x.",
     "options": [
-      "A. \\(12x -\\) 3",
-      "B. \\(6x -\\) 3",
-      "C. 12x + 3",
-      "D. \\(12x^{2} -\\) 3"
+      "A. \\(12x - 3\\)",
+      "B. \\(6x - 3\\)",
+      "C. \\(12x + 3\\)",
+      "D. \\(12x^{2} - 3\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -9751,12 +9751,12 @@
   },
   {
     "id": 751,
-    "question": "Differentiate (x + \\(1)^{2}\\) with respect to x.",
+    "question": "Differentiate \\((x + 1)^{2}\\) with respect to x.",
     "options": [
       "A. 2x",
-      "B. 2x + 1",
-      "C. 2x + 2",
-      "D. \\(x^{2} +\\) 2x"
+      "B. \\(2x + 1\\)",
+      "C. \\(2x + 2\\)",
+      "D. \\(x^{2} + 2x\\)"
     ],
     "answer": "C",
     "topic": "Differentiation",
@@ -9766,10 +9766,10 @@
     "id": 752,
     "question": "Differentiate \\(\\frac{1}{x}\\) with respect to x.",
     "options": [
-      "A. \\(-\\)\\(x^{2}\\)",
+      "A. \\(-x^{2}\\)",
       "B. \\(\\frac{1}{x^{2}}\\)",
-      "C. ln x",
-      "D. \\(-\\)\\(\\frac{1}{x^{2}}\\)"
+      "C. \\(\\ln x\\)",
+      "D. \\(-\\frac{1}{x^{2}}\\)"
     ],
     "answer": "D",
     "topic": "Differentiation",
@@ -9779,10 +9779,10 @@
     "id": 753,
     "question": "Differentiate \\(\\frac{1}{x^{2}}\\) with respect to x.",
     "options": [
-      "A. \\(-\\)\\(\\frac{2}{x^{3}}\\)",
+      "A. \\(-\\frac{2}{x^{3}}\\)",
       "B. \\(\\frac{2}{x^{3}}\\)",
-      "C. \\(-\\)\\(\\frac{1}{x^{3}}\\)",
-      "D. \\(-\\)\\(2x^{3}\\)"
+      "C. \\(-\\frac{1}{x^{3}}\\)",
+      "D. \\(-2x^{3}\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -9792,10 +9792,10 @@
     "id": 754,
     "question": "Differentiate \\(\\sqrt{x}\\) with respect to x.",
     "options": [
-      "A. 1/\\(\\sqrt{x}\\)",
-      "B. 1/(2\\(\\sqrt{x}\\))",
+      "A. \\(\\frac{1}{\\sqrt{x}}\\)",
+      "B. \\(\\frac{1}{2\\sqrt{x}}\\)",
       "C. \\(2\\sqrt{x}\\)",
-      "D. 2/\\(\\sqrt{x}\\)"
+      "D. \\(\\frac{2}{\\sqrt{x}}\\)"
     ],
     "answer": "B",
     "topic": "Differentiation",
@@ -9803,11 +9803,11 @@
   },
   {
     "id": 755,
-    "question": "Differentiate 2\\(\\sqrt{x}\\) with respect to x.",
+    "question": "Differentiate \\(2\\sqrt{x}\\) with respect to x.",
     "options": [
       "A. \\(\\sqrt{x}\\)",
-      "B. 2/\\(\\sqrt{x}\\)",
-      "C. 1/\\(\\sqrt{x}\\)",
+      "B. \\(\\frac{2}{\\sqrt{x}}\\)",
+      "C. \\(\\frac{1}{\\sqrt{x}}\\)",
       "D. \\(4\\sqrt{x}\\)"
     ],
     "answer": "C",
@@ -9819,9 +9819,9 @@
     "question": "Differentiate \\(\\frac{3}{x}\\) with respect to x.",
     "options": [
       "A. \\(\\frac{3}{x^{2}}\\)",
-      "B. \\(-\\)\\(\\frac{3}{x}\\)",
-      "C. \\(-\\)\\(\\frac{1}{x^{2}}\\)",
-      "D. \\(-\\)\\(\\frac{3}{x^{2}}\\)"
+      "B. \\(-\\frac{3}{x}\\)",
+      "C. \\(-\\frac{1}{x^{2}}\\)",
+      "D. \\(-\\frac{3}{x^{2}}\\)"
     ],
     "answer": "D",
     "topic": "Differentiation",
@@ -9829,7 +9829,7 @@
   },
   {
     "id": 757,
-    "question": "Differentiate (2x + \\(1)^{2}\\) with respect to x.",
+    "question": "Differentiate \\((2x + 1)^{2}\\) with respect to x.",
     "options": [
       "A. 8x + 4",
       "B. 4x + 2",
@@ -9842,12 +9842,12 @@
   },
   {
     "id": 758,
-    "question": "Differentiate \\(x^{3} - 3x^{2} + 2x -\\) 1 with respect to x.",
+    "question": "Differentiate \\(x^{3} - 3x^{2} + 2x - 1\\) with respect to x.",
     "options": [
       "A. \\(3x^{2} - 6x + 2\\)",
       "B. \\(3x^{2} - 6x + 2x\\)",
       "C. \\(3x^{2} - 3x + 2\\)",
-      "D. \\(3x^{2} - 6x -\\) 2"
+      "D. \\(3x^{2} - 6x - 2\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -9857,12 +9857,12 @@
     "id": 759,
     "question": "Differentiate \\(5x^{3} + 2x^{2} - x + 4\\) with respect to x.",
     "options": [
-      "A. \\(15x^{2} + 4x -\\) 1",
-      "B. \\(15x^{2} +\\) 4x + 1",
-      "C. \\(5x^{2} + 4x -\\) 1",
-      "D. \\(15x^{2} - 4x -\\) 1"
+      "A. \\(15x^{2} + 4x - 1\\)",
+      "B. \\(15x^{2} + 4x + 1\\)",
+      "C. \\(5x^{2} + 4x - 1\\)",
+      "D. \\(15x^{2} - 4x - 1\\)"
     ],
-    "answer": "C",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
@@ -9872,7 +9872,7 @@
     "options": [
       "A. \\(1 + \\frac{1}{x^{2}}\\)",
       "B. \\(1 - \\frac{1}{x^{2}}\\)",
-      "C. x \\(- \\frac{1}{x^{2}}\\)",
+      "C. \\(x - \\frac{1}{x^{2}}\\)",
       "D. \\(1 - x^{2}\\)"
     ],
     "answer": "B",
@@ -9881,20 +9881,20 @@
   },
   {
     "id": 761,
-    "question": "Find the gradient of y = \\(x^{2}\\) at x = 3.",
+    "question": "Find the gradient of \\(y = x^{2}\\) at x = 3.",
     "options": [
       "A. 9",
       "B. 3",
       "C. 6",
       "D. 12"
     ],
-    "answer": "D",
+    "answer": "C",
     "topic": "Differentiation",
     "difficulty": "Easy"
   },
   {
     "id": 762,
-    "question": "Find the gradient of y = \\(x^{3}\\) at x = 2.",
+    "question": "Find the gradient of \\(y = x^{3}\\) at x = 2.",
     "options": [
       "A. 6",
       "B. 8",
@@ -9907,40 +9907,40 @@
   },
   {
     "id": 763,
-    "question": "Find the gradient of y = \\(2x^{2} - 3x\\) at x = 1.",
+    "question": "Find the gradient of \\(y = 2x^{2} - 3x\\) at x = 1.",
     "options": [
       "A. 1",
       "B. 4",
-      "C. \\(-\\)1",
+      "C. \\(-1\\)",
       "D. 7"
-    ],
-    "answer": "B",
-    "topic": "Differentiation",
-    "difficulty": "Medium"
-  },
-  {
-    "id": 764,
-    "question": "Find the equation of the tangent to y = \\(x^{2}\\) at x = 2.",
-    "options": [
-      "A. y = 4x + 4",
-      "B. \\(y = 2x -\\) 4",
-      "C. \\(y = 4x -\\) 4",
-      "D. \\(y = x -\\) 4"
     ],
     "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
   {
+    "id": 764,
+    "question": "Find the equation of the tangent to \\(y = x^{2}\\) at x = 2.",
+    "options": [
+      "A. \\(y = 4x + 4\\)",
+      "B. \\(y = 2x - 4\\)",
+      "C. \\(y = 4x - 4\\)",
+      "D. \\(y = x - 4\\)"
+    ],
+    "answer": "C",
+    "topic": "Differentiation",
+    "difficulty": "Medium"
+  },
+  {
     "id": 765,
-    "question": "Find the equation of the normal to y = \\(x^{2}\\) at x = 1.",
+    "question": "Find the equation of the normal to \\(y = x^{2}\\) at x = 1.",
     "options": [
       "A. \\(2y + x - 3 = 0\\)",
       "B. \\(2y - x + 3 = 0\\)",
       "C. \\(y + 2x - 3 = 0\\)",
-      "D. y \\(- 2x + 3 = 0\\)"
+      "D. \\(y - 2x + 3 = 0\\)"
     ],
-    "answer": "D",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Hard"
   },
@@ -9948,12 +9948,12 @@
     "id": 766,
     "question": "Differentiate \\((x^{2} + 3x)^{2}\\) with respect to x.",
     "options": [
-      "A. \\(2(x^{2} +\\) 3x)(2x + 3)",
-      "B. \\(2(x^{2} +\\) 3x)(x + 3)",
+      "A. \\(2(x^{2} + 3x)(2x + 3)\\)",
+      "B. \\(2(x^{2} + 3x)(x + 3)\\)",
       "C. \\((2x + 3)^{2}\\)",
-      "D. 2x(2x + 3)"
+      "D. \\(2x(2x + 3)\\)"
     ],
-    "answer": "C",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
@@ -9962,22 +9962,22 @@
     "question": "Differentiate \\(x^{2}(3x - 1)\\) with respect to x.",
     "options": [
       "A. \\(9x^{2} - 2x\\)",
-      "B. \\(9x^{2} +\\) 2x",
+      "B. \\(9x^{2} + 2x\\)",
       "C. \\(6x^{2} - 2x\\)",
       "D. \\(3x^{2} - 2x\\)"
     ],
-    "answer": "B",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
   {
     "id": 768,
-    "question": "Differentiate (2x \\(- 1)(x + 3)\\) with respect to x.",
+    "question": "Differentiate \\((2x - 1)(x + 3)\\) with respect to x.",
     "options": [
-      "A. 4x + 5",
-      "B. \\(4x -\\) 5",
-      "C. 2x + 5",
-      "D. 4x + 1"
+      "A. \\(4x + 5\\)",
+      "B. \\(4x - 5\\)",
+      "C. \\(2x + 5\\)",
+      "D. \\(4x + 1\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -9988,11 +9988,11 @@
     "question": "Differentiate \\((x^{2} + 1)(x - 2)\\) with respect to x.",
     "options": [
       "A. \\(3x^{2} - 4x + 1\\)",
-      "B. \\(3x^{2} - 4x -\\) 1",
-      "C. \\(3x^{2} +\\) 4x + 1",
+      "B. \\(3x^{2} - 4x - 1\\)",
+      "C. \\(3x^{2} + 4x + 1\\)",
       "D. \\(2x^{2} - 4x + 1\\)"
     ],
-    "answer": "D",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
@@ -10005,31 +10005,31 @@
       "C. \\(2x + \\frac{1}{x}\\)",
       "D. \\(3x^{2} + \\frac{1}{x^{2}}\\)"
     ],
-    "answer": "C",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
   {
     "id": 771,
-    "question": "Differentiate (2x + \\(1)^{3}\\) with respect to x.",
+    "question": "Differentiate \\((2x + 1)^{3}\\) with respect to x.",
     "options": [
       "A. \\(6(2x + 1)^{2}\\)",
       "B. \\(3(2x + 1)^{2}\\)",
       "C. \\(2(2x + 1)^{2}\\)",
       "D. \\(6(2x + 1)^{3}\\)"
     ],
-    "answer": "B",
+    "answer": "A",
     "topic": "Differentiation",
     "difficulty": "Medium"
   },
   {
     "id": 772,
-    "question": "Differentiate (3x \\(- 2)^{2}\\) with respect to x.",
+    "question": "Differentiate \\((3x - 2)^{2}\\) with respect to x.",
     "options": [
       "A. \\(6(3x - 2)\\)",
       "B. \\(3(3x - 2)\\)",
-      "C. \\(18x -\\) 12",
-      "D. \\(9x -\\) 6"
+      "C. \\(2(3x - 2)\\)",
+      "D. \\(6(3x - 2)^{2}\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -10040,8 +10040,8 @@
     "question": "Differentiate \\(\\frac{1}{x + 1}\\) with respect to x.",
     "options": [
       "A. \\(\\frac{1}{(x + 1)^{2}}\\)",
-      "B. \\(-\\)\\(\\frac{1}{(x + 1)^{2}}\\)",
-      "C. \\(-\\)\\(\\frac{1}{x + 1}\\)",
+      "B. \\(-\\frac{1}{(x + 1)^{2}}\\)",
+      "C. \\(-\\frac{1}{x + 1}\\)",
       "D. \\(\\frac{1}{x + 1}\\)"
     ],
     "answer": "B",
@@ -10052,8 +10052,8 @@
     "id": 774,
     "question": "Differentiate \\(\\frac{1}{2x + 1}\\) with respect to x.",
     "options": [
-      "A. \\(-\\)\\(\\frac{1}{(2x + 1)^{2}}\\)",
-      "B. \\(-\\)\\(\\frac{2}{(2x + 1)^{2}}\\)",
+      "A. \\(-\\frac{1}{(2x + 1)^{2}}\\)",
+      "B. \\(-\\frac{2}{(2x + 1)^{2}}\\)",
       "C. \\(\\frac{2}{(2x + 1)^{2}}\\)",
       "D. \\(\\frac{1}{(2x + 1)^{2}}\\)"
     ],
@@ -10065,10 +10065,10 @@
     "id": 775,
     "question": "Differentiate \\(\\sqrt{3x + 1}\\) with respect to x.",
     "options": [
-      "A. 3/(2\\(\\sqrt{3x + 1}\\))",
-      "B. 1/(2\\(\\sqrt{3x + 1}\\))",
-      "C. 3/\\(\\sqrt{3x + 1}\\)",
-      "D. 2/(3\\(\\sqrt{3x + 1}\\))"
+      "A. \\(\\frac{3}{2\\sqrt{3x + 1}}\\)",
+      "B. \\(\\frac{1}{2\\sqrt{3x + 1}}\\)",
+      "C. \\(\\frac{3}{\\sqrt{3x + 1}}\\)",
+      "D. \\(\\frac{2}{3\\sqrt{3x + 1}}\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -10078,10 +10078,10 @@
     "id": 776,
     "question": "Differentiate \\(\\sqrt{x^{2} + 1}\\) with respect to x.",
     "options": [
-      "A. x/\\(\\sqrt{x^{2} + 1}\\)",
-      "B. 2x/\\(\\sqrt{x^{2} + 1}\\)",
-      "C. 1/\\(\\sqrt{x^{2} + 1}\\)",
-      "D. \\(x^{2} / \\sqrt{x^{2} + 1}\\)"
+      "A. \\(\\frac{x}{\\sqrt{x^{2} + 1}}\\)",
+      "B. \\(\\frac{2x}{\\sqrt{x^{2} + 1}}\\)",
+      "C. \\(\\frac{1}{\\sqrt{x^{2} + 1}}\\)",
+      "D. \\(\\frac{x^{2}}{\\sqrt{x^{2} + 1}}\\)"
     ],
     "answer": "A",
     "topic": "Differentiation",
@@ -10089,11 +10089,11 @@
   },
   {
     "id": 777,
-    "question": "Find the derivative of y = \\(4x^{3} - 2x^{2} + 7x -\\) 5.",
+    "question": "Find the derivative of y = \\(4x^{3} - 2x^{2} + 7x - 5\\).",
     "options": [
       "A. \\(12x^{2} - 4x + 7\\)",
-      "B. \\(12x^{2} - 4x -\\) 7",
-      "C. \\(12x^{2} +\\) 4x + 7",
+      "B. \\(12x^{2} - 4x - 7\\)",
+      "C. \\(12x^{2} + 4x + 7\\)",
       "D. \\(4x^{2} - 4x + 7\\)"
     ],
     "answer": "A",
@@ -10128,7 +10128,7 @@
   },
   {
     "id": 780,
-    "question": "Differentiate y = \\(2x^{5} - 5x^{3} +\\) 1 with respect to x.",
+    "question": "Differentiate y = \\(2x^{5} - 5x^{3} + 1\\) with respect to x.",
     "options": [
       "A. \\(10x^{4} - 15x^{2}\\)",
       "B. \\(10x^{4} - 15x^{3}\\)",
@@ -10143,10 +10143,10 @@
     "id": 781,
     "question": "Integrate \\(x^{2}\\) with respect to x.",
     "options": [
-      "A. \\(\\frac{x^{3}}{3} +\\) C",
-      "B. \\(x^{3} +\\) C",
+      "A. \\(\\frac{x^{3}}{3} + C\\)",
+      "B. \\(x^{3} + C\\)",
       "C. 2x + C",
-      "D. \\(\\frac{x^{2}}{2} +\\) C"
+      "D. \\(\\frac{x^{2}}{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10156,9 +10156,9 @@
     "id": 782,
     "question": "Integrate \\(3x^{2}\\) with respect to x.",
     "options": [
-      "A. \\(3x^{3} +\\) C",
-      "B. \\(x^{3} +\\) C",
-      "C. \\(\\frac{x^{3}}{3} +\\) C",
+      "A. \\(3x^{3} + C\\)",
+      "B. \\(x^{3} + C\\)",
+      "C. \\(\\frac{x^{3}}{3} + C\\)",
       "D. 6x + C"
     ],
     "answer": "B",
@@ -10169,10 +10169,10 @@
     "id": 783,
     "question": "Integrate 4x with respect to x.",
     "options": [
-      "A. \\(4x^{2} +\\) C",
-      "B. \\(2x^{2} +\\) C",
+      "A. \\(4x^{2} + C\\)",
+      "B. \\(2x^{2} + C\\)",
       "C. 4 + C",
-      "D. \\(x^{2} +\\) C"
+      "D. \\(x^{2} + C\\)"
     ],
     "answer": "B",
     "topic": "Integration",
@@ -10182,7 +10182,7 @@
     "id": 784,
     "question": "Integrate 5 with respect to x.",
     "options": [
-      "A. \\(5x^{2} +\\) C",
+      "A. \\(5x^{2} + C\\)",
       "B. 5x + C",
       "C. 0 + C",
       "D. x + C"
@@ -10195,10 +10195,10 @@
     "id": 785,
     "question": "Integrate \\(x^{3}\\) with respect to x.",
     "options": [
-      "A. \\(\\frac{x^{4}}{4} +\\) C",
-      "B. \\(x^{4} +\\) C",
-      "C. \\(3x^{2} +\\) C",
-      "D. \\(\\frac{x^{3}}{3} +\\) C"
+      "A. \\(\\frac{x^{4}}{4} + C\\)",
+      "B. \\(x^{4} + C\\)",
+      "C. \\(3x^{2} + C\\)",
+      "D. \\(\\frac{x^{3}}{3} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10208,10 +10208,10 @@
     "id": 786,
     "question": "Integrate \\(2x^{3}\\) with respect to x.",
     "options": [
-      "A. \\(x^{4} +\\) C",
-      "B. \\(\\frac{x^{4}}{2} +\\) C",
-      "C. \\(2x^{4} +\\) C",
-      "D. \\(6x^{2} +\\) C"
+      "A. \\(x^{4} + C\\)",
+      "B. \\(\\frac{x^{4}}{2} + C\\)",
+      "C. \\(2x^{4} + C\\)",
+      "D. \\(6x^{2} + C\\)"
     ],
     "answer": "B",
     "topic": "Integration",
@@ -10219,11 +10219,11 @@
   },
   {
     "id": 787,
-    "question": "Integrate \\(x^{2} +\\) 1 with respect to x.",
+    "question": "Integrate \\(x^{2} + 1\\) with respect to x.",
     "options": [
-      "A. \\(\\frac{x^{3}}{3} +\\) x + C",
-      "B. \\(\\frac{x^{3}}{3} +\\) C",
-      "C. \\(x^{3} +\\) x + C",
+      "A. \\(\\frac{x^{3}}{3} + x + C\\)",
+      "B. \\(\\frac{x^{3}}{3} + C\\)",
+      "C. \\(x^{3} + x + C\\)",
       "D. 2x + C"
     ],
     "answer": "A",
@@ -10232,12 +10232,12 @@
   },
   {
     "id": 788,
-    "question": "Integrate \\(3x^{2} +\\) 2x with respect to x.",
+    "question": "Integrate \\(3x^{2} + 2x\\) with respect to x.",
     "options": [
-      "A. \\(x^{3} + x^{2} +\\) C",
-      "B. \\(x^{3} + 2x^{2} +\\) C",
-      "C. \\(3x^{3} + x^{2} +\\) C",
-      "D. \\(\\frac{x^{3}}{3} + x^{2} +\\) C"
+      "A. \\(x^{3} + x^{2} + C\\)",
+      "B. \\(x^{3} + 2x^{2} + C\\)",
+      "C. \\(3x^{3} + x^{2} + C\\)",
+      "D. \\(\\frac{x^{3}}{3} + x^{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10247,10 +10247,10 @@
     "id": 789,
     "question": "Integrate \\(4x^{3} - 2x\\) with respect to x.",
     "options": [
-      "A. \\(x^{4} - x^{2} +\\) C",
-      "B. \\(x^{4} + x^{2} +\\) C",
-      "C. \\(4x^{4} - x^{2} +\\) C",
-      "D. \\(x^{4} - 2x^{2} +\\) C"
+      "A. \\(x^{4} - x^{2} + C\\)",
+      "B. \\(x^{4} + x^{2} + C\\)",
+      "C. \\(4x^{4} - x^{2} + C\\)",
+      "D. \\(x^{4} - 2x^{2} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10260,10 +10260,10 @@
     "id": 790,
     "question": "Integrate \\(6x^{2} - 4x + 3\\) with respect to x.",
     "options": [
-      "A. \\(2x^{3} - 2x^{2} +\\) 3x + C",
-      "B. \\(2x^{3} + 2x^{2} +\\) 3x + C",
-      "C. \\(3x^{3} - 2x^{2} +\\) 3x + C",
-      "D. \\(2x^{3} - 2x^{2} +\\) 3 + C"
+      "A. \\(2x^{3} - 2x^{2} + 3x + C\\)",
+      "B. \\(2x^{3} + 2x^{2} + 3x + C\\)",
+      "C. \\(3x^{3} - 2x^{2} + 3x + C\\)",
+      "D. \\(2x^{3} - 2x^{2} + 3 + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10273,10 +10273,10 @@
     "id": 791,
     "question": "Integrate \\(\\frac{1}{x^{2}}\\) with respect to x.",
     "options": [
-      "A. \\(-\\)\\(\\frac{1}{x} +\\) C",
-      "B. \\(\\frac{1}{x} +\\) C",
-      "C. \\(-\\)\\(\\frac{1}{x^{2}} +\\) C",
-      "D. \\(x^{-1} +\\) C"
+      "A. \\(-\\frac{1}{x} + C\\)",
+      "B. \\(\\frac{1}{x} + C\\)",
+      "C. \\(-\\frac{1}{x^{2}} + C\\)",
+      "D. \\(-\\frac{2}{x^{3}} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10286,10 +10286,10 @@
     "id": 792,
     "question": "Integrate \\(\\frac{1}{x^{3}}\\) with respect to x.",
     "options": [
-      "A. \\(-\\)\\(\\frac{1}{2x^{2}} +\\) C",
-      "B. \\(-\\)\\(\\frac{1}{x^{2}} +\\) C",
-      "C. \\(\\frac{1}{2x^{2}} +\\) C",
-      "D. \\(-\\)\\(\\frac{1}{3x^{3}} +\\) C"
+      "A. \\(-\\frac{1}{2x^{2}} + C\\)",
+      "B. \\(-\\frac{1}{x^{2}} + C\\)",
+      "C. \\(\\frac{1}{2x^{2}} + C\\)",
+      "D. \\(-\\frac{1}{3x^{3}} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10299,10 +10299,10 @@
     "id": 793,
     "question": "Integrate \\(\\sqrt{x}\\) with respect to x.",
     "options": [
-      "A. \\((\\frac{2}{3} ) x^{\\frac{3}{2}} +\\) C",
-      "B. \\((\\frac{3}{2} ) x^{\\frac{3}{2}} +\\) C",
-      "C. \\(2\\sqrt{x} +\\) C",
-      "D. \\(x^{\\frac{1}{2}} +\\) C"
+      "A. \\(\\frac{2}{3}x^{\\frac{3}{2}} + C\\)",
+      "B. \\(\\frac{3}{2}x^{\\frac{3}{2}} + C\\)",
+      "C. \\(2\\sqrt{x} + C\\)",
+      "D. \\(x^{\\frac{1}{2}} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10310,12 +10310,12 @@
   },
   {
     "id": 794,
-    "question": "Integrate 2/\\(\\sqrt{x}\\) with respect to x.",
+    "question": "Integrate \\(\\frac{2}{\\sqrt{x}}\\) with respect to x.",
     "options": [
-      "A. \\(4\\sqrt{x} +\\) C",
-      "B. \\(2\\sqrt{x} +\\) C",
-      "C. \\(\\frac{4}{x} +\\) C",
-      "D. \\(\\sqrt{x} +\\) C"
+      "A. \\(4\\sqrt{x} + C\\)",
+      "B. \\(2\\sqrt{x} + C\\)",
+      "C. \\(\\frac{4}{x} + C\\)",
+      "D. \\(\\sqrt{x} + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10323,12 +10323,12 @@
   },
   {
     "id": 795,
-    "question": "Integrate (x + \\(1)^{2}\\) with respect to x.",
+    "question": "Integrate \\((x + 1)^{2}\\) with respect to x.",
     "options": [
-      "A. \\(\\frac{x^{3}}{3} + x^{2} +\\) x + C",
-      "B. \\(\\frac{x^{3}}{3} + x^{2} +\\) C",
-      "C. \\(\\frac{x^{3}}{3} +\\) x + C",
-      "D. \\(x^{2} +\\) 2x + 1 + C"
+      "A. \\(\\frac{x^{3}}{3} + x^{2} + x + C\\)",
+      "B. \\(\\frac{x^{3}}{3} + x^{2} + C\\)",
+      "C. \\(\\frac{x^{3}}{3} + x + C\\)",
+      "D. \\(x^{2} + 2x + 1 + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10336,12 +10336,12 @@
   },
   {
     "id": 796,
-    "question": "Integrate (2x + \\(1)^{2}\\) with respect to x.",
+    "question": "Integrate \\((2x + 1)^{2}\\) with respect to x.",
     "options": [
-      "A. \\((\\frac{4}{3}\\)\\()x^{3} + 2x^{2} +\\) x + C",
-      "B. \\((\\frac{4}{3}\\)\\()x^{3} + 2x^{2} +\\) C",
-      "C. \\((\\frac{2}{3}\\)\\()x^{3} + 2x^{2} +\\) x + C",
-      "D. \\(4x^{3} + 2x^{2} +\\) x + C"
+      "A. \\(\\frac{4}{3}x^{3} + 2x^{2} + x + C\\)",
+      "B. \\(\\frac{4}{3}x^{3} + 2x^{2} + C\\)",
+      "C. \\(\\frac{2}{3}x^{3} + 2x^{2} + x + C\\)",
+      "D. \\(4x^{3} + 2x^{2} + x + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10349,7 +10349,7 @@
   },
   {
     "id": 797,
-    "question": "Evaluate \\(\\int_{0}^{1} x^{2}\\) dx.",
+    "question": "Evaluate \\(\\int_{0}^{1} x^{2} \\, dx\\).",
     "options": [
       "A. \\(\\frac{1}{3}\\)",
       "B. \\(\\frac{1}{2}\\)",
@@ -10362,7 +10362,7 @@
   },
   {
     "id": 798,
-    "question": "Evaluate \\(\\int_{0}^{2}\\) x dx.",
+    "question": "Evaluate \\(\\int_{0}^{2} x \\, dx\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -10375,7 +10375,7 @@
   },
   {
     "id": 799,
-    "question": "Evaluate \\(\\int_{1}^{3} 2x\\) dx.",
+    "question": "Evaluate \\(\\int_{1}^{3} 2x \\, dx\\).",
     "options": [
       "A. 4",
       "B. 6",
@@ -10388,7 +10388,7 @@
   },
   {
     "id": 800,
-    "question": "Evaluate \\(\\int_{0}^{2} (x + 1)\\) dx.",
+    "question": "Evaluate \\(\\int_{0}^{2} (x + 1) \\, dx\\).",
     "options": [
       "A. 2",
       "B. 3",
@@ -10401,7 +10401,7 @@
   },
   {
     "id": 801,
-    "question": "Evaluate \\(\\int_{1}^{2} 3x^{2}\\) dx.",
+    "question": "Evaluate \\(\\int_{1}^{2} 3x^{2} \\, dx\\).",
     "options": [
       "A. 7",
       "B. 9",
@@ -10414,7 +10414,7 @@
   },
   {
     "id": 802,
-    "question": "Evaluate \\(\\int_{0}^{1} (2x + 1)\\) dx.",
+    "question": "Evaluate \\(\\int_{0}^{1} (2x + 1) \\, dx\\).",
     "options": [
       "A. 1",
       "B. 2",
@@ -10427,7 +10427,7 @@
   },
   {
     "id": 803,
-    "question": "Evaluate \\(\\int_{0}^{3} x^{2}\\) dx.",
+    "question": "Evaluate \\(\\int_{0}^{3} x^{2} \\, dx\\).",
     "options": [
       "A. 3",
       "B. 6",
@@ -10440,7 +10440,7 @@
   },
   {
     "id": 804,
-    "question": "Evaluate \\(\\int_{1}^{2} 4x^{3}\\) dx.",
+    "question": "Evaluate \\(\\int_{1}^{2} 4x^{3} \\, dx\\).",
     "options": [
       "A. 5",
       "B. 10",
@@ -10453,7 +10453,7 @@
   },
   {
     "id": 805,
-    "question": "Evaluate \\(\\int_{0}^{1} (x^{2} +\\) x) dx.",
+    "question": "Evaluate \\(\\int_{0}^{1} (x^{2} + x) \\, dx\\).",
     "options": [
       "A. \\(\\frac{5}{6}\\)",
       "B. \\(\\frac{1}{2}\\)",
@@ -10466,7 +10466,7 @@
   },
   {
     "id": 806,
-    "question": "Evaluate \\(\\int_{1}^{2} (x^{2} -\\) x) dx.",
+    "question": "Evaluate \\(\\int_{1}^{2} (x^{2} - x) \\, dx\\).",
     "options": [
       "A. \\(\\frac{1}{2}\\)",
       "B. \\(\\frac{2}{3}\\)",
@@ -10479,7 +10479,7 @@
   },
   {
     "id": 807,
-    "question": "Evaluate \\(\\int_{0}^{2} (2x^{2} +\\) 1) dx.",
+    "question": "Evaluate \\(\\int_{0}^{2} (2x^{2} + 1) \\, dx\\).",
     "options": [
       "A. \\(\\frac{16}{3}\\)",
       "B. \\(\\frac{22}{3}\\)",
@@ -10492,7 +10492,7 @@
   },
   {
     "id": 808,
-    "question": "Evaluate \\(\\int_{1}^{3} (x^{2} +\\) 2x) dx.",
+    "question": "Evaluate \\(\\int_{1}^{3} (x^{2} + 2x) \\, dx\\).",
     "options": [
       "A. \\(\\frac{50}{3}\\)",
       "B. \\(\\frac{40}{3}\\)",
@@ -10570,12 +10570,12 @@
   },
   {
     "id": 814,
-    "question": "If \\(\\frac{dy}{dx} =\\) 2x and y = 3 when x = 1, find y in terms of x.",
+    "question": "If \\(\\frac{dy}{dx} = 2x\\) and y = 3 when x = 1, find y in terms of x.",
     "options": [
-      "A. \\(x^{2} +\\) 2",
-      "B. \\(x^{2} +\\) 3",
-      "C. \\(x^{2} -\\) 2",
-      "D. \\(2x^{2} +\\) 1"
+      "A. \\(x^{2} + 2\\)",
+      "B. \\(x^{2} + 3\\)",
+      "C. \\(x^{2} - 2\\)",
+      "D. \\(2x^{2} + 1\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10585,9 +10585,9 @@
     "id": 815,
     "question": "If \\(\\frac{dy}{dx} = 3x^{2}\\) and y = 1 when x = 0, find y.",
     "options": [
-      "A. \\(x^{3} +\\) 1",
-      "B. \\(x^{3} -\\) 1",
-      "C. \\(3x^{3} +\\) 1",
+      "A. \\(x^{3} + 1\\)",
+      "B. \\(x^{3} - 1\\)",
+      "C. \\(3x^{3} + 1\\)",
       "D. \\(x^{3}\\)"
     ],
     "answer": "A",
@@ -10596,12 +10596,12 @@
   },
   {
     "id": 816,
-    "question": "If \\(\\frac{dy}{dx} =\\) 4x and y = 5 when x = 2, find y.",
+    "question": "If \\(\\frac{dy}{dx} = 4x\\) and y = 5 when x = 2, find y.",
     "options": [
-      "A. \\(2x^{2} -\\) 3",
-      "B. \\(2x^{2} +\\) 3",
-      "C. \\(4x^{2} -\\) 3",
-      "D. \\(x^{2} +\\) 1"
+      "A. \\(2x^{2} - 3\\)",
+      "B. \\(2x^{2} + 3\\)",
+      "C. \\(4x^{2} - 3\\)",
+      "D. \\(x^{2} + 1\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10612,9 +10612,9 @@
     "question": "If \\(\\frac{dy}{dx} = 6x^{2}\\) and y = 2 when x = 1, find y.",
     "options": [
       "A. \\(2x^{3}\\)",
-      "B. \\(2x^{3} +\\) 1",
-      "C. \\(x^{3} +\\) 1",
-      "D. \\(3x^{3} -\\) 1"
+      "B. \\(2x^{3} + 1\\)",
+      "C. \\(x^{3} + 1\\)",
+      "D. \\(3x^{3} - 1\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10627,7 +10627,7 @@
       "A. \\(\\frac{x^{3}}{3}\\)",
       "B. \\(x^{3}\\)",
       "C. \\(\\frac{x^{2}}{2}\\)",
-      "D. \\(x^{3} +\\) 1"
+      "D. \\(x^{3} + 1\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10635,12 +10635,12 @@
   },
   {
     "id": 819,
-    "question": "Integrate (2x + \\(3)^{2}\\) with respect to x.",
+    "question": "Integrate \\((2x + 3)^{2}\\) with respect to x.",
     "options": [
-      "A. \\((\\frac{4}{3}\\)\\()x^{3} + 6x^{2} +\\) 9x + C",
-      "B. \\((\\frac{4}{3}\\)\\()x^{3} + 6x^{2} +\\) C",
-      "C. \\(4x^{3} + 6x^{2} +\\) 9x + C",
-      "D. \\((\\frac{2}{3}\\)\\()x^{3} + 6x^{2} +\\) 9x + C"
+      "A. \\(\\frac{4}{3}x^{3} + 6x^{2} + 9x + C\\)",
+      "B. \\(\\frac{4}{3}x^{3} + 6x^{2} + C\\)",
+      "C. \\(4x^{3} + 6x^{2} + 9x + C\\)",
+      "D. \\(\\frac{2}{3}x^{3} + 6x^{2} + 9x + C\\)"
     ],
     "answer": "A",
     "topic": "Integration",
@@ -10648,11 +10648,11 @@
   },
   {
     "id": 820,
-    "question": "Integrate (3x \\(- 1)^{2}\\) with respect to x.",
+    "question": "Integrate \\((3x - 1)^{2}\\) with respect to x.",
     "options": [
-      "A. \\(3x^{3} - 3x^{2} +\\) x + C",
-      "B. \\(3x^{3} + 3x^{2} +\\) x + C",
-      "C. \\(9x^{3} - 3x^{2} +\\) x + C",
+      "A. \\(3x^{3} - 3x^{2} + x + C\\)",
+      "B. \\(3x^{3} + 3x^{2} + x + C\\)",
+      "C. \\(9x^{3} - 3x^{2} + x + C\\)",
       "D. \\(3x^{3} - 3x^{2} - x + C\\)"
     ],
     "answer": "A",
@@ -10819,10 +10819,10 @@
     "id": 853,
     "question": "Find the unit vector in the direction of (3, 4).",
     "options": [
-      "A. \\((\\frac{3}{5} , \\frac{4}{5}\\))",
-      "B. \\((\\frac{3}{4} , \\frac{4}{3}\\))",
-      "C. \\((\\frac{1}{3} , \\frac{1}{4}\\))",
-      "D. \\((\\frac{4}{5} , \\frac{3}{5}\\))"
+      "A. \\(\\left(\\frac{3}{5}, \\frac{4}{5}\\right)\\)",
+      "B. \\(\\left(\\frac{3}{4}, \\frac{4}{3}\\right)\\)",
+      "C. \\(\\left(\\frac{1}{3}, \\frac{1}{4}\\right)\\)",
+      "D. \\(\\left(\\frac{4}{5}, \\frac{3}{5}\\right)\\)"
     ],
     "answer": "A",
     "topic": "Vectors",
@@ -11263,7 +11263,7 @@
     "options": [
       "A. (0, -2)",
       "B. (0, 2)",
-      "C. (-0, -2)",
+      "C. (-2, 0)",
       "D. (2, 0)"
     ],
     "answer": "A",
@@ -11376,7 +11376,7 @@
   },
   {
     "id": 896,
-    "question": "The image of point (0, 0) under any transformation is:",
+    "question": "The image of point (0, 0) under any rotation or enlargement about the origin is:",
     "options": [
       "A. (0, 0)",
       "B. (1, 1)",
@@ -11454,12 +11454,12 @@
   },
   {
     "id": 902,
-    "question": "Simplify: \\(2^{3} \\times 2^{4}\\).",
+    "question": "Simplify: \\(3^{4} \\times 3^{2} \\div 3^{3}\\).",
     "options": [
-      "A. \\(2^{7}\\)",
-      "B. \\(2^{12}\\)",
-      "C. \\(4^{7}\\)",
-      "D. \\(2^{1}\\)"
+      "A. 27",
+      "B. 9",
+      "C. 81",
+      "D. 3"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11480,12 +11480,12 @@
   },
   {
     "id": 904,
-    "question": "Find the area of a circle of radius 7 cm (take \\(\\pi = \\frac{22}{7}\\)).",
+    "question": "Find the circumference of a circle of radius 14 cm (take \\(\\pi = \\frac{22}{7}\\)).",
     "options": [
-      "A. \\(154 \\text{cm}^{2}\\)",
-      "B. \\(44 \\text{cm}^{2}\\)",
-      "C. \\(22 \\text{cm}^{2}\\)",
-      "D. \\(308 \\text{cm}^{2}\\)"
+      "A. 88 cm",
+      "B. 44 cm",
+      "C. 154 cm",
+      "D. 616 cm"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11493,12 +11493,12 @@
   },
   {
     "id": 905,
-    "question": "Factorize \\(x^{2} -\\) 9.",
+    "question": "Factorize completely: \\(x^{2} - 25\\).",
     "options": [
-      "A. (x - 3)(x + 3)",
-      "B. (x - 9)(x + 1)",
-      "C. \\((x - 3)^{2}\\)",
-      "D. \\((x + 3)^{2}\\)"
+      "A. \\((x - 5)(x + 5)\\)",
+      "B. \\((x - 5)^{2}\\)",
+      "C. \\((x + 5)^{2}\\)",
+      "D. \\((x - 25)(x + 1)\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11519,12 +11519,12 @@
   },
   {
     "id": 907,
-    "question": "Convert \\(25_{10}\\) to base 2.",
+    "question": "Convert \\(35_{10}\\) to base 2.",
     "options": [
-      "A. \\(11001_{2}\\)",
-      "B. \\(10101_{2}\\)",
-      "C. \\(10011_{2}\\)",
-      "D. \\(11101_{2}\\)"
+      "A. \\(100011_{2}\\)",
+      "B. \\(100101_{2}\\)",
+      "C. \\(101011_{2}\\)",
+      "D. \\(110011_{2}\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11545,12 +11545,12 @@
   },
   {
     "id": 909,
-    "question": "Evaluate sin \\(30^{\\circ}\\).",
+    "question": "Evaluate \\(\\tan 45^{\\circ}\\).",
     "options": [
-      "A. \\(\\frac{1}{2}\\)",
-      "B. \\(\\sqrt{\\frac{3}{2}}\\)",
-      "C. 1",
-      "D. 0"
+      "A. 1",
+      "B. 0",
+      "C. \\(\\frac{1}{2}\\)",
+      "D. \\(\\sqrt{3}\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11558,12 +11558,12 @@
   },
   {
     "id": 910,
-    "question": "Differentiate \\(x^{3}\\) with respect to x.",
+    "question": "Differentiate \\(x^{4}\\) with respect to \\(x\\).",
     "options": [
-      "A. \\(3x^{2}\\)",
-      "B. \\(x^{2}\\)",
-      "C. 3x",
-      "D. \\(\\frac{x^{3}}{3}\\)"
+      "A. \\(4x^{3}\\)",
+      "B. \\(x^{3}\\)",
+      "C. \\(4x^{4}\\)",
+      "D. \\(12x^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11573,8 +11573,8 @@
     "id": 911,
     "question": "Integrate 2x with respect to x.",
     "options": [
-      "A. \\(x^{2} +\\) C",
-      "B. \\(2x^{2} +\\) C",
+      "A. \\(x^{2} + C\\)",
+      "B. \\(2x^{2} + C\\)",
       "C. x + C",
       "D. 2 + C"
     ],
@@ -11597,12 +11597,12 @@
   },
   {
     "id": 913,
-    "question": "Solve \\(x^{2} -\\) 5x + 6 = 0.",
+    "question": "Solve \\(x^{2} - 7x + 12 = 0\\).",
     "options": [
-      "A. x = 2 or 3",
-      "B. x = -2 or -3",
-      "C. x = 1 or 6",
-      "D. x = -1 or -6"
+      "A. \\(x = 3\\) or \\(x = 4\\)",
+      "B. \\(x = -3\\) or \\(x = -4\\)",
+      "C. \\(x = 2\\) or \\(x = 6\\)",
+      "D. \\(x = -2\\) or \\(x = -6\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11623,7 +11623,7 @@
   },
   {
     "id": 915,
-    "question": "Simplify: \\(log_{10}\\) 1000.",
+    "question": "Simplify: \\(\\log_{10} 1000\\).",
     "options": [
       "A. 3",
       "B. 2",
@@ -11675,12 +11675,12 @@
   },
   {
     "id": 919,
-    "question": "Find the area of a triangle with base 10 cm and height 6 cm.",
+    "question": "Find the area of a triangle with base 12 cm and height 5 cm.",
     "options": [
-      "A. \\(30 \\text{cm}^{2}\\)",
-      "B. \\(60 \\text{cm}^{2}\\)",
-      "C. \\(16 \\text{cm}^{2}\\)",
-      "D. \\(15 \\text{cm}^{2}\\)"
+      "A. \\(30\\,\\text{cm}^{2}\\)",
+      "B. \\(60\\,\\text{cm}^{2}\\)",
+      "C. \\(17\\,\\text{cm}^{2}\\)",
+      "D. \\(15\\,\\text{cm}^{2}\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",
@@ -11688,12 +11688,12 @@
   },
   {
     "id": 920,
-    "question": "Factorize \\(x^{2} +\\) 5x + 6.",
+    "question": "Factorize \\(x^{2} + 7x + 10\\).",
     "options": [
-      "A. (x + 2)(x + 3)",
-      "B. (x + 1)(x + 6)",
-      "C. (x + 2)(x + 4)",
-      "D. (x + 3)(x + 3)"
+      "A. \\((x + 2)(x + 5)\\)",
+      "B. \\((x + 1)(x + 10)\\)",
+      "C. \\((x - 2)(x - 5)\\)",
+      "D. \\((x + 3)(x + 4)\\)"
     ],
     "answer": "A",
     "topic": "Mixed Review",

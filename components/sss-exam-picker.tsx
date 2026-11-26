@@ -13,7 +13,7 @@ import {
 } from "@/lib/sss-config"
 
 interface SSSExamPickerProps {
-  subjectKey: SSSSubjectKey
+  subjectKey?: SSSSubjectKey
   mode: "training" | "solidq"
   isPro?: boolean
   onSelect: (examType: SSSExamType, paperType: SSSPaperType) => void
@@ -31,12 +31,14 @@ export function SSSExamPicker({
   onBackToDashboard,
   onGoToPro,
 }: SSSExamPickerProps) {
-  const subject = getSSSSubjectByKey(subjectKey)
+  const subject = subjectKey ? getSSSSubjectByKey(subjectKey) : null
   const visibleExams = SSS_EXAM_OPTIONS.filter((e) => e.enabled)
   const firstAvailableExam =
-    visibleExams.find((e) => isSSSPaperAvailable(subjectKey, e.type, "objective"))?.type ||
+    (subjectKey
+      ? visibleExams.find((e) => isSSSPaperAvailable(subjectKey, e.type, "objective"))?.type
+      : visibleExams[0]?.type) ||
     visibleExams[0]?.type ||
-    "neco"
+    "wassce"
   const [selectedExam, setSelectedExam] = useState<SSSExamType>(firstAvailableExam)
   const [selectedPaper, setSelectedPaper] = useState<SSSPaperType>("objective")
   const [notAvailablePaper, setNotAvailablePaper] = useState<string | null>(null)
@@ -46,16 +48,16 @@ export function SSSExamPicker({
   const supportsTheory = currentExamOption?.supportsTheory ?? false
 
   const handleContinue = () => {
-    if (isSSSExamProOnly(subjectKey, selectedExam, selectedPaper) && !isPro) {
-      setProLockLabel(`${subject.name} (${currentExamOption?.label || "JAMB"}) Objective`)
+    if (subjectKey && isSSSExamProOnly(subjectKey, selectedExam, selectedPaper) && !isPro) {
+      setProLockLabel(`${subject?.name || "Subject"} (${currentExamOption?.label || "JAMB"}) Objective`)
       return
     }
-    if (!isSSSPaperAvailable(subjectKey, selectedExam, selectedPaper)) {
-      const label =
-        selectedPaper === "theory"
-          ? `${subject.name} (Theory)`
-          : `${subject.name} (${currentExamOption?.label || selectedExam.toUpperCase()})`
-      setNotAvailablePaper(label)
+    if (selectedPaper === "theory") {
+      setNotAvailablePaper(`${currentExamOption?.label || selectedExam.toUpperCase()} Theory`)
+      return
+    }
+    if (subjectKey && !isSSSPaperAvailable(subjectKey, selectedExam, selectedPaper)) {
+      setNotAvailablePaper(`${subject?.name} (${currentExamOption?.label || selectedExam.toUpperCase()})`)
       return
     }
     onSelect(selectedExam, selectedPaper)
@@ -130,10 +132,10 @@ export function SSSExamPicker({
           </button>
           <div>
             <p className="text-xs font-medium text-muted-foreground uppercase tracking-widest mb-0.5">
-              {subject.name} • {mode === "training" ? "Training Mode" : "Exam Practice"}
+              {subject ? `${subject.name} • ` : ""}{mode === "training" ? "Training Mode" : "Exam Practice"}
             </p>
             <h1 className="text-xl font-bold text-foreground line-clamp-1">
-              Select Exam &amp; Paper Type
+              Select Exam Type
             </h1>
           </div>
         </div>
@@ -148,8 +150,12 @@ export function SSSExamPicker({
           <div className="space-y-3">
             {visibleExams.map((exam) => {
               const isSelected = selectedExam === exam.type
-              const examHasObjective = isSSSPaperAvailable(subjectKey, exam.type, "objective")
-              const isProLocked = isSSSExamProOnly(subjectKey, exam.type, "objective")
+              const examHasObjective = subjectKey
+                ? isSSSPaperAvailable(subjectKey, exam.type, "objective")
+                : true
+              const isProLocked = subjectKey
+                ? isSSSExamProOnly(subjectKey, exam.type, "objective")
+                : false
               return (
                 <button
                   key={exam.type}

@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import { DM_Sans, Paytone_One } from 'next/font/google'
+import 'katex/dist/katex.min.css'
 import './globals.css'
 import { Analytics } from '@vercel/analytics/next';
 

@@ -174,16 +174,16 @@ export const SSS_EXAM_OPTIONS: {
   supportsTheory: boolean
 }[] = [
   {
-    type: "neco",
-    label: "NECO",
+    type: "wassce",
+    label: "WAEC (WASSCE)",
     badge: "SSCE",
     description: "(Objective & Theory)",
     enabled: true,
     supportsTheory: true,
   },
   {
-    type: "wassce",
-    label: "WAEC (WASSCE)",
+    type: "neco",
+    label: "NECO",
     badge: "SSCE",
     description: "(Objective & Theory)",
     enabled: true,
@@ -213,6 +213,15 @@ export function getAvailableObjectiveExamLabels(key: SSSSubjectKey): string[] {
   if (AVAILABLE_SSS_OBJECTIVE_SUBJECTS.wassce.includes(key)) labels.push("WAEC")
   if (AVAILABLE_SSS_OBJECTIVE_SUBJECTS.utme.includes(key)) labels.push("JAMB")
   return labels
+}
+
+export function getSSSObjectiveSubjectsForExam(examType: SSSExamType): SSSSubjectInfo[] {
+  const allowed = new Set(AVAILABLE_SSS_OBJECTIVE_SUBJECTS[examType] || [])
+  return SSS_SUBJECTS.filter((s) => allowed.has(s.key))
+}
+
+export function getSSSExamLabel(examType: SSSExamType): string {
+  return examType === "wassce" ? "WAEC" : examType === "neco" ? "NECO" : "JAMB"
 }
 
 export function getSSSSubjectByKey(key: SSSSubjectKey): SSSSubjectInfo {

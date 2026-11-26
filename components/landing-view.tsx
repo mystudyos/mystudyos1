@@ -289,7 +289,7 @@ export function LandingView({
                   JSS1-3 (BECE Prep)
                 </p>
                 <p className="hover:text-primary transition-colors text-sm">
-                  SSS1-3 (UTME, WAEC, NECO and Post-UTME)
+                  SSS1-3 (JAMB, WAEC, NECO and Post-UTME)
                 </p>
               </div>
             </div>

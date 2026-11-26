@@ -118,7 +118,7 @@ export function ReviewQuizView({ quizTitle, questions, userAnswers, onBack }: Re
                             <span className="w-4 h-4 rounded-md bg-white/5 flex items-center justify-center text-[9px] shrink-0">
                               {String.fromCharCode(65 + optIdx)}
                             </span>
-                            <div className="flex-1">
+                            <div className="flex-1 min-w-0">
                                <MathText text={opt} />
                             </div>
                             {isCorrectAnswer && <CheckCircle2 className="w-3 h-3" />}

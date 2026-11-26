@@ -235,11 +235,21 @@ export async function ensureUserStats(
       const hasBackup = readCache<UserStats>(cacheKeyBackup, "local")
       if (hasBackup) {
         console.warn("Local stats backup found; restoring protected stats instead of resetting.")
+        const rawCreatedAt = (hasBackup as any).createdAt
+        const restoredCreatedAt =
+          rawCreatedAt && typeof rawCreatedAt.seconds === "number"
+            ? new Date(rawCreatedAt.seconds * 1000)
+            : typeof rawCreatedAt === "string" || typeof rawCreatedAt === "number"
+              ? new Date(rawCreatedAt)
+              : user.metadata?.creationTime
+                ? new Date(user.metadata.creationTime)
+                : serverTimestamp()
         await setDoc(
           ref,
           {
             ...hasBackup,
             ...userData,
+            createdAt: restoredCreatedAt,
             updatedAt: serverTimestamp(),
           },
           { merge: true }
@@ -708,19 +718,32 @@ export async function updateUserPhotoURL(uid: string, photoURL: string | null): 
   try { clearCache(`userStats_${uid}`); clearCachePrefix("leaderboard_") } catch {}
 }
 
+export function toTimestampMillis(val: any): number {
+  if (!val) return 0
+  try {
+    if (typeof val.toMillis === "function") return val.toMillis()
+    if (typeof val.toDate === "function") return val.toDate().getTime()
+    if (typeof val.seconds === "number") return val.seconds * 1000
+    if (typeof val._seconds === "number") return val._seconds * 1000
+    if (typeof val === "number") return val
+    if (typeof val === "string") {
+      const parsed = Date.parse(val)
+      return isNaN(parsed) ? 0 : parsed
+    }
+  } catch {
+    return 0
+  }
+  return 0
+}
+
 /**
- * Fetch all students (Admin only).
+ * Fetch all students (Admin only), sorted strictly newest-joined descending.
  */
 export async function fetchAllStudents(): Promise<(UserStats & { uid: string })[]> {
   const col = collection(db, "users")
-  let snap
-  try {
-    const q = query(col, orderBy("createdAt", "desc"))
-    snap = await getDocs(q)
-  } catch (err) {
-    snap = await getDocs(col)
-  }
-  return snap.docs.map(d => {
+  // Fetch all docs without Firestore orderBy so accounts with missing or mixed-type createdAt are never excluded
+  const snap = await getDocs(col)
+  const list = snap.docs.map((d) => {
     const data = d.data() as UserStats
     const resolvedSchool = data.schoolName || data.school
     return {
@@ -728,6 +751,13 @@ export async function fetchAllStudents(): Promise<(UserStats & { uid: string })[
       ...data,
       ...(resolvedSchool ? { school: resolvedSchool, schoolName: resolvedSchool } : {}),
     }
+  })
+
+  return list.sort((a, b) => {
+    const aJoined = toTimestampMillis(a.createdAt)
+    const bJoined = toTimestampMillis(b.createdAt)
+    if (bJoined !== aJoined) return bJoined - aJoined
+    return toTimestampMillis(b.updatedAt) - toTimestampMillis(a.updatedAt)
   })
 }
 

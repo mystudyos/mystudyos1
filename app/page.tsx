@@ -169,7 +169,8 @@ export default function StudyOSApp() {
   // Quiz flow state
   const [selectedSubject, setSelectedSubject] = useState<SubjectKey>("mathematics")
   const [sssSubject, setSssSubject] = useState<SSSSubjectKey>("biology")
-  const [sssExamType, setSssExamType] = useState<SSSExamType>("neco")
+  const [sssSubjects, setSssSubjects] = useState<SSSSubjectKey[]>([])
+  const [sssExamType, setSssExamType] = useState<SSSExamType>("wassce")
   const [sssPaperType, setSssPaperType] = useState<SSSPaperType>("objective")
   const [selectedTopic, setSelectedTopic] = useState<string>("__all__")
   const [selectedQuestionCount, setSelectedQuestionCount] = useState<number>(100)
@@ -653,15 +654,45 @@ export default function StudyOSApp() {
           </div>
         )}
 
+        {screen === "solidq-exam" && activeCategory === "SSS" && (
+          <div className="flex-1 overflow-y-auto scrollbar-hide">
+            <SSSExamPicker
+              mode="solidq"
+              isPro={Boolean(stats?.isPro)}
+              onSelect={(examType, paperType) => {
+                setSssExamType(examType)
+                setSssPaperType(paperType)
+                setSssSubjects([])
+                setScreen("solidq-subject")
+              }}
+              onBack={goHome}
+              onBackToDashboard={goHome}
+              onGoToPro={() => {
+                setScreen("app")
+                setActiveTab("pro")
+              }}
+            />
+          </div>
+        )}
+
         {screen === "solidq-subject" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             {activeCategory === "SSS" ? (
               <SSSSubjectPicker
+                examType={sssExamType}
+                paperType={sssPaperType}
+                initialSelectedSubjects={sssSubjects}
                 onSelect={(key) => {
                   setSssSubject(key)
-                  setScreen("solidq-exam")
+                  setSssSubjects([key])
+                  setScreen("solidq-count")
                 }}
-                onBack={goHome}
+                onSelectMultiple={(keys) => {
+                  setSssSubjects(keys)
+                  setSssSubject(keys[0])
+                  setScreen("solidq-count")
+                }}
+                onBack={() => setScreen("solidq-exam")}
               />
             ) : (
               <SubjectPicker
@@ -673,35 +704,18 @@ export default function StudyOSApp() {
           </div>
         )}
 
-        {screen === "solidq-exam" && activeCategory === "SSS" && (
-          <div className="flex-1 overflow-y-auto scrollbar-hide">
-            <SSSExamPicker
-              subjectKey={sssSubject}
-              mode="solidq"
-              isPro={Boolean(stats?.isPro)}
-              onSelect={(examType, paperType) => {
-                setSssExamType(examType)
-                setSssPaperType(paperType)
-                setScreen("solidq-count")
-              }}
-              onBack={() => setScreen("solidq-subject")}
-              onBackToDashboard={goHome}
-              onGoToPro={() => {
-                setScreen("app")
-                setActiveTab("pro")
-              }}
-            />
-          </div>
-        )}
-
         {screen === "solidq-count" && (
           <div className="flex-1 overflow-y-auto scrollbar-hide">
             {activeCategory === "SSS" ? (
               <QuestionCountPicker
-                subjectLabel={`${getSSSSubjectByKey(sssSubject).name} (${sssExamType.toUpperCase()} ${sssPaperType === "theory" ? "Theory" : "OBJ"})`}
+                subjectLabel={
+                  sssExamType === "utme" && sssSubjects.length > 1
+                    ? `JAMB (${sssSubjects.map((k) => getSSSSubjectByKey(k).shortName).join(", ")})`
+                    : `${getSSSSubjectByKey(sssSubject).name} (${sssExamType === "wassce" ? "WAEC" : sssExamType === "neco" ? "NECO" : "JAMB"} ${sssPaperType === "theory" ? "Theory" : "OBJ"})`
+                }
                 counts={SSS_QUESTION_COUNTS}
                 onSelect={(count) => { setSelectedQuestionCount(count); setScreen("solidq-time") }}
-                onBack={() => setScreen("solidq-exam")}
+                onBack={() => setScreen("solidq-subject")}
               />
             ) : (
               <QuestionCountPicker
@@ -728,6 +742,7 @@ export default function StudyOSApp() {
             {activeCategory === "SSS" ? (
               <SSSSolidQuiz
                 subjectKey={sssSubject}
+                subjectKeys={sssExamType === "utme" && sssSubjects.length > 1 ? sssSubjects : undefined}
                 examType={sssExamType}
                 paperType={sssPaperType}
                 questionCount={selectedQuestionCount}
@@ -832,11 +847,13 @@ export default function StudyOSApp() {
                       if (activeCategory === "SSS") {
                         setSelectedQuestionCount(40)
                         setSelectedTimeLimit(40)
+                        setSssSubjects([])
+                        setScreen("solidq-exam")
                       } else {
                         setSelectedQuestionCount(100)
                         setSelectedTimeLimit(60)
+                        setScreen("solidq-subject")
                       }
-                      setScreen("solidq-subject")
                     }}
                     onGoToPro={() => setActiveTab("pro")}
                     onOpenChat={() => setActiveTab("chat")}

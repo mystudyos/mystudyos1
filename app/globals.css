@@ -315,23 +315,50 @@
   /* Premium Math Styles */
   .math-text-container {
     display: inline-block;
+    max-width: 100%;
     vertical-align: middle;
+    overflow-wrap: break-word;
+    word-break: normal;
   }
 
   .math-text-container .katex {
-    font-size: 1.1em;
+    font-size: 1.08em;
     font-weight: 500;
     color: inherit;
+    max-width: 100%;
+  }
+
+  .math-text-container .katex .katex-mathml {
+    display: none !important;
+  }
+
+  .math-text-container .katex .hide-tail {
+    overflow: hidden !important;
+    position: relative !important;
+  }
+
+  .math-text-container .katex .frac-line,
+  .math-text-container .katex .overline-line,
+  .math-text-container .katex .underline-line,
+  .math-text-container .katex .hline,
+  .math-text-container .katex .hdashline,
+  .math-text-container .katex .rule,
+  .math-text-container .katex .sout,
+  .math-text-container .katex .angl {
+    border-color: currentColor;
   }
 
   .math-text-container .katex-display {
     margin: 0.5em 0;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
   }
 
   /* Ensure fractions and roots look 'neat' on small screens */
   @media (max-width: 640px) {
     .math-text-container .katex {
-      font-size: 1.05em;
+      font-size: 1.02em;
     }
   }
 

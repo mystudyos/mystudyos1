@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "question": "Evaluate \\(log_{10}\\) 1000.",
+    "question": "Evaluate \\(\\log_{10} 1000\\).",
     "options": [
       "A. 10",
       "B. 100",
@@ -131,7 +131,7 @@
   },
   {
     "id": 11,
-    "question": "Simplify \\(log_{10} 2 + log_{10}\\) 5.",
+    "question": "Simplify \\(\\log_{10} 2 + \\log_{10} 5\\).",
     "options": [
       "A. 1",
       "B. 7",
@@ -196,7 +196,7 @@
   },
   {
     "id": 16,
-    "question": "Simplify \\(\\sqrt{50.}\\)",
+    "question": "Simplify \\(\\sqrt{50}\\).",
     "options": [
       "A. \\(5\\sqrt{2}\\)",
       "B. \\(2\\sqrt{5}\\)",
@@ -209,10 +209,10 @@
   },
   {
     "id": 17,
-    "question": "Rationalize 1/\\(\\sqrt{3.}\\)",
+    "question": "Rationalize \\(\\frac{1}{\\sqrt{3}}\\).",
     "options": [
-      "A. \\(\\sqrt{\\frac{3}{3}}\\)",
-      "B. 3/\\(\\sqrt{3}\\)",
+      "A. \\(\\frac{\\sqrt{3}}{3}\\)",
+      "B. \\(3\\sqrt{3}\\)",
       "C. \\(\\sqrt{3}\\)",
       "D. \\(\\frac{1}{3}\\)"
     ],
@@ -274,7 +274,7 @@
   },
   {
     "id": 22,
-    "question": "Factorize \\(x^{2} -\\) 9.",
+    "question": "Factorize \\(x^{2} - 9\\).",
     "options": [
       "A. (x-3)(x+3)",
       "B. (x-9)(x+1)",
@@ -289,10 +289,10 @@
     "id": 23,
     "question": "Expand (x+3)(x-2).",
     "options": [
-      "A. \\(x^{2} -\\) x - 6",
-      "B. \\(x^{2} +\\) x - 6",
-      "C. \\(x^{2} +\\) 5x - 6",
-      "D. \\(x^{2} -\\) 5x + 6"
+      "A. \\(x^{2} - x - 6\\)",
+      "B. \\(x^{2} + x - 6\\)",
+      "C. \\(x^{2} + 5x - 6\\)",
+      "D. \\(x^{2} - 5x + 6\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -328,7 +328,7 @@
     "id": 26,
     "question": "Make x the subject of the formula y = mx + c.",
     "options": [
-      "A. \\(x = \\frac{y}{m} -\\) c",
+      "A. \\(x = \\frac{y}{m} - c\\)",
       "B. x = m(y-c)",
       "C. \\(x = \\frac{y-c}{m}\\)",
       "D. \\(x = y + \\frac{c}{m}\\)"
@@ -339,7 +339,7 @@
   },
   {
     "id": 27,
-    "question": "Solve the quadratic equation \\(x^{2} -\\) 5x + 6 = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} - 5x + 6 = 0\\).",
     "options": [
       "A. x = -2 or -3",
       "B. x = 1 or 6",
@@ -482,7 +482,7 @@
   },
   {
     "id": 38,
-    "question": "The angle subtended by an arc at the centre is",
+    "question": "The angle subtended by an arc at the centre of a circle is ______ the angle subtended at the circumference.",
     "options": [
       "A. equal to",
       "B. half of",
@@ -508,7 +508,7 @@
   },
   {
     "id": 40,
-    "question": "In a right triangle, if opposite=3 and hypotenuse=5, find sin \\(\\theta\\).",
+    "question": "In a right triangle, if opposite=3 and hypotenuse=5, find \\(\\sin\\theta\\).",
     "options": [
       "A. \\(\\frac{4}{5}\\)",
       "B. \\(\\frac{3}{5}\\)",
@@ -525,7 +525,7 @@
     "options": [
       "A. 50m",
       "B. 25m",
-      "C. 50/\\(\\sqrt{3}\\)",
+      "C. \\(\\frac{50}{\\sqrt{3}}\\)",
       "D. \\(50\\sqrt{3}\\)"
     ],
     "answer": "D",
@@ -677,7 +677,7 @@
   },
   {
     "id": 53,
-    "question": "Simplify \\((a^{2}\\)\\()^{3}\\).",
+    "question": "Simplify \\((a^{2})^{3}\\).",
     "options": [
       "A. \\(a^{5}\\)",
       "B. \\(a^{6}\\)",
@@ -690,7 +690,7 @@
   },
   {
     "id": 54,
-    "question": "Evaluate \\(log_{2}\\) 8.",
+    "question": "Evaluate \\(\\log_{2} 8\\).",
     "options": [
       "A. 2",
       "B. 4",
@@ -729,7 +729,7 @@
   },
   {
     "id": 57,
-    "question": "Simplify \\(\\sqrt{18} + \\sqrt{8.}\\)",
+    "question": "Simplify \\(\\sqrt{18} + \\sqrt{8}\\).",
     "options": [
       "A. \\(5\\sqrt{4}\\)",
       "B. \\(\\sqrt{26}\\)",
@@ -781,7 +781,7 @@
   },
   {
     "id": 61,
-    "question": "Factorize \\(x^{2} +\\) 5x + 6.",
+    "question": "Factorize \\(x^{2} + 5x + 6\\).",
     "options": [
       "A. (x+2)(x+3)",
       "B. (x+1)(x+6)",
@@ -796,10 +796,10 @@
     "id": 62,
     "question": "Expand (2x - 1)(x + 3).",
     "options": [
-      "A. \\(2x^{2} -\\) 5x - 3",
-      "B. \\(2x^{2} +\\) 5x + 3",
-      "C. \\(2x^{2} +\\) 5x - 3",
-      "D. \\(2x^{2} -\\) 5x + 3"
+      "A. \\(2x^{2} - 5x - 3\\)",
+      "B. \\(2x^{2} + 5x + 3\\)",
+      "C. \\(2x^{2} + 5x - 3\\)",
+      "D. \\(2x^{2} - 5x + 3\\)"
     ],
     "answer": "C",
     "topic": "Simple operations on algebraic expressions",
@@ -833,12 +833,12 @@
   },
   {
     "id": 65,
-    "question": "Make r the subject of the formula V = (\\(\\frac{4}{3} ) \\pi\\)\\(r^{3}\\).",
+    "question": "Make r the subject of the formula \\(V = \\frac{4}{3}\\pi r^{3}\\).",
     "options": [
-      "A. \\(r = \\frac{3V}{4}\\)\\(\\pi\\)",
-      "B. \\(r = \\sqrt{\\frac{3V}{4} \\pi}\\)",
-      "C. \\(r = \\frac{4 \\pi V}{3}\\)",
-      "D. \\(r = \\sqrt[3]{\\frac{3V}{4} \\pi}\\)"
+      "A. \\(r = \\frac{3V}{4\\pi}\\)",
+      "B. \\(r = \\sqrt{\\frac{3V}{4\\pi}}\\)",
+      "C. \\(r = \\frac{4\\pi V}{3}\\)",
+      "D. \\(r = \\sqrt[3]{\\frac{3V}{4\\pi}}\\)"
     ],
     "answer": "D",
     "topic": "Change of Subject of a Formula",
@@ -848,10 +848,10 @@
     "id": 66,
     "question": "Form a quadratic equation whose roots are 2 and -3.",
     "options": [
-      "A. \\(x^{2} +\\) x - 6 = 0",
-      "B. \\(x^{2} -\\) x - 6 = 0",
-      "C. \\(x^{2} +\\) x + 6 = 0",
-      "D. \\(x^{2} -\\) x + 6 = 0"
+      "A. \\(x^{2} + x - 6 = 0\\)",
+      "B. \\(x^{2} - x - 6 = 0\\)",
+      "C. \\(x^{2} + x + 6 = 0\\)",
+      "D. \\(x^{2} - x + 6 = 0\\)"
     ],
     "answer": "A",
     "topic": "Quadratic Equations",
@@ -911,7 +911,7 @@
   },
   {
     "id": 71,
-    "question": "Find the circumference of a circle with radius 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the circumference of a circle with radius 7cm. \\((\\pi = \\frac{22}{7})\\)",
     "options": [
       "A. 154cm",
       "B. 22cm",
@@ -924,7 +924,7 @@
   },
   {
     "id": 72,
-    "question": "Find the area of a circle with radius 5cm. \\((\\pi\\)=3.14)",
+    "question": "Find the area of a circle with radius 5cm. \\((\\pi = 3.14)\\)",
     "options": [
       "A. \\(78.5\\,\\text{cm}^{2}\\)",
       "B. \\(31.4\\,\\text{cm}^{2}\\)",
@@ -937,7 +937,7 @@
   },
   {
     "id": 73,
-    "question": "Find the volume of a cylinder with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the volume of a cylinder with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7})\\)",
     "options": [
       "A. \\(66\\,\\text{cm}^{3}\\)",
       "B. \\(198\\,\\text{cm}^{3}\\)",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 78,
-    "question": "If cos \\(\\theta = \\frac{4}{5}\\), find sin \\(\\theta\\).",
+    "question": "If \\(\\cos\\theta = \\frac{4}{5}\\), find \\(\\sin\\theta\\).",
     "options": [
       "A. \\(\\frac{4}{3}\\)",
       "B. \\(\\frac{3}{5}\\)",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 81,
-    "question": "Find the derivative of y = \\(4x^{2} +\\) 2x.",
+    "question": "Find the derivative of \\(y = 4x^{2} + 2x\\).",
     "options": [
       "A. 8x",
       "B. 8x + 2",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 91,
-    "question": "Simplify \\((2a^{3}\\)\\()^{2}\\).",
+    "question": "Simplify \\((2a^{3})^{2}\\).",
     "options": [
       "A. \\(4a^{6}\\)",
       "B. \\(2a^{6}\\)",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 92,
-    "question": "Evaluate \\(log_{3}\\) 81.",
+    "question": "Evaluate \\(\\log_{3} 81\\).",
     "options": [
       "A. 3",
       "B. 2",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": 95,
-    "question": "Simplify \\(\\sqrt{75.}\\)",
+    "question": "Simplify \\(\\sqrt{75}\\).",
     "options": [
       "A. \\(3\\sqrt{5}\\)",
       "B. \\(15\\sqrt{3}\\)",
@@ -1254,7 +1254,7 @@
       "A. 0.375",
       "B. 0.38",
       "C. 0.3",
-      "D. 0.3750"
+      "D. 0.0375"
     ],
     "answer": "A",
     "topic": "Fractions, Decimals and Approximations",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 99,
-    "question": "Factorize \\(2x^{2} -\\) 8.",
+    "question": "Factorize \\(2x^{2} - 8\\) completely.",
     "options": [
       "A. \\(2(x^{2}-4)\\)",
       "B. (2x-4)(x+2)",
@@ -1288,12 +1288,12 @@
   },
   {
     "id": 100,
-    "question": "Expand (x+\\(5)^{2}\\).",
+    "question": "Expand \\((x + 5)^{2}\\).",
     "options": [
-      "A. \\(x^{2} +\\) 25",
-      "B. \\(x^{2} +\\) 10x + 25",
-      "C. \\(x^{2} +\\) 5x + 25",
-      "D. \\(x^{2} -\\) 10x + 25"
+      "A. \\(x^{2} + 25\\)",
+      "B. \\(x^{2} + 10x + 25\\)",
+      "C. \\(x^{2} + 5x + 25\\)",
+      "D. \\(x^{2} - 10x + 25\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -1332,7 +1332,7 @@
       "A. y = 2x + 3",
       "B. y = 2x - 3",
       "C. \\(y = \\frac{x-3}{2}\\)",
-      "D. \\(y = \\frac{x}{2} -\\) 3"
+      "D. \\(y = \\frac{x}{2} - 3\\)"
     ],
     "answer": "B",
     "topic": "Change of Subject of a Formula",
@@ -1340,7 +1340,7 @@
   },
   {
     "id": 104,
-    "question": "Solve the quadratic equation \\(x^{2} -\\) 4x = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} - 4x = 0\\).",
     "options": [
       "A. x = 2 or 2",
       "B. x = -4 or 0",
@@ -1382,7 +1382,7 @@
     "question": "Simplify \\(\\frac{x^{2} + 3x}{x}\\).",
     "options": [
       "A. x + 3x",
-      "B. \\(x^{2} +\\) 3",
+      "B. \\(x^{2} + 3\\)",
       "C. x + 3",
       "D. 1 + 3x"
     ],
@@ -1392,7 +1392,7 @@
   },
   {
     "id": 108,
-    "question": "If f(x) = \\(x^{2} -\\) 1, find f(3).",
+    "question": "If \\(f(x) = x^{2} - 1\\), find \\(f(3)\\).",
     "options": [
       "A. 9",
       "B. 8",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 111,
-    "question": "Find the volume of a cone with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the volume of a cone with radius 3cm and height 7cm. \\((\\pi = \\frac{22}{7})\\)",
     "options": [
       "A. \\(198\\,\\text{cm}^{3}\\)",
       "B. \\(66\\,\\text{cm}^{3}\\)",
@@ -1496,7 +1496,7 @@
   },
   {
     "id": 116,
-    "question": "If tan \\(\\theta = \\frac{3}{4}\\), find cos \\(\\theta\\).",
+    "question": "If \\(\\tan\\theta = \\frac{3}{4}\\), find \\(\\cos\\theta\\).",
     "options": [
       "A. \\(\\frac{4}{5}\\)",
       "B. \\(\\frac{3}{5}\\)",
@@ -1512,7 +1512,7 @@
     "question": "From the top of a cliff 100m high, the angle of depression of a boat is \\(30^{\\circ}\\). Find the distance of the boat from the foot of the cliff.",
     "options": [
       "A. \\(100\\sqrt{3}\\) m",
-      "B. 100/\\(\\sqrt{3}\\) m",
+      "B. \\(\\frac{100}{\\sqrt{3}}\\) m",
       "C. 50 m",
       "D. 200 m"
     ],
@@ -1678,7 +1678,7 @@
   },
   {
     "id": 130,
-    "question": "Evaluate \\(log_{10}\\) 0.001.",
+    "question": "Evaluate \\(\\log_{10} 0.001\\).",
     "options": [
       "A. 3",
       "B. -2",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": 132,
-    "question": "If A = {x: x is an integer, \\(1 \\le x \\le\\) 5}, find n(A).",
+    "question": "If A = {x: x is an integer, \\(1 \\le x \\le 5\\)}, find n(A).",
     "options": [
       "A. 3",
       "B. 4",
@@ -1717,11 +1717,11 @@
   },
   {
     "id": 133,
-    "question": "Rationalize 2/\\(\\sqrt{5.}\\)",
+    "question": "Rationalize \\(\\frac{2}{\\sqrt{5}}\\).",
     "options": [
       "A. \\(\\sqrt{5}\\)",
-      "B. 5/\\(\\sqrt{5}\\)",
-      "C. \\(2\\sqrt{\\frac{5}{5}}\\)",
+      "B. \\(\\frac{\\sqrt{5}}{5}\\)",
+      "C. \\(\\frac{2\\sqrt{5}}{5}\\)",
       "D. \\(\\frac{2}{5}\\)"
     ],
     "answer": "C",
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 137,
-    "question": "Factorize \\(x^{2} -\\) 16.",
+    "question": "Factorize \\(x^{2} - 16\\).",
     "options": [
       "A. (x-8)(x+2)",
       "B. (x-2)(x+8)",
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 139,
-    "question": "Solve for x: \\((\\frac{x}{3}) + 2\\) = 5.",
+    "question": "Solve for x: \\(\\frac{x}{3} + 2 = 5\\).",
     "options": [
       "A. 6",
       "B. 9",
@@ -1825,7 +1825,7 @@
     "options": [
       "A. \\(x = \\frac{y-5}{3}\\)",
       "B. \\(x = \\frac{y+5}{3}\\)",
-      "C. \\(x = \\frac{y}{3} -\\) 5",
+      "C. \\(x = \\frac{y}{3} - 5\\)",
       "D. x = 3(y+5)"
     ],
     "answer": "B",
@@ -1836,10 +1836,10 @@
     "id": 142,
     "question": "Form a quadratic equation whose roots are 1 and 4.",
     "options": [
-      "A. \\(x^{2} +\\) 5x + 4 = 0",
-      "B. \\(x^{2} -\\) 3x + 4 = 0",
-      "C. \\(x^{2} +\\) 3x + 4 = 0",
-      "D. \\(x^{2} -\\) 5x + 4 = 0"
+      "A. \\(x^{2} + 5x + 4 = 0\\)",
+      "B. \\(x^{2} - 3x + 4 = 0\\)",
+      "C. \\(x^{2} + 3x + 4 = 0\\)",
+      "D. \\(x^{2} - 5x + 4 = 0\\)"
     ],
     "answer": "D",
     "topic": "Quadratic Equations",
@@ -1925,7 +1925,7 @@
   },
   {
     "id": 149,
-    "question": "Find the volume of a sphere with radius 3cm. \\((\\pi\\)=3.14)",
+    "question": "Find the volume of a sphere with radius 3cm. (\\(\\pi = 3.14\\))",
     "options": [
       "A. \\(113.04\\,\\text{cm}^{3}\\)",
       "B. \\(37.68\\,\\text{cm}^{3}\\)",
@@ -2029,12 +2029,12 @@
   },
   {
     "id": 157,
-    "question": "Find the derivative of y = \\(2x^{3} -\\) 3x.",
+    "question": "Find the derivative of \\(y = 2x^{3} - 3x\\).",
     "options": [
-      "A. \\(6x^{2} -\\) 3",
-      "B. \\(2x^{2} -\\) 3",
+      "A. \\(6x^{2} - 3\\)",
+      "B. \\(2x^{2} - 3\\)",
       "C. 6x - 3",
-      "D. \\(3x^{2} -\\) 3"
+      "D. \\(3x^{2} - 3\\)"
     ],
     "answer": "A",
     "topic": "Introductory Calculus",
@@ -2159,12 +2159,12 @@
   },
   {
     "id": 167,
-    "question": "Simplify \\((3x^{2} y) \\times (2xy^{3}\\)).",
+    "question": "Simplify \\((3x^{2}y) \\times (2xy^{3})\\).",
     "options": [
-      "A. \\(6x^{2}\\)\\(y^{3}\\)",
-      "B. \\(6x^{3}\\)\\(y^{4}\\)",
-      "C. \\(5x^{3}\\)\\(y^{4}\\)",
-      "D. \\(6x^{2}\\)\\(y^{4}\\)"
+      "A. \\(6x^{2}y^{3}\\)",
+      "B. \\(6x^{3}y^{4}\\)",
+      "C. \\(5x^{3}y^{4}\\)",
+      "D. \\(6x^{2}y^{4}\\)"
     ],
     "answer": "B",
     "topic": "Indices",
@@ -2172,7 +2172,7 @@
   },
   {
     "id": 168,
-    "question": "Evaluate \\(log_{4}\\) 16.",
+    "question": "Evaluate \\(\\log_{4} 16\\).",
     "options": [
       "A. 1",
       "B. 4",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": 171,
-    "question": "Simplify \\(\\sqrt{27} - \\sqrt{12.}\\)",
+    "question": "Simplify \\(\\sqrt{27} - \\sqrt{12}\\).",
     "options": [
       "A. \\(\\sqrt{3}\\)",
       "B. \\(5\\sqrt{3}\\)",
@@ -2263,10 +2263,10 @@
   },
   {
     "id": 175,
-    "question": "Factorize \\(3x^{2} -\\) 12.",
+    "question": "Factorize \\(3x^{2} - 12\\).",
     "options": [
-      "A. \\(3(x^{2}-4)\\)",
-      "B. (3x-6)(x+2)",
+      "A. \\(3(x-2)^{2}\\)",
+      "B. (3x-4)(x+3)",
       "C. (3x-12)(x+1)",
       "D. 3(x-2)(x+2)"
     ],
@@ -2278,10 +2278,10 @@
     "id": 176,
     "question": "Expand (2x+1)(x+3).",
     "options": [
-      "A. \\(2x^{2} +\\) 5x + 3",
-      "B. \\(2x^{2} +\\) 7x + 3",
-      "C. \\(2x^{2} +\\) 6x + 3",
-      "D. \\(2x^{2} +\\) 7x - 3"
+      "A. \\(2x^{2} + 5x + 3\\)",
+      "B. \\(2x^{2} + 7x + 3\\)",
+      "C. \\(2x^{2} + 6x + 3\\)",
+      "D. \\(2x^{2} + 7x - 3\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -2318,9 +2318,9 @@
     "question": "Make y the subject of the formula x = \\(\\sqrt{y+1}\\).",
     "options": [
       "A. y = x - 1",
-      "B. \\(y = x^{2} +\\) 1",
-      "C. \\(y = \\sqrt{x} -\\) 1",
-      "D. \\(y = x^{2} -\\) 1"
+      "B. \\(y = x^{2} + 1\\)",
+      "C. \\(y = \\sqrt{x} - 1\\)",
+      "D. \\(y = x^{2} - 1\\)"
     ],
     "answer": "D",
     "topic": "Change of Subject of a Formula",
@@ -2328,7 +2328,7 @@
   },
   {
     "id": 180,
-    "question": "Solve the quadratic equation \\(x^{2} -\\) 3x - 10 = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} - 3x - 10 = 0\\).",
     "options": [
       "A. x = 2 or -5",
       "B. x = 5 or -2",
@@ -2380,7 +2380,7 @@
   },
   {
     "id": 184,
-    "question": "If h(x) = \\(x^{2} +\\) 2x, find h(2).",
+    "question": "If \\(h(x) = x^{2} + 2x\\), find \\(h(2)\\).",
     "options": [
       "A. 4",
       "B. 8",
@@ -2406,7 +2406,7 @@
   },
   {
     "id": 186,
-    "question": "Find the area of a circle with diameter 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the area of a circle with diameter 14cm. (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. \\(154\\,\\text{cm}^{2}\\)",
       "B. \\(44\\,\\text{cm}^{2}\\)",
@@ -2614,11 +2614,11 @@
   },
   {
     "id": 202,
-    "question": "Convert \\(101_{2} + 11_{2}\\).",
+    "question": "Evaluate \\(101_{2} + 11_{2}\\).",
     "options": [
       "A. \\(110_{2}\\)",
       "B. \\(111_{2}\\)",
-      "C. \\(1000_{2}\\)",
+      "C. \\(1001_{2}\\)",
       "D. \\(1000_{2}\\)"
     ],
     "answer": "D",
@@ -2666,7 +2666,7 @@
   },
   {
     "id": 206,
-    "question": "Evaluate \\(log_{10}\\) 1.",
+    "question": "Evaluate \\(\\log_{10} 1\\).",
     "options": [
       "A. 1",
       "B. 10",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": 209,
-    "question": "Simplify \\(\\sqrt{20.}\\)",
+    "question": "Simplify \\(\\sqrt{20}\\).",
     "options": [
       "A. \\(4\\sqrt{5}\\)",
       "B. \\(5\\sqrt{4}\\)",
@@ -2770,12 +2770,12 @@
   },
   {
     "id": 214,
-    "question": "Expand (3x-\\(2)^{2}\\).",
+    "question": "Expand \\((3x - 2)^{2}\\).",
     "options": [
-      "A. \\(9x^{2} -\\) 12x + 4",
-      "B. \\(9x^{2} +\\) 12x + 4",
-      "C. \\(9x^{2} -\\) 6x + 4",
-      "D. \\(9x^{2} -\\) 12x - 4"
+      "A. \\(9x^{2} - 12x + 4\\)",
+      "B. \\(9x^{2} + 12x + 4\\)",
+      "C. \\(9x^{2} - 6x + 4\\)",
+      "D. \\(9x^{2} - 12x - 4\\)"
     ],
     "answer": "A",
     "topic": "Simple operations on algebraic expressions",
@@ -2824,10 +2824,10 @@
     "id": 218,
     "question": "Find the quadratic equation whose roots are -1 and -2.",
     "options": [
-      "A. \\(x^{2} -\\) 3x + 2 = 0",
-      "B. \\(x^{2} +\\) 3x + 2 = 0",
-      "C. \\(x^{2} +\\) 3x - 2 = 0",
-      "D. \\(x^{2} -\\) 3x - 2 = 0"
+      "A. \\(x^{2} - 3x + 2 = 0\\)",
+      "B. \\(x^{2} + 3x + 2 = 0\\)",
+      "C. \\(x^{2} + 3x - 2 = 0\\)",
+      "D. \\(x^{2} - 3x - 2 = 0\\)"
     ],
     "answer": "B",
     "topic": "Quadratic Equations",
@@ -2874,7 +2874,7 @@
   },
   {
     "id": 222,
-    "question": "If f(x) = \\(2x^{2} -\\) 3x + 1, find f(2).",
+    "question": "If \\(f(x) = 2x^{2} - 3x + 1\\), find \\(f(2)\\).",
     "options": [
       "A. 1",
       "B. 3",
@@ -2887,7 +2887,7 @@
   },
   {
     "id": 223,
-    "question": "Find the circumference of a circle with diameter 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the circumference of a circle with diameter 14cm. (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. 28cm",
       "B. 154cm",
@@ -3017,7 +3017,7 @@
   },
   {
     "id": 233,
-    "question": "Find the derivative of y = \\(x^{2} +\\) 5x + 6.",
+    "question": "Find the derivative of \\(y = x^{2} + 5x + 6\\).",
     "options": [
       "A. 2x",
       "B. 2x + 5",
@@ -3147,7 +3147,7 @@
   },
   {
     "id": 243,
-    "question": "Simplify \\((x^{2}\\)\\()^{4}\\).",
+    "question": "Simplify \\((x^{2})^{4}\\).",
     "options": [
       "A. \\(x^{6}\\)",
       "B. \\(x^{2}\\)",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 244,
-    "question": "Evaluate \\(log_{2}\\) 32.",
+    "question": "Evaluate \\(\\log_{2} 32\\).",
     "options": [
       "A. 2",
       "B. 4",
@@ -3199,7 +3199,7 @@
   },
   {
     "id": 247,
-    "question": "Simplify \\(\\sqrt{45.}\\)",
+    "question": "Simplify \\(\\sqrt{45}\\).",
     "options": [
       "A. \\(5\\sqrt{3}\\)",
       "B. \\(3\\sqrt{5}\\)",
@@ -3251,7 +3251,7 @@
   },
   {
     "id": 251,
-    "question": "Factorize \\(x^{2} -\\) 7x + 12.",
+    "question": "Factorize \\(x^{2} - 7x + 12\\).",
     "options": [
       "A. (x-2)(x-6)",
       "B. (x-3)(x-4)",
@@ -3266,10 +3266,10 @@
     "id": 252,
     "question": "Expand (x-2)(x+5).",
     "options": [
-      "A. \\(x^{2} -\\) 3x - 10",
-      "B. \\(x^{2} +\\) 3x + 10",
-      "C. \\(x^{2} +\\) 3x - 10",
-      "D. \\(x^{2} -\\) 3x + 10"
+      "A. \\(x^{2} - 3x - 10\\)",
+      "B. \\(x^{2} + 3x + 10\\)",
+      "C. \\(x^{2} + 3x - 10\\)",
+      "D. \\(x^{2} - 3x + 10\\)"
     ],
     "answer": "C",
     "topic": "Simple operations on algebraic expressions",
@@ -3318,10 +3318,10 @@
     "id": 256,
     "question": "Form a quadratic equation whose roots are 3 and 3.",
     "options": [
-      "A. \\(x^{2} +\\) 6x + 9 = 0",
-      "B. \\(x^{2} -\\) 6x + 9 = 0",
-      "C. \\(x^{2} -\\) 6x - 9 = 0",
-      "D. \\(x^{2} +\\) 6x - 9 = 0"
+      "A. \\(x^{2} + 6x + 9 = 0\\)",
+      "B. \\(x^{2} - 6x + 9 = 0\\)",
+      "C. \\(x^{2} - 6x - 9 = 0\\)",
+      "D. \\(x^{2} + 6x - 9 = 0\\)"
     ],
     "answer": "B",
     "topic": "Quadratic Equations",
@@ -3394,7 +3394,7 @@
   },
   {
     "id": 262,
-    "question": "Find the area of a sector of a circle with radius 7cm and angle \\(90^{\\circ}\\)\\(. (\\pi = \\frac{22}{7}\\))",
+    "question": "Find the area of a sector of a circle with radius 7cm and angle \\(90^{\\circ}\\). (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. \\(38.5\\,\\text{cm}^{2}\\)",
       "B. \\(77\\,\\text{cm}^{2}\\)",
@@ -3407,7 +3407,7 @@
   },
   {
     "id": 263,
-    "question": "Find the volume of a hemisphere with radius 3cm. \\((\\pi\\)=3.14)",
+    "question": "Find the volume of a hemisphere with radius 3cm. (\\(\\pi = 3.14\\))",
     "options": [
       "A. \\(113.04\\,\\text{cm}^{3}\\)",
       "B. \\(56.52\\,\\text{cm}^{3}\\)",
@@ -3475,7 +3475,7 @@
     "question": "From a point 30m from the base of a building, the angle of elevation of the top is \\(60^{\\circ}\\). Find the height.",
     "options": [
       "A. \\(30\\sqrt{3}\\) m",
-      "B. 30/\\(\\sqrt{3}\\) m",
+      "B. \\(\\frac{30}{\\sqrt{3}}\\) m",
       "C. 60 m",
       "D. \\(15\\sqrt{3}\\) m"
     ],
@@ -3628,12 +3628,12 @@
   },
   {
     "id": 280,
-    "question": "Simplify \\((2^{3}\\)\\()^{2}\\).",
+    "question": "Simplify \\((2^{3})^{2}\\).",
     "options": [
       "A. \\(2^{5}\\)",
       "B. \\(2^{9}\\)",
       "C. 64",
-      "D. 32"
+      "D. 16"
     ],
     "answer": "C",
     "topic": "Indices",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": 281,
-    "question": "Evaluate \\(log_{5}\\) 125.",
+    "question": "Evaluate \\(\\log_{5} 125\\).",
     "options": [
       "A. 5",
       "B. 3",
@@ -3680,10 +3680,10 @@
   },
   {
     "id": 284,
-    "question": "Simplify \\(\\sqrt{48.}\\)",
+    "question": "Simplify \\(\\sqrt{48}\\).",
     "options": [
       "A. \\(3\\sqrt{4}\\)",
-      "B. \\(2\\sqrt{12}\\)",
+      "B. \\(8\\sqrt{3}\\)",
       "C. \\(4\\sqrt{3}\\)",
       "D. \\(6\\sqrt{2}\\)"
     ],
@@ -3732,7 +3732,7 @@
   },
   {
     "id": 288,
-    "question": "Factorize \\(4x^{2} -\\) 9.",
+    "question": "Factorize \\(4x^{2} - 9\\).",
     "options": [
       "A. (4x-3)(x+3)",
       "B. (2x-9)(2x+1)",
@@ -3747,10 +3747,10 @@
     "id": 289,
     "question": "Expand (x+4)(x-4).",
     "options": [
-      "A. \\(x^{2} +\\) 16",
-      "B. \\(x^{2} -\\) 16",
-      "C. \\(x^{2} -\\) 8x + 16",
-      "D. \\(x^{2} +\\) 8x + 16"
+      "A. \\(x^{2} + 16\\)",
+      "B. \\(x^{2} - 16\\)",
+      "C. \\(x^{2} - 8x + 16\\)",
+      "D. \\(x^{2} + 8x + 16\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -3758,7 +3758,7 @@
   },
   {
     "id": 290,
-    "question": "Solve for x: \\((\\frac{2x}{3}) - 1\\) = 3.",
+    "question": "Solve for x: \\(\\frac{2x}{3} - 1 = 3\\).",
     "options": [
       "A. 3",
       "B. 4",
@@ -3797,7 +3797,7 @@
   },
   {
     "id": 293,
-    "question": "Solve the quadratic equation \\(x^{2} +\\) x - 12 = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} + x - 12 = 0\\).",
     "options": [
       "A. x = 4 or -3",
       "B. x = -4 or 3",
@@ -3823,12 +3823,12 @@
   },
   {
     "id": 295,
-    "question": "Solve the inequality 5x - 2 \\(\\ge 3x\\) + 4.",
+    "question": "Solve the inequality \\(5x - 2 \\ge 3x + 4\\).",
     "options": [
-      "A. x \\(\\le\\) 3",
-      "B. x < 3",
-      "C. x > 3",
-      "D. x \\(\\ge\\) 3"
+      "A. \\(x \\le 3\\)",
+      "B. \\(x < 3\\)",
+      "C. \\(x > 3\\)",
+      "D. \\(x \\ge 3\\)"
     ],
     "answer": "D",
     "topic": "Linear Inequalities",
@@ -3849,7 +3849,7 @@
   },
   {
     "id": 297,
-    "question": "If f(x) = \\(x^{2} +\\) 3, find f(-2).",
+    "question": "If \\(f(x) = x^{2} + 3\\), find \\(f(-2)\\).",
     "options": [
       "A. 1",
       "B. 7",
@@ -3875,7 +3875,7 @@
   },
   {
     "id": 299,
-    "question": "Find the area of a circle with radius 10cm. \\((\\pi\\)=3.14)",
+    "question": "Find the area of a circle with radius 10cm. (\\(\\pi = 3.14\\))",
     "options": [
       "A. \\(31.4\\,\\text{cm}^{2}\\)",
       "B. \\(62.8\\,\\text{cm}^{2}\\)",
@@ -3888,7 +3888,7 @@
   },
   {
     "id": 300,
-    "question": "Find the volume of a cylinder with radius 2cm and height 10cm. \\((\\pi\\)=3.14)",
+    "question": "Find the volume of a cylinder with radius 2cm and height 10cm. (\\(\\pi = 3.14\\))",
     "options": [
       "A. \\(62.8\\,\\text{cm}^{3}\\)",
       "B. \\(125.6\\,\\text{cm}^{3}\\)",
@@ -3969,7 +3969,7 @@
     "question": "The angle of depression of a boat from the top of a cliff 60m high is \\(30^{\\circ}\\). Find the distance of the boat from the foot of the cliff.",
     "options": [
       "A. \\(60\\sqrt{3}\\) m",
-      "B. 60/\\(\\sqrt{3}\\) m",
+      "B. \\(\\frac{60}{\\sqrt{3}}\\) m",
       "C. 30 m",
       "D. 120 m"
     ],
@@ -3992,7 +3992,7 @@
   },
   {
     "id": 308,
-    "question": "Find the derivative of y = \\(3x^{2} +\\) 2x - 1.",
+    "question": "Find the derivative of \\(y = 3x^{2} + 2x - 1\\).",
     "options": [
       "A. 6x",
       "B. 6x + 2",
@@ -4122,7 +4122,7 @@
   },
   {
     "id": 318,
-    "question": "Simplify \\((a^{3}\\)\\()^{4}\\).",
+    "question": "Simplify \\((a^{3})^{4}\\).",
     "options": [
       "A. \\(a^{7}\\)",
       "B. \\(a^{12}\\)",
@@ -4135,7 +4135,7 @@
   },
   {
     "id": 319,
-    "question": "Evaluate \\(log_{7}\\) 49.",
+    "question": "Evaluate \\(\\log_{7} 49\\).",
     "options": [
       "A. 7",
       "B. 1",
@@ -4174,7 +4174,7 @@
   },
   {
     "id": 322,
-    "question": "Simplify \\(\\sqrt{12} + \\sqrt{27.}\\)",
+    "question": "Simplify \\(\\sqrt{12} + \\sqrt{27}\\).",
     "options": [
       "A. \\(5\\sqrt{6}\\)",
       "B. \\(5\\sqrt{3}\\)",
@@ -4226,7 +4226,7 @@
   },
   {
     "id": 326,
-    "question": "Factorize \\(x^{2} +\\) 7x + 12.",
+    "question": "Factorize \\(x^{2} + 7x + 12\\).",
     "options": [
       "A. (x+2)(x+6)",
       "B. (x+3)(x+4)",
@@ -4241,10 +4241,10 @@
     "id": 327,
     "question": "Expand (2x-3)(x+4).",
     "options": [
-      "A. \\(2x^{2} -\\) 5x - 12",
-      "B. \\(2x^{2} +\\) 5x + 12",
-      "C. \\(2x^{2} +\\) 5x - 12",
-      "D. \\(2x^{2} -\\) 5x + 12"
+      "A. \\(2x^{2} - 5x - 12\\)",
+      "B. \\(2x^{2} + 5x + 12\\)",
+      "C. \\(2x^{2} + 5x - 12\\)",
+      "D. \\(2x^{2} - 5x + 12\\)"
     ],
     "answer": "C",
     "topic": "Simple operations on algebraic expressions",
@@ -4252,7 +4252,7 @@
   },
   {
     "id": 328,
-    "question": "Solve for x: \\((\\frac{x}{4}) + 3\\) = 7.",
+    "question": "Solve for x: \\(\\frac{x}{4} + 3 = 7\\).",
     "options": [
       "A. 8",
       "B. 12",
@@ -4278,10 +4278,10 @@
   },
   {
     "id": 330,
-    "question": "Make a the subject of the formula \\(v^{2} = u^{2} +\\) 2as.",
+    "question": "Make a the subject of the formula \\(v^{2} = u^{2} + 2as\\).",
     "options": [
       "A. \\(a = \\frac{v^{2}+u^{2}}{2s}\\)",
-      "B. \\(a = 2s(v^{2} - u^{2}\\))",
+      "B. \\(a = 2s(v^{2} - u^{2})\\)",
       "C. \\(a = \\frac{v^{2}-u^{2}}{2s}\\)",
       "D. \\(a = \\frac{u^{2}-v^{2}}{2s}\\)"
     ],
@@ -4293,10 +4293,10 @@
     "id": 331,
     "question": "Form a quadratic equation whose roots are -2 and 5.",
     "options": [
-      "A. \\(x^{2} +\\) 3x - 10 = 0",
-      "B. \\(x^{2} -\\) 3x - 10 = 0",
-      "C. \\(x^{2} -\\) 3x + 10 = 0",
-      "D. \\(x^{2} +\\) 3x + 10 = 0"
+      "A. \\(x^{2} + 3x - 10 = 0\\)",
+      "B. \\(x^{2} - 3x - 10 = 0\\)",
+      "C. \\(x^{2} - 3x + 10 = 0\\)",
+      "D. \\(x^{2} + 3x + 10 = 0\\)"
     ],
     "answer": "B",
     "topic": "Quadratic Equations",
@@ -4603,7 +4603,7 @@
   },
   {
     "id": 355,
-    "question": "Simplify \\((2x^{2}\\)\\()^{3}\\).",
+    "question": "Simplify \\((2x^{2})^{3}\\).",
     "options": [
       "A. \\(8x^{6}\\)",
       "B. \\(6x^{6}\\)",
@@ -4616,7 +4616,7 @@
   },
   {
     "id": 356,
-    "question": "Evaluate \\(log_{3} \\frac{1}{9}\\).",
+    "question": "Evaluate \\(\\log_{3} \\frac{1}{9}\\).",
     "options": [
       "A. 2",
       "B. -1",
@@ -4655,7 +4655,7 @@
   },
   {
     "id": 359,
-    "question": "Simplify \\(\\sqrt{98.}\\)",
+    "question": "Simplify \\(\\sqrt{98}\\).",
     "options": [
       "A. \\(2\\sqrt{7}\\)",
       "B. \\(7\\sqrt{2}\\)",
@@ -4707,10 +4707,10 @@
   },
   {
     "id": 363,
-    "question": "Factorize \\(5x^{2} -\\) 20.",
+    "question": "Factorize \\(5x^{2} - 20\\).",
     "options": [
       "A. 5(x-4)(x+1)",
-      "B. (5x-10)(x+2)",
+      "B. 5(x-4)(x+4)",
       "C. 5(x-2)(x+2)",
       "D. \\(5(x-2)^{2}\\)"
     ],
@@ -4759,11 +4759,11 @@
   },
   {
     "id": 367,
-    "question": "Make r the subject of the formula A = \\(\\pi\\)\\(r^{2}\\).",
+    "question": "Make r the subject of the formula \\(A = \\pi r^{2}\\).",
     "options": [
       "A. \\(r = \\frac{A}{\\pi}\\)",
-      "B. \\(r = \\pi\\)\\(A^{2}\\)",
-      "C. \\(r = \\sqrt{A/ \\pi}\\)",
+      "B. \\(r = \\pi A^{2}\\)",
+      "C. \\(r = \\sqrt{\\frac{A}{\\pi}}\\)",
       "D. \\(r = \\frac{A^{2}}{\\pi}\\)"
     ],
     "answer": "C",
@@ -4772,7 +4772,7 @@
   },
   {
     "id": 368,
-    "question": "Solve the quadratic equation \\(x^{2} -\\) 8x + 15 = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} - 8x + 15 = 0\\).",
     "options": [
       "A. x = -3 or -5",
       "B. x = 3 or 5",
@@ -4824,7 +4824,7 @@
   },
   {
     "id": 372,
-    "question": "If g(x) = \\(x^{2} -\\) 2x, find g(3).",
+    "question": "If \\(g(x) = x^{2} - 2x\\), find \\(g(3)\\).",
     "options": [
       "A. 5",
       "B. 3",
@@ -4837,7 +4837,7 @@
   },
   {
     "id": 373,
-    "question": "Find the area of a sector of a circle with radius 14cm and angle \\(45^{\\circ}\\)\\(. (\\pi = \\frac{22}{7}\\))",
+    "question": "Find the area of a sector of a circle with radius 14cm and angle \\(45^{\\circ}\\). (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. \\(77\\,\\text{cm}^{2}\\)",
       "B. \\(154\\,\\text{cm}^{2}\\)",
@@ -4850,7 +4850,7 @@
   },
   {
     "id": 374,
-    "question": "Find the volume of a cone with base radius 7cm and height 9cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the volume of a cone with base radius 7cm and height 9cm. (\\(\\pi = \\frac{22}{7}\\))",
     "options": [
       "A. \\(1386\\,\\text{cm}^{3}\\)",
       "B. \\(154\\,\\text{cm}^{3}\\)",
@@ -4941,12 +4941,12 @@
   },
   {
     "id": 381,
-    "question": "Find the derivative of y = \\(4x^{3} -\\) 2x + 7.",
+    "question": "Find the derivative of \\(y = 4x^{3} - 2x + 7\\).",
     "options": [
-      "A. \\(12x^{2} +\\) 2",
-      "B. \\(12x^{2} -\\) 2",
-      "C. 12x - 2",
-      "D. \\(4x^{2} -\\) 2"
+      "A. \\(12x^{2} + 2\\)",
+      "B. \\(12x^{2} - 2\\)",
+      "C. \\(12x - 2\\)",
+      "D. \\(4x^{2} - 2\\)"
     ],
     "answer": "B",
     "topic": "Introductory Calculus",
@@ -5023,7 +5023,7 @@
     "options": [
       "A. (8,5)",
       "B. (15,6)",
-      "C. \\((\\frac{5}{3} , \\frac{2}{3}\\))",
+      "C. \\(\\left(\\frac{5}{3}, \\frac{2}{3}\\right)\\)",
       "D. (2,5)"
     ],
     "answer": "B",
@@ -5032,7 +5032,7 @@
   },
   {
     "id": 388,
-    "question": "Convert \\(100_{2} \\times 11_{2}\\).",
+    "question": "Evaluate \\(100_{2} \\times 11_{2}\\).",
     "options": [
       "A. \\(1000_{2}\\)",
       "B. \\(1010_{2}\\)",
@@ -5071,7 +5071,7 @@
   },
   {
     "id": 391,
-    "question": "Simplify \\((4a^{2}\\)\\()^{0}\\).",
+    "question": "Simplify \\((4a^{2})^{0}\\).",
     "options": [
       "A. \\(4a^{2}\\)",
       "B. 1",
@@ -5084,7 +5084,7 @@
   },
   {
     "id": 392,
-    "question": "Evaluate \\(log_{10}\\) 100000.",
+    "question": "Evaluate \\(\\log_{10} 100000\\).",
     "options": [
       "A. 4",
       "B. 10",
@@ -5123,7 +5123,7 @@
   },
   {
     "id": 395,
-    "question": "Simplify \\(\\sqrt{8} \\times \\sqrt{2.}\\)",
+    "question": "Simplify \\(\\sqrt{8} \\times \\sqrt{2}\\).",
     "options": [
       "A. 4",
       "B. 16",
@@ -5175,7 +5175,7 @@
   },
   {
     "id": 399,
-    "question": "Factorize \\(x^{2} -\\) x - 20.",
+    "question": "Factorize \\(x^{2} - x - 20\\).",
     "options": [
       "A. (x+5)(x+4)",
       "B. (x-5)(x-4)",
@@ -5190,10 +5190,10 @@
     "id": 400,
     "question": "Expand (x+7)(x-3).",
     "options": [
-      "A. \\(x^{2} -\\) 4x - 21",
-      "B. \\(x^{2} +\\) 4x - 21",
-      "C. \\(x^{2} +\\) 4x + 21",
-      "D. \\(x^{2} -\\) 4x + 21"
+      "A. \\(x^{2} - 4x - 21\\)",
+      "B. \\(x^{2} + 4x - 21\\)",
+      "C. \\(x^{2} + 4x + 21\\)",
+      "D. \\(x^{2} - 4x + 21\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -5201,7 +5201,7 @@
   },
   {
     "id": 401,
-    "question": "Solve for x: \\((\\frac{3x}{2}) + 1\\) = 7.",
+    "question": "Solve for x: \\(\\frac{3x}{2} + 1 = 7\\).",
     "options": [
       "A. 2",
       "B. 3",
@@ -5227,7 +5227,7 @@
   },
   {
     "id": 403,
-    "question": "Make h the subject of the formula A = (\\(\\frac{1}{2}\\))bh.",
+    "question": "Make h the subject of the formula \\(A = \\frac{1}{2}bh\\).",
     "options": [
       "A. \\(h = \\frac{A}{2b}\\)",
       "B. \\(h = \\frac{2b}{A}\\)",
@@ -5242,10 +5242,10 @@
     "id": 404,
     "question": "Form a quadratic equation whose roots are -5 and 2.",
     "options": [
-      "A. \\(x^{2} -\\) 3x - 10 = 0",
-      "B. \\(x^{2} +\\) 3x - 10 = 0",
-      "C. \\(x^{2} +\\) 3x + 10 = 0",
-      "D. \\(x^{2} -\\) 3x + 10 = 0"
+      "A. \\(x^{2} - 3x - 10 = 0\\)",
+      "B. \\(x^{2} + 3x - 10 = 0\\)",
+      "C. \\(x^{2} + 3x + 10 = 0\\)",
+      "D. \\(x^{2} - 3x + 10 = 0\\)"
     ],
     "answer": "B",
     "topic": "Quadratic Equations",
@@ -5268,10 +5268,10 @@
     "id": 406,
     "question": "Solve the inequality 2 - 5x \\(\\le\\) 12.",
     "options": [
-      "A. x \\(\\le -2\\)",
-      "B. x \\(\\ge\\) 2",
-      "C. x \\(\\ge -2\\)",
-      "D. x \\(\\le\\) 2"
+      "A. \\(x \\le -2\\)",
+      "B. \\(x \\ge 2\\)",
+      "C. \\(x \\ge -2\\)",
+      "D. \\(x \\le 2\\)"
     ],
     "answer": "C",
     "topic": "Linear Inequalities",
@@ -5283,7 +5283,7 @@
     "options": [
       "A. x",
       "B. x + 2x",
-      "C. \\(x^{2} +\\) 2",
+      "C. \\(x^{2} + 2\\)",
       "D. x + 2"
     ],
     "answer": "D",
@@ -5318,7 +5318,7 @@
   },
   {
     "id": 410,
-    "question": "Find the area of a circle with radius 14cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the area of a circle with radius 14cm. \\(\\left(\\pi = \\frac{22}{7}\\right)\\)",
     "options": [
       "A. \\(616\\,\\text{cm}^{2}\\)",
       "B. \\(88\\,\\text{cm}^{2}\\)",
@@ -5331,7 +5331,7 @@
   },
   {
     "id": 411,
-    "question": "Find the volume of a sphere with radius 6cm. \\((\\pi\\)=3.14)",
+    "question": "Find the volume of a sphere with radius 6cm. \\((\\pi = 3.14)\\)",
     "options": [
       "A. \\(452.16\\,\\text{cm}^{3}\\)",
       "B. \\(226.08\\,\\text{cm}^{3}\\)",
@@ -5357,12 +5357,12 @@
   },
   {
     "id": 413,
-    "question": "Angles in the same segment of a circle are",
+    "question": "The angle subtended by a diameter of a circle at any point on its circumference is",
     "options": [
-      "A. equal",
-      "B. supplementary",
-      "C. complementary",
-      "D. right angles"
+      "A. \\(90^{\\circ}\\)",
+      "B. \\(60^{\\circ}\\)",
+      "C. \\(45^{\\circ}\\)",
+      "D. \\(180^{\\circ}\\)"
     ],
     "answer": "A",
     "topic": "Circles",
@@ -5552,12 +5552,12 @@
   },
   {
     "id": 428,
-    "question": "Simplify \\((3x^{2}\\)\\(y^{3}\\)\\()^{2}\\).",
+    "question": "Simplify \\((3x^{2}y^{3})^{2}\\).",
     "options": [
-      "A. \\(3x^{4}\\)\\(y^{6}\\)",
-      "B. \\(9x^{2}\\)\\(y^{5}\\)",
-      "C. \\(9x^{4}\\)\\(y^{6}\\)",
-      "D. \\(6x^{4}\\)\\(y^{6}\\)"
+      "A. \\(3x^{4}y^{6}\\)",
+      "B. \\(9x^{2}y^{5}\\)",
+      "C. \\(9x^{4}y^{6}\\)",
+      "D. \\(6x^{4}y^{6}\\)"
     ],
     "answer": "C",
     "topic": "Indices",
@@ -5565,7 +5565,7 @@
   },
   {
     "id": 429,
-    "question": "Evaluate \\(log_{6}\\) 216.",
+    "question": "Evaluate \\(\\log_{6} 216\\).",
     "options": [
       "A. 2",
       "B. 3",
@@ -5604,12 +5604,12 @@
   },
   {
     "id": 432,
-    "question": "Simplify \\(\\sqrt{32.}\\)",
+    "question": "Simplify \\(\\sqrt{32}\\).",
     "options": [
       "A. \\(2\\sqrt{4}\\)",
       "B. \\(8\\sqrt{2}\\)",
       "C. \\(4\\sqrt{2}\\)",
-      "D. \\(2\\sqrt{8}\\)"
+      "D. \\(16\\sqrt{2}\\)"
     ],
     "answer": "C",
     "topic": "Surds",
@@ -5656,7 +5656,7 @@
   },
   {
     "id": 436,
-    "question": "Factorize \\(x^{2} +\\) 2x - 15.",
+    "question": "Factorize \\(x^{2} + 2x - 15\\).",
     "options": [
       "A. (x-5)(x+3)",
       "B. (x+5)(x+3)",
@@ -5671,10 +5671,10 @@
     "id": 437,
     "question": "Expand (a-3)(a+3).",
     "options": [
-      "A. \\(a^{2} +\\) 9",
-      "B. \\(a^{2} -\\) 9",
-      "C. \\(a^{2} -\\) 6a + 9",
-      "D. \\(a^{2} +\\) 6a + 9"
+      "A. \\(a^{2} + 9\\)",
+      "B. \\(a^{2} - 9\\)",
+      "C. \\(a^{2} - 6a + 9\\)",
+      "D. \\(a^{2} + 6a + 9\\)"
     ],
     "answer": "B",
     "topic": "Simple operations on algebraic expressions",
@@ -5721,7 +5721,7 @@
   },
   {
     "id": 441,
-    "question": "Solve the quadratic equation \\(x^{2} -\\) 6x + 8 = 0.",
+    "question": "Solve the quadratic equation \\(x^{2} - 6x + 8 = 0\\).",
     "options": [
       "A. x = -2 or -4",
       "B. x = 2 or 4",
@@ -5763,7 +5763,7 @@
     "question": "Simplify \\(\\frac{x^{2} - 6x + 9}{x - 3}\\).",
     "options": [
       "A. x + 3",
-      "B. \\(x^{2} -\\) 3",
+      "B. \\(x^{2} - 3\\)",
       "C. x + 9",
       "D. x - 3"
     ],
@@ -5799,7 +5799,7 @@
   },
   {
     "id": 447,
-    "question": "Find the volume of a hemisphere with radius 7cm. \\((\\pi = \\frac{22}{7}\\))",
+    "question": "Find the volume of a hemisphere with radius 7cm. \\(\\left(\\pi = \\frac{22}{7}\\right)\\)",
     "options": [
       "A. \\(1437.33\\,\\text{cm}^{3}\\)",
       "B. \\(1078\\,\\text{cm}^{3}\\)",
@@ -5890,12 +5890,12 @@
   },
   {
     "id": 454,
-    "question": "Find the derivative of y = \\(9x^{2} -\\) 4x.",
+    "question": "Find the derivative of \\(y = 9x^{2} - 4x\\).",
     "options": [
       "A. 18x - 4",
       "B. 18x + 4",
       "C. 9x - 4",
-      "D. \\(18x^{2} -\\) 4"
+      "D. \\(18x^{2} - 4\\)"
     ],
     "answer": "A",
     "topic": "Introductory Calculus",
@@ -6033,7 +6033,7 @@
   },
   {
     "id": 465,
-    "question": "Evaluate \\(log_{10}\\) 10.",
+    "question": "Evaluate \\(\\log_{10} 10\\).",
     "options": [
       "A. 0",
       "B. 10",
@@ -6072,7 +6072,7 @@
   },
   {
     "id": 468,
-    "question": "Simplify \\(\\sqrt{125.}\\)",
+    "question": "Simplify \\(\\sqrt{125}\\).",
     "options": [
       "A. \\(25\\sqrt{5}\\)",
       "B. \\(5\\sqrt{25}\\)",
@@ -6124,7 +6124,7 @@
   },
   {
     "id": 472,
-    "question": "Factorize \\(6x^{2} -\\) 15x.",
+    "question": "Factorize \\(6x^{2} - 15x\\).",
     "options": [
       "A. \\(3(2x^{2}-5x)\\)",
       "B. 3x(2x-5)",
@@ -6137,12 +6137,12 @@
   },
   {
     "id": 473,
-    "question": "Expand (x+\\(2)^{3}\\).",
+    "question": "Expand \\((x+2)^{3}\\).",
     "options": [
-      "A. \\(x^{3} +\\) 8",
-      "B. \\(x^{3} + 6x^{2} +\\) 8",
-      "C. \\(x^{3} +\\) 12x + 8",
-      "D. \\(x^{3} + 6x^{2} +\\) 12x + 8"
+      "A. \\(x^{3} + 8\\)",
+      "B. \\(x^{3} + 6x^{2} + 8\\)",
+      "C. \\(x^{3} + 12x + 8\\)",
+      "D. \\(x^{3} + 6x^{2} + 12x + 8\\)"
     ],
     "answer": "D",
     "topic": "Simple operations on algebraic expressions",
@@ -6180,7 +6180,7 @@
     "options": [
       "A. \\(R = \\frac{I}{PT}\\)",
       "B. \\(R = \\frac{100I}{PT}\\)",
-      "C. R = 100PT/I",
+      "C. \\(R = \\frac{100PT}{I}\\)",
       "D. \\(R = \\frac{PT}{100I}\\)"
     ],
     "answer": "B",
@@ -6191,10 +6191,10 @@
     "id": 477,
     "question": "Form a quadratic equation whose roots are 0 and 5.",
     "options": [
-      "A. \\(x^{2} +\\) 5x = 0",
-      "B. \\(x^{2} -\\) 5 = 0",
-      "C. \\(x^{2} +\\) 5 = 0",
-      "D. \\(x^{2} -\\) 5x = 0"
+      "A. \\(x^{2} + 5x = 0\\)",
+      "B. \\(x^{2} - 5 = 0\\)",
+      "C. \\(x^{2} + 5 = 0\\)",
+      "D. \\(x^{2} - 5x = 0\\)"
     ],
     "answer": "D",
     "topic": "Quadratic Equations",
@@ -6215,7 +6215,7 @@
   },
   {
     "id": 479,
-    "question": "Solve the inequality 8x - 3 \\(\\ge 5x\\) + 9.",
+    "question": "Solve the inequality \\(8x - 3 \\ge 5x + 9\\).",
     "options": [
       "A. x \\(\\le\\) 4",
       "B. x > 4",
@@ -6241,7 +6241,7 @@
   },
   {
     "id": 481,
-    "question": "If h(x) = \\(x^{2} -\\) 4, find h(5).",
+    "question": "If \\(h(x) = x^{2} - 4\\), find \\(h(5)\\).",
     "options": [
       "A. 25",
       "B. 20",
@@ -6267,7 +6267,7 @@
   },
   {
     "id": 483,
-    "question": "Find the area of a circle with diameter 20cm. \\((\\pi\\)=3.14)",
+    "question": "Find the area of a circle with diameter 20cm. \\((\\pi = 3.14)\\)",
     "options": [
       "A. \\(1256\\,\\text{cm}^{2}\\)",
       "B. \\(314\\,\\text{cm}^{2}\\)",
@@ -6311,7 +6311,7 @@
       "A. are equal",
       "B. are parallel",
       "C. bisect each other at right angles",
-      "D. bisect each other"
+      "D. do not bisect each other"
     ],
     "answer": "C",
     "topic": "Triangles and Polygons",
@@ -6345,7 +6345,7 @@
   },
   {
     "id": 489,
-    "question": "If tan \\(\\theta =\\) 1, find \\(\\theta\\).",
+    "question": "If \\(\\tan \\theta = 1\\), find \\(\\theta\\).",
     "options": [
       "A. \\(30^{\\circ}\\)",
       "B. \\(45^{\\circ}\\)",
@@ -6363,7 +6363,7 @@
       "A. \\(100\\sqrt{3}\\) m",
       "B. \\(50\\sqrt{3}\\) m",
       "C. 50 m",
-      "D. \\(100\\sqrt{\\frac{3}{3}}\\) m"
+      "D. \\(\\frac{100\\sqrt{3}}{3}\\) m"
     ],
     "answer": "D",
     "topic": "Angles of elevation and depression",
@@ -6384,7 +6384,7 @@
   },
   {
     "id": 492,
-    "question": "Find the derivative of y = \\(10x^{2} +\\) 3x - 5.",
+    "question": "Find the derivative of \\(y = 10x^{2} + 3x - 5\\).",
     "options": [
       "A. 20x - 3",
       "B. 10x + 3",
@@ -6475,7 +6475,7 @@
   },
   {
     "id": 499,
-    "question": "Convert \\(11_{3} + 12_{3}\\).",
+    "question": "Evaluate \\(11_{3} + 12_{3}\\).",
     "options": [
       "A. \\(23_{3}\\)",
       "B. \\(20_{3}\\)",

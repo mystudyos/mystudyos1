@@ -196,15 +196,15 @@ export function SolidQuiz({ subjectKey, questionCount, timeLimit, onBack, onComp
       {showStartWarning && <QuizStartWarning onConfirm={() => setShowStartWarning(false)} />}
       {/* Sticky Header */}
       <div className="sticky top-0 z-30 glass-strong">
-        <div className="flex items-center justify-between px-5 pt-12 lg:pt-6 pb-3 max-w-2xl mx-auto w-full">
-          <button onClick={onBack} className="w-10 h-10 rounded-xl glass flex items-center justify-center">
+        <div className="flex items-center justify-between gap-2 px-5 pt-12 lg:pt-6 pb-3 max-w-2xl mx-auto w-full">
+          <button onClick={onBack} className="w-10 h-10 rounded-xl glass flex items-center justify-center shrink-0">
             <ArrowLeft className="w-5 h-5 text-muted-foreground" />
           </button>
-          <div className="text-center">
-            <p className="text-xs text-muted-foreground">{subject.name}</p>
+          <div className="text-center min-w-0 flex-1 px-1">
+            <p className="text-xs text-muted-foreground truncate">{subject.name}</p>
             <p className="text-sm font-semibold text-foreground">Q {currentIdx + 1}/{questions.length}</p>
           </div>
-          <div className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-medium transition-colors ${isLowTime ? "bg-red-500 text-white shadow-[0_0_15px_rgba(239,68,68,0.4)] animate-pulse" : "bg-emerald-500 text-white shadow-[0_0_15px_rgba(16,185,129,0.2)]"}`}>
+          <div className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-medium transition-colors shrink-0 ${isLowTime ? "bg-red-500 text-white shadow-[0_0_15px_rgba(239,68,68,0.4)] animate-pulse" : "bg-emerald-500 text-white shadow-[0_0_15px_rgba(16,185,129,0.2)]"}`}>
             <Clock className="w-4 h-4" />
             <span className="font-mono font-bold text-sm tracking-wide">{String(mins).padStart(2, "0")}:{String(secs).padStart(2, "0")}</span>
           </div>
@@ -251,7 +251,7 @@ export function SolidQuiz({ subjectKey, questionCount, timeLimit, onBack, onComp
             }`}>
               {String.fromCharCode(65 + idx)}
             </span>
-            <TextRenderer text={opt} className="text-sm text-foreground text-left flex-1" />
+            <TextRenderer text={opt} className="text-sm text-foreground text-left flex-1 min-w-0" />
           </button>
         ))}
       </div>

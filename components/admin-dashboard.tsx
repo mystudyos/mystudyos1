@@ -26,43 +26,14 @@ import {
   Flame
 } from "lucide-react"
 
-function toMillisSafe(val: any): number {
-  if (!val) return 0
-  try {
-    if (typeof val.toMillis === "function") return val.toMillis()
-    if (typeof val.toDate === "function") return val.toDate().getTime()
-    if (typeof val.seconds === "number") return val.seconds * 1000
-    if (typeof val === "number") return val
-    if (typeof val === "string") {
-      const parsed = Date.parse(val)
-      return isNaN(parsed) ? 0 : parsed
-    }
-  } catch {
-    return 0
-  }
-  return 0
-}
+const toMillisSafe = toTimestampMillis
 
 function formatJoinedDate(createdAt: any): string {
-  if (!createdAt) return "Joined N/A"
-  try {
-    let date: Date
-    if (createdAt.toDate && typeof createdAt.toDate === "function") {
-      date = createdAt.toDate()
-    } else if (createdAt.seconds) {
-      date = new Date(createdAt.seconds * 1000)
-    } else if (typeof createdAt === "number" || typeof createdAt === "string") {
-      date = new Date(createdAt)
-    } else {
-      return "Joined N/A"
-    }
-    if (isNaN(date.getTime())) return "Joined N/A"
-    return `Joined ${date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`
-  } catch (e) {
-    return "Joined N/A"
-  }
+  const ms = toTimestampMillis(createdAt)
+  if (!ms) return "Joined N/A"
+  return `Joined ${new Date(ms).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`
 }
-import { fetchAllStudents, type UserStats, banUser, unbanUser } from "@/lib/user-stats"
+import { fetchAllStudents, type UserStats, banUser, unbanUser, toTimestampMillis } from "@/lib/user-stats"
 import { 
   fetchSafetyReports, 
   dismissSafetyReport, 
@@ -267,11 +238,18 @@ export function AdminDashboard({ user, onBack }: AdminDashboardProps) {
     }
   }
 
-  const filteredStudents = students.filter(s => 
-    s.displayName?.toLowerCase().includes(search.toLowerCase()) ||
-    s.email?.toLowerCase().includes(search.toLowerCase()) ||
-    s.school?.toLowerCase().includes(search.toLowerCase())
-  )
+  const filteredStudents = students
+    .filter(s => 
+      s.displayName?.toLowerCase().includes(search.toLowerCase()) ||
+      s.email?.toLowerCase().includes(search.toLowerCase()) ||
+      s.school?.toLowerCase().includes(search.toLowerCase())
+    )
+    .sort((a, b) => {
+      const bJoined = toMillisSafe(b.createdAt)
+      const aJoined = toMillisSafe(a.createdAt)
+      if (bJoined !== aJoined) return bJoined - aJoined
+      return toMillisSafe(b.updatedAt) - toMillisSafe(a.updatedAt)
+    })
 
   const nowMs = Date.now()
   const DAY_MS = 86_400_000
@@ -481,7 +459,7 @@ export function AdminDashboard({ user, onBack }: AdminDashboardProps) {
                   </div>
                   <div className="flex-1 min-w-0">
                     <h3 className="text-sm font-bold text-foreground truncate">{s.name}</h3>
-                    <p className="text-xs text-muted-foreground">
+                    <p className="text-xs truncate text-muted-foreground">
                       Submitted by: {s.submittedBy || "Unknown"}
                     </p>
                   </div>

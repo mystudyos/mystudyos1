@@ -136,6 +136,7 @@ const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
 
 interface SSSSolidQuizProps {
   subjectKey: SSSSubjectKey
+  subjectKeys?: SSSSubjectKey[]
   examType: SSSExamType
   paperType?: SSSPaperType
   questionCount: number
@@ -152,8 +153,17 @@ interface SSSSolidQuizProps {
   }) => void
 }
 
+interface SubjectQuestionRange {
+  key: SSSSubjectKey
+  name: string
+  shortName: string
+  startIndex: number
+  count: number
+}
+
 export function SSSSolidQuiz({
   subjectKey,
+  subjectKeys,
   examType,
   paperType = "objective",
   questionCount,
@@ -161,51 +171,81 @@ export function SSSSolidQuiz({
   onBack,
   onComplete,
 }: SSSSolidQuizProps) {
-  const subject = getSSSSubjectByKey(subjectKey)
+  const effectiveSubjects =
+    subjectKeys && subjectKeys.length > 0 ? subjectKeys : [subjectKey]
+  const subjectsKeyId = effectiveSubjects.join(",")
+  const subject = getSSSSubjectByKey(effectiveSubjects[0])
   const examLabel =
     examType === "wassce" ? "WAEC" : examType === "neco" ? "NECO" : "JAMB"
   const paperLabel = paperType === "theory" ? "Theory" : "Objective"
   const topicLabel = `${examLabel} ${paperLabel} — Full Syllabus`
 
   const [questions, setQuestions] = useState<Question[]>([])
+  const [subjectRanges, setSubjectRanges] = useState<SubjectQuestionRange[]>([])
   const [poolLoading, setPoolLoading] = useState(true)
 
   useEffect(() => {
     let active = true
-    if (paperType !== "objective") {
+    const keysToLoad = subjectsKeyId.split(",") as SSSSubjectKey[]
+    if (paperType !== "objective" || keysToLoad.length === 0) {
       setQuestions([])
+      setSubjectRanges([])
       setPoolLoading(false)
       return
     }
-    const loader =
-      examType === "neco"
-        ? NECO_JSON_POOLS[subjectKey]
-        : examType === "wassce"
-          ? WAEC_JSON_POOLS[subjectKey]
-          : JAMB_JSON_POOLS[subjectKey]
 
-    if (!loader) {
-      setQuestions([])
-      setPoolLoading(false)
-      return
-    }
+    const poolMap =
+      examType === "neco"
+        ? NECO_JSON_POOLS
+        : examType === "wassce"
+          ? WAEC_JSON_POOLS
+          : JAMB_JSON_POOLS
+
+    const perSubjectBase = Math.floor(questionCount / keysToLoad.length)
+    const remainder = questionCount % keysToLoad.length
 
     setPoolLoading(true)
-    loader()
-      .then((mod) => {
-        if (!active) return
+    Promise.all(
+      keysToLoad.map(async (sk, index) => {
+        const loader = poolMap[sk]
+        if (!loader) return { key: sk, questions: [] as Question[] }
+        const mod = await loader()
         const rawPool = mod.default || []
-        if (rawPool.length === 0) {
-          setQuestions([])
-        } else {
-          const mapped = mapNecoJsonToQuestions(rawPool, subjectKey, examType)
-          const shuffled = shuffleArray(mapped)
-          setQuestions(shuffled.slice(0, Math.min(questionCount, shuffled.length)))
+        if (rawPool.length === 0) return { key: sk, questions: [] as Question[] }
+        const mapped = mapNecoJsonToQuestions(rawPool, sk, examType)
+        const shuffled = shuffleArray(mapped)
+        const target = perSubjectBase + (index < remainder ? 1 : 0)
+        return {
+          key: sk,
+          questions: shuffled.slice(0, Math.min(target, shuffled.length)),
         }
+      })
+    )
+      .then((sections) => {
+        if (!active) return
+        const combined: Question[] = []
+        const ranges: SubjectQuestionRange[] = []
+        for (const sec of sections) {
+          if (sec.questions.length === 0) continue
+          const info = getSSSSubjectByKey(sec.key)
+          ranges.push({
+            key: sec.key,
+            name: info.name,
+            shortName: info.shortName,
+            startIndex: combined.length,
+            count: sec.questions.length,
+          })
+          combined.push(...sec.questions)
+        }
+        setSubjectRanges(ranges)
+        setQuestions(combined)
       })
       .catch((err) => {
         console.error("Failed to load SSS question pool:", err)
-        if (active) setQuestions([])
+        if (active) {
+          setSubjectRanges([])
+          setQuestions([])
+        }
       })
       .finally(() => {
         if (active) setPoolLoading(false)
@@ -214,7 +254,7 @@ export function SSSSolidQuiz({
     return () => {
       active = false
     }
-  }, [subjectKey, examType, paperType, questionCount])
+  }, [subjectsKeyId, examType, paperType, questionCount])
 
   const [currentIdx, setCurrentIdx] = useState(0)
   const [answers, setAnswers] = useState<(number | null)[]>(() =>
@@ -257,8 +297,12 @@ export function SSSSolidQuiz({
       (acc, q, i) => acc + (answers[i] === q.correctIndex ? 1 : 0),
       0
     )
+    const sessionTitle =
+      subjectRanges.length > 1
+        ? `${examLabel} (${subjectRanges.map((r) => r.shortName).join(" • ")})`
+        : subject.name
     onComplete({
-      subject: subject.name,
+      subject: sessionTitle,
       topic: topicLabel,
       total: questions.length,
       correct,
@@ -266,7 +310,7 @@ export function SSSSolidQuiz({
       answers,
       mode: "exam",
     })
-  }, [questions, answers, subject.name, topicLabel, onComplete])
+  }, [questions, answers, subject.name, subjectRanges, examLabel, topicLabel, onComplete])
 
   // Auto-submit when time runs out
   useEffect(() => {
@@ -278,7 +322,7 @@ export function SSSSolidQuiz({
       <div className="min-h-full flex flex-col items-center justify-center px-8 text-center">
         <div className="w-8 h-8 rounded-full border-2 border-primary border-t-transparent animate-spin mb-4" />
         <p className="text-sm font-medium text-muted-foreground">
-          Loading {subject.name} questions...
+          Loading {effectiveSubjects.length > 1 ? `${examLabel} (${effectiveSubjects.length} subjects)` : subject.name} questions...
         </p>
       </div>
     )
@@ -324,6 +368,13 @@ export function SSSSolidQuiz({
   const secs = timeLeft % 60
   const isLowTime = timeLeft < 300
   const answeredCount = answers.filter((a) => a !== null).length
+  const isMultiSubject = subjectRanges.length > 1
+  const activeRange = isMultiSubject
+    ? subjectRanges.find(
+        (r) => currentIdx >= r.startIndex && currentIdx < r.startIndex + r.count
+      ) || subjectRanges[0]
+    : null
+  const activeSubjectInfo = getSSSSubjectByKey((q.subject as SSSSubjectKey) || subjectKey)
 
   return (
     <div className="flex flex-col min-h-full pb-10">
@@ -332,23 +383,23 @@ export function SSSSolidQuiz({
       )}
       {/* Sticky Header */}
       <div className="sticky top-0 z-30 glass-strong">
-        <div className="flex items-center justify-between px-5 pt-12 lg:pt-6 pb-3 max-w-2xl mx-auto w-full">
+        <div className="flex items-center justify-between gap-2 px-5 pt-12 lg:pt-6 pb-3 max-w-2xl mx-auto w-full">
           <button
             onClick={onBack}
-            className="w-10 h-10 rounded-xl glass flex items-center justify-center"
+            className="w-10 h-10 rounded-xl glass flex items-center justify-center shrink-0"
           >
             <ArrowLeft className="w-5 h-5 text-muted-foreground" />
           </button>
-          <div className="text-center">
-            <p className="text-xs text-muted-foreground">
-              {subject.name} • {examLabel} {paperLabel}
+          <div className="text-center min-w-0 flex-1 px-1">
+            <p className="text-xs text-muted-foreground truncate">
+              {activeSubjectInfo.name} • {examLabel} {paperLabel}
             </p>
             <p className="text-sm font-semibold text-foreground">
               Q {currentIdx + 1}/{questions.length}
             </p>
           </div>
           <div
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-medium transition-colors ${
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg font-medium transition-colors shrink-0 ${
               isLowTime
                 ? "bg-red-500 text-white shadow-[0_0_15px_rgba(239,68,68,0.4)] animate-pulse"
                 : "bg-emerald-500 text-white shadow-[0_0_15px_rgba(16,185,129,0.2)]"
@@ -360,21 +411,63 @@ export function SSSSolidQuiz({
             </span>
           </div>
         </div>
-        {/* Progress dots */}
+
+        {/* JAMB 4-subject tabs */}
+        {isMultiSubject && (
+          <div className="px-5 pb-2.5 flex gap-1.5 overflow-x-auto glass-scrollbar max-w-2xl mx-auto w-full">
+            {subjectRanges.map((range) => {
+              const isTabActive = activeRange?.key === range.key
+              const tabAnswered = answers
+                .slice(range.startIndex, range.startIndex + range.count)
+                .filter((a) => a !== null).length
+              return (
+                <button
+                  key={range.key}
+                  type="button"
+                  onClick={() => setCurrentIdx(range.startIndex)}
+                  className={`px-3 py-1.5 rounded-xl text-xs font-bold shrink-0 flex items-center gap-1.5 transition-all cursor-pointer ${
+                    isTabActive
+                      ? "bg-primary text-primary-foreground shadow-sm"
+                      : "glass text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <span>{range.shortName}</span>
+                  <span
+                    className={`text-[10px] px-1.5 py-0.5 rounded-md ${
+                      isTabActive
+                        ? "bg-white/20 text-primary-foreground"
+                        : "bg-foreground/5 text-muted-foreground"
+                    }`}
+                  >
+                    {tabAnswered}/{range.count}
+                  </span>
+                </button>
+              )
+            })}
+          </div>
+        )}
+
+        {/* Progress dots (scoped per subject tab in JAMB 4-subject mode) */}
         <div className="px-5 pb-3 flex gap-0.5 overflow-x-auto glass-scrollbar max-w-2xl mx-auto w-full">
-          {questions.map((_, i) => (
+          {(activeRange
+            ? Array.from({ length: activeRange.count }, (_, localIdx) => ({
+                globalIdx: activeRange.startIndex + localIdx,
+                label: localIdx + 1,
+              }))
+            : questions.map((_, i) => ({ globalIdx: i, label: i + 1 }))
+          ).map(({ globalIdx, label }) => (
             <button
-              key={i}
-              onClick={() => setCurrentIdx(i)}
+              key={globalIdx}
+              onClick={() => setCurrentIdx(globalIdx)}
               className={`w-6 h-6 rounded text-[10px] font-bold shrink-0 transition-all ${
-                i === currentIdx
+                globalIdx === currentIdx
                   ? "bg-primary text-primary-foreground"
-                  : answers[i] !== null
+                  : answers[globalIdx] !== null
                     ? "bg-emerald-500/30 text-emerald-300"
                     : "glass text-muted-foreground"
               }`}
             >
-              {i + 1}
+              {label}
             </button>
           ))}
         </div>
@@ -411,7 +504,7 @@ export function SSSSolidQuiz({
             >
               {String.fromCharCode(65 + idx)}
             </span>
-            <MathText text={opt} className="text-sm text-foreground text-left flex-1" />
+            <MathText text={opt} className="text-sm text-foreground text-left flex-1 min-w-0" />
           </button>
         ))}
       </div>

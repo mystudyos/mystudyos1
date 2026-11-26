@@ -28,7 +28,7 @@ export function QuestionCountPicker({ subjectKey, subjectLabel, counts, onSelect
             <ArrowLeft className="w-5 h-5 text-muted-foreground" />
           </button>
           <div>
-            <p className="text-xs text-muted-foreground">{displaySubjectName} Exam Practice</p>
+            <p className="text-xs text-muted-foreground">{displaySubjectName}</p>
             <h1 className="text-lg font-bold text-foreground">Select Exam Length</h1>
           </div>
         </div>
@@ -60,7 +60,7 @@ export function QuestionCountPicker({ subjectKey, subjectLabel, counts, onSelect
           <CheckCircle2 className="w-6 h-6 text-primary" />
         </div>
         <p className="text-sm text-muted-foreground leading-relaxed">
-          Choose a length that fits your study time. Each question is timed at 1 minute per question for the best exam preparation.
+          Pick a length that fits your study time. Each question has a 1-minute limit for optimal exam prep.
         </p>
       </div>
     </div>
