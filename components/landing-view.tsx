@@ -440,7 +440,7 @@ export function LandingView({
                 Supported Examination Bodies
               </p>
               <h3 className="text-lg sm:text-xl font-bold text-slate-900">
-                Built for Major Nigerian &amp; West African Exams
+                Built for Nigerian &amp; West African exams
               </h3>
             </div>
 

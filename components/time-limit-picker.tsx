@@ -9,6 +9,9 @@ interface TimeLimitPickerProps {
   questionCount: number
 }
 
+const MIN_CUSTOM_MINUTES = 1
+const MAX_CUSTOM_MINUTES = 130
+
 const SUGGESTED_TIMES = [
   { label: "15 min", value: 15 },
   { label: "30 min", value: 30 },
@@ -19,7 +22,31 @@ const SUGGESTED_TIMES = [
 ]
 
 export function TimeLimitPicker({ onSelect, onBack, questionCount }: TimeLimitPickerProps) {
-  const [customMinutes, setCustomMinutes] = useState<number>(questionCount) // Default to 1 min per question
+  const defaultCustomMinutes = Math.min(
+    MAX_CUSTOM_MINUTES,
+    Math.max(MIN_CUSTOM_MINUTES, questionCount || MIN_CUSTOM_MINUTES)
+  )
+  const [customMinutesInput, setCustomMinutesInput] = useState<string>(String(defaultCustomMinutes))
+
+  const trimmedInput = customMinutesInput.trim()
+  const parsedMinutes = /^\d+$/.test(trimmedInput)
+    ? Number.parseInt(trimmedInput, 10)
+    : Number.NaN
+  const isCustomValid =
+    Number.isInteger(parsedMinutes) &&
+    parsedMinutes >= MIN_CUSTOM_MINUTES &&
+    parsedMinutes <= MAX_CUSTOM_MINUTES
+
+  let validationError: string | null = null
+  if (!isCustomValid) {
+    if (Number.isFinite(parsedMinutes) && parsedMinutes > MAX_CUSTOM_MINUTES) {
+      validationError = `Maximum custom time limit is ${MAX_CUSTOM_MINUTES} mins.`
+    } else if (Number.isFinite(parsedMinutes) && parsedMinutes < MIN_CUSTOM_MINUTES) {
+      validationError = `Minimum custom time limit is ${MIN_CUSTOM_MINUTES} min.`
+    } else {
+      validationError = `Enter a whole number between ${MIN_CUSTOM_MINUTES} and ${MAX_CUSTOM_MINUTES} mins.`
+    }
+  }
 
   return (
     <div className="min-h-full flex flex-col animate-in fade-in slide-in-from-bottom-4 duration-500 pb-10">
@@ -75,18 +102,43 @@ export function TimeLimitPicker({ onSelect, onBack, questionCount }: TimeLimitPi
           
           <div className="glass rounded-4xl p-8 border border-white/5 flex flex-col items-center gap-6">
              <div className="flex items-end gap-3">
-                <input 
+                <input
                   type="number"
-                  value={customMinutes}
-                  onChange={(e) => setCustomMinutes(Math.max(1, parseInt(e.target.value) || 1))}
-                  className="w-24 bg-transparent text-4xl font-bold text-center border-b-2 border-primary/20 focus:border-primary focus:outline-none transition-colors"
+                  min={MIN_CUSTOM_MINUTES}
+                  max={MAX_CUSTOM_MINUTES}
+                  inputMode="numeric"
+                  aria-label="Custom time limit in minutes"
+                  aria-invalid={!isCustomValid}
+                  value={customMinutesInput}
+                  onChange={(e) => setCustomMinutesInput(e.target.value)}
+                  className={`w-36 bg-transparent text-4xl font-bold text-center border-b-2 focus:outline-none transition-colors ${
+                    isCustomValid
+                      ? "border-primary/20 focus:border-primary"
+                      : "border-red-500 focus:border-red-500 text-red-500"
+                  }`}
                 />
                 <span className="text-2xl font-semibold text-muted-foreground mb-2">min</span>
              </div>
-             
+
+             {validationError ? (
+               <p role="alert" className="text-xs font-medium text-red-500 text-center -mt-2">
+                 {validationError}
+               </p>
+             ) : (
+               <p className="text-xs text-muted-foreground text-center -mt-2">
+                 Allowed range: {MIN_CUSTOM_MINUTES}–{MAX_CUSTOM_MINUTES} mins
+               </p>
+             )}
+
              <button
-              onClick={() => onSelect(customMinutes)}
-              className="w-full py-4 rounded-2xl bg-primary text-primary-foreground uppercase font-bold text-sm shadow-lg shadow-primary/25 hover:scale-[1.02] active:scale-95 transition-all"
+              type="button"
+              disabled={!isCustomValid}
+              onClick={() => {
+                if (isCustomValid) {
+                  onSelect(parsedMinutes)
+                }
+              }}
+              className="w-full py-4 rounded-2xl bg-primary text-primary-foreground uppercase font-bold text-sm shadow-lg shadow-primary/25 hover:scale-[1.02] active:scale-95 disabled:opacity-45 disabled:cursor-not-allowed disabled:hover:scale-100 disabled:active:scale-100 transition-all cursor-pointer"
              >
                Start Practice
              </button>

@@ -123,12 +123,16 @@ const WAEC_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
 
 const JAMB_JSON_POOLS: Partial<Record<SSSSubjectKey, JsonPoolLoader>> = {
   accounting: () => import("../Json/JAMB/Accounting.json") as Promise<{ default: RawJsonQuestion[] }>,
+  agriculture: () => import("../Json/JAMB/Agriculture.json") as Promise<{ default: RawJsonQuestion[] }>,
   biology: () => import("../Json/JAMB/Biology.json") as Promise<{ default: RawJsonQuestion[] }>,
   chemistry: () => import("../Json/JAMB/Chemistry.json") as Promise<{ default: RawJsonQuestion[] }>,
+  commerce: () => import("../Json/JAMB/Commerce.json") as Promise<{ default: RawJsonQuestion[] }>,
   crk: () => import("../Json/JAMB/Crs.json") as Promise<{ default: RawJsonQuestion[] }>,
+  economics: () => import("../Json/JAMB/Economics.json") as Promise<{ default: RawJsonQuestion[] }>,
   english: () => import("../Json/JAMB/English.json") as Promise<{ default: RawJsonQuestion[] }>,
   englishlit: () => import("../Json/JAMB/Literature.json") as Promise<{ default: RawJsonQuestion[] }>,
   geography: () => import("../Json/JAMB/Geography.json") as Promise<{ default: RawJsonQuestion[] }>,
+  government: () => import("../Json/JAMB/Government.json") as Promise<{ default: RawJsonQuestion[] }>,
   irk: () => import("../Json/JAMB/Islamic.json") as Promise<{ default: RawJsonQuestion[] }>,
   mathematics: () => import("../Json/JAMB/Mathematics.json") as Promise<{ default: RawJsonQuestion[] }>,
   physics: () => import("../Json/JAMB/Physics.json") as Promise<{ default: RawJsonQuestion[] }>,
